@@ -1,0 +1,19 @@
+---
+title: Champion of Slaughter
+obsidianUIMode: preview
+cssclasses:
+- json5e-reward
+tags:
+- ttrpg-cli/compendium/src/5e/mot
+- ttrpg-cli/reward/piety-trait
+aliases:
+- Champion of Slaughter
+---
+# Champion of Slaughter
+*Piety Trait*  
+
+*Piety 50+ Mogis trait*
+
+You can increase your Strength or Constitution score by 2 and also increase your maximum for that score by 2.
+
+*Source: Mythic Odysseys of Theros p. 64*

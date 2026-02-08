@@ -1,0 +1,20 @@
+---
+title: Charlatan
+obsidianUIMode: preview
+cssclasses: json5e-background
+tags:
+- ttrpg-cli/background
+- ttrpg-cli/compendium/src/5e/xphb
+aliases: ["Charlatan"]
+---
+# Charlatan
+*Source: Player's Handbook (2024) p. 180*  
+![](Compendium/backgrounds/img/charlatan.webp#right)
+
+- **Ability Scores.** Dexterity, Constitution, Charisma  
+- **Feat.** [Skilled](Compendium/feats/skilled-xphb.md)  
+- **Skill Proficiencies.** [Deception](Compendium/rules/skills.md#Deception), [Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)  
+- **Tool Proficiency.** [Forgery Kit](Compendium/items/forgery-kit-xphb.md)  
+- **Equipment.** Choose A or B: (A) [Forgery Kit](Compendium/items/forgery-kit-xphb.md), [Costume](Compendium/items/costume-xphb.md), [Fine Clothes](Compendium/items/fine-clothes-xphb.md), 15 GP; or (B) 50 GP  
+
+Once you were old enough to order an ale, you soon had a favorite stool in every tavern within ten miles of where you were born. As you traveled the circuit from public house to watering hole, you learned to prey on unfortunates who were in the market for a comforting lie or two—perhaps a sham potion or forged ancestry records.

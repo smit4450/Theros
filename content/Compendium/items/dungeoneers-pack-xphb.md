@@ -1,0 +1,21 @@
+---
+title: "Dungeoneer's Pack"
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases: 
+- "Dungeoneer's Pack"
+---
+# Dungeoneer's Pack
+*Adventuring gear*  
+
+
+- **Cost**: 12 gp
+- **Weight**: 55.0 lbs.
+
+A Dungeoneer's Pack contains the following items: [Backpack](Compendium/items/backpack-xphb.md), [Caltrops](Compendium/items/caltrops-xphb.md), [Crowbar](Compendium/items/crowbar-xphb.md), 2 flasks of [Oil](Compendium/items/oil-xphb.md), 10 days of [Rations](Compendium/items/rations-xphb.md), [Rope](Compendium/items/rope-xphb.md), [Tinderbox](Compendium/items/tinderbox-xphb.md), 10 [Torches](Compendium/items/torch-xphb.md), and [Waterskin](Compendium/items/waterskin-xphb.md).
+
+*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
