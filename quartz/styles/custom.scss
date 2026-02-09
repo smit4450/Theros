@@ -1,3 +1,145 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* ── Local Font Faces ── */
+
+/* Main body font (serif) - BookInsanityRemake */
+@font-face {
+  font-family: "BookInsanityRemake";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/static/fonts/Bookinsanity.woff2") format("woff2");
+}
+@font-face {
+  font-family: "BookInsanityRemake";
+  font-style: normal;
+  font-weight: bold;
+  src: url("/static/fonts/Bookinsanity Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "BookInsanityRemake";
+  font-style: italic;
+  font-weight: normal;
+  src: url("/static/fonts/Bookinsanity Italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "BookInsanityRemake";
+  font-style: italic;
+  font-weight: bold;
+  src: url("/static/fonts/Bookinsanity Bold Italic.woff2") format("woff2");
+}
+
+/* Notes and Tables (sans-serif) - ScalySansRemake */
+@font-face {
+  font-family: "ScalySansRemake";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/static/fonts/Scaly Sans.woff2") format("woff2");
+}
+@font-face {
+  font-family: "ScalySansRemake";
+  font-style: normal;
+  font-weight: bold;
+  src: url("/static/fonts/Scaly Sans Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "ScalySansRemake";
+  font-style: italic;
+  font-weight: normal;
+  src: url("/static/fonts/Scaly Sans Italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "ScalySansRemake";
+  font-style: italic;
+  font-weight: bold;
+  src: url("/static/fonts/Scaly Sans Bold Italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "ScalySansSmallCapsRemake";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/static/fonts/Scaly Sans Caps.woff2") format("woff2");
+}
+
+/* Headers - MrEavesRemake */
+@font-face {
+  font-family: "MrEavesRemake";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/static/fonts/Mr Eaves Small Caps.woff2") format("woff2");
+}
+
+/* Fancy Drop Cap */
+@font-face {
+  font-family: "SolberaImitationRemake";
+  font-style: italic;
+  font-weight: 100 1000;
+  src: url("/static/fonts/Solbera Imitation Tweak.woff2") format("woff2");
+}
+
+/* Cover Page - NodestoCapsCondensed */
+@font-face {
+  font-family: "NodestoCapsCondensed";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/static/fonts/Nodesto Caps Condensed.woff2") format("woff2");
+}
+@font-face {
+  font-family: "NodestoCapsCondensed";
+  font-style: normal;
+  font-weight: bold;
+  src: url("/static/fonts/Nodesto Caps Condensed Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "NodestoCapsCondensed";
+  font-style: italic;
+  font-weight: normal;
+  src: url("/static/fonts/Nodesto Caps Condensed Italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "NodestoCapsCondensed";
+  font-style: italic;
+  font-weight: bold;
+  src: url("/static/fonts/Nodesto Caps Condensed Bold Italic.woff2") format("woff2");
+}
+
+/* Cover Page - NodestoCapsWide */
+@font-face {
+  font-family: "NodestoCapsWide";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/static/fonts/Nodesto Caps Wide.woff2") format("woff2");
+}
+
+/* Misc */
+@font-face {
+  font-family: "WalterTurncoat";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/static/fonts/WalterTurncoat-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/static/fonts/Overpass Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Davek";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/static/fonts/Davek.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iokharic";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/static/fonts/Iokharic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Rellanic";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/static/fonts/Rellanic.woff2") format("woff2");
+}
