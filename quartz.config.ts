@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "smit4450.github.io/Theros",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Compendium"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "local",
@@ -27,13 +27,13 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
+          light: "#eee5ce",
+          lightgray: "#c0ad6a",
           gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          darkgray: "#000000",
+          dark: "#58180D",
+          secondary: "#1d5c73",
+          tertiary: "#846c5b",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
