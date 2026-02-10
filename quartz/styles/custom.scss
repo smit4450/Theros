@@ -143,3 +143,19 @@
   font-weight: 500;
   src: url("/static/fonts/Rellanic.woff2") format("woff2");
 }
+
+/* ── Background Images ── */
+
+/* Light mode background */
+body {
+  background-image: url("/static/backgrounds/light-background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/* Dark mode background */
+:root[saved-theme="dark"] body {
+  background-image: url("/static/backgrounds/dark-background.jpg");
+}
