@@ -1,0 +1,325 @@
+/* ============================================================
+   Fantasy Statblocks for Quartz
+   Replicates the look from the Obsidian Fantasy Statblocks plugin
+   (Basic 5e Layout).
+   NOTE: All CSS string values use SINGLE quotes to avoid
+   Preact JSX SSR escaping double quotes to &amp;quot; when
+   injecting inline <style> blocks.
+   ============================================================ */
+
+/* ---------- CSS Custom Properties (Theme) ---------- */
+
+.fantasy-statblock-container {
+  --statblock-primary-color: #7a200d;
+  --statblock-rule-color: #922610;
+  --statblock-background-color: #fdf1dc;
+  --statblock-bar-color: #e69a28;
+  --statblock-bar-border-size: 1px;
+  --statblock-bar-border-color: #000;
+  --statblock-border-size: 1px;
+  --statblock-border-color: #ddd;
+  --statblock-box-shadow-color: #ddd;
+  --statblock-box-shadow-blur: 1.5em;
+  --statblock-font-color: var(--statblock-primary-color);
+  --statblock-font-weight: 700;
+  --statblock-content-font: 'Noto Sans', 'Myriad Pro', Calibri, Helvetica, Arial,
+    sans-serif;
+  --statblock-content-font-size: 14px;
+  --statblock-heading-font: 'Libre Baskerville', 'Lora', 'Calisto MT',
+    'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text',
+    'Bitstream Charter', Georgia, serif;
+  --statblock-heading-font-color: var(--statblock-font-color);
+  --statblock-heading-font-size: 23px;
+  --statblock-heading-font-variant: small-caps;
+  --statblock-heading-font-weight: var(--statblock-font-weight);
+  --statblock-property-line-height: 1.4;
+  --statblock-property-font-color: var(--statblock-font-color);
+  --statblock-property-name-font-color: var(--statblock-font-color);
+  --statblock-property-name-font-weight: bold;
+  --statblock-section-heading-border-size: 1px;
+  --statblock-section-heading-border-color: var(--statblock-primary-color);
+  --statblock-section-heading-font-color: var(--statblock-font-color);
+  --statblock-section-heading-font-size: 21px;
+  --statblock-section-heading-font-variant: small-caps;
+  --statblock-section-heading-font-weight: normal;
+  --statblock-saves-line-height: 1.4;
+  --statblock-spells-font-style: italic;
+  --statblock-subheading-font-size: 12px;
+  --statblock-subheading-font-style: italic;
+  --statblock-subheading-font-weight: normal;
+  --statblock-table-header-font-weight: bold;
+  --statblock-traits-font-weight: bold;
+  --statblock-traits-font-style: italic;
+  --statblock-image-width: 75px;
+  --statblock-image-height: 75px;
+  --statblock-image-border-size: 2px;
+  --statblock-image-border-color: var(--statblock-primary-color);
+  --statblock-column-width: 400px;
+}
+
+/* ---------- Outer Container ---------- */
+
+.fantasy-statblock-container {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0.5rem 0;
+}
+
+.statblock {
+  margin: 0 auto;
+  position: relative;
+  width: max-content;
+  max-width: 100%;
+}
+
+/* ---------- Bar ---------- */
+
+.statblock > .bar {
+  height: 5px;
+  background: var(--statblock-bar-color);
+  border: var(--statblock-bar-border-size) solid var(--statblock-bar-border-color);
+}
+
+/* ---------- Content Area ---------- */
+
+.statblock-content {
+  font-family: var(--statblock-content-font);
+  font-size: var(--statblock-content-font-size);
+  color: var(--statblock-font-color);
+  background-color: var(--statblock-background-color);
+  padding: 0.6em;
+  border: var(--statblock-border-size) solid var(--statblock-border-color);
+  box-shadow: 0 0 var(--statblock-box-shadow-blur) var(--statblock-box-shadow-color);
+  display: flex;
+  gap: 1rem;
+}
+
+.statblock-content .column {
+  width: var(--statblock-column-width);
+}
+
+/* ---------- Item Container ---------- */
+
+.statblock-item-container {
+  margin-bottom: 0.25rem;
+}
+
+/* ---------- Tapered Rule ---------- */
+
+.tapered-rule {
+  height: 5px;
+  margin: 0.5em 0;
+  background: linear-gradient(
+    90deg,
+    var(--statblock-rule-color),
+    var(--statblock-background-color)
+  );
+  clip-path: polygon(0 0, 0 100%, 100% 50%);
+}
+
+/* ---------- Heading ---------- */
+
+.statblock .heading {
+  font-family: var(--statblock-heading-font);
+  color: var(--statblock-heading-font-color);
+  font-weight: var(--statblock-heading-font-weight);
+  font-variant: var(--statblock-heading-font-variant);
+  font-size: var(--statblock-heading-font-size);
+  margin: 0;
+  padding: 0;
+  letter-spacing: 1px;
+  display: flex;
+  line-height: 1.2em;
+}
+
+/* ---------- Subheading ---------- */
+
+.statblock .subheading {
+  font-size: var(--statblock-subheading-font-size);
+  font-style: var(--statblock-subheading-font-style);
+  font-weight: var(--statblock-subheading-font-weight);
+  margin: 0;
+  padding: 0;
+}
+
+/* ---------- Property Line ---------- */
+
+.statblock .property-line {
+  line-height: var(--statblock-property-line-height);
+  color: var(--statblock-property-font-color);
+}
+
+.statblock .property-line .property-name {
+  display: inline;
+  margin-right: 0.25em;
+  font-weight: var(--statblock-property-name-font-weight);
+  color: var(--statblock-property-name-font-color);
+}
+
+.statblock .property-line .property-text {
+  display: inline;
+}
+
+/* ---------- Ability Table ---------- */
+
+.statblock .ability-table {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.statblock .ability-table .ability-item {
+  text-align: center;
+  min-width: 50px;
+}
+
+.statblock .ability-table .ability-item .ability-heading {
+  font-weight: var(--statblock-table-header-font-weight);
+  display: block;
+}
+
+.statblock .ability-table .ability-item .ability-score {
+  display: block;
+}
+
+.statblock .ability-table .ability-item .ability-modifier {
+  display: inline;
+}
+
+/* ---------- Saves / Skills ---------- */
+
+.statblock .saves-line {
+  line-height: var(--statblock-saves-line-height);
+  color: var(--statblock-property-font-color);
+}
+
+.statblock .saves-line .property-name {
+  display: inline;
+  margin-right: 0.25em;
+  font-weight: var(--statblock-property-name-font-weight);
+  color: var(--statblock-property-name-font-color);
+}
+
+.statblock .saves-line .save-entry {
+  display: inline;
+}
+
+.statblock .saves-line .save-name {
+  display: inline;
+  text-transform: capitalize;
+}
+
+.statblock .saves-line .save-value {
+  display: inline;
+}
+
+/* ---------- Section Heading ---------- */
+
+.statblock .section-heading {
+  font-family: var(--statblock-heading-font);
+  color: var(--statblock-section-heading-font-color);
+  font-size: var(--statblock-section-heading-font-size);
+  font-variant: var(--statblock-section-heading-font-variant);
+  font-weight: var(--statblock-section-heading-font-weight);
+  border-bottom: var(--statblock-section-heading-border-size) solid
+    var(--statblock-section-heading-border-color);
+  margin: 0.4em 0 0.2em;
+  padding: 0;
+}
+
+/* ---------- Traits ---------- */
+
+.statblock .trait-item {
+  line-height: var(--statblock-property-line-height);
+  color: var(--statblock-property-font-color);
+  margin-bottom: 0.3em;
+}
+
+.statblock .trait-item .trait-name {
+  display: inline;
+  font-weight: var(--statblock-traits-font-weight);
+  font-style: var(--statblock-traits-font-style);
+  margin-right: 0.25em;
+}
+
+.statblock .trait-item .trait-desc {
+  display: inline;
+}
+
+/* ---------- Spells ---------- */
+
+.statblock .spells-container {
+  line-height: var(--statblock-property-line-height);
+  color: var(--statblock-property-font-color);
+}
+
+.statblock .spells-container .spell-header {
+  font-style: var(--statblock-spells-font-style);
+  margin-bottom: 0.2em;
+}
+
+.statblock .spells-container .spell-level {
+  display: block;
+  margin-bottom: 0.1em;
+}
+
+.statblock .spells-container .spell-level .spell-level-name {
+  font-style: var(--statblock-spells-font-style);
+}
+
+/* ---------- Image ---------- */
+
+.statblock .statblock-image {
+  text-align: center;
+  margin-bottom: 0.25em;
+}
+
+.statblock .statblock-image img {
+  width: var(--statblock-image-width);
+  height: var(--statblock-image-height);
+  border-radius: 100%;
+  object-fit: cover;
+  border: var(--statblock-image-border-size) solid var(--statblock-image-border-color);
+}
+
+/* ---------- Inline Group ---------- */
+
+.statblock .inline-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+/* ---------- CR / Proficiency Inline ---------- */
+
+.statblock .cr-proficiency {
+  display: flex;
+  justify-content: flex-start;
+  gap: 2em;
+}
+
+/* ---------- Dark mode overrides ---------- */
+
+[saved-theme='dark'] .fantasy-statblock-container,
+.dark .fantasy-statblock-container {
+  --statblock-primary-color: #b45a3c;
+  --statblock-rule-color: #c96a40;
+  --statblock-background-color: #2b2520;
+  --statblock-bar-color: #c48a28;
+  --statblock-bar-border-color: #555;
+  --statblock-border-color: #444;
+  --statblock-box-shadow-color: #111;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 600px) {
+  .fantasy-statblock-container {
+    --statblock-column-width: 100%;
+  }
+
+  .statblock-content {
+    flex-direction: column;
+  }
+}
