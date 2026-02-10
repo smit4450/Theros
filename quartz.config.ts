@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "smit4450.github.io/Theros",
-    ignorePatterns: ["private", "templates", ".obsidian", "Compendium"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "local",
