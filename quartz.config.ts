@@ -12,11 +12,9 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "smit4450.github.io/Theros",
     ignorePatterns: ["private", "templates", ".obsidian", "Compendium"],
     defaultDateType: "modified",
     theme: {
