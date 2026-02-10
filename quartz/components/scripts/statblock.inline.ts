@@ -26,11 +26,17 @@ function parseStatblockYaml(src: string): Record<string, any> {
   function parsePrimitive(val: string): any {
     // Handle !!int tag
     val = val.replace(/^!!int\s+/, "")
-    // Remove surrounding quotes
-    if (
-      (val.startsWith('"') && val.endsWith('"')) ||
-      (val.startsWith("'") && val.endsWith("'"))
-    ) {
+    // Remove surrounding quotes and unescape
+    if (val.startsWith('"') && val.endsWith('"')) {
+      val = val.slice(1, -1)
+      // Unescape common YAML/JSON escape sequences in double-quoted strings
+      val = val.replace(/\\n/g, "\n")
+      val = val.replace(/\\t/g, "\t")
+      val = val.replace(/\\\\/g, "\\")
+      val = val.replace(/\\"/g, '"')
+      return val
+    }
+    if (val.startsWith("'") && val.endsWith("'")) {
       return val.slice(1, -1)
     }
     if (val === "true") return true
@@ -547,6 +553,9 @@ function renderText(text: string | number | null | undefined): string {
   // Convert markdown italic: *text* or _text_
   s = s.replace(/\*(.+?)\*/g, "<i>$1</i>")
   s = s.replace(/(?<![a-zA-Z0-9])_(.+?)_(?![a-zA-Z0-9])/g, "<i>$1</i>")
+  // Convert literal newlines to <br> for paragraph breaks
+  s = s.replace(/\n\n/g, "<br><br>")
+  s = s.replace(/\n/g, "<br>")
   return s
 }
 
@@ -770,12 +779,21 @@ function renderSaves(label: string, saves: any[]): string {
   for (let idx = 0; idx < saves.length; idx++) {
     const entry = saves[idx]
     if (typeof entry === "object" && entry !== null) {
-      for (const [name, value] of Object.entries(entry)) {
-        const sign = Number(value) >= 0 ? "+" : ""
+      // Check if this is a trait-style entry {name: "Arcana", desc: "+6"}
+      if ("name" in entry && "desc" in entry) {
         const comma = entries.length > 0 ? ", " : ""
         entries.push(
-          `${comma}<span class="save-entry"><span class="save-name">${escapeHtml(name)}</span> <span class="save-value">${escapeHtml(sign + String(value))}</span></span>`,
+          `${comma}<span class="save-entry"><span class="save-name">${renderText(entry.name)}</span> <span class="save-value">${renderText(entry.desc)}</span></span>`,
         )
+      } else {
+        // Standard format {arcana: 6}
+        for (const [name, value] of Object.entries(entry)) {
+          const sign = Number(value) >= 0 ? "+" : ""
+          const comma = entries.length > 0 ? ", " : ""
+          entries.push(
+            `${comma}<span class="save-entry"><span class="save-name">${escapeHtml(name)}</span> <span class="save-value">${escapeHtml(sign + String(value))}</span></span>`,
+          )
+        }
       }
     }
   }
