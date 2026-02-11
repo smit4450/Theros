@@ -7,7 +7,7 @@ import { ProcessedContent, QuartzPluginData, defaultProcessedContent } from "../
 import { FullPageLayout } from "../../cfg"
 import { FullSlug, getAllSegmentPrefixes, joinSegments, pathToRoot } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
-import { TagContent } from "../../components"
+import { TagContentCustom } from "../../components"
 import { write } from "./helpers"
 import { i18n, TRANSLATIONS } from "../../i18n"
 import { BuildCtx } from "../../util/ctx"
@@ -97,7 +97,7 @@ export const TagPage: QuartzEmitterPlugin<Partial<TagPageOptions>> = (userOpts) 
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
-    pageBody: TagContent({ sort: userOpts?.sort }),
+    pageBody: TagContentCustom({ sort: userOpts?.sort }),
     ...userOpts,
   }
 
