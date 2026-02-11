@@ -4,8 +4,15 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
+
+# Ignore volatile UI-related state and temporary files
+# content/.obsidian/workspace.json
+# content/.obsidian/app.json
+# content/.obsidian/workspaces.json
+# content/.obsidian/workspaces-mobile.json
+# content/.obsidian/cache/
+# content/.obsidian/plugins/

@@ -1,0 +1,19 @@
+{
+  "saveWindowLocations": true,
+  "useCustomWindowName": false,
+  "customWindowName": "Second Window",
+  "windows": {
+    "Second Window": {
+      "hosts": {
+        "Harrisons-PC": {
+          "x": 482,
+          "y": 307,
+          "width": 1024,
+          "height": 800,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}

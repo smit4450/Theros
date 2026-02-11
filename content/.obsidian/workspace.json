@@ -1,0 +1,346 @@
+{
+  "main": {
+    "id": "cfa2281929d0aa16",
+    "type": "split",
+    "children": [
+      {
+        "id": "3406cf1cd5864d87",
+        "type": "split",
+        "children": [
+          {
+            "id": "02a8874d9edfd802",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3edb79d2216e29f8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Compendium/spells/alter-self-xphb.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "alter-self-xphb"
+                },
+                "group": "ec59e1efbfc50f29"
+              }
+            ]
+          },
+          {
+            "id": "eaf59d61732fe041",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "58e85dd71ac34169",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Compendium/spells/alter-self-xphb.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for alter-self-xphb"
+                },
+                "group": "ec59e1efbfc50f29"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b431ff13eec414b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dea30b006509d83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b74a3a1f4b57ccef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d37e9b3b4f8e89db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Vindheim",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb905626b03b77ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5
+  },
+  "right": {
+    "id": "5493c457f27fe363",
+    "type": "split",
+    "children": [
+      {
+        "id": "896aef58b1cf6501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee3e43a74bf88ab0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d881e2eecd3774ed",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "57679822267ec9ac",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "0363d2a3e9bb2e3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World Codex/Groups/The Horde.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Horde"
+            }
+          },
+          {
+            "id": "91e742f802eacac0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World Codex/Groups/The Horde.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Horde"
+            }
+          },
+          {
+            "id": "709ff9c68b4e0e38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ef5ca359b28bd55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World Codex/Groups/The Horde.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Horde"
+            }
+          },
+          {
+            "id": "67a3a7fdcba48ccc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "70c3e7a7d516f99f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "48060dd846d26de3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "e158d5bdba4e0451",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b8e9d6446c871088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "112e93774750140b",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "3edb79d2216e29f8",
+  "lastOpenFiles": [
+    "Compendium/spells/alarm-xphb.md",
+    "Compendium/spells/aid-xphb.md",
+    "Compendium/spells/acid-splash-xphb.md",
+    "Compendium/spells/animal-messenger-xphb.md",
+    "Compendium/spells/antipathy-sympathy-xphb.md",
+    "Compendium/spells/armor-of-agathys-xphb.md",
+    "Compendium/spells/aura-of-vitality-xphb.md",
+    "Compendium/spells/bestow-curse-xphb.md",
+    "Compendium/spells/blight-xphb.md",
+    "Compendium/spells/conjure-barrage-xphb.md",
+    "Compendium/spells/cone-of-cold-xphb.md",
+    "Compendium/spells/commune-xphb.md",
+    "Compendium/items/1-rod-of-the-pact-keeper-xdmg.md",
+    "Compendium/items/1-armor-xdmg.md",
+    "Compendium/items/1-ammunition-xdmg.md",
+    "Compendium/feats/ability-score-improvement-xphb.md",
+    "Compendium/feats/actor-xphb.md",
+    "Compendium/feats/alert-xphb.md",
+    "Compendium/feats/archery-xphb.md",
+    "Compendium/feats/athlete-xphb.md",
+    "Compendium/feats/blessed-warrior-xphb.md",
+    "Compendium/feats/boon-of-desperate-resilience-frhof.md",
+    "Compendium/feats/boon-of-exquisite-radiance-frhof.md",
+    "Compendium/feats/boon-of-communication-frhof.md",
+    "Compendium/feats/boon-of-bountiful-health-frhof.md",
+    "Utilities/spell-table.md",
+    "Utilities",
+    "Lore/Theros_ Beyond Death/Theros Beyond Death Trailer.mp4",
+    "Test/test2",
+    "Assets/WorldAxis.jpg",
+    "Assets/underdark.jpg",
+    "Assets/Giant_runes.jpg",
+    "Assets/GreatWheel.png",
+    "Assets/giants_scale.jpg",
+    "Assets/generic_landscape.jpg",
+    "Assets/Ankheg.png",
+    "Assets/Element Symbols/Air.png",
+    "World Codex 1/Species",
+    "World Codex 1/Individuals",
+    "World Codex 1/Misc",
+    "World Codex 1/History of the world",
+    "World Codex 1/Lore",
+    "World Codex 1/Groups",
+    "World Codex 1/Geography",
+    "DM Notes/Diagram.canvas",
+    "DM Notes/Planes.canvas",
+    "Assets/God Symbols/Myrk.png",
+    "Assets/God Symbols/Mab.png"
+  ]
+}
