@@ -1,0 +1,5920 @@
+=== PAGE 1 ===
+1
+
+
+=== PAGE 2 ===
+1
+THE GRAY MERCHANT OF ASPHODEL
+A
+hunched figure appears in the distance on a
+lonely road, gray ribbons of cloth fluttering
+around him like wisps from a wraith.
+Sunlight flickers off his mask and flashes a pattern
+your mind wants to interpret as some sort of
+distress signal, though you know it’s as
+meaningless as the tapping of a tree branch on
+your window.
+This gray creature is a Returned and you know
+they can be dangerous, but something about his
+gait, his slow speed, the bag he carries over his
+shoulder like a burden he can’t put down, tells
+you he is not a threat. He emanates the dull,
+aching sadness of one who has come to terms with
+loss. Sure enough, as he gets closer, you see the
+white petals of Asphodel pinned on his cloak.
+You've heard of him—the Gray Merchant, a
+wandering undead who trades with anyone, his
+existence permitted by gods and mortals due to
+the simple fact that he’s harmless. Asphodel is a
+necropolis for the undead who wish to live their
+second existence in peace, and while most don’t
+leave its bounds, this one chose a different path.
+His wares could be priceless or worthless—he
+doesn’t care. When you offer him a gift, you
+receive one in return. Curiosity overwhelms you,
+and you slow as he passes by with that giant worn
+bag over his shoulder. You may never get another
+chance to discover what he carries. Sensing your
+attention, he tilts his head and stops, that
+sorrowful golden mask beckoning you closer.
+A trail of gold coins marks where he has tread.
+They fall from a hole in his bag. You point at it
+and he repeats his inquiring head tilt. He doesn’t
+care, and based on his glittering wake, he has
+plenty of coins to lose. You wonder if this is all a
+dream.
+As you dig into your pockets for something
+worthless to trade, you feel guilty. Are you taking
+advantage of a lost soul? Will the gods punish you
+for disrespecting the dead? A Returned is a
+creature powerful enough to defy fate and return
+from the Underworld—is too good a deal perhaps
+a trap? Rather than “gift” him more coins that
+don’t even glitter, you find yourself reaching for a
+carving you've carried since you were a child. It’s
+a small thing you made with your own hands, but
+it’s precious to you and somehow that feels right.
+The Gray Merchant of Asphodel senses your
+intentions and begins drawing items from his bag.
+He unfurls the sash that was fluttering in the wind
+and lays it across the dusty ground so he may
+present the items unsullied. His movements are
+like clockwork, rigid but practiced, and soon there
+are seven artifacts before you. As you examine
+them, he raises a single finger: you may trade for
+only one.
+The objects vary in size and beauty and that
+intangible property of presence, but all of them
+have a story behind them, same as the carving you
+will soon trade away. Which will you choose, and
+what will it do?
+
+
+=== PAGE 3 ===
+2
+TABLE OF CONTENTS
+Introduction...........................3
+Chapter 1: Encountering The
+Gray Merchant......................4
+Number of Items for Trade ...4
+The Price of a Trade..............4
+Item Types.............................5
+Gray Merchant Coins............5
+Background Lore ..................5
+Stat Block and Combat .........6
+Chapter 2: The Gray
+Merchant’s Wares .................7
+Adventurer’s Podium............7
+Akroan Rocking Horse .........7
+Alseid’s Gift..........................7
+Anvilwrought Raptor ............7
+Archon Armor.......................9
+Archon Cape .........................9
+Arrowhead Shard ..................9
+Aspect Icons........................10
+Deer Icon.......................... 10
+Dolphin Icon .................... 10
+Donkey Icon..................... 10
+Dove Icon......................... 10
+Gorgon Icon ..................... 11
+Horse Icon........................ 11
+Hydra Icon ....................... 11
+Lamprey Icon .................. 11
+Manticore Icon................. 12
+Mongoose Icon................. 12
+Owl Icon........................... 12
+Peacock Icon.................... 12
+Pig Icon............................ 13
+Swan Icon......................... 13
+Tortoise Icon .................... 13
+Vulture Icon ..................... 13
+Wolf Icon ......................... 13
+Astral Cornucopia...............13
+Bident of Thassa’s
+Beloved ...............................14
+Bidet of Thassa ...................15
+Blade of Hubris...................15
+Bountiful Lekythos .............15
+Bow of Nylea’s Hunter .......15
+Callaphe’s Compass............16
+Cap of Authority .................17
+Chapparal Grass..................17
+Chorus Mask.......................17
+Clay Owl.............................17
+Conspirator’s Whistle .........18
+Crown of Atris.....................18
+Diary of Thrasios ................18
+Dragon Teeth.......................18
+Dust of Nyx.........................18
+Entrancing Lyre................... 19
+Euklisia of Ephara............... 19
+Flamecast Wheel................. 19
+Fleetfeather Sandals............ 19
+Flint of Phenax.................... 19
+Floating Driftwood.............. 20
+Fragment of Anger.............. 20
+Fragment of Joy .................. 20
+Fragment of Misera............. 20
+Fruit of Tizerus.................... 21
+Funerary Mask .................... 22
+Golden Funeral Mask of the
+Gray Merchant .................... 22
+Golden Funeral Mask of
+Asphodel ............................. 22
+Golden Funeral Mask of
+Odunos................................ 22
+Golden Funeral Masks of the
+Phalanx................................ 23
+Golden Funeral Mask of the
+Pseudamma ......................... 23
+Gray Merchant’s Gold Coin 23
+Hammer of the Forged of
+Purphoros............................ 24
+Heliod’s Glory..................... 25
+Iridescent Pearl Necklace.... 25
+Iroan Pledge ........................ 25
+Judgy Golden Apple............ 25
+Karametran Sickle............... 26
+Laurel Wreath...................... 26
+Leonin Hairbrush ................ 26
+Leonin Snare....................... 26
+Lightning Diadem............... 26
+Meletis Agora License ........ 27
+Mirror of Alirios.................. 27
+Mirror Shield....................... 27
+Nyx Lotus............................ 27
+Oreskos Heresy................... 28
+Pharika’s Cure..................... 28
+Pharika’s Libation Jar ......... 28
+Phoenix Feather .................. 28
+Potion of Paradox................ 28
+Prowler’s Helm ................... 28
+Pyxis of Pandemonium ....... 29
+Quill of Ephara.................... 29
+Ring of Anax....................... 29
+Ring of Cymede.................. 30
+Ring of Promised Reunion.. 30
+Rings of Kynaios and Tiro.. 31
+Rod of Gallia....................... 31
+Rod of Keranos ................... 31
+Sacrificial Knife .................. 32
+Satyr’s Piloi......................... 32
+Scarf of Athreos .................. 32
+Scrap of Epic Poetry ........... 33
+Setessan Joke Basket........... 33
+Setessan Lasso .................... 34
+Sigiled Starfish.................... 34
+Skein of Skophos ................ 34
+Sorrowful Lekythos ............ 35
+Soul-Guide Lantern............. 35
+Springleaf Drum.................. 35
+Staff of Athreos ................... 35
+Starlit Mantle ...................... 36
+Strand of Arasta................... 36
+Stubborn Boulder................ 37
+Sun Spear ............................ 37
+Tablet of Ostracism............. 39
+Telescope............................. 39
+Tendril of Arixmethes ......... 40
+Three-Headed Collar........... 40
+Traveler’s Amulet................ 41
+Trickster’s Coin................... 41
+Undying Asphodel .............. 41
+Vapors of the Oracle............ 41
+Vase of Tales ....................... 41
+Veil of Favor ....................... 42
+Warhorn of Mogis............... 42
+Whip of Erebos’Agent........ 42
+Wings of Hubris.................. 43
+Witches’ Eye ....................... 43
+Xebec of Kruphix................ 43
+Yoke of Careful
+Unburdening ....................... 44
+Zephyr Saddle..................... 44
+Chapter 3: Random Roll
+Tables.....................................45
+Gray Merchant Roll Tables. 45
+Roll Tables by Rarity .......... 46
+Random Reward Tables ...... 48
+Credits...................................52
+
+
+=== PAGE 4 ===
+3
+INTRODUCTION
+T
+his supplement introduces new loot inspired
+by the Theros blocks of Magic: The
+Gathering cards and Greek mythology. We
+can’t duplicate Magic art here, but when an item
+is inspired from a card, we provide a see card link.
+It also presents The Gray Merchant of Asphodel
+as a wandering trader and possible source of this
+loot. You may add him to random encounters
+tables or have him play a more predetermined role
+in your story.
+Chapter 1 of the supplement describes the Gray
+Merchant, his background, and his mechanics.
+Chapter 2 lists the new magic items he brings to
+the game while chapter 3 provides roll tables to
+determine what items he offers during an
+encounter.
+The mechanics in chapter 1 are an optional
+recommendation for implementing the Gray
+Merchant into your campaign as an exciting
+random encounter. You may incorporate the magic
+items from this supplement directly into your loot
+tables rather than distribute them via the Gray
+Merchant.
+ADDITIONAL REFERENCES
+This supplement references rules provided in the
+Player's Handbook (PHB), Monster Manual
+(MM) and the Dungeon Master's Guide (DMG).
+Magic items appear in italics and monsters in
+bold. If they are from a source book, we cite the
+source book in parentheses afterward. If we don’t
+cite a source book, the magic item or monster stat
+block is from this supplement.
+Some items may also appear in Mystic Odysseys
+of Theros (MOoT), but we chose to include our
+alternate take on them to provide options.
+LEGAL NOTICES
+DUNGEONS & DRAGONS, D&D, Wizards of
+the Coast, Forgotten Realms, Ravenloft, Eberron,
+the dragon ampersand, Ravnica, Theros, and all
+other Wizards of the Coast product names, and
+their respective logos are trademarks of Wizards
+of the Coast in the USA and other countries.
+This work contains material that is copyright
+Wizards of the Coast and/or other authors. Such
+material is used with permission under the
+Community Content Agreement for Dungeon
+Masters Guild.
+All other original material in this work is
+copyright 2020 by Grady Wang and The Gallant
+Goblin and published under the Community
+Content Agreement for Dungeon Masters Guild.
+Necropolis of Asphodel
+
+
+=== PAGE 5 ===
+4
+CHAPTER 1: ENCOUNTERING THE GRAY MERCHANT
+T
+he Gray Merchant is a unique vendor who
+wanders Theros, seemingly at random.
+Characters may trade for only one item from
+him each time they encounter him. He trades with
+one person at a time but is willing to trade with
+any number of people during the encounter.
+There’s an unlimited number of wares in his bag.
+It may contain multiple of the same legendary
+item, but artifacts should remain one-of-a-kind. It
+is up to you what limitations or lack thereof you
+put on the items available.
+NUMBER OF ITEMS FOR TRADE
+When someone expresses interest in trading with
+the Gray Merchant, he lays a piece of cloth on the
+ground to display his wares, presenting seven
+items. If you think seven options are too many for
+the group, reduce the number. You can use the roll
+tables in chapter 3 to determine what items he
+draws from his bag.
+Each character may make only one trade. The
+Gray Merchant only refreshes items he trades
+away. He does not refresh all seven items unless
+requested to do so.
+If a character requests he refresh his entire
+selection, he does so but reduces the number of
+items offered by one. For example, the first
+refresh request causes him to put away all seven
+items and draw six new items. The second refresh
+replaces the six items with five and so forth. This
+reduced selection persists through all subsequent
+trades.
+If the Gray Merchant has only one item out,
+asking him to refresh ends trading for everyone
+present. He places the item back in his bag and
+appears unable to draw anything else out. He
+sadly shows his empty hands and departs.
+Magic: The Gathering players may notice the
+refresh rules follow the card draw and mulligan
+rules at the start of a game.
+THE PRICE OF A TRADE
+This section provides optional mechanics for
+using the Gray Merchant as a seller of magic
+items. You may ignore this mechanic and use the
+roll tables in chapter 3 to distribute the magic
+items in a more conventional manner.
+The items in this supplement use price ranges
+based on rarity. Since the amount of gold earned
+varies in each game, consider adjusting the prices
+to suit your group. Some items may also be
+overpowered for the level of your party, in which
+case you may want to reroll an item of an
+unsuitable rarity rather than make it available for
+trade. This supplement roughly categorizes item
+rarity by the following prices and recommended
+power levels:
+• Common: 0-100 gp, level 1+
+• Uncommon: 100-1,000 gp, level 3+
+• Rare: 1,000-10,000 gp, level 5+
+• Very Rare: 10,000-100,000 gp, level 10+
+• Legendary/Artifact: 100,000+ gp, level 15+
+Characters may trade one of the following types
+of items for an item from the Gray Merchant:
+• any amount of currency
+• any one inanimate object or set of related
+inanimate objects
+A set of related objects are items that a
+reasonable person would consider thematically
+linked, such as a set of jewelry or all the books
+belonging to a series. Players may not pad the
+value of a trade by trading multiple unrelated
+objects as a set, such as a bejeweled idol plus a
+magic scroll. Characters may not trade living
+creatures or awakened items.
+The value of a traded object may be based on
+monetary value or sentimental value to the
+character. For example, a character has a set of
+books passed down to them from a long dead
+parent. This set has a monetary value of 5 sp and
+high sentimental value. The higher of the two
+types of value applies during a trade. In this
+example, the object is worth high sentimental
+value. If it had been a random set of books bought
+from a pawn shop with no sentimental value, the
+object is worth 5 sp instead.
+Sentimental value has only four possible values:
+none, low, medium, and high. A clay mask taken
+from the dead, or fragments of such clay masks,
+are automatically considered high sentimental
+value by the Gray Merchant regardless of its value
+to the character trading it away (see the
+“Background Lore” section in this chapter for
+details about the character and his motivations).
+If characters offer an item previously obtained
+from the Gray Merchant, it’s worth the lowest
+gold value listed in its recommended price and no
+sentimental value, unless otherwise specified.
+The Gray Merchant can’t speak and uses
+gestures to communicate the exact recommended
+monetary price range in copper, silver, or gold
+pieces. If the item has no price, he shrugs. He
+gives no hint as to the sentimental price of an
+object. Divine intervention prevents stealing from
+the Gray Merchant.
+
+
+=== PAGE 6 ===
+5
+ITEM TYPES
+There are three types of items in this supplement:
+magic items, artifacts, and story items.
+MAGIC ITEMS
+Each magic item has two recommended prices:
+monetary and sentimental. Its properties vary
+depending on the price the character paid for it.
+Characters always get the base properties of the
+item.
+If characters pay the recommended price, they
+get additional properties described in a section
+labeled with the keyword Paid.
+If characters overpay, extra effects apply,
+sometimes for only a limited period of time,
+described in a section labeled with the keyword
+Overpaid.
+Characters know the base properties of an item
+from handling it, but they must use the identify
+spell or focus on an item over a short rest to know
+its Paid and Overpaid properties. You decide if
+the Gray Merchant allows characters to take a
+short rest with an item prior to trading.
+If using the items in this supplement as treasure
+discovered in the open world, we recommend
+using only their base and Paid properties.
+ARTIFACTS
+Artifacts are legendary magic items that are
+unique, cause unique effects, and have an impact
+on the story in terms of being an item of historical
+significance or an item with the potential to shape
+a campaign. They can’t be destroyed through
+conventional means and may break rules that
+normally apply to other magic items.
+Artifacts are included in their own roll tables
+because you may not wish to make these available
+via a random trader. Most come with
+recommended story hooks if you prefer to
+integrate them into your campaign.
+STORY ITEMS
+Story items are typically items NPCs traded to the
+Gray Merchant that were worth high sentimental
+value to the NPC. These items use story as their
+rarity and usually have no recommended price.
+They are intended as story hooks for side quests.
+Story items are included in their own roll tables
+to avoid introducing unexpected side quests
+unsuitable for a given campaign.
+GRAY MERCHANT COINS
+The Gray Merchant leaves a trail of gold coins
+that fall from the bag he carries. See the Gray
+Merchant’s gold coins item entry for details.
+BACKGROUND LORE
+The Gray Merchant is a Returned, a form of
+undead. On Theros, souls go to the Underworld
+when they die. Some particularly strong-willed
+individuals try to return to the land of the living.
+They may do so by forging golden masks to
+replace the funereal clay masks placed on the
+faces of the dead. There is a price, however—any
+who would return from the Underworld must
+leave their memories behind.
+Despite losing their memories, the Returned may
+pursue ingrained habits or routines without
+knowing why. For example, a blacksmith may
+return to his forge and attempt to continue making
+wares for sale, and while he may succeed in
+running the forge, he largely produces twisted
+pieces of metal with no function. Such a fate is
+depicted in a Magic story here: https://
+magic.wizards.com/en/articles/archive/uncharted-
+realms/asphodel-2013-12-11
+Returned also lack the capacity to retain long-
+term memories despite otherwise possessing the
+intelligence and self-determination of any living
+creature. As such, they live sad existences, unable
+to establish any real connections.
+They possess the same physical appearance as
+when they died but usually have no face and can’t
+speak. Their golden masks hide their lack of facial
+features and tend to depict exaggerated emotions.
+The emotions are usually sadness or anger, though
+exceptions exist. They have strong sentimental
+attachments to clay funeral masks, perhaps
+because they know what they lost when they
+traded their own for golden ones. Clay masks are
+supposed to help the dead retain their memories
+and identity in the Underworld.
+Returned are generally considered dangerous
+and attacked by the living when encountered—
+their behavior can be erratic and they may
+explode in fits of rage. Those who survive long
+enough to try to find a new place in the world end
+up congregating in two necropolises, or cities of
+the dead. Asphodel houses those who have
+embraced their fate and are content to live out the
+rest of their shadowy existences in peace. They
+typically stay within its boundaries and continue
+to act out their old routines. Odunos is a more
+aggressive necropolis where the Returned rage at
+their fates and venture out to raid living
+settlements.
+The Gray Merchant is from Asphodel and
+somewhere between myth and urban legend. He is
+highly recognizable because of the large worn bag
+he carries and the white asphodel flower he wears.
+He thus escapes culling by those who would
+otherwise slaughter any Returned they meet.
+
+
+=== PAGE 7 ===
+6
+There are also whispers that he’s protected by the
+gods, or at least one of the gods, for reasons
+unknown to mortals. Perhaps he was one of their
+lovers, or perhaps he’s an agent of one of their
+numerous conspiracies.
+Phenax, god of deception, is the usual patron of
+the Returned, said to have been the first soul to
+escape the Underworld, but Klothys, god of
+destiny, also intervenes on the Gray Merchant's
+behalf when someone wrongs him. That said,
+Klothys frowns on all who violate rules of
+hospitality against travelers.
+STAT BLOCK AND COMBAT
+The Gray Merchant's bag functions like a bag of
+holding (DMG), but there is no known limit to the
+quantity or size of items he can store within it.
+Characters may attack the Gray Merchant of
+Asphodel. He doesn’t fight back, instead
+cowering from their blows. The pitiful sight
+induces guilt in attackers. Attacks incur the
+dismay of bystanders and may cause powerful
+NPCs to intervene on the Gray Merchant’s behalf.
+Killing the Gray Merchant causes his body and all
+his equipment to dissolve into red embers that
+fade into the earth. The Gray Merchant reforms
+with all his equipment in another part of the world
+and continues traveling. All characters who
+participated in the attack lose attunement and
+possession of any Gray Merchant's gold coins
+they have and must roll on the Ill Fortunes of
+Klothys table to determine the effect they will
+suffer in the coming days.
+GRAY MERCHANT OF ASPHODEL
+Medium undead, neutral
+Armor Class 8
+Hit Points 30 (4d8 + 12)
+Speed 30 .
+STR
+DEX
+CON
+INT
+WIS
+CHA
+16 (+3)
+6 (-2)
+20 (+5)
+6 (-2)
+8 (-1)
+14 (+2)
+Damage Immunies Poison
+Condion Immunies Poisoned
+Senses Truesight 60 ., Passive Percep!on 20
+Languages understands all but can’t speak, communicates with gestures
+Challenge 1/4 (50 XP)
+Protected by Fate. When the Gray Merchant drops to 0 hit points, all
+creatures who a.acked him within the last hour lose a.unement and
+possession of any Gray Merchant’s gold coins they have and must roll on
+the Ill Fortunes of Klothys table to determine the effect they’ll suffer in
+the coming days.
+A
+Cower. The Gray Merchant targets up to 5 hos!le creatures within 60
+feet. The targets must succeed on a DC 12 Charisma saving throw
+against this display of terrified confusion or take 4 (1d6) psychic damage.
+I F	
+  K
+d8
+Effect
+1
+Fate frowns upon you. For the next 1d10 days,
+you die on two death saving throw failures
+instead of three.
+2
+You feel a desperate need to prove yourself in
+combat. For the next 1d10 days, you can’t use
+your move action to leave the melee range of a
+foe when engaged in combat.
+3
+Intense anxiety feels like strings wrapping ever
+tighter around your chest. For the next 1d10
+days, you suffer a -1 penalty to attack rolls and
+disadvantage on rolls to maintain
+concentration.
+4
+Your hubris makes you believe you’re better
+than you are in truth. You suffer a -1 penalty to
+ability checks for the next 1d10 days.
+5
+You feel sluggish, guilt weighing you down. For
+the next 1d10 days, you have disadvantage on
+all saving throws.
+6
+Word has spread of your offense against the
+gods. For the next 1d10 days, merchants won’t
+sell or trade you goods.
+7
+The truth shall set you free. For the next 1d10
+days, you’re unable to lie.
+8
+For the next 1d10 days, an intangible and
+invulnerable spirit donkey follows you
+everywhere, observing silently but
+judgmentally.
+Sprig of Asphodel Flower
+
+
+=== PAGE 8 ===
+7
+CHAPTER 2: THE GRAY MERCHANT’S WARES
+I
+tems are presented in alphabetical order. An
+item's description gives the item's name, its
+type, its rarity, and its properties. Not all items
+are magical.
+ADVENTURER’S PODIUM
+Wondrous item, rare — see card
+Price: 3,000-7,000 gp | medium sentimentality
+This podium is an intricate pewter cauldron about
+1 foot wide and 1 foot tall. You can use an action
+to activate the podium by throwing diamond dust
+worth 250 gp inside, which consumes the dust.
+Activating the podium causes prismatic light to
+erupt out of it and coalesce above it to show a
+three-dimensional map of the terrain up to 100
+feet in all horizontal directions around the
+podium. The podium remains active for 1 minute
+and can’t be moved during that time.
+Paid. Dots appear on the map showing the
+location of all creatures of size Small and larger
+within 100 feet of the cauldron. The size of the
+dots correlate to the size of the creatures, but the
+dots give no other information about the creatures.
+The location of the dots don’t update and remain
+fixed where the creatures were when the podium
+activated.
+Overpaid. Sparkling motes appear on the map to
+mark the locations of secret entrances and magical
+wards.
+AKROAN ROCKING HORSE
+Wondrous item, uncommon — see card
+Price: 10-100 gp | low sentimentality
+This rocking horse is the right size for a child to
+ride and part of a mass-produced line of toys
+commemorating a famous battle. Meletians in
+particular enjoy telling the tale as a triumph of
+intellect over force, describing how a crafty
+general used a giant wooden horse to sneak
+soldiers through an enemy gate.
+Paid. This particular rocking horse has been
+enchanted so that once a day, you can use an
+action to set it on the ground and speak the
+command word to transform it into a riding horse
+(MM). The transformed horse rocks back and
+forth when standing still. The horse transforms
+back into a rocking horse after 20 minutes or
+when it drops to 0 hit points.
+Overpaid. The rocking horse transforms into a
+warhorse (MM) instead of a riding horse.
+ALSEID’S GIFT
+Wondrous item, uncommon — see card
+Price: 25-200 gp | low sentimentality
+This small plant grows 1 magical berry each day
+at dawn if exposed to sunlight for at least 1 hour
+the previous day. The plant can hold up to 10
+berries before it stops growing new berries. The
+berries remain good indefinitely if left on the
+plant. Once harvested, the berries rot if not eaten
+within 24 hours. A creature can use its action to
+eat 1 berry. Eating a berry restores 1 hit point, and
+the berry provides enough nourishment to sustain
+a creature for 1 day. The plant dies if it doesn’t see
+sunlight for 7 days.
+Paid. The plant grows 1d6 magical berries each
+day at dawn instead of 1 berry.
+Overpaid. Eating a berry restores 5 hit points.
+ANVILWROUGHT RAPTOR
+Wondrous item, uncommon — see card
+Price: 500-1,000 gp | low sentimentality
+The anvilwrought raptor (see stat block on next
+page) is a bronze mechanical hawk that’s
+surprisingly light for its size, standing two feet tall
+with a wingspan of four feet but weighing only
+three pounds. It hops lightly onto your hand like a
+sparrow, talons digging in just enough to secure—
+and hurt—but not enough to pierce skin. It
+becomes still once it finds a position it likes,
+almost a statue save for the clockwork-like turns
+of its head as it surveys the surroundings.
+Paid. You can command the raptor to guard a
+location. As long as you remain within 120 feet of
+it and until you end the command, the raptor
+remains in the same spot. When a Small or larger
+creature that wasn’t within 120 feet of it when you
+gave the guard command comes within 120 feet
+of it, the raptor starts screeching loudly.
+Overpaid. Add the ability to record all sounds
+the raptor hears for up to one minute as an option
+for its Learn Program trait. Starting a new
+recording or using Learn Program for a different
+action erases the previous recording. When the
+raptor has a sound recorded, the Execute Program
+action causes the raptor to reproduce the last
+recording in its entirety. The recording can’t be
+interrupted and the owner can specify its volume,
+from barely audible to the sound level of a
+humanoid yelling.
+
+
+=== PAGE 9 ===
+8
+ANVILWROUGHT RAPTOR
+Small construct, unaligned
+Armor Class 14
+Hit Points 33 (6d6 + 12)
+Speed 10 ., fly 60 .
+STR
+DEX
+CON
+INT
+WIS
+CHA
+6 (-2)
+15 (+2)
+14 (+2)
+2 (-4)
+13 (+1)
+8 (-1)
+Skills Percep!on +3
+Damage Immunies poison, psychic
+Condion Immunies charmed, exhaus!on, frightened, petrified,
+poisoned
+Senses darkvision 120 ., Passive Percep!on 13
+Languages understands all but can’t speak
+Challenge 1 (200 XP)
+First Strike. The raptor always surprises enemies at the start of combat.
+Flyby. The raptor doesn’t provoke an opportunity a.ack when it flies out
+of an enemy’s reach.
+Learn Program. Any character can spend 30 minutes to program the
+raptor to perform one type of simple ac!on that a bird could physically
+perform, such as stow an item, retrieve an item, or manipulate an object
+with its talons. The raptor can a.ack but can’t ac!vate magic items or
+carry more than 10 pounds. The raptor can only know one program at a
+!me.
+Imprint. The raptor imprints on one character as its owner. It only
+performs ac!ons commanded by its owner. The owner can
+communicate commands verbally or visually. If there are no outstanding
+commands, it flies back to its owner.
+A
+Mulaack. The raptor makes two a.acks: one with its beak and one
+with its claws.
+Beak. Melee Weapon Aack: +4 to hit, reach 5 ., one target. Hit: 6 (1d8
++ 2) piercing damage.
+Talons. Melee Weapon A.ack: +4 to hit, reach 5 ., one target. Hit: 5
+(1d6 + 2) slashing damage.
+Execute Program. Upon command by its owner, the raptor performs the
+ac!on set by Learn Program.
+
+
+=== PAGE 10 ===
+9
+ARCHON ARMOR
+Armor (plate), very rare (requires attunement by a
+creature that doesn’t worship any Theran god) —
+see card
+Price: 90,000-105,000 gp | medium
+sentimentality
+This burnished plate armor looks as though
+someone might have polished it today, but its
+menacing aura marks it as having been crafted by
+archons, celestial beings who long ago ruled
+Theros as tyrants and continue to claim they serve
+a purpose higher than the gods.
+Ancestral Rage. The sight of the armor triggers
+inherited instincts that drive Therans into reckless
+action. While you wear the armor, humanoids
+have advantage on melee attacks against you.
+Until the start of their next turn, you have
+advantage against humanoids that have made
+melee attacks against you.
+Paid. You gain the following attributes when
+wearing the armor:
+Dexterous Defense. You add your Dexterity
+modifier to your AC against melee attacks.
+Authoritative Presence. You gain a +3 bonus to
+Charisma (Intimidation) checks but suffer a -3
+penalty to Charisma (Persuasion) checks.
+Overpaid. While you wear the armor, you have
+advantage on Charisma checks against archons.
+ARCHON CAPE
+Wondrous item, rare (requires attunement except
+by creatures attuned to archon armor) — see card
+Price: 8,000-8,500 gp | medium sentimentality
+This cape was worn by an archon tyrant of old but
+looks new as the day it came off the loom. While
+you wear the cape, you can change its color at
+will. When you feel righteous, it billows upward
+like you are falling.
+Paid. While you wear the cape, you don't take
+falling damage.
+Overpaid. While you wear the cape, you can
+hover up to 1 foot in the air when you feel
+righteous.
+ARROWHEAD SHARD
+Story, legendary
+Price: none | no sentimentality
+This metal shard appears to be part of an
+arrowhead. It hums with divine energy. You guess
+there are four other such shards in existence,
+assuming the other shards are similar sizes. The
+first time you touch the shard, you hear maniacal
+laughter in your head and must succeed a DC 16
+Charisma saving throw or suffer a short-term
+madness effect (see “Madness” in DMG chapter
+8).
+Paid. Upon further investigation, you realize this
+shard belongs to the arrowhead that slew
+Xenagos, god of revels. The arrowhead is said to
+have shattered into countless pieces, but it is
+clearly reforming, perhaps under the influence of
+what essence remains of Xenagos. Should all the
+pieces reassemble, the arrowhead could be used as
+the focus of a revelrous ceremony that resurrects
+the fallen god. Remaining adherents of Xenagos
+or creatures seeking to overthrow the current
+pantheon would go to any length to recover it
+from you. If you attempt to reassemble the
+arrowhead, you’ll become the enemy of every
+Theran god except Kruphix, Erebos, Athreos, and
+Mogis. If you attempt to destroy the arrowhead
+for good, you will find allies in Nylea and
+Purphoros, but Heliod will fear you and distrust
+your intentions.
+Overpaid. Klothys, god of destiny, whispers a
+warning in your ear—bring the shard to her or
+she’ll arrange for you to join her permanently in
+the Underworld. You realize that a god of destiny
+wouldn’t need to threaten you if she still
+controlled your fate. Perhaps because Xenagos
+was a god, what you do with this arrowhead is
+beyond her reach.
+Archon Armor
+and Cape
+
+
+=== PAGE 11 ===
+10
+ASPECT ICONS
+Wondrous item, rarity by icon (requires
+attunement)
+An aspect icon is a beast statuette small enough
+to fit in a pocket. While you carry the icon, you
+can use an action to use the icon to gain the aspect
+of the depicted beast. You gain abilities specific to
+the aspect for a certain duration, and once used,
+the icon can't be used again until a certain amount
+of time has passed, as specified in the icon's
+description.
+DEER ICON (Uncommon)
+Price: 200-800 gp | low sentimentality
+This icon is a birch wood statuette of a running
+deer. It can grant Aspect of Deer for 12 seconds (2
+rounds). Once it has been used, it can't be used
+again until 2 days have passed.
+Aspect of Deer. Soft downy fur covers your
+body and you sprout a bushy white tail. You
+double your speed and the distance you can jump.
+Paid. The icon doesn't require attunement.
+Overpaid. Aspect of Deer lasts 1 minute instead
+of 12 seconds.
+DOLPHIN ICON (Uncommon)
+Price: 100-500 gp | low sentimentality
+This icon is a sapphire crystal statuette of a
+swimming dolphin and has shimmering light ray
+effects inside. It can grant Aspect of Dolphin for
+12 hours. Once it has been used, it can't be used
+again until 10 days have passed.
+Aspect of Dolphin. You feel your lungs expand
+and ethereal flippers appear around your hands
+and feet when you swim. You gain a swimming
+speed of 60 feet and can hold your breath for 10
+minutes.
+Paid. The icon can be used again after 5 days,
+instead of 10 days.
+Overpaid. Aspect of Dolphin lasts 24 hours
+instead of 12 hours.
+DONKEY ICON (Rare)
+Price: 8,000-10,000 gp | medium sentimentality
+This icon is an iron statuette of a walking donkey
+and feels hot to the touch. It can grant Aspect of
+Donkey for 1 minute. Once it has been used, it
+can't be used again until 7 days have passed.
+Aspect of Donkey. Your Strength and
+Constitution scores increase by 2, and your
+stubbornness makes you immune to being
+charmed, frightened, or knocked prone.
+Paid. The icon can be used again after 2 days,
+instead of 7 days.
+Overpaid. Aspect of Donkey lasts 10 minutes
+instead of 1 minute.
+DOVE ICON (Uncommon)
+Price: 100-500 gp | low sentimentality
+This icon is a quartz crystal statuette of a flying
+dove and is filled with swirling white clouds
+resembling foam. It can grant Aspect of Dove for
+10 minutes. Once it has been used, it can't be used
+again until 5 days have passed.
+Aspect of Dove. You look more beautiful in
+some intangible way and soft cooing accompanies
+your voice. You become the center of attention for
+anyone within 60 feet of you, drawing their eyes
+and giving allies advantage on any Dexterity
+(Stealth) checks they make. You have advantage
+when making Charisma checks.
+Paid. The icon can be used again after 3 days,
+instead of 5 days.
+Overpaid. Aspect of Dove lasts 1 hour instead of
+10 minutes.
+Deer Icon
+Dolphin Icon
+Donkey Icon
+Dove Icon
+Gorgon Icon
+
+
+=== PAGE 12 ===
+11
+GORGON ICON (Very Rare)
+Price: 20,000-50,000 gp | medium sentimentality
+This icon is a serpentine statuette of a gorgon. The
+snakes seem to move if you examine them closely.
+It can grant Aspect of Gorgon for 1 minute. Once
+it has been used, it can't be used again until 5 days
+have passed.
+Aspect of Gorgon. Anyone within 60 feet of you
+hears snakes hissing and your hair seems to take
+on a life of its own, rearing up like angry serpents.
+As an action, you can fix your gaze on one
+creature within 60 feet of you that you can see and
+that can see your eyes. The target must make a
+DC 14 Constitution saving throw. If the saving
+throw succeeds, the creature is immune to your
+gaze for 24 hours. If the saving throw fails by 5 or
+more, the creature is instantly petrified.
+Otherwise, a creature that fails the save begins to
+turn to stone and is restrained. The restrained
+creature must repeat the saving throw at the end of
+its next turn, becoming petrified on a failure or
+ending the effect on a success. The petrification
+lasts until the creature is freed by a greater
+restoration spell or similar magic.
+Paid. The icon can be used again after 2 days,
+instead of 5 days.
+Overpaid. Aspect of Gorgon lasts 10 minutes
+instead of 1 minute.
+HORSE ICON (Uncommon)
+Price: 100-500 gp | low sentimentality
+This icon is a moonstone statuette of a horse
+rearing up on its hind legs. It can grant Aspect of
+Horse for 1 minute. Once it has been used, it can't
+be used again until 6 days have passed.
+Aspect of Horse. Your feet transform into
+hooves and are considered a magic natural
+weapon. You can use an action to kick a creature
+as a melee attack. On a hit, the target suffers 2d4
+bludgeoning damage and if the creature is Large
+size or smaller, it’s knocked back 5 feet and must
+succeed a DC 14 Strength saving throw or fall
+prone. You deal double damage to objects and
+structures.
+Paid. The icon can be used again after 3 days,
+instead of 6 days.
+Overpaid. Aspect of Horse lasts 10 minutes
+instead of 1 minute.
+HYDRA ICON (Very Rare)
+Price: 30,000-60,000 gp | medium sentimentality
+This icon is a sandstone statuette of a hydra with
+five heads. Red swirls within its grain seem to
+divide and grow if you examine them closely. It
+can grant Aspect of Hydra for 10 minutes. Once it
+has been used, it can't be used again until 5 days
+have passed.
+Aspect of Hydra. Your form seems to split into
+multiple transparent copies, as though someone is
+looking at you without focusing their eyes on you.
+If you suffer damage equal to or greater than a
+fifth of your maximum hit points during a
+creature's turn, you can use a reaction to regain all
+hit points you lost at the end of that creature’s turn
+unless you suffered fire damage during that turn.
+You are vulnerable to fire damage.
+Paid. The icon can be used again after 2 days,
+instead of 5 days.
+Overpaid. Aspect of Hydra lasts 1 hour instead
+of 10 minutes.
+LAMPREY ICON (Very Rare)
+Price: 10,000-45,000 gp | medium sentimentality
+This icon is a white marble statuette of a lamprey
+with pulsing red veins. It can grant Aspect of
+Lamprey for 1 minute. Once it has been used, it
+can't be used again until 4 days have passed.
+Aspect of Lamprey. Your mouth transforms into
+a lamprey's mouth, complete with hooked teeth.
+You have advantage on attempts to grapple
+creatures and can grapple creatures of any size.
+Upon a successful grapple, the creature is
+paralyzed for one round while you sink your teeth
+Horse Icon
+Hydra Icon
+Pig Icon
+Swan Icon
+Lamprey Icon
+
+
+=== PAGE 13 ===
+12
+into the creature and drink its blood. The DM
+chooses one feature from the creature's stat block
+for you to acquire and use for the aspect's
+remaining duration. If you’ve already acquired a
+feature, you lose your current feature when you
+acquire a new one.
+Paid. The icon can be used again after 24 hours,
+instead of 4 days.
+Overpaid. Aspect of Lamprey lasts 10 minutes
+instead of 1 minute.
+MANTICORE ICON (Very Rare)
+Price: 18,000-40,000 gp | medium sentimentality
+This icon is an obsidian statuette of a manticore.
+The spikes on its tail seem to twitch if you
+examine them closely. It can grant Aspect of
+Manticore for 10 minutes. Once it has been used,
+it can't be used again until 4 days have passed.
+Aspect of Manticore. Leathery wings sprout
+from your back and a spiked tail emerges from
+your tailbone. Your Strength score increases by 5
+and you gain a flying speed of 50 feet. You can
+attack with the spiked tail in addition to your
+actions, choosing one of the two following
+actions: launch a spike as a ranged attack, dealing
+1d8 piercing damage on hit, or swipe your tail as a
+melee attack, dealing 1d6 slashing and 1d8
+piercing damage on hit.
+Paid. The icon can be used again after 2 days,
+instead of 4 days.
+Overpaid. Aspect of Manticore lasts 1 hour
+instead of 10 minutes.
+MONGOOSE ICON (Legendary)
+Price: 200,000-500,000 gp | high sentimentality
+This icon is an ethereal statuette of swirling mists
+that resemble a dashing mongoose, though it feels
+solid and cold to the touch. It can grant Aspect of
+Mongoose for 1 minute. Once it has been used, it
+can't be used again until 6 days have passed.
+Aspect of Mongoose. Your form elongates and
+you look sleek and transparent. You are immune
+to all spell effects.
+Paid. The icon can be used again after 3 days,
+instead of 6 days.
+Overpaid. Aspect of Mongoose lasts 10 minutes
+instead of 1 minute.
+OWL ICON (Uncommon)
+Price: 200-750 gp | low sentimentality
+This icon is an oak wood statuette of a perched
+owl. It can grant Aspect of Owl for 1 hour. Once it
+has been used, it can't be used again until 24 hours
+have passed.
+Aspect of Owl. Your eyes become wider and
+rounder. You have darkvision out to a range of 60
+feet. If you already have darkvision, its range
+increases 60 feet. You have advantage on Wisdom
+(Perception) checks that rely on sight.
+Paid. The icon doesn't require attunement.
+Overpaid. Aspect of Owl lasts 2 hours instead of
+1 hour.
+PEACOCK ICON (Rare)
+Price: 2,000-3,500 gp | medium sentimentality
+This icon is a metal statuette made from some
+unknown alloy that gives it an iridescent, rainbow
+effect, and its form is of a male peacock with
+feathers raised. It can grant Aspect of Peacock for
+3 hours. Once it has been used, it can't be used
+again until 3 days have passed.
+Aspect of Peacock. You’re able to see in all
+directions and have advantage on Wisdom
+(Perception) checks that rely on sight. This effect
+persists even if you are asleep or unconscious
+unless you use a bonus action to disable this
+effect.
+Paid. The icon can be used again after 2 days,
+instead of 3 days.
+Overpaid. Aspect of Peacock lasts 6 hours
+instead of 3 hours.
+Tortoise Icon
+Peacock Icon
+Mongoose
+Icon
+Owl Icon
+Manticore Icon
+
+
+=== PAGE 14 ===
+13
+PIG ICON (Uncommon)
+Price: 100-500 gp | low sentimentality
+This icon is a cherry wood statuette of a pig
+rooting for food. It can grant Aspect of Pig for 1
+hour. Once it has been used, it can't be used again
+until 3 days have passed.
+Aspect of Pig. Your nose turns into a pig's snout
+and anything edible smells and tastes appetizing.
+You have advantage on Wisdom (Perception)
+checks that rely on smell and are resistant to
+poison damage. You’re immune to the poisoned
+condition.
+Paid. The icon doesn't require attunement.
+Overpaid. Aspect of Pig lasts 4 hours instead of
+1 hour.
+SWAN ICON (Rare)
+Price: 2,000-3,500 gp | medium sentimentality
+This icon is a tin statuette of a swan with wings
+outstretched, ready to attack. It can grant Aspect
+of Swan for 1 minute. Once it has been used, it
+can't be used again until 5 days have passed.
+Aspect of Swan. You appear to grow feathers
+and your neck elongates, becoming a swan hybrid
+abomination. Two wings sprout from your back
+that you can use to make two unarmed strikes as
+your bonus action. If both strikes hit, your target
+must succeed a DC 20 Constitution saving throw
+or fall prone. You can use an action to let out a
+terrifying swan call, and all creatures within 120
+feet of you who can hear you must succeed a DC
+20 Charisma saving throw or become frightened
+of you. A frightened creature can repeat the saving
+throw at the end of each of its turns, ending the
+frightened condition on itself on a success. If a
+target’s saving throw is successful or the effect
+ends for it, the creature is immune to your swan
+call for the next 24 hours.
+Paid. The icon can be used again after 3 days,
+instead of 5 days.
+Overpaid. Aspect of Swan lasts 10 minutes
+instead of 1 minute.
+TORTOISE ICON (Rare)
+Price: 2,000-3,500 gp | medium sentimentality
+This copper statuette is shaped like a turtle. It can
+grant Aspect of Turtle for 1 minute. Once it has
+been used, it can't be used again until 7 days have
+passed.
+Aspect of Turtle. The clothing you’re wearing
+gains the coloration and texture of a turtle's shell.
+You can use an action to target one creature you
+saw within the last round (6 seconds) and choose
+whether you want the creature to fall unconscious
+or have its speed halved. The target must succeed
+a DC 16 Wisdom saving throw or succumb to the
+chosen effect for 5 rounds (30 seconds) or until
+they take damage.
+Paid. The icon can be used again after 4 days,
+instead of 7 days.
+Overpaid. Aspect of Turtle lasts 10 minutes
+instead of 1 minute.
+VULTURE ICON (Uncommon)
+Price: 100-500 gp | low sentimentality
+This icon is a bronze statuette of a vulture with its
+wings outstretched. It can grant Aspect of Vulture
+for 10 minutes. Once it has been used, it can't be
+used again until 24 hours have passed.
+Aspect of Vulture. Your mouth and nose
+transform into a vulture's beak. When a creature
+drops to 0 hit points within 120 feet of you, you
+can use your reaction to devour their fleeing life
+essence, regaining 2d8 hit points up to your hit
+point maximum. If you use this reaction on a
+creature that can make death saving throws, the
+creature suffers 1 death saving throw failure.
+Paid. The icon can be used again after 12 hours,
+instead of 24 hours.
+Overpaid. Aspect of Vulture lasts 1 hour instead
+of 10 minutes.
+WOLF ICON (Uncommon)
+Price: 100-500 gp | low sentimentality
+This icon is a silver statuette of a howling wolf. It
+can grant Aspect of Wolf for 1 minute. Once it has
+been used, it can't be used again until 4 days have
+passed.
+Aspect of Wolf. You can use an action to howl,
+granting up to 6 allies Pack Tactics until the end
+of your next turn. Pack Tactics grants you and
+your allies advantage on attack rolls against a
+creature if at least one ally is within 5 feet of the
+creature and the ally isn’t incapacitated.
+Paid. The icon can be used again after 2 days,
+instead of 4 days.
+Overpaid. Aspect of Wolf lasts 10 minutes
+instead of 1 minute.
+ASTRAL CORNUCOPIA
+Wondrous item, uncommon — see card
+Price: 200-800 gp | low sentimentality
+This cornucopia is 2 feet long, weighs 20 pounds,
+and appears to be carved from a rock that fell
+from the sky. Inside is an endless star field that
+seems to be a view into Nyx.
+You can place up to 5 nonliving perishable
+sacrifices meant for the gods inside, such as cuts
+
+
+=== PAGE 15 ===
+14
+of meat, fruits and vegetables. You can't put
+anything not intended as a sacrifice for the gods
+inside. Items placed inside the cornucopia
+disappear and stay fresh, as though frozen in time,
+until you remove them again. You can remove
+items by thinking about the item you want when
+you reach inside. When you remove the sacrifice,
+you must either perform the intended sacrificial
+ritual or return the sacrifice into the cornucopia
+within 2 hours or the sacrifice catches fire and
+burns to ash.
+Paid. Sacrifices that have been inside the
+cornucopia at least 24 hours curry great favor
+when offered to gods and their followers—for 2
+hours after you complete a sacrificial ritual, you
+gain a +10 bonus to skill checks involving social
+interactions with the god or the god's followers.
+Overpaid. Closer examination of the star field
+within the cornucopia reveals a distant scene of a
+temple atop a waterfall plummeting into oblivion.
+You can check the constellations inside the
+cornucopia to determine the location of the
+Temple of Mystery, which is on the edge of the
+world and belongs to Kruphix, god of horizons.
+BIDENT OF THASSA’S BELOVED
+Weapon (trident), artifact (requires attunement by
+a creature that worships Thassa) — see card
+Price: 300,000-500,000 gp | high sentimentality
+This favored weapon of Thassa, god of the sea, is
+obviously not one she wields—a god would never
+forfeit her signature weapon.... But this bident
+bears her touch, a blessing conferred to a favored
+champion. Why it’s now before you is a mystery.
+Perhaps the champion fell, perhaps the bident
+became an heirloom passed down so long its true
+nature became forgotten, or perhaps Thassa has
+designated you as her new beloved champion. If
+you hold the weapon and meditate, you hear
+whispers of Thassa's philosophy that the sea both
+ebbs and floods—sometimes you must give before
+you achieve overwhelming, total victory.
+The bident is a magic weapon and also functions
+as a trident of fish command. On your turn, while
+you carry the bident, you gain an action for each
+time you suffered a hit since the end of your last
+turn.
+Paid. The bident has 4 charges, which are used
+to fuel spells divinely bestowed by Thassa with no
+components required. If you’re otherwise unable
+to cast spells, use Charisma for your spellcasting
+ability modifier. With the bident in hand, you can
+use your action to cast one of the following spells:
+wall of water (1 charge), watery sphere (2
+charges), or tsunami (3 charges). The trident
+regains 1d4 expended charges daily at dawn.
+Once a day, while wielding the bident, you may
+implore Thassa for a blessing. If you haven’t
+offended Thassa (determined by the DM), roll on
+the Thassa's Blessings table to determine the
+effect.
+T
+
+’
+ B	
+
+
+d4
+Effect
+1
+You gain a creature companion as if using a
+conjure animals spell. The creature is a giant
+sea horse if you’re underwater, otherwise it’s a
+warhorse.
+2
+You heal a number of hit points equivalent to
+rolling all your hit dice. This effect doesn't
+expend hit dice.
+3
+You gain a +3 bonus to AC for the next hour.
+4
+The bident regains all expended charges.
+Overpaid. Once a day for the first 10 days after
+you attune to the bident, you can cast the
+commune spell without requiring material
+components to contact Thassa.
+Destroying the Bident of Thassa’s Beloved. You
+can't easily unmake a weapon blessed by the gods.
+There are only two ways to destroy such a
+weapon: melt it down in Purphoros' forge, which
+resides within Mount Velus, or slay the god who
+blessed the weapon—in this case, Thassa—to
+transform the weapon into a nonmagical item that
+is susceptible to all methods of destruction.
+Bident of Thassa’s Beloved
+
+
+=== PAGE 16 ===
+15
+BIDET OF THASSA
+Wondrous item, common
+Price: 1 sp - 5 gp | no sentimentality
+This bronze cylinder is about 2 inches long and
+half an inch in diameter, with an opening on one
+end. You can use a bonus action to speak the
+command word, causing salt water to shoot out of
+the opening up to a distance of 2 feet for 1 minute.
+The water is warm.
+Paid. You can use an action to stick the cylinder
+to any surface by pressing it against the surface
+for 6 seconds. The cylinder remains attached to
+the surface until a creature uses an action to
+remove it.
+Overpaid. The cylinder gleams and never
+tarnishes or rusts.
+BLADE OF HUBRIS
+Weapon (shortsword), uncommon (requires
+attunement)
+Price: 50-100 gp | low sentimentality
+This ornate blade has a golden, bejeweled hilt.
+The steel is perfectly polished and glimmers in the
+sun. The blade carries the inscription of a fancy
+"P" which is perhaps a hint to the owner's identity.
+Someone must have traded this weapon for
+something truly spectacular from the Gray
+Merchant.
+Attacks with the blade gain a +1 bonus to attack
+and damage rolls. The blade is a magic weapon.
+Curse. The blade actually has no magical
+properties, but not only do you believe they exist,
+you think everyone covets the blade and wants to
+take it from you. You also believe that if you slay
+legendary monsters with it, the blade grows
+stronger. In truth, the blade is a nonmagical
+shortsword with no bonuses to attack or damage
+rolls.
+Removing the curse from the blade changes the
+blade's properties to that of a nonmagical
+shortsword with no bonuses.
+Paid. No additional effects.
+Overpaid. No additional effects.
+BOUNTIFUL LEKYTHOS
+Wondrous item, rare
+Price: 1,000-3,000 gp | low sentimentality
+This narrow clay flask stands 10 inches tall and is
+4 inches at its widest diameter. It has an elegant
+thin handle and depicts an image of two people
+picking olives. It weighs 4 pounds.
+A S L
+	
+Mele!ans tell a tale of Thassa challenging Ephara’s
+patronage of the city. Seeing how its ci!zens had to
+carry water from a nearby spring, Thassa promised
+that if they voted her as the primary god of Mele!s,
+she’d ensure unlimited water wherever they dug.
+Excited ci!zens tested her promise by digging into
+their fields only for salt water to erupt and kill their
+crops. Thus Thassa salted the earth and Mele!ans
+realized that a god of the sea is best confined to her
+domain.
+Coincidentally, that’s around the !me that
+depic!ons of Ephara began portraying her dumping
+water from a jar onto the ground. Combined with
+the fact that Ephara is the only god known to have
+killed another god by herself, remember the next
+!me someone tells you she’s a minor god: she slays.
+You can pour up to 32 ounces of regular olive
+oil—not extra virgin—out of the lekythos each
+day. The lekythos refills the next dawn. The oil is
+usable for cooking and can be sold for up to 1 cp
+per ounce to willing buyers.
+Paid. You can pour up to 32 ounces of fragrant,
+high quality olive oil out of the lekythos each day.
+The lekythos refills the next dawn. The oil is
+desirable for many rites, such as weddings and
+funerals, and can be sold for up to 1 sp per ounce
+to willing buyers.
+Overpaid. You can use 8 ounces of the oil from
+this lekythos as a substitute for the material
+components of any divination spell.
+BOW OF NYLEA’S HUNTER
+Weapon (shortbow), artifact (requires attunement
+by a creature that enjoys hunting and respects
+nature) — see card
+Price: 500,000-750,000 gp | high sentimentality
+This shortbow and quiver set is blessed by Nylea,
+god of the hunt. It hums with a sound that
+resembles distant birdsong. When held, it changes
+the sound of your footsteps into rustling wind and
+a light breeze, a perfect mix of sound that
+deceives the ear into thinking no one is
+approaching.
+With the bow in hand, you have advantage on
+Dexterity (Stealth) checks and can speak with
+animals as if using the speak with animals spell.
+You gain a +3 bonus to attack rolls made with this
+magic weapon.
+Paid. You gain the following attributes when
+using the weapon:
+Studied Attack. You can use an action to study a
+creature by making a DC 20 Intelligence (Nature)
+
+
+=== PAGE 17 ===
+16
+or Wisdom (Survival) check. You have advantage
+if performing the check on a favored enemy or a
+creature on which you have the hunter's mark
+spell active. On a successful check, for the next 24
+hours, any attack made with the bow that hits the
+targeted creature is automatically a critical hit.
+Replenishing Quiver. The quiver can hold up to
+20 arrows. When you score a critical hit against a
+creature using the bow, the spent arrow teleports
+back into the quiver and is ready to use again.
+Coordinated Hunt. While you are attuned to the
+bow, any creature you control has advantage on
+attack rolls against creatures you attacked on your
+last turn.
+Nylea's Guidance. During a long rest, Nylea
+whispers guidance to you. You gain a +2 to your
+choice of Dexterity, Intelligence, or Wisdom until
+your next long rest.
+Fickle Patron. Nylea is a fickle god whom you
+can easily offend. The following activities cause
+the bow to lose all magical properties and
+function as a regular shortbow until you regain
+her blessing by making an appropriate sacrifice to
+her and succeeding a DC 20 Intelligence
+(Religion) check:
+• Hunt for sport
+• Fail to use an action to request her blessing
+before attacking a beast that isn’t attacking
+you or an ally. You may request her blessing
+as part of the Studied Attack action, but you
+must explicitly declare the request.
+• Participate in a ceremony worshiping or
+glorifying Karametra, god of the hearth
+• Participate in agricultural activities, including
+clearing land for planting
+Overpaid. Once a day for the first 10 days after
+you attune to the bow, you can cast the commune
+spell without requiring material components to
+contact Nylea.
+Destroying the Bow of Nylea’s Hunter. You
+can't easily unmake a weapon blessed by the gods.
+There are only two ways to destroy such a
+weapon: melt it down in Purphoros' forge, which
+resides within Mount Velus, or slay the god who
+blessed the weapon—in this case, Nylea—to
+transform the weapon into a nonmagical item that
+is susceptible to all methods of destruction.
+CALLAPHE’S COMPASS
+Wondrous item, common — see card
+Price: 60-225 gp | low sentimentality
+This bronze compass has an image of waves
+inscribed on its back. When the compass is in or
+over water, its needle points toward the nearest
+piece of dry land. While on land, the needle spins
+wildly.
+Paid. With the compass in hand, you can
+concentrate on the compass to specify a type of
+land—for example, land with food and water,
+large landmass rather than an island, etc.—and the
+needle points toward the nearest land that fits your
+criteria for the duration of your concentration.
+Overpaid. When concentrating on the compass
+to specify a type of land, you hear a divine
+whisper in your mind estimating the distance to
+the land you specified, using general terms such as
+"close," "within reach," or "distant."
+Bow of Nylea’s
+Hunter
+Callaphe’s Compass
+
+
+=== PAGE 18 ===
+17
+CAP OF AUTHORITY
+Wondrous item, common
+Price: 5-10 gp | no sentimentality
+This cap looks like something an experienced
+soldier or seafarer might wear when off duty.
+Paid. While wearing the cap, anyone addressing
+you must succeed a DC 15 Charisma saving throw
+or be compelled to call you by the title of
+"captain" until dawn the next day.
+Overpaid. You can choose one of the following
+titles instead of "captain": "general,"
+"commander," or "champion."
+CHAPPARAL GRASS
+Wondrous item, uncommon
+Price: 50-100 gp | no sentimentality
+This bundle of dry, stubby grass from the
+chapparal between Setessa and the Nessian Wilds
+is packed with nutrients and water. It can feed 1
+horse or similar pack animal and sustain it for 10
+days without the need for additional nourishment.
+Paid. You receive 10 bundles of grass.
+Overpaid. You receive 20 bundles of grass.
+CHORUS MASK
+Wondrous item, common
+Price: 5-200 gp | no sentimentality
+This mask depicts an exaggerated smiling face. It
+belonged to an actor who was part of the chorus
+of a comedic play.
+Paid. When you wear the mask, you hear voices
+that comment on your surroundings and the events
+occurring around you. The commentary is never
+useful and often mundane but occasionally cutting
+and witty.
+Overpaid. When you wear the mask and make
+snide remarks or strategize within hearing range
+of people, you can choose who hears you.
+CLAY OWL
+Wondrous item, uncommon
+Price: 90-8,000 gp | low sentimentality
+This cute sculpture has eyes a tad too wide even
+for an owl. It hoots when you squeeze it.
+Paid. The first time it hoots each day, creatures
+within 30 feet that its eyes are facing must
+succeed a DC 12 Wisdom saving throw or be
+compelled to speak their true name.
+Overpaid. You can choose up to 3 hoots a day to
+attempt to compel creatures to speak their true
+name, instead of the first time each day.
+Cap of Authority
+Bundle of
+Chapparal Grass
+Chorus Mask
+Clay Owl
+Conspirator’s Whistle
+
+
+=== PAGE 19 ===
+18
+CONSPIRATOR’S WHISTLE
+Wondrous item, uncommon (requires attunement)
+Price: 200-800 gp | low sentimentality
+This unassuming silver whistle is small and easy
+to hide with a sleight of hand. Once a day, you can
+designate up to 3 creatures as your conspirators.
+Until dawn the next day, your conspirators are the
+only creatures who can hear the whistle, other
+than yourself. The whistle's sound has a range of
+500 feet and all conspirators within range hear the
+whistle clearly at a moderate volume regardless of
+their distance from the whistle. Only magical
+effects block the whistle's sound.
+The whistle is blessed by a cleric of Phenax, god
+of deception, and Phenax is the only god whose
+divine intervention can enable creatures other than
+your conspirators to hear the whistle.
+Paid. You can designate up to 8 creatures as
+your conspirators, instead of 3.
+Overpaid. The whistle's sound has a range of
+1,000 feet instead of 500 feet.
+CROWN OF ATRIS
+Wondrous item, rare (requires attunement) — see
+card
+Price: 1,000-10,000 gp | low sentimentality
+This immense, gilded crown descends over your
+eyes but leaves your vision intact. The crown has
+4 charges, which are used to fuel the magic it
+contains. While you wear the crown, you can use
+an action to expend 1 charge to cast mirror image,
+provided you also choose 3 foes you can see. If
+there are fewer than 3 foes present, you instead
+choose all the foes. For each foe you choose, the
+DM rolls on the Truths of Atris table to determine
+how those opponents respond to mirror image.
+T
+  A
+d2
+Response
+1
+This foe sees through the illusions created by
+mirror image. You can’t redirect attacks from
+this foe to a duplicate. This foe attempts to
+point out your illusions to its allies, so when
+you’re up against creatures allied with this foe
+and capable of intelligent strategy, you roll with
+disadvantage when attempting to change their
+attack’s target to a duplicate.
+2
+This foe is mesmerized by the illusions created
+by mirror image. As long as an illusion remains,
+attacks from this foe always target your
+duplicate. This foe can’t be convinced by an
+ally that it’s attacking an illusion.
+If the crown is reduced to 0 charges, the crown
+disappears in a plume of white smoke.
+Paid. The crown regains 1d4 expended charges
+daily at dawn.
+Overpaid. You can use an action to expend 2
+charges to have truesight out to 120 feet for 30
+seconds.
+DIARY OF THRASIOS
+Story, common — see card
+Price: none | no sentimentality
+A waterproof seaweed jelly covers this book,
+protecting it from the elements. Inside are diary
+entries detailing how to reach the lost ruins of a
+mythical polis known as Olantin, said to have
+achieved incredible technological advancements
+before Heliod smote the city for its hubris,
+causing it to sink below the waves.
+Paid. You’ve heard of Thrasios. He’s a famous
+merfolk warrior who defends Meletis and speaks
+often of having visited Olantin, though most
+people don't believe him. He must be spreading
+copies of his diary to encourage others to confirm
+his exploits.
+Overpaid. Klothys whispers warnings hinting
+what terrors await in the sunken ruins, should you
+choose to indulge your curiosity.
+DRAGON TEETH
+Wondrous item, uncommon
+Price: 700-2,500 gp | medium sentimentality
+This pouch contains 6 dragon teeth, each about
+the length of your hand.
+Paid. You can use an action to bury a tooth in
+dirt. On your next turn, the tooth transforms into a
+well-equipped soldier, who uses the stat block of a
+thug (MM), and emerges from the dirt. The
+soldier shares your initiative order but doesn’t
+obey you, is hostile to everyone, and attacks
+whoever is closest. The soldier crumbles to dust
+after 10 minutes.
+Overpaid. The soldier uses the stat block of a
+veteran (MM) instead of a thug.
+DUST OF NYX
+Potion, common — see card
+Price: 50-100 gp | no sentimentality
+When you drink this potion, portions of your skin
+appear to show the night sky of Nyx and sparkle
+with starlight. The effect lasts until you finish a
+short or long rest. The potion contains suspended
+multihued dust that resembles a blue, purple, and
+red nebula.
+Paid. While under the effects of this potion, you
+have advantage on Charisma (Deception) checks
+
+
+=== PAGE 20 ===
+19
+when you attempt to pass yourself off as a
+Nyxborn creature.
+Overpaid. The potion gains a fruity aroma that
+makes it appealing to drink.
+ENTRANCING LYRE
+Wondrous item, very rare — see card
+Price: 30,000-80,000 gp | medium sentimentality
+Golden arms extend from the base of this
+beautiful lyre. With the lyre in hand, you can use
+an action to target one creature, causing the lyre to
+begin playing itself until it’s destroyed or you use
+an action to stop it. The lyre has 25 hit points and
+an AC of 12. It can’t target another creature while
+it’s playing. If the targeted creature can hear the
+lyre play, it must succeed on a DC 15 Charisma
+saving throw or become incapacitated until the
+end of its next turn. A creature that fails the saving
+throw can repeat it at the end of each of its turns,
+ending the effect on a success. The lyre can’t
+target a creature it has affected in the last 24
+hours.
+Paid. A target that fails its saving throw is
+stunned instead of incapacitated.
+Overpaid. The Charisma saving throw DC to
+prevent the lyre’s effect is now 18 instead of 15.
+EUKLISIA OF EPHARA
+Wondrous item, uncommon — see card
+Price: 100-1,000 gp | low sentimentality
+As the god of the polis, Ephara wishes her
+worshipers to have the trappings of civilization
+even when traveling in the wilderness. The
+euklisia is a cloth sleeping bag lined with goat
+hair that can fit one Large or Medium creature or
+two Small or smaller creatures. The euklisia keeps
+its occupant at a temperature optimal for comfort
+and survival. Creatures using the euklisia have a
+speed of 0 feet.
+Paid. Creatures inside the euklisia are resistant
+to cold and fire damage from sources outside the
+euklisia.
+Overpaid. Taking a long rest inside the euklisia
+removes one level of exhaustion in addition to the
+one level removed by taking a long rest.
+FLAMECAST WHEEL
+Weapon (scimitar), rare (requires attunement) —
+see card
+Price: 3,000-30,000 gp | medium sentimentality
+This golden wheel is a ring that’s two feet in
+diameter and molds in your hand to fit your grip.
+It’s a magic weapon using the stats of a scimitar
+with the thrown (range 20/60) property. If you’re
+a spellcaster, you can use this weapon as a
+spellcasting focus.
+With the wheel in hand, you can use an action to
+set the wheel ablaze with magical fire. When the
+wheel is ablaze, you have resistance to fire
+damage, targets you hit take an extra 1d6 fire
+damage, and the blade sheds bright light in a 20-
+foot radius and dim light for an additional 20 feet.
+The wheel has 2 charges. When you attack a
+creature with this weapon and roll a 1 on the
+attack roll, the wheel expends 1 charge and casts
+fireball on the space you occupy (save DC 15). If
+the wheel is reduced to 0 charges, the wheel
+shatters into twisted metal shards and is
+destroyed.
+Paid. The wheel regains 1 expended charge
+daily at dawn.
+Overpaid. When you throw the wheel, it casts
+create bonfire (save DC 15) on the space where it
+lands. The spell ends after 1 minute or if you
+come within 5 feet of it.
+FLEETFEATHER SANDALS
+Wondrous item, legendary (requires attunement)
+— see card
+Price: 250,000-600,000 gp | high sentimentality
+These sandals have small golden wings coming
+off their sides.
+Paid. While you wear these sandals, you can use
+an action to cast the haste or fly spells on yourself
+at will. The spells don’t require concentration.
+Casting one of the spells while already under its
+effects resets its duration but doesn’t stack its
+effects.
+Overpaid. While wearing the sandals, your
+Dexterity score increases by 2.
+FLINT OF PHENAX
+Wondrous item, uncommon — see card
+Price: 100-500 gp | low sentimentality
+Campfires, torches, and candles lit with this flint
+shed bright light and heat for 30 feet but aren’t
+visible and can't be felt by anyone standing farther
+than 30 feet from them. The effect doesn't conceal
+objects or creatures around the flame—it simply
+doesn't illuminate them.
+Paid. With the flint in hand, you can use an
+action to have it ignite a candle, torch, or campfire
+without any skill checks.
+Overpaid. With the flint in hand, you can use an
+action to have it extinguish a candle, torch, or
+campfire up to 30 feet away.
+
+
+=== PAGE 21 ===
+20
+FLOATING DRIFTWOOD
+Wondrous item, uncommon
+Price: 400-600 gp | low sentimentality
+This ragged piece of driftwood is a foot long and
+half a foot wide. It always floats atop any liquid
+regardless how much weight is attached to it.
+Pieces broken off it don't retain its properties, and
+it loses its properties if it loses more than half its
+mass.
+Paid. If incorporated into the frame of a
+seafaring vessel, any part of the vessel attached to
+the driftwood can't sink and stays upright.
+Overpaid. While touching the driftwood and in a
+liquid, you can use an action to make it drift
+toward the nearest shore at a speed of 20 feet.
+FRAGMENT OF ANGER
+Wondrous item, common
+Price: 10-80 gp | high sentimentality
+This chipped piece of
+stone comes from an
+Underworld soul who
+has forgotten their own
+identity, thus turning to
+stone and dying a final
+death. It’s filled with
+anger, asking why
+the gods bring
+people into the
+world just to face
+oblivion.
+This fragment
+makes people feel
+irrationally angry when
+they touch it.
+If you obtained this
+fragment from a transformed fragment of
+misera, it’s worth high sentimentality if traded to
+the Gray Merchant.
+Paid. With the fragment in hand, you can focus
+on it to relive in your mind one event from your
+life that made you extremely angry. You can
+perform actions within this mental simulation that
+deviate from what you actually did and see how
+that changes the course of events. During this
+simulation, your actual body is incapacitated. You
+may leave this mental simulation and return to
+reality at will.
+Overpaid. You may choose any willing creatures
+in physical contact with you to participate in the
+mental simulation with you. They’re also
+incapacitated during this simulation but may leave
+the simulation independently and at will.
+FRAGMENT OF JOY
+Wondrous item, common
+Price: 10-80 gp | high sentimentality
+This chipped piece of stone comes from an
+Underworld soul who has forgotten their own
+identity, thus turning to stone and dying a final
+death. It recognizes all things must pass and is
+filled with joy at having lived a life that made a
+positive impact, no matter how small.
+This fragment makes people feel exuberant and
+joyful when they touch it.
+If you obtained this fragment from a transformed
+fragment of misera, it’s worth high sentimentality
+if traded to the Gray Merchant.
+Paid. With the fragment in hand, you can focus
+on it to relive in your mind one event from your
+life that made you extremely joyful. You can
+perform actions within this mental simulation that
+deviate from what you actually did and see how
+that changes the course of events. During this
+simulation, your actual body is
+incapacitated. You may leave this
+mental
+simulation and
+return to
+reality at will.
+Overpaid.
+You may
+choose any
+willing
+creatures in
+physical
+contact with
+you to
+participate in
+the mental
+simulation
+with you.
+They’re also
+incapacitated during this simulation but may leave
+the simulation independently and at will.
+FRAGMENT OF MISERA
+Story, common — see card
+Price: 1 cp - 5 sp | high sentimentality
+This chipped piece of stone makes you feel
+hollow whenever you’re near it, and touching it
+fills you with immense sorrow. It was taken from
+the calcified remains of a soul who has lost all
+memory and identity in the Underworld, suffering
+their final death.
+All creatures who come within 10 feet of the
+fragment for the first time each day must make a
+Underworld Misera
+
+
+=== PAGE 22 ===
+21
+DC 12 Wisdom saving throw and on a failure, be
+compelled to talk about a sad moment from their
+life.
+Paid. After 1 day, prolonged exposure to the
+fragment makes you immune to its sorrow. You no
+longer need to make Wisdom saving throws when
+near the fragment or share sad moments from
+your life.
+Overpaid. Though identity has long fled the lost
+soul that became this misera, the gods don’t
+forget. Klothys grants anyone who touches the
+fragment a glimpse into the soul's life, enough to
+identify the person and the person's surviving next
+of kin. The DM creates an unresolved situation
+pertaining to the soul's former life or chooses one
+from the Unfinished Business table.
+U
+	- B
+	
+
+d6
+Situation
+1
+The soul hid away treasure that was never
+found. The location but not the nature of the
+treasure is now known to you, as well as the
+identity and the whereabouts of the soul's heirs.
+2
+The soul committed a crime that was never
+discovered. You now know the nature of the
+crime, how to obtain proof of the soul's guilt,
+and the identity of the victim and the victim's
+descendants, if any.
+3
+The soul performed heroic deeds but was filled
+with hubris, becoming lost in the Labyrinth of
+Memories in an attempt to escape from Ilysia
+back to the mortal realm. You now know the
+nature of the heroic deeds and who they
+impacted, allowing you to rekindle memories of
+the hero or claim the hero's deeds for your own
+glory.
+4
+The soul died far from a lover who never
+learned the soul's fate. You now know how the
+soul died, where the soul fell, and the identity of
+the soul's lover.
+5
+The soul had an archrival who was at least
+partially responsible for the soul's demise. You
+now know the identity of the archrival and what
+the archrival did to the soul.
+6
+The soul loved a particular piece of art—a play,
+a poem, a song, or the like—which was the last
+memory to leave the soul. You are now familiar
+with that piece of art and know the identity of its
+creator, who is known to give valuable and
+unique gifts to fans. Though the soul
+desperately wished to meet the creator in life,
+such a joyful encounter never occurred.
+Upon resolution of the quest, the fragment
+transforms into a fragment of joy if you resolved
+the quest in a selfless manner or a fragment of
+anger if you resolved the quest in a selfish
+manner. Either fragment possesses both its Paid
+and Overpaid properties.
+FRUIT OF TIZERUS
+Wondrous item, rare — see card
+Price: 1,000-5,000 gp | high sentimentality
+This pomegranate grows from a withered, spiny
+tree in Tizerus, a bleak and hopeless realm outside
+the palace where Erebos, god of the dead, resides.
+The fruit itself is a vivid red and tastes delicious, a
+perfect mix of sweet and tart. It contains 100
+seeds and can be consumed 1 seed at a time or by
+a handful of 10 seeds at a time. You may divide
+and distribute seeds in any quantity you choose.
+A creature that consumes at least one seed feels
+the tug of the Underworld on its soul, causing its
+hit point maximum to reduce by an amount equal
+to the number of seeds consumed. This reduction
+lasts until the target finishes a long rest. The target
+dies if this effect reduces its hit point maximum to
+0. Targets that die while affected by the fruit can't
+be brought back from the dead by any means short
+of a wish spell or divine intervention.
+Once creatures have consumed at least one seed,
+they must succeed a DC 10 Wisdom saving throw
+to realize the seeds are draining their life,
+otherwise they’re distracted by the flavor and
+tempted to eat more. A creature wishing to stop
+eating while seeds remain available to it must
+succeed a DC 15 Wisdom saving throw, otherwise
+it’s tempted into continuing to eat. It may repeat
+the saving throw for every 10 seeds it eats.
+Once cut open, the fruit lasts 3 days before
+dissipating into black smoke. This effect doesn't
+occur if the fruit is in the Underworld.
+Paid. The fruit doesn't dissipate after you cut it
+open.
+Overpaid. The fruit contains 500 seeds.
+Fruit of Tizerus
+
+
+=== PAGE 23 ===
+22
+FUNERARY MASK
+Wondrous item, common — see card
+Price: 5 sp -10 gp | high sentimentality
+This clay mask covers the face of the deceased
+and helps the soul resist the Underworld’s eroding
+effect on memory and identity. A soul that loses its
+identity petrifies into a statue called misera. The
+mask is worth high sentimentality when traded to
+the Gray Merchant in exchange for another item.
+Paid. If you die while wearing this mask in the
+Underworld, you can choose to destroy the mask
+to avoid gaining a level of exhaustion.
+Overpaid. Wearing this mask allows you to
+make Charisma (Deception) checks with
+advantage when convincing undead creatures that
+you aren’t alive. Undead creatures that
+automatically attack the living don’t recognize
+you as living unless given reason to believe
+otherwise.
+GOLDEN FUNERAL MASK OF THE
+GRAY MERCHANT
+Wondrous item, legendary (requires attunement)
+— see card
+Price: 80,000-100,000 gp | medium
+sentimentality
+This mask holds an unlimited number of charges
+to fuel its magic. It loses all charges when a new
+creature attunes to it. While you wear the mask,
+you add 1 charge to the mask every time a
+creature with an Intelligence score of 8 or higher
+dies within 30 feet of you, capturing a small part
+of the creature's life essence but not its soul.
+While you wear the mask, you can consume
+charges to perform the following actions: regain
+expended hit dice (1 charge per die), cast vampiric
+touch (2 charges plus 1 charge per level to cast the
+spell at higher than 3rd level), cast lesser
+restoration (2 charges), cast greater restoration (5
+charges), or cast heal (6 charges).
+Paid. While you wear the mask, you can use an
+action to consume 10 charges to cast mass heal.
+Overpaid. You can use an action to summon the
+Gray Merchant to visit you, but doing so destroys
+the mask, causing it to dissipate into black smoke.
+The Gray Merchant arrives at your location 1-5
+days after you summon him, depending on his
+distance from you at the time you summoned him.
+When he arrives, you may choose one item from
+him without trading another object in return, and
+the trade is treated as though you traded an item
+worth high sentimentality.
+GOLDEN FUNERAL MASK OF
+ASPHODEL
+Wondrous item, common
+Price: 1-5 cp | low sentimentality
+The expression on this mask is eerily neutral, so
+unfeeling you wonder what thoughts lurk
+underneath. While you wear the mask, you don't
+feel anxiety.
+Paid. While you wear this mask, you are
+immune to the frightened condition.
+Overpaid. You learn the location of the
+necropolis of Asphodel and become familiar with
+the layout of its streets.
+GOLDEN FUNERAL MASK OF
+ODUNOS
+Wondrous item, uncommon — see card
+Price: 100-250 gp | low sentimentality
+The expression on this mask is twisted in anger.
+While you wear the mask, you feel great rage.
+You gain a +1 bonus to damage rolls.
+Paid. While you wear the mask, the Returned of
+Odunos don't attack you.
+Overpaid. You learn the location of the
+necropolis of Odunos and become familiar with
+the layout of its streets.
+Gray Merchant’s Mask
+
+
+=== PAGE 24 ===
+23
+GOLDEN FUNERAL MASKS OF THE
+PHALANX
+Wondrous item, uncommon (requires attunement)
+— see card
+Price: 300-1,000 gp | low sentimentality
+The expressions on these masks portray grim
+determination. While this item looks like a single
+mask, you can separate it into up to five masks as
+though the masks were stacked atop each other.
+Any mask taken more than 120 feet away from
+you evaporates into black smoke and ceases
+counting toward the five mask limit. The masks
+you give away remain attuned to you, not the
+creatures who wear them.
+All creatures wearing masks from this set are
+considered joined. Joined creatures share their hit
+points with each other as though they were one
+creature with a hit point and maximum hit point
+total equal to the sum of the joined creatures.
+When a joined creature removes its mask, it takes
+its maximum hit points from the joined group's
+maximum hit points and takes hit points from the
+joined group's remaining hit points equal to the
+proportion of its contribution to the group's
+maximum hit points rounded down.
+For example, if three creatures with 10, 20, and
+30 maximum hit points joined together at full
+health, they share 60 hit points. They then suffer
+10 points of damage, leaving them with 50 hit
+points. The creature that contributed 20 maximum
+hit points removes its mask, taking 16 hit points
+with it and leaving the group with 34 hit points
+out of a maximum of 40 hit points.
+Paid. You determine how many hit points a
+joined creature keeps when it removes its mask.
+You can't withhold hit points from the creature if
+the group would be left with more hit points than
+the group's remaining hit point maximum.
+Overpaid. The masks double a joined creature's
+hit point and maximum hit point contributions to
+the group.
+GOLDEN FUNERAL MASK OF THE
+PSEUDAMMA
+Wondrous item, very rare (requires attunement) —
+see card
+Price: 50,000-200,000 gp | high sentimentality
+The expression on this mask shows great sorrow.
+Once a day, while you wear the mask, you can use
+an action to cast dominate person at 6th level on
+humanoids with a Wisdom score of 10 or lower. If
+you’re otherwise unable to cast spells, use
+Charisma for your spellcasting ability modifier.
+Paid. You cast dominate person at 7th level.
+Overpaid. You cast dominate person at 8th level.
+GRAY MERCHANT’S GOLD COIN
+Wondrous item, common (requires attunement) —
+see card
+These coins drop continuously from the Gray
+Merchant’s bag, forming a trail marking where he
+has passed. They aren’t available for trade but can
+be freely picked up by anyone who comes upon
+them.
+Gold is abundant in the Underworld and
+considered worthless by the Returned, but even
+so, this isn’t a true gold coin. The coin vanishes
+after three days unless you attune to it, which
+causes it to persist for the duration of the
+attunement. You may use a bonus action to focus
+on the coin to determine the general location of
+the Gray Merchant. If the Gray Merchant is far
+away, you know the name of the area. If he’s
+nearby, you know his general direction.
+Whenever you pay less than the recommended
+price of an item in a trade with the Gray
+Merchant, you must roll a d2. If you roll a 1, you
+lose attunement to the coin, are unable to attune to
+any such coin for five days, and any such coins
+you touch vanish instantly.
+Gray Merchant’s
+Gold Coin
+
+
+=== PAGE 25 ===
+24
+HAMMER OF THE FORGED OF
+PURPHOROS
+Weapon (warhammer), artifact (requires
+attunement) — see card
+Price: 200,000-600,000 gp | high sentimentality
+Purphoros, god of the forge, wielded this hammer
+before he crafted a more masterful version. It
+crackles like fire and feels almost unbearably hot.
+The hammer is a magic weapon.
+Up to 3 times each day, you can use an action to
+slam the hammer against the earth to summon a
+font of lava that lasts for 1 minute or until you use
+an action to end it, whichever occurs first. You
+can’t summon another font of lava while the first
+is active. The lava shares your initiative count and
+takes its turn after yours. On its first turn, the font
+creates a pool of lava at its location that is 5 feet
+wide. The pool expands 5 feet in all directions
+each subsequent turn the font is active. Creatures
+and objects suffer 6d10 fire damage when they
+enter lava for the first time on a turn or end their
+turn there.
+Master Crafter. With the hammer in hand, you
+can use an action to cast the stone shape spell
+with the modification that the spell can affect
+stone objects of Huge size or smaller or a section
+of stone no more than 20 feet in any dimension.
+Paid. The hammer deals an extra 1d10 fire
+damage on a hit. The hammer also functions as a
+stone of controlling earth elementals.
+While a font of lava you summoned is active,
+you’re immune to fire damage.
+Overpaid. Your mind becomes feverish with
+Purphoros’ creativity. Describe a piece of
+equipment or an item you want to create. The DM
+works with you to ensure its properties don’t
+break the game’s balance. After ten days, you
+know the formula to create it according to the
+crafting rules in Xanathar’s Guide to Everything.
+The difficulty of crafting the object scales with its
+power, but the task is feasible.
+Hammer of the Forged
+of Purphoros
+
+
+=== PAGE 26 ===
+25
+HELIOD’S GLORY
+Wondrous item, uncommon — see card
+Price: 500-1,500 gp | low sentimentality
+This vase is 3 feet tall, 2 feet in diameter, and
+weighs 60 pounds, requiring two people to carry it
+by its handles. A clay plug covers the opening.
+The painting on the vase depicts Heliod, god of
+the sun, striking down titans with his Sun Spear.
+You can use an action to remove or replace the
+plug. While the plug is removed, swirls of
+brilliant golden light rush out of the vase, granting
+a +2 bonus to AC to all creatures within 120 feet
+of the vase who worship Heliod.
+The vase is immune to all damage and can’t be
+moved by anyone who doesn’t worship Heliod.
+Paid. You can use an action to pull a spear made
+of light from the vase. It has the same stats as a
+regular spear except it deals radiant instead of
+piercing damage. You can use an action to strike
+the vase with the spear, causing the vase to
+shatter. When the vase shatters, the vase and all
+spears pulled from the vase are destroyed and a
+brilliant flash of light erupts from the vase
+outward to a distance of 120 feet. All creatures
+caught in the blast who worship Heliod heal 4d8
+hit points. All other creatures caught in the blast
+suffer 4d8 radiant damage and must succeed a DC
+14 Constitution saving throw or be blinded for
+2d4 turns.
+Overpaid. The vase weighs 10 pounds when you
+first purchase it, allowing it to be carried by one
+person. It gains 10 pounds each day at dawn until
+it reaches its normal 60 pound weight.
+IRIDESCENT PEARL NECKLACE
+Wondrous item, common
+Price: 50-100 gp | low sentimentality
+The pearls of this necklace are said to be the tears
+of a dead and forgotten god of love. While you
+wear this necklace, a light breeze causes your hair
+and clothing to billow elegantly while your face is
+always partially illuminated by soft and romantic
+light. Humanoids perceive you as beautiful but
+sad. This necklace consists of 85 pearls and
+merchants generally pay 1 gp for each pearl or
+100 gp for the intact necklace.
+Paid. While wearing this necklace, you can use a
+bonus action to disable its effects until dawn the
+next day.
+Overpaid. Once a day, while wearing this
+necklace, you can use an action to target one
+creature and know if it is experiencing great love
+or grief.
+IROAN PLEDGE
+Story, common — see card
+Price: none | no sentimentality
+This creased piece of paper is falling apart. It
+looks like it’s been folded and unfolded countless
+times. There’s smudged writing on it, but you can
+still tell how neat the lettering used to be. It’s a
+pledge that’s common among the famed soldiers
+of Akros and swears devotion to Iroas, god of
+victory. Possessing a written copy of the pledge
+isn’t common practice, but it’s occasionally done
+by soldiers to shore up their spirits before a battle.
+The copies that do exist are treasured for their role
+in bringing victory. It’s unusual to see one be
+discarded like this.
+The DM can craft an adventure around why a
+famed Akroan soldier would forfeit a treasured
+symbol of a beloved god or roll against the Lost
+Faith table for the reason.
+L
+ F
+d6
+Reason
+1
+The soldier who composed the pledge died in
+battle and whoever inherited the pledge lost
+faith in Iroas.
+2
+The soldier traded the pledge for something
+from the Gray Merchant that would help win a
+greater battle ahead.
+3
+The soldier decided to pursue a different path
+in life and gave up worship of Iroas, but Iroas
+doesn't take kindly to those who flee the
+battlefield.
+4
+The soldier feared that having a written version
+of the pledge indicated a lack of faith in Iroas,
+but giving up the keepsake has taken a terrible
+toll on the soldier's morale.
+5
+A foe captured the soldier and forced the
+surrender of the pledge.
+6
+The soldier received a prophetic vision from
+Iroas and learned that giving up the pledge
+would lead someone who needed it more to
+acquire the training needed for battles ahead.
+Paid. You know that Akroan soldiers have close
+bonds and speaking to one may help you identify
+the owner of this pledge.
+Overpaid. Divine intervention clears enough of
+the smudges on the pledge to reveal the signature
+and name of the soldier who wrote it.
+JUDGY GOLDEN APPLE
+Wondrous item, common
+Price: 50-800 gp | low sentimentality
+This golden statuette of an apple is perfectly
+ordinary. Once a day, creatures who come within
+30 feet of the apple believe they hear the apple
+say something judgy about their appearance or
+
+
+=== PAGE 27 ===
+26
+personality, but statuettes can't talk, and neither
+can apples.
+Paid. Look, it's a perfectly normal golden apple.
+It's okay to be lonely without anthropomorphizing
+inanimate objects.
+Overpaid. Wow, you really paid too much for
+this thing. Try being less frivolous next time.
+KARAMETRAN SICKLE
+Weapon (sickle), common — see card
+Price: 1-10,000 gp | medium sentimentality
+This sickle slices effortlessly when harvesting any
+ripe fruit or crop that’s ready for harvest. It passes
+harmlessly through any fruit or crop that isn’t
+ready for harvest, leaving them to continue
+growing. The sickle is a magic weapon.
+Paid. Any fruit or vegetable harvested by the
+sickle tastes delicious and how one imagines the
+ideal version of that fruit or vegetable should
+taste.
+Overpaid. Once a day for the first ten days after
+you purchase this sickle from the Gray Merchant,
+you may cast the commune spell without requiring
+material components to contact Karametra.
+LAUREL WREATH
+Wondrous item, rare — see card
+Price: 1,000-5,000 gp | low sentimentality
+This wreath is only given to champions of the
+Iroan Games held in Akros. People assume
+anyone who possesses or wears such a wreath
+won one of the sporting events at the Games.
+While you hold or wear the wreath, you have
+advantage on any Charisma checks in which you
+make an appeal to athleticism or athletic fame. If
+you won this wreath yourself at the Iroan Games,
+you may choose to have advantage on Strength
+(Athletics) or Dexterity (Acrobatics) checks up to
+three times a day.
+Paid. The legacy of whoever previously owned
+the wreath inspires you. Once a day, while
+wearing the wreath, you may reroll a Strength
+(Athletics) or Dexterity (Acrobatics) check. You
+must use the new roll.
+Overpaid. Klothys appreciates the respect
+you’ve shown by valuing such an item highly and
+gives you the opportunity to earn the right to wear
+the wreath honestly. Upon the completion of a
+great feat of athleticism or heroism, determined
+by the DM, you receive an invitation to participate
+in the next Iroan Games. A wreath won at the
+Iroan Games is worth high sentimentality.
+LEONIN HAIRBRUSH
+Wondrous item, common
+Price: 5-20 gp | no sentimentality
+This brush comes from Oreskos, a remote river
+valley ruled by leonin where grooming is
+important for cleanliness.
+Paid. The hairbrush effortlessly and painlessly
+untangles knots.
+Overpaid. You attract domesticated animals that
+have fur in need of brushing. The hairbrush loses
+this property if you directly or indirectly cause
+harm to an animal that approaches you for this
+reason.
+LEONIN SNARE
+Adventuring gear, common — see card
+Price: 1-3 gp | no sentimentality
+This intricately woven snare can be thrown at a
+single creature or set as a trap when connected to
+a tripwire. Once thrown or triggered, a creature
+must succeed a DC 13 Dexterity saving throw or
+be restrained. A creature can use its action to
+make a DC 15 Dexterity check and on a success,
+untangle the snare to free itself or another creature
+within its reach. Each failed check tangles the
+caught creature further, increasing the DC of the
+Dexterity check to untangle the snare by 1, up to a
+maximum of 20.
+Paid. The snare comes with instructions on how
+to craft your own, requiring 50 feet of rope, 4
+stones weighing at least 5 pounds each, and 6
+hours to assemble.
+Overpaid. Through perhaps divine revelation,
+you realize a way to throw the snare that increases
+the DC of the Dexterity saving throw to dodge it
+to 15.
+LIGHTNING DIADEM
+Wondrous item, rare (requires attunement) — see
+card
+Price: 5,000-10,000 gp | medium sentimentality
+This diadem is made of crackling lightning but
+can be held as though made of metal. While you
+wear the diadem, any creature that hits you with a
+melee attack must succeed a DC 14 Constitution
+check or suffer 1d4 lightning damage.
+Paid. While you wear the diadem, creatures
+within 5 feet of you that suffer lightning damage
+also suffer 1d4 thunder damage.
+Overpaid. You have resistance to lightning
+damage.
+
+
+=== PAGE 28 ===
+27
+MELETIS AGORA LICENSE
+Adventuring gear, common
+Price: 50 gp | no sentimentality
+This license permits you to set up a merchant
+stand in the agora of Meletis. It bears the
+appropriate seals and has blank spaces you can fill
+in with identifying information for you and your
+shop. It was likely traded to the Gray Merchant by
+a Meletian official for a monetary value
+equivalent to the agora's licensing fee. The DM
+determines the value of the licensing fee, which
+could be significantly higher than the price given
+here by the Gray Merchant. If you’ve visited
+Meletis, you may make a DC 15 Intelligence
+(History) check, and on a success, recall the
+amount of the licensing fee. You make the check
+with advantage if you’re from Meletis.
+Paid. If traded back to the Gray Merchant for a
+different item, the monetary value of this item is
+whatever it costs in Meletis to obtain such a
+license.
+Overpaid. Upon receipt of the license, you
+realize you recognize the seal on the license and
+know the identity of the Meletian official who
+issued it.
+MIRROR OF ALIRIOS
+Wondrous item, common — see card
+Price: 1-100 gp | low sentimentality
+This rectangular mirror is 2 feet tall, 1 foot wide,
+and weighs 4 pounds. Characters looking into this
+mirror see themselves the way they wished they
+looked, representing their ideal selves. They can't
+see anyone else’s reflection in this mirror.
+Paid. Characters see other people’s reflections in
+this mirror, but they appear as they do in real life,
+not the way they see themselves in the mirror.
+Overpaid. Characters see other people’s
+reflections in this mirror and those reflections
+appear the way those people see themselves in the
+mirror.
+MIRROR SHIELD
+Armor (shield), rare — see card
+Price: 1,000-10,000 gp | low sentimentality
+The surface of this metal shield is so perfectly
+reflective that you can use it as a mirror. Your
+gaze is considered averted from a creature or
+object when you view its reflection in the shield.
+Paid. With the shield in hand, when a spell that
+targets you and requires an attack roll misses you,
+you can use your reaction to reflect the spell back
+at the creature that attacked you. You make a
+ranged attack roll as part of the same reaction to
+determine if the reflected spell hits.
+Overpaid. With the shield in hand, you gain a +2
+bonus to saving throws against spells that require
+the target to make a saving throw to avoid some
+or all of a spell's effects.
+NYX LOTUS
+Wondrous item, very rare (requires attunement) —
+see card
+Price: 20,000-70,000 gp | high sentimentality
+This lotus can hold up to 9 charges and starts with
+all charges expended when you first attune to it.
+Once a day, you can spend 10 minutes praying to
+a god. If the god is pleased with you, the lotus
+regains 1d4 expended charges. Alternatively, you
+may sacrifice to the god instead of praying,
+following the appropriate ritual and giving an
+appropriate offering, to regain 1d8 + 1 expended
+charges.
+While you’re carrying the lotus, you can use an
+action to target yourself to regain an expended
+spell slot, expending a number of charges from
+the lotus equal to the level of the spell slot.
+Paid. With the lotus in hand, you can use an
+action to destroy it and regain an expanded spell
+slot of any level, regardless how many charges the
+lotus is holding.
+Overpaid. You can choose a creature other than
+yourself as the target of your action when you use
+the lotus.
+Nyx Lotus
+
+
+=== PAGE 29 ===
+28
+ORESKOS HERESY
+Wondrous item, very rare (requires attunement) —
+see card
+Price: 45,000-99,000 gp | medium sentimentality
+This stone amulet depicts the profile of a leonin
+face roaring in defiance of the heavens.
+Paid. While wearing the amulet, you ignore
+restrictions requiring you to be a worshiper of a
+god. For example, you’re able to enter areas
+warded to restrict access to those who don’t
+worship a specific god, even if you don't worship
+that specified god. You’re also able to attune to
+magic items such as the Sun Spear, which require
+you to worship a certain god or type of god, even
+if you don't worship the specified god.
+Overpaid. You benefit from the amulet's effects
+even if you’re not wearing it, as long as you
+remain attuned to it and know its location.
+PHARIKA’S CURE
+Potion, uncommon — see card
+Price: 10-150 gp | no sentimentality
+When you drink this potion, roll a d4. If you roll a
+1, you suffer poison damage equal to your
+maximum hit points. The potion's smoky,
+purplish-pink liquid hisses like a pit of snakes.
+Paid. When you drink this potion, you gain the
+benefits of the greater restoration spell. You must
+still roll to see if you suffer poison damage.
+Overpaid. You roll a d10 instead of a d4 to
+determine if you suffer poison damage.
+PHARIKA’S LIBATION JAR
+Wondrous item, rare — see card
+Price: 5,000-8,000 gp | medium sentimentality
+Paintings of venomous snakes cover the jar. The
+jar can hold up to a cup's worth of liquid and any
+liquid placed in the jar and kept there for 24 hours
+becomes a poison with the properties of assassin's
+blood (DMG). The poison retains all the liquid's
+original properties, including taste, texture, and
+appearance, and its poisonous nature can only be
+detected via magic. A sip of the liquid counts as a
+full dose of the poison, but drinking more, up to
+the full cup, doesn’t increase the poison's effects.
+Once you’ve added any amount of liquid into
+the jar, you can’t add more liquid until you pour
+out what’s already in the jar.
+Paid. Instead of gaining the properties of
+assassin's blood, the liquid gains the properties of
+an ingested poison of your choice from the
+Dungeon Master's Guide. You must choose the
+type of poison when you first pour the liquid into
+the jar, or it defaults to assassin's blood.
+Overpaid. The liquid only needs to be in the jar
+for 12 hours to become the poison of your choice.
+PHOENIX FEATHER
+Wondrous item, uncommon (requires attunement)
+Price: 500-750 gp | low sentimentality
+The fires that once erupted from this phoenix's
+feather have long extinguished, but the feather is
+still hot to the touch.
+Paid. After you attune to the feather, the first
+time you would drop to 0 hit points as a result of
+taking damage, you instead regain hit points equal
+to your maximum hit points and the feather bursts
+into flame and is destroyed.
+Overpaid. When the feather is destroyed, a
+sphere of fire erupts from the feather. Creatures
+within 30 feet of the feather that aren’t attuned to
+it must make a DC 12 Dexterity saving throw.
+Targets suffer 4d6 fire damage on a failed save, or
+half as much damage on a successful one.
+POTION OF PARADOX
+Potion, rare
+Price: 1,200-2,400 gp | low sentimentality
+When you drink this potion, you contemplate the
+nature of the universe. You realize that a creature
+moving toward a destination must first move half
+the distance between it and its destination, then
+half the remaining distance, again and again,
+meaning that it never manages to reach its goal.
+This liquid is a clear concoction that distorts
+objects seen through it such that they seem to
+stretch infinitely into the distance.
+Paid. For 10 minutes after you drink this potion,
+creatures can't move toward you more than half
+the distance between them and you during their
+turn.
+Overpaid. For 10 minutes after you drink this
+potion, ranged attacks that target you don't hit
+until the end of your turn. If you move during
+your turn, the ranged attack misses and strikes the
+empty air where you previously stood.
+PROWLER’S HELM
+Wondrous item, uncommon (requires attunement)
+— see card
+Price: 600-1,500 gp | low sentimentality
+An ethereal green glow fills the inside of this
+warrior’s helm. While you wear it, you gain a +1
+bonus to Dexterity skill checks.
+
+
+=== PAGE 30 ===
+29
+Paid. While you wear the helm, you have
+advantage on Dexterity (Stealth) checks made to
+hide.
+Overpaid. Once a day, while you wear the helm,
+you can use an action to cast the pass without
+trace spell.
+PYXIS OF PANDEMONIUM
+Wondrous item, legendary — see card
+Price: 1,000,000 gp | high sentimentality
+This plain pyxis looks like an average piece of
+ceramic except it’s immune to all damage and
+covered by a lid that can’t be removed.
+Paid. Any creature can use an action to remove
+the lid when in initiative order to trigger the
+following events:
+The DM identifies every creature within 180 feet
+of the pyxis that is attuned to at least one item and
+compiles a list of all attuned items. All identified
+creatures lose attunement to their items. The DM
+gives the creature that removed the lid one
+randomly selected item from the list. The DM
+then gives one randomly selected item from the
+list to the next identified creature in the initiative
+order and repeats this activity until all items are
+distributed. When all items are distributed, all
+identified creatures immediately equip and
+become attuned to the items they received.
+Next, all creatures within 180 feet of the pyxis
+lose all magic items to which they aren’t attuned.
+The lost items move into a pocket plane for the
+next 10 minutes, and at the end of the duration,
+they appear in a pile at the feet of the creature that
+removed the lid.
+Finally, the DM rolls a d4 and if the result is a 1,
+the pyxis erupts in flames and is destroyed.
+Overpaid. There are no additional effects.
+QUILL OF EPHARA
+Wondrous item, common
+Price: 70-250 gp | low sentimentality
+You can use the quill to write a message or draw
+on any solid surface, including the surface of a
+living creature, and your work is always legible as
+you intended. The message appears to be written
+in black ink, but the quill doesn’t need ink to
+write. Nothing can remove the message or
+drawing except salt water, which instantly washes
+it away.
+Paid. You can choose the color of the quill’s ink
+and change the color at will as long as you’re
+within 30 feet of what you wrote or drew.
+Overpaid. When you finish writing, you can
+choose to make your written words
+understandable by all. All creatures who know at
+least one language see your message as though
+written in a language they know.
+RING OF ANAX
+Story/ring, artifact (requires attunement by a
+creature that worships Purphoros, doesn’t require
+attunement if the creature is attuned to the Ring of
+Cymede) — see card
+This ring belongs to Anax, king of Akros, and
+remains in Anax's possession unless he has died or
+is no longer mortal.
+You gain the following attributes when wearing
+the ring:
+Hardened by War. You have resistance to
+bludgeoning, slashing, and piercing damage.
+Inspirational Warrior. Allies within 30 feet of
+you gain a +2 bonus to attack rolls when attacking
+with a weapon.
+Frontline Commander. While you wear the
+ring, you gain a +1 bonus to your damage for each
+ally who successfully hit a target since the end of
+your last turn.
+Destroying the Ring. You can't destroy the ring
+so long as Anax or his spirit survives, but Anax
+takes the ring from you if you help him reunite
+with Cymede. In return, you receive the Ring of
+Promised Reunion.
+Story. Unlike the descriptions for the items in
+this supplement, this section is intended for the
+DM’s eyes only. Potential spoilers follow for
+players. In Magic: The Gathering lore, Anax ruled
+Akros with his wife, Queen Cymede. Both were
+celebrated champions who jointly built the city up
+to the stature it enjoys in the present day. Though
+Anax started as a fierce warrior and worshiper of
+Iroas, god of victory, he matured with his city and
+came to value building and creating, shifting his
+allegiance to Purphoros, god of the forge.
+Cymede, on the other hand, was a steadfast
+devotee of Keranos, god of storms. She was a
+talented wielder of elemental magic, drawing the
+admiration of the god himself, and in her youth, a
+lightning strike granted her a limited ability to see
+the future. Such a gift was a mixed blessing, as
+the visions Keranos shared couldn’t be changed.
+Eventually, a great war broke out and an army
+laid siege to Akros. Anax was gravely injured
+defending the city, and seeing no other option,
+Cymede pledged herself to Keranos in exchange
+for his intervention. A pillar of fire consumed
+Cymede, taking her into Nyx to be by Keranos’
+side. In exchange for her sacrifice, the god sent a
+tidal wave that saved Anax and broke the siege.
+
+
+=== PAGE 31 ===
+30
+The peace Cymede bought was short-lived,
+however, as a war between the gods broke out
+shortly afterward. Each of the major deities chose
+a mortal hero as their champion, transforming
+them into demigods at the cost of their
+individuality. Anax became the champion of
+Purphoros and lost all free will, his mind
+consumed only with victory. However, those who
+face him and survive report that despite his single-
+minded ferocity, he constantly repeats one word:
+“Cymede.”
+Your campaign may take place at any point in
+this timeline or deviate from the story altogether,
+but if you wish to use elements of the tale, the
+Rings of Anax and Cymede provide you a way to
+bring their story to a happier conclusion.
+RING OF CYMEDE
+Ring/story, artifact (requires attunement by a
+creature that worships Keranos or a god of
+elemental power) — see card
+Price: 450,000-500,000 gp | medium
+sentimentality
+This ring belonged to Cymede, queen of Akros,
+before her ascension into Nyx to serve Keranos,
+god of storms. While you wear the ring, you
+occasionally have visions about events that will
+occur. The visions may be so vague you only
+understand them in hindsight or so clear you feel
+you’re watching events unfold before you. The
+only common theme is that any vision you see
+can't be changed—events will unfold exactly as
+foretold.
+Paid. You gain the following attributes when
+wearing the ring:
+Skilled Tactician. You gain advantage on
+Wisdom (Insight) checks to detect deception.
+Master of Elements. You have resistance to fire,
+cold, lightning, and thunder damage. You gain a
++3 bonus to attack rolls or DC to save when
+casting spells that deal fire, cold, lightning, or
+thunder damage.
+Overpaid. While you wear the ring, you can lose
+a quarter of your maximum hit points to cast the
+conjure elementals spell with the modification that
+the spell doesn't require concentration and the
+elemental can't become hostile toward you.
+Destroying the Ring. You can't destroy the ring
+so long as Cymede or her spirit survives, but
+Cymede takes the ring from you if you help her
+reunite with Anax. In return, you receive the Ring
+of Promised Reunion.
+Story. Unlike the descriptions for the items in
+this supplement, this section is intended for the
+DM’s eyes only. Potential spoilers follow for
+players. Continuing the story told under the Ring
+of Anax entry, Cymede’s ability to foresee the
+future showed her an eventual reunion with Anax.
+Should you wish to pursue such a storyline, the
+character who attunes to the ring sees a recurring
+vision of that promised reunion. The character
+senses great divine wrath accompanying this
+vision, as Keranos doesn't wish to lose Cymede,
+but some destinies are greater than even the gods.
+If Anax has relinquished possession of the Ring of
+Anax, the visions drive the character to obtain it.
+RING OF PROMISED REUNION
+Story/ring, artifact (requires attunement by a
+creature that helped reunite Anax and Cymede) —
+see card
+
+
+=== PAGE 32 ===
+31
+This steel ring is shaped like two hands clutching
+each other and can only be obtained from Anax
+and Cymede if you helped reunite them and
+returned both their rings to them (see Ring of
+Anax and Ring of Cymede).
+Once a day, you can cast the resurrection spell
+without expending a spell slot if you fulfill the
+spell's component requirements.
+One time ever, you can use an action to cast
+either the basic use of the wish spell or one of the
+other specified effects of the wish spell without
+suffering the stress of casting the spell. You can't
+wish for an effect beyond the scope of the
+specified effects.
+Destroying the ring. You can’t destroy the ring
+so long as Anax or Cymede survive in mortal or
+spiritual form.
+RINGS OF KYNAIOS AND TIRO
+Ring, artifact (requires attunement by a pair of
+creatures friendly toward each other) — see card
+Price: 600,000-900,000 gp | medium
+sentimentality
+This pair of rings belonged to Kynaios and Tiro,
+legendary joint kings of Meletis who overthrew a
+tyrannical archon and founded the polis over the
+ruins of his empire. They were
+lovers who ushered in an age
+of enlightenment and
+peace, though their tale
+became lost to time.
+Two creatures friendly
+to each other must attune
+to the rings at the same
+time. You can neither
+attune to both rings nor
+a single ring by itself.
+While wearing the
+rings, you can communicate via
+telepathy with the other ring's
+owner no matter the distance
+between you, even if you are on
+different planes.
+Paid. When you’re within 10
+feet of the other ring's owner,
+both your ability modifiers
+become the sum of your
+individual ability modifiers. In
+combat, when you’re within 10
+feet of the other ring's owner,
+you each gain an additional
+action and both of you can use
+an action to allow the other to
+take an action instead.
+Overpaid. If the other ring's owner is 30 feet or
+closer to you and is the target of an attack that
+would hit them, you can use your reaction to
+move beside them and be the target of the attack
+instead. This reaction doesn't provoke opportunity
+attacks.
+Destroying the Rings. The rings are immune to
+all damage unless the souls of Kynaios and Tiro
+revoke their blessings on the rings, in which case
+they lose all magical properties.
+ROD OF GALLIA
+Rod, very rare (requires attunement) — see card
+Price: 15,000-35,000 gp | medium sentimentality
+This ivory rod has wildflowers blooming out of
+the tip and the handle is gilded with gold. Once a
+day, with the rod in hand, you can use an action to
+drive it into the ground, causing joyful music with
+a catchy beat to erupt out of it for 1 minute. The
+music ends early if you pull the rod out of the
+ground.
+Paid. For the duration of the rod's music, all
+creatures within 120 feet of the rod, including
+yourself, must succeed a DC 15 Charisma saving
+throw or be compelled to drop what they’re
+holding, link hands in a circle, and dance.
+Creatures immune to being charmed automatically
+succeed their saving throw. When the music ends,
+all associated compulsions also end.
+Overpaid. Once a day, if the Otto's Irresistible
+Dance spell is on your class' spell list, you can
+cast the Otto's Irresistible Dance spell at 6th level
+without expending a spell slot.
+ROD OF KERANOS
+Rod, very rare (requires attunement
+by a spellcaster) — see card
+Price: 75,000-100,000 gp | high
+sentimentality
+This metal rod is 2 feet long and
+causes anyone who touches it to
+receive a harmless static shock. It
+hums with energy. With the rod in
+hand, you have resistance to lightning
+damage.
+Paid. Once a day, with the rod in
+hand, you can cast the call lightning
+spell at 9th level.
+Overpaid. Once a day for the first ten
+days after you attune to the rod, you
+may cast the commune spell without
+requiring material components to
+contact Keranos, god of storms.
+Rod of Gallia
+Rod of Keranos
+
+
+=== PAGE 33 ===
+32
+SACRIFICIAL KNIFE
+Weapon (dagger), very rare (requires attunement
+by a creature that worships a god) — see cards
+Price: 10,000-30,000 gp | medium sentimentality
+The knife is beautiful, with gold trim on the
+handle. You can choose to have it deal 4d4
+slashing damage instead of its normal 1d4
+piercing damage when attacking beasts with a
+challenge rating of 0.
+Paid. Once a day, you can use an action to pull
+out the entrails of a creature killed by the knife
+and spend 10 minutes studying them to reveal
+omens about the future.
+Roll on the Omens table to determine the omen
+you receive.
+O1	
+d12
+Omen
+1-3
+Disease has turned the entrails black, and the
+patterns in the putrid infestation tell you an
+Omen of the Dead.
+4-5
+Green, undigested foliage fills the entrails,
+giving an Omen of the Hunt.
+6-7
+You see glimmers of blue among the shiny
+entrails like light sparkling off ocean waves,
+revealing an Omen of the Sea.
+8-9
+Red blood seeps from fresh entrails like
+molten metal through molds, presenting an
+Omen of the Forge.
+10-11 White fat runs through these entrails, meaning
+they’ll burn aromatically, presenting a fine
+sacrifice to Heliod, chief among the gods. It’s
+an Omen of the Sun.
+12
+An absence of color in these entrails doesn’t
+mean an absence of meaning, instead being
+an Omen of the Night Sky
+Each omen grants different benefits:
+Omen of the Dead. The omen warns of a brush
+with death. Roll five d20s and record the results in
+the order you rolled the dice. The first time you’d
+drop to 0 hit points within the next 24 hours,
+determine whether you’d stabilize or die if you’d
+rolled the recorded results as your death saving
+throws. If you’d stabilize, you instead drop to 1
+hit point. If you’d die, you die immediately.
+Omen of the Hunt. The omen predicts a great
+hunt. Roll two d20s and record the results. The
+first time you enter combat within the next 24
+hours, assign the results of the rolls to two
+different creatures entering combat—you can only
+assign each result once—and those results replace
+the values of their Dexterity checks when
+determining their initiative order.
+Omen of the Sea. The sea is no place for the
+unskilled, so the omen grants you visions to aid in
+the trials that may come. The next three times you
+make a skill check within the next 24 hours, you
+make the check with advantage.
+Omen of the Forge. The omen reminds you that
+destruction must accompany creation. Roll 2d12
+and record the result. Once in the next 24 hours,
+you can use a bonus action to target one creature
+within 60 feet of you to suffer fire damage equal
+to the value of the result. Creatures don't know
+you’re the cause of the damage unless they’re
+worshipers of Purphoros, within 30 feet of you
+when you use your bonus action, and succeed a
+DC 14 Wisdom (Perception) check.
+Omen of the Sun. The omen tells of coming
+dangers. Roll three d20s and record the results.
+During the next 24 hours, you can use each result
+once to replace the result of a saving throw made
+by any creature within 60 feet of you.
+Omen of the Night Sky. The omen speaks of
+magic descending from Nyx to aid you, weakened
+by the journey but still effective. Roll three d20s,
+halve the results, rounded down, and record the
+halved results. During the next 24 hours, you can
+use each result once to add it to any roll you
+make.
+Overpaid. The first time you attune to the knife,
+you gain the effects of the legend lore spell as
+though you cast it.
+SATYR’S PILOI
+Wondrous item, uncommon (requires attunement)
+Price: 400-600 gp | low sentimentality
+While wearing these piloi, or socks, your legs
+transform into the legs of a satyr. The size and
+length of the satyr's legs don’t scale according to
+your size—you have a speed of 40 feet, a high
+jump of 4 feet, and a long jump of 12 feet.
+Paid. While wearing the piloi, your standing
+long jump distance is the same as your long jump
+distance and you always land on your feet when
+landing in difficult terrain.
+Overpaid. While wearing the piloi, you have
+advantage on Strength and Dexterity saving
+throws made against effects that would knock you
+prone.
+SCARF OF ATHREOS
+Wondrous item, uncommon
+Price: 500-4,000 gp | low sentimentality
+This scarf has been blessed by clerics of Athreos,
+the god of passage who ferries souls of the dead to
+the Underworld. It protects travelers so they’re
+able to reach their intended destinations. It also
+protects the living so that they don’t meet their
+death before their fated time.
+
+
+=== PAGE 34 ===
+33
+Paid. Once a day, while you wear the scarf, it
+automatically covers your face if you’re exposed
+to a poisonous substance, giving you advantage
+on your Constitution saving throw against the
+poison's effects.
+Overpaid. While you wear the scarf, it constricts
+lightly around you to warn you if you’re about to
+ingest a poisonous object.
+SCRAP OF EPIC POETRY
+Story, common
+Price: none | no sentimentality
+This piece of parchment contains what appears to
+be a draft of a few stanzas of an epic poem, with
+many revision marks and words scratched out and
+replaced. Nevertheless, the writing is evocative
+and creative, leading you to wonder who
+created—and then discarded—this work.
+The DM can craft an adventure around why the
+poet would give away this poem or roll against the
+following tables:
+R	
+  D
+5- 	 P	1
+d8
+Reason
+1
+Frustration after being unable to find an
+audience
+2
+Inability to complete the poem due to writer's
+block
+3
+Completion of the final draft of the poem,
+rendering the early drafts expendable even if
+they hold sentimental value
+4
+Desire to obtain something from the Gray
+Merchant to help with the poet's art
+5
+Hope to give the Gray Merchant new meaning
+and identity in life through artistic inspiration
+6
+Belief that the unfinished poem would find its
+way into the hands of someone who needs it
+7
+Fear because reading the poem causes terrible
+nightmares
+8
+Sadness due to real world events that occurred
+during the writing of the poem making it
+impossible to work on it without being reminded
+of tragedy
+R	7-  F- 	 P	 (-
+519	  	:	
+	- 
+;
+)
+d6
+Reward
+1
+A copy of a completed poem (DM's choice
+whether it has magic properties)
+2
+A magic item from table B in chapter 3
+3
+The poet as a trustworthy contact
+4
+Cryptic hints about how to progress another
+quest the party is undertaking
+5
+The poet as the party’s companion to chronicle
+its tale
+6
+The poet as a traveling bard who spreads
+heroic tales of the party's deeds, building a
+reputation for the party
+P	1 C	
+d6
+Subject
+1
+A great war
+2
+A doomed romance
+3
+The adventures of someone chosen by the
+gods to be their champion
+4
+A mission to slay a great monster
+5
+A struggling polis returning to glory under the
+guidance of its former ruler's heir
+6
+The fall of a hero who dared challenge the gods
+P	’
+ C	 W		A
+d10 Location and Activity
+1
+Building an audience in Meletis
+2
+Chronicling heroic deeds in Akros
+3
+Communing with nature in Setessa
+4
+Contemplating the world's edge at Kruphix's
+Temple of Mystery
+5
+Exploring sorrow in the ruins of Iretis
+6
+Captured for sacrifice in the minotaur polis of
+Skophos
+7
+Seeking an answer from the gods at the shrine
+of Nykthos
+8
+Accompanying a group of adventurers sailing
+the ocean beyond the Siren Sea
+9
+Adopted by centaurs in the Nessian Wilds in
+exchange for a promise to tell their stories
+10
+Inspiring the leonin of Tethmos to rise up and
+conquer the world
+SETESSAN JOKE BASKET
+Wondrous item, common
+Price: 15-25 gp | low sentimentality
+This beautiful woven basket is always filled with
+wax apples. No matter how many you take, it
+remains full. The wax apples appear to be real
+apples in every sense, from touch to smell, except
+when you bite down on them and end up with a
+mouthful of wax.
+Paid. Not all the apples in the basket are fake
+anymore. When you bite into an apple from the
+basket, roll a d2. On a 1, the apple is wax. On a 2,
+the apple is real.
+Overpaid. If you purchased the basket, you can
+tell if an apple is real or fake by touching it.
+Setessan
+Joke Basket
+
+
+=== PAGE 35 ===
+34
+SETESSAN LASSO
+Weapon (whip), very rare (requires attunement)
+Price: 80,000-160,000 gp | high sentimentality
+This lasso looks like an ordinary piece of rope,
+but when you attack, it glows with golden light
+and deals a bonus 1d8 radiant damage on hit.
+Paid. With the lasso in hand, you can use the
+lasso to attempt to grapple one creature with
+advantage and can use a Dexterity (Acrobatics)
+check instead of Strength (Athletics). When you
+attempt to grapple foes with the lasso, you have a
+reach of 10 feet and can grapple foes of any size.
+You can't grapple more than one creature at a time
+with the lasso. You can use an action to place a
+creature you’re grappling with the lasso under the
+same effects as the zone of truth spell, and the
+creature makes its save with disadvantage. If
+you’re otherwise unable to cast spells, use
+Wisdom for your spellcasting ability modifier.
+Creatures can’t cut themselves free from the lasso.
+Overpaid. When you attempt to place a creature
+grappled by the lasso under the same effects as the
+zone of truth spell, the DC for its saving throw
+increases by 5.
+SIGILED STARFISH
+Story, rare — see card
+Price: 500-1,500 gp | no sentimentality
+This desiccated starfish has glowing red sigils
+carved into its body in a language only Nyxborn
+creatures or oracles can read. The sigils document
+a dire prophecy from Kruphix about a threat to all
+of Theros.
+The DM can roll on the Prophecies of Doom
+table to determine the nature of the prophecy.
+P9	5	
+  D1
+d4
+Subject of the Prophecy
+1
+A conspiracy pertaining to the ultimate threat of
+a campaign
+2
+A threat from another plane (eg. Nicol Bolas,
+Acererak, etc.)
+3
+A war between the gods (eg. Heliod trying to
+eliminate worship of the other gods)
+4
+An individual fated to become a threat to
+Theros (eg. Xenagos, Elspeth, maybe even
+yourself or a party member...)
+Paid. You realize the starfish is a rare specimen
+that can be resold for a price similar to what you
+paid for it.
+Overpaid. New text appears on the starfish's
+body giving a previously unknown hint about how
+to stop the threat.
+SKEIN OF SKOPHOS
+Wondrous item, uncommon (requires attunement)
+— see card
+Price: 800-1,000 gp | low sentimentality
+This skein of yarn contains 1,000 feet of yarn
+coiled in a ball that fits in your hand and weighs 1
+pound. You can unravel the coil to leave a trail of
+yarn behind you. As long as the yarn remains
+connected to the skein, the yarn is unyielding and
+can’t be moved except by you, the use of a wish
+spell, or divine intervention. If strung above the
+ground, creatures that move into the yarn must
+succeed a DC 10 Strength saving throw or fall
+prone. A segment of yarn can be cut or destroyed
+by suffering a cumulative 10 points of magical
+slashing, acid, fire, lightning, or necrotic damage,
+at which point all segments of yarn not connected
+to the skein become normal yarn with no magical
+properties. The yarn is immune to all other types
+of damage.
+Paid. The yarn becomes invisible to everyone
+except you when you begin unraveling it. It
+becomes visible again once you ravel all
+connected segments back into the skein.
+Overpaid. If strung above the ground, creatures
+that move into the yarn suffer 1d6 magical
+slashing damage.
+Sigiled Starfish
+Skein of Skophos
+
+
+=== PAGE 36 ===
+35
+SORROWFUL LEKYTHOS
+Wondrous item, common
+Price: 1-10 gp | high sentimentality
+This narrow clay flask stands 7 inches
+tall and is 3 inches at its widest diameter.
+It has an elegant thin handle and depicts a
+group of bards playing at a funeral. It
+weighs 3 pounds.
+You can pour up to 8 ounces of
+fragrant olive oil used for funerals out
+of the lekythos each day. The
+lekythos refills the next dawn.
+Anyone smelling the poured out
+oil remembers the saddest
+moments of their life until they
+stop smelling the oil.
+Loud sorrowful wails emit
+from within the lekythos when
+it’s empty.
+Paid. A chorus singing a sad
+dirge—the words indistinct—
+replaces the loud sorrowful
+wails when the lekythos is empty.
+Overpaid. Instead of hearing a chorus or
+wails when the lekythos is empty, anyone
+who has a deceased love one hears the
+voice of the deceased calling out from
+within the lekythos.
+SOUL-GUIDE LANTERN
+Wondrous item, uncommon — see
+card
+Price: 100-750 gp | low
+sentimentality
+When lit, any undead creature
+with a challenge rating of 1 or
+lower that comes within 60
+feet of the lantern becomes
+unconscious until it’s no
+longer within 60 feet of the
+lantern or the lantern
+extinguishes, whereupon it
+wakes prone if it has more
+than 0 hit points.
+Paid. Undead creatures with
+a challenge rating higher than 1
+must succeed a Wisdom saving
+throw (DC 15 - their challenge
+rating) or suffer the same effects
+from the lantern as undead
+creatures with a challenge rating of 1 or lower.
+Overpaid. The lantern has 3 charges, which are
+used to fuel the magic it contains. With the lantern
+in hand, you can use your action to expend 1
+charge to cast the banishment spell (save DC 15,
+no concentration required) on an undead creature.
+While a creature is banished by the lantern, you
+can't use the lantern to cast banishment again and
+the lantern glows with an ethereal white light that
+casts bright light in a 15-foot radius and dim light
+for an additional 30 feet. The lantern
+regains all expended charges daily at
+dawn.
+SPRINGLEAF DRUM
+Wondrous item, uncommon — see card
+Price: 600-1,000 gp | low
+sentimentality
+The springleaf is a large and robust
+leaf favored by satyrs for drum-
+making. Creatures find the deep, robust
+sound of these drums to be mesmerizing.
+Once a day, with the drum in hand, you
+can use an action to play the drum. Once
+you play the drum, your allies can use
+their action on their turn to cheer for your
+performance. For each ally who cheers your
+performance, you can choose one creature at the
+start of your next turn to charm for one turn.
+Creatures charmed in this way are immune to the
+drum's effects for the next 24 hours.
+Paid. Charmed creatures don’t realize they
+were charmed when the effect ends and abide by
+any agreements they made while charmed.
+Overpaid. Creatures can be charmed by the
+drum's effects for 5 turns, or 30
+seconds, before they become immune
+to the drum's effects for the next 24
+hours. If charmed creatures take
+damage, the charmed condition ends
+immediately and the creatures become
+immune to the drum's effects for the
+next 24 hours.
+STAFF OF ATHREOS
+Staff, legendary (requires attunement
+by a worshiper of a god of death) —
+see card
+Price: 100,000-200,000 gp | high
+sentimentality
+This gnarled staff belongs to devotees of
+Athreos, the god of passage, who ferries
+souls across the rivers separating the
+Underworld from the mortal realm. With the staff
+in hand, you can use an action to dip the base of
+the staff into water to transform the staff into a
+boat capable of carrying yourself and 6 creatures
+Sorrowful Lekythos
+Soul-Guide Lantern
+
+
+=== PAGE 37 ===
+36
+of Medium size. When the staff transforms, its
+upper half forms the prow of the boat and you
+must maintain your grip on the prow to keep the
+staff transformed. When the staff first transforms
+into the boat, you raise your maximum hit points
+by 100 and gain 100 hit points. When the boat
+transforms back into the staff, you lower your
+maximum hit points by 100 and lose any hit
+points you have over your new maximum. You
+suffer all damage suffered by the boat or
+occupants of the boat. The boat has a speed of 60
+feet. You can let go of the prow or use an action
+while holding the prow to transform the boat back
+into the staff. The boat transforms back into the
+staff if you fall unconscious.
+Paid. While the staff is
+transformed into a boat, you
+gain resistance to all
+damage types and
+creatures can't make
+attacks of
+opportunity
+against you, your
+boat, or anyone
+in your boat. The
+boat can't capsize
+and occupants of
+the boat have
+advantage on
+saving throws
+against effects
+that would knock
+them out of the
+boat. You have
+advantage on attack rolls
+when an enemy is within 5
+feet of your boat.
+Overpaid. Once a day for the first ten days after
+you attune to the staff, you may cast the commune
+spell without requiring material components to
+contact Athreos.
+STARLIT MANTLE
+Wondrous item, very rare (requires attunement) —
+see card
+Price: 30,000-50,000 gp | high sentimentality
+This cloak is a window into a starry night sky and
+magic seems to bounce off it.
+While wearing the cloak, you gain a +2 bonus to
+saving throws against spells.
+Paid. While wearing the cloak, you gain a +2
+bonus to AC when targeted by spells.
+Overpaid. While wearing the cloak, you can use
+a reaction to share the effects of the cloak with
+one creature within 5 feet of you.
+STRAND OF ARASTA
+Wondrous item, rare (requires attunement) — see
+card
+Price: 1,000-2,000 gp | low sentimentality
+It’s said that Arasta's webs stretch from the
+Underworld through the mortal world into Nyx
+itself. This small strand has touched divinity and
+carries echoes of it—under sunlight, it sparkles
+like stars in a night sky, and at night, a faint, black
+fog emanates from it.
+While you have this strand wrapped around your
+body, your attacks deal an extra 1d4 necrotic
+damage and you regain lost hit points equal to the
+necrotic damage you dealt. You have
+advantage on checks to grapple
+creatures.
+Curse. This item is cursed if
+Arasta (MOoT) is alive.
+Attuning to it curses you
+until Arasta dies or you’re
+targeted by a remove curse
+spell or similar magic. As
+long as you remain cursed,
+you can't discard the
+strand, which sticks to your
+body and seems to generate
+more strands the more you
+tug. Each night, you suffer
+nightmares about being caught in
+a massive web woven of thin, white
+hair. You feel the strand vibrate around
+your body as a massive, ominous body
+approaches. Each day, you feel compelled to
+move closer to Arasta, though you don’t know
+her exact location. The nightmares intensify if you
+try to escape her web, and you’re unable to take a
+long rest unless you are closer to Arasta than
+when you finished your last long rest.
+Paid. Once a day, while you have this strand
+wrapped around your body, you can use an action
+to summon one Nyxborn giant spider (MM) to
+fight for you. You control the spider telepathically
+and it shares your initiative order. The spider
+persists until it dies or until dawn the next day,
+whichever occurs first.
+Overpaid. With some practice you realize the
+strands can be used to extend your reach. While
+you have this strand wrapped around your body,
+you gain 5 feet to your reach when you attack
+with melee weapons, as well as when determining
+your reach for opportunity attacks with them. You
+must roll a d10 every time you use your additional
+5 feet of reach, and if you roll a 1, you drop your
+weapon.
+Springleaf Drum
+
+
+=== PAGE 38 ===
+37
+STUBBORN BOULDER
+Wondrous item, uncommon
+Price: 200-800 gp | high sentimentality
+This boulder starts as a rock small enough to fit in
+a pocket. If you use an action to speak the
+command word and throw the rock to a point on
+the ground within 60 feet of you, the rock
+becomes a giant boulder 5 feet in diameter
+weighing 4,000 pounds and immune to all
+damage. The rock harmlessly pushes away
+creatures occupying its space when it enlarges.
+Creatures must make a DC 14 Strength check for
+every attempt to move the boulder, and every
+success allows them to push it up to 10 feet. On a
+failure, they must succeed a DC 10 Strength check
+to keep the boulder in place or it begins moving
+backward.
+If the boulder has been moved away from the
+spot where you threw it, it attempts to roll back to
+its original spot at a speed of 20 feet using the
+most direct path possible but moving around
+immobile obstacles. Creatures must succeed a DC
+10 Strength check to stop the boulder from
+moving. If the boulder moves into another
+creature's space, it pushes the creature out of its
+path and the creature suffers 4d6 bludgeoning
+damage.
+The boulder persists until the person who spoke
+the command word to change the rock into a
+boulder speaks the command word again to turn
+the boulder back into a rock.
+Paid. The boulder no longer attempts to move
+around structures, instead running into them,
+dealing 8d6 bludgeoning damage as long as it
+remains in contact with the structure.
+Overpaid. When you speak the command word,
+you choose whether the boulder is 5 or 10 feet in
+diameter, but all its other attributes remain the
+same.
+SUN SPEAR
+Weapon (spear), artifact (requires attunement by a
+worshiper of Heliod) — see card
+Price: 200,000-500,000 gp | high sentimentality
+The Sun Spear is a magic weapon. It’s said to be a
+copy of Khrusor, the spear wielded by Heliod, god
+of the sun, which can strike anywhere on Theros,
+including the Underworld. This spear isn’t as
+powerful but is still formidable in the hands of a
+true believer of Heliod.
+You can use a bonus action to summon the spear
+into your hand as long as the spear is within 60
+feet of you. With the spear in hand, you can use a
+reaction to rebuff attacks rolls within 2 of your
+AC. When you rebuff an attack, it deals no
+damage but counts as having hit you for Divine
+Retribution and Divine Accuracy.
+Paid. You gain the following attributes when
+using the weapon:
+Divine Retribution. When you attack with the
+spear, you deal an additional 2d8 radiant damage
+whenever you hit a creature that hit you since
+your last turn.
+Divine Accuracy. When you throw the spear at a
+creature that hit you since your last turn, you
+automatically hit your target.
+Divine Blessing. With the spear in hand, you can
+use an action to target a creature within 60 feet of
+you that you can see to receive Heliod's blessing,
+granting them a +3 bonus to attack rolls, damage
+rolls, and AC until the end of your next turn.
+Overpaid. Once a day for the first ten days after
+you attune to the spear, you can cast the commune
+spell without requiring material components to
+contact Heliod.
+Destroying the Sun Spear. You can't easily
+unmake a weapon blessed by the gods. There are
+only two ways to destroy such a weapon: melt it
+down in Purphoros' forge, which resides within
+Mount Velus, or slay the god who blessed the
+weapon—in this case, Heliod—to transform the
+weapon into a nonmagical item that is susceptible
+to all methods of destruction.
+Stubborn Boulder
+
+
+=== PAGE 39 ===
+38
+
+
+=== PAGE 40 ===
+39
+TABLET OF OSTRACISM
+Story, common (requires attunement)
+Price: none | no sentimentality
+This magical tablet is already attuned to someone
+who has been ostracized and is used to track the
+person's exile. It’s linked with a twin tablet kept in
+the polis that ostracized the person. When a polis
+ostracizes someone, it gives the ostracized citizen
+the tablet with the duration of the ostracism
+imbued within it. Each day at dawn, if the tablet is
+in the ostracized person's possession and the
+person isn’t within the boundaries of the polis, the
+tablet subtracts 1 day from the duration of the
+ostracism. At the end of the ostracism's duration,
+both tablets crack in half and the polis allows the
+citizen to enter its borders again.
+While carrying the tablet, the ostracized citizen
+can’t re-enter the polis. Death is the penalty for an
+ostracized citizen entering the polis without the
+tablet.
+Whoever traded this intact tablet to the Gray
+Merchant is doomed to permanent exile. You
+wonder what may have driven someone to give up
+the opportunity to go home.
+If you wish to track down the person who traded
+away the tablet, the DM can craft a story about the
+person or generate one by rolling on the following
+tables:
+P
+  O
+5F	- 	 P	
+
+d3
+Home
+1
+Akros
+2
+Meletis
+3
+Setessa
+O
+5F	- P	
+
+d8
+Identity
+1
+Poli!cian
+2
+Soldier
+3
+Shopkeeper
+4
+Cleric
+5
+Commoner
+6
+Philosopher
+7
+Thaumaturge (wizard)
+8
+Quiet loner
+R	
+  O
+5
+1
+d6
+Reason
+1
+Displayed too much hubris
+2
+Committed a crime against the city’s patron god
+3
+Ran afoul of a powerful person
+4
+Scapegoated for a natural disaster
+5
+Jeopardized the city’s defenses
+6
+Violated the city’s norms or mores
+C	 L5
+d4
+Location
+1
+In the home polis
+2
+In another polis
+3
+Wandering a distant land
+4
+In the Underworld
+R	
+  AA- 	 TA	
+d6
+Reason
+1
+Wanted to return to the home polis under a
+different identity
+2
+Planned to betray the home polis
+3
+Gave up on waiting out the duration of the
+ostracism
+4
+Lost all emotional connection to the home polis
+5
+Was desperate for something the Gray
+Merchant offered and had nothing else to trade
+6
+Discovered a way to be allowed to return home
+without waiting out the duration of the ostracism
+Paid. You know that if you find the polis that
+ostracized the owner of the tablet, authorities
+there can identify the tablet and the owner's
+identity.
+Overpaid. You receive divine inspiration that
+teaches you the command word to activate the
+tablet, which causes engraved text to appear on its
+surface detailing the polis that ostracized the
+tablet's owner, the identity of the owner, and the
+reason for the ostracism.
+TELESCOPE
+Story, common
+Price: 10 gp | no sentimentality
+This telescope allows you to get a closer look at
+the constellations in the night sky.
+Paid. When you point the telescope at a
+constellation, you learn the story behind that god
+or hero.
+Overpaid. You can see the stars and
+constellations when you peer through the
+telescope even if it’s daytime or cloudy.
+Telescope
+
+
+=== PAGE 41 ===
+40
+TENDRIL OF ARIXMETHES
+Wondrous item, rare — see card
+Price: 800-1,200 gp | low sentimentality
+This tendril came from the mouth of a slumbering
+kraken and flops around angrily. It has 60 hit
+points and 17 AC. You can spend 5 minutes
+stroking it softly while whispering a password to
+it until it falls asleep and becomes inert. You can
+then affix the tendril to any surface. When a
+creature comes within 5 feet of the tendril, it must
+say the password within 6 seconds or the tendril
+awakens and lashes out, dealing 1d6 bludgeoning
+damage if the creature fails a DC 14 Dexterity
+saving throw to dodge the attack. The tendril stops
+attacking when someone speaks the password
+within 30 feet of it.
+Paid. A creature struck by the tendril must
+succeed a DC 16 Strength saving throw or
+become restrained by the tentacle. The creature
+can repeat the saving throw at the start of its next
+turn, freeing itself on a success or remaining
+restrained and suffering another 1d6 bludgeoning
+damage on a failure. The tendril releases a
+creature it’s restraining if someone speaks the
+password within 30 feet of it. While the tendril is
+restraining a creature, it can’t attack or restrain
+another creature.
+Overpaid. With the tendril in hand, you can use
+an action to focus on the tendril and sense the
+direction of Arixmethes the kraken.
+THREE-HEADED COLLAR
+Wondrous item, uncommon (requires attunement)
+— see card
+Price: 450-800 gp | low sentimentality
+There are three collars connected to a leash. The
+collars only fasten around beasts with an
+Intelligence of 6 or lower. The distance between
+the collars and the length of the leash magically
+change to accommodate the size of collared
+beasts. One collar holds one beast unless the beast
+has more than one head. Collared beasts share
+senses and act as one creature, though they retain
+their individual abilities and actions. In combat,
+they share the same initiative order.
+
+
+=== PAGE 42 ===
+41
+To collar a beast, you must grapple it while
+holding the collar.
+Paid. While you hold the leash, collared beasts
+don’t attempt to escape from you. The collar
+makes collared beasts non-hostile toward you but
+doesn’t compel them to be friendly or obedient.
+Overpaid. You have advantage on skill checks to
+fasten the collar around a beast.
+TRAVELER’S AMULET
+Wondrous item, uncommon — see card
+Price: 100-500 gp | low sentimentality
+The amulet contains a 2-inch-wide crystal globe
+that depicts a photorealistic diorama of a location
+you have visited. While holding the amulet, you
+can change the depicted location at will. The
+diorama is a generic landscape scene that gives no
+information about what’s present or occurring at
+that location in the present day.
+Paid. The amulet replaces all the material
+components required for the find the path spell.
+Overpaid. A creature holding the amulet can
+imagine a scene up to 1 minute long, and the
+amulet recreates the imagined scene as a looping,
+animated diorama within the crystal globe.
+TRICKSTER’S COIN
+Wondrous item, common
+Price: 80-200 gp | low sentimentality
+This gold coin has no markings on it but is
+otherwise a real gold coin worth the equivalent of
+1 gp when used for trade. Once a day, anyone can
+squeeze the coin twice in the span of 1 second to
+activate the coin. An activated coin returns to the
+hand of whoever activated it at dawn the next day.
+There is no way to detect if the coin has been
+activated, and the coin can’t be deactivated once
+activated. Attempts to activate an already
+activated coin have no effect.
+Paid. The coin changes shape to bear the
+markings of the most common currency that
+match its value in its surrounding area.
+Overpaid. The coin is now a platinum coin
+worth 1 pp, with all its other properties remaining
+the same, including its Paid properties.
+UNDYING ASPHODEL
+Wondrous item, common
+Price: 1-5 cp | no sentimentality
+The asphodel flowers on this sprig never wither,
+fall off, or otherwise suffer aging effects,
+appearing fresh as the day they were plucked.
+Paid. The sprig and its flowers are immune to all
+damage.
+Overpaid. The flowers don’t trigger allergies.
+VAPORS OF THE ORACLE
+Potion, very rare — see card
+Price: 4,000-12,000 gp | medium sentimentality
+Yellow smoke dances within a corked
+glass vial, forming the silhouettes of
+creatures and landscapes. When you
+inhale this potion, you fall into a
+trance, becoming incapacitated for
+3 minutes, and see visions of the
+immediate future.
+During the next 24 hours, you
+may declare up to 3 visions.
+Declaring a vision means you saw
+the next 60 seconds during your
+trance. You can experience the next
+60 seconds and afterward, decide
+whether you accept what happened
+as reality or reset to when you
+declared the vision to make
+different choices. If you reset to the start of the
+vision, you can't declare any more visions because
+your actions have changed the future. Combat
+makes time seem to rush by—if you enter
+initiative order during the vision and the vision’s
+remaining duration is greater than 12 seconds, the
+vision’s remaining duration becomes 12 seconds.
+Paid. You have resistance to nonmagical damage
+while you’re incapacitated by the potion.
+Overpaid. Residual vapors in your system allow
+you to see an ever-changing future. You’re able to
+declare up to 3 visions within 24 hours of inhaling
+the vapors even if you reset to the start of a vision
+and make different choices.
+VASE OF TALES
+Wondrous item, common
+Price: 35-85 gp | low sentimentality
+This clay vase stands 1 foot tall and is 8 inches in
+diameter at its widest point. It weighs 3 pounds.
+Paid. Every day the painting on the vase
+changes to depict a scene it witnessed the
+previous day. Touching the vase causes the
+painting to move, animating up to 1 hour of the
+scene. The DM determines what scene it depicts,
+but it favors dramatic moments filled with intense
+emotions. The painting is always rendered in a
+style consistent with traditional Theran art.
+Overpaid. While touching the vase, you can use
+a bonus action to change the painting on the vase
+to depict any scene it depicted in the last 5 days.
+Vapors of the Oracle
+
+
+=== PAGE 43 ===
+42
+VEIL OF FAVOR
+Wondrous item, common
+Price: 10-50 gp | low sentimentality
+This semi-transparent white veil can be worn over
+your face. When looking through the veil, you see
+an undulating aura around intelligent creatures
+showing the amount of favor they’ve curried with
+the gods. A flat aura about one inch thick
+represents the average person who is dutiful to the
+gods. A sickly aura clings to those who have
+offended the gods while no aura means the gods
+have abandoned them and won’t answer their
+pleas. Those with thick auras or an almost
+overwhelming glow around them are favored by
+the gods due to great acts of piety or heroism, and
+they may even be chosen champions of a god.
+Paid. When you focus on a single creature, you
+learn which god they primarily worship.
+Overpaid. You also see glows around items
+which have been blessed or touched by a god and
+can focus on the item to learn which god blessed
+or touched it.
+WARHORN OF MOGIS
+Wondrous item, legendary (requires attunement by
+a devout worshiper of Mogis) — see card
+Price: 100,000-240,000 gp | high sentimentality
+This warhorn is carved from the horn of a
+minotaur, and Mogis only graces the most
+ferocious warriors with such a magic horn.
+Worshipers of Mogis (which typically include all
+Theran minotaurs with rare exceptions) covet
+such warhorns and go to great lengths to take one
+for themselves. If they discover you possess such
+a warhorn, they attack you to obtain it.
+Bound by Blood. You can't end attunement to
+the warhorn unless you die, lose the favor of
+Mogis, or use the wish spell. A creature that kills
+someone attuned to the warhorn automatically
+becomes attuned to the warhorn.
+Paid. When you blow the warhorn, all
+worshipers of Mogis within a mile of you are
+unable to attack you for the next hour and must
+make a DC 20 Wisdom saving throw. If they fail,
+they must obey any orders you communicate to
+them that they can understand for the next hour.
+During this time, they cooperate with each other
+to achieve your intended goal to the best of their
+ability, behaving like a disciplined army unless
+you explicitly order discord amongst their ranks.
+They don't need to obey an order to harm
+themselves. Once the effect ends, they become
+immune to the warhorn's effects for the next 24
+hours.
+Overpaid. Once a day for the first ten days after
+you attune to the warhorn, you may cast the
+commune spell without requiring material
+components to contact Mogis.
+WHIP OF EREBOS’ AGENT
+Weapon (whip), artifact (requires attunement by a
+creature opposed to the undead) — see card
+Price: 100,000-250,000 gp | high sentimentality
+This whip was taken from an agent of Erebos and
+echoes the properties of Mastix, the whip with
+endless reach possessed by the god of death
+himself. It has a leather handle from which hang
+small ivory carvings of skulls, and the lash
+twinkles with bleak and sorrowful starlight.
+With the whip in hand, you sense the presence of
+undead creatures when they come within 120 feet
+of you. You gain a +3 bonus to attack and damage
+rolls made against undead creatures with this
+magic weapon.
+Paid. You gain the following attributes when
+using the weapon:
+Control the Grave. You can use an action to lash
+the whip against the corpse of a creature that died
+within the last hour. The creature returns to life
+for 2 turns with maximum hit points and the stats
+it had in life. The creature shares your initiative
+order but takes its turn after yours and is
+considered a creature under your control. The
+creature uses its full movement and actions each
+turn to approach and attack a target you choose on
+Whip of Erebos’ Agent
+
+
+=== PAGE 44 ===
+43
+your turn. When the creature drops to 0 hit points
+or 2 turns pass after the creature's revival, the
+creature's body evaporates into black smoke and
+its soul passes on to its journey to the
+Underworld, leaving no corpse behind and
+becoming unable to be raised from the dead.
+Life Link. When you’re hit by an attack, you can
+use your reaction to distribute the damage you’d
+take from being hit to up to two creatures you
+control instead. If the damage exceeds the
+remaining hit points of the creatures you
+designate, you suffer the excess damage.
+No Escape. If you raise creatures from the dead
+using any ability except the ones granted by this
+whip, Erebos conveys his displeasure by causing
+you to lose attunement to the whip. You can't
+attune to the whip again unless you placate Erebos
+with a suitable sacrificial offering.
+Overpaid. Once a day for the first ten days after
+you attune to the whip, you may cast the
+commune spell without requiring material
+components to contact Erebos.
+Destroying the Whip of Erebos. You can't easily
+unmake a weapon blessed by the gods. There are
+only two ways to destroy such a weapon: melt it
+down in Purphoros' forge, which resides within
+Mount Velus, or slay the god who blessed the
+weapon—in this case, Erebos—to transform the
+weapon into a nonmagical item that is susceptible
+to all methods of destruction.
+WINGS OF HUBRIS
+Adventuring gear, common — see card
+Price: 50-100 gp | no sentimentality
+These mechanical wings are inventions of the
+great thinker Dalakos. While wearing these wings
+on your back, you can use an action to flap your
+arms to fly upward up to 30 feet. Once in the air,
+the wings flap on their own using the power of the
+wind, allowing you to fly forward with a speed of
+60 feet. You must use an action to change
+direction, hover, ascend, or descend.
+The wings are destroyed if you take fire damage
+while wearing them or use them to fly higher than
+100 feet.
+Paid. The wings have 25 hit points, which can
+be restored by repairing them during a short
+rest. The wings are immune to all types of
+damage except fire and suffer the same
+amount of fire damage as you when you’re
+hit by fire damage. The wings are destroyed if
+they fall to 0 hit points.
+Overpaid. The wings are destroyed if you use
+them to fly higher than 200 feet instead of 100
+feet.
+WITCHES’ EYE
+Wondrous item, very rare — see card
+Price: 20,000-60,000 gp | medium sentimentality
+Commonly mistaken for witches, hence the
+misnomer, this eye actually comes from a coven
+of hags that share the eye to see the strands of
+destiny. If you’re missing an eye, placing the eye
+in your eye socket allows you to see using the eye.
+The eye has darkvision up to 120 feet, and you
+can use an action to observe a creature up to 60
+feet away to see how many hit points it has.
+Paid. Once a day, while holding the eye, you can
+use an action to cast the scrying spell without its
+material components requirement and with a DC
+of 20 for the target's Wisdom saving throw.
+Overpaid. The scrying spell's target's Wisdom
+saving throw DC is 25 instead of 20.
+XEBEC OF KRUPHIX
+Wondrous item, uncommon
+Price: 800-6,000 gp | low sentimentality
+This model of a xebec sailing ship is intricately
+detailed and quite a collector's item for fans of
+such crafts.
+Paid. The model grants favorable tailwinds
+when brought aboard a ship, increasing the ship's
+speed by 20 percent.
+Overpaid. At dawn each day, the model turns by
+itself to point its bow at the nearest shrine of
+Kruphix, god of horizons.
+Xebec of
+Kruphix
+
+
+=== PAGE 45 ===
+44
+YOKE OF CAREFUL UNBURDENING
+Wondrous item, rare
+Price: 2,000-12,000 gp | low sentimentality
+This yoke must go on two pack animals traveling
+side-by-side for its effects to work. It magically
+adjusts its size to fit the creatures. Animals
+wearing the yoke can move double their usual
+maximum weight capacity when pulling a
+carriage, cart, chariot, sled, or wagon.
+Paid. While wearing the yoke, animals pulling a
+carriage, cart, chariot, sled, or wagon ignore
+difficult terrain.
+Overpaid. While wearing the yoke, animals
+pulling a carriage, cart, chariot, sled, or wagon
+can move at normal speed up to 12 hours a day
+without suffering exhaustion from a forced march.
+ZEPHYR SADDLE
+Wondrous item, rare
+Price: 1,000-6,000 gp | low sentimentality
+This saddle is shaped into an artistic
+representation of a gust of wind. A temperate
+breeze flows around you when you sit on it.
+Paid. While a horse wears the saddle, the horse
+gains +20 hit points, +4 AC, and +10 feet of
+speed.
+Overpaid. While using the saddle to ride a horse,
+you gain a +4 bonus to all checks to stay on the
+horse.
+
+
+=== PAGE 46 ===
+45
+CHAPTER 3: RANDOM ROLL TABLES
+T
+his chapter has three sections. First, there are
+the recommended roll tables for determining
+the wares the Gray Merchant pulls from his
+bag if you use him as described in chapter 1.
+Second, there are roll tables which sort the items
+in this supplement by rarity. Finally, there are
+generic Magic Item loot tables similar to those in
+the Dungeon Master’s Guide should you instead
+wish to use the items in this supplement as loot
+obtained from random monsters, treasure chests,
+or dungeons.
+GRAY MERCHANT ROLL TABLES
+Since characters can obtain any item from the
+Gray Merchant for essentially no cost, you may
+wish to prevent him from presenting items of a
+power level far too high for your campaign. Roll
+tables are therefore provided by party level range.
+Each table gives a chance at specific item types/
+rarities. Once you determine the type, you then
+roll on the rarity tables in the next section, “Roll
+Tables by Rarity,” to select the actual item he
+draws from his bag.
+If you don’t want to use story or artifact items,
+roll on the Common Items table any time you’re
+directed to roll on a Story Items table, and roll on
+the Legendary Items table instead of the Artifacts
+table.
+L	I	 1-2 M	5-
+	
+d100
+Item Type
+1-20
+Story (commons only)
+21-90
+Common
+91-00
+Uncommon
+*When rolling for 7 items, this table gives:
+71% chance of at least one story item
+99.9% chance of at least one common item
+52% chance of at least one uncommon item
+**Actual chances are higher since characters can get the Gray Merchant to
+refresh inventory
+L	I	 3-4 M	5-
+	
+d100
+Item Type
+1-20
+Story
+21-70
+Common
+71-97
+Uncommon
+98-00
+Rare
+*When rolling for 7 items, this table gives:
+71% chance of at least one story item
+99.7% chance of at least one common item
+99.9% chance if not using story items
+89% chance of at least one uncommon item
+19% chance of at least one rare item
+**Actual chances are higher since characters can get the Gray Merchant to
+refresh inventory
+L	I	 5-9 M	5-
+	
+d100
+Item Type
+1-10
+Story
+11-60
+Common
+61-85
+Uncommon
+86-99
+Rare
+00
+Very Rare
+*When rolling for 7 items, this table gives:
+52% chance of at least one story item
+99.2% chance of at least one common item
+99.9% chance if not using story items
+87% chance of at least one uncommon item
+65% chance of at least one rare item
+7% chance of at least one very rare item
+**Actual chances are higher since characters can get the Gray Merchant to
+refresh inventory
+L	I	 10-14 M	5-
+	
+d100
+Item Type
+1-5
+Story
+6-25
+Common
+26-65
+Uncommon
+66-85
+Rare
+86-98
+Very Rare
+99
+Legendary
+00
+Artifact
+*When rolling for 7 items, this table gives:
+30% chance of at least one story item
+79% chance of at least one common item
+87% chance if not using story items
+97% chance of at least one uncommon item
+79% chance of at least one rare item
+62% chance of at least one very rare item
+13% chance of at least one legendary item or ar!fact
+7% chance of at least one ar!fact
+**Actual chances are higher since characters can get the Gray Merchant to
+refresh inventory
+L	I	 15+ M	5-
+	
+d100
+Item Type
+1-5
+Story
+6-20
+Common
+21-55
+Uncommon
+56-80
+Rare
+81-95
+Very Rare
+96-99
+Legendary
+00
+Artifact
+*When rolling for 7 items, this table gives:
+30% chance of at least one story item
+68% chance of at least one common item
+79% chance if not using story items
+95% chance of at least one uncommon item
+87% chance of at least one rare item
+68% chance of at least one very rare item
+30% chance of at least one legendary item or ar!fact
+7% chance of at least one ar!fact
+**Actual chances are higher since characters can get the Gray Merchant to
+refresh inventory
+
+
+=== PAGE 47 ===
+46
+ROLL TABLES BY RARITY
+Note that the following items aren’t listed in these
+tables despite being described in the supplement
+because they aren’t intended to be available from
+the Gray Merchant’s inventory: Gray Merchant’s
+gold coin (common story item), Ring of Anax
+(artifact ring), and Ring of Promised Reunion
+(artifact ring).
+S I	1
+ (C11 O)
+d6
+Item
+Page
+1
+Diary of Thrasios
+18
+2
+Fragment of Misera
+20
+3
+Iroan Pledge
+25
+4
+Scrap of Epic Poetry
+33
+5
+Tablet of Ostracism
+39
+6
+Telescope
+39
+S I	1
+d8
+Item
+Page
+1
+Arrowhead Shard
+9
+2
+Diary of Thrasios
+18
+3
+Fragment of Misera
+20
+4
+Iroan Pledge
+25
+5
+Scrap of Epic Poetry
+33
+6
+Sigiled Starfish
+34
+7
+Tablet of Ostracism
+39
+8
+Telescope
+39
+C11 I	1
+d100
+Item
+Page
+1-4
+Bidet of Thassa
+15
+5-8
+Callaphe’s Compass
+16
+9-13
+Cap of Authority
+17
+14-17
+Chorus Mask
+17
+18-21
+Dust of Nyx
+18
+22-25
+Fragment of Anger
+20
+26-29
+Fragment of Joy
+20
+30-34
+Funerary Mask
+22
+35-39
+Golden Funeral Mask of Asphodel
+22
+40-43
+Iridescent Pearl Necklace
+25
+44-47
+Judgy Golden Apple
+25
+48-51
+Karametran Sickle
+26
+52-55
+Leonin Hairbrush
+26
+56-59
+Leonin Snare
+26
+60-63
+Meletis Agora License
+27
+64-67
+Mirror of Alirios
+27
+68-71
+Quill of Ephara
+29
+72-75
+Setessan Joke Basket
+33
+76-79
+Sorrowful Lekythos
+35
+80-83
+Trickster’s Coin
+41
+84-88
+Undying Asphodel
+41
+89-92
+Vase of Tales
+41
+93-96
+Veil of Favor
+42
+97-00
+Wings of Hubris
+43
+U511 I	1
+d100
+Item
+Page
+1-3
+Akroan Rocking Horse
+7
+4-6
+Alseid’s Gift
+7
+7-9
+Anvilwrought Raptor
+7
+10-12
+Aspect Icon - Deer
+10
+13-15
+Aspect Icon - Dolphin
+10
+16-18
+Aspect Icon - Dove
+10
+19-21
+Aspect Icon - Horse
+11
+22-24
+Aspect Icon - Owl
+12
+25-27
+Aspect Icon - Pig
+13
+28-30
+Aspect Icon - Vulture
+13
+31-33
+Aspect Icon - Wolf
+13
+34-35
+Astral Cornucopia
+13
+36-37
+Blade of Hubris
+15
+38-40
+Chapparal Grass
+17
+41-43
+Clay Owl
+17
+44-46
+Conspirator’s Whistle
+18
+47-49
+Dragon Teeth
+18
+50-52
+Euklisia of Ephara
+19
+53-55
+Flint of Phenax
+19
+56-58
+Floating Driftwood
+20
+59-61
+Golden Funeral Mask of Odunos
+22
+62-64
+Golden Funeral Masks of the Phalanx
+23
+65-66
+Heliod’s Glory
+25
+67-69
+Pharika’s Cure
+28
+70-72
+Phoenix Feather
+28
+73-75
+Prowler’s Helm
+28
+76-78
+Satyr’s Piloi
+32
+79-81
+Scarf of Athreos
+32
+82-84
+Skein of Skophos
+34
+85-87
+Soul-Guide Lantern
+35
+88-90
+Springleaf Drum
+35
+91-93
+Stubborn Boulder
+37
+94-95
+Three-Headed Collar
+40
+96-98
+Traveler’s Amulet
+41
+99-00
+Xebec of Kruphix
+43
+Vase of Tales
+
+
+=== PAGE 48 ===
+47
+R	 I	1
+d100
+Item
+Page
+1-5
+Adventurer’s Podium
+7
+6-11
+Archon Cape
+9
+12-16
+Aspect Icon - Donkey
+10
+17-21
+Aspect Icon - Peacock
+12
+22-26
+Aspect Icon - Swan
+13
+27-31
+Aspect Icon - Tortoise
+13
+32-36
+Bountiful Lekythos
+15
+37-41
+Crown of Atris
+18
+42-46
+Flamecast Wheel
+19
+47-51
+Fruit of Tizerus
+21
+52-56
+Laurel Wreath
+26
+57-62
+Lightning Diadem
+26
+63-67
+Mirror Shield
+27
+68-73
+Pharika’s Libation Jar
+28
+74-79
+Potion of Paradox
+28
+80-84
+Strand of Arasta
+36
+85-90
+Tendril of Arixmethes
+40
+91-95
+Yoke of Careful Unburdening
+44
+96-00
+Zephyr Saddle
+44
+V	 R	 I	1
+d100
+Item
+Page
+1-6
+Archon Armor
+9
+7-12
+Aspect Icon - Gorgon
+11
+13-18
+Aspect Icon - Hydra
+11
+19-25
+Aspect Icon - Lamprey
+11
+26-31
+Aspect Icon - Manticore
+12
+32-37
+Entrancing Lyre
+19
+38-43
+Golden Funeral Mask of the
+Pseudamma
+23
+44-49
+Nyx Lotus
+27
+50-55
+Oreskos Heresy
+28
+56-61
+Rod of Gallia
+31
+62-67
+Rod of Keranos
+31
+68-74
+Sacrificial Knife
+32
+75-81
+Setessan Lasso
+34
+82-87
+Starlit Mantle
+36
+88-94
+Vapors of the Oracle
+41
+95-00
+Witches’ Eye
+43
+L		- I	1
+d6
+Item
+Page
+1
+Aspect Icon - Mongoose
+12
+2
+Fleetfeather Sandals
+19
+3
+Golden Funeral Mask of the Gray
+Merchant
+22
+4
+Pyxis of Pandemonium
+29
+5
+Staff of Athreos
+35
+6
+Warhorn of Mogis
+42
+A5
+d100
+Item
+Page
+1-14
+Bident of Thassa’s Beloved
+14
+15-28
+Bow of Nylea’s Hunter
+15
+29-42
+Hammer of the Forged of Purphoros
+24
+43-57
+Ring of Cymede
+30
+58-72
+Rings of Kynaios and Tiro
+31
+73-86
+Sun Spear
+37
+87-00
+Whip of Erebos’ Agent
+42
+
+
+=== PAGE 49 ===
+48
+RANDOM REWARD TABLES
+The following Magic Item tables are intended to
+function like the Random Magic Items tables of
+the same names in the Dungeon Master’s Guide.
+They can be used when providing random rewards
+for killing powerful monsters, completing quests,
+conquering dungeons, or otherwise finding
+treasure.
+Each table comes with footnotes explaining the
+philosophy behind its contents so you can better
+judge whether it’s an appropriate reward table for
+any given situation.
+Unless otherwise specified with keywords base
+or Overpaid, we recommend that items obtained
+through these tables come with their base and
+Paid properties. Paid and Overpaid properties
+always override base and Paid properties
+respectively if the two descriptions conflict.
+M5 I	1 TA	 A
+d100
+Item
+Page
+1-6
+Zephyr Saddle (base)
+44
+7-10
+Alseid’s Gift (base)
+7
+11-20
+Dust of Nyx (base)
+18
+21-30
+Fragment of Anger
+20
+31-40
+Fragment of Joy
+20
+41-50
+Gray Merchant’s gold coin
+(replace with Golden Funeral Mask of
+Asphodel if not using the Gray
+Merchant)
+23
+(or
+22)
+51-57
+Iridescent Pearl Necklace
+25
+58-65
+Meletis Agora License
+27
+65-74
+Pharika’s Cure
+28
+75-79
+Archon Cape (base, doesn’t require
+attunement)
+9
+80-89
+Setessan Joke Basket
+33
+90-00
+Undying Asphodel
+41
+This table contains limited use items or items that don’t exhibit strong
+magical effects. These are essen!ally items that provide flavor but are
+unlikely to impact the mechanics of the game.
+M5 I	1 TA	 B
+d100
+Item
+Page
+1-5
+Pharika’s Cure
+28
+6-9
+Rod of Gallia (base)
+31
+10-15
+Chapparal Grass
+17
+16-20
+Dragon Teeth
+18
+21-24
+Bidet of Thassa
+15
+25-29
+Cap of Authority
+17
+30-34
+Chorus Mask
+17
+35-39
+Funerary Mask
+22
+40-42
+Judgy Golden Apple
+25
+43-46
+Karametran Sickle
+26
+47-50
+Leonin Hairbrush
+26
+51-53
+Leonin Snare
+26
+54-57
+Meletis Agora License
+27
+58-61
+Mirror of Alirios
+27
+d100
+Item
+Page
+62-65
+Callaphe’s Compass
+16
+66-69
+Quill of Ephara
+29
+70-73
+Setessan Joke Basket (Overpaid)
+33
+74-77
+Sorrowful Lekythos
+35
+78-81
+Telescope
+39
+82-84
+Trickster’s Coin
+41
+85-87
+Vase of Tales
+41
+88-90
+Veil of Favor
+42
+91
+Wings of Hubris
+43
+92
+Prowler’s Helm
+28
+93
+Alseid’s Gift
+7
+94
+Astral Cornucopia
+13
+95
+Conspirator’s Whistle
+18
+96
+Euklisia of Ephara
+19
+97
+Scarf of Athreos
+32
+98
+Traveler’s Amulet
+41
+99
+Xebec of Kruphix
+43
+00
+Phoenix Feather
+28
+This table contains limited use items, adventuring gear, or items with
+minor magical effects that are unlikely to affect combat situa!ons.
+M5 I	1 TA	 C
+d100
+Item
+Page
+1-3
+Pharika’s Cure (Overpaid)
+28
+4-6
+Potion of Paradox (Overpaid)
+28
+7-11
+Dust of Nyx
+18
+12-15
+Callaphe’s Compass (Overpaid)
+16
+16-19
+Chapparal Grass (Overpaid)
+17
+20-25
+Chorus Mask (Overpaid)
+17
+26-30
+Funerary Mask (Overpaid)
+22
+31-35
+Iridescent Pearl Necklace (Overpaid)
+25
+36-39
+Mirror of Alirios (Overpaid)
+27
+40-44
+Quill of Ephara (Overpaid)
+29
+45-48
+Sorrowful Lekythos (Overpaid)
+35
+49-52
+Trickster’s Coin (Overpaid)
+41
+53-56
+Vase of Tales (Overpaid)
+41
+57-60
+Veil of Favor (Overpaid)
+42
+61-63
+Wings of Hubris (Overpaid)
+43
+64-67
+Aspect Icon - Deer (base)
+10
+68-71
+Aspect Icon - Dolphin (base)
+10
+72-75
+Aspect Icon - Dove (base)
+10
+76-79
+Aspect Icon - Horse (base)
+11
+80-83
+Aspect Icon - Owl (base)
+12
+84-87
+Aspect Icon - Pig (base)
+13
+88-90
+Aspect Icon - Vulture (base)
+13
+91-92
+Aspect Icon - Wolf (base)
+13
+93
+Clay Owl
+17
+94
+Flint of Phenax
+19
+95
+Floating Driftwood
+29
+96
+Golden Funeral Mask of Odunos
+22
+97
+Golden Funeral Masks of the Phalanx
+23
+98
+Heliod’s Glory
+25
+99
+Stubborn Boulder
+37
+00
+Akroan Rocking Horse
+7
+This table contains upgraded versions of many common items and slightly
+more powerful uncommons le out of table B.
+
+
+=== PAGE 50 ===
+49
+M5 I	1 TA	 D
+d100
+Item
+Page
+1
+Blade of Hubris
+15
+2-7
+Aspect Icon - Deer
+10
+8-13
+Aspect Icon - Dolphin
+10
+14-19
+Aspect Icon - Dove
+10
+20-25
+Aspect Icon - Owl
+12
+26-31
+Bountiful Lekythos (base)
+15
+32-37
+Conspirator’s Whistle (Overpaid)
+18
+38-43
+Dragon Teeth
+18
+44-49
+Euklisia of Ephara (Overpaid)
+19
+50-55
+Flint of Phenax (Overpaid)
+19
+56-60
+Floating Driftwood (Overpaid)
+20
+60-64
+Phoenix Feather
+28
+65-69
+Prowler’s Helm
+28
+70-74
+Satyr’s Piloi
+32
+75-79
+Scarf of Athreos (Overpaid)
+32
+80-84
+Skein of Skophos
+34
+85-90
+Springleaf Drum (base)
+35
+91-92
+Stubborn Boulder
+37
+93-95
+Three-Headed Collar
+40
+96-98
+Traveler’s Amulet (Overpaid)
+41
+99-00
+Xebec of Kruphix (Overpaid)
+43
+This table contains the less powerful uncommon items.
+M5 I	1 TA	 E
+d100
+Item
+Page
+1-5
+Phoenix Feather (Overpaid)
+28
+6-9
+Akroan Rocking Horse (Overpaid)
+7
+10-14
+Anvilwrought Raptor
+7
+15-19
+Aspect Icon - Horse
+11
+20-24
+Aspect Icon - Pig
+13
+25-29
+Aspect Icon Vulture
+13
+30-34
+Aspect Icon - Wolf
+13
+35-39
+Aspect Icon - Peacock (base)
+12
+40-44
+Aspect Icon - Swan (base)
+13
+45-49
+Aspect Icon - Tortoise (base)
+13
+50-55
+Clay Owl (Overpaid)
+17
+56-60
+Dragon Teeth (Overpaid)
+18
+61-64
+Golden Funeral Masks of the Phalanx
+(Overpaid)
+23
+65-68
+Heliod’s Glory (Overpaid)
+25
+69-72
+Leonin Snare (Overpaid)
+26
+73-75
+Prowler’s Helm (Overpaid)
+28
+76-78
+Satyr’s Piloi (Overpaid)
+32
+79-81
+Skein of Skophos (Overpaid)
+34
+82-84
+Springleaf Drum
+35
+85-87
+Stubborn Boulder (Overpaid)
+37
+88-89
+Flamecast Wheel (base)
+19
+90-91
+Bountiful Lekythos
+15
+92-93
+Lightning Diadem (base)
+26
+94-95
+Mirror Shield (base)
+27
+96-97
+Tendril of Arixmethes (base)
+40
+98-99
+Yoke of Careful Unburdening (base)
+44
+00
+Pharika’s Libation Jar (base)
+28
+This table contains the most powerful uncommon items and some
+downgraded rares.
+M5 I	1 TA	 F
+d100
+Item
+Page
+1
+Blade of Hubris
+15
+2-3
+Akroan Rocking Horse (Overpaid)
+7
+4-5
+Alseid’s Gift (Overpaid)
+7
+6-7
+Dragon Teeth (Overpaid)
+18
+8-9
+Funerary Mask (Overpaid)
+22
+10-11
+Quill of Ephara (Overpaid)
+29
+12-13
+Trickster’s Coin
+41
+14-15
+Witches’ Eye (base)
+43
+16-17
+Aspect Icon (Overpaid) (roll d8)
+1
+Deer
+10
+2
+Dolphin
+10
+3
+Dove
+10
+4
+Horse
+11
+5
+Owl
+12
+6
+Pig
+13
+7
+Vulture
+13
+8
+Wolf
+13
+18-19
+Astral Cornucopia (Overpaid)
+13
+19-20
+Clay Owl (Overpaid)
+17
+21-23
+Conspirator’s Whistle (Overpaid)
+18
+24-27
+Flint of Phenax (Overpaid)
+19
+28-31
+Floating Driftwood (Overpaid)
+20
+32-35
+Stubborn Boulder (Overpaid)
+37
+36-38
+Strand of Arasta
+36
+39-41
+Archon Armor (base)
+9
+42-44
+Archon Cape
+9
+45-47
+Aspect Icon - Donkey (base)
+10
+48-50
+Aspect Icon - Peacock
+12
+51-53
+Aspect Icon - Swan
+13
+54-56
+Aspect Icon - Tortoise
+13
+57-59
+Wings of Hubris (Overpaid)
+43
+60-61
+Bountiful Lekythos
+15
+62-63
+Crown of Atris (base)
+18
+64-65
+Flamecast Wheel
+19
+66-67
+Fruit of Tizerus
+21
+68-69
+Laurel Wreath
+26
+70-71
+Leonin Snare (Overpaid)
+26
+72-73
+Lightning Diadem
+26
+74-75
+Mirror Shield
+27
+76-77
+Potion of Paradox (Overpaid)
+28
+78-79
+Phoenix Feather (Overpaid)
+28
+80-81
+Prowler’s Helm (Overpaid)
+28
+82-83
+Satyr’s Piloi (Overpaid)
+32
+84-85
+Skein of Skophos (Overpaid)
+34
+86-87
+Tendril of Arixmethes
+40
+88-89
+Three-Headed Collar (Overpaid)
+40
+90-91
+Yoke of Careful Unburdening
+44
+92-93
+Zephyr Saddle
+44
+94-95
+Pharika’s Libation Jar
+28
+96
+Strand of Arasta (Overpaid)
+36
+97
+Crown of Atris (Overpaid)
+18
+98
+Zephyr Saddle (Overpaid)
+44
+99
+Adventurer’s Podium
+7
+00
+Bountiful Lekythos (Overpaid)
+15
+This table is a grab bag of func!onal commons, uncommons, and rares.
+
+
+=== PAGE 51 ===
+50
+M5 I	1 TA	 G
+d100
+Item
+Page
+1
+Strand of Arasta (Overpaid)
+36
+2-6
+Aspect Icons (roll d10)
+1
+Wolf (Overpaid)
+13
+2
+Vulture (Overpaid)
+13
+3
+Donkey
+10
+4
+Peacock (Overpaid)
+12
+5
+Swan (Overpaid)
+13
+6
+Tortoise (Overpaid)
+13
+7
+Gorgon (base)
+11
+8
+Hydra (base)
+11
+9
+Lamprey (base)
+11
+0
+Manticore (base)
+12
+7
+Pharika’s Cure (Overpaid)
+28
+8
+Vapors of the Oracle (base)
+41
+9
+Potion of Paradox (Overpaid)
+28
+10
+Callaphe’s Compass (Overpaid)
+16
+11
+Funerary Mask (Overpaid)
+22
+12
+Golden Funeral Mask of Asphodel
+(Overpaid)
+22
+13
+Leonin Hairbrush (Overpaid)
+26
+14
+Leonin Snare (Overpaid)
+26
+15
+Meletis Agora License
+27
+16
+Mirror of Alirios (Overpaid)
+27
+17
+Quill of Ephara (Overpaid)
+29
+18
+Trickster’s Coin (Overpaid)
+41
+19
+Vase of Tales (Overpaid)
+41
+20
+Wings of Hubris (Overpaid)
+43
+21
+Akroan Rocking Horse
+7
+22
+Akroan Rocking Horse (Overpaid)
+7
+23
+Alseid’s Gift (Overpaid)
+7
+24
+Astral Cornucopia (Overpaid)
+13
+25
+Chapparal Grass (Overpaid)
+17
+26
+Aspect Icon - Horse (Overpaid)
+11
+27
+Clay Owl (Overpaid)
+17
+28
+Springleaf Drum
+35
+29
+Conspirator’s Whistle (Overpaid)
+18
+30
+Dragon Teeth
+18
+31
+Dragon Teeth (Overpaid)
+18
+32
+Flint of Phenax (Overpaid)
+19
+33
+Floating Driftwood (Overpaid)
+20
+34
+Golden Funeral Mask of Odunos
+(Overpaid)
+22
+35
+Golden Funeral Masks of the Phalanx
+(Overpaid)
+23
+36
+Heliod’s Glory (Overpaid)
+25
+37
+Phoenix Feather
+28
+38
+Phoenix Feather (Overpaid)
+28
+39
+Prowler’s Helm (Overpaid)
+28
+40
+Satyr’s Piloi (Overpaid)
+32
+41
+Scarf of Athreos (Overpaid)
+32
+42
+Skein of Skophos (Overpaid)
+34
+43
+Soul-Guide Lantern (Overpaid)
+35
+44
+Springleaf Drum (Overpaid)
+35
+45
+Stubborn Boulder (Overpaid)
+37
+46
+Three-Headed Collar (Overpaid)
+40
+47
+Yoke of Careful Unburdening
+44
+d100
+Item
+Page
+48
+Zephyr Saddle
+44
+49
+Flamecast Wheel
+19
+50
+Fruit of Tizerus
+21
+51
+Adventurer’s Podium
+7
+52
+Archon Cape (Overpaid)
+9
+53
+Crown of Atris
+18
+54
+Flamecast Wheel (Overpaid)
+19
+55
+Laurel Wreath
+26
+56
+Lightning Diadem
+26
+57
+Mirror Shield
+27
+58
+Tendril of Arixmethes
+40
+59
+Yoke of Careful Unburdening
+(Overpaid)
+44
+60
+Zephyr Saddle (Overpaid)
+44
+61
+Pharika’s Libation Jar (Overpaid)
+28
+62
+Adventurers’ Podium (Overpaid)
+7
+63
+Archon Armor
+9
+64
+Entrancing Lyre (base)
+19
+65
+Golden Funeral Mask of the
+Pseudamma (base)
+23
+66
+Nyx Lotus (base)
+27
+67-68
+Oreskos Heresy
+28
+69
+Rod of Gallia
+31
+70
+Rod of Keranos (base)
+31
+71-72
+Sacrificial Knife
+32
+73
+Setessan Lasso (base)
+34
+74
+Starlit Mantle (base)
+36
+75
+Aspect Icon - Gorgon
+11
+76
+Aspect Icon - Hydra
+11
+77
+Aspect Icon - Lamprey
+11
+78
+Aspect Icon - Manticore
+12
+79
+Entrancing Lyre
+19
+80
+Golden Funeral Mask of the
+Pseudamma
+23
+81
+Setessan Lasso
+34
+82
+Starlit Mantle
+36
+83
+Vapors of the Oracle
+41
+84-85
+Witches’ Eye
+43
+86
+Nyx Lotus
+27
+87
+Crown of Atris (Overpaid)
+18
+88
+Lightning Diadem (Overpaid)
+26
+89
+Mirror Shield (Overpaid)
+27
+90
+Vapors of the Oracle (Overpaid)
+41
+91
+Pyxis of Pandemonium
+29
+92
+Setessan Lasso (Overpaid)
+34
+93
+Starlit Mantle (Overpaid)
+36
+94
+Staff of Athreos (base)
+35
+95
+Bident of Thassa’s Beloved (base)
+14
+96
+Bow of Nylea’s Hunter (base)
+15
+97
+Hammer of the Forged of Purphoros
+(base)
+24
+98
+Sun Spear (base)
+37
+99
+Whip of Erebos’ Agent (base)
+42
+00
+Golden Funeral Mask of the Gray
+Merchant (base)
+22
+This table is a mix of all rari!es.
+
+
+=== PAGE 52 ===
+51
+M5 I	1 TA	 H
+d100
+Item
+Page
+1
+Strand of Arasta (Overpaid)
+36
+2-4
+Anvilwrought Raptor (Overpaid)
+7
+5-7
+Golden Funeral Masks of the Phalanx
+(Overpaid)
+23
+8-10
+Springleaf Drum (Overpaid)
+35
+11-13
+Stubborn Boulder (Overpaid)
+37
+14-16
+Vapors of the Oracle (Overpaid)
+41
+17-19
+Adventurers’ Podium (Overpaid)
+7
+20-22
+Aspect Icon - Donkey (Overpaid)
+10
+23-25
+Bountiful Lekythos (Overpaid)
+15
+26-28
+Crown of Atris (Overpaid)
+18
+29-31
+Flamecast Wheel (Overpaid)
+19
+32-34
+Fruit of Tizerus (Overpaid)
+21
+35-37
+Lightning Diadem (Overpaid)
+26
+38-40
+Mirror Shield (Overpaid)
+27
+41-42
+Pharika’s Libation Jar (Overpaid)
+28
+43-44
+Tendril of Arixmethes
+40
+45-46
+Yoke of Careful Unburdening
+(Overpaid)
+44
+47-48
+Archon Armor (Overpaid)
+9
+49-50
+Aspect Icon - Gorgon (Overpaid)
+11
+51-52
+Aspect Icon - Hydra (Overpaid)
+11
+53-54
+Aspect Icon - Lamprey (Overpaid)
+11
+55-56
+Aspect Icon - Manticore (Overpaid)
+12
+57-58
+Entrancing Lyre (Overpaid)
+19
+59-60
+Golden Funeral Mask of the
+Pseudamma
+23
+61-62
+Nyx Lotus (Overpaid)
+27
+63-64
+Oreskos Heresy (Overpaid)
+28
+65-66
+Rod of Gallia (Overpaid)
+31
+67-68
+Rod of Keranos
+31
+69-70
+Sacrificial Knife
+32
+71-72
+Setessan Lasso (Overpaid)
+34
+73-74
+Starlit Mantle (Overpaid)
+36
+75-76
+Witches’ Eye (Overpaid)
+43
+77-78
+Pyxis of Pandemonium
+29
+79-80
+Fleetfeather Sandals
+19
+81-82
+Staff of Athreos
+35
+83-84
+Warhorn of Mogis
+42
+85-86
+Aspect Icon - Mongoose
+12
+87-88
+Golden Funeral Mask of the
+Pseudamma (Overpaid)
+23
+89-90
+Golden Funeral Mask of the Gray
+Merchant (base)
+22
+91
+Bident of Thassa’s Beloved
+14
+92
+Bow of Nylea’s Hunter
+15
+93
+Hammer of the Forged of Purphoros
+24
+94
+Sun Spear
+37
+95
+Whip of Erebos’ Agent
+42
+96
+Golden Funeral Mask of the Gray
+Merchant
+22
+97
+Aspect Icon - Mongoose
+12
+98
+Ring of Cymede
+30
+99
+Ring of Anax
+29
+00
+Rings of Kynaios and Tiro
+31
+This table has high level items, including most legendaries and ar!facts.
+M5 I	1 TA	 I
+d100
+Item
+Page
+1-4
+Vapors of the Oracle (Overpaid)
+41
+5-8
+Fruit of Tizerus (Overpaid)
+21
+9-11
+Lightning Diadem (Overpaid)
+26
+12-15
+Mirror Shield (Overpaid)
+27
+16-19
+Pharika’s Libation Jar (Overpaid)
+28
+20-24
+Aspect Icon - Gorgon (Overpaid)
+11
+25-29
+Aspect Icon - Hydra (Overpaid)
+11
+30-34
+Aspect Icon - Lamprey (Overpaid)
+11
+35-39
+Aspect Icon - Manticore (Overpaid)
+12
+40-43
+Entrancing Lyre (Overpaid)
+19
+44-47
+Golden Funeral Mask of the
+Pseudamma (Overpaid)
+23
+48-52
+Nyx Lotus (Overpaid)
+27
+53-57
+Oreskos Heresy (Overpaid)
+28
+58-61
+Rod of Gallia (Overpaid)
+31
+62-65
+Rod of Keranos
+31
+66-70
+Sacrificial Knife
+32
+71-75
+Setessan Lasso (Overpaid)
+34
+76-79
+Starlit Mantle (Overpaid)
+36
+80-81
+Aspect Icon - Mongoose (Overpaid)
+12
+82-83
+Fleetfeather Sandals (Overpaid)
+19
+84-85
+Golden Funeral Mask of the Gray
+Merchant
+22
+86-87
+Pyxis of Pandemonium
+29
+88-89
+Staff of Athreos
+35
+90-91
+Warhorn of Mogis
+41
+92
+Bident of Thassa’s Beloved
+14
+93
+Bow of Nylea’s Hunter
+15
+94
+Hammer of the Forged of Purphoros
+24
+95
+Sun Spear
+37
+96
+Whip of Erebos’ Agent
+42
+97
+Rings of Kynaios and Tiro (Overpaid)
+31
+98
+Ring of Anax (Overpaid)
+29
+99
+Ring of Cymede (Overpaid)
+30
+00
+Ring of Promised Reunion
+30
+This table contains the most powerful items in the supplement.
+
+
+=== PAGE 53 ===
+52
+CREDITS
+Lead Writer: Grady Wang
+Writer & Editor: Theo Thourson
+Cover Arst: Victor Tan
+Interior Arst & Layout Designer: Grady Wang
+Magic: The Gathering Consultant: Cassie Rose
+Footer Graphic Designer: penji.co (Billie Cordova)
+Gallant Goblin Logo Arsts: penji.co (mascot by Kenny
+Samson, typography by Luigi Nablo)
+penji.co is a subscrip!on graphic design service that has
+served us well when we need a middle ground between
+free art resources and a commissioned ar!st. You can try
+one month with 15% off by entering our promo code
+27HIIFRTA1261503 or clicking the links above. We receive
+a referral bonus if you sign up with our code.
+Special thanks to Ashley Warren for her mentorship and
+advice on produc!vity, crea!vity, and the wild world of
+wri!ng for TTRPGs. Sa!ne Phoenix for providing
+developmental consul!ng. You can join both on Patreon
+and benefit from the wisdom they share to their backers
+as well.
+Royalty-free art resources used from the following sites:
+pexels.com, pixabay.com, share.substance3d.com,
+textures.com, turbosquid.com
+“Watercolor Spla.ers” brushes from brusheezy.com
+licensed under Crea!ve Commons BY-ND
+Party vector created by macrovector from freepik.com
+h.ps://www.freepik.com/free-photos-vectors/party
+ABOUT THE AUTHORS
+GRADY WANG and THEO
+THOURSON are co-founders
+of THE GALLANT GOBLIN,
+which began as a YouTube
+review channel for TTRPG
+miniatures.
+We currently live in
+Bakersfield, California with
+our family of rescue cats
+and are hard at work
+creating content to help you
+make the most of your
+TTRPG gaming experience. We’d love to hear
+from you about this supplement, how you used it
+in your game, or anything else that comes to mind!
+Join us on:
+YouTube
+youtube.com/thegallantgoblin
+Twitter
+@gallantgoblin
+Facebook
+facebook.com/thegallantgoblin
+Instagram
+@thegallantgoblin
+Our website gallantgoblin.com
+Did you enjoy The Gray
+Merchant of Asphodel? If so,
+check out our other DMs
+Guild content by searching for
+author: The Gallant Goblin!
+Check back periodically for
+new adventures coming your
+way!
+Looking for cute t-shirts or
+other merchandise? Support
+the creation of future content,
+including free releases, by
+checking out our burgeoning
+new store page on
+Redbubble!
+ON THE COVER
+The eponymous Gray Merchant gives a slain hydra a
+funeral, slathering clay on its heads to create funeral
+masks. Why would the Gray Merchant do this? Why
+does the Gray Merchant do anything?
+The cover art is intended as a followup to the events
+depicted on both the normal and collector edition
+covers of Mythic Odysseys of Theros.
+Disclaimer: The Gallant Goblin isn’t responsible for accidents or injuries incurred by aempts to cast plane shi or ignite your Planeswalker spark in order to
+reach Theros. If you haven’t yet experienced a world filled with omnipotent beings who send you on adventures and then strike you down on a whim when
+you become too powerful, we ask: what version of D&D are you playing?
+
+
+=== PAGE 54 ===
+53
+The Gray Merchant of Asphodel is a
+companion to the Dungeons &
+Dragons sourcebook Mythic
+Odysseys of Theros. Containing over
+100 new items inspired by Greek
+mythology and cards from the Theros
+setting of Magic: The Gathering,
+it’ll bring this new setting to life with
+mysterious items steeped in lore.
+Add the fan-favorite Gray Merchant as
+a wandering trader, perhaps divinely
+touched, who can be a vendor of these
+new items and also the source of
+intriguing new stories and adventures.
+With beautiful art, creative design, and
+new mechanics, this is one supplement
+you won’t want to miss. Wow your
+players by bringing even more Magic
+to your table!
+GallantGoblin.com
+
+

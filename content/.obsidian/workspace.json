@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3406cf1cd5864d87",
-        "type": "split",
+        "id": "02a8874d9edfd802",
+        "type": "tabs",
         "children": [
           {
-            "id": "02a8874d9edfd802",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3edb79d2216e29f8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Compendium/spells/alter-self-xphb.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "alter-self-xphb"
-                },
-                "group": "ec59e1efbfc50f29"
-              }
-            ]
-          },
-          {
-            "id": "eaf59d61732fe041",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "58e85dd71ac34169",
-                "type": "leaf",
-                "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "Compendium/spells/alter-self-xphb.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "File properties for alter-self-xphb"
-                },
-                "group": "ec59e1efbfc50f29"
-              }
-            ]
+            "id": "3edb79d2216e29f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/items/bident-of-thassas-beloved-gmoa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bident-of-thassas-beloved-gmoa"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vindheim",
+                "query": "gmoa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,11 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 450.5
   },
   "right": {
     "id": "5493c457f27fe363",
@@ -294,6 +268,20 @@
   },
   "active": "3edb79d2216e29f8",
   "lastOpenFiles": [
+    "Compendium/items/astral-cornucopia-gmoa.md",
+    "Compendium/items/aspect-icons-gmoa.md",
+    "Compendium/items/arrowhead-shard-gmoa.md",
+    "Compendium/items/archon-cape-gmoa.md",
+    "Compendium/items/archon-armor-gmoa.md",
+    "Compendium/items/anvilwrought-raptor-gmoa.md",
+    "Compendium/items/alseids-gift-gmoa.md",
+    "Compendium/items/akroan-rocking-horse-gmoa.md",
+    "Compendium/items/adventurers-podium-gmoa.md",
+    "Compendium/items/armor-of-invulnerability-xdmg.md",
+    "Compendium/items/armor-of-gleaming-xdmg.md",
+    "Compendium/items/aquamarine-xdmg.md",
+    "Compendium/items/arcane-focus-xphb.md",
+    "Compendium/spells/alter-self-xphb.md",
     "Compendium/spells/alarm-xphb.md",
     "Compendium/spells/aid-xphb.md",
     "Compendium/spells/acid-splash-xphb.md",
@@ -306,20 +294,6 @@
     "Compendium/spells/conjure-barrage-xphb.md",
     "Compendium/spells/cone-of-cold-xphb.md",
     "Compendium/spells/commune-xphb.md",
-    "Compendium/items/1-rod-of-the-pact-keeper-xdmg.md",
-    "Compendium/items/1-armor-xdmg.md",
-    "Compendium/items/1-ammunition-xdmg.md",
-    "Compendium/feats/ability-score-improvement-xphb.md",
-    "Compendium/feats/actor-xphb.md",
-    "Compendium/feats/alert-xphb.md",
-    "Compendium/feats/archery-xphb.md",
-    "Compendium/feats/athlete-xphb.md",
-    "Compendium/feats/blessed-warrior-xphb.md",
-    "Compendium/feats/boon-of-desperate-resilience-frhof.md",
-    "Compendium/feats/boon-of-exquisite-radiance-frhof.md",
-    "Compendium/feats/boon-of-communication-frhof.md",
-    "Compendium/feats/boon-of-bountiful-health-frhof.md",
-    "Utilities/spell-table.md",
     "Utilities",
     "Lore/Theros_ Beyond Death/Theros Beyond Death Trailer.mp4",
     "Test/test2",
