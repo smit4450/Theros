@@ -15,7 +15,7 @@ aliases: ["Vrock"]
 # Vrock
 *Source: Monster Manual (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/vrock.webp#right)  
+![](Compendium/bestiary/fiend/img/vrock.webp#right|850)  
 ## Vrock
 
 *Demon of Carnage and Ruin*

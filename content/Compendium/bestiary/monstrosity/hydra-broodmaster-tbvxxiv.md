@@ -15,7 +15,7 @@ aliases: ["Hydra Broodmaster"]
 
 
 
-![Hydra Broodmaster](Compendium/bestiary/monstrosity/img/hydra-broodmaster.webp#right)  
+![Hydra Broodmaster](Compendium/bestiary/monstrosity/img/hydra-broodmaster.webp#right|850)  
 
 ```statblock
 "name": "Hydra Broodmaster (TBVXXIV)"

@@ -16,7 +16,7 @@ aliases: ["Ghast Gravecaller"]
 # Ghast Gravecaller
 *Source: Monster Manual (2024) p. 130*  
 
-![](Compendium/bestiary/undead/img/ghasts.webp#right)  
+![](Compendium/bestiary/undead/img/ghasts.webp#right|850)  
 Ghast gravecallers wield fell magic and converse with corpses. They might pose as liches or vampires.
 
 ## Ghasts

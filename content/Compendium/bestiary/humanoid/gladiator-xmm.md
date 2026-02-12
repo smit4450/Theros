@@ -14,7 +14,7 @@ aliases: ["Gladiator"]
 # Gladiator
 *Source: Monster Manual (2024) p. 139. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![In an undersea arena, the ...](Compendium/bestiary/humanoid/img/gladiator.webp#right)  
+![In an undersea arena, the ...](Compendium/bestiary/humanoid/img/gladiator.webp#right|850)  
 ## Gladiator
 
 *Competitor and Prizefighter*

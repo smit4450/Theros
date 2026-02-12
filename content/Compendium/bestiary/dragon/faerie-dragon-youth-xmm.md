@@ -14,7 +14,7 @@ aliases: ["Faerie Dragon Youth"]
 # Faerie Dragon Youth
 *Source: Monster Manual (2024) p. 117*  
 
-![](Compendium/bestiary/dragon/img/faerie-dragons.webp#right)  
+![](Compendium/bestiary/dragon/img/faerie-dragons.webp#right|850)  
 Faerie dragon youths are quick to use their euphoria-inducing breath on rude or uptight folk.
 
 ## Faerie Dragons

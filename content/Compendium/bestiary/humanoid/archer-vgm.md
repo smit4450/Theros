@@ -15,7 +15,7 @@ aliases: ["Archer"]
 # Archer
 *Source: Volo's Guide to Monsters p. 210, Mythic Odysseys of Theros*  
 
-![](Compendium/bestiary/humanoid/img/archer.webp#right)  
+![](Compendium/bestiary/humanoid/img/archer.webp#right|850)  
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
 ```statblock
 "name": "Archer (VGM)"

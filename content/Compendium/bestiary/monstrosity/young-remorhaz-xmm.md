@@ -14,7 +14,7 @@ aliases: ["Young Remorhaz"]
 # Young Remorhaz
 *Source: Monster Manual (2024) p. 258*  
 
-![](Compendium/bestiary/monstrosity/img/remorhazes.webp#right)  
+![](Compendium/bestiary/monstrosity/img/remorhazes.webp#right|850)  
 Young remorhazes scorch and consume any creatures they can chase down and overwhelm.
 
 ## Remorhazes

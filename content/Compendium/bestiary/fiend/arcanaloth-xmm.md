@@ -15,7 +15,7 @@ aliases: ["Arcanaloth"]
 # Arcanaloth
 *Source: Monster Manual (2024) p. 19*  
 
-![](Compendium/bestiary/fiend/img/arcanaloth.webp#right)  
+![](Compendium/bestiary/fiend/img/arcanaloth.webp#right|850)  
 ## Arcanaloth
 
 *Yugoloth of Magical Manipulation*

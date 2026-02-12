@@ -15,7 +15,7 @@ aliases: ["Mud Mephit"]
 # Mud Mephit
 *Source: Monster Manual (2024) p. 207*  
 
-![](Compendium/bestiary/elemental/img/mephits.webp#right)  
+![](Compendium/bestiary/elemental/img/mephits.webp#right|850)  
 A combination of earth and water, mud mephits are crude, disgusting creatures. They take every opportunity to ruin objects and pollute food with muck.
 
 ## Mephits

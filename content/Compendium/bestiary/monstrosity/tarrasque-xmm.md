@@ -14,7 +14,7 @@ aliases: ["Tarrasque"]
 # Tarrasque
 *Source: Monster Manual (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/tarrasque.webp#right)  
+![](Compendium/bestiary/monstrosity/img/tarrasque.webp#right|850)  
 ## Tarrasque
 
 *The Shape of Calamity*

@@ -17,7 +17,7 @@ aliases: ["Riptide Chimera"]
 
 The riptide chimera is a nyxborn creature with a bear's body, the heads of a shark and a piranha, crab claws, bat wings, and a tail of jellyfish tentacles.
 
-![Riptide Chimera](Compendium/bestiary/miscellaneous/img/riptide-chimera.webp#right)  
+![Riptide Chimera](Compendium/bestiary/miscellaneous/img/riptide-chimera.webp#right|850)  
 
 ```statblock
 "name": "Riptide Chimera (TBVXXIII)"

@@ -15,7 +15,7 @@ aliases: ["Akroan Conscriptor"]
 
 <blockquote><small>“The time to serve is now.”</small></blockquote>
 
-![Akroan Conscriptor](Compendium/bestiary/humanoid/img/akroan-conscriptor.webp#right)  
+![Akroan Conscriptor](Compendium/bestiary/humanoid/img/akroan-conscriptor.webp#right|850)  
 
 ```statblock
 "name": "Akroan Conscriptor (TBVXVI)"

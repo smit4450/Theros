@@ -15,7 +15,7 @@ aliases: ["Modron Monodrone"]
 # Modron Monodrone
 *Source: Monster Manual (2024) p. 216*  
 
-![](Compendium/bestiary/construct/img/modron-monodrone.webp#right)  
+![](Compendium/bestiary/construct/img/modron-monodrone.webp#right|850)  
 The most numerous modrons, monodrones can perform one simple task at a time. They believe anything they're told that isn't logically or mathematically false. When faced with unexpected situations, they're quick to seek duodrones for help.
 
 ## Modrons

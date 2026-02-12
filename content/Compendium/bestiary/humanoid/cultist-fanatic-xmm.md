@@ -14,7 +14,7 @@ aliases: ["Cultist Fanatic"]
 # Cultist Fanatic
 *Source: Monster Manual (2024) p. 85, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/cultists.webp#right)  
+![](Compendium/bestiary/humanoid/img/cultists.webp#right|850)  
 Cultist fanatics lead small cults or cells within larger cults. They're privy to more of a cult's mysteries than lower-ranking cultists are, granting them access to magical powers from their patrons.
 
 ## Cultists

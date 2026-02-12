@@ -15,7 +15,7 @@ aliases: ["Battlefield Thaumaturge"]
 
 
 
-![Battlefield Thaumaturge](Compendium/bestiary/humanoid/img/battlefield-thaumaturge.webp#right)  
+![Battlefield Thaumaturge](Compendium/bestiary/humanoid/img/battlefield-thaumaturge.webp#right|850)  
 
 ```statblock
 "name": "Battlefield Thaumaturge (TBVXVI)"

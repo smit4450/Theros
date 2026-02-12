@@ -14,7 +14,7 @@ aliases: ["Warrior Veteran"]
 # Warrior Veteran
 *Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An aasimar commander leads...](Compendium/bestiary/humanoid/img/warriors.webp#right)  
+![An aasimar commander leads...](Compendium/bestiary/humanoid/img/warriors.webp#right|850)  
 Warrior veterans have participated in numerous battles and can hold their own against lesser rivals and monsters.
 
 ## Warriors

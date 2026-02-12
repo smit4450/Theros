@@ -14,7 +14,7 @@ aliases: ["Swarm of Crawling Claws"]
 # Swarm of Crawling Claws
 *Source: Monster Manual (2024) p. 83. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/crawling-claws.webp#right)  
+![](Compendium/bestiary/undead/img/crawling-claws.webp#right|850)  
 Swarms of crawling claws are typically animated by depraved necromancers. Occasionally, these grotesque swarms arise from mass graves or after tragedies, refusing to let their murderers escape their grasp.
 
 ## Crawling Claws

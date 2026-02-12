@@ -14,7 +14,7 @@ aliases: ["Vine Blight"]
 # Vine Blight
 *Source: Monster Manual (2024) p. 44*  
 
-![](Compendium/bestiary/plant/img/vine-needle-and-tree-blights.webp#right)  
+![](Compendium/bestiary/plant/img/vine-needle-and-tree-blights.webp#right|850)  
 Vine blights resemble humans wrapped in vines common to the areas in which they grow, from hairy ivy vines to flowering kudzu. They can cause plants to burst from the ground around themselves and entangle nearby foes.
 
 Unlike most other blights, vine blights can speak. They do so rarely, typically only to convey messages from their masters or to repeat the words of their victims in rasping voices.

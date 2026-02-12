@@ -17,7 +17,7 @@ aliases: ["Beholder Zombie"]
 # Beholder Zombie
 *Source: Monster Manual (2024) p. 347*  
 
-![](Compendium/bestiary/undead/img/zombies.webp#right)  
+![](Compendium/bestiary/undead/img/zombies.webp#right|850)  
 Zombies animated from the corpses of beholders retain some use of those monsters' magical eyestalks. These hovering corpses rely on their magic to destroy impediments and paralyze foes, allowing them to savage foes with their rotting maws.
 
 Magic-using beholders typically raise these abominations from the corpses of defeated rivals.

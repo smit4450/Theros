@@ -14,7 +14,7 @@ aliases: ["Iron Golem"]
 # Iron Golem
 *Source: Monster Manual (2024) p. 181. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/iron-golem.webp#right)  
+![](Compendium/bestiary/construct/img/iron-golem.webp#right|850)  
 ## Iron Golem
 
 *Guardian of That Which Must Endure*

@@ -13,7 +13,7 @@ aliases: ["Meletian Hoplite"]
 # Meletian Hoplite
 *Source: Mythic Odysseys of Theros p. 229*  
 
-![](Compendium/bestiary/humanoid/img/hoplite.webp#right)  
+![](Compendium/bestiary/humanoid/img/hoplite.webp#right|850)  
 Meletian hoplites use a combination of cunning, faith, and magic to defend their coastal home. Most of these skilled soldiers serve in the Reverent Army, the defenders of Meletis, which uses an array of proven strategies and flexible troop formations to gain the advantage over foes. Bolstered by trained griffon and pegasus steeds, they strike foes where they least expect.
 
 Hoplites are highly trained warriors, versed not only in strategy and tactics but in the glorification of the warrior's spirit, the basis of an ethos that forges an unbreakable bond between members of a military unit. In combat, hoplites typically work in groups and use coordinated tactics to win victories.

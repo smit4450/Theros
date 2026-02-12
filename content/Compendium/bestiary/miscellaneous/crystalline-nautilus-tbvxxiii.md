@@ -15,7 +15,7 @@ aliases: ["Crystalline Nautilus"]
 
 
 
-![Crystalline Nautilus](Compendium/bestiary/miscellaneous/img/crystalline-nautilus.webp#right)  
+![Crystalline Nautilus](Compendium/bestiary/miscellaneous/img/crystalline-nautilus.webp#right|850)  
 
 ```statblock
 "name": "Crystalline Nautilus (TBVXXIII)"

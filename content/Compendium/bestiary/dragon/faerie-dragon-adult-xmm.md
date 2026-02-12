@@ -14,7 +14,7 @@ aliases: ["Faerie Dragon Adult"]
 # Faerie Dragon Adult
 *Source: Monster Manual (2024) p. 117*  
 
-![](Compendium/bestiary/dragon/img/faerie-dragons.webp#right)  
+![](Compendium/bestiary/dragon/img/faerie-dragons.webp#right|850)  
 The pranks of faerie dragon adults tend to lead others to people in need or wrongs to be righted.
 
 ## Faerie Dragons

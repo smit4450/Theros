@@ -13,7 +13,7 @@ aliases: ["Returned Kakomantis"]
 # Returned Kakomantis
 *Source: Mythic Odysseys of Theros p. 240*  
 
-![](Compendium/bestiary/undead/img/returned.webp#right)  
+![](Compendium/bestiary/undead/img/returned.webp#right|850)  
 Although the dead typically recall little of their lives, some have an obsession with magic that survives both death and rebirth as a Returned. These Returned, called kakomanteis, use their magical prowess to control the energy that suffuses the Underworld.
 
 Returned have escaped the Underworld and dwell among the living once more, but their second lives are rarely what they expected—not that they remember what it was they expected. As a result of having followed the Path of Phenax (see chapter 4), the Returned lose their identities, which manifest as separate beings known as eidolons. The experience of escaping the Underworld also causes them to lose their faces, which become expressionless surfaces with empty eye sockets and gaping mouths. These blank surfaces they cover with distinctive golden masks.

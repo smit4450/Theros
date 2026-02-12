@@ -15,7 +15,7 @@ aliases: ["Felhide Spiritbinder"]
 
 
 
-![Felhide Spiritbinder](Compendium/bestiary/humanoid/img/felhide-spiritbinder.webp#right)  
+![Felhide Spiritbinder](Compendium/bestiary/humanoid/img/felhide-spiritbinder.webp#right|850)  
 
 ```statblock
 "name": "Felhide Spiritbinder (TBVXI)"

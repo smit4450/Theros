@@ -14,7 +14,7 @@ aliases: ["Elemental Cultist"]
 # Elemental Cultist
 *Source: Monster Manual (2024) p. 87*  
 
-![](Compendium/bestiary/humanoid/img/aberrant-cultist-and-elemental-cultist.webp#right)  
+![](Compendium/bestiary/humanoid/img/aberrant-cultist-and-elemental-cultist.webp#right|850)  
 Elemental cultists harness destructive natural forces to cleanse the world of civilization or prove the dominance of one element over all others. Such cultists are aligned with Elemental monsters or wicked immortals such as the Princes of Elemental Evil or the Elder Elemental Eye.
 
 ## Cultists

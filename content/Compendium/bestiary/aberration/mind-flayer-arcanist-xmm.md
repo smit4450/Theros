@@ -14,7 +14,7 @@ aliases: ["Mind Flayer Arcanist"]
 # Mind Flayer Arcanist
 *Source: Monster Manual (2024) p. 214*  
 
-![](Compendium/bestiary/aberration/img/mind-flayers.webp#right)  
+![](Compendium/bestiary/aberration/img/mind-flayers.webp#right|850)  
 Mind flayer arcanists enhance their psionic abilities with magic. Other mind flayers view those that undertake such experiments with disgust and fear.
 
 ## Mind Flayers

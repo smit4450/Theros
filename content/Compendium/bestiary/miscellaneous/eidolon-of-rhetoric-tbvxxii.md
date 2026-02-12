@@ -15,7 +15,7 @@ aliases: ["Eidolon of Rhetoric"]
 
 <small><blockquote>It is the soul of a philosopher who died of starvation contemplating the universe.</blockquote></small>
 
-![Eidolon of Rhetoric](Compendium/bestiary/miscellaneous/img/eidolon-of-rhetoric.webp#right)  
+![Eidolon of Rhetoric](Compendium/bestiary/miscellaneous/img/eidolon-of-rhetoric.webp#right|850)  
 
 ```statblock
 "name": "Eidolon of Rhetoric (TBVXXII)"

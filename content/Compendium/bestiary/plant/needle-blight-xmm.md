@@ -14,7 +14,7 @@ aliases: ["Needle Blight"]
 # Needle Blight
 *Source: Monster Manual (2024) p. 43*  
 
-![](Compendium/bestiary/plant/img/vine-needle-and-tree-blights.webp#right)  
+![](Compendium/bestiary/plant/img/vine-needle-and-tree-blights.webp#right|850)  
 Needle blights have vaguely bipedal forms, with gaunt, misshapen limbs. Whether standing unnaturally still or lurching with their awkward gaits, these blights can't pass as either normal plants or woodland travelers. Once they spot foes, needle blights attack using their thorn-covered claws or by rapidly growing and flinging volleys of serrated, needlelike projectiles.
 
 ## Blights

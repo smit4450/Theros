@@ -13,7 +13,7 @@ aliases: ["Triton Master of Waves"]
 # Triton Master of Waves
 *Source: Mythic Odysseys of Theros p. 245*  
 
-![](Compendium/bestiary/humanoid/img/triton-master-of-waves.webp#right)  
+![](Compendium/bestiary/humanoid/img/triton-master-of-waves.webp#right|850)  
 Triton masters of waves sculpt storms and change the tides, bending the sea to their will. Drawing forth living currents and the icy cold of the deep, these mages make the ocean their ally, using it to defend their people or enact Thassa's wishes. While dire threats from the land might bring them to coastal shallows, most masters of waves keep to the ocean's depths.
 
 Although many masters of waves resent land-dwellers and strike out at those who trespass upon their waters, most are devoted followers of the sea god. Those who share their faith or who bear earnest offerings to Thassa might defuse the tritons' ire—that is, if they survive the deadly winds and waves that typically herald these sea guardians' appearance.

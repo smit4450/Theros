@@ -14,7 +14,7 @@ aliases: ["Intellect Devourer"]
 # Intellect Devourer
 *Source: Monster Manual (2024) p. 179*  
 
-![](Compendium/bestiary/aberration/img/intellect-devourer.webp#right)  
+![](Compendium/bestiary/aberration/img/intellect-devourer.webp#right|850)  
 ## Intellect Devourer
 
 *Brain-Eating Body Thief*

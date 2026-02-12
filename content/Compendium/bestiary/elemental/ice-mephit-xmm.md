@@ -15,7 +15,7 @@ aliases: ["Ice Mephit"]
 # Ice Mephit
 *Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/mephits.webp#right)  
+![](Compendium/bestiary/elemental/img/mephits.webp#right|850)  
 Ice mephits have bodies made of frigid air and frozen water. They delight in freezing things and dropping ice into peoples' clothes.
 
 ## Mephits

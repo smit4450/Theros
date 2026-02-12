@@ -14,7 +14,7 @@ aliases: ["Primeval Owlbear"]
 # Primeval Owlbear
 *Source: Monster Manual (2024) p. 234*  
 
-![](Compendium/bestiary/monstrosity/img/owlbears.webp#right)  
+![](Compendium/bestiary/monstrosity/img/owlbears.webp#right|850)  
 Ancient forests and Feywild demesnes steeped in magic can give rise to particularly large and vicious owlbears. These primeval specimens can fly—albeit poorly—and emit thunderous screeches that can rattle foes and even tear them asunder.
 
 ## Owlbears

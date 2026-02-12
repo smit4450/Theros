@@ -15,7 +15,7 @@ aliases: ["Barbed Devil"]
 # Barbed Devil
 *Source: Monster Manual (2024) p. 30. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/barbed-devil.webp#right)  
+![](Compendium/bestiary/fiend/img/barbed-devil.webp#right|850)  
 ## Barbed Devil
 
 *Devil of Greed and Obsession*

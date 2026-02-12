@@ -14,7 +14,7 @@ aliases: ["Black Dragon Wyrmling"]
 # Black Dragon Wyrmling
 *Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/black-dragon-wyrmling.webp#right)  
+![](Compendium/bestiary/dragon/img/black-dragon-wyrmling.webp#right|850)  
 Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and weaker creatures to overpower. While older wyrmlings eventually seek their own territories, recently hatched ones might hunt one another, seeking dominance over their clutch and slaying rivals they can't subjugate.
 
 ## Black Dragons

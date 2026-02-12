@@ -15,7 +15,7 @@ aliases: ["Disciple of Deceit"]
 
 
 
-![Disciple of Deceit](Compendium/bestiary/humanoid/img/disciple-of-deceit.webp#right)  
+![Disciple of Deceit](Compendium/bestiary/humanoid/img/disciple-of-deceit.webp#right|850)  
 
 ```statblock
 "name": "Disciple of Deceit (TBVXXV)"

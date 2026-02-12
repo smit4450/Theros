@@ -15,7 +15,7 @@ aliases: ["Sightless Brawler"]
 
 
 
-![Sightless Brawler](Compendium/bestiary/miscellaneous/img/sightless-brawler.webp#right)  
+![Sightless Brawler](Compendium/bestiary/miscellaneous/img/sightless-brawler.webp#right|850)  
 
 ```statblock
 "name": "Sightless Brawler (TBVXVI)"

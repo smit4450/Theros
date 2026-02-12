@@ -14,7 +14,7 @@ aliases: ["Guard Captain"]
 # Guard Captain
 *Source: Monster Manual (2024) p. 162. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/guards.webp#right)  
+![](Compendium/bestiary/humanoid/img/guards.webp#right|850)  
 Guard captains often have ample professional experience. They might be accomplished bodyguards, protectors of magic treasures, veteran watch members, or similar wardens.
 
 ## Guards

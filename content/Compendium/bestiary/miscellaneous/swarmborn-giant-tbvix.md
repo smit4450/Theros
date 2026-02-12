@@ -15,7 +15,7 @@ aliases: ["Swarmborn Giant"]
 
 
 
-![Swarmborn Giant](Compendium/bestiary/miscellaneous/img/swarmborn-giant.webp#right)  
+![Swarmborn Giant](Compendium/bestiary/miscellaneous/img/swarmborn-giant.webp#right|850)  
 
 ```statblock
 "name": "Swarmborn Giant (TBVIX)"

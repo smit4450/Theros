@@ -15,7 +15,7 @@ aliases: ["Githzerai Zerth"]
 # Githzerai Zerth
 *Source: Monster Manual (2024) p. 137*  
 
-![](Compendium/bestiary/aberration/img/githzerai.webp#right)  
+![](Compendium/bestiary/aberration/img/githzerai.webp#right|850)  
 Githzerai zerths embody the discipline espoused by their first leader, Zerthimon. Their psionic control aids them in protecting their people and traveling the planes of existence without fear of being followed by githyanki or mind flayer foes.
 
 ## Githzerai

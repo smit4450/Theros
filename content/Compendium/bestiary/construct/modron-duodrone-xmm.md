@@ -15,7 +15,7 @@ aliases: ["Modron Duodrone"]
 # Modron Duodrone
 *Source: Monster Manual (2024) p. 217*  
 
-![](Compendium/bestiary/construct/img/modron-duodrone.webp#right)  
+![](Compendium/bestiary/construct/img/modron-duodrone.webp#right|850)  
 Duodrones can perform two tasks at once and often oversee monodrone work groups. They are slightly more skeptical of strangers than monodrones are.
 
 ## Modrons

@@ -16,7 +16,7 @@ aliases: ["Archetype of Courage"]
 <blockquote><small>"It has been my experience that soldiers most fervently follow generals who lead by example." - Elspeth</small></blockquote>
 The archetype of courage is a human soldier blessed by Iroas. His blessing extends to his allies.
 
-![Archetype of Courage](Compendium/bestiary/miscellaneous/img/archetype-of-courage.webp#right)  
+![Archetype of Courage](Compendium/bestiary/miscellaneous/img/archetype-of-courage.webp#right|850)  
 
 ```statblock
 "name": "Archetype of Courage (TBVXVIII)"

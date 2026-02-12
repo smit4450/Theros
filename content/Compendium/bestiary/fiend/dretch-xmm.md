@@ -15,7 +15,7 @@ aliases: ["Dretch"]
 # Dretch
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/dretches.webp#right)  
+![](Compendium/bestiary/fiend/img/dretches.webp#right|850)  
 Lone dretches serve other demons or evil magic-users. They are erratic, filthy, and violent, and they demonstrate little sense of self-preservation.
 
 ## Dretches

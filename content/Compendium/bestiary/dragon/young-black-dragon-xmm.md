@@ -14,7 +14,7 @@ aliases: ["Young Black Dragon"]
 # Young Black Dragon
 *Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/black-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/black-dragon.webp#right|850)  
 Most young black dragons claim a hidden lair—typically a dismal place accessible through deadly ruins or a treacherous bog. They delight in exploiting fearful servants and might terrorize small communities or impress groups of kobolds or troglodytes into their service. Some ally themselves with powerful undead such as death knights and vampires or aberrations such as aboleths and kuo-toa.
 
 ## Black Dragons

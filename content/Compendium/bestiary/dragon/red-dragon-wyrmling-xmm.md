@@ -15,7 +15,7 @@ aliases: ["Red Dragon Wyrmling"]
 # Red Dragon Wyrmling
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/red-dragon-wyrmling.webp#right)  
+![](Compendium/bestiary/dragon/img/red-dragon-wyrmling.webp#right|850)  
 Red dragon wyrmlings are born destroyers. From a young age, they delight in igniting objects and creatures alike. They sometimes restrain themselves from scorching creatures to instead bully others into following their orders and bringing them gifts.
 
 ## Red Dragons

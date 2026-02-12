@@ -15,7 +15,7 @@ aliases: ["Aboleth"]
 # Aboleth
 *Source: Monster Manual (2024) p. 12. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![A gnome cultist consults an all-knowing aboleth](Compendium/bestiary/aberration/img/aboleth.webp#right)  
+![A gnome cultist consults an all-knowing aboleth](Compendium/bestiary/aberration/img/aboleth.webp#right|850)  
 ## Aboleth
 
 *Ageless Alien Mastermind*

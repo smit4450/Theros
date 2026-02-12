@@ -14,7 +14,7 @@ aliases: ["Ancient Black Dragon"]
 # Ancient Black Dragon
 *Source: Monster Manual (2024) p. 40. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![As terrifying as it is tit...](Compendium/bestiary/dragon/img/ancient-black-dragon.webp#right)  
+![As terrifying as it is tit...](Compendium/bestiary/dragon/img/ancient-black-dragon.webp#right|850)  
 Ancient black dragons plot the ruin of whole realms. They seek magic to corrupt the land, raise undead hordes, bind fiends, and replicate magical disasters. Ancient black dragons strive to create vast, dead domains where they are the greatest things that remain.
 
 ## Black Dragons

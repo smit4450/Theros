@@ -15,7 +15,7 @@ aliases: ["Squelching Leeches"]
 
 <blockquote><small>Leeches are sacred to followers of Pharika for drawing poison from a wound, but feared by everyone else for drawing blood from the flesh.</small></blockquote>
 
-![Squelching Leeches](Compendium/bestiary/miscellaneous/img/squelching-leeches.webp#right)  
+![Squelching Leeches](Compendium/bestiary/miscellaneous/img/squelching-leeches.webp#right|850)  
 
 ```statblock
 "name": "Squelching Leeches (TBVXVII)"

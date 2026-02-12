@@ -17,7 +17,7 @@ aliases: ["Gnoll Fang of Yeenoghu"]
 # Gnoll Fang of Yeenoghu
 *Source: Monster Manual (2024) p. 141*  
 
-![](Compendium/bestiary/fiend/img/gnolls.webp#right)  
+![](Compendium/bestiary/fiend/img/gnolls.webp#right|850)  
 Gnolls possessed by demonic vestiges of the demon lord Yeenoghu, fangs of Yeenoghu direct the chaos of gnoll packs. Along the way, these fanatics seek grisly omens from Yeenoghu and strive to interpret the demon lord's vicious goals.
 
 ## Gnolls

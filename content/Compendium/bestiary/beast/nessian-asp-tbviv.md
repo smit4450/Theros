@@ -15,7 +15,7 @@ aliases: ["Nessian Asp"]
 
 <small><blockquote>It’s not the two heads you should fear. It’s the four fangs.</blockquote></small>
 
-![Nessian Asp](Compendium/bestiary/beast/img/nessian-asp.webp#right)  
+![Nessian Asp](Compendium/bestiary/beast/img/nessian-asp.webp#right|850)  
 
 ```statblock
 "name": "Nessian Asp (TBVIV)"

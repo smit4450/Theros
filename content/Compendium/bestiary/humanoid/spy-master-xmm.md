@@ -14,7 +14,7 @@ aliases: ["Spy Master"]
 # Spy Master
 *Source: Monster Manual (2024) p. 295*  
 
-![](Compendium/bestiary/humanoid/img/spies.webp#right)  
+![](Compendium/bestiary/humanoid/img/spies.webp#right|850)  
 Spy masters have extensive experience in gathering secrets while leaving no evidence of their presence.
 
 ## Spies

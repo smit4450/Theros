@@ -14,7 +14,7 @@ aliases: ["Colossus"]
 # Colossus
 *Source: Monster Manual (2024) p. 76*  
 
-![](Compendium/bestiary/construct/img/colossus.webp#right)  
+![](Compendium/bestiary/construct/img/colossus.webp#right|850)  
 ## Colossus
 
 *Titanic Vessel of Divine Might*

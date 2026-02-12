@@ -16,7 +16,7 @@ aliases: ["Agent of Erebos"]
 <blockquote><small>Erebos’s minions hunt the Returned and warn those who consider the same folly.</small></blockquote>
 These zombies are sent into the mortal realm by Erebos to find the escaped Returned and send them back to Erebos. Their masks are kept as trophies.
 
-![Agent of Erebos](Compendium/bestiary/miscellaneous/img/agent-of-erebos.webp#right)  
+![Agent of Erebos](Compendium/bestiary/miscellaneous/img/agent-of-erebos.webp#right|850)  
 
 ```statblock
 "name": "Agent of Erebos (TBVIII)"

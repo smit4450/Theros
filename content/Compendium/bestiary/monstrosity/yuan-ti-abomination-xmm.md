@@ -17,7 +17,7 @@ aliases: ["Yuan-ti Abomination"]
 # Yuan-ti Abomination
 *Source: Monster Manual (2024) p. 345*  
 
-![](Compendium/bestiary/monstrosity/img/yuan-ti-abomination.webp#right)  
+![](Compendium/bestiary/monstrosity/img/yuan-ti-abomination.webp#right|850)  
 Yuan-ti abominations have traded away nearly all evidence of their humanity, coming to resemble giant, upright serpents with scaly arms and hands. In battle, they relish opportunities to crush foes in their powerful coils or strike with their venomous fangs. These abominations can also shape-shift into snakes. In these forms, abominations are indistinguishable from normal serpents.
 
 The true threat of yuan-ti abominations stems not from their physical might but from their cunning. These masterminds often lead cult-like cells of other yuan-ti and direct them in enacting elaborate conspiracies. Abominations avoid jeopardizing themselves, typically scheming from hidden bastions where they're protected by yuan-ti and serpent guardians. These cold-hearted leaders have a unique understanding of the supernatural forces that grant yuan-ti their powers, and they usually have insidious magical traps and contingencies at their disposal.

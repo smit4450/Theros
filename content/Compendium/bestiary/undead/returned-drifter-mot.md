@@ -13,7 +13,7 @@ aliases: ["Returned Drifter"]
 # Returned Drifter
 *Source: Mythic Odysseys of Theros p. 240*  
 
-![](Compendium/bestiary/undead/img/returned.webp#right)  
+![](Compendium/bestiary/undead/img/returned.webp#right|850)  
 Many Returned are pitiable souls who managed to escape from the Underworld only to find themselves stripped of the passions that motivated their flight. Lacking purpose and shunned by the living, these Returned typically seek places where they'll be left in peace, such as lonely tombs or the necropoleis of Asphodel and Odunos. There they go through half-hearted parodies of life, impeded by distraction and ennui. Despite this, even the most languorous Returned defend themselves if threatened and might be pressed into the service of their more willful brethren.
 
 Returned have escaped the Underworld and dwell among the living once more, but their second lives are rarely what they expected—not that they remember what it was they expected. As a result of having followed the Path of Phenax (see chapter 4), the Returned lose their identities, which manifest as separate beings known as eidolons. The experience of escaping the Underworld also causes them to lose their faces, which become expressionless surfaces with empty eye sockets and gaping mouths. These blank surfaces they cover with distinctive golden masks.

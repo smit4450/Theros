@@ -14,7 +14,7 @@ aliases: ["Pirate Admiral"]
 # Pirate Admiral
 *Source: Monster Manual (2024) p. 242*  
 
-![](Compendium/bestiary/humanoid/img/pirates.webp#right)  
+![](Compendium/bestiary/humanoid/img/pirates.webp#right|850)  
 Pirate admirals command whole pirate fleets. They undertake audacious ventures, such as challenging the navies of coastal nations, hunting legendary sea creatures, or carving out their own pirate kingdoms. Pirate admirals might launch their fleets from hidden fortresses where they hoard their treasure—or keep maps to where they've hidden their riches. Some pirate admirals ally with the followers of oceanic deities, underwater dwellers, and sea monsters, as well as their fellow scalawags.
 
 ## Pirates

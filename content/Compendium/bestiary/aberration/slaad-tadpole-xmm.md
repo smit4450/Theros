@@ -15,7 +15,7 @@ aliases: ["Slaad Tadpole"]
 # Slaad Tadpole
 *Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357. Available in the Free Rules (2024)*  
 
-![](Compendium/bestiary/aberration/img/slaad-tadpole.webp#right)  
+![](Compendium/bestiary/aberration/img/slaad-tadpole.webp#right|850)  
 Slaad tadpoles are ravenous, newborn slaadi. They hatch from eggs implanted into living hosts by red slaadi, but they also appear in great numbers in Limbo and other chaotic realms. Under most conditions, a slaad tadpole transforms into a blue slaad—or a green slaad if its host was able to cast spells of level 3 or higher—within `2d12` hours of hatching.
 
 ## Slaadi

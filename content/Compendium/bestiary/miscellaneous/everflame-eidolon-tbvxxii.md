@@ -15,7 +15,7 @@ aliases: ["Everflame Eidolon"]
 
 
 
-![Everflame Eidolon](Compendium/bestiary/miscellaneous/img/everflame-eidolon.webp#right)  
+![Everflame Eidolon](Compendium/bestiary/miscellaneous/img/everflame-eidolon.webp#right|850)  
 
 ```statblock
 "name": "Everflame Eidolon (TBVXXII)"

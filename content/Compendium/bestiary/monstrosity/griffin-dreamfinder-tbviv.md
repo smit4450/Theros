@@ -15,7 +15,7 @@ aliases: ["Griffin Dreamfinder"]
 
 <small><blockquote>Some griffins are able to pluck mystic auras from the Aether that are hidden from other mortals.</blockquote></small>
 
-![Griffin Dreamfinder](Compendium/bestiary/monstrosity/img/griffin-dreamfinder.webp#right)  
+![Griffin Dreamfinder](Compendium/bestiary/monstrosity/img/griffin-dreamfinder.webp#right|850)  
 
 ```statblock
 "name": "Griffin Dreamfinder (TBVIV)"

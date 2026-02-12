@@ -14,7 +14,7 @@ aliases: ["Berserker Commander"]
 # Berserker Commander
 *Source: Monster Manual (2024) p. 37*  
 
-![](Compendium/bestiary/humanoid/img/berserkers.webp#right)  
+![](Compendium/bestiary/humanoid/img/berserkers.webp#right|850)  
 Berserker commanders bear the scars of battle and drive their followers to match their deadly zeal. These commanders tap into a primal magic to enhance their might.
 
 ## Berserkers

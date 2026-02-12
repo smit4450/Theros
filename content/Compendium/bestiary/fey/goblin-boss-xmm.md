@@ -20,7 +20,7 @@ aliases: ["Goblin Boss"]
 # Goblin Boss
 *Source: Monster Manual (2024) p. 143. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![A goblin boss, a goblin he...](Compendium/bestiary/fey/img/goblins.webp#right)  
+![A goblin boss, a goblin he...](Compendium/bestiary/fey/img/goblins.webp#right|850)  
 Goblin bosses are often the most imaginative, disruptive, or forceful goblins. Through a combination of luck, cowardice, and callousness, these leaders avoid harm at the expense of their followers.
 
 ## Goblins

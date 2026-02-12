@@ -15,7 +15,7 @@ aliases: ["Frost Giant"]
 # Frost Giant
 *Source: Monster Manual (2024) p. 124. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/giant/img/frost-giant.webp#right)  
+![](Compendium/bestiary/giant/img/frost-giant.webp#right|850)  
 ## Frost Giant
 
 *Giant of the Ice and Snow*

@@ -13,7 +13,7 @@ aliases: ["Amphisbaena"]
 # Amphisbaena
 *Source: Ghosts of Saltmarsh p. 230, Mythic Odysseys of Theros*  
 
-![](Compendium/bestiary/monstrosity/img/amphisbaena.webp#right)  
+![](Compendium/bestiary/monstrosity/img/amphisbaena.webp#right|850)  
 Found in Danger at Dunwater, these strange reptiles have a head at either end of their serpentine bodies, each one equipped with venomous fangs. To move, an amphisbaena uses one head to grip the neck of its other head, forming a hoop that rolls over the ground.
 ```statblock
 "name": "Amphisbaena (GoS)"

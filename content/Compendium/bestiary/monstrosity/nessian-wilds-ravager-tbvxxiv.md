@@ -23,7 +23,7 @@ Players familiar with this monster may find the choice too simple. In order to a
 
 For a more interactive version of this creature, see the "Face the Hydra" bestiary, which starts with three heads, doesn't accept tribute, and treats the hydra's body and heads as individual creatures.
 
-![Nessian Wilds Ravager](Compendium/bestiary/monstrosity/img/nessian-wilds-ravager.webp#right)  
+![Nessian Wilds Ravager](Compendium/bestiary/monstrosity/img/nessian-wilds-ravager.webp#right|850)  
 
 ```statblock
 "name": "Nessian Wilds Ravager (TBVXXIV)"

@@ -18,7 +18,7 @@ aliases: ["Dire Worg"]
 # Dire Worg
 *Source: Monster Manual (2024) p. 335*  
 
-![](Compendium/bestiary/fey/img/dire-worg.webp#right)  
+![](Compendium/bestiary/fey/img/dire-worg.webp#right|850)  
 Dire worgs are larger than common worgs and possess a supernaturally terrifying howl. They frequently hunt alongside ettins, ogres, and trolls.
 
 ## Worgs

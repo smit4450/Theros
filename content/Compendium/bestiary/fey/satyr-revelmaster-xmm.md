@@ -16,7 +16,7 @@ aliases: ["Satyr Revelmaster"]
 # Satyr Revelmaster
 *Source: Monster Manual (2024) p. 268*  
 
-![](Compendium/bestiary/fey/img/satyrs.webp#right)  
+![](Compendium/bestiary/fey/img/satyrs.webp#right|850)  
 Satyr revelmasters use magical music to change the moods of other creatures. They do so to keep their celebrations exciting and to ward off foes.
 
 ## Satyrs

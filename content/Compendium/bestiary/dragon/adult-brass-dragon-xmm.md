@@ -14,7 +14,7 @@ aliases: ["Adult Brass Dragon"]
 # Adult Brass Dragon
 *Source: Monster Manual (2024) p. 55. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An adult brass dragon rids...](Compendium/bestiary/dragon/img/brass-dragon.webp#right)  
+![An adult brass dragon rids...](Compendium/bestiary/dragon/img/brass-dragon.webp#right|850)  
 Adult brass dragons know many secrets and have vast networks of contacts. These dragons share perspectives they've learned from across the world and passionately combat the lies of con artists and villains that lead people astray.
 
 ## Brass Dragons

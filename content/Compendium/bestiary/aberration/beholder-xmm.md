@@ -14,7 +14,7 @@ aliases: ["Beholder"]
 # Beholder
 *Source: Monster Manual (2024) p. 36, FRHoF*  
 
-![](Compendium/bestiary/aberration/img/beholder.webp#right)  
+![](Compendium/bestiary/aberration/img/beholder.webp#right|850)  
 ## Beholder
 
 *Infamous Many-Eyed Tyrant*

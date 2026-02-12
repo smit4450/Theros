@@ -13,7 +13,7 @@ aliases: ["Two-Headed Cerberus"]
 # Two-Headed Cerberus
 *Source: Mythic Odysseys of Theros p. 215*  
 
-![](Compendium/bestiary/monstrosity/img/two-headed-cerberus.webp#right)  
+![](Compendium/bestiary/monstrosity/img/two-headed-cerberus.webp#right|850)  
 Thought to be a lesser breed of cerberi that have interbred with mortal wolves, two-headed cerberi typically roam the mortal side of the Tartyx River. There they generally ignore—or only modestly menace—the souls of the dead. Such isn't the case for mortals, though, and they eagerly set upon those who tread too close to the Underworld's borders.
 
 Feared by the living and the dead, cerberi patrol both banks of the Tartyx River. These multiheaded hounds of the Underworld breathe gouts of molten rock that sear and imprison those who trespass upon the borders of life and death. Most cerberi have a boundless hunger for fresh meat, especially the flesh of humanoids. Villains have been known to exploit that hunger by luring cerberi away from the river and setting them loose on mortal settlements.

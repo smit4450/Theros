@@ -15,7 +15,7 @@ aliases: ["Modron Quadrone"]
 # Modron Quadrone
 *Source: Monster Manual (2024) p. 218*  
 
-![](Compendium/bestiary/construct/img/modron-quadrone.webp#right)  
+![](Compendium/bestiary/construct/img/modron-quadrone.webp#right|850)  
 Quadrones are among the most relatable modrons—and those most likely to go rogue.
 
 ## Modrons

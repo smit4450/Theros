@@ -13,7 +13,7 @@ aliases: ["Ghostblade Eidolon"]
 # Ghostblade Eidolon
 *Source: Mythic Odysseys of Theros p. 222*  
 
-![](Compendium/bestiary/undead/img/ghostblade-eidolon.webp#right)  
+![](Compendium/bestiary/undead/img/ghostblade-eidolon.webp#right|850)  
 When a mortal soul traumatically sacrifices its identity in order to escape the Underworld as a Returned, its identity manifests as a spirit-like eidolon. While eidolons possess many of the skills and details related to their past lives, they're disconnected from those experiences, choosing to wander the world or brood in haunts they're drawn to in death. They care nothing for morbid reunions with their lost bodies or Returned remnants.
 
 Of the various types of eidolons, ghostblade eidolons typically arise from fallen warriors and believe they're endlessly embroiled in great battles.

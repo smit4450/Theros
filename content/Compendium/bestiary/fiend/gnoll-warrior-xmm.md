@@ -17,7 +17,7 @@ aliases: ["Gnoll Warrior"]
 # Gnoll Warrior
 *Source: Monster Manual (2024) p. 140. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/gnolls.webp#right)  
+![](Compendium/bestiary/fiend/img/gnolls.webp#right|850)  
 Gnoll warriors crave endless slaughter but quickly grow bored with the prey they kill and the treasures they plunder. Nevertheless, they're enraged by the thought of anyone else having what's theirs, compelling them to ruin what they can't take with them.
 
 ## Gnolls

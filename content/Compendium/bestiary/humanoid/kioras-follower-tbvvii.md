@@ -15,7 +15,7 @@ aliases: ["Kiora's Follower"]
 
 <blockquote><small>“She may call herself Kiora but I believe she is Thassa, the embodiment of the sea and empress of the depths.”</small></blockquote>
 
-![Kiora's Follower](Compendium/bestiary/humanoid/img/kioras-follower.webp#right)  
+![Kiora's Follower](Compendium/bestiary/humanoid/img/kioras-follower.webp#right|850)  
 
 ```statblock
 "name": "Kiora's Follower (TBVVII)"

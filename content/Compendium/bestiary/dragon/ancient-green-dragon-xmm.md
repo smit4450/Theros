@@ -14,7 +14,7 @@ aliases: ["Ancient Green Dragon"]
 # Ancient Green Dragon
 *Source: Monster Manual (2024) p. 154. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An ancient green dragon ma...](Compendium/bestiary/dragon/img/ancient-green-dragon.webp#right)  
+![An ancient green dragon ma...](Compendium/bestiary/dragon/img/ancient-green-dragon.webp#right|850)  
 Ancient green dragons are creatures of legend, rarely seen by their servants or foes. Via magic and well-hidden agents, these dragons stoke suspicion between allies and undermine noble works. As bonds fray, the dragons reap rewards of greater wealth and control. Eventually the ambitions of ancient green dragons stretch beyond their territories as they seek control over empires, planar realms, or death itself.
 
 ## Green Dragons

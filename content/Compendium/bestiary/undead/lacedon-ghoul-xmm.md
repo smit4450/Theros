@@ -16,7 +16,7 @@ aliases: ["Lacedon Ghoul"]
 # Lacedon Ghoul
 *Source: Monster Manual (2024) p. 132*  
 
-![](Compendium/bestiary/undead/img/lacedon-ghoul.webp#right)  
+![](Compendium/bestiary/undead/img/lacedon-ghoul.webp#right|850)  
 Lacedons are loose-skinned, aquatic ghouls. They often arise from the corpses of greedy pirates, those who starved on deserted islands, or scoundrels who met their end by drowning.
 
 ## Ghouls

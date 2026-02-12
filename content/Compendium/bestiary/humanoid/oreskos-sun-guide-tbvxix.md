@@ -15,7 +15,7 @@ aliases: ["Oreskos Sun Guide"]
 
 <blockquote><small>“Let the humans have their pantheon. We need no gods to thrive. Even a mortal such as I can capture a part of the sun’s power.”</small></blockquote>
 
-![Oreskos Sun Guide](Compendium/bestiary/humanoid/img/oreskos-sun-guide.webp#right)  
+![Oreskos Sun Guide](Compendium/bestiary/humanoid/img/oreskos-sun-guide.webp#right|850)  
 
 ```statblock
 "name": "Oreskos Sun Guide (TBVXIX)"

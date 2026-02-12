@@ -16,7 +16,7 @@ aliases: ["Revenant"]
 # Revenant
 *Source: Monster Manual (2024) p. 259*  
 
-![Revenant Followed by a Graveyard Revenant](Compendium/bestiary/undead/img/revenant-and-graveyard-revenant.webp#right)  
+![Revenant Followed by a Graveyard Revenant](Compendium/bestiary/undead/img/revenant-and-graveyard-revenant.webp#right|850)  
 Revenants possess the bodies they had in life, using them to hunt down their killers. If their bodies are destroyed, they take control of new bodies that gradually change to resemble the revenants' original forms.
 
 ## Revenants

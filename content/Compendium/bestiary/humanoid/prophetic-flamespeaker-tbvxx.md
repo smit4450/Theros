@@ -15,7 +15,7 @@ aliases: ["Prophetic Flamespeaker"]
 
 <blockquote><small>Fire to destroy. Fire to create.</small></blockquote>
 
-![Prophetic Flamespeaker](Compendium/bestiary/humanoid/img/prophetic-flamespeaker.webp#right)  
+![Prophetic Flamespeaker](Compendium/bestiary/humanoid/img/prophetic-flamespeaker.webp#right|850)  
 
 ```statblock
 "name": "Prophetic Flamespeaker (TBVXX)"

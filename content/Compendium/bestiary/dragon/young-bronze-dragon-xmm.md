@@ -14,7 +14,7 @@ aliases: ["Young Bronze Dragon"]
 # Young Bronze Dragon
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/bronze-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/bronze-dragon.webp#right|850)  
 Many young bronze dragons become experts in a type of problem, like driving off pirates or protecting communities from storms. Young bronze dragons collect friends with varied expertise, cultivating a community of experts they can rely on.
 
 ## Bronze Dragons

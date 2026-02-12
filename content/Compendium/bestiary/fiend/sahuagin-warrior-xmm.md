@@ -15,7 +15,7 @@ aliases: ["Sahuagin Warrior"]
 # Sahuagin Warrior
 *Source: Monster Manual (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/sahuagin-warrior.webp#right)  
+![](Compendium/bestiary/fiend/img/sahuagin-warrior.webp#right|850)  
 Sahuagin warriors are vicious combatants that savage their foes with webbed claws. Once sahuagin draw blood, they usually attack until either they or their foe is slain.
 
 ## Sahuagin

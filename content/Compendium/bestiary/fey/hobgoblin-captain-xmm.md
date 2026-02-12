@@ -21,7 +21,7 @@ aliases: ["Hobgoblin Captain"]
 # Hobgoblin Captain
 *Source: Monster Manual (2024) p. 171. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/hobgoblins.webp#right)  
+![](Compendium/bestiary/fey/img/hobgoblins.webp#right|850)  
 Hobgoblin captains are battlefield tacticians. They lead their allies to victory by employing martial skill and rallying others with orders and threats. Hobgoblin captains usually oversee hobgoblin battle groups or gangs of weaker monsters.
 
 ## Hobgoblins

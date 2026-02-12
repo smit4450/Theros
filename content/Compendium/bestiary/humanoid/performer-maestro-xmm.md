@@ -14,7 +14,7 @@ aliases: ["Performer Maestro"]
 # Performer Maestro
 *Source: Monster Manual (2024) p. 237*  
 
-![](Compendium/bestiary/humanoid/img/performers.webp#right)  
+![](Compendium/bestiary/humanoid/img/performers.webp#right|850)  
 Maestros are headlining performers who enjoy considerable renown. They might be theaters' marquee actors, astonishing daredevils, or jesters experienced at entertaining fickle royals. Some share their techniques with apprentices, while others jealously guard their secrets.
 
 ## Performers

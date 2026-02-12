@@ -15,7 +15,7 @@ aliases: ["Mummy"]
 # Mummy
 *Source: Monster Manual (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/mummies.webp#right)  
+![](Compendium/bestiary/undead/img/mummies.webp#right|850)  
 Common mummies are the remains of priests, nobles, or champions of faith that underwent magical burial rites. Some are preserved through processes using linen wrappings or clay, but others are preserved by peat bogs, ice, magic, or other means.
 
 Roll on or choose a result from the Mummy Resurrections table to determine why a mummy has returned from the dead.

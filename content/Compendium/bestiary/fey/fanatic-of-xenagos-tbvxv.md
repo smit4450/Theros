@@ -15,7 +15,7 @@ aliases: ["Fanatic of Xenagos"]
 
 
 
-![Fanatic of Xenagos](Compendium/bestiary/fey/img/fanatic-of-xenagos.webp#right)  
+![Fanatic of Xenagos](Compendium/bestiary/fey/img/fanatic-of-xenagos.webp#right|850)  
 
 ```statblock
 "name": "Fanatic of Xenagos (TBVXV)"

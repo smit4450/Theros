@@ -15,7 +15,7 @@ aliases: ["Vampire Umbral Lord"]
 # Vampire Umbral Lord
 *Source: Monster Manual (2024) p. 318*  
 
-![](Compendium/bestiary/undead/img/vampire-umbral-lord.webp#right)  
+![](Compendium/bestiary/undead/img/vampire-umbral-lord.webp#right|850)  
 Vampire umbral lords embrace their ties to the darkness, devoting themselves to sinister powers in exchange for access to forbidden magic.
 
 ## Vampires

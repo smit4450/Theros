@@ -15,7 +15,7 @@ aliases: ["Returned Centaur"]
 
 <blockquote><small>Driven away by his living kin, he wanders mourning through the wilderness, seeking the dead city of Asphodel.</small></blockquote>
 
-![Returned Centaur](Compendium/bestiary/undead/img/returned-centaur.webp#right)  
+![Returned Centaur](Compendium/bestiary/undead/img/returned-centaur.webp#right|850)  
 
 ```statblock
 "name": "Returned Centaur (TBVXXII)"

@@ -17,7 +17,7 @@ aliases: ["Golden Hind"]
 
 —Nylea, god of the hunt</small></blockquote>
 
-![Golden Hind](Compendium/bestiary/beast/img/golden-hind.webp#right)  
+![Golden Hind](Compendium/bestiary/beast/img/golden-hind.webp#right|850)  
 
 ```statblock
 "name": "Golden Hind (TBVXVII)"

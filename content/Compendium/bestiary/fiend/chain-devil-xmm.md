@@ -15,7 +15,7 @@ aliases: ["Chain Devil"]
 # Chain Devil
 *Source: Monster Manual (2024) p. 68, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/chain-devil.webp#right)  
+![](Compendium/bestiary/fiend/img/chain-devil.webp#right|850)  
 ## Chain Devil
 
 *Devil of Pain and Control*

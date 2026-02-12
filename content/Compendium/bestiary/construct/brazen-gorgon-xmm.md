@@ -16,7 +16,7 @@ aliases: ["Brazen Gorgon"]
 # Brazen Gorgon
 *Source: Monster Manual (2024) p. 149*  
 
-![](Compendium/bestiary/construct/img/brazen-gorgon.webp#right)  
+![](Compendium/bestiary/construct/img/brazen-gorgon.webp#right|850)  
 Followers of the exiled archdevil Moloch altered the process of creating gorgons to craft their own diabolical guardians called brazen gorgons. These gorgons are hollow, bull-like automatons whose metal bodies glow with intense heat. When they charge their foes, the ribs of their frames open like cages to ensnare enemies and roast them within. Brazen gorgons are often found in blasphemous sites dedicated to Moloch, other archdevils, or bloodthirsty gods.
 
 ## Gorgons

@@ -14,7 +14,7 @@ aliases: ["Animated Broom"]
 # Animated Broom
 *Source: Monster Manual (2024) p. 16*  
 
-![](Compendium/bestiary/construct/img/animated-objects.webp#right)  
+![](Compendium/bestiary/construct/img/animated-objects.webp#right|850)  
 Animated brooms keep their surroundings tidy and defend them when necessary. Launching into the air, these brooms dart about, attacking foes from unexpected angles. Other flying objects, like animated tools or staffs, might also use this stat block.
 
 ## Animated Objects

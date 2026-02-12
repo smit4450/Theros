@@ -15,7 +15,7 @@ aliases: ["Wavecrash Triton"]
 
 Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power.
 
-![Wavecrash Triton](Compendium/bestiary/humanoid/img/wavecrash-triton.webp#right)  
+![Wavecrash Triton](Compendium/bestiary/humanoid/img/wavecrash-triton.webp#right|850)  
 
 ```statblock
 "name": "Wavecrash Triton (TBVVII)"

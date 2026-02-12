@@ -15,7 +15,7 @@ aliases: ["Ice Devil"]
 # Ice Devil
 *Source: Monster Manual (2024) p. 176. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/ice-devil.webp#right)  
+![](Compendium/bestiary/fiend/img/ice-devil.webp#right|850)  
 ## Ice Devil
 
 *Devil of Antipathy and Intellectual Arrogance*

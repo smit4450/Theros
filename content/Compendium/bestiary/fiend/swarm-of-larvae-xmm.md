@@ -15,7 +15,7 @@ aliases: ["Swarm of Larvae"]
 # Swarm of Larvae
 *Source: Monster Manual (2024) p. 193*  
 
-![](Compendium/bestiary/fiend/img/larvae.webp#right)  
+![](Compendium/bestiary/fiend/img/larvae.webp#right|850)  
 Lone larvae pose little threat, but in large numbers, larvae can overwhelm vulnerable creatures. Out of desperation, larvae band together in grotesque swarms, their squirming stampedes heralded by a din of wordless whimpers and stomach-turning worm sounds.
 
 ## Larvae

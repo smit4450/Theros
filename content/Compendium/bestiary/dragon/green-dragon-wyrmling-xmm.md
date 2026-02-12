@@ -14,7 +14,7 @@ aliases: ["Green Dragon Wyrmling"]
 # Green Dragon Wyrmling
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/green-dragon-wyrmling.webp#right)  
+![](Compendium/bestiary/dragon/img/green-dragon-wyrmling.webp#right|850)  
 Green dragon wyrmlings often serve as pawns in older dragons' schemes. By spying on those dragons' agents, wyrmlings learn the art of manipulation. Once they've accumulated influence and lackeys, these wyrmlings depart to claim their own territories and pursue their sinister ambitions.
 
 ## Green Dragons

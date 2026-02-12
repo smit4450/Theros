@@ -15,7 +15,7 @@ aliases: ["Githyanki Knight"]
 # Githyanki Knight
 *Source: Monster Manual (2024) p. 135*  
 
-![](Compendium/bestiary/aberration/img/githyanki.webp#right)  
+![](Compendium/bestiary/aberration/img/githyanki.webp#right|850)  
 Githyanki knights wield silver blades to slay magic-users who use the [Astral Projection](Compendium/spells/astral-projection-xphb.md) spell to intrude on githyanki territories on the Astral Plane. These silver blades are sacred to the githyanki. Non-githyanki who claim these weapons often find themselves hunted by wrathful githyanki knights.
 
 ## Githyanki

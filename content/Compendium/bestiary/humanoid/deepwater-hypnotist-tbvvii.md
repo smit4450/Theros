@@ -15,7 +15,7 @@ aliases: ["Deepwater Hypnotist"]
 
 <blockquote><small>“Watch the waves too long, and you may never look away.” —Meletian proverb</small></blockquote>
 
-![Deepwater Hypnotist](Compendium/bestiary/humanoid/img/deepwater-hypnotist.webp#right)  
+![Deepwater Hypnotist](Compendium/bestiary/humanoid/img/deepwater-hypnotist.webp#right|850)  
 
 ```statblock
 "name": "Deepwater Hypnotist (TBVVII)"

@@ -15,7 +15,7 @@ aliases: ["Leucrotta"]
 # Leucrotta
 *Source: Volo's Guide to Monsters p. 169, Mythic Odysseys of Theros*  
 
-![](Compendium/bestiary/monstrosity/img/leucrotta.webp#right)  
+![](Compendium/bestiary/monstrosity/img/leucrotta.webp#right|850)  
 A leucrotta is what you would get if you took the head of a giant badger, the brain of a person who likes to torture and eat people, the legs of a deer, and the body of a large hyena, put them together, and reanimated them with demon ichor without bothering to cover up the stink of death.
 
 ## Spawn of Yeenoghu

@@ -17,7 +17,7 @@ aliases: ["Satyr Piper"]
 
 —Phrogas, soldier of Akros</blockquote></small>
 
-![Satyr Piper](Compendium/bestiary/fey/img/satyr-piper.webp#right)  
+![Satyr Piper](Compendium/bestiary/fey/img/satyr-piper.webp#right|850)  
 
 ```statblock
 "name": "Satyr Piper (TBVXIII)"

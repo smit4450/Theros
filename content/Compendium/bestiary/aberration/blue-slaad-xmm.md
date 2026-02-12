@@ -15,7 +15,7 @@ aliases: ["Blue Slaad"]
 # Blue Slaad
 *Source: Monster Manual (2024) p. 285*  
 
-![](Compendium/bestiary/aberration/img/red-and-blue-slaad.webp#right)  
+![](Compendium/bestiary/aberration/img/red-and-blue-slaad.webp#right|850)  
 Almost as numerous as red slaadi, blue slaadi are muscular brutes with vicious blades extending from the backs of their claws. These claws carry a magical curse called chaos phage, which can transform victims into red or green slaadi. Blue slaadi accompany red slaadi and behave similarly. They innately know the signs of chaos phage and avoid slaying creatures that carry it or other slaad curses.
 
 ## Slaadi

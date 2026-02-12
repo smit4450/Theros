@@ -15,7 +15,7 @@ aliases: ["Priest of Iroas"]
 
 <blockquote><small>“Even my last breath will be a blow struck for Iroas.”</small></blockquote>
 
-![Priest of Iroas](Compendium/bestiary/humanoid/img/priest-of-iroas.webp#right)  
+![Priest of Iroas](Compendium/bestiary/humanoid/img/priest-of-iroas.webp#right|850)  
 
 ```statblock
 "name": "Priest of Iroas (TBVXXV)"

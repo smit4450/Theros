@@ -14,7 +14,7 @@ aliases: ["Death Knight"]
 # Death Knight
 *Source: Monster Manual (2024) p. 92, FRHoF*  
 
-![](Compendium/bestiary/undead/img/death-knights.webp#right)  
+![](Compendium/bestiary/undead/img/death-knights.webp#right|850)  
 Death knights are deadly combatants and domineering commanders with grim histories. Some strive to end the curses that doom them to undeath, though their selfish souls eternally shackle them to their fates. Others, like the infamous death knight Lord Soth, brood in dismal ruins for centuries, rousing themselves to action only when something reignites their deathless evil.
 
 ## Death Knights

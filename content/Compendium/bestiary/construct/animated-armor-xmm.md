@@ -14,7 +14,7 @@ aliases: ["Animated Armor"]
 # Animated Armor
 *Source: Monster Manual (2024) p. 16. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/animated-objects.webp#right)  
+![](Compendium/bestiary/construct/img/animated-objects.webp#right|850)  
 Animated suits of armor might move with steady deliberateness or awkward gaits. They're often constructed from plate armor, making them easy to mistake for soldiers or helmed horrors. Other types of armor or even metal statuary might also become animated armor.
 
 ## Animated Objects

@@ -16,7 +16,7 @@ aliases: ["Sphinx of Lore"]
 # Sphinx of Lore
 *Source: Monster Manual (2024) p. 293, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/celestial/img/sphinx-of-lore.webp#right)  
+![](Compendium/bestiary/celestial/img/sphinx-of-lore.webp#right|850)  
 Sphinxes of lore each know a great secret and protect it all costs. This truth might take the form of an ancient text, a magical puzzle, or a path to another world. These sphinxes might gain reputations as sages or oracles, but they typically dwell far from civilization.
 
 ## Sphinxes

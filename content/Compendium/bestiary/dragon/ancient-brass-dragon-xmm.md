@@ -14,7 +14,7 @@ aliases: ["Ancient Brass Dragon"]
 # Ancient Brass Dragon
 *Source: Monster Manual (2024) p. 56. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An ancient brass dragon pr...](Compendium/bestiary/dragon/img/ancient-brass-dragon.webp#right)  
+![An ancient brass dragon pr...](Compendium/bestiary/dragon/img/ancient-brass-dragon.webp#right|850)  
 Ancient brass dragons create worlds-spanning networks. They combat forces of repression and misinformation, helping people learn from the mistakes of the past. Either personally or through webs of messengers, ancient brass dragons keep allies informed about challenges they can face together.
 
 ## Brass Dragons

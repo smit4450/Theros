@@ -21,7 +21,7 @@ Players familiar with this monster may find the choice too simple. In order to a
 <li>A quest goal might involve securing a phoenix egg.
 <li>A quest goal might involve vanquishing a phoenix that reincarnates itself every time it is killed.
 
-![Flame-Wreathed Phoenix](Compendium/bestiary/elemental/img/flame-wreathed-phoenix.webp#right)  
+![Flame-Wreathed Phoenix](Compendium/bestiary/elemental/img/flame-wreathed-phoenix.webp#right|850)  
 
 ```statblock
 "name": "Flame-Wreathed Phoenix (TBVIV)"

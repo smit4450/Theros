@@ -14,7 +14,7 @@ aliases: ["Young Brass Dragon"]
 # Young Brass Dragon
 *Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/brass-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/brass-dragon.webp#right|850)  
 Young brass dragons travel extensively, often spending a few years in a region before circling back to their lair. Some work closely with other metallic dragons, carrying information between allies.
 
 ## Brass Dragons

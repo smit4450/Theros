@@ -14,7 +14,7 @@ aliases: ["Priest"]
 # Priest
 *Source: Monster Manual (2024) p. 248, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/priests.webp#right)  
+![](Compendium/bestiary/humanoid/img/priests.webp#right|850)  
 Priests draw on their beliefs to heal the needful and smite their foes. They can channel their faith as spells and empower their weapons with divine might.
 
 ## Priests

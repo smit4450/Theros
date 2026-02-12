@@ -13,7 +13,7 @@ aliases: ["Eater of Hope"]
 # Eater of Hope
 *Source: Mythic Odysseys of Theros p. 220*  
 
-![](Compendium/bestiary/fiend/img/eater-of-hope.webp#right)  
+![](Compendium/bestiary/fiend/img/eater-of-hope.webp#right|850)  
 An eater of hope is bitter to the core, resentful of all forms of life and joy. Although these demons can strike down most foes, they prefer to let terror and despair overtake their victims first, letting their victims marinate in fear before the fiend devours them.
 ```statblock
 "name": "Eater of Hope (MOT)"

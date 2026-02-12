@@ -13,7 +13,7 @@ aliases: ["Alseid"]
 # Alseid
 *Source: Mythic Odysseys of Theros p. 235*  
 
-![](Compendium/bestiary/fey/img/alseid.webp#right)  
+![](Compendium/bestiary/fey/img/alseid.webp#right|850)  
 Touched with the golden light of the sun, alseids inhabit meadows, plains, and lands of cultivated natural beauty. Many live in closer proximity to human civilization than other nymphs. Farmers are grateful for the presence of alseids on their lands and often leave them offerings of mead, honey, flowers, and dates in return for protecting their flocks and making their crops more abundant.
 
 ## Nymphs

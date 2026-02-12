@@ -14,7 +14,7 @@ aliases: ["Warrior Infantry"]
 # Warrior Infantry
 *Source: Monster Manual (2024) p. 320, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An aasimar commander leads...](Compendium/bestiary/humanoid/img/warriors.webp#right)  
+![An aasimar commander leads...](Compendium/bestiary/humanoid/img/warriors.webp#right|850)  
 Warrior infantry might be trainees or rank-and-file troops. They are skilled at contending with commonplace, nonmagical threats.
 
 ## Warriors

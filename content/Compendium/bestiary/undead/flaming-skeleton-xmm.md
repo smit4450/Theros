@@ -17,7 +17,7 @@ aliases: ["Flaming Skeleton"]
 # Flaming Skeleton
 *Source: Monster Manual (2024) p. 283*  
 
-![Adventurers face an onslau...](Compendium/bestiary/undead/img/skeletons.webp#right)  
+![Adventurers face an onslau...](Compendium/bestiary/undead/img/skeletons.webp#right|850)  
 Flaming skeletons burn with unbridled necromantic energy. This magic grants them blazing attacks and greater awareness, which they use to command lesser Undead.
 
 ## Skeletons

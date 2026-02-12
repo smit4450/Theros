@@ -15,7 +15,7 @@ aliases: ["Daring Thief"]
 
 <blockquote><small>Honesty is the first casualty of war.</small></blockquote>
 
-![Daring Thief](Compendium/bestiary/humanoid/img/daring-thief.webp#right)  
+![Daring Thief](Compendium/bestiary/humanoid/img/daring-thief.webp#right|850)  
 
 ```statblock
 "name": "Daring Thief (TBVXIV)"

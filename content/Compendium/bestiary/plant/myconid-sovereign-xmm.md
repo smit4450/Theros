@@ -14,7 +14,7 @@ aliases: ["Myconid Sovereign"]
 # Myconid Sovereign
 *Source: Monster Manual (2024) p. 223*  
 
-![](Compendium/bestiary/plant/img/myconids.webp#right)  
+![](Compendium/bestiary/plant/img/myconids.webp#right|850)  
 Myconid sovereigns resemble towering myconid adults with elaborate fungal growths. They direct their lesser kin and see to the health and growth of vast fungal blooms.
 
 ## Myconids

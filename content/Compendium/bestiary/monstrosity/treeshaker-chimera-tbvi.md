@@ -16,7 +16,7 @@ aliases: ["Treeshaker Chimera"]
 <blockquote>The wisdom of the past is written on the bones of ancients.</blockquote>
 The treeshaker chimera is a massive five-legged beast with three heads. Its left side is a wolf, its right side is a kudu, and its middle is a lion. In the front, it has one paw, one claw, and one hoof. It is a trophy animal among hunters.
 
-![Treeshaker Chimera](Compendium/bestiary/monstrosity/img/treeshaker-chimera.webp#right)  
+![Treeshaker Chimera](Compendium/bestiary/monstrosity/img/treeshaker-chimera.webp#right|850)  
 
 ```statblock
 "name": "Treeshaker Chimera (TBVI)"

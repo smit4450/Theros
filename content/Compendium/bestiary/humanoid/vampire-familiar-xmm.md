@@ -15,7 +15,7 @@ aliases: ["Vampire Familiar"]
 # Vampire Familiar
 *Source: Monster Manual (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![A vampire familiar provide...](Compendium/bestiary/undead/img/vampires.webp#right)  
+![A vampire familiar provide...](Compendium/bestiary/undead/img/vampires.webp#right|850)  
 Vampire familiars are living people who serve vampires, either willingly or due to coercion by their deathless masters. They channel deathly energy through their weapons, incapacitating unsuspecting targets and leaving their victims as helpless prey for their vampire masters.
 
 Many vampire familiars aspire to eventually become vampires, while others are magically charmed or serve as part of some terrible bargain. In each case, these vampire servants show signs of their vampiric corruption, such as corpse-like complexions, uncanny reflexes, and evidence of their masters' repeated feedings. A vampire familiar loses its supernatural abilities and returns to its original Humanoid state if its vampire master is destroyed.

@@ -15,7 +15,7 @@ aliases: ["Marshmist Titan"]
 
 <small><blockquote>A favorite of Erebos, for it has sent many to the Underworld.</blockquote></small>
 
-![Marshmist Titan](Compendium/bestiary/giant/img/marshmist-titan.webp#right)  
+![Marshmist Titan](Compendium/bestiary/giant/img/marshmist-titan.webp#right|850)  
 
 ```statblock
 "name": "Marshmist Titan (TBVIX)"

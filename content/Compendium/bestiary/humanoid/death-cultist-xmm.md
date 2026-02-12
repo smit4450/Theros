@@ -14,7 +14,7 @@ aliases: ["Death Cultist"]
 # Death Cultist
 *Source: Monster Manual (2024) p. 86*  
 
-![](Compendium/bestiary/humanoid/img/cultists.webp#right)  
+![](Compendium/bestiary/humanoid/img/cultists.webp#right|850)  
 Death cultists revel in nihilistic forces, embracing them as paths to undeath, multiversal purity, or entropic inevitability. These cultists serve powerful undead beings, apocalyptic prophecies, or immortals with power over death, such as Acererak, Kyuss, Orcus, Vecna, or Wee Jas.
 
 ## Cultists

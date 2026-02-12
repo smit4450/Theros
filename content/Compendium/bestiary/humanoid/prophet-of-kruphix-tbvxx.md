@@ -15,7 +15,7 @@ aliases: ["Prophet of Kruphix"]
 
 <blockquote><small>"Time is fluid as a dance, and truth as fleeting."</small></blockquote>
 
-![Prophet of Kruphix](Compendium/bestiary/humanoid/img/prophet-of-kruphix.webp#right)  
+![Prophet of Kruphix](Compendium/bestiary/humanoid/img/prophet-of-kruphix.webp#right|850)  
 
 ```statblock
 "name": "Prophet of Kruphix (TBVXX)"

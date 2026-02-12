@@ -19,7 +19,7 @@ aliases: ["Cyclops Oracle"]
 # Cyclops Oracle
 *Source: Monster Manual (2024) p. 88*  
 
-![](Compendium/bestiary/giant/img/cyclopes.webp#right)  
+![](Compendium/bestiary/giant/img/cyclopes.webp#right|850)  
 Cyclops oracles gaze through history to learn hidden truths. Many share these secrets with those who aid them in correcting the mistakes of the past.
 
 ## Cyclopes

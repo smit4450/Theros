@@ -15,7 +15,7 @@ aliases: ["Boon Satyr"]
 
 A nyxborn satyr, one of Nylea's creations.
 
-![Boon Satyr](Compendium/bestiary/miscellaneous/img/boon-satyr.webp#right)  
+![Boon Satyr](Compendium/bestiary/miscellaneous/img/boon-satyr.webp#right|850)  
 
 ```statblock
 "name": "Boon Satyr (TBVIII)"

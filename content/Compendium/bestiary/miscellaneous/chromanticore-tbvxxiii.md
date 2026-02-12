@@ -15,7 +15,7 @@ aliases: ["Chromanticore"]
 
 
 
-![Chromanticore](Compendium/bestiary/miscellaneous/img/chromanticore.webp#right)  
+![Chromanticore](Compendium/bestiary/miscellaneous/img/chromanticore.webp#right|850)  
 
 ```statblock
 "name": "Chromanticore (TBVXXIII)"

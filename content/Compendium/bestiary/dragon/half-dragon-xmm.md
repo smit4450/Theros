@@ -14,7 +14,7 @@ aliases: ["Half-Dragon"]
 # Half-Dragon
 *Source: Monster Manual (2024) p. 163. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/half-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/half-dragon.webp#right|850)  
 ## Half-Dragon
 
 *Warrior Created by Dragons*

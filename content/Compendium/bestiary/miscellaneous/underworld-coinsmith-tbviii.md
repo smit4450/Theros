@@ -15,7 +15,7 @@ aliases: ["Underworld Coinsmith"]
 
 <small><blockquote>Coins of the Underworld are shaped from clay funerary masks.</blockquote></small>
 
-![Underworld Coinsmith](Compendium/bestiary/miscellaneous/img/underworld-coinsmith.webp#right)  
+![Underworld Coinsmith](Compendium/bestiary/miscellaneous/img/underworld-coinsmith.webp#right|850)  
 
 ```statblock
 "name": "Underworld Coinsmith (TBVIII)"

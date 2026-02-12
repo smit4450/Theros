@@ -15,7 +15,7 @@ aliases: ["Thri-kreen Psion"]
 # Thri-kreen Psion
 *Source: Monster Manual (2024) p. 306*  
 
-![](Compendium/bestiary/monstrosity/img/thri-kreen.webp#right)  
+![](Compendium/bestiary/monstrosity/img/thri-kreen.webp#right|850)  
 Thri-kreen psions harness their psychic powers to avoid danger and manipulate objects from afar.
 
 ## Thri-kreen

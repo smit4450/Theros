@@ -14,7 +14,7 @@ aliases: ["Mage"]
 # Mage
 *Source: Monster Manual (2024) p. 199, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/mages.webp#right)  
+![](Compendium/bestiary/humanoid/img/mages.webp#right|850)  
 Mages are accomplished spellcasters whose lives have been shaped by magic. They can use their powers to defend or dominate other creatures, or they could focus on magical research and unlocking mystical secrets.
 
 ## Mages

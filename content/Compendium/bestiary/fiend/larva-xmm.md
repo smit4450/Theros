@@ -15,7 +15,7 @@ aliases: ["Larva"]
 # Larva
 *Source: Monster Manual (2024) p. 193*  
 
-![](Compendium/bestiary/fiend/img/larvae.webp#right)  
+![](Compendium/bestiary/fiend/img/larvae.webp#right|850)  
 Larvae have disjointed, painful memories of their past lives. Most desperately avoid other creatures.
 
 ## Larvae

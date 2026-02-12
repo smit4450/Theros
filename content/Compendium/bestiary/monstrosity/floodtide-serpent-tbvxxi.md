@@ -17,7 +17,7 @@ aliases: ["Floodtide Serpent"]
 
 —Lindos, merchant of Meletis</blockquote></small>
 
-![Floodtide Serpent](Compendium/bestiary/monstrosity/img/floodtide-serpent.webp#right)  
+![Floodtide Serpent](Compendium/bestiary/monstrosity/img/floodtide-serpent.webp#right|850)  
 
 ```statblock
 "name": "Floodtide Serpent (TBVXXI)"

@@ -16,7 +16,7 @@ aliases: ["Haunting Revenant"]
 # Haunting Revenant
 *Source: Monster Manual (2024) p. 260*  
 
-![](Compendium/bestiary/undead/img/haunting-revenant.webp#right)  
+![](Compendium/bestiary/undead/img/haunting-revenant.webp#right|850)  
 Haunting revenants possess ruins and forsaken places connected with their deaths—such as abandoned buildings, wrecked ships, or junk heaps. These revenants lurk in plain sight, waiting for their foes to near, then trap their victims within their massive bodies. Those inside a revenant might be battered by animate furnishings or more unsettling manifestations of the revenant's hatred.
 
 The places haunting revenants lurk swiftly gain infamous reputations.

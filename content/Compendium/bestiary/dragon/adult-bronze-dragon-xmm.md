@@ -14,7 +14,7 @@ aliases: ["Adult Bronze Dragon"]
 # Adult Bronze Dragon
 *Source: Monster Manual (2024) p. 59. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An adult bronze dragon def...](Compendium/bestiary/dragon/img/bronze-dragon.webp#right)  
+![An adult bronze dragon def...](Compendium/bestiary/dragon/img/bronze-dragon.webp#right|850)  
 Adult bronze dragons often dwell near places they defend or where they help others work toward goals. They might become patrons of whole cities, advising leaders and helping generations flourish.
 
 ## Bronze Dragons

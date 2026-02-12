@@ -15,7 +15,7 @@ aliases: ["Nemesis of Mortals"]
 
 A gigantic 6-eyed snake with a mouth chock-full of fangs.
 
-![Nemesis of Mortals](Compendium/bestiary/monstrosity/img/nemesis-of-mortals.webp#right)  
+![Nemesis of Mortals](Compendium/bestiary/monstrosity/img/nemesis-of-mortals.webp#right|850)  
 
 ```statblock
 "name": "Nemesis of Mortals (TBVIV)"

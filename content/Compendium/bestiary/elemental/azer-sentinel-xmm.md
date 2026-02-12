@@ -16,7 +16,7 @@ aliases: ["Azer Sentinel"]
 # Azer Sentinel
 *Source: Monster Manual (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/azers.webp#right)  
+![](Compendium/bestiary/elemental/img/azers.webp#right|850)  
 Azer sentinels defend their communities' smiths and channel their flames through their weapons.
 
 ## Azers

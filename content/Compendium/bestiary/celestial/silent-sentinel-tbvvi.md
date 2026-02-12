@@ -15,7 +15,7 @@ aliases: ["Silent Sentinel"]
 
 <blockquote><small>It serves a justice higher than the whims of the gods.</small></blockquote>
 
-![Silent Sentinel](Compendium/bestiary/celestial/img/silent-sentinel.webp#right)  
+![Silent Sentinel](Compendium/bestiary/celestial/img/silent-sentinel.webp#right|850)  
 
 ```statblock
 "name": "Silent Sentinel (TBVVI)"

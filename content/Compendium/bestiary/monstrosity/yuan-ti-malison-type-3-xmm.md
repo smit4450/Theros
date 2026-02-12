@@ -17,7 +17,7 @@ aliases: ["Yuan-ti Malison (Type 3)"]
 # Yuan-ti Malison (Type 3)
 *Source: Monster Manual (2024) p. 344*  
 
-![](Compendium/bestiary/monstrosity/img/yuan-ti-malison-type-3.webp#right)  
+![](Compendium/bestiary/monstrosity/img/yuan-ti-malison-type-3.webp#right|850)  
 Malisons exhibit snakelike features that make them deadly in combat.
 
 - **Type 3.** These malisons are human from the waist up, but below that extend the coils of a giant snake.  

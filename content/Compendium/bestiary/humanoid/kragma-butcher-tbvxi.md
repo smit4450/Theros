@@ -15,7 +15,7 @@ aliases: ["Kragma Butcher"]
 
 <blockquote><small>Minotaurs go into battle hungry. The first sight of their enemies’ blood sends them into a flesh-eating rage.</small></blockquote>
 
-![Kragma Butcher](Compendium/bestiary/humanoid/img/kragma-butcher.webp#right)  
+![Kragma Butcher](Compendium/bestiary/humanoid/img/kragma-butcher.webp#right|850)  
 
 ```statblock
 "name": "Kragma Butcher (TBVXI)"

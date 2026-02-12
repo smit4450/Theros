@@ -14,7 +14,7 @@ aliases: ["Empyrean"]
 # Empyrean
 *Source: Monster Manual (2024) p. 113*  
 
-![](Compendium/bestiary/miscellaneous/img/empyreans.webp#right)  
+![](Compendium/bestiary/miscellaneous/img/empyreans.webp#right|850)  
 Inheritors of divine might, empyreans are idealized, human-shaped beings of godly power. These beings might have relationships with their creators akin to those of parents and their children, royalty and their servants, inventors and their creations, or other bonds. Empyreans' existences are fundamentally influenced by their patrons and their connection to the heavenly deities of the Upper Planes or the fiendish deities of the Lower Planes. Nevertheless, empyreans have free will.
 
 Celestial empyreans are typically noble beings who quest to prove themselves worthy of their divine pedigree. Many work in the service of their parents or support those gods' causes and champions. Fiendish empyreans are usually dreadful, self-serving villains who seek to claim their parents' power. Some forge unholy armies or rule over hidden realms in mockery of true gods, while others might seek to escape their accursed families.

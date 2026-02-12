@@ -13,7 +13,7 @@ aliases: ["Fleecemane Lion"]
 # Fleecemane Lion
 *Source: Mythic Odysseys of Theros p. 223*  
 
-![](Compendium/bestiary/monstrosity/img/fleecemane-lion.webp#right)  
+![](Compendium/bestiary/monstrosity/img/fleecemane-lion.webp#right|850)  
 Twice the size of normal lions and with resplendent manes of silvery or golden hair, fleecemane lions prowl and protect sites imbued with the power of Nyx. While the specifics of these massive lions' connection to Nyx is unclear, many myths tell of the deadly predators stalking mortals and spreading fear until they're ultimately defeated by a brave hunter. As a result, overcoming a fleecemane lion is widely considered an early step on the road to becoming a true hero.
 ```statblock
 "name": "Fleecemane Lion (MOT)"

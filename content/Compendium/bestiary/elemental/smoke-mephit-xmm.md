@@ -15,7 +15,7 @@ aliases: ["Smoke Mephit"]
 # Smoke Mephit
 *Source: Monster Manual (2024) p. 208*  
 
-![](Compendium/bestiary/elemental/img/smoke-and-steam-mephits.webp#right)  
+![](Compendium/bestiary/elemental/img/smoke-and-steam-mephits.webp#right|850)  
 Smoke mephits are elusive beings formed of fiery cinders and hot air. They love misleading creatures and then mocking them for their gullibility.
 
 ## Mephits

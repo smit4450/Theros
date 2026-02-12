@@ -15,7 +15,7 @@ aliases: ["Odunos River Trawler"]
 
 
 
-![Odunos River Trawler](Compendium/bestiary/undead/img/odunos-river-trawler.webp#right)  
+![Odunos River Trawler](Compendium/bestiary/undead/img/odunos-river-trawler.webp#right|850)  
 
 ```statblock
 "name": "Odunos River Trawler (TBVXXII)"

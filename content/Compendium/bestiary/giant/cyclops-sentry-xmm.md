@@ -19,7 +19,7 @@ aliases: ["Cyclops Sentry"]
 # Cyclops Sentry
 *Source: Monster Manual (2024) p. 88*  
 
-![](Compendium/bestiary/giant/img/cyclopes.webp#right)  
+![](Compendium/bestiary/giant/img/cyclopes.webp#right|850)  
 Most cyclops sentries serve their divine progenitors and oppose those who would tamper with fate.
 
 ## Cyclopes

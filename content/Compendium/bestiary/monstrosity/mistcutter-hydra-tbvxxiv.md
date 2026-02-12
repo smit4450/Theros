@@ -15,7 +15,7 @@ aliases: ["Mistcutter Hydra"]
 
 The mistcutter hydra has twelve heads and is able to breath underwater.
 
-![Mistcutter Hydra](Compendium/bestiary/monstrosity/img/mistcutter-hydra.webp#right)  
+![Mistcutter Hydra](Compendium/bestiary/monstrosity/img/mistcutter-hydra.webp#right|850)  
 
 ```statblock
 "name": "Mistcutter Hydra (TBVXXIV)"

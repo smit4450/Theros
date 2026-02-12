@@ -14,7 +14,7 @@ aliases: ["Noble"]
 # Noble
 *Source: Monster Manual (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/nobles.webp#right)  
+![](Compendium/bestiary/humanoid/img/nobles.webp#right|850)  
 A noble's social advantages typically grant the noble access to greater education and training than most common folk, while nobles' experience with business or politics makes many adept negotiators.
 
 ## Nobles

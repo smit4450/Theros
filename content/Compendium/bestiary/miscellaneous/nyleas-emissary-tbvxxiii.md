@@ -15,7 +15,7 @@ aliases: ["Nylea's Emissary"]
 
 A giant nyxborn lynx provides Nylea with an extra set of eyes in her forest.
 
-![Nylea's Emissary](Compendium/bestiary/miscellaneous/img/nyleas-emissary.webp#right)  
+![Nylea's Emissary](Compendium/bestiary/miscellaneous/img/nyleas-emissary.webp#right|850)  
 
 ```statblock
 "name": "Nylea's Emissary (TBVXXIII)"

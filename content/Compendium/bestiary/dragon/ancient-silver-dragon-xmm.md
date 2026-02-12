@@ -15,7 +15,7 @@ aliases: ["Ancient Silver Dragon"]
 # Ancient Silver Dragon
 *Source: Monster Manual (2024) p. 280. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![The sight of an ancient si...](Compendium/bestiary/dragon/img/ancient-silver-dragon.webp#right)  
+![The sight of an ancient si...](Compendium/bestiary/dragon/img/ancient-silver-dragon.webp#right|850)  
 Ancient silver dragons pursue world-wide change. They defend their communities and allies, encouraging them to perform deeds worthy of legend. Some set their sights on other worlds and planes of existence, creating extraplanar alliances or combating multiplanar threats. They might have guises in multiple societies and forge generation-spanning friendships with heroic families or valorous groups.
 
 ## Silver Dragons

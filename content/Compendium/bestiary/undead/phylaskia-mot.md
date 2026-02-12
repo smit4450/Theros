@@ -13,7 +13,7 @@ aliases: ["Phylaskia"]
 # Phylaskia
 *Source: Mythic Odysseys of Theros p. 239*  
 
-![](Compendium/bestiary/undead/img/phylaskia.webp#right)  
+![](Compendium/bestiary/undead/img/phylaskia.webp#right|850)  
 These armored skeletal spirits guard the borders of the Underworld and its various wards. Sleepless and merciless, they scrutinize all who would pass, and they slay those who defy them.
 ```statblock
 "name": "Phylaskia (MOT)"

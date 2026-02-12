@@ -13,7 +13,7 @@ aliases: ["Oread"]
 # Oread
 *Source: Mythic Odysseys of Theros p. 237*  
 
-![](Compendium/bestiary/fey/img/oread.webp#right)  
+![](Compendium/bestiary/fey/img/oread.webp#right|850)  
 Aggressive oreads number among the most dangerous nymphs, as they embody the wild might of flames, volcanism, and the hidden forces of the earth. These creatures typically dwell in remote mountain crags and near volcanoes, where they caper among the forces of dissolution and rebirth. During avalanches and volcanic eruptions, groups of oreads might race ahead of the destruction, dancing, singing, and doing what they can to maximize the impending devastation.
 
 ## Honor Among Fey

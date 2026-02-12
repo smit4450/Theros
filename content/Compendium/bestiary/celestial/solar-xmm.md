@@ -15,7 +15,7 @@ aliases: ["Solar"]
 # Solar
 *Source: Monster Manual (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/celestial/img/solar.webp#right)  
+![](Compendium/bestiary/celestial/img/solar.webp#right|850)  
 ## Solar
 
 *Angelic Protector of the Multiverse*

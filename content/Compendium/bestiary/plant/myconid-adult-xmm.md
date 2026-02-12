@@ -14,7 +14,7 @@ aliases: ["Myconid Adult"]
 # Myconid Adult
 *Source: Monster Manual (2024) p. 223, FRHoF*  
 
-![](Compendium/bestiary/plant/img/myconids.webp#right)  
+![](Compendium/bestiary/plant/img/myconids.webp#right|850)  
 Myconid adults defend their territories and other myconids from invaders.
 
 ## Myconids

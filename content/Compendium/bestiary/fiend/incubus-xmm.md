@@ -16,7 +16,7 @@ aliases: ["Incubus"]
 # Incubus
 *Source: Monster Manual (2024) p. 178, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/incubus.webp#right)  
+![](Compendium/bestiary/fiend/img/incubus.webp#right|850)  
 ## Incubus
 
 *Life-Leeching Dream Stalker*

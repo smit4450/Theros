@@ -21,7 +21,7 @@ aliases: ["Ogre"]
 # Ogre
 *Source: Monster Manual (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/giant/img/ogres.webp#right)  
+![](Compendium/bestiary/giant/img/ogres.webp#right|850)  
 Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils they please. Ogre raiders ally with other evil forces in return for food, riches, and promises of battle.
 
 ## Ogres

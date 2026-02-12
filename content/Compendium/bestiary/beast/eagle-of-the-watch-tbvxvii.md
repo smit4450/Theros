@@ -17,7 +17,7 @@ aliases: ["Eagle of the Watch"]
 
 —Kanlos, Akroan captain</blockquote></small>
 
-![Eagle of the Watch](Compendium/bestiary/beast/img/eagle-of-the-watch.webp#right)  
+![Eagle of the Watch](Compendium/bestiary/beast/img/eagle-of-the-watch.webp#right|850)  
 
 ```statblock
 "name": "Eagle of the Watch (TBVXVII)"

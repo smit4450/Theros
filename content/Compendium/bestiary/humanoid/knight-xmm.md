@@ -14,7 +14,7 @@ aliases: ["Knight"]
 # Knight
 *Source: Monster Manual (2024) p. 184, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/knights.webp#right)  
+![](Compendium/bestiary/humanoid/img/knights.webp#right|850)  
 Knights frequently lead troops in combat or work in units that dominate the battlefield. They're often attended by squires, who might be less skilled soldiers or commoners.
 
 ## Knights

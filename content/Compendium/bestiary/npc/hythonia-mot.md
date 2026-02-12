@@ -13,7 +13,7 @@ aliases: ["Hythonia"]
 # Hythonia
 *Source: Mythic Odysseys of Theros p. 252*  
 
-![](Compendium/bestiary/npc/img/hythonia.webp#right)  
+![](Compendium/bestiary/npc/img/hythonia.webp#right|850)  
 Theros's reclusive medusas often delight in collecting and expanding their galleries of petrified victims. Unlike other medusas, Hythonia isn't merely a collector; she's an artist.
 
 When Hythonia came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the medusa's petrifying gaze in hopes of gaining Pharika's favor. Seeing herself surrounded by willing devotees, Hythonia formulated a cruel plan. After encouraging them to engage in wild rituals, Hythonia began turning her followers to stone, weaving their forms to create a grisly throne made of their petrified bodies.

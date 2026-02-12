@@ -21,7 +21,7 @@ Players familiar with this monster may find the choice too simple. In order to a
 <li>A quest goal might involve destroying a structure.
 <li>A quest goal might involve preserving a structure.
 
-![Pharagax Giant](Compendium/bestiary/giant/img/pharagax-giant.webp#right)  
+![Pharagax Giant](Compendium/bestiary/giant/img/pharagax-giant.webp#right|850)  
 
 ```statblock
 "name": "Pharagax Giant (TBVIX)"

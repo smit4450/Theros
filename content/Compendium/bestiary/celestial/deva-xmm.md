@@ -15,7 +15,7 @@ aliases: ["Deva"]
 # Deva
 *Source: Monster Manual (2024) p. 97, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/celestial/img/deva.webp#right)  
+![](Compendium/bestiary/celestial/img/deva.webp#right|850)  
 ## Deva
 
 *World-Changing Angelic Messenger*

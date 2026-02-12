@@ -14,7 +14,7 @@ aliases: ["Scout"]
 # Scout
 *Source: Monster Manual (2024) p. 270, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/scouts.webp#right)  
+![](Compendium/bestiary/humanoid/img/scouts.webp#right|850)  
 Scouts are keen archers and acutely aware of their surroundings. They often know several regions particularly well and are familiar with local creatures, landmarks, and perils.
 
 ## Scouts

@@ -15,7 +15,7 @@ aliases: ["Adult Blue Dragon"]
 # Adult Blue Dragon
 *Source: Monster Manual (2024) p. 49. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An adult blue dragon invad...](Compendium/bestiary/dragon/img/blue-dragon.webp#right)  
+![An adult blue dragon invad...](Compendium/bestiary/dragon/img/blue-dragon.webp#right|850)  
 Adult blue dragons command small empires, which might be territories of subjugated followers, shadowy criminal networks, or cultic enclaves. Endlessly suspicious and wary of rivals, these dragons enact elaborate schemes to ruin their foes, test the loyalty of their servants, and ensure their dominance for centuries.
 
 ## Blue Dragons

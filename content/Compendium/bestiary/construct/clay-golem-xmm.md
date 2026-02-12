@@ -14,7 +14,7 @@ aliases: ["Clay Golem"]
 # Clay Golem
 *Source: Monster Manual (2024) p. 72. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/clay-golem.webp#right)  
+![](Compendium/bestiary/construct/img/clay-golem.webp#right|850)  
 ## Clay Golem
 
 *Guardian of Home and Heart*

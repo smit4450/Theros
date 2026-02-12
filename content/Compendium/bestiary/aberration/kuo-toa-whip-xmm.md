@@ -15,7 +15,7 @@ aliases: ["Kuo-toa Whip"]
 # Kuo-toa Whip
 *Source: Monster Manual (2024) p. 190*  
 
-![](Compendium/bestiary/aberration/img/kuo-toa-whip-and-monitor.webp#right)  
+![](Compendium/bestiary/aberration/img/kuo-toa-whip-and-monitor.webp#right|850)  
 The servants of kuo-toa archpriests, kuo-toa whips—so named for their role in enforcing order among other kuo-toa—lead war bands in carrying out the commands of their superiors. In return for their zeal, these kuo-toa are granted minor magical abilities and pincer-like weapons for subduing foes. In battle, whips drive on other kuo-toa with threats of violence and burbling chants.
 
 ## Kuo-toa

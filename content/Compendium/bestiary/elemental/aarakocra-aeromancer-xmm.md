@@ -16,7 +16,7 @@ aliases: ["Aarakocra Aeromancer"]
 # Aarakocra Aeromancer
 *Source: Monster Manual (2024) p. 10*  
 
-![](Compendium/bestiary/elemental/img/aarakocra.webp#right)  
+![](Compendium/bestiary/elemental/img/aarakocra.webp#right|850)  
 Aarakocra aeromancers control magical winds from the endless storms of the Elemental Plane of Air.
 
 ## Aarakocra

@@ -14,7 +14,7 @@ aliases: ["Myconid Sprout"]
 # Myconid Sprout
 *Source: Monster Manual (2024) p. 222, FRHoF*  
 
-![](Compendium/bestiary/plant/img/myconids.webp#right)  
+![](Compendium/bestiary/plant/img/myconids.webp#right|850)  
 Myconid sprouts tend to their fungal homes and watch for trespassers.
 
 ## Myconids

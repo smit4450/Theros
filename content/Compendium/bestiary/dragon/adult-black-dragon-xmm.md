@@ -14,7 +14,7 @@ aliases: ["Adult Black Dragon"]
 # Adult Black Dragon
 *Source: Monster Manual (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An adult black dragon uses...](Compendium/bestiary/dragon/img/black-dragon.webp#right)  
+![An adult black dragon uses...](Compendium/bestiary/dragon/img/black-dragon.webp#right|850)  
 By the time they're adults, black dragons are among the greatest terrors in the lands they claim. Wretched swamps and monster-haunted ruins grow more dismal and spread under an adult black dragon's influence. Morbid cultists and doomsayers frequently gather in the dragon's service, bringing with them undead terrors that answer to the black dragon and aid it in spreading ruin to nearby bastions of beauty and peace.
 
 ## Black Dragons

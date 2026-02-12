@@ -15,7 +15,7 @@ aliases: ["Young Blue Dragon"]
 # Young Blue Dragon
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/blue-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/blue-dragon.webp#right|850)  
 Young blue dragons seek to establish themselves as forces to be feared. Many claim isolated communities to rule over or ancient ruins where they might find magical paths to power. These blue dragons might temporarily cooperate with other dragons or powerful villains to gain followers and influence.
 
 ## Blue Dragons

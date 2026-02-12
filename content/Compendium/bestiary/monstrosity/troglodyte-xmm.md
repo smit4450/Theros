@@ -14,7 +14,7 @@ aliases: ["Troglodyte"]
 # Troglodyte
 *Source: Monster Manual (2024) p. 309*  
 
-![](Compendium/bestiary/monstrosity/img/troglodyte.webp#right)  
+![](Compendium/bestiary/monstrosity/img/troglodyte.webp#right|850)  
 ## Troglodyte
 
 *Reeking Subterranean Hunter*

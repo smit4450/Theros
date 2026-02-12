@@ -14,7 +14,7 @@ aliases: ["Stone Golem"]
 # Stone Golem
 *Source: Monster Manual (2024) p. 301, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/stone-golem.webp#right)  
+![](Compendium/bestiary/construct/img/stone-golem.webp#right|850)  
 ## Stone Golem
 
 *Guardian of the Storied and Sacred*

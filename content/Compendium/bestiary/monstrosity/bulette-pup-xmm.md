@@ -16,7 +16,7 @@ aliases: ["Bulette Pup"]
 # Bulette Pup
 *Source: Monster Manual (2024) p. 63*  
 
-![](Compendium/bestiary/monstrosity/img/bulettes.webp#right)  
+![](Compendium/bestiary/monstrosity/img/bulettes.webp#right|850)  
 Juvenile bulettes are known as pups. They travel in small groups, using their numbers to bring down larger foes. Their arrival frequently presages the appearance of an adult bulette.
 
 ## Bulettes

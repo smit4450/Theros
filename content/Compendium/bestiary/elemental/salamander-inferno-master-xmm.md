@@ -16,7 +16,7 @@ aliases: ["Salamander Inferno Master"]
 # Salamander Inferno Master
 *Source: Monster Manual (2024) p. 267*  
 
-![](Compendium/bestiary/elemental/img/salamander-inferno-master.webp#right)  
+![](Compendium/bestiary/elemental/img/salamander-inferno-master.webp#right|850)  
 Salamander inferno masters are ancient connoisseurs of flames and often inhabit places with unique scorching properties. They gather communes of apprentices who learn fiery techniques while helping their mentors accomplish great works. Inferno masters have ambitious goals, such as causing massive volcanic eruptions, opening portals to burning planes, destroying Artifacts, or burning all instances of something from the multiverse.
 
 ## Salamanders

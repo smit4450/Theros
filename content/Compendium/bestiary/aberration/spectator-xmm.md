@@ -14,7 +14,7 @@ aliases: ["Spectator"]
 # Spectator
 *Source: Monster Manual (2024) p. 289*  
 
-![](Compendium/bestiary/aberration/img/spectator.webp#right)  
+![](Compendium/bestiary/aberration/img/spectator.webp#right|850)  
 ## Spectator
 
 *Magic-Bound Beholder-Kin*

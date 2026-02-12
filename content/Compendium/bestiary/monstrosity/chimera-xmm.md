@@ -16,7 +16,7 @@ aliases: ["Chimera"]
 # Chimera
 *Source: Monster Manual (2024) p. 70. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/chimera.webp#right)  
+![](Compendium/bestiary/monstrosity/img/chimera.webp#right|850)  
 ## Chimera
 
 *Multiheaded Ravager*

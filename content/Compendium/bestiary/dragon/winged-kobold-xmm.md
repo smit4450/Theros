@@ -22,7 +22,7 @@ aliases: ["Winged Kobold"]
 # Winged Kobold
 *Source: Monster Manual (2024) p. 185*  
 
-![](Compendium/bestiary/dragon/img/kobolds.webp#right)  
+![](Compendium/bestiary/dragon/img/kobolds.webp#right|850)  
 Some kobolds are born with wings. Called urds by others of their kind, these kobolds are thought to be blessed by a dragon or Tiamat, the Dragon Queen. Despite their favored status, winged kobolds are as cowardly as their brethren and use their flight mostly to keep out of reach of their foes.
 
 ## Kobolds

@@ -15,7 +15,7 @@ aliases: ["Poltergeist"]
 # Poltergeist
 *Source: Monster Manual (2024) p. 246*  
 
-![](Compendium/bestiary/undead/img/poltergeist.webp#right)  
+![](Compendium/bestiary/undead/img/poltergeist.webp#right|850)  
 ## Poltergeist
 
 *Malevolent or Mischievous Spirit*

@@ -14,7 +14,7 @@ aliases: ["Gray Ooze"]
 # Gray Ooze
 *Source: Monster Manual (2024) p. 151. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/ooze/img/gray-oozes.webp#right)  
+![](Compendium/bestiary/ooze/img/gray-oozes.webp#right|850)  
 Gray oozes appear in areas affected by unpredictable magic. Magic-users who fail in their attempts to bind elemental spirits to the bodies of Constructs might also accidentally create gray oozes.
 
 ## Gray Oozes

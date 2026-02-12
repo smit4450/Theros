@@ -17,7 +17,7 @@ aliases: ["Cyclops of Eternal Fury"]
 
 —Anthousa of Setessa</small></blockquote>
 
-![Cyclops of Eternal Fury](Compendium/bestiary/miscellaneous/img/cyclops-of-eternal-fury.webp#right)  
+![Cyclops of Eternal Fury](Compendium/bestiary/miscellaneous/img/cyclops-of-eternal-fury.webp#right|850)  
 
 ```statblock
 "name": "Cyclops of Eternal Fury (TBVIII)"

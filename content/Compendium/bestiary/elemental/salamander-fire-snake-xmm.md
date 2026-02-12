@@ -16,7 +16,7 @@ aliases: ["Salamander Fire Snake"]
 # Salamander Fire Snake
 *Source: Monster Manual (2024) p. 266*  
 
-![](Compendium/bestiary/elemental/img/salamander-fire-snake.webp#right)  
+![](Compendium/bestiary/elemental/img/salamander-fire-snake.webp#right|850)  
 Juvenile salamanders emerge from burning hot, two-foot-diameter eggs. Called fire snakes, these serpent-like creatures slither through the Plane of Fire and other intensely hot places. After consuming the proper fuels and exposing themselves to fiery extremes, fire snakes grow into salamanders.
 
 ## Salamanders

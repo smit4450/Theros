@@ -15,7 +15,7 @@ aliases: ["Labyrinth Champion"]
 
 <blockquote><small>“It used to be a lair. Now it’s just a tunnel.”</small></blockquote>
 
-![Labyrinth Champion](Compendium/bestiary/humanoid/img/labyrinth-champion.webp#right)  
+![Labyrinth Champion](Compendium/bestiary/humanoid/img/labyrinth-champion.webp#right|850)  
 
 ```statblock
 "name": "Labyrinth Champion (TBVXVI)"

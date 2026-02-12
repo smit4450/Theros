@@ -15,7 +15,7 @@ aliases: ["Dust Mephit"]
 # Dust Mephit
 *Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/mephits.webp#right)  
+![](Compendium/bestiary/elemental/img/mephits.webp#right|850)  
 Dust mephits are composed of air and fine earth. They are drawn to forsaken places, and they think everything associated with death is hilarious.
 
 ## Mephits

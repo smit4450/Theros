@@ -13,7 +13,7 @@ aliases: ["Hundred-Handed One"]
 # Hundred-Handed One
 *Source: Mythic Odysseys of Theros p. 225*  
 
-![](Compendium/bestiary/giant/img/hundred-handed-one.webp#right)  
+![](Compendium/bestiary/giant/img/hundred-handed-one.webp#right|850)  
 Extra pairs of arms magically orbit the bodies of the titanic, nearly forgotten artisans known as hundred-handed ones. These giants often dwell in remote mountains and seaside cliffs, where they carve their memories into the ancient stone, covering their territories with intricate reliefs and massive statues of bygone ages. Some linger near ancient temples and palaces, ruins they once raised to the gods or archons of old.
 ```statblock
 "name": "Hundred-Handed One (MOT)"

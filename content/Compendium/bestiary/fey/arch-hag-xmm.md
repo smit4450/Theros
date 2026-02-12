@@ -14,7 +14,7 @@ aliases: ["Arch-hag"]
 # Arch-hag
 *Source: Monster Manual (2024) p. 21*  
 
-![](Compendium/bestiary/fey/img/arch-hag.webp#right)  
+![](Compendium/bestiary/fey/img/arch-hag.webp#right|850)  
 ## Arch-hag
 
 *Hag of Forbidden Secrets and Magical Malice*

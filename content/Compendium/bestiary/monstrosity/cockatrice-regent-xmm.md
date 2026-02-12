@@ -14,7 +14,7 @@ aliases: ["Cockatrice Regent"]
 # Cockatrice Regent
 *Source: Monster Manual (2024) p. 75*  
 
-![](Compendium/bestiary/monstrosity/img/cockatrices.webp#right)  
+![](Compendium/bestiary/monstrosity/img/cockatrices.webp#right|850)  
 Bolder than their smaller cousins, cockatrice regents brim with unstable magical energy they use to restrain distant foes.
 
 ## Cockatrices

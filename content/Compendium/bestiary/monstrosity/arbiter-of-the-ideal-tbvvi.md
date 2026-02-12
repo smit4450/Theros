@@ -15,7 +15,7 @@ aliases: ["Arbiter of the Ideal"]
 
 
 
-![Arbiter of the Ideal](Compendium/bestiary/monstrosity/img/arbiter-of-the-ideal.webp#right)  
+![Arbiter of the Ideal](Compendium/bestiary/monstrosity/img/arbiter-of-the-ideal.webp#right|850)  
 
 ```statblock
 "name": "Arbiter of the Ideal (TBVVI)"

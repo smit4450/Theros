@@ -13,7 +13,7 @@ aliases: ["Oracle"]
 # Oracle
 *Source: Mythic Odysseys of Theros p. 238*  
 
-![](Compendium/bestiary/humanoid/img/oracle.webp#right)  
+![](Compendium/bestiary/humanoid/img/oracle.webp#right|850)  
 Oracles posses the ability to interpret the patterns and language of Nyx, divining from it the flow of fates and the will of the gods. Most of these gifted—or cursed—mortals communicate with a single god, interpreting their intentions for the wider world. Others aren't aligned with a god and observe the night sky, reading Nyx like a vast, cryptic scroll for insights.
 ```statblock
 "name": "Oracle (MOT)"

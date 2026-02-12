@@ -15,7 +15,7 @@ aliases: ["Lemure"]
 # Lemure
 *Source: Monster Manual (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/lemure.webp#right)  
+![](Compendium/bestiary/fiend/img/lemure.webp#right|850)  
 Lemures torment weaker creatures, but in the Nine Hells, few such beings exist. To avoid greater suffering, they obey the orders of more powerful devils.
 
 ## Lemures

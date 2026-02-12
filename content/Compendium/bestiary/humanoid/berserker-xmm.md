@@ -14,7 +14,7 @@ aliases: ["Berserker"]
 # Berserker
 *Source: Monster Manual (2024) p. 37, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/berserkers.webp#right)  
+![](Compendium/bestiary/humanoid/img/berserkers.webp#right|850)  
 Berserkers might fight for personal glory or form motivated forces or howling hordes.
 
 ## Berserkers

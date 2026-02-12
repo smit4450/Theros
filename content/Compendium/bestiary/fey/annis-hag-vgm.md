@@ -15,7 +15,7 @@ aliases: ["Annis Hag"]
 # Annis Hag
 *Source: Volo's Guide to Monsters p. 159, Mythic Odysseys of Theros*  
 
-![](Compendium/bestiary/fey/img/annis-hag.webp#right)  
+![](Compendium/bestiary/fey/img/annis-hag.webp#right|850)  
 Annis hags lair in mountains or hills. Despite being hunchbacked and hump-shouldered, they are the largest and most physically imposing of their kind, standing eight feet tall.
 
 ## Tormenting the Weak

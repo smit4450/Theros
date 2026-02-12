@@ -14,7 +14,7 @@ aliases: ["Assassin"]
 # Assassin
 *Source: Monster Manual (2024) p. 22. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/assassin.webp#right)  
+![](Compendium/bestiary/humanoid/img/assassin.webp#right|850)  
 ## Assassin
 
 *Contract Killer*

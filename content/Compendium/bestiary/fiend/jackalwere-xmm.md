@@ -15,7 +15,7 @@ aliases: ["Jackalwere"]
 # Jackalwere
 *Source: Monster Manual (2024) p. 182*  
 
-![](Compendium/bestiary/fiend/img/jackalwere.webp#right)  
+![](Compendium/bestiary/fiend/img/jackalwere.webp#right|850)  
 ## Jackalwere
 
 *Shape-Shifting Trickster of the Wilds*

@@ -15,7 +15,7 @@ aliases: ["Hezrou"]
 # Hezrou
 *Source: Monster Manual (2024) p. 167. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/hezrou.webp#right)  
+![](Compendium/bestiary/fiend/img/hezrou.webp#right|850)  
 ## Hezrou
 
 *Demon of Obscenity and Outrage*

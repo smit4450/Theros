@@ -15,7 +15,7 @@ aliases: ["Swarm of Lemures"]
 # Swarm of Lemures
 *Source: Monster Manual (2024) p. 194*  
 
-![](Compendium/bestiary/fiend/img/swarm-of-lemures.webp#right)  
+![](Compendium/bestiary/fiend/img/swarm-of-lemures.webp#right|850)  
 When devils drive hosts of lemures into close proximity or when lemures compress into a single mass, a swarm forms and adopts a unified mind.
 
 ## Lemures

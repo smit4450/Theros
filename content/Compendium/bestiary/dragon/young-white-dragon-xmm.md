@@ -14,7 +14,7 @@ aliases: ["Young White Dragon"]
 # Young White Dragon
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/white-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/white-dragon.webp#right|850)  
 Young white dragons defend their hunting grounds from rivals. In some cases, kobolds and groups of humanoids might offer food and treasure to young white dragons, attempting to keep the dragons satiated and less likely to prey on their communities.
 
 ## White Dragons

@@ -16,7 +16,7 @@ aliases: ["Archetype of Endurance"]
 <blockquote><small>Despite its fearsome stature, it is as elusive as a shadow, circling round to stalk those who presume to hunt it.</small></blockquote>
 The archetype of endurance is a wild boar blessed by Nylea. Its blessing extends to its allies.
 
-![Archetype of Endurance](Compendium/bestiary/beast/img/archetype-of-endurance.webp#right)  
+![Archetype of Endurance](Compendium/bestiary/beast/img/archetype-of-endurance.webp#right|850)  
 
 ```statblock
 "name": "Archetype of Endurance (TBVXVII)"

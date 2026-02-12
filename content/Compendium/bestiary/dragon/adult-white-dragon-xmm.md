@@ -14,7 +14,7 @@ aliases: ["Adult White Dragon"]
 # Adult White Dragon
 *Source: Monster Manual (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An adult white dragon view...](Compendium/bestiary/dragon/img/white-dragon.webp#right)  
+![An adult white dragon view...](Compendium/bestiary/dragon/img/white-dragon.webp#right|850)  
 Adult white dragons claim large territories and are often the mightiest predators in those lands. While some lurk in their lairs for months, others regularly soar over their domains. When they spot something moving on the ice, they might swoop down to feed or extort food and offerings from sapient creatures.
 
 ## White Dragons

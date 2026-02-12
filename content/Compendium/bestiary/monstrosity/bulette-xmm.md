@@ -16,7 +16,7 @@ aliases: ["Bulette"]
 # Bulette
 *Source: Monster Manual (2024) p. 63. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/bulettes.webp#right)  
+![](Compendium/bestiary/monstrosity/img/bulettes.webp#right|850)  
 Bulettes range under vast territories. They often threaten animal herds, and they can wipe out whole farming communities.
 
 ## Bulettes

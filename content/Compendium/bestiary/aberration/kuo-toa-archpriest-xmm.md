@@ -15,7 +15,7 @@ aliases: ["Kuo-toa Archpriest"]
 # Kuo-toa Archpriest
 *Source: Monster Manual (2024) p. 191*  
 
-![](Compendium/bestiary/aberration/img/kuo-toa-archpriest.webp#right)  
+![](Compendium/bestiary/aberration/img/kuo-toa-archpriest.webp#right|850)  
 Kuo-toa archpriests lead kuo-toa communities by interpreting omens and messages from their strange gods. They wear grotesque ceremonial regalia honoring their deities. Archpriests channel their faith into spells to support their followers.
 
 ## Kuo-toa

@@ -15,7 +15,7 @@ aliases: ["Gnarled Scarhide"]
 
 
 
-![Gnarled Scarhide](Compendium/bestiary/humanoid/img/gnarled-scarhide.webp#right)  
+![Gnarled Scarhide](Compendium/bestiary/humanoid/img/gnarled-scarhide.webp#right|850)  
 
 ```statblock
 "name": "Gnarled Scarhide (TBVXI)"

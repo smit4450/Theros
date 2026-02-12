@@ -15,7 +15,7 @@ aliases: ["Bladetusk Boar"]
 
 <blockquote><small>Deathbellow Canyon is home to minotaurs and many other creatures that share a love for the taste of human flesh.</small></blockquote>
 
-![Bladetusk Boar](Compendium/bestiary/beast/img/bladetusk-boar.webp#right)  
+![Bladetusk Boar](Compendium/bestiary/beast/img/bladetusk-boar.webp#right|850)  
 
 ```statblock
 "name": "Bladetusk Boar (TBVXVII)"

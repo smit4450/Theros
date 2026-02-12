@@ -15,7 +15,7 @@ aliases: ["Karametra's Acolyte"]
 
 <small><blockquote>"The wilds are a garden tended by divine hands."</blockquote></small>
 
-![Karametra's Acolyte](Compendium/bestiary/humanoid/img/karametras-acolyte.webp#right)  
+![Karametra's Acolyte](Compendium/bestiary/humanoid/img/karametras-acolyte.webp#right|850)  
 
 ```statblock
 "name": "Karametra's Acolyte (TBVXXV)"

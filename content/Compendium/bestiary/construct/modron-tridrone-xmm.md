@@ -15,7 +15,7 @@ aliases: ["Modron Tridrone"]
 # Modron Tridrone
 *Source: Monster Manual (2024) p. 217*  
 
-![](Compendium/bestiary/construct/img/modron-tridrone.webp#right)  
+![](Compendium/bestiary/construct/img/modron-tridrone.webp#right|850)  
 Tridrones oversee lesser modrons and lead them in battle. They're suspicious of any data provided by non-modrons.
 
 ## Modrons

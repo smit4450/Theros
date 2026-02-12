@@ -14,7 +14,7 @@ aliases: ["Banshee"]
 # Banshee
 *Source: Monster Manual (2024) p. 29*  
 
-![](Compendium/bestiary/undead/img/banshee.webp#right)  
+![](Compendium/bestiary/undead/img/banshee.webp#right|850)  
 ## Banshee
 
 *Wailing Harbinger of Death*

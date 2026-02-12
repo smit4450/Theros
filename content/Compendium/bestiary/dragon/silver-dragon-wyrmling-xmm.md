@@ -15,7 +15,7 @@ aliases: ["Silver Dragon Wyrmling"]
 # Silver Dragon Wyrmling
 *Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/silver-dragon-wyrmling.webp#right)  
+![](Compendium/bestiary/dragon/img/silver-dragon-wyrmling.webp#right|850)  
 Silver dragon wyrmlings typically live with one or more parents or mentors, learning much about the world and its past before living on their own.
 
 ## Silver Dragons

@@ -16,7 +16,7 @@ aliases: ["Graveyard Revenant"]
 # Graveyard Revenant
 *Source: Monster Manual (2024) p. 260*  
 
-![](Compendium/bestiary/undead/img/revenant-and-graveyard-revenant.webp#right)  
+![](Compendium/bestiary/undead/img/revenant-and-graveyard-revenant.webp#right|850)  
 Graveyard revenants possess dozens of bodies that combine to form grotesque masses. They take revenge on those responsible for mass deaths or institutions that callously ruin lives.
 
 ## Revenants

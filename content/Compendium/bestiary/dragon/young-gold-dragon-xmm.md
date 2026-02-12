@@ -15,7 +15,7 @@ aliases: ["Young Gold Dragon"]
 # Young Gold Dragon
 *Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/gold-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/gold-dragon.webp#right|850)  
 Young gold dragons have seen glimpses of the world's true evils and crusade to oppose them. They often seek bold and direct solutions to problems.
 
 ## Gold Dragons

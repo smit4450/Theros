@@ -14,7 +14,7 @@ aliases: ["Animated Rug of Smothering"]
 # Animated Rug of Smothering
 *Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/animated-objects.webp#right)  
+![](Compendium/bestiary/construct/img/animated-objects.webp#right|850)  
 Animated rugs of smothering might attack any creature that steps on them, or they might be passed off as superficially similar magic items, such as Carpets of Flying, and attack those who speak a supposed command word. Deadly tapestries, furs, and similar items also use this stat block.
 
 ## Animated Objects

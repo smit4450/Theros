@@ -14,7 +14,7 @@ aliases: ["Young Green Dragon"]
 # Young Green Dragon
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/green-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/green-dragon.webp#right|850)  
 Young green dragons frequently control groups of ettercaps, kobolds, thieves, or other cowardly servants. These dragons do so while avoiding other evil dragons, who would sabotage them. Gradually, oppressing weaker creatures and amassing meaningless fortunes bore young green dragons, and they pursue more ambitious ways to indulge their egos.
 
 ## Green Dragons

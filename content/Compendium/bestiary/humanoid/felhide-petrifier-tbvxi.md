@@ -15,7 +15,7 @@ aliases: ["Felhide Petrifier"]
 
 <blockquote><small>It’s common practice among minotaurs to collect the heads of their victims as trophies. Sometimes the trophies prove more than ornamental.</small></blockquote>
 
-![Felhide Petrifier](Compendium/bestiary/humanoid/img/felhide-petrifier.webp#right)  
+![Felhide Petrifier](Compendium/bestiary/humanoid/img/felhide-petrifier.webp#right|850)  
 
 ```statblock
 "name": "Felhide Petrifier (TBVXI)"

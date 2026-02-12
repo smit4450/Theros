@@ -17,7 +17,7 @@ aliases: ["Pensive Minotaur"]
 
 —<i>The Theriad</i></small></blockquote>
 
-![Pensive Minotaur](Compendium/bestiary/humanoid/img/pensive-minotaur.webp#right)  
+![Pensive Minotaur](Compendium/bestiary/humanoid/img/pensive-minotaur.webp#right|850)  
 
 ```statblock
 "name": "Pensive Minotaur (TBVXI)"

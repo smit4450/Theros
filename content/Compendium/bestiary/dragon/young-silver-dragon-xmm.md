@@ -15,7 +15,7 @@ aliases: ["Young Silver Dragon"]
 # Young Silver Dragon
 *Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/silver-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/silver-dragon.webp#right|850)  
 Young silver dragons usually have close ties with elder metallic dragons or heroic role models, helping those with great goals achieve their ambitions. They might serve as messengers for or representatives of such do-gooders.
 
 ## Silver Dragons

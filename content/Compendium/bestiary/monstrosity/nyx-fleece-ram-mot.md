@@ -13,7 +13,7 @@ aliases: ["Nyx-Fleece Ram"]
 # Nyx-Fleece Ram
 *Source: Mythic Odysseys of Theros p. 233*  
 
-![](Compendium/bestiary/monstrosity/img/nyx-fleece-ram.webp#right)  
+![](Compendium/bestiary/monstrosity/img/nyx-fleece-ram.webp#right|850)  
 Touched by the gods, Nyx-fleece rams grow remarkable magical wool. This makes the beasts valuable to heroes and scoundrels alike, who would use their wool for either protection or profit. Divine servants guard the few herds of Nyx-fleece rams dwelling among Theros's loftiest peaks, assuring they don't fall into unworthy hands.
 ```statblock
 "name": "Nyx-Fleece Ram (MOT)"

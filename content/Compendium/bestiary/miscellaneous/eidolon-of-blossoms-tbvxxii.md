@@ -15,7 +15,7 @@ aliases: ["Eidolon of Blossoms"]
 
 <small><blockquote>The emotional echoes of dryad gatherings attract lost souls.</blockquote></small>
 
-![Eidolon of Blossoms](Compendium/bestiary/miscellaneous/img/eidolon-of-blossoms.webp#right)  
+![Eidolon of Blossoms](Compendium/bestiary/miscellaneous/img/eidolon-of-blossoms.webp#right|850)  
 
 ```statblock
 "name": "Eidolon of Blossoms (TBVXXII)"

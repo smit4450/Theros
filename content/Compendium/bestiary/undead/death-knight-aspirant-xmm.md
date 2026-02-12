@@ -14,7 +14,7 @@ aliases: ["Death Knight Aspirant"]
 # Death Knight Aspirant
 *Source: Monster Manual (2024) p. 93*  
 
-![](Compendium/bestiary/undead/img/death-knights.webp#right)  
+![](Compendium/bestiary/undead/img/death-knights.webp#right|850)  
 When the leader of a villainous order rises as a death knight, their wicked devotees might join them in their cursed existence as death knight aspirants. These followers bear a measure of their leader's power and serve as they did in life, obediently following the death knight's decrees and heralding its terrible will.
 
 ## Death Knights

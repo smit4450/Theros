@@ -16,7 +16,7 @@ aliases: ["Fire Elemental"]
 # Fire Elemental
 *Source: Monster Manual (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/fire-elemental.webp#right)  
+![](Compendium/bestiary/elemental/img/fire-elemental.webp#right|850)  
 ## Fire Elemental
 
 *Primal Spirit of Heat and Flame*

@@ -17,7 +17,7 @@ aliases: ["Centaur Warden"]
 # Centaur Warden
 *Source: Monster Manual (2024) p. 67, FRHoF*  
 
-![](Compendium/bestiary/fey/img/centaurs.webp#right)  
+![](Compendium/bestiary/fey/img/centaurs.webp#right|850)  
 Centaur wardens often lead groups of centaur troopers and act as intermediaries between Fey creatures and trespassers into their territories.
 
 ## Centaurs

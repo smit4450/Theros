@@ -15,7 +15,7 @@ aliases: ["Lizardfolk Sovereign"]
 # Lizardfolk Sovereign
 *Source: Monster Manual (2024) p. 197*  
 
-![](Compendium/bestiary/elemental/img/lizardfolk.webp#right)  
+![](Compendium/bestiary/elemental/img/lizardfolk.webp#right|850)  
 Lizardfolk sovereigns undergo magical rites that imbue them with fantastic strength and magic from the Elemental Plane of Earth. In some, though, it also unlocks a primal viciousness.
 
 ## Lizardfolk

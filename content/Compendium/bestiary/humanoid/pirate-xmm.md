@@ -14,7 +14,7 @@ aliases: ["Pirate"]
 # Pirate
 *Source: Monster Manual (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/pirate.webp#right)  
+![](Compendium/bestiary/humanoid/img/pirate.webp#right|850)  
 Along with being competent warriors, pirates are accomplished seafarers who know how to sail and maintain a ship. While some loyally follow their captains' orders, others place greed, superstition, or self-preservation over duty.
 
 ## Pirates

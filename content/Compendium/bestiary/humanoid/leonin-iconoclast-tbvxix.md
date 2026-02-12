@@ -15,7 +15,7 @@ aliases: ["Leonin Iconoclast"]
 
 <blockquote><small>“The stars belong in the night sky. This is our world, and we are our own masters.”</small></blockquote>
 
-![Leonin Iconoclast](Compendium/bestiary/humanoid/img/leonin-iconoclast.webp#right)  
+![Leonin Iconoclast](Compendium/bestiary/humanoid/img/leonin-iconoclast.webp#right|850)  
 
 ```statblock
 "name": "Leonin Iconoclast (TBVXIX)"

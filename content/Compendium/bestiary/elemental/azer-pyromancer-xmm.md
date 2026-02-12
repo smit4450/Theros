@@ -16,7 +16,7 @@ aliases: ["Azer Pyromancer"]
 # Azer Pyromancer
 *Source: Monster Manual (2024) p. 25*  
 
-![](Compendium/bestiary/elemental/img/azers.webp#right)  
+![](Compendium/bestiary/elemental/img/azers.webp#right|850)  
 Azer pyromancers conjure flames from the Elemental Plane of Fire to defend themselves and stoke magical forges.
 
 ## Azers

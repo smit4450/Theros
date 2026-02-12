@@ -15,7 +15,7 @@ aliases: ["Omenspeaker"]
 
 <small><blockquote>Her prophecies amaze her even as she speaks them.</blockquote></small>
 
-![Omenspeaker](Compendium/bestiary/humanoid/img/omenspeaker.webp#right)  
+![Omenspeaker](Compendium/bestiary/humanoid/img/omenspeaker.webp#right|850)  
 
 ```statblock
 "name": "Omenspeaker (TBVXX)"

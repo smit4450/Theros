@@ -18,7 +18,7 @@ aliases: ["Worg"]
 # Worg
 *Source: Monster Manual (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/worg.webp#right)  
+![](Compendium/bestiary/fey/img/worg.webp#right|850)  
 Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire with goblinoids and gnolls and might serve them as mounts.
 
 ## Worgs

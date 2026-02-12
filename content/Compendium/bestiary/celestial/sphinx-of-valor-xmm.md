@@ -16,7 +16,7 @@ aliases: ["Sphinx of Valor"]
 # Sphinx of Valor
 *Source: Monster Manual (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/celestial/img/sphinx-of-valor.webp#right)  
+![](Compendium/bestiary/celestial/img/sphinx-of-valor.webp#right|850)  
 Sphinxes of valor guard world-changing or dangerous secrets—evidence of weird truths, deadly Artifacts, and things that shouldn't exist. They inhabit hidden, magical sites and hold their duty above mortal life. If threatened, a sphinx of valor defends its charge with its supernaturally empowered roar and fierce strikes.
 
 ## Sphinxes

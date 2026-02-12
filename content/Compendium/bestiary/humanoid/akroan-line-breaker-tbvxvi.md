@@ -15,7 +15,7 @@ aliases: ["Akroan Line Breaker"]
 
 <small><blockquote>The enemies’ shields are the first to shatter, and their battle line is never far behind.</blockquote></small>
 
-![Akroan Line Breaker](Compendium/bestiary/humanoid/img/akroan-line-breaker.webp#right)  
+![Akroan Line Breaker](Compendium/bestiary/humanoid/img/akroan-line-breaker.webp#right|850)  
 
 ```statblock
 "name": "Akroan Line Breaker (TBVXVI)"

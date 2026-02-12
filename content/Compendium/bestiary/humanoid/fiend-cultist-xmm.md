@@ -14,7 +14,7 @@ aliases: ["Fiend Cultist"]
 # Fiend Cultist
 *Source: Monster Manual (2024) p. 87*  
 
-![](Compendium/bestiary/humanoid/img/fiend-cultist.webp#right)  
+![](Compendium/bestiary/humanoid/img/fiend-cultist.webp#right|850)  
 Fiend cultists worship fiends or evil deities. They often work to bring ruin to innocents or to summon their sinister patron into the world. Fiend cultists might serve infamous powers such as archdevils and demon lords, or foul immortals—beings such as Demogorgon, Pazuzu, Iuz, Zariel, or Zuggtmoy.
 
 ## Cultists

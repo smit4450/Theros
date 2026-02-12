@@ -15,7 +15,7 @@ aliases: ["Stormbreath Dragon"]
 
 
 
-![Stormbreath Dragon](Compendium/bestiary/dragon/img/stormbreath-dragon.webp#right)  
+![Stormbreath Dragon](Compendium/bestiary/dragon/img/stormbreath-dragon.webp#right|850)  
 
 ```statblock
 "name": "Stormbreath Dragon (TBVVI)"

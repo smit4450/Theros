@@ -21,7 +21,7 @@ Players familiar with this monster may find the choice too simple. In order to a
 <li>A quest goal might involve vanquishing the oracle.
 <li>A quest goal might involve protecting a creature that is near the oracle.
 
-![Oracle of Bones](Compendium/bestiary/humanoid/img/oracle-of-bones.webp#right)  
+![Oracle of Bones](Compendium/bestiary/humanoid/img/oracle-of-bones.webp#right|850)  
 
 ```statblock
 "name": "Oracle of Bones (TBVXX)"

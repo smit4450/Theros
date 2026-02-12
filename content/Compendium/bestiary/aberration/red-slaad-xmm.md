@@ -15,7 +15,7 @@ aliases: ["Red Slaad"]
 # Red Slaad
 *Source: Monster Manual (2024) p. 285*  
 
-![](Compendium/bestiary/aberration/img/red-and-blue-slaad.webp#right)  
+![](Compendium/bestiary/aberration/img/red-and-blue-slaad.webp#right|850)  
 Red slaadi amass in vast throngs in Limbo. There they wrestle and croak-sing as they endlessly dismantle and rebuild islands of drifting planar matter. When they encounter non-slaadi, red slaadi seek to play with, telepathically converse with, or devour the other creatures. These whims change from moment to moment. Red slaadi instinctively avoid harming those bearing slaadi eggs, which red slaadi implant using their claws, or other slaad curses.
 
 ## Slaadi

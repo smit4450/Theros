@@ -16,7 +16,7 @@ aliases: ["Bearer of the Heavens"]
 <small><blockquote>To hold the heavens from the earth is no curse, but a titanic responsibility.</blockquote></small>
 WARNING: This creature is intended to serve as an NPC, not as a boss. Engaging it could result in planar chaos. Killing it will result in destroying Theros.
 
-![Bearer of the Heavens](Compendium/bestiary/giant/img/bearer-of-the-heavens.webp#right)  
+![Bearer of the Heavens](Compendium/bestiary/giant/img/bearer-of-the-heavens.webp#right|850)  
 
 ```statblock
 "name": "Bearer of the Heavens (TBVIX)"

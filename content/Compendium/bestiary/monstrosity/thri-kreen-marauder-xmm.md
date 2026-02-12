@@ -15,7 +15,7 @@ aliases: ["Thri-kreen Marauder"]
 # Thri-kreen Marauder
 *Source: Monster Manual (2024) p. 306*  
 
-![](Compendium/bestiary/monstrosity/img/thri-kreen.webp#right)  
+![](Compendium/bestiary/monstrosity/img/thri-kreen.webp#right|850)  
 Thri-kreen marauders employ weapons made of stone and bone, such as the spear-like gythka and throwing blades called chatkcha.
 
 ## Thri-kreen

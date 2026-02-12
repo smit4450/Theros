@@ -15,7 +15,7 @@ aliases: ["Kuo-toa Monitor"]
 # Kuo-toa Monitor
 *Source: Monster Manual (2024) p. 190*  
 
-![](Compendium/bestiary/aberration/img/kuo-toa-whip-and-monitor.webp#right)  
+![](Compendium/bestiary/aberration/img/kuo-toa-whip-and-monitor.webp#right|850)  
 Kuo-toa monitors control the day-to-day life of weaker kuo-toa, directing their work and worship. They also train beasts or monsters in the kuo-toa's service—such as chuuls or giant crabs—and command them in battle. Archpriests bless monitors with the power to control their underlings and to subdue foes with electricity channeled through their bizarre whips.
 
 ## Kuo-toa

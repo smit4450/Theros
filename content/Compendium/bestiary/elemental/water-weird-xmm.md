@@ -15,7 +15,7 @@ aliases: ["Water Weird"]
 # Water Weird
 *Source: Monster Manual (2024) p. 323*  
 
-![](Compendium/bestiary/elemental/img/water-weird.webp#right)  
+![](Compendium/bestiary/elemental/img/water-weird.webp#right|850)  
 ## Water Weird
 
 *Servant of Primeval Magic*

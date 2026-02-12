@@ -13,7 +13,7 @@ aliases: ["Returned Sentry"]
 # Returned Sentry
 *Source: Mythic Odysseys of Theros p. 241*  
 
-![](Compendium/bestiary/undead/img/returned.webp#right)  
+![](Compendium/bestiary/undead/img/returned.webp#right|850)  
 Most new or purposeless Returned are easily manipulated into serving their more forceful brethren. Having purpose forced upon them, these Returned perform simple, artless tasks with middling efficiency. Their one virtue is their tirelessness, which makes them exceptional guards. In the necropoleis, this sees many Returned employed as sentries, though they might also be messengers or laborers. If threatened, groups of these Returned work well together, sharing the unified goals of overcoming their foes and getting back to the task at hand.
 
 Returned have escaped the Underworld and dwell among the living once more, but their second lives are rarely what they expected—not that they remember what it was they expected. As a result of having followed the Path of Phenax (see chapter 4), the Returned lose their identities, which manifest as separate beings known as eidolons. The experience of escaping the Underworld also causes them to lose their faces, which become expressionless surfaces with empty eye sockets and gaping mouths. These blank surfaces they cover with distinctive golden masks.

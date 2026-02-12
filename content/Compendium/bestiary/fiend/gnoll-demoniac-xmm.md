@@ -17,7 +17,7 @@ aliases: ["Gnoll Demoniac"]
 # Gnoll Demoniac
 *Source: Monster Manual (2024) p. 141*  
 
-![](Compendium/bestiary/fiend/img/gnolls.webp#right)  
+![](Compendium/bestiary/fiend/img/gnolls.webp#right|850)  
 Gnoll demoniacs are berserkers that arise from gnolls who've ritualistically fed on flesh corrupted by the Abyss. Now embodying the ruinous hunger of Yeenoghu, these gnolls throw themselves into battle, heedless of odds or their own survival. Rampaging demoniacs even devour other gnolls in their wild frenzies.
 
 ## Gnolls

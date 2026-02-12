@@ -15,7 +15,7 @@ aliases: ["Pit Fiend"]
 # Pit Fiend
 *Source: Monster Manual (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/pit-fiend.webp#right)  
+![](Compendium/bestiary/fiend/img/pit-fiend.webp#right|850)  
 ## Pit Fiend
 
 *Devil of Domination*

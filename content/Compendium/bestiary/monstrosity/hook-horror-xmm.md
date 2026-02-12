@@ -14,7 +14,7 @@ aliases: ["Hook Horror"]
 # Hook Horror
 *Source: Monster Manual (2024) p. 173*  
 
-![](Compendium/bestiary/monstrosity/img/hook-horror.webp#right)  
+![](Compendium/bestiary/monstrosity/img/hook-horror.webp#right|850)  
 ## Hook Horror
 
 *Echo-Stalking Underdark Hunter*

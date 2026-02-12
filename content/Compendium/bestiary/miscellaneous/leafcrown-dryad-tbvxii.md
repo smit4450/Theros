@@ -15,7 +15,7 @@ aliases: ["Leafcrown Dryad"]
 
 
 
-![Leafcrown Dryad](Compendium/bestiary/miscellaneous/img/leafcrown-dryad.webp#right)  
+![Leafcrown Dryad](Compendium/bestiary/miscellaneous/img/leafcrown-dryad.webp#right|850)  
 
 ```statblock
 "name": "Leafcrown Dryad (TBVXII)"

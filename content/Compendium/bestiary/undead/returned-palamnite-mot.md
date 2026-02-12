@@ -13,7 +13,7 @@ aliases: ["Returned Palamnite"]
 # Returned Palamnite
 *Source: Mythic Odysseys of Theros p. 241*  
 
-![](Compendium/bestiary/undead/img/returned.webp#right)  
+![](Compendium/bestiary/undead/img/returned.webp#right|850)  
 Even death and the loss of their identities can't erase the rage that inspires Returned palamnites. These Returned led violent lives, existences filled with such pain and hatred that violence now suffuses their deathless bodies. Such makes them exceptionally dangerous to the living, as these aimless killers know only suffering and seek to spread it whenever the opportunity arises. While palamnites might wander the world as dangerous, lone murderers, many gravitate to Odunos, where they serve the vicious will of Tymaret the Murder King (see chapter 3).
 
 Returned have escaped the Underworld and dwell among the living once more, but their second lives are rarely what they expected—not that they remember what it was they expected. As a result of having followed the Path of Phenax (see chapter 4), the Returned lose their identities, which manifest as separate beings known as eidolons. The experience of escaping the Underworld also causes them to lose their faces, which become expressionless surfaces with empty eye sockets and gaping mouths. These blank surfaces they cover with distinctive golden masks.

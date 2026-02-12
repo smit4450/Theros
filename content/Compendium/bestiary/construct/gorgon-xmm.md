@@ -16,7 +16,7 @@ aliases: ["Gorgon"]
 # Gorgon
 *Source: Monster Manual (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/gorgons.webp#right)  
+![](Compendium/bestiary/construct/img/gorgons.webp#right|850)  
 Most gorgons are iron bulls wreathed in clouds of petrifying gas. Their metal plates vary in sheen and color, from sleek silver to pitted black. The oldest gorgons might be covered in rust, but this rarely impedes their abilities. These gorgons' stomping grounds are littered with the shattered remains of [petrified](Compendium/rules/conditions.md#Petrified) foes. Many gorgons outlive their creators by centuries, misleading some to believe these creations have natural origins and territories. Most such gorgons continue to follow age-old commands, guarding sites long fallen to ruin.
 
 ## Gorgons

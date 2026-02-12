@@ -15,7 +15,7 @@ aliases: ["Peryton"]
 # Peryton
 *Source: Monster Manual (2024) p. 238, FRHoF*  
 
-![](Compendium/bestiary/monstrosity/img/peryton.webp#right)  
+![](Compendium/bestiary/monstrosity/img/peryton.webp#right|850)  
 ## Peryton
 
 *Winged Heart Hunter*

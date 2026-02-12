@@ -14,7 +14,7 @@ aliases: ["Homunculus"]
 # Homunculus
 *Source: Monster Manual (2024) p. 172. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![Homunculi are as varied as...](Compendium/bestiary/construct/img/homunculus.webp#right)  
+![Homunculi are as varied as...](Compendium/bestiary/construct/img/homunculus.webp#right|850)  
 ## Homunculus
 
 *Winged Servant Given Magical Life*

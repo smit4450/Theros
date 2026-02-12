@@ -14,7 +14,7 @@ aliases: ["Copper Dragon Wyrmling"]
 # Copper Dragon Wyrmling
 *Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/copper-dragon-wyrmling.webp#right)  
+![](Compendium/bestiary/dragon/img/copper-dragon-wyrmling.webp#right|850)  
 Copper dragon wyrmlings venture into the world seeking to make friends and discover wonders. They sometimes get into trouble, but those who help them can become their friends for life.
 
 ## Copper Dragons

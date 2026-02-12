@@ -15,7 +15,7 @@ aliases: ["Flitterstep Eidolon"]
 
 
 
-![Flitterstep Eidolon](Compendium/bestiary/miscellaneous/img/flitterstep-eidolon.webp#right)  
+![Flitterstep Eidolon](Compendium/bestiary/miscellaneous/img/flitterstep-eidolon.webp#right|850)  
 
 ```statblock
 "name": "Flitterstep Eidolon (TBVXXII)"

@@ -15,7 +15,7 @@ aliases: ["Ancient Gold Dragon"]
 # Ancient Gold Dragon
 *Source: Monster Manual (2024) p. 146. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![The pure of heart have not...](Compendium/bestiary/dragon/img/ancient-gold-dragon.webp#right)  
+![The pure of heart have not...](Compendium/bestiary/dragon/img/ancient-gold-dragon.webp#right|850)  
 Ancient gold dragons are wise and mysterious. Many aid virtuous groups, guiding them in secret or patronizing them from afar. Only when stakes are at their highest do ancient gold dragons reveal themselves in all their majesty.
 
 ## Gold Dragons

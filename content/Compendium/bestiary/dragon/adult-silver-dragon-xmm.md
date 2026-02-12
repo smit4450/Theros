@@ -15,7 +15,7 @@ aliases: ["Adult Silver Dragon"]
 # Adult Silver Dragon
 *Source: Monster Manual (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An adult silver dragon rel...](Compendium/bestiary/dragon/img/silver-dragon.webp#right)  
+![An adult silver dragon rel...](Compendium/bestiary/dragon/img/silver-dragon.webp#right|850)  
 Adult silver dragons love to spend time among various peoples. Rather than manipulating politics directly, they support individuals who have ambitious goals or who popularize the return of great universities, inspiring athletics events or festivals, and other salutary civic institutions of the past. Silver dragons often surround themselves with like-minded allies and are watchful for hidden threats.
 
 ## Silver Dragons

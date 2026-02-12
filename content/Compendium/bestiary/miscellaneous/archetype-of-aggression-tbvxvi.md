@@ -16,7 +16,7 @@ aliases: ["Archetype of Aggression"]
 <blockquote><small>“Did Purphoros bless Maikal because of his rage? Or did Maikal’s rage blossom after he’d been blessed? Only the gods know.” —Eocles, oracle of Purphoros</small></blockquote>
 The archetype of aggression is a human warrior blessed by Purphoros. His blessing extends to his allies.
 
-![Archetype of Aggression](Compendium/bestiary/miscellaneous/img/archetype-of-aggression.webp#right)  
+![Archetype of Aggression](Compendium/bestiary/miscellaneous/img/archetype-of-aggression.webp#right|850)  
 
 ```statblock
 "name": "Archetype of Aggression (TBVXVI)"

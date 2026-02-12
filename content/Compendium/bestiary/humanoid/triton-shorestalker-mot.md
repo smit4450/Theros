@@ -13,7 +13,7 @@ aliases: ["Triton Shorestalker"]
 # Triton Shorestalker
 *Source: Mythic Odysseys of Theros p. 244*  
 
-![](Compendium/bestiary/humanoid/img/triton-shorestalker.webp#right)  
+![](Compendium/bestiary/humanoid/img/triton-shorestalker.webp#right|850)  
 Some insults don't wash away with the tides. When surface dwellers threaten the safety of triton communities, impede upon Thassa's holiest depths, or steal the treasures of the deep, triton shorestalkers seek vengeance. Using speed and poison harvested from deadly sea beasts, these triton assassins slip into shallow waters and strike when least expected. Often, surface dwellers don't even realize they've been attacked by shorestalkers, chalking disappearances and deaths up to the innumerable dangers of the sea.
 
 Clever, far-ranging people of the sea, tritons live rich lives unknown to most land-dwelling individuals. While the waves separate most tritons from land-dwellers, occasionally the inhabitants of the surface and the deep come into conflict. In such cases, tritons prove skilled at sabotaging ocean-going vessels, employing water-based magic, and otherwise whipping up the fury of the sea. Few dare insult tritons in their home environment, but those who do and survive often learn that the tritons' wrath doesn't end at the shore.

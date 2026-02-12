@@ -15,7 +15,7 @@ aliases: ["Siren of the Silent Song"]
 
 
 
-![Siren of the Silent Song](Compendium/bestiary/undead/img/siren-of-the-silent-song.webp#right)  
+![Siren of the Silent Song](Compendium/bestiary/undead/img/siren-of-the-silent-song.webp#right|850)  
 
 ```statblock
 "name": "Siren of the Silent Song (TBVXXII)"

@@ -14,7 +14,7 @@ aliases: ["Noble Prodigy"]
 # Noble Prodigy
 *Source: Monster Manual (2024) p. 227*  
 
-![](Compendium/bestiary/humanoid/img/nobles.webp#right)  
+![](Compendium/bestiary/humanoid/img/nobles.webp#right|850)  
 Noble prodigies trace their lineage to a legendary hero, a demigod, a dragon, or some other ancestor that grants them magical prowess. Among some nobles, the source of a prodigy's magic might be a family secret.
 
 ## Nobles

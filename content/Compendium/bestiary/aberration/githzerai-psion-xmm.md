@@ -15,7 +15,7 @@ aliases: ["Githzerai Psion"]
 # Githzerai Psion
 *Source: Monster Manual (2024) p. 137*  
 
-![](Compendium/bestiary/aberration/img/githzerai.webp#right)  
+![](Compendium/bestiary/aberration/img/githzerai.webp#right|850)  
 These powerful psions oversee githzerai sanctuaries, study enigmatic planar events, and lead rrakkma—hostile forays into mind flayer colonies to slay illithids and uncover secrets of how the ancient gith were transformed.
 
 ## Githzerai

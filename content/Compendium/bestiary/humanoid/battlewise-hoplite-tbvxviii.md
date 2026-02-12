@@ -15,7 +15,7 @@ aliases: ["Battlewise Hoplite"]
 
 
 
-![Battlewise Hoplite](Compendium/bestiary/humanoid/img/battlewise-hoplite.webp#right)  
+![Battlewise Hoplite](Compendium/bestiary/humanoid/img/battlewise-hoplite.webp#right|850)  
 
 ```statblock
 "name": "Battlewise Hoplite (TBVXVIII)"

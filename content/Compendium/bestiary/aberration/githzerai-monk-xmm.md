@@ -15,7 +15,7 @@ aliases: ["Githzerai Monk"]
 # Githzerai Monk
 *Source: Monster Manual (2024) p. 136*  
 
-![](Compendium/bestiary/aberration/img/githzerai.webp#right)  
+![](Compendium/bestiary/aberration/img/githzerai.webp#right|850)  
 Githzerai monks pursue control of their minds by honing their physical and psionic talents. They might be found beyond githzerai sanctuaries, testing themselves amid the dangerous extremes of the multiverse.
 
 ## Githzerai

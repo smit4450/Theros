@@ -15,7 +15,7 @@ aliases: ["Vampire Spawn"]
 # Vampire Spawn
 *Source: Monster Manual (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/vampire-spawn.webp#right)  
+![](Compendium/bestiary/undead/img/vampire-spawn.webp#right|850)  
 Vampire spawn are newly created vampires. They have yet to fully master their abilities, and many are consumed by their thirst for blood. Vampire spawn might serve more powerful vampires or pursue their own depraved agendas.
 
 ## Vampires

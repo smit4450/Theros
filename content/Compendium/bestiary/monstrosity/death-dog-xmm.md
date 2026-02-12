@@ -14,7 +14,7 @@ aliases: ["Death Dog"]
 # Death Dog
 *Source: Monster Manual (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/death-dog.webp#right)  
+![](Compendium/bestiary/monstrosity/img/death-dog.webp#right|850)  
 ## Death Dog
 
 *Two-Headed Spreader of Disease*

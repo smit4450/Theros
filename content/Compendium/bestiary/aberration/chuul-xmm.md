@@ -16,7 +16,7 @@ aliases: ["Chuul"]
 # Chuul
 *Source: Monster Manual (2024) p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/aberration/img/chuul.webp#right)  
+![](Compendium/bestiary/aberration/img/chuul.webp#right|850)  
 ## Chuul
 
 *Chitinous Servant of Primeval Powers*

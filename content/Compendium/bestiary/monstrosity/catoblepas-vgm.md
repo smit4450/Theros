@@ -14,7 +14,7 @@ aliases: ["Catoblepas"]
 # Catoblepas
 *Source: Volo's Guide to Monsters p. 129, Mythic Odysseys of Theros*  
 
-![](Compendium/bestiary/monstrosity/img/catoblepas.webp#right)  
+![](Compendium/bestiary/monstrosity/img/catoblepas.webp#right|850)  
 The catoblepas is as loathsome as the vile swamplands in which it lives. Like such wastelands, this conglomeration of bloated buffalo, dinosaur, warthog, and hippopotamus parts has few redeeming qualities. Few travelers willingly traverse the territory of a catoblepas.
 
 ## Animalistic Nature

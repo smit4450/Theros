@@ -19,7 +19,7 @@ They are close friends with satyrs and are frequent revelers with them.
 
 The spearpoint oread lives on a wooded mountain. Hunters seek out the spearpoint oreads before hunting boars or other game. They also know where to find precious rocks and minerals.
 
-![Spearpoint Oread](Compendium/bestiary/miscellaneous/img/spearpoint-oread.webp#right)  
+![Spearpoint Oread](Compendium/bestiary/miscellaneous/img/spearpoint-oread.webp#right|850)  
 
 ```statblock
 "name": "Spearpoint Oread (TBVXII)"

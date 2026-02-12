@@ -14,7 +14,7 @@ aliases: ["Guard"]
 # Guard
 *Source: Monster Manual (2024) p. 162, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/guards.webp#right)  
+![](Compendium/bestiary/humanoid/img/guards.webp#right|850)  
 Guards are perceptive, but most have little martial training. They might be bouncers, lookouts, members of a city watch, or other keen-eyed warriors.
 
 ## Guards

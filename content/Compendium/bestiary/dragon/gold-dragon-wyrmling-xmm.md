@@ -15,7 +15,7 @@ aliases: ["Gold Dragon Wyrmling"]
 # Gold Dragon Wyrmling
 *Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/gold-dragon-wyrmling.webp#right)  
+![](Compendium/bestiary/dragon/img/gold-dragon-wyrmling.webp#right|850)  
 Gold dragon wyrmlings learn much from their elders, then head off to save the world. Idealistic and curious, these wyrmlings seek to right obvious wrongs and make friends among those they aid.
 
 ## Gold Dragons

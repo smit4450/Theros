@@ -15,7 +15,7 @@ aliases: ["Sage of Hours"]
 
 
 
-![Sage of Hours](Compendium/bestiary/humanoid/img/sage-of-hours.webp#right)  
+![Sage of Hours](Compendium/bestiary/humanoid/img/sage-of-hours.webp#right|850)  
 
 ```statblock
 "name": "Sage of Hours (TBVXIV)"

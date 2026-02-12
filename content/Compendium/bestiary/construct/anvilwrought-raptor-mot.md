@@ -13,7 +13,7 @@ aliases: ["Anvilwrought Raptor"]
 # Anvilwrought Raptor
 *Source: Mythic Odysseys of Theros p. 209*  
 
-![](Compendium/bestiary/construct/img/anvilwrought-raptor.webp#right)  
+![](Compendium/bestiary/construct/img/anvilwrought-raptor.webp#right|850)  
 Prized among Meletis's thaumaturges, anvilwrought raptors are often crafted in the form of a hawk or an owl. Most serve as messengers and spies, flying over the busy streets or high over the land while carrying or seeking vital information for their masters.
 
 The first anvilwroughts were created by the god of the forge, Purphoros. He gave the secret of breathing life into these metal creatures to his most devoted followers so they could mimic his works and invent new forms at their own forges.

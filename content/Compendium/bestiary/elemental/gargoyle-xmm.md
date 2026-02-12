@@ -15,7 +15,7 @@ aliases: ["Gargoyle"]
 # Gargoyle
 *Source: Monster Manual (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/gargoyle.webp#right)  
+![](Compendium/bestiary/elemental/img/gargoyle.webp#right|850)  
 ## Gargoyle
 
 *Sculpted Sentinel Hidden in Plain Sight*

@@ -21,7 +21,7 @@ aliases: ["Swarm of Stirges"]
 # Swarm of Stirges
 *Source: Monster Manual (2024) p. 299*  
 
-![](Compendium/bestiary/monstrosity/img/stirges.webp#right)  
+![](Compendium/bestiary/monstrosity/img/stirges.webp#right|850)  
 Swarms of stirges sometimes form in swamps and Underdark caverns, draining livestock and any other creatures that can't escape them.
 
 ## Stirges

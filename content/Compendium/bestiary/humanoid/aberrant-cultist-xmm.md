@@ -14,7 +14,7 @@ aliases: ["Aberrant Cultist"]
 # Aberrant Cultist
 *Source: Monster Manual (2024) p. 86*  
 
-![](Compendium/bestiary/humanoid/img/aberrant-cultist.webp#right)  
+![](Compendium/bestiary/humanoid/img/aberrant-cultist.webp#right|850)  
 Aberrant cultists pursue mind-bending powers from alien forces. Aberrant cultists align with monsters such as aboleths and mind flayers or forces such as Cthulhu, Hadar, Ityak-Ortheel the Elf Eater, Nyarlathotep, malicious solar bodies, or entities from the Far Realm.
 
 ## Cultists

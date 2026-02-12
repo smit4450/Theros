@@ -17,7 +17,7 @@ aliases: ["Returned Phalanx"]
 
 Five Returned hoplites have taken the phalanx formation to a whole new level.
 
-![Returned Phalanx](Compendium/bestiary/undead/img/returned-phalanx.webp#right)  
+![Returned Phalanx](Compendium/bestiary/undead/img/returned-phalanx.webp#right|850)  
 
 ```statblock
 "name": "Returned Phalanx (TBVXXII)"

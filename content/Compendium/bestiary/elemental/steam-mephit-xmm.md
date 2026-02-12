@@ -15,7 +15,7 @@ aliases: ["Steam Mephit"]
 # Steam Mephit
 *Source: Monster Manual (2024) p. 208. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/smoke-and-steam-mephits.webp#right)  
+![](Compendium/bestiary/elemental/img/smoke-and-steam-mephits.webp#right|850)  
 These arrogant mephits are made of heat and vaporous water. They often trick creatures into doing them favors, then renege on promised rewards.
 
 ## Mephits

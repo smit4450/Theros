@@ -14,7 +14,7 @@ aliases: ["Kraken"]
 # Kraken
 *Source: Monster Manual (2024) p. 187, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/kraken.webp#right)  
+![](Compendium/bestiary/monstrosity/img/kraken.webp#right|850)  
 ## Kraken
 
 *Leviathan of Legend*

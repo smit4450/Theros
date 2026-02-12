@@ -14,7 +14,7 @@ aliases: ["Abominable Yeti"]
 # Abominable Yeti
 *Source: Monster Manual (2024) p. 340*  
 
-![](Compendium/bestiary/monstrosity/img/abominable-yeti.webp#right)  
+![](Compendium/bestiary/monstrosity/img/abominable-yeti.webp#right|850)  
 Giants even among their own intimidating kind, abominable yetis are stronger and bloodthirstier than their kin. They claim whole regions as their hunting grounds, and they might track trespassers for days. On sighting prey, abominable yetis fling boulders of ice and snow before closing to finish foes. In addition to their icy claws and gaze, they can exhale a blast of arctic cold.
 
 Abominable yetis dwell in frigid ruins or the deserted lairs of other monsters atop infamous peaks.

@@ -29,7 +29,7 @@ The region containing a legendary red dragon’s lair is warped by the dragon’
 
 If the dragon dies, these effects fade over the course of 1d10 days.
 
-![Spawn of Thraxes](Compendium/bestiary/dragon/img/spawn-of-thraxes.webp#right)  
+![Spawn of Thraxes](Compendium/bestiary/dragon/img/spawn-of-thraxes.webp#right|850)  
 
 ```statblock
 "name": "Spawn of Thraxes (TBVVI)"

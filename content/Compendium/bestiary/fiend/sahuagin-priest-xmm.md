@@ -15,7 +15,7 @@ aliases: ["Sahuagin Priest"]
 # Sahuagin Priest
 *Source: Monster Manual (2024) p. 265*  
 
-![](Compendium/bestiary/fiend/img/sahuagin.webp#right)  
+![](Compendium/bestiary/fiend/img/sahuagin.webp#right|850)  
 Sahuagin priests serve the will of Sekolah or other fiendish masters. They direct and support other sahuagin, and they consider every combatant that falls in battle—whether enemy or ally—a sacrifice to their fierce deities.
 
 ## Sahuagin

@@ -14,7 +14,7 @@ aliases: ["Shield Guardian"]
 # Shield Guardian
 *Source: Monster Manual (2024) p. 277, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/shield-guardian.webp#right)  
+![](Compendium/bestiary/construct/img/shield-guardian.webp#right|850)  
 ## Shield Guardian
 
 *Device-Controlled Magical Bodyguard*

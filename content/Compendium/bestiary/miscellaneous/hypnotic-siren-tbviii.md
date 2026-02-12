@@ -15,7 +15,7 @@ aliases: ["Hypnotic Siren"]
 
 
 
-![Hypnotic Siren](Compendium/bestiary/miscellaneous/img/hypnotic-siren.webp#right)  
+![Hypnotic Siren](Compendium/bestiary/miscellaneous/img/hypnotic-siren.webp#right|850)  
 
 ```statblock
 "name": "Hypnotic Siren (TBVIII)"

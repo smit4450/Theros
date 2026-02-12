@@ -16,7 +16,7 @@ aliases: ["Ettin"]
 # Ettin
 *Source: Monster Manual (2024) p. 116. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/giant/img/ettin.webp#right)  
+![](Compendium/bestiary/giant/img/ettin.webp#right|850)  
 ## Ettin
 
 *Quarrelsome Two-Headed Giant*

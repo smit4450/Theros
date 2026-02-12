@@ -14,7 +14,7 @@ aliases: ["Black Pudding"]
 # Black Pudding
 *Source: Monster Manual (2024) p. 42. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/ooze/img/black-pudding.webp#right)  
+![](Compendium/bestiary/ooze/img/black-pudding.webp#right|850)  
 ## Black Pudding
 
 *Divisible, Corrosive Blob*

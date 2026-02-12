@@ -14,7 +14,7 @@ aliases: ["Mage Apprentice"]
 # Mage Apprentice
 *Source: Monster Manual (2024) p. 198*  
 
-![](Compendium/bestiary/humanoid/img/mage-apprentice.webp#right)  
+![](Compendium/bestiary/humanoid/img/mage-apprentice.webp#right|850)  
 Mage apprentices are spellcasters of humble skill. Some are students of accomplished mages, while others have innate powers.
 
 ## Mages

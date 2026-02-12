@@ -14,7 +14,7 @@ aliases: ["Archmage"]
 # Archmage
 *Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/mages.webp#right)  
+![](Compendium/bestiary/humanoid/img/mages.webp#right|850)  
 Archmages have mastered incredible magical power. While some use their magic to protect the world, others become tyrants or pursue forbidden secrets. Many archmages retain magical servants and collect magic items and occult lore.
 
 ## Mages

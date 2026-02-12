@@ -14,7 +14,7 @@ aliases: ["Performer"]
 # Performer
 *Source: Monster Manual (2024) p. 236*  
 
-![](Compendium/bestiary/humanoid/img/performers.webp#right)  
+![](Compendium/bestiary/humanoid/img/performers.webp#right|850)  
 Common performers include traveling storytellers, tavern musicians, local entertainers, and chorus members performing with veteran artists. These performers might be self-taught or in the early years of formal training. Most have a modest level of celebrity and two or three instruments or talents at which they excel.
 
 ## Performers

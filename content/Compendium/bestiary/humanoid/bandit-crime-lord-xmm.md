@@ -14,7 +14,7 @@ aliases: ["Bandit Crime Lord"]
 # Bandit Crime Lord
 *Source: Monster Manual (2024) p. 28*  
 
-![](Compendium/bestiary/humanoid/img/bandit-crime-lord.webp#right)  
+![](Compendium/bestiary/humanoid/img/bandit-crime-lord.webp#right|850)  
 Bandit crime lords manipulate shadowy organizations and prioritize their own survival over any single lackey or plot.
 
 ## Bandits

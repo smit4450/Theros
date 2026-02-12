@@ -13,7 +13,7 @@ aliases: ["Blood-Toll Harpy"]
 # Blood-Toll Harpy
 *Source: Mythic Odysseys of Theros p. 227*  
 
-![](Compendium/bestiary/monstrosity/img/blood-toll-harpy.webp#right)  
+![](Compendium/bestiary/monstrosity/img/blood-toll-harpy.webp#right|850)  
 Murderous gangs of harpies collect in grim places across Theros, preying on any who pass by. Many merchants face regular losses at the harpies' claws, common casualties often referred to as a "blood toll."
 
 Cruel, corpse-eating creatures, harpies endlessly seek their next meal, careless of whether it comes from the living or the dead. With equal zeal, these vicious scavengers set upon travelers or claw open fresh graves, stripping bodies of riches and flesh. Then they carry back any treasures or appealing bones they find to reeking nests situated in cramped caves or rotten trees.

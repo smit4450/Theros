@@ -14,7 +14,7 @@ aliases: ["Piercer"]
 # Piercer
 *Source: Monster Manual (2024) p. 240*  
 
-![](Compendium/bestiary/aberration/img/piercer.webp#right)  
+![](Compendium/bestiary/aberration/img/piercer.webp#right|850)  
 ## Piercer
 
 *Aberrant Counterfeit Stalactite*

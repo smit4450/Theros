@@ -14,7 +14,7 @@ aliases: ["Questing Knight"]
 # Questing Knight
 *Source: Monster Manual (2024) p. 184*  
 
-![](Compendium/bestiary/humanoid/img/knights.webp#right)  
+![](Compendium/bestiary/humanoid/img/knights.webp#right|850)  
 Questing knights travel in pursuit of a cause, such as slaying a villain, defeating a monster, recovering an Artifact, or restoring their lost honor.
 
 ## Knights

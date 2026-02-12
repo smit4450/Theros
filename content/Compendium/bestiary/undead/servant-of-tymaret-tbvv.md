@@ -15,7 +15,7 @@ aliases: ["Servant of Tymaret"]
 
 <blockquote><small>Life is most precious to those who have already lost it.</small></blockquote>
 
-![Servant of Tymaret](Compendium/bestiary/undead/img/servant-of-tymaret.webp#right)  
+![Servant of Tymaret](Compendium/bestiary/undead/img/servant-of-tymaret.webp#right|850)  
 
 ```statblock
 "name": "Servant of Tymaret (TBVV)"

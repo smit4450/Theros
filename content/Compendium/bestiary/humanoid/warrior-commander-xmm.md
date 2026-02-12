@@ -14,7 +14,7 @@ aliases: ["Warrior Commander"]
 # Warrior Commander
 *Source: Monster Manual (2024) p. 321*  
 
-![An aasimar commander leads...](Compendium/bestiary/humanoid/img/warriors.webp#right)  
+![An aasimar commander leads...](Compendium/bestiary/humanoid/img/warriors.webp#right|850)  
 Skilled in both combat and leadership, warrior commanders overcome challenges through a combination of martial skill and clever tactics.
 
 ## Warriors

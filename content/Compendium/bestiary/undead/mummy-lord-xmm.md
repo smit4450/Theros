@@ -15,7 +15,7 @@ aliases: ["Mummy Lord"]
 # Mummy Lord
 *Source: Monster Manual (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/mummy-lord.webp#right)  
+![](Compendium/bestiary/undead/img/mummy-lord.webp#right|850)  
 Those desperate to escape death sometimes make terrible bargains with wicked deities. Devoting their hearts to evil forces, these villains gain power over death and a cursed immortality that binds their minds and spirits within a desiccated corpse. Freed from mortal concerns, these mummy lords pursue their obsessions across ages.
 
 Most mummy lords linger amid the ruins of ancient palaces or temples where they once held sway. Their age-old faith and ties to deathly forces grant them fearful magic, which they use to sow ruin and animate undead servants.

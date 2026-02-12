@@ -15,7 +15,7 @@ aliases: ["Nyxborn Wolf"]
 
 
 
-![Nyxborn Wolf](Compendium/bestiary/miscellaneous/img/nyxborn-wolf.webp#right)  
+![Nyxborn Wolf](Compendium/bestiary/miscellaneous/img/nyxborn-wolf.webp#right|850)  
 
 ```statblock
 "name": "Nyxborn Wolf (TBVXXIII)"

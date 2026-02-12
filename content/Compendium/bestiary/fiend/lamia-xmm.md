@@ -14,7 +14,7 @@ aliases: ["Lamia"]
 # Lamia
 *Source: Monster Manual (2024) p. 192. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/lamia.webp#right)  
+![](Compendium/bestiary/fiend/img/lamia.webp#right|850)  
 ## Lamia
 
 *Accursed Bargainer and Ruin Raider*

@@ -15,7 +15,7 @@ aliases: ["Ancient Blue Dragon"]
 # Ancient Blue Dragon
 *Source: Monster Manual (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![Shattering the enemy's def...](Compendium/bestiary/dragon/img/ancient-blue-dragon.webp#right)  
+![Shattering the enemy's def...](Compendium/bestiary/dragon/img/ancient-blue-dragon.webp#right|850)  
 Ancient blue dragons think beyond dominating groups of short-lived servants. Instead, they seek to claim their places above other dragons and their world's most powerful inhabitants. If world domination seems too tedious or cliché, these dragons might seek to seize control of extraplanar realms, multi-world empires, or forces of reality—like life, storms, or time itself.
 
 ## Blue Dragons

@@ -17,7 +17,7 @@ aliases: ["Ogre Zombie"]
 # Ogre Zombie
 *Source: Monster Manual (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/zombies.webp#right)  
+![](Compendium/bestiary/undead/img/zombies.webp#right|850)  
 Ogre zombies serve as tireless labor and undying weapons of war. These massive zombies possess the size and strength to break through barriers that repel smaller zombies.
 
 ## Zombies

@@ -15,7 +15,7 @@ aliases: ["Black Oak of Odunos"]
 
 <blockquote><small>Phenax promised the newly dead souls they would be spared from Erebos. In this, he did not lie.</small></blockquote>
 
-![Black Oak of Odunos](Compendium/bestiary/undead/img/black-oak-of-odunos.webp#right)  
+![Black Oak of Odunos](Compendium/bestiary/undead/img/black-oak-of-odunos.webp#right|850)  
 
 ```statblock
 "name": "Black Oak of Odunos (TBVV)"

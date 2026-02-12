@@ -13,7 +13,7 @@ aliases: ["Abhorrent Overlord"]
 # Abhorrent Overlord
 *Source: Mythic Odysseys of Theros p. 219*  
 
-![](Compendium/bestiary/fiend/img/abhorrent-overlord.webp#right)  
+![](Compendium/bestiary/fiend/img/abhorrent-overlord.webp#right|850)  
 Abhorrent overlords are gaunt, bipedal creatures whose gray, leathery skin is in stark contrast to the gleaming jewelry made of Underworld gold that they adorn themselves with. Their appetite for pain and death is eclipsed only by their greed; these fiends delight in searching out treasure and slaughtering all who stand in their way.
 ```statblock
 "name": "Abhorrent Overlord (MOT)"

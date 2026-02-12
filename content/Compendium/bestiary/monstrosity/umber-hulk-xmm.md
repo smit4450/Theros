@@ -14,7 +14,7 @@ aliases: ["Umber Hulk"]
 # Umber Hulk
 *Source: Monster Manual (2024) p. 312*  
 
-![](Compendium/bestiary/monstrosity/img/umber-hulk.webp#right)  
+![](Compendium/bestiary/monstrosity/img/umber-hulk.webp#right|850)  
 ## Umber Hulk
 
 *Burrowing Brute from Below*

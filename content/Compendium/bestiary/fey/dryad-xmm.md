@@ -14,7 +14,7 @@ aliases: ["Dryad"]
 # Dryad
 *Source: Monster Manual (2024) p. 107, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/dryad.webp#right)  
+![](Compendium/bestiary/fey/img/dryad.webp#right|850)  
 ## Dryad
 
 *Tree-Bound Guardian of Nature*

@@ -13,7 +13,7 @@ aliases: ["Aphemia"]
 # Aphemia
 *Source: Mythic Odysseys of Theros p. 226*  
 
-![](Compendium/bestiary/monstrosity/img/aphemia.webp#right)  
+![](Compendium/bestiary/monstrosity/img/aphemia.webp#right|850)  
 The notorious Nyxborn harpy Aphemia prowls the marshy wastes around the necropolis of Asphodel. Her shrill songs enthrall the necropolis's undead inhabitants, which she leads on raids to waylay unsuspecting travelers and settlements.
 
 Cruel, corpse-eating creatures, harpies endlessly seek their next meal, careless of whether it comes from the living or the dead. With equal zeal, these vicious scavengers set upon travelers or claw open fresh graves, stripping bodies of riches and flesh. Then they carry back any treasures or appealing bones they find to reeking nests situated in cramped caves or rotten trees.

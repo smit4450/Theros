@@ -15,7 +15,7 @@ aliases: ["Satyr Grovedancer"]
 
 <blockquote><small>“Some of my kin dance for themselves, without greater purpose. Nylea gives me purpose, and with it strength.”</small></blockquote>
 
-![Satyr Grovedancer](Compendium/bestiary/fey/img/satyr-grovedancer.webp#right)  
+![Satyr Grovedancer](Compendium/bestiary/fey/img/satyr-grovedancer.webp#right|850)  
 
 ```statblock
 "name": "Satyr Grovedancer (TBVXIII)"

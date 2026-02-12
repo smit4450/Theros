@@ -14,7 +14,7 @@ aliases: ["Roper"]
 # Roper
 *Source: Monster Manual (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/aberration/img/roper.webp#right)  
+![](Compendium/bestiary/aberration/img/roper.webp#right|850)  
 ## Roper
 
 *Tentacled Subterranean Trapper*

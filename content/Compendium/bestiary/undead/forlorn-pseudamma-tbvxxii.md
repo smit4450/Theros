@@ -15,7 +15,7 @@ aliases: ["Forlorn Pseudamma"]
 
 <small><blockquote>“More children taken. This is an evil we will track without mercy.” —Anthousa of Setessa</blockquote></small>
 
-![Forlorn Pseudamma](Compendium/bestiary/undead/img/forlorn-pseudamma.webp#right)  
+![Forlorn Pseudamma](Compendium/bestiary/undead/img/forlorn-pseudamma.webp#right|850)  
 
 ```statblock
 "name": "Forlorn Pseudamma (TBVXXII)"

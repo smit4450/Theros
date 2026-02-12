@@ -15,7 +15,7 @@ aliases: ["Phoenix"]
 # Phoenix
 *Source: Mordenkainen's Tome of Foes p. 199, Mythic Odysseys of Theros*  
 
-![](Compendium/bestiary/elemental/img/phoenix.webp#right)  
+![](Compendium/bestiary/elemental/img/phoenix.webp#right|850)  
 > [!quote] A quote from Mordenkainen  
 > 
 > To rise like a phoenix from the ashes—so many use that quaint colloquialism. Little do they know about the true horror of such a rebirth.

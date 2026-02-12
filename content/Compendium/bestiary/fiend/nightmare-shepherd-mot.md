@@ -13,7 +13,7 @@ aliases: ["Nightmare Shepherd"]
 # Nightmare Shepherd
 *Source: Mythic Odysseys of Theros p. 221*  
 
-![](Compendium/bestiary/fiend/img/nightmare-shepherd.webp#right)  
+![](Compendium/bestiary/fiend/img/nightmare-shepherd.webp#right|850)  
 A nightmare shepherd is a gaunt, ashen fiend with leathery wings. It carries a shepherd's crook, which it uses to direct a flock of wandering dead that it torments and occasionally feeds upon.
 ```statblock
 "name": "Nightmare Shepherd (MOT)"

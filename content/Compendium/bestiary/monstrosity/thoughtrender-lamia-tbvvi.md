@@ -15,7 +15,7 @@ aliases: ["Thoughtrender Lamia"]
 
 <small><blockquote>Some predators can sense fear in their prey, but the lamia is drawn to madness.</blockquote></small>
 
-![Thoughtrender Lamia](Compendium/bestiary/monstrosity/img/thoughtrender-lamia.webp#right)  
+![Thoughtrender Lamia](Compendium/bestiary/monstrosity/img/thoughtrender-lamia.webp#right|850)  
 
 ```statblock
 "name": "Thoughtrender Lamia (TBVVI)"

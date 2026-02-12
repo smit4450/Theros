@@ -15,7 +15,7 @@ aliases: ["Merfolk Skirmisher"]
 # Merfolk Skirmisher
 *Source: Monster Manual (2024) p. 209. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/merfolk.webp#right)  
+![](Compendium/bestiary/elemental/img/merfolk.webp#right|850)  
 Merfolk skirmishers defend their homes from aquatic monsters and invaders from the surface.
 
 ## Merfolk

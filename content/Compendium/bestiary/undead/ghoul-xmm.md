@@ -16,7 +16,7 @@ aliases: ["Ghoul"]
 # Ghoul
 *Source: Monster Manual (2024) p. 132. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/ghouls.webp#right)  
+![](Compendium/bestiary/undead/img/ghouls.webp#right|850)  
 Ghouls rise from the bodies of cannibals and villains with depraved hungers. They form packs out of shared voracity.
 
 ## Ghouls

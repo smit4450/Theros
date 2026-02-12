@@ -17,7 +17,7 @@ aliases: ["Centaur Trooper"]
 # Centaur Trooper
 *Source: Monster Manual (2024) p. 67, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/centaurs.webp#right)  
+![](Compendium/bestiary/fey/img/centaurs.webp#right|850)  
 Centaur troopers are knight-like guardians. Many are suspicious of non-Fey creatures.
 
 ## Centaurs

@@ -15,7 +15,7 @@ aliases: ["Hero of Iroas"]
 
 <small><blockquote>“My left has felled a cyclops. My right has slain a giant. I bring both to every fight.”</blockquote></small>
 
-![Hero of Iroas](Compendium/bestiary/humanoid/img/hero-of-iroas.webp#right)  
+![Hero of Iroas](Compendium/bestiary/humanoid/img/hero-of-iroas.webp#right|850)  
 
 ```statblock
 "name": "Hero of Iroas (TBVXVIII)"

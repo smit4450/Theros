@@ -15,7 +15,7 @@ aliases: ["Githyanki Warrior"]
 # Githyanki Warrior
 *Source: Monster Manual (2024) p. 134*  
 
-![](Compendium/bestiary/aberration/img/githyanki.webp#right)  
+![](Compendium/bestiary/aberration/img/githyanki.webp#right|850)  
 Githyanki warriors use psionic abilities to augment their battle prowess.
 
 ## Githyanki

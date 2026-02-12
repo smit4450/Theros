@@ -15,7 +15,7 @@ aliases: ["Green Slaad"]
 # Green Slaad
 *Source: Monster Manual (2024) p. 286*  
 
-![](Compendium/bestiary/aberration/img/green-slaad.webp#right)  
+![](Compendium/bestiary/aberration/img/green-slaad.webp#right|850)  
 Green slaadi come into being when the propagation methods of red or blue slaadi affect certain creatures capable of casting spells of level 3 or higher. Green slaadi are more intelligent than their blue and red brethren and often direct their kin to portals where gray slaadi have identified Humanoid communities ripe for invasion.
 
 ## Slaadi

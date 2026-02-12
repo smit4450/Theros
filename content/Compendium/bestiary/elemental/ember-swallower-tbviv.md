@@ -15,7 +15,7 @@ aliases: ["Ember Swallower"]
 
 A molten rock elemental in the shape of a manticore poses a serious threat.
 
-![Ember Swallower](Compendium/bestiary/elemental/img/ember-swallower.webp#right)  
+![Ember Swallower](Compendium/bestiary/elemental/img/ember-swallower.webp#right|850)  
 
 ```statblock
 "name": "Ember Swallower (TBVIV)"

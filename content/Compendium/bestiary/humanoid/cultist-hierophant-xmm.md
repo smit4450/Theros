@@ -14,7 +14,7 @@ aliases: ["Cultist Hierophant"]
 # Cultist Hierophant
 *Source: Monster Manual (2024) p. 85*  
 
-![](Compendium/bestiary/humanoid/img/cultist-hierophant.webp#right)  
+![](Compendium/bestiary/humanoid/img/cultist-hierophant.webp#right|850)  
 Cultist hierophants are leaders who oversee the lives of their underlings, dictate the edicts of the cult, and interpret their patron's will. They possess supernatural powers gained from the cult's patron, supernatural sources, or the power of their own fanaticism. These leaders know their cult's deepest secrets and often control strange relics, mystical sites, and monstrous servants.
 
 ## Cultists

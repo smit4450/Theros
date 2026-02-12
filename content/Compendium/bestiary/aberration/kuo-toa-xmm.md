@@ -15,7 +15,7 @@ aliases: ["Kuo-toa"]
 # Kuo-toa
 *Source: Monster Manual (2024) p. 189*  
 
-![](Compendium/bestiary/aberration/img/kuo-toa.webp#right)  
+![](Compendium/bestiary/aberration/img/kuo-toa.webp#right|850)  
 Kuo-toa loot ruins and raid communities near their dwellings in the Underdark. Their shields are coated in sticky slime, which they use to disarm their foes, and they employ slimy nets to entrap victims. They usually strive to take their enemies alive and drag captives to their hidden lairs.
 
 Most kuo-toa follow the orders of their more powerful leaders out of a combination of faith and fear. In rare cases, a kuo-toa might abandon its community to live as a hermit or wanderer. Such kuo-toa might know much about the Underdark, but they live in fear of the strange gods they forsook.

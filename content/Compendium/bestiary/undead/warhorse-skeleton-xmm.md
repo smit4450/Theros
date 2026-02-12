@@ -17,7 +17,7 @@ aliases: ["Warhorse Skeleton"]
 # Warhorse Skeleton
 *Source: Monster Manual (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
-![Adventurers face an onslau...](Compendium/bestiary/undead/img/skeletons.webp#right)  
+![Adventurers face an onslau...](Compendium/bestiary/undead/img/skeletons.webp#right|850)  
 Warhorse skeletons are obedient, supernatural steeds bearing the rotted remains of the barding they wore in life. They're often ridden by the corpses of their former riders.
 
 ## Skeletons

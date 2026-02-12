@@ -13,7 +13,7 @@ aliases: ["Ironscale Hydra"]
 # Ironscale Hydra
 *Source: Mythic Odysseys of Theros p. 231*  
 
-![](Compendium/bestiary/monstrosity/img/ironscale-hydra.webp#right)  
+![](Compendium/bestiary/monstrosity/img/ironscale-hydra.webp#right|850)  
 Five-headed ironscale hydras lurk in the wild places of the world, being common foes for heroes seeking to test their mettle against terrors worthy of the gods' notice. Most ironscale hydras inhabit lakes and boggy caverns, from which they hunt unwary creatures that come for a drink or swim.
 
 What krakens are to the sea and dragons are to the sky, hydras are to the lands of Theros. Various hydras dwell at the fringes of civilization, from the bog-dwelling hydras known across the multiverse to massive ironscale hydras that lurk in deep wildernesses. Beyond even these exist serpentine horrors born of the whims of foul gods, like the legendary hydra Polukranos.

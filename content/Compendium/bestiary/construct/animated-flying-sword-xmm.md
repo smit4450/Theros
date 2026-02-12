@@ -14,7 +14,7 @@ aliases: ["Animated Flying Sword"]
 # Animated Flying Sword
 *Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/animated-objects.webp#right)  
+![](Compendium/bestiary/construct/img/animated-objects.webp#right|850)  
 Animated flying swords move as if wielded by unseen warriors. Whether an animated blade is newly forged or a constellation of broken fragments, the object behaves the same. Other weapons from the "Player's Handbook" can also be animated and use game statistics similar to those here.
 
 ## Animated Objects

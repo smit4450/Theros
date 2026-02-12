@@ -15,7 +15,7 @@ aliases: ["Magma Mephit"]
 # Magma Mephit
 *Source: Monster Manual (2024) p. 207. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/mephits.webp#right)  
+![](Compendium/bestiary/elemental/img/mephits.webp#right|850)  
 These mephits embody the merging of earth and fire as glowing magma. They love melting things, but they loathe magmins and attack them on sight.
 
 ## Mephits

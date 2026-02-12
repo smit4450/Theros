@@ -15,7 +15,7 @@ aliases: ["Grick"]
 # Grick
 *Source: Monster Manual (2024) p. 158. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/aberration/img/gricks.webp#right)  
+![](Compendium/bestiary/aberration/img/gricks.webp#right|850)  
 Gricks tend to be solitary hunters, but young gricks might lurk near dozens of their brood mates for years before gradually drifting apart.
 
 ## Gricks

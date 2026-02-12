@@ -17,7 +17,7 @@ aliases: ["Zombie"]
 # Zombie
 *Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/zombies.webp#right)  
+![](Compendium/bestiary/undead/img/zombies.webp#right|850)  
 Humanoid zombies usually serve as guardians, servants, or soldiers for evil magic-users. In rare cases, foul magic might result in widespread reanimation of the dead, unleashing hordes of zombies to terrorize the living.
 
 ## Zombies

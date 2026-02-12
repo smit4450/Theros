@@ -14,7 +14,7 @@ aliases: ["Spy"]
 # Spy
 *Source: Monster Manual (2024) p. 295, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/spies.webp#right)  
+![](Compendium/bestiary/humanoid/img/spies.webp#right|850)  
 Spies use charm and deception to veil their true intentions. If forced into combat, they seek to end such conflicts quietly and decisively.
 
 ## Spies

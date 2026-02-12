@@ -16,7 +16,7 @@ aliases: ["Spirit Naga"]
 # Spirit Naga
 *Source: Monster Manual (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/spirit-naga.webp#right)  
+![](Compendium/bestiary/fiend/img/spirit-naga.webp#right|850)  
 ## Spirit Naga
 
 *Spiteful Serpentine Grudge Keeper*

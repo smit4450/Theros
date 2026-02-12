@@ -14,7 +14,7 @@ aliases: ["Archpriest"]
 # Archpriest
 *Source: Monster Manual (2024) p. 248*  
 
-![](Compendium/bestiary/humanoid/img/priests.webp#right)  
+![](Compendium/bestiary/humanoid/img/priests.webp#right|850)  
 By forging connections with divine beings and mastering mystical truths, archpriests become conduits for godly intentions and other supernatural forces. Their magic allows them to work wonders, whether to share the benevolence of their faiths or to vent divine wrath. Some archpriests attract vast followings as they claim to speak for divine forces, while others undertake personal spiritual journeys and seek to transcend mortal concerns.
 
 ## Priests

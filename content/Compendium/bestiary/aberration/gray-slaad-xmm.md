@@ -15,7 +15,7 @@ aliases: ["Gray Slaad"]
 # Gray Slaad
 *Source: Monster Manual (2024) p. 286*  
 
-![](Compendium/bestiary/aberration/img/gray-slaad.webp#right)  
+![](Compendium/bestiary/aberration/img/gray-slaad.webp#right|850)  
 Gray slaadi arise from green slaadi transformed by the Spawning Stone or slaad lords. They explore the planes, seeking Humanoid communities to invade near planar pathways.
 
 ## Slaadi

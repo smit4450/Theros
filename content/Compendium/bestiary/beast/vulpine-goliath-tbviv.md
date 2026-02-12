@@ -16,7 +16,7 @@ aliases: ["Vulpine Goliath"]
 <small><blockquote>“With a diet of hydras, giants, and massive serpents, anything would get that big.” —Corisande, Setessan hunter</blockquote></small>
 The vulpine goliath is a gigantic fox that can never be caught. It feeds on whatever it wants to.
 
-![Vulpine Goliath](Compendium/bestiary/beast/img/vulpine-goliath.webp#right)  
+![Vulpine Goliath](Compendium/bestiary/beast/img/vulpine-goliath.webp#right|850)  
 
 ```statblock
 "name": "Vulpine Goliath (TBVIV)"

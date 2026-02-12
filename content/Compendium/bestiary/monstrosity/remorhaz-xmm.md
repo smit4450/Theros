@@ -14,7 +14,7 @@ aliases: ["Remorhaz"]
 # Remorhaz
 *Source: Monster Manual (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/remorhazes.webp#right)  
+![](Compendium/bestiary/monstrosity/img/remorhazes.webp#right|850)  
 Full-grown remorhazes are single-minded ambush predators. They attempt to bite prey and trap it against their searing bodies, then swallow their meal whole. Remorhazes eat as much as they can, since they might go months without feeding.
 
 ## Remorhazes

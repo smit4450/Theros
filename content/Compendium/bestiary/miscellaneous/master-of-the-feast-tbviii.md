@@ -15,7 +15,7 @@ aliases: ["Master of the Feast"]
 
 <small><blockquote>Any pleasure, when taken to excess, becomes torment. It’s a formula that demons have perfected.</blockquote></small>
 
-![Master of the Feast](Compendium/bestiary/miscellaneous/img/master-of-the-feast.webp#right)  
+![Master of the Feast](Compendium/bestiary/miscellaneous/img/master-of-the-feast.webp#right|850)  
 
 ```statblock
 "name": "Master of the Feast (TBVIII)"

@@ -14,7 +14,7 @@ aliases: ["Myconid Spore Servant"]
 # Myconid Spore Servant
 *Source: Monster Manual (2024) p. 223*  
 
-![](Compendium/bestiary/plant/img/myconid-spore-servant.webp#right)  
+![](Compendium/bestiary/plant/img/myconid-spore-servant.webp#right|850)  
 Spore servants are corpses that have been overgrown and reanimated by a myconid sovereign's spores. These fungus-infested bodies are extensions of a myconid sovereign and obey its will.
 
 ## Myconids

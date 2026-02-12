@@ -15,7 +15,7 @@ aliases: ["God-Favored General"]
 
 <small><blockquote>Someone has to be first to attack, but he was not alone for long</blockquote></small>
 
-![God-Favored General](Compendium/bestiary/humanoid/img/god-favored-general.webp#right)  
+![God-Favored General](Compendium/bestiary/humanoid/img/god-favored-general.webp#right|850)  
 
 ```statblock
 "name": "God-Favored General (TBVXVIII)"

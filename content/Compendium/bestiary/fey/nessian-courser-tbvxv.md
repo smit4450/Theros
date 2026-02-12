@@ -17,7 +17,7 @@ aliases: ["Nessian Courser"]
 
 —The Theriad</small></blockquote>
 
-![Nessian Courser](Compendium/bestiary/fey/img/nessian-courser.webp#right)  
+![Nessian Courser](Compendium/bestiary/fey/img/nessian-courser.webp#right|850)  
 
 ```statblock
 "name": "Nessian Courser (TBVXV)"

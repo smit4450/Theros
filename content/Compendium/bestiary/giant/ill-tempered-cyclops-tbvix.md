@@ -15,7 +15,7 @@ aliases: ["Ill-Tempered Cyclops"]
 
 <blockquote><small>A cyclops has two moods: angry and asleep.</small></blockquote>
 
-![Ill-Tempered Cyclops](Compendium/bestiary/giant/img/ill-tempered-cyclops.webp#right)  
+![Ill-Tempered Cyclops](Compendium/bestiary/giant/img/ill-tempered-cyclops.webp#right|850)  
 
 ```statblock
 "name": "Ill-Tempered Cyclops (TBVIX)"

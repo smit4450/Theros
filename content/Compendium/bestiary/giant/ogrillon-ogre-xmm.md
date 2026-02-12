@@ -21,7 +21,7 @@ aliases: ["Ogrillon Ogre"]
 # Ogrillon Ogre
 *Source: Monster Manual (2024) p. 231*  
 
-![](Compendium/bestiary/giant/img/ogres.webp#right)  
+![](Compendium/bestiary/giant/img/ogres.webp#right|850)  
 Ogrillons arise from Humanoids cursed by foul magic or the will of wrathful deities. They appear similar to whoever they once were, but they grow to over 8 feet tall and gain ogre-like features. Ogrillons constantly seethe with supernatural anger, which they might struggle to control or purposefully vent on other creatures.
 
 ## Ogres

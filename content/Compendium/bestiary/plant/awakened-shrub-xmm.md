@@ -14,7 +14,7 @@ aliases: ["Awakened Shrub"]
 # Awakened Shrub
 *Source: Monster Manual (2024) p. 23, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/plant/img/awakened-shrub.webp#right)  
+![](Compendium/bestiary/plant/img/awakened-shrub.webp#right|850)  
 Awakened shrubs can be any sort of small plant, from forest bushes to clustered flowers. They often appear near awakened trees or in regions imbued with primal magic. Some have whimsical appearances or foliage resembling rudimentary facial features, while others look like animate topiary creatures.
 
 ## Awakened Plants

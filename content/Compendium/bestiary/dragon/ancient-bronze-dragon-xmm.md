@@ -14,7 +14,7 @@ aliases: ["Ancient Bronze Dragon"]
 # Ancient Bronze Dragon
 *Source: Monster Manual (2024) p. 60. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An ancient bronze dragon u...](Compendium/bestiary/dragon/img/ancient-bronze-dragon.webp#right)  
+![An ancient bronze dragon u...](Compendium/bestiary/dragon/img/ancient-bronze-dragon.webp#right|850)  
 Ancient bronze dragons develop dramatic patinas on their glimmering scales. These dragons strive to protect whole regions, continents, or planets from threats. They seek solutions to planes-spanning calamities or multiversal perils and oppose the evil of mighty chromatic dragons.
 
 ## Bronze Dragons

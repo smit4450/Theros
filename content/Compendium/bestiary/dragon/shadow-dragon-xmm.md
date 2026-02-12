@@ -16,7 +16,7 @@ aliases: ["Shadow Dragon"]
 # Shadow Dragon
 *Source: Monster Manual (2024) p. 275*  
 
-![A shadow dragon lurks amon...](Compendium/bestiary/dragon/img/shadow-dragons.webp#right)  
+![A shadow dragon lurks amon...](Compendium/bestiary/dragon/img/shadow-dragons.webp#right|850)  
 ## Shadow Dragons
 
 *Dragon Corrupted by Darkness*

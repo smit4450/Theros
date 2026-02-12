@@ -16,7 +16,7 @@ aliases: ["Satyr"]
 # Satyr
 *Source: Monster Manual (2024) p. 268, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/satyrs.webp#right)  
+![](Compendium/bestiary/fey/img/satyrs.webp#right|850)  
 Satyrs enjoy demonstrating their physicality through contests, evicting party poopers, and defending Fey realms.
 
 ## Satyrs

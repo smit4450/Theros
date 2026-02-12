@@ -14,7 +14,7 @@ aliases: ["Scarecrow"]
 # Scarecrow
 *Source: Monster Manual (2024) p. 269*  
 
-![](Compendium/bestiary/construct/img/scarecrow.webp#right)  
+![](Compendium/bestiary/construct/img/scarecrow.webp#right|850)  
 ## Scarecrow
 
 *Servant of Superstition*

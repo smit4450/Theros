@@ -20,7 +20,7 @@ aliases: ["Goblin Hexer"]
 # Goblin Hexer
 *Source: Monster Manual (2024) p. 143*  
 
-![A goblin boss, a goblin he...](Compendium/bestiary/fey/img/goblins.webp#right)  
+![A goblin boss, a goblin he...](Compendium/bestiary/fey/img/goblins.webp#right|850)  
 Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical, dressing and behaving in exaggerated mimicry of archmages.
 
 ## Goblins

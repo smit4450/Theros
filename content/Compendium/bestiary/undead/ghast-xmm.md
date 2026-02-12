@@ -16,7 +16,7 @@ aliases: ["Ghast"]
 # Ghast
 *Source: Monster Manual (2024) p. 130. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/ghasts.webp#right)  
+![](Compendium/bestiary/undead/img/ghasts.webp#right|850)  
 Ghasts frequently organize ghouls into packs to despoil crypts and steal the wealth within.
 
 ## Ghasts

@@ -15,7 +15,7 @@ aliases: ["Archetype of Imagination"]
 
 The archetype of imagination is a human wizard blessed by Ephara. His blessing extends to his allies.
 
-![Archetype of Imagination](Compendium/bestiary/miscellaneous/img/archetype-of-imagination.webp#right)  
+![Archetype of Imagination](Compendium/bestiary/miscellaneous/img/archetype-of-imagination.webp#right|850)  
 
 ```statblock
 "name": "Archetype of Imagination (TBVXVI)"

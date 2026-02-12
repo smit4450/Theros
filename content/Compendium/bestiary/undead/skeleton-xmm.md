@@ -17,7 +17,7 @@ aliases: ["Skeleton"]
 # Skeleton
 *Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![Adventurers face an onslau...](Compendium/bestiary/undead/img/skeletons.webp#right)  
+![Adventurers face an onslau...](Compendium/bestiary/undead/img/skeletons.webp#right|850)  
 Skeletons are reanimated Humanoid bones bearing the equipment they had in life. They have rudimentary faculties and greater agility than zombies and similar shambling corpses. While they aren't capable of creating plans of their own, they avoid obvious barriers and self-destructive situations.
 
 ## Skeletons

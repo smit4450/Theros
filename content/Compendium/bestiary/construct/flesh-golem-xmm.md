@@ -14,7 +14,7 @@ aliases: ["Flesh Golem"]
 # Flesh Golem
 *Source: Monster Manual (2024) p. 121. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/flesh-golem.webp#right)  
+![](Compendium/bestiary/construct/img/flesh-golem.webp#right|850)  
 ## Flesh Golem
 
 *Dead Flesh Given New Life*

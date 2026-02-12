@@ -14,7 +14,7 @@ aliases: ["Bandit Deceiver"]
 # Bandit Deceiver
 *Source: Monster Manual (2024) p. 28*  
 
-![](Compendium/bestiary/humanoid/img/bandits.webp#right)  
+![](Compendium/bestiary/humanoid/img/bandits.webp#right|850)  
 Bandit deceivers use magic to disguise their activities or create flashy distractions.
 
 ## Bandits

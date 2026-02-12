@@ -15,7 +15,7 @@ aliases: ["Courser of Kruphix"]
 
 
 
-![Courser of Kruphix](Compendium/bestiary/miscellaneous/img/courser-of-kruphix.webp#right)  
+![Courser of Kruphix](Compendium/bestiary/miscellaneous/img/courser-of-kruphix.webp#right|850)  
 
 ```statblock
 "name": "Courser of Kruphix (TBVIII)"

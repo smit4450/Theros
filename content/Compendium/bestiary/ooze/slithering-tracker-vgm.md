@@ -15,7 +15,7 @@ aliases: ["Slithering Tracker"]
 # Slithering Tracker
 *Source: Volo's Guide to Monsters p. 191, Mythic Odysseys of Theros*  
 
-![](Compendium/bestiary/ooze/img/slithering-tracker.webp#right)  
+![](Compendium/bestiary/ooze/img/slithering-tracker.webp#right|850)  
 The quest for revenge sometimes leads one to undergo a ritual whereby they transform into a body of semiliquid sentience known as a slithering tracker. Innocuous and insidious at the same time, a tracker flows into places where a normal creature can't go and brings its own brand of watery death down upon its quarry.
 
 ## Vengeance at Any Cost

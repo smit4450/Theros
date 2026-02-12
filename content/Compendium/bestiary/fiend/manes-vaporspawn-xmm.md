@@ -15,7 +15,7 @@ aliases: ["Manes Vaporspawn"]
 # Manes Vaporspawn
 *Source: Monster Manual (2024) p. 201*  
 
-![](Compendium/bestiary/fiend/img/manes.webp#right)  
+![](Compendium/bestiary/fiend/img/manes.webp#right|850)  
 Vaporspawn arise from evil souls shattered by unspeakable torments or the depredations of more powerful demons. These distorted manes undergo endless, painful contortions, and they share their torment with whatever creatures they encounter.
 
 ## Manes

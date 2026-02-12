@@ -15,7 +15,7 @@ aliases: ["Lizardfolk Geomancer"]
 # Lizardfolk Geomancer
 *Source: Monster Manual (2024) p. 197*  
 
-![](Compendium/bestiary/elemental/img/lizardfolk.webp#right)  
+![](Compendium/bestiary/elemental/img/lizardfolk.webp#right|850)  
 Lizardfolk geomancers draw magic from the natural world, using it to protect their people and territories.
 
 ## Lizardfolk

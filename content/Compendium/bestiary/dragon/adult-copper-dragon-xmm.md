@@ -14,7 +14,7 @@ aliases: ["Adult Copper Dragon"]
 # Adult Copper Dragon
 *Source: Monster Manual (2024) p. 79. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![Surrounded by guardians of...](Compendium/bestiary/dragon/img/copper-dragon.webp#right)  
+![Surrounded by guardians of...](Compendium/bestiary/dragon/img/copper-dragon.webp#right|850)  
 Adult copper dragons use their influence to better the world. With broad circles of friends, adult copper dragons delight in introducing people to one another and helping people find places where they can flourish. When disaster strikes, these dragons draw on their family of contacts to offer support, right wrongs, and rebuild stronger than before.
 
 ## Copper Dragons

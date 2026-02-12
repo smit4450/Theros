@@ -14,7 +14,7 @@ aliases: ["Scout Captain"]
 # Scout Captain
 *Source: Monster Manual (2024) p. 270*  
 
-![](Compendium/bestiary/humanoid/img/scouts.webp#right)  
+![](Compendium/bestiary/humanoid/img/scouts.webp#right|850)  
 Scout captains are experienced explorers and sharpshooters. They might lead bands of other scouts or disappear into the wilds alone for months at a time.
 
 ## Scouts

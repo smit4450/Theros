@@ -14,7 +14,7 @@ aliases: ["Bullywug Warrior"]
 # Bullywug Warrior
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/bullywugs.webp#right)  
+![](Compendium/bestiary/fey/img/bullywugs.webp#right|850)  
 Bullywug warriors are adept at moving through swamps and ambushing trespassers. They often work alongside packs of trained giant frogs.
 
 ## Bullywugs

@@ -14,7 +14,7 @@ aliases: ["Bandit"]
 # Bandit
 *Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/bandits.webp#right)  
+![](Compendium/bestiary/humanoid/img/bandits.webp#right|850)  
 Bandits are inexperienced ne'er-do-wells who typically follow the orders of higher-ranking bandits.
 
 ## Bandits

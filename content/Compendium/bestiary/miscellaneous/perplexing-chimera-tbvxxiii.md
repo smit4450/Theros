@@ -15,7 +15,7 @@ aliases: ["Perplexing Chimera"]
 
 The perplexing chimera is a nyxborn creature with no back end, only two front ends. Each end of it has the head of a mastiff, the talons of an eagle, and the mane of a lion. Its heads are in a constant power struggle against one another.
 
-![Perplexing Chimera](Compendium/bestiary/miscellaneous/img/perplexing-chimera.webp#right)  
+![Perplexing Chimera](Compendium/bestiary/miscellaneous/img/perplexing-chimera.webp#right|850)  
 
 ```statblock
 "name": "Perplexing Chimera (TBVXXIII)"

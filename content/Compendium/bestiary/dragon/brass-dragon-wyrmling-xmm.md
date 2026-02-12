@@ -14,7 +14,7 @@ aliases: ["Brass Dragon Wyrmling"]
 # Brass Dragon Wyrmling
 *Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/brass-dragon-wyrmling.webp#right)  
+![](Compendium/bestiary/dragon/img/brass-dragon-wyrmling.webp#right|850)  
 Brass dragon wyrmlings are relentlessly curious. These dragons eagerly engage approachable creatures and are quick to explore any place that has an interesting story. Once they hear tales of adventure, many are keen to start their own quests.
 
 ## Brass Dragons

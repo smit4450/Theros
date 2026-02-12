@@ -14,7 +14,7 @@ aliases: ["Quaggoth Thonot"]
 # Quaggoth Thonot
 *Source: Monster Manual (2024) p. 251*  
 
-![](Compendium/bestiary/monstrosity/img/quaggoth-thonot.webp#right)  
+![](Compendium/bestiary/monstrosity/img/quaggoth-thonot.webp#right|850)  
 Quaggoth thonots possess psionic abilities, which they use to give themselves an edge in combat and to coerce the service of other quaggoths.
 
 ## Quaggoths

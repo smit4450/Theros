@@ -14,7 +14,7 @@ aliases: ["Bullywug Bog Sage"]
 # Bullywug Bog Sage
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/bullywugs.webp#right)  
+![](Compendium/bestiary/fey/img/bullywugs.webp#right|850)  
 Bullywug bog sages channel the magic of the swamp to sicken foes and speak with plants.
 
 ## Bullywugs

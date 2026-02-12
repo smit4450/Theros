@@ -15,7 +15,7 @@ aliases: ["Doppelganger"]
 # Doppelganger
 *Source: Monster Manual (2024) p. 100, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/doppelganger.webp#right)  
+![](Compendium/bestiary/monstrosity/img/doppelganger.webp#right|850)  
 ## Doppelganger
 
 *Shape-Shifting Infiltrator*

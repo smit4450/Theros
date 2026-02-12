@@ -14,7 +14,7 @@ aliases: ["Quaggoth"]
 # Quaggoth
 *Source: Monster Manual (2024) p. 251*  
 
-![](Compendium/bestiary/monstrosity/img/quaggoths.webp#right)  
+![](Compendium/bestiary/monstrosity/img/quaggoths.webp#right|850)  
 For quaggoths, every fight means life or death. They battle with wild fury and do anything to survive.
 
 ## Quaggoths

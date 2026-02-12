@@ -15,7 +15,7 @@ aliases: ["Spirespine"]
 
 
 
-![Spirespine](Compendium/bestiary/miscellaneous/img/spirespine.webp#right)  
+![Spirespine](Compendium/bestiary/miscellaneous/img/spirespine.webp#right|850)  
 
 ```statblock
 "name": "Spirespine (TBVXXIII)"

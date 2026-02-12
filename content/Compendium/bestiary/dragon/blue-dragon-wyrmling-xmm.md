@@ -15,7 +15,7 @@ aliases: ["Blue Dragon Wyrmling"]
 # Blue Dragon Wyrmling
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/blue-dragon-wyrmling.webp#right)  
+![](Compendium/bestiary/dragon/img/blue-dragon-wyrmling.webp#right|850)  
 Blue dragon wyrmlings often serve other powerful creatures, learning the ways of control and establishing fearful reputations among weaker creatures. Many wyrmlings initially serve loyally, but as their powers grow to match their ambitions, they eventually betray or abandon their associates. These wyrmlings tempt small groups of creatures into their service, rewarding them with modest treasures and promises of future power.
 
 ## Blue Dragons

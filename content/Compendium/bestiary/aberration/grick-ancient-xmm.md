@@ -15,7 +15,7 @@ aliases: ["Grick Ancient"]
 # Grick Ancient
 *Source: Monster Manual (2024) p. 158*  
 
-![](Compendium/bestiary/aberration/img/gricks.webp#right)  
+![](Compendium/bestiary/aberration/img/gricks.webp#right|850)  
 Gricks can live for centuries, with the eldest growing to monstrous sizes. Grick ancients actively hunt more than they wait in ambush, and they have no qualms about devouring smaller gricks.
 
 ## Gricks

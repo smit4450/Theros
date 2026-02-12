@@ -14,7 +14,7 @@ aliases: ["Yeti"]
 # Yeti
 *Source: Monster Manual (2024) p. 339, FRHoF*  
 
-![](Compendium/bestiary/monstrosity/img/yeti.webp#right)  
+![](Compendium/bestiary/monstrosity/img/yeti.webp#right|850)  
 Yetis hunt alone or in small family groups. They avoid the settlements of other creatures but lurk near paths frequented by traders and herders to pick off unsuspecting prey. Yetis make their homes in icy caves near frozen peaks and at extremes where few dare travel.
 
 ## Yetis

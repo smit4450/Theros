@@ -13,7 +13,7 @@ aliases: ["Naiad"]
 # Naiad
 *Source: Mythic Odysseys of Theros p. 236*  
 
-![](Compendium/bestiary/fey/img/naiad.webp#right)  
+![](Compendium/bestiary/fey/img/naiad.webp#right|850)  
 Naiads live in and near water. They might be spotted among rivers and lakes, on isolated shores, or amid coral labyrinths and deep sea fumaroles. Wherever rivers and seas show their variety and force, naiads gather to revel in nature's might. Individual naiads often grow fixated with a single type or body of water, potentially preferring a deep sea trench, coastline, or river system above all others. Over time, such a resident nymph often becomes connected with their aquatic home through sightings and stories, becoming a guardian of the place and, in effect, a manifestation of its personality.
 
 ## Aquatic Collectors

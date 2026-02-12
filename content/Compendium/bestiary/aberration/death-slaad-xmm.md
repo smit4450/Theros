@@ -15,7 +15,7 @@ aliases: ["Death Slaad"]
 # Death Slaad
 *Source: Monster Manual (2024) p. 287*  
 
-![](Compendium/bestiary/aberration/img/death-slaad.webp#right)  
+![](Compendium/bestiary/aberration/img/death-slaad.webp#right|850)  
 Slaad lords create death slaadi by infusing gray slaadi with a portion of their chaotic energy. When groups of slaadi act deliberately, death slaadi are often behind their designs.
 
 ## Slaadi

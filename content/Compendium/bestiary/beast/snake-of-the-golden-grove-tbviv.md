@@ -21,7 +21,7 @@ Players familiar with this monster may find the choice too simple. In order to a
 <li>A quest goal might involve securing one or more golden apples or a molted skin of the snake.
 <li>A quest goal might involve vanquishing the guardian of the grove or protecting the guardian.
 
-![Snake of the Golden Grove](Compendium/bestiary/beast/img/snake-of-the-golden-grove.webp#right)  
+![Snake of the Golden Grove](Compendium/bestiary/beast/img/snake-of-the-golden-grove.webp#right|850)  
 
 ```statblock
 "name": "Snake of the Golden Grove (TBVIV)"

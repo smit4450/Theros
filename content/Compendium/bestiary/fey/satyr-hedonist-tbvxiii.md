@@ -15,7 +15,7 @@ aliases: ["Satyr Hedonist"]
 
 <small><blockquote>“Any festival you can walk away from wasn’t worth attending in the first place.”</blockquote></small>
 
-![Satyr Hedonist](Compendium/bestiary/fey/img/satyr-hedonist.webp#right)  
+![Satyr Hedonist](Compendium/bestiary/fey/img/satyr-hedonist.webp#right|850)  
 
 ```statblock
 "name": "Satyr Hedonist (TBVXIII)"

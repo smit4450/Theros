@@ -14,7 +14,7 @@ aliases: ["Minotaur of Baphomet"]
 # Minotaur of Baphomet
 *Source: Monster Manual (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/minotaur-of-baphomet.webp#right)  
+![](Compendium/bestiary/monstrosity/img/minotaur-of-baphomet.webp#right|850)  
 ## Minotaur of Baphomet
 
 *Berserker of the Demon Lord of Beasts*

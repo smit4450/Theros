@@ -15,7 +15,7 @@ aliases: ["Merfolk Wavebender"]
 # Merfolk Wavebender
 *Source: Monster Manual (2024) p. 209, FRHoF*  
 
-![](Compendium/bestiary/elemental/img/merfolk.webp#right)  
+![](Compendium/bestiary/elemental/img/merfolk.webp#right|850)  
 These merfolk mages use magic to manipulate water, storms, and sea creatures to aid them.
 
 ## Merfolk

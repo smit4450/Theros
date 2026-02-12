@@ -15,7 +15,7 @@ aliases: ["Githyanki Dracomancer"]
 # Githyanki Dracomancer
 *Source: Monster Manual (2024) p. 135*  
 
-![](Compendium/bestiary/aberration/img/githyanki.webp#right)  
+![](Compendium/bestiary/aberration/img/githyanki.webp#right|850)  
 One of Gith's last deeds was to forge an alliance between the githyanki and the dragon god Tiamat. Ever since, the Dragon Queen's red dragon consort, Ephelomon, and his kind have been allies of the githyanki. Githyanki dracomancers uphold this pact and cultivate magic talents that complement the might of red dragons.
 
 ## Githyanki

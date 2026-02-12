@@ -14,7 +14,7 @@ aliases: ["Tree Blight"]
 # Tree Blight
 *Source: Monster Manual (2024) p. 44*  
 
-![](Compendium/bestiary/plant/img/vine-needle-and-tree-blights.webp#right)  
+![](Compendium/bestiary/plant/img/vine-needle-and-tree-blights.webp#right|850)  
 Tree blights look like ancient, dead trees with gnarled limbs and splintered hollows. Imbued with bloodlust, these blights feed on the living. Evidence of their past meals is often tangled amid their branches and roots. Tree blights cooperate with other blights, but they attack other tree-shaped beings they encounter, such as awakened trees and treants.
 
 ## Blights

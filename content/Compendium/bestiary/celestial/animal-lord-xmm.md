@@ -15,7 +15,7 @@ aliases: ["Animal Lord"]
 # Animal Lord
 *Source: Monster Manual (2024) p. 15, FRHoF*  
 
-![](Compendium/bestiary/celestial/img/animal-lord.webp#right)  
+![](Compendium/bestiary/celestial/img/animal-lord.webp#right|850)  
 ## Animal Lord
 
 *Immortal Regent of the Wild*

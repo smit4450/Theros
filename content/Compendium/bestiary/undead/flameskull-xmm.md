@@ -14,7 +14,7 @@ aliases: ["Flameskull"]
 # Flameskull
 *Source: Monster Manual (2024) p. 120*  
 
-![](Compendium/bestiary/undead/img/flameskull.webp#right)  
+![](Compendium/bestiary/undead/img/flameskull.webp#right|850)  
 ## Flameskull
 
 *Skull Smoldering with Magical Obsession*

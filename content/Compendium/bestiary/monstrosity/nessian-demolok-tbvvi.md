@@ -21,7 +21,7 @@ Players familiar with this monster may find the choice too simple. In order to a
 <li>A quest goal might involve protecting or vanquishing a demolok.
 <li>A quest goal might involve protecting a child that is about to be sacrificed to the demolok.
 
-![Nessian Demolok](Compendium/bestiary/monstrosity/img/nessian-demolok.webp#right)  
+![Nessian Demolok](Compendium/bestiary/monstrosity/img/nessian-demolok.webp#right|850)  
 
 ```statblock
 "name": "Nessian Demolok (TBVVI)"

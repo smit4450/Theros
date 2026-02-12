@@ -14,7 +14,7 @@ aliases: ["Gulthias Blight"]
 # Gulthias Blight
 *Source: Monster Manual (2024) p. 45*  
 
-![](Compendium/bestiary/plant/img/gulthias-blight.webp#right)  
+![](Compendium/bestiary/plant/img/gulthias-blight.webp#right|850)  
 Ancient plants twisted by evil, Gulthias blights feed on blood and despoil the surrounding land, often giving rise to subservient blights. These cursed plants take their name from the story of their creation; the first of their kind was a tree that grew from the stake piercing the heart of the vampire Gulthias. These blights consider all creatures either servants or fertilizer for the blights' corruption.
 
 ## Blights

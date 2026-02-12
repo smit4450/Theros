@@ -15,7 +15,7 @@ aliases: ["Adult Gold Dragon"]
 # Adult Gold Dragon
 *Source: Monster Manual (2024) p. 145. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An adult gold dragon guard...](Compendium/bestiary/dragon/img/gold-dragon.webp#right)  
+![An adult gold dragon guard...](Compendium/bestiary/dragon/img/gold-dragon.webp#right|850)  
 Adult gold dragons act subtly, frequently changing their shape to resemble harmless animals or cultivating personas so they can pass as common people.
 
 ## Gold Dragons

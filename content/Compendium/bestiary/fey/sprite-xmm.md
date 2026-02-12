@@ -16,7 +16,7 @@ aliases: ["Sprite"]
 # Sprite
 *Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/sprite.webp#right)  
+![](Compendium/bestiary/fey/img/sprite.webp#right|850)  
 ## Sprite
 
 *Elusive Defender of Fey Realms*

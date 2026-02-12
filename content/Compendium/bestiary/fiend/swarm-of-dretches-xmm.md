@@ -15,7 +15,7 @@ aliases: ["Swarm of Dretches"]
 # Swarm of Dretches
 *Source: Monster Manual (2024) p. 104*  
 
-![](Compendium/bestiary/fiend/img/dretches.webp#right)  
+![](Compendium/bestiary/fiend/img/dretches.webp#right|850)  
 Swarms of dretches sometimes escape the Abyss onto other planes of existence, or they might be part of a demonic invasion. Without direction, these crude demons rampage and despoil with cruel enthusiasm.
 
 ## Dretches

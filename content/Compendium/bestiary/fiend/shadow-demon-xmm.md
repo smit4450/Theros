@@ -15,7 +15,7 @@ aliases: ["Shadow Demon"]
 # Shadow Demon
 *Source: Monster Manual (2024) p. 273, FRHoF*  
 
-![](Compendium/bestiary/fiend/img/shadow-demon.webp#right)  
+![](Compendium/bestiary/fiend/img/shadow-demon.webp#right|850)  
 ## Shadow Demon
 
 *Vestige of Evil*

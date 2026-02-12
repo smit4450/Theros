@@ -15,7 +15,7 @@ aliases: ["Bearded Devil"]
 # Bearded Devil
 *Source: Monster Manual (2024) p. 33. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/bearded-devil.webp#right)  
+![](Compendium/bestiary/fiend/img/bearded-devil.webp#right|850)  
 ## Bearded Devil
 
 *Devil of Force and Intimidation*

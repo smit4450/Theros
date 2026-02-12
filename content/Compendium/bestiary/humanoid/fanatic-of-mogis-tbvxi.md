@@ -15,7 +15,7 @@ aliases: ["Fanatic of Mogis"]
 
 
 
-![Fanatic of Mogis](Compendium/bestiary/humanoid/img/fanatic-of-mogis.webp#right)  
+![Fanatic of Mogis](Compendium/bestiary/humanoid/img/fanatic-of-mogis.webp#right|850)  
 
 ```statblock
 "name": "Fanatic of Mogis (TBVXI)"

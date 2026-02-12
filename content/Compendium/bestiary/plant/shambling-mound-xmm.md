@@ -15,7 +15,7 @@ aliases: ["Shambling Mound"]
 # Shambling Mound
 *Source: Monster Manual (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/plant/img/shambling-mound.webp#right)  
+![](Compendium/bestiary/plant/img/shambling-mound.webp#right|850)  
 ## Shambling Mound
 
 *Manifestation of Primeval Power*

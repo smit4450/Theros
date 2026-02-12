@@ -16,7 +16,7 @@ aliases: ["Weretiger"]
 # Weretiger
 *Source: Monster Manual (2024) p. 326. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/weretiger.webp#right)  
+![](Compendium/bestiary/monstrosity/img/weretiger.webp#right|850)  
 ## Weretiger
 
 *Changed by the Power of the Tiger*

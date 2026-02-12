@@ -14,7 +14,7 @@ aliases: ["Rust Monster"]
 # Rust Monster
 *Source: Monster Manual (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/rust-monster.webp#right)  
+![](Compendium/bestiary/monstrosity/img/rust-monster.webp#right|850)  
 ## Rust Monster
 
 *Corrosive, Equipment-Eating Scavenger*

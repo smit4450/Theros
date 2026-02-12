@@ -15,7 +15,7 @@ aliases: ["Ancient Red Dragon"]
 # Ancient Red Dragon
 *Source: Monster Manual (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![Even the bravest souls fle...](Compendium/bestiary/dragon/img/ancient-red-dragon.webp#right)  
+![Even the bravest souls fle...](Compendium/bestiary/dragon/img/ancient-red-dragon.webp#right|850)  
 Ancient red dragons number among the most feared and destructive beings in the multiverse. Few can withstand the wrath of an ancient red dragon that turns its mind toward devastation. These dragons' greed matches their ruinous potential, and they collect vast hoards studded with storied treasures and magic items. Their lairs frequently tap into volcanic depths and might pierce other planes of existence, bringing servants from the Elemental Plane of Fire or the Lower Planes into their service.
 
 ## Red Dragons

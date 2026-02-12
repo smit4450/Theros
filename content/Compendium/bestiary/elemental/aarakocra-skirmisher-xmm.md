@@ -16,7 +16,7 @@ aliases: ["Aarakocra Skirmisher"]
 # Aarakocra Skirmisher
 *Source: Monster Manual (2024) p. 10*  
 
-![](Compendium/bestiary/elemental/img/aarakocra.webp#right)  
+![](Compendium/bestiary/elemental/img/aarakocra.webp#right|850)  
 Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They often attack land-bound threats with diving strikes from above.
 
 ## Aarakocra

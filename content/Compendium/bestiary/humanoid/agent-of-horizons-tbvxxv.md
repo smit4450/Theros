@@ -15,7 +15,7 @@ aliases: ["Agent of Horizons"]
 
 <blockquote><small>The light in the woods just before dawn reveals a glimmering network of branches, roots, and spiderwebs. The acolytes of Kruphix walk this lattice unseen.</small></blockquote>
 
-![Agent of Horizons](Compendium/bestiary/humanoid/img/agent-of-horizons.webp#right)  
+![Agent of Horizons](Compendium/bestiary/humanoid/img/agent-of-horizons.webp#right|850)  
 
 ```statblock
 "name": "Agent of Horizons (TBVXXV)"

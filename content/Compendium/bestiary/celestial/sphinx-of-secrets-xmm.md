@@ -16,7 +16,7 @@ aliases: ["Sphinx of Secrets"]
 # Sphinx of Secrets
 *Source: Monster Manual (2024) p. 292*  
 
-![](Compendium/bestiary/celestial/img/sphinx-of-secrets.webp#right)  
+![](Compendium/bestiary/celestial/img/sphinx-of-secrets.webp#right|850)  
 Sphinxes of secrets are commonly associated with a site of great magic or learning. These immortal beings often outlive such locations, though, and might protect a site's ruins as they continue their own studies. Sphinxes of secrets fiercely guard their dwellings and research.
 
 ## Sphinxes

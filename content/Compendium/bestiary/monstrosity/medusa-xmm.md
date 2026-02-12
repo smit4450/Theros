@@ -14,7 +14,7 @@ aliases: ["Medusa"]
 # Medusa
 *Source: Monster Manual (2024) p. 205. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/medusa.webp#right)  
+![](Compendium/bestiary/monstrosity/img/medusa.webp#right|850)  
 ## Medusa
 
 *Snake-Haired Recluse with a Petrifying Gaze*

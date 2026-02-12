@@ -14,7 +14,7 @@ aliases: ["Cloud Giant"]
 # Cloud Giant
 *Source: Monster Manual (2024) p. 74. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/giant/img/cloud-giant.webp#right)  
+![](Compendium/bestiary/giant/img/cloud-giant.webp#right|850)  
 ## Cloud Giant
 
 *Giant of the Loftiest Heights*

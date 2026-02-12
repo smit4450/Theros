@@ -14,7 +14,7 @@ aliases: ["Bronze Dragon Wyrmling"]
 # Bronze Dragon Wyrmling
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/bronze-dragon-wyrmling.webp#right)  
+![](Compendium/bestiary/dragon/img/bronze-dragon-wyrmling.webp#right|850)  
 Bronze dragon wyrmlings believe they can solve any problems, and they seek to prove it. They often fixate on local challenges, such as drought or rampant banditry. While their zeal can be charming, these wyrmlings can get in over their heads and might then need help correcting mistakes.
 
 ## Bronze Dragons

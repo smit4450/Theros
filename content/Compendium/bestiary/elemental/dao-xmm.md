@@ -16,7 +16,7 @@ aliases: ["Dao"]
 # Dao
 *Source: Monster Manual (2024) p. 89*  
 
-![](Compendium/bestiary/elemental/img/dao.webp#right)  
+![](Compendium/bestiary/elemental/img/dao.webp#right|850)  
 ## Dao
 
 *Genie of the Earth*

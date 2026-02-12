@@ -15,7 +15,7 @@ aliases: ["Goristro"]
 # Goristro
 *Source: Monster Manual (2024) p. 150*  
 
-![](Compendium/bestiary/fiend/img/goristro.webp#right)  
+![](Compendium/bestiary/fiend/img/goristro.webp#right|850)  
 ## Goristro
 
 *Demon of Disaster*

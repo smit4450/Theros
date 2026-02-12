@@ -15,7 +15,7 @@ aliases: ["Meletis Astronomer"]
 
 
 
-![Meletis Astronomer](Compendium/bestiary/humanoid/img/meletis-astronomer.webp#right)  
+![Meletis Astronomer](Compendium/bestiary/humanoid/img/meletis-astronomer.webp#right|850)  
 
 ```statblock
 "name": "Meletis Astronomer (TBVXIV)"

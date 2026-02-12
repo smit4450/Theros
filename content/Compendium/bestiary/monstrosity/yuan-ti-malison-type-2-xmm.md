@@ -17,7 +17,7 @@ aliases: ["Yuan-ti Malison (Type 2)"]
 # Yuan-ti Malison (Type 2)
 *Source: Monster Manual (2024) p. 343*  
 
-![Yuan-Ti Malison type 1 (left) and type 2 (right)](Compendium/bestiary/monstrosity/img/yuan-ti-malison-type-1-and-yuan-ti-malison-type-2.webp#right)  
+![Yuan-Ti Malison type 1 (left) and type 2 (right)](Compendium/bestiary/monstrosity/img/yuan-ti-malison-type-1-and-yuan-ti-malison-type-2.webp#right|850)  
 Malisons exhibit snakelike features that make them deadly in combat.
 
 - **Type 2.** These malisons have human bodies, but they've replaced their arms with snakes.  

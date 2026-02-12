@@ -15,7 +15,7 @@ aliases: ["Voyaging Satyr"]
 
 <blockquote><small>“None can own the land’s bounty. The gods made this world for all to share its riches. And I’m not just saying that because you caught me stealing your fruit.”</small></blockquote>
 
-![Voyaging Satyr](Compendium/bestiary/fey/img/voyaging-satyr.webp#right)  
+![Voyaging Satyr](Compendium/bestiary/fey/img/voyaging-satyr.webp#right|850)  
 
 ```statblock
 "name": "Voyaging Satyr (TBVXIII)"

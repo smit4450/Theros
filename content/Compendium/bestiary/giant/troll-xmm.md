@@ -19,7 +19,7 @@ aliases: ["Troll"]
 # Troll
 *Source: Monster Manual (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/giant/img/troll.webp#right)  
+![](Compendium/bestiary/giant/img/troll.webp#right|850)  
 ## Troll
 
 *Loathsome, Regenerating Lurker*

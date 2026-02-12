@@ -15,7 +15,7 @@ aliases: ["Balor"]
 # Balor
 *Source: Monster Manual (2024) p. 26. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/balor.webp#right)  
+![](Compendium/bestiary/fiend/img/balor.webp#right|850)  
 ## Balor
 
 *Demon of Overwhelming Rage*

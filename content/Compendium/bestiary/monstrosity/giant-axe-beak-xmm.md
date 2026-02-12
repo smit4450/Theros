@@ -16,7 +16,7 @@ aliases: ["Giant Axe Beak"]
 # Giant Axe Beak
 *Source: Monster Manual (2024) p. 24*  
 
-![](Compendium/bestiary/monstrosity/img/axe-beak.webp#right)  
+![](Compendium/bestiary/monstrosity/img/axe-beak.webp#right|850)  
 Giant axe beaks typically dwell in secluded, primeval realms, such as isolated islands or underground wildernesses. They often compete with dinosaurs and other giant beasts for territory.
 
 ## Axe Beaks

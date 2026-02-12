@@ -14,7 +14,7 @@ aliases: ["Empyrean Iota"]
 # Empyrean Iota
 *Source: Monster Manual (2024) p. 112*  
 
-![](Compendium/bestiary/miscellaneous/img/empyreans.webp#right)  
+![](Compendium/bestiary/miscellaneous/img/empyreans.webp#right|850)  
 Empyrean iotas are the thoughts, memories, or indirect attentions of deities personified and given a measure of autonomy. Resembling floating glyphs, motes of color, icons of divinity, or stranger shapes, these beings are messengers of the gods and aides to those gods' servants. Iotas have their own knowledge and personalities, though they might know little more than the realms and wishes of their creators.
 
 ## Empyreans

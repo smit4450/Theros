@@ -15,7 +15,7 @@ aliases: ["Ravenous Leucrocota"]
 
 <blockquote><small>Hunger makes a leucrocota dangerous. A full belly makes it angry and dangerous.</small></blockquote>
 
-![Ravenous Leucrocota](Compendium/bestiary/monstrosity/img/ravenous-leucrocota.webp#right)  
+![Ravenous Leucrocota](Compendium/bestiary/monstrosity/img/ravenous-leucrocota.webp#right|850)  
 
 ```statblock
 "name": "Ravenous Leucrocota (TBVIV)"

@@ -14,7 +14,7 @@ aliases: ["Mind Flayer"]
 # Mind Flayer
 *Source: Monster Manual (2024) p. 214*  
 
-![](Compendium/bestiary/aberration/img/mind-flayers.webp#right)  
+![](Compendium/bestiary/aberration/img/mind-flayers.webp#right|850)  
 A mind flayer's hunger for brains is outmeasured only by its thirst for dominance, and it embraces any plot that allows it to indulge both.
 
 ## Mind Flayers

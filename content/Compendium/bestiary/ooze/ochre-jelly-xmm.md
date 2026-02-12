@@ -14,7 +14,7 @@ aliases: ["Ochre Jelly"]
 # Ochre Jelly
 *Source: Monster Manual (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/ooze/img/ochre-jelly.webp#right)  
+![](Compendium/bestiary/ooze/img/ochre-jelly.webp#right|850)  
 ## Ochre Jelly
 
 *Multiplying Amoeboid Hunter*

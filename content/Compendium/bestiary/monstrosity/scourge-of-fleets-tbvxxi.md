@@ -15,7 +15,7 @@ aliases: ["Scourge of Fleets"]
 
 
 
-![Scourge of Fleets](Compendium/bestiary/monstrosity/img/scourge-of-fleets.webp#right)  
+![Scourge of Fleets](Compendium/bestiary/monstrosity/img/scourge-of-fleets.webp#right|850)  
 
 ```statblock
 "name": "Scourge of Fleets (TBVXXI)"

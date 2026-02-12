@@ -15,7 +15,7 @@ aliases: ["Ashiok's Adept"]
 
 <blockquote><small>“Every nightmare is a caged bird that yearns to be set free.” —Ashiok, Nightmare Weaver</small></blockquote>
 
-![Ashiok's Adept](Compendium/bestiary/humanoid/img/ashioks-adept.webp#right)  
+![Ashiok's Adept](Compendium/bestiary/humanoid/img/ashioks-adept.webp#right|850)  
 
 ```statblock
 "name": "Ashiok's Adept (TBVXIV)"

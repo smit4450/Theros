@@ -14,7 +14,7 @@ aliases: ["Violet Fungus"]
 # Violet Fungus
 *Source: Monster Manual (2024) p. 126. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/plant/img/fungi.webp#right)  
+![](Compendium/bestiary/plant/img/fungi.webp#right|850)  
 Slow but mobile, violet fungi rot any flesh they touch with their lashing tendrils.
 
 ## Fungi

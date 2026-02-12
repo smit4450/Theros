@@ -21,7 +21,7 @@ aliases: ["Stirge"]
 # Stirge
 *Source: Monster Manual (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/stirges.webp#right)  
+![](Compendium/bestiary/monstrosity/img/stirges.webp#right|850)  
 A single stirge is usually little more than an annoyance, but several can be deadly if they attach faster than a victim can remove them.
 
 ## Stirges

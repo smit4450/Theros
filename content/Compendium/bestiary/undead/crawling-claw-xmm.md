@@ -14,7 +14,7 @@ aliases: ["Crawling Claw"]
 # Crawling Claw
 *Source: Monster Manual (2024) p. 83*  
 
-![](Compendium/bestiary/undead/img/crawling-claws.webp#right)  
+![](Compendium/bestiary/undead/img/crawling-claws.webp#right|850)  
 Lone crawling claws can continue killing sprees they perpetrated in life. Some recklessly attack the living, while others pursue specific victims. In rare cases, a crawling claw wreaks mayhem while the rest of its body still lives, with the original creature potentially unaware of its severed hand's crimes.
 
 ## Crawling Claws

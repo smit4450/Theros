@@ -17,7 +17,7 @@ aliases: ["Minotaur Skullcleaver"]
 
 —Kleon the Iron-Booted</small></blockquote>
 
-![Minotaur Skullcleaver](Compendium/bestiary/humanoid/img/minotaur-skullcleaver.webp#right)  
+![Minotaur Skullcleaver](Compendium/bestiary/humanoid/img/minotaur-skullcleaver.webp#right|850)  
 
 ```statblock
 "name": "Minotaur Skullcleaver (TBVXI)"

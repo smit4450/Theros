@@ -14,7 +14,7 @@ aliases: ["Blob of Annihilation"]
 # Blob of Annihilation
 *Source: Monster Manual (2024) p. 47*  
 
-![](Compendium/bestiary/ooze/img/blob-of-annihilation.webp#right)  
+![](Compendium/bestiary/ooze/img/blob-of-annihilation.webp#right|850)  
 ## Blob of Annihilation
 
 *All-Consuming Cosmic Entropy Unleashed*

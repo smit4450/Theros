@@ -15,7 +15,7 @@ aliases: ["Ultroloth"]
 # Ultroloth
 *Source: Monster Manual (2024) p. 311*  
 
-![](Compendium/bestiary/fiend/img/ultroloth.webp#right)  
+![](Compendium/bestiary/fiend/img/ultroloth.webp#right|850)  
 ## Ultroloth
 
 *Yugoloth of Conspiracy and Control*

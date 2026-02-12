@@ -13,7 +13,7 @@ aliases: ["Arasta"]
 # Arasta
 *Source: Mythic Odysseys of Theros p. 248*  
 
-![](Compendium/bestiary/npc/img/arasta.webp#right)  
+![](Compendium/bestiary/npc/img/arasta.webp#right|850)  
 A victim of the gods' petty rivalries, Arasta was once one of Nylea's most beloved dryad companions. Phenax's bitterness saw her transformed into an arachnid monstrosity and driven into the darkest depths of the Nessian Wood. Now she broods on her unjust fate and the fickleness of the gods who left her cursed with monstrous immortality.
 
 Arasta appears as a gigantic spiderlike creature, her few humanoid features made monstrous by cruel magic and ages of hatred. Webs fill her lair deep in the Nessian Wood, sticky strands made not of silk but of her own endless hair. In her darkened realm, Arasta broods on her hatred of the gods and their servants. She doesn't do so alone, though, as innumerable arachnids fawn over her, serving as her eyes throughout the wilderness, disposing of victims trapped within her hair, and sacrificing themselves in her defense if they must.

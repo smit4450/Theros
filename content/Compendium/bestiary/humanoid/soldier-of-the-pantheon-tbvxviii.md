@@ -15,7 +15,7 @@ aliases: ["Soldier of the Pantheon"]
 
 <small><blockquote>"I hear the gods' voices in my dreams each night, and I offer bloody trophies on their altars each day."</blockquote></small>
 
-![Soldier of the Pantheon](Compendium/bestiary/humanoid/img/soldier-of-the-pantheon.webp#right)  
+![Soldier of the Pantheon](Compendium/bestiary/humanoid/img/soldier-of-the-pantheon.webp#right|850)  
 
 ```statblock
 "name": "Soldier of the Pantheon (TBVXVIII)"

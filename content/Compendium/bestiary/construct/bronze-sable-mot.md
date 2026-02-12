@@ -13,7 +13,7 @@ aliases: ["Bronze Sable"]
 # Bronze Sable
 *Source: Mythic Odysseys of Theros p. 210*  
 
-![](Compendium/bestiary/construct/img/bronze-sable.webp#right)  
+![](Compendium/bestiary/construct/img/bronze-sable.webp#right|850)  
 The first bronze sables were presented to Karametra as a gift by Purphoros to serve primarily as guardians in Karametra's temples. But as others have been created, some have been used as nimble scouts, always on alert for danger.
 
 The first anvilwroughts were created by the god of the forge, Purphoros. He gave the secret of breathing life into these metal creatures to his most devoted followers so they could mimic his works and invent new forms at their own forges.

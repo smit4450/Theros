@@ -14,7 +14,7 @@ aliases: ["Displacer Beast"]
 # Displacer Beast
 *Source: Monster Manual (2024) p. 98, FRHoF*  
 
-![](Compendium/bestiary/monstrosity/img/displacer-beast.webp#right)  
+![](Compendium/bestiary/monstrosity/img/displacer-beast.webp#right|850)  
 ## Displacer Beast
 
 *Deceptive Feline Stalker*

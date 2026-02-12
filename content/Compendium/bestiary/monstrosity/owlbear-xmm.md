@@ -14,7 +14,7 @@ aliases: ["Owlbear"]
 # Owlbear
 *Source: Monster Manual (2024) p. 234, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/owlbears.webp#right)  
+![](Compendium/bestiary/monstrosity/img/owlbears.webp#right|850)  
 Owlbears are tenacious hunters that might track prey over miles and rarely give up their hunts.
 
 ## Owlbears

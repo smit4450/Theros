@@ -17,7 +17,7 @@ aliases: ["Coastline Chimera"]
 
 The coastline chimera has the body and head of a lion, the wings of an eagle, a second ram head, and a serpent for its tail.
 
-![Coastline Chimera](Compendium/bestiary/monstrosity/img/coastline-chimera.webp#right)  
+![Coastline Chimera](Compendium/bestiary/monstrosity/img/coastline-chimera.webp#right|850)  
 
 ```statblock
 "name": "Coastline Chimera (TBVI)"

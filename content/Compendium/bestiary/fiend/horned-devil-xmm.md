@@ -15,7 +15,7 @@ aliases: ["Horned Devil"]
 # Horned Devil
 *Source: Monster Manual (2024) p. 174, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/horned-devil.webp#right)  
+![](Compendium/bestiary/fiend/img/horned-devil.webp#right|850)  
 ## Horned Devil
 
 *Devil of Hatred and Subjugation*

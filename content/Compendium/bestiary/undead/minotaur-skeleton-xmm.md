@@ -17,7 +17,7 @@ aliases: ["Minotaur Skeleton"]
 # Minotaur Skeleton
 *Source: Monster Manual (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![Adventurers face an onslau...](Compendium/bestiary/undead/img/skeletons.webp#right)  
+![Adventurers face an onslau...](Compendium/bestiary/undead/img/skeletons.webp#right|850)  
 Minotaur skeletons are the reanimated remains of minotaurs or the skeletons of multiple creatures merged into a minotaur-like shape. These hulking skeletons have greater speed and might than smaller skeletons. They menace the living with their horns and mighty greataxes.
 
 ## Skeletons

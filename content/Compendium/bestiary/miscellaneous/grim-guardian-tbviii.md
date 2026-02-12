@@ -15,7 +15,7 @@ aliases: ["Grim Guardian"]
 
 <blockquote><small>Occasionally the living wander to the Rivers, but the wardens of Athreos ensure that only the dead pass.</small></blockquote>
 
-![Grim Guardian](Compendium/bestiary/miscellaneous/img/grim-guardian.webp#right)  
+![Grim Guardian](Compendium/bestiary/miscellaneous/img/grim-guardian.webp#right|850)  
 
 ```statblock
 "name": "Grim Guardian (TBVIII)"

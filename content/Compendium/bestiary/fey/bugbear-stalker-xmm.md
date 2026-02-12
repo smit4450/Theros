@@ -18,7 +18,7 @@ aliases: ["Bugbear Stalker"]
 # Bugbear Stalker
 *Source: Monster Manual (2024) p. 62. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/bugbears.webp#right)  
+![](Compendium/bestiary/fey/img/bugbears.webp#right|850)  
 Bugbear stalkers frequently take their victims hostage, relishing opportunities to imprison and terrorize other creatures.
 
 ## Bugbears

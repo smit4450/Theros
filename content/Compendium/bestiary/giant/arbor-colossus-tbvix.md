@@ -15,7 +15,7 @@ aliases: ["Arbor Colossus"]
 
 
 
-![Arbor Colossus](Compendium/bestiary/giant/img/arbor-colossus.webp#right)  
+![Arbor Colossus](Compendium/bestiary/giant/img/arbor-colossus.webp#right|850)  
 
 ```statblock
 "name": "Arbor Colossus (TBVIX)"

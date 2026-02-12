@@ -14,7 +14,7 @@ aliases: ["Violet Fungus Necrohulk"]
 # Violet Fungus Necrohulk
 *Source: Monster Manual (2024) p. 126*  
 
-![](Compendium/bestiary/plant/img/violet-fungus-necrohulk.webp#right)  
+![](Compendium/bestiary/plant/img/violet-fungus-necrohulk.webp#right|850)  
 A violet fungus necrohulk forms when a violet fungus colony infests and animates an ample heap of decay. This necrohulk attacks prey and spreads fungal spores for the colony.
 
 ## Fungi

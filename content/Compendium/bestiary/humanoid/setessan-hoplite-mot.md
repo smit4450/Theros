@@ -13,7 +13,7 @@ aliases: ["Setessan Hoplite"]
 # Setessan Hoplite
 *Source: Mythic Odysseys of Theros p. 229*  
 
-![](Compendium/bestiary/humanoid/img/hoplite.webp#right)  
+![](Compendium/bestiary/humanoid/img/hoplite.webp#right|850)  
 Most Setessan hoplites begin their training as hunters, making them skilled in traversing the woods and adept at both guerrilla tactics and archery. Their strategies often emulate the favored servants of Nylea—especially wild beasts like wolves and lynxes. Typically a few soldiers harry an enemy while the rest capitalize on their foe's distraction.
 
 Hoplites are highly trained warriors, versed not only in strategy and tactics but in the glorification of the warrior's spirit, the basis of an ethos that forges an unbreakable bond between members of a military unit. In combat, hoplites typically work in groups and use coordinated tactics to win victories.

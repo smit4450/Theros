@@ -22,7 +22,7 @@ aliases: ["Kobold Warrior"]
 # Kobold Warrior
 *Source: Monster Manual (2024) p. 185. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/kobolds.webp#right)  
+![](Compendium/bestiary/dragon/img/kobolds.webp#right|850)  
 Kobold warriors use hit-and-run tactics to raid their enemies and defend their homes. To avoid danger, they frequently employ haphazard traps.
 
 ## Kobolds

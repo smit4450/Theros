@@ -15,7 +15,7 @@ aliases: ["Bone Devil"]
 # Bone Devil
 *Source: Monster Manual (2024) p. 52. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/bone-devil.webp#right)  
+![](Compendium/bestiary/fiend/img/bone-devil.webp#right|850)  
 ## Bone Devil
 
 *Devil of Dread and Obedience*

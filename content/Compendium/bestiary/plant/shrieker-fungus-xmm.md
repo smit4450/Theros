@@ -14,7 +14,7 @@ aliases: ["Shrieker Fungus"]
 # Shrieker Fungus
 *Source: Monster Manual (2024) p. 125. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/plant/img/fungi.webp#right)  
+![](Compendium/bestiary/plant/img/fungi.webp#right|850)  
 If exposed to light or otherwise disturbed, mushroom-like shriekers emit a high-pitched noise that gives them their name. This wailing might alert other creatures or attract predators.
 
 ## Fungi

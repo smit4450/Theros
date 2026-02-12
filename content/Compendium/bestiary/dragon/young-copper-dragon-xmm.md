@@ -14,7 +14,7 @@ aliases: ["Young Copper Dragon"]
 # Young Copper Dragon
 *Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/copper-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/copper-dragon.webp#right|850)  
 Young copper dragons forge strong connections with a community or group of friends while flitting from one artistic fixation to the next.
 
 ## Copper Dragons

@@ -15,7 +15,7 @@ aliases: ["Vampire"]
 # Vampire
 *Source: Monster Manual (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/vampire.webp#right)  
+![](Compendium/bestiary/undead/img/vampire.webp#right|850)  
 Vampires are terrifying hunters and manipulators. They use their powers to shape-shift and bend other creatures' wills as they terrorize and feed on populations over generations.
 
 ## Vampires

@@ -21,7 +21,7 @@ aliases: ["Hobgoblin Warrior"]
 # Hobgoblin Warrior
 *Source: Monster Manual (2024) p. 170. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/hobgoblin-warrior.webp#right)  
+![](Compendium/bestiary/fey/img/hobgoblin-warrior.webp#right|850)  
 Hobgoblin warriors might hunt and raid alone or with trained mastiffs, worgs, goblin gangs, or other allies. They employ simple tactics and exploit every advantage their allies provide. They willingly sacrifice companions in their pursuit of victory.
 
 ## Hobgoblins

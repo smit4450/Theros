@@ -15,7 +15,7 @@ aliases: ["Stonewise Fortifier"]
 
 <blockquote><small>Ephara taught some mortals to feel every vein in marble as though it flows with their own blood.</small></blockquote>
 
-![Stonewise Fortifier](Compendium/bestiary/humanoid/img/stonewise-fortifier.webp#right)  
+![Stonewise Fortifier](Compendium/bestiary/humanoid/img/stonewise-fortifier.webp#right|850)  
 
 ```statblock
 "name": "Stonewise Fortifier (TBVXXV)"

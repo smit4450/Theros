@@ -17,7 +17,7 @@ aliases: ["Yuan-ti Infiltrator"]
 # Yuan-ti Infiltrator
 *Source: Monster Manual (2024) p. 342*  
 
-![](Compendium/bestiary/monstrosity/img/yuan-ti.webp#right)  
+![](Compendium/bestiary/monstrosity/img/yuan-ti.webp#right|850)  
 Infiltrators can pass as human, their serpentine features limited to scaly skin, forked tongues, and other minor or internal transformations. These spies insinuate themselves among their rivals, manipulating others and making foes vulnerable to the plots of more powerful yuan-ti.
 
 ## Yuan-ti

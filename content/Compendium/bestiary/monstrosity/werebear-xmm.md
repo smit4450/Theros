@@ -16,7 +16,7 @@ aliases: ["Werebear"]
 # Werebear
 *Source: Monster Manual (2024) p. 324, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![A werebear chases a werebo...](Compendium/bestiary/monstrosity/img/werebear-wereboar-and-wererat.webp#right)  
+![A werebear chases a werebo...](Compendium/bestiary/monstrosity/img/werebear-wereboar-and-wererat.webp#right|850)  
 ## Werebear
 
 *Changed by the Might of the Bear*

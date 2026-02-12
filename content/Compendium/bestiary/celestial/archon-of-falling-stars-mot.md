@@ -13,7 +13,7 @@ aliases: ["Archon of Falling Stars"]
 # Archon of Falling Stars
 *Source: Mythic Odysseys of Theros p. 212*  
 
-![](Compendium/bestiary/celestial/img/archon-of-falling-stars.webp#right)  
+![](Compendium/bestiary/celestial/img/archon-of-falling-stars.webp#right|850)  
 The epic accounting of the world's earliest histories called *The Cosmogony* recounts the battle between a group of the gods' champions and a mighty archon, which took place at the mysterious eastern edge of the world. Defeated, the falling archon is said to have met the rising sun. But Heliod showed mercy to the penitent archon, who swore to uphold justice and righteousness in the world's wildest places. As a sign of his mercy, Heliod gave the archon a spear that rivaled his own in its brilliance. This was the first archon of falling stars.
 
 The mysterious conquerors known as archons once ruled vast empires. These armored warlords saw themselves as champions of merciless justice, and they ruled with iron fists. But their dominance ultimately came to an end. As the archon overlords toppled, they scattered to the fringes of the world, and their holdings developed into the poleis of today.

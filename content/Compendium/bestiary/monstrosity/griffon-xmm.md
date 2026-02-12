@@ -18,7 +18,7 @@ aliases: ["Griffon"]
 # Griffon
 *Source: Monster Manual (2024) p. 159. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/griffon.webp#right)  
+![](Compendium/bestiary/monstrosity/img/griffon.webp#right|850)  
 ## Griffon
 
 *Majestic Hunter of Land and Sky*

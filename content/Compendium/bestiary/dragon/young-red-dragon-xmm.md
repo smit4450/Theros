@@ -15,7 +15,7 @@ aliases: ["Young Red Dragon"]
 # Young Red Dragon
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/red-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/red-dragon.webp#right|850)  
 Young red dragons number among the most unpredictable of their kind. They seek territories rich with treasures and potential followers, raiding, burning, and slaughtering to enforce their will. Unless these dragons meet significant resistance, they cement their power and begin reigns of terror that can last for centuries.
 
 ## Red Dragons

@@ -16,7 +16,7 @@ aliases: ["Nyxborn Shieldmate"]
 <blockquote><small>In Meletis, the walls have ears. In Akros, they have blades.</small></blockquote>
 An Akroan mosaic of a hoplite springs to life.
 
-![Nyxborn Shieldmate](Compendium/bestiary/miscellaneous/img/nyxborn-shieldmate.webp#right)  
+![Nyxborn Shieldmate](Compendium/bestiary/miscellaneous/img/nyxborn-shieldmate.webp#right|850)  
 
 ```statblock
 "name": "Nyxborn Shieldmate (TBVIII)"

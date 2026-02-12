@@ -15,7 +15,7 @@ aliases: ["Purphoros's Emissary"]
 
 A nyxborn ox provides Purphoros with a view outside his volcano forge.
 
-![Purphoros's Emissary](Compendium/bestiary/miscellaneous/img/purphoross-emissary.webp#right)  
+![Purphoros's Emissary](Compendium/bestiary/miscellaneous/img/purphoross-emissary.webp#right|850)  
 
 ```statblock
 "name": "Purphoros's Emissary (TBVXXIII)"

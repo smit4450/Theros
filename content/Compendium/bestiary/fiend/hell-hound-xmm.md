@@ -17,7 +17,7 @@ aliases: ["Hell Hound"]
 # Hell Hound
 *Source: Monster Manual (2024) p. 165. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/hell-hound.webp#right)  
+![](Compendium/bestiary/fiend/img/hell-hound.webp#right|850)  
 ## Hell Hound
 
 *Unrelenting Warden of the Lower Planes*

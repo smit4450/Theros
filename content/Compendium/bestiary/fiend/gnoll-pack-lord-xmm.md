@@ -17,7 +17,7 @@ aliases: ["Gnoll Pack Lord"]
 # Gnoll Pack Lord
 *Source: Monster Manual (2024) p. 140*  
 
-![](Compendium/bestiary/fiend/img/gnolls.webp#right)  
+![](Compendium/bestiary/fiend/img/gnolls.webp#right|850)  
 Rising above other gnolls with their viciousness and physical prowess, gnoll pack lords terrorize weaker gnolls into their service. These brutes drive other gnolls to acts of great violence, then claim the best of their servants' spoils.
 
 ## Gnolls

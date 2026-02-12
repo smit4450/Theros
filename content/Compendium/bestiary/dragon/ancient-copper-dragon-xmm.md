@@ -14,7 +14,7 @@ aliases: ["Ancient Copper Dragon"]
 # Ancient Copper Dragon
 *Source: Monster Manual (2024) p. 80. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An ancient copper dragon w...](Compendium/bestiary/dragon/img/ancient-copper-dragon.webp#right)  
+![An ancient copper dragon w...](Compendium/bestiary/dragon/img/ancient-copper-dragon.webp#right|850)  
 Ancient copper dragons use warmth and reliability to effect change over time. They open their cozy lairs to their friends as havens of learning and laughter for the young and those in need. These dragons watch for and oppose future threats while fostering sanctuaries of simple goodness.
 
 ## Copper Dragons

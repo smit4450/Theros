@@ -15,7 +15,7 @@ aliases: ["Spiteful Returned"]
 
 
 
-![Spiteful Returned](Compendium/bestiary/miscellaneous/img/spiteful-returned.webp#right)  
+![Spiteful Returned](Compendium/bestiary/miscellaneous/img/spiteful-returned.webp#right|850)  
 
 ```statblock
 "name": "Spiteful Returned (TBVIII)"

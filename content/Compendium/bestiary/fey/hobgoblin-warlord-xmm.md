@@ -21,7 +21,7 @@ aliases: ["Hobgoblin Warlord"]
 # Hobgoblin Warlord
 *Source: Monster Manual (2024) p. 171*  
 
-![](Compendium/bestiary/fey/img/hobgoblin-warlord.webp#right)  
+![](Compendium/bestiary/fey/img/hobgoblin-warlord.webp#right|850)  
 Hobgoblin warlords lead armies of hobgoblins and their allies, using their experience and strategic minds to command amid the ebb and flow of battle.
 
 ## Hobgoblins

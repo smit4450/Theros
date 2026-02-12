@@ -15,7 +15,7 @@ aliases: ["Sahuagin Baron"]
 # Sahuagin Baron
 *Source: Monster Manual (2024) p. 265*  
 
-![](Compendium/bestiary/fiend/img/sahuagin.webp#right)  
+![](Compendium/bestiary/fiend/img/sahuagin.webp#right|850)  
 During times of great conflict, Sekolah blesses particularly ruthless sahuagin warriors with increased size and an additional pair of arms, transforming them into sahuagin barons. These boons elevate the recipients' status among their kind, and they become champions or leaders. Sahuagin barons' blood is infused with profane magic capable of searing their enemies and making these foes irresistible targets for other Fiends.
 
 ## Sahuagin

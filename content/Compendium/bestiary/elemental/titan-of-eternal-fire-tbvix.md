@@ -17,7 +17,7 @@ aliases: ["Titan of Eternal Fire"]
 <b><big>Usage Notes</big></b>
 A DM using this creature should keep in mind that this creature is capable of a total party kill with a single attack. This boss should only be given to a experienced players with high-level characters, and only in carefully planed environments that allow the players to gain some sort of upper hand. Perhaps the players have siege weapons at their discretion, or have befriended a titan that aids them. Or perhaps the titan is trapped in a chasm that it can't scale.
 
-![Titan of Eternal Fire](Compendium/bestiary/elemental/img/titan-of-eternal-fire.webp#right)  
+![Titan of Eternal Fire](Compendium/bestiary/elemental/img/titan-of-eternal-fire.webp#right|850)  
 
 ```statblock
 "name": "Titan of Eternal Fire (TBVIX)"

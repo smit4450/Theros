@@ -16,7 +16,7 @@ aliases: ["Archetype of Finality"]
 <blockquote><small>She sees mortals not as they wish to be, but as what they will become.</small></blockquote>
 The archetype of finality is a gorgon blessed by Pharika. Her blessing extends to her allies.
 
-![Archetype of Finality](Compendium/bestiary/monstrosity/img/archetype-of-finality.webp#right)  
+![Archetype of Finality](Compendium/bestiary/monstrosity/img/archetype-of-finality.webp#right|850)  
 
 ```statblock
 "name": "Archetype of Finality (TBVVI)"

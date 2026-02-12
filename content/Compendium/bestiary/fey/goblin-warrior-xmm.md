@@ -20,7 +20,7 @@ aliases: ["Goblin Warrior"]
 # Goblin Warrior
 *Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![A goblin boss, a goblin he...](Compendium/bestiary/fey/img/goblins.webp#right)  
+![A goblin boss, a goblin he...](Compendium/bestiary/fey/img/goblins.webp#right|850)  
 Goblin warriors excel at causing mischief. Those in service to Maglubiyet have greater discipline and are likely to withdraw to set up ambushes.
 
 ## Goblins

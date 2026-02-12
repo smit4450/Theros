@@ -13,7 +13,7 @@ aliases: ["Akroan Hoplite"]
 # Akroan Hoplite
 *Source: Mythic Odysseys of Theros p. 228*  
 
-![](Compendium/bestiary/humanoid/img/hoplite.webp#right)  
+![](Compendium/bestiary/humanoid/img/hoplite.webp#right|850)  
 Akroan hoplites, also called stratians, number among the fiercest soldiers on Theros. They train relentlessly and possess unflinching resolve. In the annals of Akros, tales abound of squads of stratians that defended a key location against a much larger force or crept behind enemy lines and wreaked havoc in the opposing army.
 
 Hoplites are highly trained warriors, versed not only in strategy and tactics but in the glorification of the warrior's spirit, the basis of an ethos that forges an unbreakable bond between members of a military unit. In combat, hoplites typically work in groups and use coordinated tactics to win victories.

@@ -14,7 +14,7 @@ aliases: ["Pirate Captain"]
 # Pirate Captain
 *Source: Monster Manual (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/pirates.webp#right)  
+![](Compendium/bestiary/humanoid/img/pirates.webp#right|850)  
 Pirate captains command crews of pirates, dictating their destinations and targets. Captains cultivate fearsome and theatrical reputations, painting themselves as larger-than-life characters to terrorize their foes, ensure the obedience of their crews, and attract followers to their banner. Many have colorful nicknames inspired by signature traits and deeds.
 
 ## Pirates

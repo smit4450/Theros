@@ -14,7 +14,7 @@ aliases: ["Master Thief"]
 # Master Thief
 *Source: Volo's Guide to Monsters p. 216, Mythic Odysseys of Theros*  
 
-![](Compendium/bestiary/humanoid/img/master-thief.webp#right)  
+![](Compendium/bestiary/humanoid/img/master-thief.webp#right|850)  
 Master thieves are known for perpetrating daring heists. They tend to develop a reputation and a cult of personality. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
 ```statblock
 "name": "Master Thief (VGM)"

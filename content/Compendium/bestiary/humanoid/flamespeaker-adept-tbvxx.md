@@ -15,7 +15,7 @@ aliases: ["Flamespeaker Adept"]
 
 <blockquote><small>“I see your future, mantled in ash.”</small></blockquote>
 
-![Flamespeaker Adept](Compendium/bestiary/humanoid/img/flamespeaker-adept.webp#right)  
+![Flamespeaker Adept](Compendium/bestiary/humanoid/img/flamespeaker-adept.webp#right|850)  
 
 ```statblock
 "name": "Flamespeaker Adept (TBVXX)"

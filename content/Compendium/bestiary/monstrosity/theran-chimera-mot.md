@@ -13,7 +13,7 @@ aliases: ["Theran Chimera"]
 # Theran Chimera
 *Source: Mythic Odysseys of Theros p. 216*  
 
-![](Compendium/bestiary/monstrosity/img/theran-chimera.webp#right)  
+![](Compendium/bestiary/monstrosity/img/theran-chimera.webp#right|850)  
 The term chimera applies to a wide variety of disparate monsters that combine the features of multiple beasts. While many artistic depictions represent chimeras as an amalgam of lion, ram, and dragon, these beasts appear with nearly endless variations.
 
 The Akroans tell a tale of the first chimera's origin, wherein the god Keranos sought to test Nylea's favorite champion, Renata of Setessa, by creating a beast so deadly that even she would balk at trying to hunt it. When Renata slayed this lion-ram-dragon creation effortlessly, Keranos created another combination of deadlier beasts to challenge her. She slayed that beast, too. Despite countless attempts, Keranos was unable to create a beast that Renata couldn't best.

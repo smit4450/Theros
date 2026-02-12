@@ -14,7 +14,7 @@ aliases: ["Psychic Gray Ooze"]
 # Psychic Gray Ooze
 *Source: Monster Manual (2024) p. 151. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
-![](Compendium/bestiary/ooze/img/gray-oozes.webp#right)  
+![](Compendium/bestiary/ooze/img/gray-oozes.webp#right|850)  
 Psychic gray oozes exhibit violent psionic abilities. These oozes sometimes result from failed attempts to summon or create creatures linked to the Elemental Plane of Earth, like gargoyles or homunculi.
 
 ## Gray Oozes

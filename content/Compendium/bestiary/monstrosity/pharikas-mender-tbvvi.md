@@ -15,7 +15,7 @@ aliases: ["Pharika's Mender"]
 
 <small><blockquote>“The direst venom becomes a panacea under Pharika’s guidance. I bring it to the worthy, clinging at the edge of the abyss.”</blockquote></small>
 
-![Pharika's Mender](Compendium/bestiary/monstrosity/img/pharikas-mender.webp#right)  
+![Pharika's Mender](Compendium/bestiary/monstrosity/img/pharikas-mender.webp#right|850)  
 
 ```statblock
 "name": "Pharika's Mender (TBVVI)"

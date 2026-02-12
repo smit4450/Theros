@@ -14,7 +14,7 @@ aliases: ["Adult Green Dragon"]
 # Adult Green Dragon
 *Source: Monster Manual (2024) p. 153. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![An adult green dragon shadows its prey](Compendium/bestiary/dragon/img/green-dragon.webp#right)  
+![An adult green dragon shadows its prey](Compendium/bestiary/dragon/img/green-dragon.webp#right|850)  
 The words of adult green dragons are as deadly as their poisonous breath. They are brilliant schemers that pride themselves on influencing communities near their lairs. They obsess over information and create vast spy networks. Many of these dragons seek magical methods of surveillance or domination, and they manipulate adventurers into hunting down lost magic to aid in such control.
 
 ## Green Dragons

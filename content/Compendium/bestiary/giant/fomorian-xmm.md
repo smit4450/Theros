@@ -14,7 +14,7 @@ aliases: ["Fomorian"]
 # Fomorian
 *Source: Monster Manual (2024) p. 123*  
 
-![](Compendium/bestiary/giant/img/fomorian.webp#right)  
+![](Compendium/bestiary/giant/img/fomorian.webp#right|850)  
 ## Fomorian
 
 *Cursed Giant of the Dark*

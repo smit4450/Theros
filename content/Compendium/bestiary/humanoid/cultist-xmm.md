@@ -14,7 +14,7 @@ aliases: ["Cultist"]
 # Cultist
 *Source: Monster Manual (2024) p. 84, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/cultists.webp#right)  
+![](Compendium/bestiary/humanoid/img/cultists.webp#right|850)  
 Cultists devote themselves to their faith's leaders and otherworldly masters. While this zeal grants cultists no magical powers, it gives them remarkable resolve in the face of threats. Cultists perform much of a cult's mundane work, which might include evangelism, criminal acts, or serving as sacrifices.
 
 ## Cultists

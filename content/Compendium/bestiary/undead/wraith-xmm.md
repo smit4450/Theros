@@ -16,7 +16,7 @@ aliases: ["Wraith"]
 # Wraith
 *Source: Monster Manual (2024) p. 336, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/wraith.webp#right)  
+![](Compendium/bestiary/undead/img/wraith.webp#right|850)  
 ## Wraith
 
 *Essence of Evil*

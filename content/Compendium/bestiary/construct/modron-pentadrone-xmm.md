@@ -15,7 +15,7 @@ aliases: ["Modron Pentadrone"]
 # Modron Pentadrone
 *Source: Monster Manual (2024) p. 218*  
 
-![](Compendium/bestiary/construct/img/modron-pentadrone.webp#right)  
+![](Compendium/bestiary/construct/img/modron-pentadrone.webp#right|850)  
 Pentadrones oversee and protect contingents of lesser modrons. They're quick to call lengthy meetings with other modrons when making decisions.
 
 ## Modrons

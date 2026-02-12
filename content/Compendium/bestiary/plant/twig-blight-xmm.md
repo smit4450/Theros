@@ -14,7 +14,7 @@ aliases: ["Twig Blight"]
 # Twig Blight
 *Source: Monster Manual (2024) p. 43, FRHoF*  
 
-![](Compendium/bestiary/plant/img/twig-blight.webp#right)  
+![](Compendium/bestiary/plant/img/twig-blight.webp#right|850)  
 Resembling bundles of sticks or dead brush, twig blights easily blend in among deadwood, flotsam, and the wood piles common in many rural settings. Groups of them are often found near river crossings, forgotten wells, or natural campsites, where they ambush those who let down their guard.
 
 ## Blights

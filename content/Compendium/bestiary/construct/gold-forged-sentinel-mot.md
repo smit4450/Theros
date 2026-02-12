@@ -13,7 +13,7 @@ aliases: ["Gold-Forged Sentinel"]
 # Gold-Forged Sentinel
 *Source: Mythic Odysseys of Theros p. 211*  
 
-![](Compendium/bestiary/construct/img/gold-forged-sentinel.webp#right)  
+![](Compendium/bestiary/construct/img/gold-forged-sentinel.webp#right|850)  
 The original purpose of gold-forged sentinels is a mystery, and of all Purphoros's original anvilwroughts, this construct is the most difficult to control. A sentinel often operates without a master, stalking the high places of the mortal world or waiting, still as a statue, for what could be decades before reanimating to carry out their mysterious purpose.
 
 The first anvilwroughts were created by the god of the forge, Purphoros. He gave the secret of breathing life into these metal creatures to his most devoted followers so they could mimic his works and invent new forms at their own forges.

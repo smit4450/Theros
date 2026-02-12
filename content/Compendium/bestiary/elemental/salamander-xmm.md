@@ -16,7 +16,7 @@ aliases: ["Salamander"]
 # Salamander
 *Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/salamander.webp#right)  
+![](Compendium/bestiary/elemental/img/salamander.webp#right|850)  
 Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
 
 ## Salamanders

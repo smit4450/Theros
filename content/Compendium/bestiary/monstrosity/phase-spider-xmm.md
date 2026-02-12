@@ -21,7 +21,7 @@ aliases: ["Phase Spider"]
 # Phase Spider
 *Source: Monster Manual (2024) p. 239, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/phase-spider.webp#right)  
+![](Compendium/bestiary/monstrosity/img/phase-spider.webp#right|850)  
 ## Phase Spider
 
 *Plane-Shifting Arachnid Ambusher*

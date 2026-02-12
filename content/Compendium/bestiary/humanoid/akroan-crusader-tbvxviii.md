@@ -15,7 +15,7 @@ aliases: ["Akroan Crusader"]
 
 <blockquote><small>An Akroan soldier’s worth is measured by the number of swords raised by his battle cry.</small></blockquote>
 
-![Akroan Crusader](Compendium/bestiary/humanoid/img/akroan-crusader.webp#right)  
+![Akroan Crusader](Compendium/bestiary/humanoid/img/akroan-crusader.webp#right|850)  
 
 ```statblock
 "name": "Akroan Crusader (TBVXVIII)"

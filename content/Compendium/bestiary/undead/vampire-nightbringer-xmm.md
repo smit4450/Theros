@@ -15,7 +15,7 @@ aliases: ["Vampire Nightbringer"]
 # Vampire Nightbringer
 *Source: Monster Manual (2024) p. 316*  
 
-![A vampire familiar provide...](Compendium/bestiary/undead/img/vampires.webp#right)  
+![A vampire familiar provide...](Compendium/bestiary/undead/img/vampires.webp#right|850)  
 Born of necromantic rituals and planes of existence suffused with negative energy, vampire nightbringers manipulate shadows and feed on the raw life force of living creatures.
 
 ## Vampires
