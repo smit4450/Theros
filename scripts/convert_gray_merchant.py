@@ -19,6 +19,21 @@ SOURCE_TAG = "ttrpg-cli/compendium/src/5e/gmoa"
 
 # OCR error corrections
 OCR_FIXES = [
+    # Remove junk OCR fragments like "A S L \t"
+    (r"A S L[\s\t]+", ""),
+    # General ! -> ti pattern (before specific fixes)
+    (r"ci!zens", "citizens"),
+    (r"Mele!s\b", "Meletis"),
+    (r"Mele!ans", "Meletians"),
+    (r"depic!ons", "depictions"),
+    (r"Poli!cian", "Politician"),
+    (r"ar!fact", "artifact"),
+    (r"essen!ally", "essentially"),
+    (r"situa!ons", "situations"),
+    (r"func!onal", "functional"),
+    (r"rari!es", "rarities"),
+    (r"subscrip!on", "subscription"),
+    (r"ar!st", "artist"),
     (r"Percep!on", "Perception"),
     (r"a\.ack", "attack"),
     (r"A\.ack", "Attack"),
@@ -174,10 +189,17 @@ def parse_item_header(header_text: str):
     # Extract item type (everything before the rarity, without the rarity itself)
     # First, remove attunement clause
     clean_header = re.sub(r"\s*\(requires attunement[^)]*\)", "", header_text, flags=re.IGNORECASE)
-    # Remove rarity words to get just the item type
+    # Remove ONLY the matched rarity word, not all rarity words
+    # This preserves "Story" in "Story/ring, artifact" when artifact is the rarity
     item_type = clean_header
-    for r in ["legendary", "artifact", "very rare", "rare", "uncommon", "common", "story"]:
-        item_type = re.sub(rf",?\s*{r}\s*", "", item_type, flags=re.IGNORECASE)
+    if rarity != "unknown":
+        # Remove the rarity word that was actually matched
+        item_type = re.sub(rf",?\s*{rarity}\s*", "", item_type, flags=re.IGNORECASE)
+    # Handle "Story/type" format - capitalize properly
+    if "/" in item_type:
+        parts = item_type.split("/")
+        parts = [p.strip().capitalize() for p in parts]
+        item_type = "/".join(parts)
     # Clean up stray dashes and extra punctuation
     item_type = re.sub(r"[—-]+\s*$", "", item_type)  # Remove trailing dashes
     item_type = re.sub(r"[—-]+\s*,", ",", item_type)  # Remove dashes before commas
@@ -429,11 +451,25 @@ TABLE_NAMES = {
     "T  '  B": "Thassa's Blessings",
     "T A": "Truths of Atris",
     "T  A": "Truths of Atris",
-    # Add more as we discover them
+    # Scrap of Epic Poetry tables
+    "R D 5- P 1": "Reason the Discarded Poem",
+    "R  D 5-  P 1": "Reason the Discarded Poem",
+    "R D P": "Reason the Discarded Poem",
+    "R 7- F- P": "Reward for Finding the Poet",
+    "R 7- F-  P (- 519  : - ; )": "Reward for Finding the Poet",
+    "R F P": "Reward for Finding the Poet",
+    "P 1 C": "Poem's Content",
+    "P  1 C": "Poem's Content",
+    "P C": "Poem's Content",
+    "P ' C W A": "Poet's Current Whereabouts and Activity",
+    "P ' C W  A": "Poet's Current Whereabouts and Activity",
+    "P C W A": "Poet's Current Whereabouts and Activity",
 }
 
 # Fragments of corrupted table names that should be removed
-TABLE_NAME_FRAGMENTS = ["T", "'", "' B", "B", "A"]
+# These appear as isolated lines before dice columns
+TABLE_NAME_FRAGMENTS = ["T", "'", "' B", "B", "A", "R", "D", "5-", "P", "1", "7-", "F-", 
+                        "(", "-", "519", ":", ";", ")", "C", "W", "O", "5F", "L5", "5", "AA-", "TA"]
 
 def format_tables(text: str) -> str:
     """
@@ -445,16 +481,39 @@ def format_tables(text: str) -> str:
     result_lines = []
     i = 0
     
+    # Valid column headers for tables
+    valid_headers = ["Effect", "Response", "Reason", "Reward", "Subject", "Location and Activity", 
+                     "Home", "Identity", "Location"]
+    
     while i < len(lines):
         line = lines[i].strip()
         
-        # Check if this might be the start of a table
-        # Look for a line that's just a dice type followed by a column header (Effect, Response, etc.)
+        dice = None
+        column_header = None
+        
+        # Pattern 1: dice type on its own line, followed by column header on next line
+        # E.g., "d8" then "Reason"
         if i + 1 < len(lines) and re.match(r"^d\d+$|^d\d{2,3}$", line):
             next_line = lines[i + 1].strip()
-            if next_line in ["Effect", "Response"]:
+            if next_line in valid_headers:
+                dice = line
                 column_header = next_line
-                # Found a table! Look backwards for table name
+        
+        # Pattern 2: dice type and column header on the same line
+        # E.g., "d10 Location and Activity"
+        if not dice:
+            combined_match = re.match(r"^(d\d+)\s+(.+)$", line)
+            if combined_match:
+                potential_dice = combined_match.group(1)
+                potential_header = combined_match.group(2).strip()
+                if potential_header in valid_headers:
+                    dice = potential_dice
+                    column_header = potential_header
+        
+        if dice and column_header:
+                # Determine if dice and header were on same line or separate
+                combined_format = re.match(r"^(d\d+)\s+(.+)$", line) is not None
+                
                 table_name = None
                 lines_to_remove = 0
                 
@@ -493,11 +552,13 @@ def format_tables(text: str) -> str:
                 if lines_to_remove > 0:
                     result_lines = result_lines[:-lines_to_remove]
                 
-                dice = line  # e.g., "d4"
-                
                 # Now collect the table rows
                 table_rows = []
-                i += 2  # Skip dice and "Effect" lines
+                # Skip past dice/header lines appropriately
+                if combined_format:
+                    i += 1  # Skip combined "d10 Location and Activity" line
+                else:
+                    i += 2  # Skip separate dice and column header lines
                 
                 while i < len(lines):
                     row_line = lines[i].strip()
@@ -510,10 +571,14 @@ def format_tables(text: str) -> str:
                         i += 1
                         while i < len(lines):
                             desc_line = lines[i].strip()
-                            # Stop if we hit another number or end of table indicators
+                            # Stop if we hit another number (next row)
                             if re.match(r"^\d+(?:-\d+)?$", desc_line):
                                 break
+                            # Stop if we hit a section header
                             if desc_line.startswith("Overpaid.") or desc_line.startswith("Paid.") or desc_line.startswith("Curse."):
+                                break
+                            # Stop if we hit a new table (dice pattern)
+                            if re.match(r"^d\d+$|^d\d{2,3}$|^d\d+\s+\w", desc_line):
                                 break
                             if not desc_line:
                                 i += 1
@@ -522,10 +587,37 @@ def format_tables(text: str) -> str:
                             i += 1
                         
                         row_desc = " ".join(row_desc_parts)
-                        table_rows.append((row_num, row_desc))
+                        # Clean up any corrupted table name fragments from end of description
+                        # These fragments are remnants of corrupted PDF table headers
+                        # Apply multiple cleanup passes to handle various corruption patterns
+                        for _ in range(3):  # Multiple passes to handle nested patterns
+                            # Match: whitespace/tab + capital letter(s) + various junk chars
+                            row_desc = re.sub(r'[\s\t]+[A-Z][\s\t\d\-\(\):;\'\"A-Z]*$', '', row_desc)
+                        # Clean up any trailing whitespace
+                        row_desc = row_desc.rstrip()
+                        # Only add rows that have actual content (not empty descriptions)
+                        if row_desc:
+                            table_rows.append((row_num, row_desc))
                     else:
                         # Not a row number, table has ended
                         break
+                
+                # Skip any orphan lines between tables (corrupted table names, partial content)
+                # These are lines that appear after table content ends but before next table starts
+                while i < len(lines):
+                    skip_line = lines[i].strip()
+                    # Stop if we hit a actual dice pattern (next table)
+                    if re.match(r"^d\d+$|^d\d{2,3}$|^d\d+\s+\w", skip_line):
+                        break
+                    # Stop if we hit a section header
+                    if skip_line.startswith("Paid.") or skip_line.startswith("Overpaid.") or skip_line.startswith("Curse."):
+                        break
+                    # Stop if line has substantial content (not just fragments)
+                    # Fragments are typically short: single letters, numbers, punctuation
+                    if skip_line and len(skip_line) > 20 and not any(frag in skip_line for frag in TABLE_NAME_FRAGMENTS):
+                        break
+                    # Skip this orphan/fragment line
+                    i += 1
                 
                 # Format as markdown table with double newlines before and after
                 # This ensures it stays as a separate "paragraph" and doesn't get joined
@@ -606,6 +698,9 @@ def create_item_markdown(name: str, header: str, description: str, price_line: s
         "Fleetfeather Sandals", "Staff of Athreos", "Rings of Kynaios and Tiro",
         "Bident of Thassa's Beloved", "Sun Spear", "Archon Armor",
         "Gray Merchant's Mask",  # Image caption
+        r"Bow of Nylea's\s*\n?Hunter", "Bow of Nylea's",  # Image caption (may be split)
+        "Callaphe's Compass",  # Image caption
+        r"Gray Merchant's\s*\n?Gold Coin", "Gray Merchant's",  # Image caption (may be split or partial)
     ]
     for leaked in leaked_items:
         description = re.sub(rf"\n{leaked}\s*", "\n", description)
@@ -618,10 +713,18 @@ def create_item_markdown(name: str, header: str, description: str, price_line: s
     statblock_yaml = None
     description, statblock_yaml = detect_and_extract_statblock(description)
     
+    # AFTER statblock extracted, remove item name appearing as page header in the middle of content
+    # These appear as standalone lines that match the item name exactly
+    # Must be done AFTER statblock detection since statblocks start with the item name
+    description = re.sub(rf"\n{name_escaped}\s*\n", "\n", description, flags=re.IGNORECASE)
+    
     # Handle tables BEFORE paragraph joining
     # Tables look like: "Table Name\nd4/d6/etc\nEffect\n1\ntext\n2\ntext..."
     # Convert to markdown tables
     description = format_tables(description)
+    
+    # Preserve bullet points by converting to a placeholder
+    description = re.sub(r"•\s*", "BULLET_PLACEHOLDER ", description)
     
     # Join lines within paragraphs first (before adding headers)
     # Replace single newlines with spaces, keep double newlines as paragraph breaks
@@ -645,7 +748,10 @@ def create_item_markdown(name: str, header: str, description: str, price_line: s
     
     description = "\n\n".join(joined_paragraphs)
     
-    # Convert sections to headers (add newline after header)
+    # Restore bullet points with proper formatting
+    description = re.sub(r"BULLET_PLACEHOLDER ", "\n- ", description)
+    
+    # Convert sections to headers FIRST (add newline after header)
     description = re.sub(r"^(Paid)\.\s*", r"## \1\n\n", description, flags=re.MULTILINE)
     description = re.sub(r"^(Overpaid)\.\s*", r"## \1\n\n", description, flags=re.MULTILINE)
     description = re.sub(r"^(Curse)\.\s*", r"## \1\n\n", description, flags=re.MULTILINE)
@@ -659,6 +765,43 @@ def create_item_markdown(name: str, header: str, description: str, price_line: s
     description = re.sub(r"\s+(Story)\.\s+", r"\n\n## \1\n\n", description)
     # Handle "Destroying the X" that appears mid-paragraph
     description = re.sub(r"\s+(Destroying the [^.]+)\.\s+", r"\n\n## \1\n\n", description)
+    
+    # Format sub-abilities within sections (e.g., "Studied Attack. Description...")
+    # Only apply to content BEFORE ## Story section (to avoid bolding names in narrative)
+    story_split = description.split("## Story")
+    main_content = story_split[0]
+    story_content = "## Story" + story_split[1] if len(story_split) > 1 else ""
+    
+    # Pattern: Short capitalized phrases (2-5 words) that are ability names
+    # Match after ":" or "." followed by space
+    # Examples: "Hardened by War.", "Studied Attack.", "Nylea's Guidance."
+    # Exclude common sentence starters: You, Your, The, This, That, When, While, If, Once, etc.
+    sub_ability_pattern = r"(?<=[:,.] )([A-Z][a-z]+(?:['']s)?(?:\s+(?:of|by|the|and|a|an|to|in|on|for|with|at|from|as|into)?(?:\s+)?[A-Z]?[a-z]+)*)\.\s+"
+    def replace_sub_ability(match):
+        ability_name = match.group(1)
+        # Don't format section headers as sub-abilities
+        if ability_name in ["Paid", "Overpaid", "Curse", "Story"]:
+            return match.group(0)
+        # Exclude common sentence starters - these aren't ability names
+        sentence_starters = ["You", "Your", "The", "This", "That", "When", "While", "If", "Once", 
+                            "As", "In", "On", "At", "For", "With", "All", "Any", "Each", "Every",
+                            "However", "Additionally", "Furthermore", "Moreover", "Also"]
+        first_word = ability_name.split()[0] if ability_name.split() else ""
+        if first_word in sentence_starters:
+            return match.group(0)
+        # Require at least 2 words, max 5 words (ability names are short)
+        words = ability_name.split()
+        if len(words) < 2:
+            # Single word only okay if possessive (e.g., "Nylea's")
+            if not (ability_name.endswith("'s") or ability_name.endswith("'s")):
+                return match.group(0)
+        if len(words) > 5:
+            return match.group(0)
+        return f"\n\n**{ability_name}.** "
+    main_content = re.sub(sub_ability_pattern, replace_sub_ability, main_content)
+    
+    # Recombine
+    description = main_content + story_content
     
     # Clean trailing whitespace
     description = description.strip()
@@ -938,6 +1081,14 @@ def parse_items_from_text(text: str) -> list:
                     next_header.replace("MASKS OF THE PHALANX", "MASKS OF THE\nPHALANX"),
                     next_header.replace("OF ASPHODEL", "OF\nASPHODEL"),
                     next_header.replace("OF ODUNOS", "OF\nODUNOS"),
+                ])
+            
+            # Add multi-line variants for HAMMER
+            if "HAMMER" in next_header:
+                next_variants.extend([
+                    "HAMMER OF THE FORGED\nOF PURPHOROS",
+                    "HAMMER OF THE\nFORGED OF PURPHOROS",
+                    "HAMMER OF THE FORGED OF\nPURPHOROS",
                 ])
             
             for next_variant in next_variants:

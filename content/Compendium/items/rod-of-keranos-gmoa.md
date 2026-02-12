@@ -1,0 +1,30 @@
+---
+title: "Rod of Keranos"
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- ttrpg-cli/compendium/src/5e/gmoa
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/rod
+aliases: 
+- "Rod of Keranos"
+---
+# Rod of Keranos
+*Rod, very rare (requires attunement by a spellcaster)*
+
+**Price:** 75,000-100,000 gp | high sentimentality
+
+This metal rod is 2 feet long and causes anyone who touches it to receive a harmless static shock. 
+
+**It hums with energy.** With the rod in hand, you have resistance to lightning damage.
+
+## Paid
+
+Once a day, with the rod in hand, you can cast the call lightning spell at 9th level.
+
+## Overpaid
+
+Once a day for the first ten days after you attune to the rod, you may cast the commune spell without requiring material components to contact Keranos, god of storms.
+
+*Source: The Gray Merchant of Asphodel*
