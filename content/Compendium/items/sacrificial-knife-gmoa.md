@@ -21,7 +21,18 @@ The knife is beautiful, with gold trim on the handle. You can choose to have it 
 
 ## Paid
 
-Once a day, you can use an action to pull out the entrails of a creature killed by the knife and spend 10 minutes studying them to reveal omens about the future. Roll on the Omens table to determine the omen you receive. O1	 d12 Omen 1-3 Disease has turned the entrails black, and the patterns in the putrid infestation tell you an Omen of the Dead. 4-5 Green, undigested foliage fills the entrails, giving an Omen of the Hunt. 6-7 You see glimmers of blue among the shiny entrails like light sparkling off ocean waves, revealing an Omen of the Sea. 8-9 Red blood seeps from fresh entrails like molten metal through molds, presenting an Omen of the Forge. 10-11 White fat runs through these entrails, meaning they'll burn aromatically, presenting a fine sacrifice to Heliod, chief among the gods. It's an Omen of the Sun. 12 An absence of color in these entrails doesn't mean an absence of meaning, instead being an Omen of the Night Sky Each omen grants different benefits: 
+Once a day, you can use an action to pull out the entrails of a creature killed by the knife and spend 10 minutes studying them to reveal omens about the future. Roll on the Omens table to determine the omen you receive.
+
+| d12 | Omen |
+|-----|------|
+| 1-3 | Disease has turned the entrails black, and the patterns in the putrid infestation tell you an **Omen of the Dead**. |
+| 4-5 | Green, undigested foliage fills the entrails, giving an **Omen of the Hunt**. |
+| 6-7 | You see glimmers of blue among the shiny entrails like light sparkling off ocean waves, revealing an **Omen of the Sea**. |
+| 8-9 | Red blood seeps from fresh entrails like molten metal through molds, presenting an **Omen of the Forge**. |
+| 10-11 | White fat runs through these entrails, meaning they'll burn aromatically, presenting a fine sacrifice to Heliod, chief among the gods. It's an **Omen of the Sun**. |
+| 12 | An absence of color in these entrails doesn't mean an absence of meaning, instead being an **Omen of the Night Sky**. |
+
+Each omen grants different benefits: 
 
 **Omen of the Dead.** The omen warns of a brush with death. Roll five d20s and record the results in the order you rolled the dice. The first time you'd drop to 0 hit points within the next 24 hours, determine whether you'd stabilize or die if you'd rolled the recorded results as your death saving throws. If you'd stabilize, you instead drop to 1 hit point. If you'd die, you die immediately. 
 
