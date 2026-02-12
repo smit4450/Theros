@@ -12,7 +12,7 @@ aliases:
 ---
 # Phoenix Feather
 *Wondrous item, uncommon (requires attunement)*
-
+![[Phoenix of Ash.webp]]
 **Price:** 500-750 gp | low sentimentality
 
 The fires that once erupted from this phoenix's feather have long extinguished, but the feather is still hot to the touch.

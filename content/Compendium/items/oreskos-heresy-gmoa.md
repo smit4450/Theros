@@ -12,7 +12,7 @@ aliases:
 ---
 # Oreskos Heresy
 *Wondrous item, very rare (requires attunement)*
-
+![[Oreskos Sun Guide.webp]]
 **Price:** 45,000-99,000 gp | medium sentimentality
 
 This stone amulet depicts the profile of a leonin face roaring in defiance of the heavens.

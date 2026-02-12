@@ -12,7 +12,7 @@ aliases:
 ---
 # Rod of Gallia
 *Rod, very rare (requires attunement)*
-
+![[Gallia of the Endless Dance.webp]]
 **Price:** 15,000-35,000 gp | medium sentimentality
 
 This ivory rod has wildflowers blooming out of the tip and the handle is gilded with gold. Once a day, with the rod in hand, you can use an action to drive it into the ground, causing joyful music with a catchy beat to erupt out of it for 1 minute. The music ends early if you pull the rod out of the ground.

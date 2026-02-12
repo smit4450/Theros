@@ -11,7 +11,7 @@ aliases:
 ---
 # Heliod's Glory
 *Wondrous item, uncommon*
-
+![[Glory Bearers.webp]]
 **Price:** 500-1,500 gp | low sentimentality
 
 This vase is 3 feet tall, 2 feet in diameter, and weighs 60 pounds, requiring two people to carry it by its handles. A clay plug covers the opening. The painting on the vase depicts Heliod, god of the sun, striking down titans with his Sun Spear. You can use an action to remove or replace the plug. While the plug is removed, swirls of brilliant golden light rush out of the vase, granting a +2 bonus to AC to all creatures within 120 feet of the vase who worship Heliod. The vase is immune to all damage and can't be moved by anyone who doesn't worship Heliod.

@@ -11,7 +11,7 @@ aliases:
 ---
 # Swan Icon
 *Wondrous item, rare*
-
+![[Swan Song.webp]]
 **Price:** 2,000-3,500 gp | medium sentimentality
 
 This icon is a tin statuette of a swan with wings outstretched, ready to attack. It can grant Aspect of Swan for 1 minute. Once it has been used, it can't be used again until 5 days have passed. 

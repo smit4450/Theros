@@ -11,7 +11,7 @@ aliases:
 ---
 # Astral Cornucopia
 *Wondrous item, uncommon*
-
+![[Astral Cornucopia.webp]]
 **Price:** 200-800 gp | low sentimentality
 
 This cornucopia is 2 feet long, weighs 20 pounds, and appears to be carved from a rock that fell from the sky. Inside is an endless star field that seems to be a view into Nyx. You can place up to 5 nonliving perishable sacrifices meant for the gods inside, such as cuts

@@ -11,7 +11,7 @@ aliases:
 ---
 # Pharika's Cure
 *Potion, uncommon*
-
+![[Pharikas Mender.webp]]
 **Price:** 10-150 gp | no sentimentality
 
 When you drink this potion, roll a d4. If you roll a 1, you suffer poison damage equal to your maximum hit points. The potion's smoky, purplish-pink liquid hisses like a pit of snakes.

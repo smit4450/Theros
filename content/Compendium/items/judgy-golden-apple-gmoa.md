@@ -14,9 +14,7 @@ aliases:
 
 **Price:** 50-800 gp | low sentimentality
 
-This golden statuette of an apple is perfectly ordinary. Once a day, creatures who come within 30 feet of the apple believe they hear the apple say something judgy about their appearance or
-
-personality, but statuettes can't talk, and neither can apples.
+This golden statuette of an apple is perfectly ordinary. Once a day, creatures who come within 30 feet of the apple believe they hear the apple say something judgy about their appearance or personality, but statuettes can't talk, and neither can apples.
 
 ## Paid
 

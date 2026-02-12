@@ -12,7 +12,7 @@ aliases:
 ---
 # Starlit Mantle
 *Wondrous item, very rare (requires attunement)*
-
+![[Starlit Mantle.webp]]
 **Price:** 30,000-50,000 gp | high sentimentality
 
 This cloak is a window into a starry night sky and magic seems to bounce off it. While wearing the cloak, you gain a +2 bonus to saving throws against spells.

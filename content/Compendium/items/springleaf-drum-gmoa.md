@@ -11,7 +11,7 @@ aliases:
 ---
 # Springleaf Drum
 *Wondrous item, uncommon*
-
+![[Springleaf Drum.webp]]
 **Price:** 600-1,000 gp | low sentimentality
 
 The springleaf is a large and robust leaf favored by satyrs for drum- making. Creatures find the deep, robust sound of these drums to be mesmerizing. Once a day, with the drum in hand, you can use an action to play the drum. Once you play the drum, your allies can use their action on their turn to cheer for your performance. For each ally who cheers your performance, you can choose one creature at the start of your next turn to charm for one turn. Creatures charmed in this way are immune to the drum's effects for the next 24 hours.

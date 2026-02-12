@@ -12,7 +12,7 @@ aliases:
 ---
 # Crown of Atris
 *Wondrous item, rare (requires attunement)*
-
+![[Atris Oracle of HalfTruths.webp]]
 **Price:** 1,000-10,000 gp | low sentimentality
 
 This immense, gilded crown descends over your eyes but leaves your vision intact. The crown has 4 charges, which are used to fuel the magic it contains. While you wear the crown, you can use an action to expend 1 charge to cast [mirror image](Compendium/spells/mirror-image-xphb.md), provided you also choose 3 foes you can see. If there are fewer than 3 foes present, you instead choose all the foes. For each foe you choose, the DM rolls on the Truths of Atris table to determine how those opponents respond to [mirror image](Compendium/spells/mirror-image-xphb.md).

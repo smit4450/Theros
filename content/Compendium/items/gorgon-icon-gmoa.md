@@ -11,7 +11,7 @@ aliases:
 ---
 # Gorgon Icon
 *Wondrous item, very rare*
-
+![[Aspect of Gorgon.webp]]
 **Price:** 20,000-50,000 gp | medium sentimentality
 
 This icon is a serpentine statuette of a gorgon. The snakes seem to move if you examine them closely. It can grant Aspect of Gorgon for 1 minute. Once it has been used, it can't be used again until 5 days have passed. 

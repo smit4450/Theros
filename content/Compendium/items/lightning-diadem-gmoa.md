@@ -12,7 +12,7 @@ aliases:
 ---
 # Lightning Diadem
 *Wondrous item, rare (requires attunement)*
-
+![[Lightning Diadem.webp]]
 **Price:** 5,000-10,000 gp | medium sentimentality
 
 This diadem is made of crackling lightning but can be held as though made of metal. While you wear the diadem, any creature that hits you with a melee attack must succeed a DC 14 Constitution check or suffer 1d4 lightning damage.

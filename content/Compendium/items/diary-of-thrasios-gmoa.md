@@ -10,7 +10,7 @@ aliases:
 ---
 # Diary of Thrasios
 *Story, common*
-
+![[Thrasios, Triton Hero_2.webp]]
 **Price:** none | no sentimentality
 
 A waterproof seaweed jelly covers this book, protecting it from the elements. Inside are diary entries detailing how to reach the lost ruins of a mythical polis known as Olantin, said to have achieved incredible technological advancements before Heliod smote the city for its hubris, causing it to sink below the waves.

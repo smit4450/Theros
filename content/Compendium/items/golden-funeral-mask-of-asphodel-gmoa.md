@@ -11,7 +11,7 @@ aliases:
 ---
 # Golden Funeral Mask of Asphodel
 *Wondrous item, common*
-
+![[Gray Merchant of Asphodel.webp]]
 **Price:** 1-5 cp | low sentimentality
 
 The expression on this mask is eerily neutral, so unfeeling you wonder what thoughts lurk underneath. While you wear the mask, you don't feel anxiety.

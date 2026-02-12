@@ -11,7 +11,7 @@ aliases:
 ---
 # Adventurer's Podium
 *Wondrous item, rare*
-
+![[Heroes Podium.webp]]
 **Price:** 3,000-7,000 gp | medium sentimentality
 
 This podium is an intricate pewter cauldron about 1 foot wide and 1 foot tall. You can use an action to activate the podium by throwing diamond dust worth 250 gp inside, which consumes the dust. Activating the podium causes prismatic light to erupt out of it and coalesce above it to show a three-dimensional map of the terrain up to 100 feet in all horizontal directions around the podium. The podium remains active for 1 minute and can't be moved during that time.

@@ -14,7 +14,7 @@ aliases:
 ---
 # Whip of Erebos' Agent
 *Weapon (whip), artifact (requires attunement by a creature opposed to the undead)*
-
+![[Whip of Erebos.webp]]
 **Price:** 100,000-250,000 gp | high sentimentality
 
 This whip was taken from an agent of Erebos and echoes the properties of Mastix, the whip with endless reach possessed by the god of death himself. It has a leather handle from which hang small ivory carvings of skulls, and the lash twinkles with bleak and sorrowful starlight. With the whip in hand, you sense the presence of undead creatures when they come within 120 feet of you. You gain a +3 bonus to attack and damage rolls made against undead creatures with this magic weapon.

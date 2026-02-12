@@ -11,7 +11,7 @@ aliases:
 ---
 # Golden Funeral Mask of Odunos
 *Wondrous item, uncommon*
-
+![[Odunos River Trawler.webp]]
 **Price:** 100-250 gp | low sentimentality
 
 The expression on this mask is twisted in anger. While you wear the mask, you feel great rage. You gain a +1 bonus to damage rolls.

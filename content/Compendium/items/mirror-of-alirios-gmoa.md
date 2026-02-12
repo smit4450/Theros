@@ -11,7 +11,7 @@ aliases:
 ---
 # Mirror of Alirios
 *Wondrous item, common*
-
+![[Alirios Enraptured.webp]]
 **Price:** 1-100 gp | low sentimentality
 
 This rectangular mirror is 2 feet tall, 1 foot wide, and weighs 4 pounds. Characters looking into this mirror see themselves the way they wished they looked, representing their ideal selves. They can't see anyone else's reflection in this mirror.

@@ -11,7 +11,7 @@ aliases:
 ---
 # Mirror Shield
 *Armor ([shield](Compendium/items/shield-xphb.md)), rare*
-
+![[Mirror Shield.webp]]
 **Price:** 1,000-10,000 gp | low sentimentality
 
 The surface of this metal shield is so perfectly reflective that you can use it as a mirror. Your gaze is considered averted from a creature or object when you view its reflection in the shield.

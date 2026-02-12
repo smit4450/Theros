@@ -14,7 +14,7 @@ aliases:
 ---
 # Bident of Thassa's Beloved
 *Weapon ([trident](Compendium/items/trident-xphb.md)), artifact (requires attunement by a creature that worships Thassa)*
-
+![[dekella-bident-of-thassa.webp]]
 **Price:** 300,000-500,000 gp | high sentimentality
 
 This favored weapon of Thassa, god of the sea, is obviously not one she wields—a god would never forfeit her signature weapon.... But this bident bears her touch, a blessing conferred to a favored champion. Why it's now before you is a mystery. Perhaps the champion fell, perhaps the bident became an heirloom passed down so long its true nature became forgotten, or perhaps Thassa has designated you as her new beloved champion. If you hold the weapon and meditate, you hear whispers of Thassa's philosophy that the sea both ebbs and floods—sometimes you must give before you achieve overwhelming, total victory. The bident is a magic weapon and also functions as a [trident of fish command](Compendium/items/trident-of-fish-command-xdmg.md). On your turn, while you carry the bident, you gain an action for each time you suffered a hit since the end of your last turn.

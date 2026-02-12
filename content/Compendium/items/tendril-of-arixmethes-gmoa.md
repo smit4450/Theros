@@ -11,7 +11,7 @@ aliases:
 ---
 # Tendril of Arixmethes
 *Wondrous item, rare*
-
+![[Arixmethes, Slumbering Isle_2.webp]]
 **Price:** 800-1,200 gp | low sentimentality
 
 This tendril came from the mouth of a slumbering kraken and flops around angrily. It has 60 hit points and 17 AC. You can spend 5 minutes stroking it softly while whispering a password to it until it falls asleep and becomes inert. You can then affix the tendril to any surface. When a creature comes within 5 feet of the tendril, it must say the password within 6 seconds or the tendril awakens and lashes out, dealing 1d6 bludgeoning damage if the creature fails a DC 14 Dexterity saving throw to dodge the attack. The tendril stops attacking when someone speaks the password within 30 feet of it.

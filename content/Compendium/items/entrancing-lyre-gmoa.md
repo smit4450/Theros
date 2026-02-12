@@ -11,7 +11,7 @@ aliases:
 ---
 # Entrancing Lyre
 *Wondrous item, very rare*
-
+![[Siren Song Lyre.webp]]
 **Price:** 30,000-80,000 gp | medium sentimentality
 
 Golden arms extend from the base of this beautiful lyre. With the lyre in hand, you can use an action to target one creature, causing the lyre to begin playing itself until it's destroyed or you use an action to stop it. The lyre has 25 hit points and an AC of 12. It can't target another creature while it's playing. If the targeted creature can hear the lyre play, it must succeed on a DC 15 Charisma saving throw or become [incapacitated](Compendium/rules/conditions.md#Incapacitated) until the end of its next turn. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on a success. The lyre can't target a creature it has affected in the last 24 hours.

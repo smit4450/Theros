@@ -14,7 +14,7 @@ aliases:
 ---
 # Bow of Nylea's Hunter
 *Weapon ([shortbow](Compendium/items/shortbow-xphb.md)), artifact (requires attunement by a creature that enjoys hunting and respects nature)*
-
+![[Bow of Nylea.webp]]
 **Price:** 500,000-750,000 gp | high sentimentality
 
 This [shortbow](Compendium/items/shortbow-xphb.md) and quiver set is blessed by Nylea, god of the hunt. It hums with a sound that resembles distant birdsong. When held, it changes the sound of your footsteps into rustling wind and a light breeze, a perfect mix of sound that deceives the ear into thinking no one is approaching. With the bow in hand, you have [advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks and can speak with animals as if using the [speak with animals](Compendium/spells/speak-with-animals-xphb.md) spell. You gain a +3 bonus to attack rolls made with this magic weapon.

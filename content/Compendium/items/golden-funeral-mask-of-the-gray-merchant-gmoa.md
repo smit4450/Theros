@@ -12,7 +12,7 @@ aliases:
 ---
 # Golden Funeral Mask of the Gray Merchant
 *Wondrous item, legendary (requires attunement)*
-
+![[Gray Merchant of Asphodel.webp]]
 **Price:** 80,000-100,000 gp | medium sentimentality
 
 This mask holds an unlimited number of charges to fuel its magic. It loses all charges when a new creature attunes to it. While you wear the mask, you add 1 charge to the mask every time a creature with an Intelligence score of 8 or higher dies within 30 feet of you, capturing a small part of the creature's life essence but not its soul. While you wear the mask, you can consume charges to perform the following actions: regain expended hit dice (1 charge per die), cast [vampiric touch](Compendium/spells/vampiric-touch-xphb.md) (2 charges plus 1 charge per level to cast the spell at higher than 3rd level), cast [lesser restoration](Compendium/spells/lesser-restoration-xphb.md) (2 charges), cast [greater restoration](Compendium/spells/greater-restoration-xphb.md) (5 charges), or cast [heal](Compendium/spells/heal-xphb.md) (6 charges).

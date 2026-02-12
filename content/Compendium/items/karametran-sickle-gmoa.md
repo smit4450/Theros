@@ -13,7 +13,7 @@ aliases:
 ---
 # Karametran Sickle
 *Weapon ([sickle](Compendium/items/sickle-xphb.md)), common*
-
+![[Karametras Acolyte.webp]]
 **Price:** 1-10,000 gp | medium sentimentality
 
 This sickle slices effortlessly when harvesting any ripe fruit or crop that's ready for harvest. It passes harmlessly through any fruit or crop that isn't ready for harvest, leaving them to continue growing. The sickle is a magic weapon.
