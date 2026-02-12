@@ -1,0 +1,67 @@
+---
+title: Soldier of Brimaz
+obsidianUIMode: preview
+cssclasses: json5e-object
+tags:
+- ttrpg-cli/compendium/src/5e/tbvxix
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/m
+- ttrpg-cli/monster/type/humanoid
+statblock: inline
+aliases: ["Soldier of Brimaz"]
+---
+# Soldier of Brimaz
+*Source: Theros Bestiary TBVXIX*  
+
+
+
+![Soldier of Brimaz](https://img.scryfall.com/cards/art_crop/front/9/2/921d6192-6b6d-4aa1-be80-bc0b9f503e33.jpg?1562636789#right)  
+
+```statblock
+"name": "Soldier of Brimaz (TBVXIX)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "leonin"
+"alignment": "Any alignment"
+"ac": !!int "12"
+"ac_class": "padded"
+"hp": !!int "15"
+"hit_dice": "3d8 + 3"
+"modifier": !!int "1"
+"stats":
+  - !!int "13"
+  - !!int "12"
+  - !!int "12"
+  - !!int "10"
+  - !!int "13"
+  - !!int "11"
+"speed": "35 ft."
+"skillsaves":
+  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+    "desc": "+3"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+    "desc": "+2"
+"senses": "darkvision 60 ft., passive Perception 10"
+"languages": "Common, Leonin"
+"cr": "1/4"
+"traits":
+  - "desc": "As a bonus action, the leonin can let out an especially menacing roar. Creatures of it chooses within 10 feet of itself that can hear it must succeed on a DC 11 Wisdom saving throw or become frightened of it until the end of your next turn."
+    "name": "Daunting Roar (Recharges after a Short or Long Rest)"
+  - "desc": "The soldier has advantage on saving throws against being charmed, frightened, grappled, or restrained while it is within 5 feet of at least one ally."
+    "name": "Formation Tactics"
+  - "desc": "The soldier can't be surprised."
+    "name": "Vigilant"
+"actions":
+  - "desc": "The soldier makes two melee attacks."
+    "name": "Multiattack"
+  - "desc": "_Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage in melee, or 4 (1d6 + 1) piercing damage at range, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
+    "name": "Spear"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage."
+    "name": "Claws"
+"source":
+  - "TBVXIX"
+"image": "Compendium/bestiary/humanoid/token/soldier-of-brimaz-tbvxix.webp"
+```
+^statblock

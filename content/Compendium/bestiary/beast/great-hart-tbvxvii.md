@@ -1,0 +1,62 @@
+---
+title: Great Hart
+obsidianUIMode: preview
+cssclasses: json5e-object
+tags:
+- ttrpg-cli/compendium/src/5e/tbvxvii
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/h
+- ttrpg-cli/monster/type/beast
+statblock: inline
+aliases: ["Great Hart"]
+---
+# Great Hart
+*Source: Theros Bestiary TBVXVII*  
+
+<blockquote><small>The great hart stood like a statue, its hide painted gold by the dawn. The Champion laid down her weapons and stepped forward within an arm’s length of the beast. The hart, sacred to Heliod and bathed in the god’s own light, bowed to the Champion, marking her as the Chosen of the Sun God.
+
+—<i>The Theriad</i></small></blockquote>
+
+![Great Hart](https://img.scryfall.com/cards/art_crop/front/7/0/70cd7d2b-e9c4-4900-89a0-f6eb0c6cb22b.jpg?1578451607#right)  
+
+```statblock
+"name": "Great Hart (TBVXVII)"
+"size": "Huge"
+"type": "beast"
+"alignment": "Any alignment"
+"ac": !!int "17"
+"ac_class": "blessings of the gods"
+"hp": !!int "40"
+"hit_dice": "5d12 + 10"
+"modifier": !!int "3"
+"stats":
+  - !!int "19"
+  - !!int "16"
+  - !!int "14"
+  - !!int "7"
+  - !!int "14"
+  - !!int "10"
+"speed": "60 ft."
+"skillsaves":
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+"senses": "passive Perception 10"
+"languages": ""
+"cr": "3"
+"traits":
+  - "desc": "If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone."
+    "name": "Charge"
+  - "desc": "While the hart is wearing no armor and wielding no shield, its AC includes its Wisdom modifier. In addition, a creature that hits the hart with a melee attack while within 5 feet of it takes 9 (2d8) force damage."
+    "name": "Blessings of the Gods"
+  - "desc": "Heliod occasionally seeks to manipulate the world through the hart with direct possession of the hart. Heliod often finds dramatic ways to make his thoughts known."
+    "name": "Divine Influence"
+"actions":
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage."
+    "name": "Ram"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage."
+    "name": "Hooves"
+"source":
+  - "TBVXVII"
+"image": "Compendium/bestiary/beast/token/great-hart-tbvxvii.webp"
+```
+^statblock
