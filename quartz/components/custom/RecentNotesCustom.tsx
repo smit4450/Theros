@@ -7,15 +7,7 @@ import { Date, getDate } from "../Date"
 import { GlobalConfiguration } from "../../cfg"
 import { i18n } from "../../i18n"
 import { classNames } from "../../util/lang"
-
-/**
- * Extracts the display name from a tag by taking only the last segment.
- * For example: "ttrpg-cli/spell/class/sorcerer" becomes "sorcerer"
- */
-function getTagDisplayName(tag: string): string {
-  const segments = tag.split("/")
-  return segments[segments.length - 1]
-}
+import { getTagDisplayName } from "./PageListCustom"
 
 interface Options {
   title?: string

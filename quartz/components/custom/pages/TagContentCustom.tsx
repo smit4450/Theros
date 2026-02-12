@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../../types"
 import style from "../../styles/listPage.scss"
-import { PageList, SortFn } from "../../PageList"
+import { PageListCustom, SortFn, getTagDisplayName } from "../PageListCustom"
 import { FullSlug, getAllSegmentPrefixes, resolveRelative, simplifySlug } from "../../../util/path"
 import { QuartzPluginData } from "../../../plugins/vfile"
 import { Root } from "hast"
@@ -8,15 +8,6 @@ import { htmlToJsx } from "../../../util/jsx"
 import { i18n } from "../../../i18n"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../../util/resources"
-
-/**
- * Extracts the display name from a tag by taking only the last segment.
- * For example: "ttrpg-cli/spell/class/sorcerer" becomes "sorcerer"
- */
-function getTagDisplayName(tag: string): string {
-  const segments = tag.split("/")
-  return segments[segments.length - 1]
-}
 
 interface TagContentOptions {
   sort?: SortFn
@@ -109,7 +100,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
                         </>
                       )}
                     </p>
-                    <PageList limit={options.numPages} {...listProps} sort={options?.sort} />
+                    <PageListCustom limit={options.numPages} {...listProps} sort={options?.sort} />
                   </div>
                 </div>
               )
@@ -130,7 +121,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
             <div>
-              <PageList {...listProps} sort={options?.sort} />
+              <PageListCustom {...listProps} sort={options?.sort} />
             </div>
           </div>
         </div>
@@ -138,6 +129,6 @@ export default ((opts?: Partial<TagContentOptions>) => {
     }
   }
 
-  TagContentCustom.css = concatenateResources(style, PageList.css)
+  TagContentCustom.css = concatenateResources(style, PageListCustom.css)
   return TagContentCustom
 }) satisfies QuartzComponentConstructor

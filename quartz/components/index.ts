@@ -27,6 +27,7 @@ import ConditionalRender from "./ConditionalRender"
 import TagListCustom from "./custom/TagListCustom"
 import RecentNotesCustom from "./custom/RecentNotesCustom"
 import TagContentCustom from "./custom/pages/TagContentCustom"
+import FolderContentCustom from "./custom/pages/FolderContentCustom"
 import SpellTable from "./custom/SpellTable"
 
 export {
@@ -59,5 +60,6 @@ export {
   TagListCustom,
   RecentNotesCustom,
   TagContentCustom,
+  FolderContentCustom,
   SpellTable,
 }

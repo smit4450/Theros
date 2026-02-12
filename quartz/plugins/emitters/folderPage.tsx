@@ -15,7 +15,7 @@ import {
   simplifySlug,
 } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
-import { FolderContent } from "../../components"
+import { FolderContentCustom } from "../../components"
 import { write } from "./helpers"
 import { i18n, TRANSLATIONS } from "../../i18n"
 import { BuildCtx } from "../../util/ctx"
@@ -104,7 +104,7 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
-    pageBody: FolderContent({ sort: userOpts?.sort }),
+    pageBody: FolderContentCustom({ sort: userOpts?.sort }),
     ...userOpts,
   }
 
