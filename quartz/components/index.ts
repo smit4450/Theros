@@ -23,12 +23,11 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
-import SpellTable from "./SpellTable"
-
-// Custom components for ttrpg-cli tag formatting
-import TagListCustom from "./TagListCustom"
-import RecentNotesCustom from "./RecentNotesCustom"
-import TagContentCustom from "./pages/TagContentCustom"
+// Custom components
+import TagListCustom from "./custom/TagListCustom"
+import RecentNotesCustom from "./custom/RecentNotesCustom"
+import TagContentCustom from "./custom/pages/TagContentCustom"
+import SpellTable from "./custom/SpellTable"
 
 export {
   ArticleTitle,
@@ -56,9 +55,9 @@ export {
   Comments,
   Flex,
   ConditionalRender,
-  SpellTable,
-  // Custom tag formatting components
+  // Custom components
   TagListCustom,
   RecentNotesCustom,
   TagContentCustom,
+  SpellTable,
 }

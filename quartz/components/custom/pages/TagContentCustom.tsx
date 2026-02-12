@@ -1,13 +1,13 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-import style from "../styles/listPage.scss"
-import { PageList, SortFn } from "../PageList"
-import { FullSlug, getAllSegmentPrefixes, resolveRelative, simplifySlug } from "../../util/path"
-import { QuartzPluginData } from "../../plugins/vfile"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../../types"
+import style from "../../styles/listPage.scss"
+import { PageList, SortFn } from "../../PageList"
+import { FullSlug, getAllSegmentPrefixes, resolveRelative, simplifySlug } from "../../../util/path"
+import { QuartzPluginData } from "../../../plugins/vfile"
 import { Root } from "hast"
-import { htmlToJsx } from "../../util/jsx"
-import { i18n } from "../../i18n"
+import { htmlToJsx } from "../../../util/jsx"
+import { i18n } from "../../../i18n"
 import { ComponentChildren } from "preact"
-import { concatenateResources } from "../../util/resources"
+import { concatenateResources } from "../../../util/resources"
 
 /**
  * Extracts the display name from a tag by taking only the last segment.

@@ -5,8 +5,8 @@ import { SKIP, visit } from "unist-util-visit"
 import { Root } from "mdast"
 
 // @ts-ignore
-import statblockScript from "../../components/scripts/statblock.inline"
-import statblockStyle from "../../components/styles/statblock.inline.scss"
+import statblockScript from "../../components/custom/scripts/statblock.inline"
+import statblockStyle from "../../components/custom/styles/statblock.inline.scss"
 
 interface Options {
   /** The default layout to use when none is specified. Currently only "Basic 5e Layout" is supported. */

@@ -11,14 +11,10 @@
             "id": "1ae19d1657e2d569",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Utilities.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Utilities"
+              "title": "New tab"
             }
           }
         ]
@@ -265,7 +261,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1ae19d1657e2d569",
+  "active": "b74a3a1f4b57ccef",
   "lastOpenFiles": [
     "Utilities/Utilities.md",
     "Compendium/books/gray-merchant-of-asphodel/3-random-roll-tables.md",

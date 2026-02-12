@@ -1,6 +1,6 @@
-import { FullSlug, resolveRelative } from "../util/path"
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { classNames } from "../util/lang"
+import { FullSlug, resolveRelative } from "../../util/path"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import { classNames } from "../../util/lang"
 
 /**
  * Extracts the display name from a tag by taking only the last segment.
