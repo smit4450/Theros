@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import FolderNoteExplorer from "./quartz/components/custom/FolderNoteExplorer"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -38,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    FolderNoteExplorer(),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +63,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    FolderNoteExplorer(),
   ],
   right: [],
 }
