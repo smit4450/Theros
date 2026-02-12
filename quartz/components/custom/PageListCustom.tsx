@@ -91,23 +91,23 @@ export const PageListCustom: QuartzComponent = ({ cfg, fileData, allFiles, limit
                     {title}
                   </a>
                 </h3>
+                <ul class="tags">
+                  {tags.map((tag) => {
+                    const displayName = getTagDisplayName(tag)
+                    return (
+                      <li>
+                        <a
+                          class="internal tag-link"
+                          href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                          title={tag}
+                        >
+                          {displayName}
+                        </a>
+                      </li>
+                    )
+                  })}
+                </ul>
               </div>
-              <ul class="tags">
-                {tags.map((tag) => {
-                  const displayName = getTagDisplayName(tag)
-                  return (
-                    <li>
-                      <a
-                        class="internal tag-link"
-                        href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                        title={tag}
-                      >
-                        {displayName}
-                      </a>
-                    </li>
-                  )
-                })}
-              </ul>
             </div>
           </li>
         )
@@ -119,9 +119,27 @@ export const PageListCustom: QuartzComponent = ({ cfg, fileData, allFiles, limit
 PageListCustom.css = `
 .section h3 {
   margin: 0;
+  display: inline;
 }
 
-.section > .tags {
+.section .desc {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.section .desc .tags {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.section .desc .tags li {
+  display: inline-block;
   margin: 0;
 }
 `
