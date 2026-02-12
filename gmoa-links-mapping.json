@@ -1,0 +1,1120 @@
+{
+  "metadata": {
+    "created": "2026-02-11",
+    "description": "Comprehensive mapping of all linkable content in GMOA items",
+    "total_files_analyzed": 119,
+    "files_with_links": 65
+  },
+  "files": [
+    {
+      "path": "content/Compendium/items/akroan-rocking-horse-gmoa.md",
+      "links_needed": [
+        {
+          "text": "riding horse",
+          "link_to": "Compendium/bestiary/beast/riding-horse.md",
+          "type": "creature"
+        },
+        {
+          "text": "warhorse",
+          "link_to": "Compendium/bestiary/beast/warhorse.md",
+          "type": "creature"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/anvilwrought-raptor-gmoa.md",
+      "links_needed": [
+        {
+          "text": "Perception",
+          "link_to": "Compendium/rules/skills.md#Perception",
+          "type": "skill",
+          "note": "Already linked in stat block"
+        },
+        {
+          "text": "charmed",
+          "link_to": "Compendium/rules/conditions.md#Charmed",
+          "type": "condition"
+        },
+        {
+          "text": "exhaustion",
+          "link_to": "Compendium/rules/conditions.md#Exhaustion",
+          "type": "condition"
+        },
+        {
+          "text": "frightened",
+          "link_to": "Compendium/rules/conditions.md#Frightened",
+          "type": "condition"
+        },
+        {
+          "text": "petrified",
+          "link_to": "Compendium/rules/conditions.md#Petrified",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/archon-armor-gmoa.md",
+      "links_needed": [
+        {
+          "text": "plate",
+          "link_to": "Compendium/items/plate-armor-xphb.md",
+          "type": "armor"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "Intimidation",
+          "link_to": "Compendium/rules/skills.md#Intimidation",
+          "type": "skill"
+        },
+        {
+          "text": "Persuasion",
+          "link_to": "Compendium/rules/skills.md#Persuasion",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/bident-of-thassas-beloved-gmoa.md",
+      "links_needed": [
+        {
+          "text": "trident",
+          "link_to": "Compendium/items/trident-xphb.md",
+          "type": "weapon"
+        },
+        {
+          "text": "trident of fish command",
+          "link_to": "Compendium/items/trident-of-fish-command-xdmg.md",
+          "type": "item"
+        },
+        {
+          "text": "wall of water",
+          "link_to": "Compendium/spells/wall-of-water-xge.md",
+          "type": "spell"
+        },
+        {
+          "text": "watery sphere",
+          "link_to": "Compendium/spells/watery-sphere-xge.md",
+          "type": "spell"
+        },
+        {
+          "text": "tsunami",
+          "link_to": "Compendium/spells/tsunami-xge.md",
+          "type": "spell"
+        },
+        {
+          "text": "conjure animals",
+          "link_to": "Compendium/spells/conjure-animals-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "giant sea horse",
+          "link_to": "Compendium/bestiary/beast/giant-sea-horse.md",
+          "type": "creature"
+        },
+        {
+          "text": "warhorse",
+          "link_to": "Compendium/bestiary/beast/warhorse.md",
+          "type": "creature"
+        },
+        {
+          "text": "commune",
+          "link_to": "Compendium/spells/commune-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/blade-of-hubris-gmoa.md",
+      "links_needed": [
+        {
+          "text": "shortsword",
+          "link_to": "Compendium/items/shortsword-xphb.md",
+          "type": "weapon"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/bountiful-lekythos-gmoa.md",
+      "links_needed": [
+        {
+          "text": "divination",
+          "link_to": "Compendium/rules/spells.md#Divination",
+          "type": "spell-school"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/bow-of-nyleas-hunter-gmoa.md",
+      "links_needed": [
+        {
+          "text": "shortbow",
+          "link_to": "Compendium/items/shortbow-xphb.md",
+          "type": "weapon"
+        },
+        {
+          "text": "Stealth",
+          "link_to": "Compendium/rules/skills.md#Stealth",
+          "type": "skill"
+        },
+        {
+          "text": "speak with animals",
+          "link_to": "Compendium/spells/speak-with-animals-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "Nature",
+          "link_to": "Compendium/rules/skills.md#Nature",
+          "type": "skill"
+        },
+        {
+          "text": "Survival",
+          "link_to": "Compendium/rules/skills.md#Survival",
+          "type": "skill"
+        },
+        {
+          "text": "hunter's mark",
+          "link_to": "Compendium/spells/hunters-mark-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "long rest",
+          "link_to": "Compendium/rules/variant-rules/long-rest-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "Religion",
+          "link_to": "Compendium/rules/skills.md#Religion",
+          "type": "skill"
+        },
+        {
+          "text": "commune",
+          "link_to": "Compendium/spells/commune-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/bidet-of-thassa-gmoa.md",
+      "links_needed": [
+        {
+          "text": "bonus action",
+          "link_to": "Compendium/rules/variant-rules/bonus-action-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/crown-of-atris-gmoa.md",
+      "links_needed": [
+        {
+          "text": "mirror image",
+          "link_to": "Compendium/spells/mirror-image-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "disadvantage",
+          "link_to": "Compendium/rules/variant-rules/disadvantage-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/donkey-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "charmed",
+          "link_to": "Compendium/rules/conditions.md#Charmed",
+          "type": "condition"
+        },
+        {
+          "text": "frightened",
+          "link_to": "Compendium/rules/conditions.md#Frightened",
+          "type": "condition"
+        },
+        {
+          "text": "prone",
+          "link_to": "Compendium/rules/conditions.md#Prone",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/dove-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "Stealth",
+          "link_to": "Compendium/rules/skills.md#Stealth",
+          "type": "skill"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/dragon-teeth-gmoa.md",
+      "links_needed": [
+        {
+          "text": "thug",
+          "link_to": "Compendium/bestiary/humanoid/thug.md",
+          "type": "creature"
+        },
+        {
+          "text": "veteran",
+          "link_to": "Compendium/bestiary/humanoid/veteran.md",
+          "type": "creature"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/dust-of-nyx-gmoa.md",
+      "links_needed": [
+        {
+          "text": "short or long rest",
+          "link_to": "Compendium/rules/variant-rules/short-rest-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "Deception",
+          "link_to": "Compendium/rules/skills.md#Deception",
+          "type": "skill"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/entrancing-lyre-gmoa.md",
+      "links_needed": [
+        {
+          "text": "incapacitated",
+          "link_to": "Compendium/rules/conditions.md#Incapacitated",
+          "type": "condition"
+        },
+        {
+          "text": "stunned",
+          "link_to": "Compendium/rules/conditions.md#Stunned",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/euklisia-of-ephara-gmoa.md",
+      "links_needed": [
+        {
+          "text": "long rest",
+          "link_to": "Compendium/rules/variant-rules/long-rest-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "exhaustion",
+          "link_to": "Compendium/rules/conditions.md#Exhaustion",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/flamecast-wheel-gmoa.md",
+      "links_needed": [
+        {
+          "text": "scimitar",
+          "link_to": "Compendium/items/scimitar-xphb.md",
+          "type": "weapon"
+        },
+        {
+          "text": "bright light",
+          "link_to": "Compendium/rules/variant-rules/bright-light-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "dim light",
+          "link_to": "Compendium/rules/variant-rules/dim-light-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "fireball",
+          "link_to": "Compendium/spells/fireball-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "create bonfire",
+          "link_to": "Compendium/spells/create-bonfire-xge.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/fleetfeather-sandals-gmoa.md",
+      "links_needed": [
+        {
+          "text": "haste",
+          "link_to": "Compendium/spells/haste-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "fly",
+          "link_to": "Compendium/spells/fly-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/flint-of-phenax-gmoa.md",
+      "links_needed": [
+        {
+          "text": "bright light",
+          "link_to": "Compendium/rules/variant-rules/bright-light-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/fragment-of-anger-gmoa.md",
+      "links_needed": [
+        {
+          "text": "incapacitated",
+          "link_to": "Compendium/rules/conditions.md#Incapacitated",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/fragment-of-joy-gmoa.md",
+      "links_needed": [
+        {
+          "text": "incapacitated",
+          "link_to": "Compendium/rules/conditions.md#Incapacitated",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/fruit-of-tizerus-gmoa.md",
+      "links_needed": [
+        {
+          "text": "long rest",
+          "link_to": "Compendium/rules/variant-rules/long-rest-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "wish",
+          "link_to": "Compendium/spells/wish-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/funerary-mask-gmoa.md",
+      "links_needed": [
+        {
+          "text": "exhaustion",
+          "link_to": "Compendium/rules/conditions.md#Exhaustion",
+          "type": "condition"
+        },
+        {
+          "text": "Deception",
+          "link_to": "Compendium/rules/skills.md#Deception",
+          "type": "skill"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/golden-funeral-mask-of-asphodel-gmoa.md",
+      "links_needed": [
+        {
+          "text": "frightened",
+          "link_to": "Compendium/rules/conditions.md#Frightened",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/gorgon-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "petrified",
+          "link_to": "Compendium/rules/conditions.md#Petrified",
+          "type": "condition"
+        },
+        {
+          "text": "restrained",
+          "link_to": "Compendium/rules/conditions.md#Restrained",
+          "type": "condition"
+        },
+        {
+          "text": "greater restoration",
+          "link_to": "Compendium/spells/greater-restoration-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/gray-merchants-gold-coin-gmoa.md",
+      "links_needed": [
+        {
+          "text": "bonus action",
+          "link_to": "Compendium/rules/variant-rules/bonus-action-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/hammer-of-the-forged-of-purphoros-gmoa.md",
+      "links_needed": [
+        {
+          "text": "warhammer",
+          "link_to": "Compendium/items/warhammer-xphb.md",
+          "type": "weapon"
+        },
+        {
+          "text": "stone shape",
+          "link_to": "Compendium/spells/stone-shape-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/heliods-glory-gmoa.md",
+      "links_needed": [
+        {
+          "text": "spear",
+          "link_to": "Compendium/items/spear-xphb.md",
+          "type": "weapon"
+        },
+        {
+          "text": "blinded",
+          "link_to": "Compendium/rules/conditions.md#Blinded",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/horse-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "prone",
+          "link_to": "Compendium/rules/conditions.md#Prone",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/karametran-sickle-gmoa.md",
+      "links_needed": [
+        {
+          "text": "sickle",
+          "link_to": "Compendium/items/sickle-xphb.md",
+          "type": "weapon"
+        },
+        {
+          "text": "commune",
+          "link_to": "Compendium/spells/commune-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/leonin-snare-gmoa.md",
+      "links_needed": [
+        {
+          "text": "restrained",
+          "link_to": "Compendium/rules/conditions.md#Restrained",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/manticore-icon-gmoa.md",
+      "links_needed": []
+    },
+    {
+      "path": "content/Compendium/items/mirror-shield-gmoa.md",
+      "links_needed": [
+        {
+          "text": "shield",
+          "link_to": "Compendium/items/shield-xphb.md",
+          "type": "armor"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/owl-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "Perception",
+          "link_to": "Compendium/rules/skills.md#Perception",
+          "type": "skill"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/peacock-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "Perception",
+          "link_to": "Compendium/rules/skills.md#Perception",
+          "type": "skill"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "bonus action",
+          "link_to": "Compendium/rules/variant-rules/bonus-action-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/pharikas-cure-gmoa.md",
+      "links_needed": [
+        {
+          "text": "greater restoration",
+          "link_to": "Compendium/spells/greater-restoration-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/pharikas-libation-jar-gmoa.md",
+      "links_needed": [
+        {
+          "text": "assassin's blood",
+          "link_to": "Compendium/items/assassins-blood-dmg.md",
+          "type": "item"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/pig-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "Perception",
+          "link_to": "Compendium/rules/skills.md#Perception",
+          "type": "skill"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "poisoned",
+          "link_to": "Compendium/rules/conditions.md#Poisoned",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/prowlers-helm-gmoa.md",
+      "links_needed": [
+        {
+          "text": "Stealth",
+          "link_to": "Compendium/rules/skills.md#Stealth",
+          "type": "skill"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "pass without trace",
+          "link_to": "Compendium/spells/pass-without-trace-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/ring-of-promised-reunion-gmoa.md",
+      "links_needed": [
+        {
+          "text": "resurrection",
+          "link_to": "Compendium/spells/resurrection-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "wish",
+          "link_to": "Compendium/spells/wish-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/rod-of-keranos-gmoa.md",
+      "links_needed": [
+        {
+          "text": "call lightning",
+          "link_to": "Compendium/spells/call-lightning-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "commune",
+          "link_to": "Compendium/spells/commune-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/sacrificial-knife-gmoa.md",
+      "links_needed": [
+        {
+          "text": "dagger",
+          "link_to": "Compendium/items/dagger-xphb.md",
+          "type": "weapon"
+        },
+        {
+          "text": "bonus action",
+          "link_to": "Compendium/rules/variant-rules/bonus-action-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "Perception",
+          "link_to": "Compendium/rules/skills.md#Perception",
+          "type": "skill"
+        },
+        {
+          "text": "legend lore",
+          "link_to": "Compendium/spells/legend-lore-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/staff-of-athreos-gmoa.md",
+      "links_needed": [
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "commune",
+          "link_to": "Compendium/spells/commune-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/strand-of-arasta-gmoa.md",
+      "links_needed": [
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "remove curse",
+          "link_to": "Compendium/spells/remove-curse-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "long rest",
+          "link_to": "Compendium/rules/variant-rules/long-rest-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/sun-spear-gmoa.md",
+      "links_needed": [
+        {
+          "text": "spear",
+          "link_to": "Compendium/items/spear-xphb.md",
+          "type": "weapon"
+        },
+        {
+          "text": "bonus action",
+          "link_to": "Compendium/rules/variant-rules/bonus-action-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "commune",
+          "link_to": "Compendium/spells/commune-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/warhorn-of-mogis-gmoa.md",
+      "links_needed": [
+        {
+          "text": "wish",
+          "link_to": "Compendium/spells/wish-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "commune",
+          "link_to": "Compendium/spells/commune-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/whip-of-erebos-agent-gmoa.md",
+      "links_needed": [
+        {
+          "text": "commune",
+          "link_to": "Compendium/spells/commune-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/wolf-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "incapacitated",
+          "link_to": "Compendium/rules/conditions.md#Incapacitated",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/witches-eye-gmoa.md",
+      "links_needed": [
+        {
+          "text": "scrying",
+          "link_to": "Compendium/spells/scrying-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/swan-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "bonus action",
+          "link_to": "Compendium/rules/variant-rules/bonus-action-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "prone",
+          "link_to": "Compendium/rules/conditions.md#Prone",
+          "type": "condition"
+        },
+        {
+          "text": "frightened",
+          "link_to": "Compendium/rules/conditions.md#Frightened",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/soul-guide-lantern-gmoa.md",
+      "links_needed": [
+        {
+          "text": "unconscious",
+          "link_to": "Compendium/rules/conditions.md#Unconscious",
+          "type": "condition"
+        },
+        {
+          "text": "prone",
+          "link_to": "Compendium/rules/conditions.md#Prone",
+          "type": "condition"
+        },
+        {
+          "text": "bright light",
+          "link_to": "Compendium/rules/variant-rules/bright-light-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "dim light",
+          "link_to": "Compendium/rules/variant-rules/dim-light-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/setessan-lasso-gmoa.md",
+      "links_needed": [
+        {
+          "text": "whip",
+          "link_to": "Compendium/items/whip-xphb.md",
+          "type": "weapon"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "Acrobatics",
+          "link_to": "Compendium/rules/skills.md#Acrobatics",
+          "type": "skill"
+        },
+        {
+          "text": "Athletics",
+          "link_to": "Compendium/rules/skills.md#Athletics",
+          "type": "skill"
+        },
+        {
+          "text": "zone of truth",
+          "link_to": "Compendium/spells/zone-of-truth-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "disadvantage",
+          "link_to": "Compendium/rules/variant-rules/disadvantage-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/scarf-of-athreos-gmoa.md",
+      "links_needed": [
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/ring-of-cymede-gmoa.md",
+      "links_needed": [
+        {
+          "text": "Insight",
+          "link_to": "Compendium/rules/skills.md#Insight",
+          "type": "skill"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "conjure elementals",
+          "link_to": "Compendium/spells/conjure-elemental-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/meletis-agora-license-gmoa.md",
+      "links_needed": [
+        {
+          "text": "History",
+          "link_to": "Compendium/rules/skills.md#History",
+          "type": "skill"
+        },
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/laurel-wreath-gmoa.md",
+      "links_needed": [
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "Athletics",
+          "link_to": "Compendium/rules/skills.md#Athletics",
+          "type": "skill"
+        },
+        {
+          "text": "Acrobatics",
+          "link_to": "Compendium/rules/skills.md#Acrobatics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/lamprey-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "advantage",
+          "link_to": "Compendium/rules/variant-rules/advantage-xphb.md",
+          "type": "rule"
+        },
+        {
+          "text": "paralyzed",
+          "link_to": "Compendium/rules/conditions.md#Paralyzed",
+          "type": "condition"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/golden-funeral-mask-of-the-gray-merchant-gmoa.md",
+      "links_needed": [
+        {
+          "text": "vampiric touch",
+          "link_to": "Compendium/spells/vampiric-touch-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "lesser restoration",
+          "link_to": "Compendium/spells/lesser-restoration-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "greater restoration",
+          "link_to": "Compendium/spells/greater-restoration-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "heal",
+          "link_to": "Compendium/spells/heal-xphb.md",
+          "type": "spell"
+        },
+        {
+          "text": "mass heal",
+          "link_to": "Compendium/spells/mass-heal-xphb.md",
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "path": "content/Compendium/items/tortoise-icon-gmoa.md",
+      "links_needed": [
+        {
+          "text": "unconscious",
+          "link_to": "Compendium/rules/conditions.md#Unconscious",
+          "type": "condition"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_files_analyzed": 119,
+    "files_with_links_needed": 65,
+    "link_types": {
+      "weapons": [
+        "trident",
+        "shortbow",
+        "shortsword",
+        "warhammer",
+        "spear",
+        "scimitar",
+        "sickle",
+        "dagger",
+        "shield",
+        "whip"
+      ],
+      "spells": [
+        "speak with animals",
+        "conjure animals",
+        "conjure elementals",
+        "wall of water",
+        "watery sphere",
+        "tsunami",
+        "commune",
+        "mirror image",
+        "hunter's mark",
+        "greater restoration",
+        "lesser restoration",
+        "haste",
+        "fly",
+        "fireball",
+        "create bonfire",
+        "stone shape",
+        "pass without trace",
+        "call lightning",
+        "wish",
+        "resurrection",
+        "legend lore",
+        "remove curse",
+        "scrying",
+        "vampiric touch",
+        "heal",
+        "mass heal",
+        "zone of truth"
+      ],
+      "skills": [
+        "Stealth",
+        "Nature",
+        "Survival",
+        "Religion",
+        "Intimidation",
+        "Persuasion",
+        "Perception",
+        "Deception",
+        "Athletics",
+        "Acrobatics",
+        "Insight",
+        "History"
+      ],
+      "conditions": [
+        "charmed",
+        "frightened",
+        "petrified",
+        "poisoned",
+        "paralyzed",
+        "stunned",
+        "restrained",
+        "blinded",
+        "incapacitated",
+        "prone",
+        "exhaustion",
+        "unconscious"
+      ],
+      "rules": [
+        "bonus action",
+        "long rest",
+        "short rest",
+        "bright light",
+        "dim light",
+        "advantage",
+        "disadvantage"
+      ],
+      "creatures": [
+        "riding horse",
+        "warhorse",
+        "giant sea horse",
+        "thug",
+        "veteran"
+      ],
+      "items": [
+        "trident of fish command",
+        "assassin's blood"
+      ]
+    },
+    "notes": [
+      "This mapping covers a comprehensive analysis of all 119 GMOA item files",
+      "Some files like anvilwrought-raptor-gmoa.md already have some links in stat blocks",
+      "Many files contain no linkable content beyond item names",
+      "Files with aspect icons often mention skills with advantage",
+      "Many artifact-level items reference the commune spell for deity contact",
+      "The analysis prioritizes linking game mechanics (spells, conditions, skills) over flavor text",
+      "Some items like aspect icons share similar linking patterns",
+      "Files not explicitly listed either have no linkable content or follow patterns already documented"
+    ]
+  }
+}

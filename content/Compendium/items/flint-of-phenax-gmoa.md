@@ -14,7 +14,7 @@ aliases:
 
 **Price:** 100-500 gp | low sentimentality
 
-Campfires, torches, and candles lit with this flint shed bright light and heat for 30 feet but aren't visible and can't be felt by anyone standing farther than 30 feet from them. The effect doesn't conceal objects or creatures around the flame—it simply doesn't illuminate them.
+Campfires, torches, and candles lit with this flint shed [bright light](Compendium/rules/variant-rules/bright-light-xphb.md) and heat for 30 feet but aren't visible and can't be felt by anyone standing farther than 30 feet from them. The effect doesn't conceal objects or creatures around the flame—it simply doesn't illuminate them.
 
 ## Paid
 

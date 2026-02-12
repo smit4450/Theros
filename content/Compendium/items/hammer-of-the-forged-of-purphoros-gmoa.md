@@ -13,13 +13,13 @@ aliases:
 - "Hammer of the Forged of Purphoros"
 ---
 # Hammer of the Forged of Purphoros
-*Weapon (warhammer), artifact (requires attunement)*
+*Weapon ([warhammer](Compendium/items/warhammer-xphb.md)), artifact (requires attunement)*
 
 **Price:** 200,000-600,000 gp | high sentimentality
 
 Purphoros, god of the forge, wielded this hammer before he crafted a more masterful version. It crackles like fire and feels almost unbearably hot. The hammer is a magic weapon. Up to 3 times each day, you can use an action to slam the hammer against the earth to summon a font of lava that lasts for 1 minute or until you use an action to end it, whichever occurs first. You can't summon another font of lava while the first is active. The lava shares your initiative count and takes its turn after yours. On its first turn, the font creates a pool of lava at its location that is 5 feet wide. The pool expands 5 feet in all directions each subsequent turn the font is active. Creatures and objects suffer 6d10 fire damage when they enter lava for the first time on a turn or end their turn there. 
 
-**Master Crafter.** With the hammer in hand, you can use an action to cast the stone shape spell with the modification that the spell can affect stone objects of Huge size or smaller or a section of stone no more than 20 feet in any dimension.
+**Master Crafter.** With the hammer in hand, you can use an action to cast the [stone shape](Compendium/spells/stone-shape-xphb.md) spell with the modification that the spell can affect stone objects of Huge size or smaller or a section of stone no more than 20 feet in any dimension.
 
 ## Paid
 

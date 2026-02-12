@@ -16,7 +16,7 @@ aliases:
 
 This copper statuette is shaped like a turtle. It can grant Aspect of Turtle for 1 minute. Once it has been used, it can't be used again until 7 days have passed. 
 
-**Aspect of Turtle.** The clothing you're wearing gains the coloration and texture of a turtle's shell. You can use an action to target one creature you saw within the last round (6 seconds) and choose whether you want the creature to fall unconscious or have its speed halved. The target must succeed a DC 16 Wisdom saving throw or succumb to the chosen effect for 5 rounds (30 seconds) or until they take damage.
+**Aspect of Turtle.** The clothing you're wearing gains the coloration and texture of a turtle's shell. You can use an action to target one creature you saw within the last round (6 seconds) and choose whether you want the creature to fall [unconscious](Compendium/rules/conditions.md#Unconscious) or have its speed halved. The target must succeed a DC 16 Wisdom saving throw or succumb to the chosen effect for 5 rounds (30 seconds) or until they take damage.
 
 ## Paid
 

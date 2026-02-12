@@ -16,7 +16,7 @@ aliases:
 
 This icon is an iron statuette of a walking donkey and feels hot to the touch. It can grant Aspect of Donkey for 1 minute. Once it has been used, it can't be used again until 7 days have passed. 
 
-**Aspect of Donkey.** Your Strength and Constitution scores increase by 2, and your stubbornness makes you immune to being charmed, frightened, or knocked prone.
+**Aspect of Donkey.** Your Strength and Constitution scores increase by 2, and your stubbornness makes you immune to being [charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened), or knocked [prone](Compendium/rules/conditions.md#Prone).
 
 ## Paid
 

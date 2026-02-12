@@ -16,7 +16,7 @@ aliases:
 
 This icon is a white marble statuette of a lamprey with pulsing red veins. It can grant Aspect of Lamprey for 1 minute. Once it has been used, it can't be used again until 4 days have passed. 
 
-**Aspect of Lamprey.** Your mouth transforms into a lamprey's mouth, complete with hooked teeth. You have advantage on attempts to grapple creatures and can grapple creatures of any size. Upon a successful grapple, the creature is paralyzed for one round while you sink your teeth Horse Icon Hydra Icon Pig Icon Swan Icon into the creature and drink its blood. The DM chooses one feature from the creature's stat block for you to acquire and use for the aspect's remaining duration. If you've already acquired a feature, you lose your current feature when you acquire a new one.
+**Aspect of Lamprey.** Your mouth transforms into a lamprey's mouth, complete with hooked teeth. You have [advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attempts to grapple creatures and can grapple creatures of any size. Upon a successful grapple, the creature is [paralyzed](Compendium/rules/conditions.md#Paralyzed) for one round while you sink your teeth Horse Icon Hydra Icon Pig Icon Swan Icon into the creature and drink its blood. The DM chooses one feature from the creature's stat block for you to acquire and use for the aspect's remaining duration. If you've already acquired a feature, you lose your current feature when you acquire a new one.
 
 ## Paid
 

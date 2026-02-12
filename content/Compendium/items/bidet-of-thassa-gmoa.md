@@ -14,7 +14,7 @@ aliases:
 
 **Price:** 1 sp - 5 gp | no sentimentality
 
-This bronze cylinder is about 2 inches long and half an inch in diameter, with an opening on one end. You can use a bonus action to speak the command word, causing salt water to shoot out of the opening up to a distance of 2 feet for 1 minute. The water is warm.
+This bronze cylinder is about 2 inches long and half an inch in diameter, with an opening on one end. You can use a [bonus action](Compendium/rules/variant-rules/bonus-action-xphb.md) to speak the command word, causing salt water to shoot out of the opening up to a distance of 2 feet for 1 minute. The water is warm.
 
 ## Paid
 

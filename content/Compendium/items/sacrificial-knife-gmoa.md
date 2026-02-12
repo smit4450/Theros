@@ -13,7 +13,7 @@ aliases:
 - "Sacrificial Knife"
 ---
 # Sacrificial Knife
-*Weapon (dagger)s, very rare (requires attunement by a creature that worships a god)*
+*Weapon ([dagger](Compendium/items/dagger-xphb.md))s, very rare (requires attunement by a creature that worships a god)*
 
 **Price:** 10,000-30,000 gp | medium sentimentality
 
@@ -29,7 +29,7 @@ Once a day, you can use an action to pull out the entrails of a creature killed 
 
 **Omen of the Sea.** The sea is no place for the unskilled, so the omen grants you visions to aid in the trials that may come. The next three times you make a skill check within the next 24 hours, you make the check with advantage. 
 
-**Omen of the Forge.** The omen reminds you that destruction must accompany creation. Roll 2d12 and record the result. Once in the next 24 hours, you can use a bonus action to target one creature within 60 feet of you to suffer fire damage equal to the value of the result. Creatures don't know you're the cause of the damage unless they're worshipers of Purphoros, within 30 feet of you when you use your bonus action, and succeed a DC 14 Wisdom (Perception) check. 
+**Omen of the Forge.** The omen reminds you that destruction must accompany creation. Roll 2d12 and record the result. Once in the next 24 hours, you can use a [bonus action](Compendium/rules/variant-rules/bonus-action-xphb.md) to target one creature within 60 feet of you to suffer fire damage equal to the value of the result. Creatures don't know you're the cause of the damage unless they're worshipers of Purphoros, within 30 feet of you when you use your bonus action, and succeed a DC 14 Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check. 
 
 **Omen of the Sun.** The omen tells of coming dangers. Roll three d20s and record the results. During the next 24 hours, you can use each result once to replace the result of a saving throw made by any creature within 60 feet of you. 
 
@@ -37,6 +37,6 @@ Once a day, you can use an action to pull out the entrails of a creature killed 
 
 ## Overpaid
 
-The first time you attune to the knife, you gain the effects of the legend lore spell as though you cast it.
+The first time you attune to the knife, you gain the effects of the [legend lore](Compendium/spells/legend-lore-xphb.md) spell as though you cast it.
 
 *Source: The Gray Merchant of Asphodel*

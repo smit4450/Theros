@@ -18,7 +18,7 @@ This scarf has been blessed by clerics of Athreos, the god of passage who ferrie
 
 ## Paid
 
-Once a day, while you wear the scarf, it automatically covers your face if you're exposed to a poisonous substance, giving you advantage on your Constitution saving throw against the poison's effects.
+Once a day, while you wear the scarf, it automatically covers your face if you're exposed to a poisonous substance, giving you [advantage](Compendium/rules/variant-rules/advantage-xphb.md) on your Constitution saving throw against the poison's effects.
 
 ## Overpaid
 

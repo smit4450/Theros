@@ -12,7 +12,7 @@ aliases:
 - "Karametran Sickle"
 ---
 # Karametran Sickle
-*Weapon (sickle), common*
+*Weapon ([sickle](Compendium/items/sickle-xphb.md)), common*
 
 **Price:** 1-10,000 gp | medium sentimentality
 
@@ -24,6 +24,6 @@ Any fruit or vegetable harvested by the sickle tastes delicious and how one imag
 
 ## Overpaid
 
-Once a day for the first ten days after you purchase this sickle from the Gray Merchant, you may cast the commune spell without requiring material components to contact Karametra.
+Once a day for the first ten days after you purchase this sickle from the Gray Merchant, you may cast the [commune](Compendium/spells/commune-xphb.md) spell without requiring material components to contact Karametra.
 
 *Source: The Gray Merchant of Asphodel*

@@ -18,10 +18,10 @@ This clay mask covers the face of the deceased and helps the soul resist the Und
 
 ## Paid
 
-If you die while wearing this mask in the Underworld, you can choose to destroy the mask to avoid gaining a level of exhaustion.
+If you die while wearing this mask in the Underworld, you can choose to destroy the mask to avoid gaining a level of [exhaustion](Compendium/rules/conditions.md#Exhaustion).
 
 ## Overpaid
 
-Wearing this mask allows you to make Charisma (Deception) checks with advantage when convincing undead creatures that you aren't alive. Undead creatures that automatically attack the living don't recognize you as living unless given reason to believe otherwise.
+Wearing this mask allows you to make Charisma ([Deception](Compendium/rules/skills.md#Deception)) checks with [advantage](Compendium/rules/variant-rules/advantage-xphb.md) when convincing undead creatures that you aren't alive. Undead creatures that automatically attack the living don't recognize you as living unless given reason to believe otherwise.
 
 *Source: The Gray Merchant of Asphodel*

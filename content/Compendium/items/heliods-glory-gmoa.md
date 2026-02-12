@@ -18,7 +18,7 @@ This vase is 3 feet tall, 2 feet in diameter, and weighs 60 pounds, requiring tw
 
 ## Paid
 
-You can use an action to pull a spear made of light from the vase. It has the same stats as a regular spear except it deals radiant instead of piercing damage. You can use an action to strike the vase with the spear, causing the vase to shatter. When the vase shatters, the vase and all spears pulled from the vase are destroyed and a brilliant flash of light erupts from the vase outward to a distance of 120 feet. All creatures caught in the blast who worship Heliod heal 4d8 hit points. All other creatures caught in the blast suffer 4d8 radiant damage and must succeed a DC 14 Constitution saving throw or be blinded for 2d4 turns.
+You can use an action to pull a [spear](Compendium/items/spear-xphb.md) made of light from the vase. It has the same stats as a regular [spear](Compendium/items/spear-xphb.md) except it deals radiant instead of piercing damage. You can use an action to strike the vase with the [spear](Compendium/items/spear-xphb.md), causing the vase to shatter. When the vase shatters, the vase and all spears pulled from the vase are destroyed and a brilliant flash of light erupts from the vase outward to a distance of 120 feet. All creatures caught in the blast who worship Heliod heal 4d8 hit points. All other creatures caught in the blast suffer 4d8 radiant damage and must succeed a DC 14 Constitution saving throw or be [blinded](Compendium/rules/conditions.md#Blinded) for 2d4 turns.
 
 ## Overpaid
 

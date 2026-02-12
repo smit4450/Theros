@@ -18,7 +18,7 @@ When you drink this potion, roll a d4. If you roll a 1, you suffer poison damage
 
 ## Paid
 
-When you drink this potion, you gain the benefits of the greater restoration spell. You must still roll to see if you suffer poison damage.
+When you drink this potion, you gain the benefits of the [greater restoration](Compendium/spells/greater-restoration-xphb.md) spell. You must still roll to see if you suffer poison damage.
 
 ## Overpaid
 

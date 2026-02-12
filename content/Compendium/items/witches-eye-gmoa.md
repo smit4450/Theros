@@ -18,7 +18,7 @@ Commonly mistaken for witches, hence the misnomer, this eye actually comes from 
 
 ## Paid
 
-Once a day, while holding the eye, you can use an action to cast the scrying spell without its material components requirement and with a DC of 20 for the target's Wisdom saving throw.
+Once a day, while holding the eye, you can use an action to cast the [scrying](Compendium/spells/scrying-xphb.md) spell without its material components requirement and with a DC of 20 for the target's Wisdom saving throw.
 
 ## Overpaid
 
