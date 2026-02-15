@@ -281,10 +281,29 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       transition:
         transform 200ms ease,
         visibility 200ms ease;
+      overflow: hidden;
+      padding: 4rem 0 2rem 0;
       height: 100dvh;
-      overflow-y: auto;
-      // Workaround for Safari bug w/ overflow scrolling
-      will-change: transform;
+      max-height: 100dvh;
+      visibility: hidden;
+    }
+
+    .mobile-explorer {
+      margin: 0;
+      padding: 5px;
+      z-index: 101;
+
+      .lucide-menu {
+        stroke: var(--darkgray);
+      }
+    }
+  }
+}
+
+.mobile-no-scroll {
+  @media all and ($mobile) {
+    .explorer-content > .explorer-ul {
+      overscroll-behavior: contain;
     }
   }
 }
