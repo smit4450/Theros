@@ -3,6 +3,7 @@ import { Code } from "mdast"
 import { Root as HtmlRoot, Element } from "hast"
 import { SKIP, visit } from "unist-util-visit"
 import { Root } from "mdast"
+import { FullSlug, TransformOptions, transformLink } from "../../util/path"
 
 // @ts-ignore
 import statblockScript from "../../components/custom/scripts/statblock.inline"
@@ -45,10 +46,16 @@ export const FantasyStatblocks: QuartzTransformerPlugin<Partial<Options>> = (use
         },
       ]
     },
-    htmlPlugins() {
+    htmlPlugins(ctx) {
       return [
         () => {
-          return (tree: HtmlRoot) => {
+          return (tree: HtmlRoot, file) => {
+            const curSlug = file.data.slug!
+            const transformOptions: TransformOptions = {
+              strategy: "shortest",
+              allSlugs: ctx.allSlugs,
+            }
+
             visit(tree, "element", (node: Element, index, parent) => {
               // After rehype, fenced code blocks become <pre><code>...</code></pre>.
               // We need to find <code> elements with our marker class and replace
@@ -60,6 +67,19 @@ export const FantasyStatblocks: QuartzTransformerPlugin<Partial<Options>> = (use
                   const layout = node.properties?.["dataDefaultLayout"] as string | undefined
 
                   if (yaml && parent && typeof index === "number") {
+                    // Resolve wiki-links in the YAML at build time so the
+                    // client-side renderer receives proper relative URLs,
+                    // just like Quartz resolves them everywhere else.
+                    const resolvedYaml = yaml.replace(
+                      /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
+                      (_match: string, target: string, display: string | undefined) => {
+                        const label = display || target
+                        // transformLink expects the raw target (spaces→hyphens, no .md)
+                        const href = target.replace(/ /g, "-")
+                        const resolved = transformLink(curSlug, href, transformOptions)
+                        return `[${label}](${resolved})`
+                      },
+                    )
                     // Replace the parent <pre> element (or the code element itself
                     // if there is no <pre> wrapper) with a container div
                     const parentIsElement = parent.type === "element" && "tagName" in parent
@@ -78,7 +98,7 @@ export const FantasyStatblocks: QuartzTransformerPlugin<Partial<Options>> = (use
                         tagName: "div",
                         properties: {
                           className: ["fantasy-statblock-container"],
-                          "data-statblock-yaml": yaml,
+                          "data-statblock-yaml": resolvedYaml,
                           "data-default-layout": layout ?? opts.defaultLayout,
                         },
                         children: [
@@ -96,7 +116,7 @@ export const FantasyStatblocks: QuartzTransformerPlugin<Partial<Options>> = (use
                                     type: "element",
                                     tagName: "code",
                                     properties: {},
-                                    children: [{ type: "text", value: yaml }],
+                                    children: [{ type: "text", value: resolvedYaml }],
                                   },
                                 ],
                               },
