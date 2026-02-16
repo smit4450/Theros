@@ -523,8 +523,13 @@ function linkifyText(text: string): string {
     /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
     (_m, target, display) => {
       const label = display || target
-      // Try to make a reasonable URL from the target
-      const href = target.replace(/ /g, "-")
+      // Split target into filename and anchor (if present)
+      const [filename, anchor] = target.split("#")
+      // Convert spaces to hyphens in filename, preserve anchor as-is
+      const slug = filename.trim().replace(/ /g, "-")
+      // Build absolute path from root for wiki links
+      const base = getBasePath()
+      const href = anchor ? `${base}/${slug}#${anchor}` : `${base}/${slug}`
       return `<a href="${escapeHtml(href)}">${escapeHtml(label)}</a>`
     },
   )
