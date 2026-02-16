@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c6d84a2488fce07b",
+        "id": "523e53d6043ee577",
         "type": "tabs",
         "children": [
           {
-            "id": "a507a16ea995846f",
+            "id": "fc432a6c4f9a89aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/supernatural-gifts/supernatural-gifts.md",
+                "file": "Compendium/deities/theros-athreos-mot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "supernatural-gifts"
-            }
-          },
-          {
-            "id": "6227afc5b471ad25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/supernatural-gifts/supernatural-gifts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "supernatural-gifts"
+              "title": "theros-athreos-mot"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,6 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -281,25 +267,30 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6227afc5b471ad25",
+  "active": "fc432a6c4f9a89aa",
   "lastOpenFiles": [
-    "mythic-odysseys-of-theros/2-character-creation.md",
+    "Compendium/deities/deities.md",
+    "Compendium/books/mythic-odysseys-of-theros/3-gods-of-theros.md",
+    "Compendium/supernatural-gifts/anvilwrought-mot.md",
+    "Compendium/supernatural-gifts/heroic-destiny-mot.md",
+    "Compendium/tables/gods-of-theros-mot.md",
+    "Compendium/books/mythic-odysseys-of-theros/2-character-creation.md",
+    "Compendium/books/mythic-odysseys-of-theros/1-welcome-to-theros.md",
+    "Compendium/books/mythic-odysseys-of-theros/7-friends-and-foes.md",
+    "Compendium/books/mythic-odysseys-of-theros/8-credits.md",
     "Compendium/supernatural-gifts/supernatural-gifts.md",
+    "mythic-odysseys-of-theros/2-character-creation.md",
     "Compendium/supernatural-gifts/unscarred-mot.md",
     "Compendium/supernatural-gifts/pious-mot.md",
     "Compendium/supernatural-gifts/oracle-mot.md",
     "Compendium/supernatural-gifts/lifelong-companion-mot.md",
     "Compendium/supernatural-gifts/inscrutable-mot.md",
     "Compendium/supernatural-gifts/iconoclast-mot.md",
-    "Compendium/supernatural-gifts/heroic-destiny-mot.md",
-    "Compendium/supernatural-gifts/anvilwrought-mot.md",
     "Compendium/supernatural-gifts/nyxborn-mot.md",
     "Compendium/supernatural-gifts",
     "Compendium/bastions/arcane-study.md",
     "Compendium/books/mythic-odysseys-of-theros/5-creating-theros-adventures.md",
     "Compendium/books/dungeon-masters-guide-2024/03-chapter-3-dms-toolbox.md",
-    "Compendium/books/mythic-odysseys-of-theros/2-character-creation.md",
-    "Compendium/books/mythic-odysseys-of-theros/1-welcome-to-theros.md",
     "mythic-odysseys-of-theros/Character Creation",
     "mythic-odysseys-of-theros/1-welcome-to-theros.md",
     "mythic-odysseys-of-theros/img/086-04-11.webp",
@@ -317,12 +308,7 @@
     "mythic-odysseys-of-theros/7-friends-and-foes.md",
     "mythic-odysseys-of-theros/6-treasures.md",
     "mythic-odysseys-of-theros/5-creating-theros-adventures.md",
-    "mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md",
-    "mythic-odysseys-of-theros/3-gods-of-theros.md",
     "mythic-odysseys-of-theros",
-    "Compendium/bestiary/elemental/flame-wreathed-phoenix-tbviv.md",
-    "Compendium/bestiary/elemental/galeb-duhr-xmm.md",
-    "Compendium/rules/variant-rules/hit-points-xphb.md",
     "Compendium/crafting/forging",
     "Compendium/crafting",
     "Compendium/crafting/enchantments/armor",
