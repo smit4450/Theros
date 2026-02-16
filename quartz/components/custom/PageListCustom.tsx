@@ -142,4 +142,14 @@ PageListCustom.css = `
   display: inline-block;
   margin: 0;
 }
+
+@media (max-width: 800px) {
+  li.section-li > .section {
+    grid-template-columns: fit-content(8em) 1fr;
+  }
+
+  .section .desc .tags {
+    display: none;
+  }
+}
 `
