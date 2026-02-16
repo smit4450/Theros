@@ -21,6 +21,6 @@ The sahuagin mastered the craft of working with Zarinthic, a metal that naturall
 ## Zarinthic Weapon
 ***Magic Weapon.*** You have a +2 bonus to attack and damage rolls made with this magic weapon.
 
-***Zarinthic.*** When you hit a creature with this weapon that is wearing heavy armor, it is [[Restrained]] until the end of its next turn.
+***Zarinthic.*** When you hit a creature with this weapon that is wearing heavy armor, it is [[conditions#Restrained|Restrained]] until the end of its next turn.
 
 ***Conductive.*** This weapon can be used as a spellcasting focus.

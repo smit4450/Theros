@@ -18,10 +18,10 @@ This rocking horse is the right size for a child to ride and part of a mass-prod
 
 ## Paid
 
-This particular rocking horse has been enchanted so that once a day, you can use an action to set it on the ground and speak the command word to transform it into a [[riding-horse|riding horse]]. The transformed horse rocks back and forth when standing still. The horse transforms back into a rocking horse after 20 minutes or when it drops to 0 hit points.
+This particular rocking horse has been enchanted so that once a day, you can use an action to set it on the ground and speak the command word to transform it into a [[riding-horse-xmm|riding horse]]. The transformed horse rocks back and forth when standing still. The horse transforms back into a rocking horse after 20 minutes or when it drops to 0 hit points.
 
 ## Overpaid
 
-The rocking horse transforms into a [[warhorse|warhorse]] instead of a riding horse.
+The rocking horse transforms into a [[warhorse-xmm|warhorse]] instead of a riding horse.
 
 *Source: The Gray Merchant of Asphodel*

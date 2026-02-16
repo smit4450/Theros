@@ -14,7 +14,7 @@ aliases:
 
 **Price:** 5,000-8,000 gp | medium sentimentality
 
-Paintings of venomous snakes cover the jar. The jar can hold up to a cup's worth of liquid and any liquid placed in the jar and kept there for 24 hours becomes a poison with the properties of [[assassins-blood-dmg|assassin's blood]] (DMG). The poison retains all the liquid's original properties, including taste, texture, and appearance, and its poisonous nature can only be detected via magic. A sip of the liquid counts as a full dose of the poison, but drinking more, up to the full cup, doesn't increase the poison's effects. Once you've added any amount of liquid into the jar, you can't add more liquid until you pour out what's already in the jar.
+Paintings of venomous snakes cover the jar. The jar can hold up to a cup's worth of liquid and any liquid placed in the jar and kept there for 24 hours becomes a poison with the properties of [[assassins-blood-xdmg|assassin's blood]] (DMG). The poison retains all the liquid's original properties, including taste, texture, and appearance, and its poisonous nature can only be detected via magic. A sip of the liquid counts as a full dose of the poison, but drinking more, up to the full cup, doesn't increase the poison's effects. Once you've added any amount of liquid into the jar, you can't add more liquid until you pour out what's already in the jar.
 
 ## Paid
 

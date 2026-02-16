@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc432a6c4f9a89aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/books/forgotten-realms-heroes-of-faerun/6-chapter-5-magic-of-faerun.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6-chapter-5-magic-of-faerun"
-            }
-          },
-          {
             "id": "a92bb3c15d84d96e",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "broken links output"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -284,9 +269,11 @@
   },
   "active": "a92bb3c15d84d96e",
   "lastOpenFiles": [
+    "index.md",
+    "broken links output.md",
+    "Compendium/crafting/enchantments/universal/lucky.md",
     "Compendium/classes/cleric-xphb-knowledge-domain-frhof.md",
     "Compendium/books/forgotten-realms-heroes-of-faerun/6-chapter-5-magic-of-faerun.md",
-    "broken links output.md",
     "Compendium/crafting/forging/zarinthic.md",
     "Compendium/books/forgotten-realms-heroes-of-faerun/5-chapter-4-auroras-whole-realms-catalog.md",
     "Compendium/books/forgotten-realms-heroes-of-faerun/4-chapter-3-gods-of-faerun.md",
@@ -308,8 +295,6 @@
     "Compendium/books/mythic-odysseys-of-theros/7-friends-and-foes.md",
     "Compendium/books/mythic-odysseys-of-theros/8-credits.md",
     "Compendium/supernatural-gifts/supernatural-gifts.md",
-    "mythic-odysseys-of-theros/2-character-creation.md",
-    "Compendium/supernatural-gifts/unscarred-mot.md",
     "Compendium/supernatural-gifts",
     "mythic-odysseys-of-theros/Character Creation",
     "mythic-odysseys-of-theros/img/086-04-11.webp",

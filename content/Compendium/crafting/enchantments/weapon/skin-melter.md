@@ -12,4 +12,4 @@ aliases:
 # Skin Melter
 *Weapon Enchantment, Rare (requires attunement)*
 
-When you hit a creature with this weapon it takes an extra 1d10 acid damage and is [[Frightened]] of you until the end of its next turn.
+When you hit a creature with this weapon it takes an extra 1d10 acid damage and is [[conditions#Frightened|Frightened]] of you until the end of its next turn.

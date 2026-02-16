@@ -3,9 +3,6 @@ title: Home
 tags: 
 aliases:
 ---
-
-![Banner|cover](Assets/theros/Elspeth%20Suns%20Champion.png)
-
 # Welcome to Theros
 
 *The caprice of the gods. The destiny of heroes. Great journeys into monster-infested wilds, and mythic odysseys to the edge of the world and back.*

@@ -12,4 +12,4 @@ aliases:
 # Elusive
 *Armor Enchantment, Uncommon*
 
-Your movement does not provoke [[Opportunity Attacks]].
+Your movement does not provoke [[actions#Opportunity%20Attack|Opportunity Attacks]].

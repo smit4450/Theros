@@ -80,9 +80,9 @@ In this example, the player wanted to make a specific item, and the GM offered a
 ###### Harvesting Essence from Monsters
 When players defeat a monster in battle, they may be able to harvest an essence from it. They do this by a combination of actions:
 
-***Study the Creature.*** You can use the [[Study]] action to attempt to identify an essence that could be extracted from a creature. Make an arcana check with a DC of 10 + the creature's CR. On a success, you learn what part of the creature would have to be harvested to gain that essence.
+***Study the Creature.*** You can use the [[actions#Study|Study]] action to attempt to identify an essence that could be extracted from a creature. Make an arcana check with a DC of 10 + the creature's CR. On a success, you learn what part of the creature would have to be harvested to gain that essence.
 
-***Harvest the Essence.*** You can use the [[Utilize]] action to attempt to harvest a specific essence from a creature that died within the last round. Make a survival check with a DC of 10 + the creature's CR. On a success, you harvest that essence. On a failure, the essence is destroyed. 
+***Harvest the Essence.*** You can use the [[actions#Utilize|Utilize]] action to attempt to harvest a specific essence from a creature that died within the last round. Make a survival check with a DC of 10 + the creature's CR. On a success, you harvest that essence. On a failure, the essence is destroyed. 
 
 As the GM it's up to you to take a look at the creature's monster statblock and determine what useful parts there are and describe the player's success or failure. Alternatively, you can ask your table to contribute any ideas.
 

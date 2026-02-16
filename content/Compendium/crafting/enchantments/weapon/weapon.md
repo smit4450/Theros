@@ -66,18 +66,18 @@ When you hit a creature with this weapon, it must succeed a DC 15 Wisdom saving 
 When you kill a creature with an attack using this weapon, roll the weapon's damage dice again. Creatures within 5 feet of the killed creature take damage equal to the result. 
 
 ###### Flame Tongue
-You can use a bonus action to wreathe this weapon in flames. While wreathed in flames the weapon deals an extra 2d6 fire damage on a hit and sheds [[Bright Light]] in a 20-foot radius and [[Dim Light]] for an additional 20 feet.
+You can use a bonus action to wreathe this weapon in flames. While wreathed in flames the weapon deals an extra 2d6 fire damage on a hit and sheds [[bright-light-xphb|Bright Light]] in a 20-foot radius and [[dim-light-xphb|Dim Light]] for an additional 20 feet.
 
 ###### Frost Brand
-This weapon deals an extra 1d6 cold damage. You gain resistance to fire damage while you are attuned to it, and while in freezing temperatures the weapon sheds [[Bright Light]] in a 20-foot radius and [[Dim Light]] for an additional 20 feet.
+This weapon deals an extra 1d6 cold damage. You gain resistance to fire damage while you are attuned to it, and while in freezing temperatures the weapon sheds [[bright-light-xphb|Bright Light]] in a 20-foot radius and [[dim-light-xphb|Dim Light]] for an additional 20 feet.
 
 When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of yourself. Once used, this property can’t be used again for 1 hour.
 
 ###### Holy Avenger
-When you hit a Fiend or an Undead with this weapon it takes 2d10 radiant damage. While you hold the drawn weapon, it creates a 10-foot [[Emanation]] originating from you. You and all creatures friendly to you in the emanation have advantage on saving throws against spells and other magical effects.
+When you hit a Fiend or an Undead with this weapon it takes 2d10 radiant damage. While you hold the drawn weapon, it creates a 10-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you. You and all creatures friendly to you in the emanation have advantage on saving throws against spells and other magical effects.
 
 ###### Life Stealing
-When you attack a creature with this weapon and roll a 20 on the d20 for the attack roll, that target takes an extra 15 necrotic damage if it isn’t a construct or an undead, and you gain [[Temporary Hit Points]] equal to the amount of necrotic damage taken.
+When you attack a creature with this weapon and roll a 20 on the d20 for the attack roll, that target takes an extra 15 necrotic damage if it isn't a construct or an undead, and you gain [[temporary-hit-points-xphb|Temporary Hit Points]] equal to the amount of necrotic damage taken.
 
 ###### Maddening
 When you hit a creature with this weapon, it must succeed a DC 15 Wisdom saving throw or go berserk until the end of its next turn. While berserk, the target attacks the nearest creature it can see. If no creature is near enough to move to and attack, the target attacks an object. A creature that succeeds on the saving throw is immune to this effect for 24 hours.
@@ -86,7 +86,7 @@ When you hit a creature with this weapon, it must succeed a DC 15 Wisdom saving 
 When you hit a creature with this weapon you mark it as your prey. For the next 24 hours, you know the distance and direction to your prey so long as it remains on the same plane of existence.
 
 ###### Maneuvering
-When you hit a creature with this weapon, you don't provoke [[Opportunity Attacks]] from that creature for the rest of the turn.
+When you hit a creature with this weapon, you don't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]] from that creature for the rest of the turn.
 
 ###### Magi
 While you hold this weapon, your spell save DC increases by 2 and you get a +2 bonus to spell attack rolls.
@@ -102,7 +102,7 @@ When you use this weapon to make an attack, you can utter or sign the following 
 
 _**Attacks Affected.**_ You have advantage on your sworn enemy, and disadvantage on attack rolls with all other weapons.
 
-_**No Cover.**_ Your sworn enemy gains no benefit from [[Cover]]. If you're making a ranged attack, you suffer no disadvantage due to long range.
+_**No Cover.**_ Your sworn enemy gains no benefit from [[cover-xphb|Cover]]. If you're making a ranged attack, you suffer no disadvantage due to long range.
 
 _**Extra Damage.**_ Your sworn enemy an extra 3d6 damage from all attacks made with this weapon.
 
@@ -134,10 +134,10 @@ When you hit a large or smaller creature with this weapon, you can move it up to
 This weapon deals an extra 2d8 lightning damage. While attuned to this weapon, you are immune to being charmed or frightened.
 
 ###### Sharpness
-When you attack an object with this weapon and hit, maximize your weapon damage dice against the target. When you attack a creature with this weapon and roll a 20 on the d20 for the attack roll, that target takes an extra 14 Slashing damage and gains 1 [[Exhaustion]] level.
+When you attack an object with this weapon and hit, maximize your weapon damage dice against the target. When you attack a creature with this weapon and roll a 20 on the d20 for the attack roll, that target takes an extra 14 Slashing damage and gains 1 [[conditions#Exhaustion|Exhaustion]] level.
 
 ###### Skin Melter
-When you hit a creature with this weapon it takes an extra 1d10 acid damage and is [[Frightened]] of you until the end of its next turn.
+When you hit a creature with this weapon it takes an extra 1d10 acid damage and is [[conditions#Frightened|Frightened]] of you until the end of its next turn.
 
 ###### Slaying
 When creating a slaying weapon you determine what creature type it's designed to slay, or roll randomly on the creature type table. Slaying enchantments are different depending on if they're for ammunition or a weapon.
@@ -176,16 +176,16 @@ This weapon has 10 charges. When you hit with an attack using it, you can expend
 When creating a swatting weapon you determine what creature type it's designed to swat, or roll randomly on the creature type table. When you hit a creature of the chosen creature type it takes an extra 2d6 damage. If that creature is reduced to 10 hit points or fewer by this damage, it dies.
 
 ###### Thunderbolt
-When you hit a creature with this weapon it takes an extra 2d8 thunder damage, and you can choose to take a bonus action to have the weapon emit a thunderous boom. If you do, the target and every creature within 30 feet of it other than you must succeed on a DC 17 Constitution saving throw or be [[Stunned]] until the end of your next turn. Once this property is used, it can’t be used again until the next dawn.
+When you hit a creature with this weapon it takes an extra 2d8 thunder damage, and you can choose to take a bonus action to have the weapon emit a thunderous boom. If you do, the target and every creature within 30 feet of it other than you must succeed on a DC 17 Constitution saving throw or be [[conditions#Stunned|Stunned]] until the end of your next turn. Once this property is used, it can't be used again until the next dawn.
 
 ###### Throwing
-The weapon has the [[02) Weapons#Properties|Thrown property]] with a normal range of 20 feet and a long range of 60 feet. Immediately after hitting or missing, the weapon flies back to your hand.
+The weapon has the [[item-properties#Thrown|Thrown property]] with a normal range of 20 feet and a long range of 60 feet. Immediately after hitting or missing, the weapon flies back to your hand.
 
 ###### Transforming
 You can use a bonus action to change the shape and statistics of this weapon into those of any other weapon that belongs to the same category (i.e. a simple weapon can only become another simple weapon, and a martial weapon can only become another martial weapon).
 
 ###### Venom
-You can take a bonus action to magically coat this weapon with poison. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d10 poison damage and be [[Poisoned]] for 1 minute. Once this property is used, it can’t be used again until the next dawn.
+You can take a bonus action to magically coat this weapon with poison. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d10 poison damage and be [[conditions#Poisoned|Poisoned]] for 1 minute. Once this property is used, it can't be used again until the next dawn.
 
 ###### Vicious
 This magic weapon deals an extra 2d6 damage to any creature it hits. This extra damage is of the same type as the weapon’s normal damage.
