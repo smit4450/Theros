@@ -14,6 +14,6 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to lightning damage while wearing this ring. The ring is set with citrine.
+You have [[resistance-xphb|Resistance]] to lightning damage while wearing this ring. The ring is set with citrine.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

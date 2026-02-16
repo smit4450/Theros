@@ -37,12 +37,12 @@ aliases: ["Witch Bolt"]
 
 A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes `2d12` Lightning damage.
 
-On each of your subsequent turns, you can take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to deal `1d12` Lightning damage to the target automatically, even if the first attack missed.
+On each of your subsequent turns, you can take a [[bonus-action-xphb|Bonus Action]] to deal `1d12` Lightning damage to the target automatically, even if the first attack missed.
 
-The spell ends if the target is ever outside the spell's range or if it has Total [Cover](Compendium/rules/variant-rules/cover-xphb.md) from you.
+The spell ends if the target is ever outside the spell's range or if it has Total [[cover-xphb|Cover]] from you.
 
 **Using a Higher-Level Spell Slot.** The initial damage increases by `1d12` for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 343*

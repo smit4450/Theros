@@ -24,6 +24,6 @@ The target takes an extra `2d8` Radiant damage from the attack. The damage incre
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 1.
 
-**Classes**: [Paladin](Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

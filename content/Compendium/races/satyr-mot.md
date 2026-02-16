@@ -48,7 +48,7 @@ Whenever you make a long or high jump, you can roll a `d8` and add the number ro
 
 ### Reveler
 
-You have proficiency in the [Performance](Compendium/rules/skills.md#Performance) and [Persuasion](Compendium/rules/skills.md#Persuasion) skills, and you have proficiency with one [musical instrument](Compendium/items/musical-instrument-xphb.md) of your choice.
+You have proficiency in the [[skills#Performance|Performance]] and [[skills#Persuasion|Persuasion]] skills, and you have proficiency with one [[musical-instrument-xphb|musical instrument]] of your choice.
 
 ### Languages
 

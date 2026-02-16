@@ -24,8 +24,8 @@ aliases: ["Simbul's Synostodweomer"]
 - **Components:** V, S
 - **Duration:** 1 hour
 
-You imbue one creature you touch with magical healing energy for the duration. Whenever the target casts a spell using a spell slot, the target can immediately roll a number of unexpended [Hit Point Dice](Compendium/rules/variant-rules/hit-point-dice-xphb.md) equal to the spell slot's level and regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to the roll's total plus your spellcasting ability modifier; those dice are then expended.
+You imbue one creature you touch with magical healing energy for the duration. Whenever the target casts a spell using a spell slot, the target can immediately roll a number of unexpended [[hit-point-dice-xphb|Hit Point Dice]] equal to the spell slot's level and regain [[hit-points-xphb|Hit Points]] equal to the roll's total plus your spellcasting ability modifier; those dice are then expended.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: FRHoF p. 145*

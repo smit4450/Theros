@@ -18,6 +18,6 @@ aliases:
 
 *These outfits are fashionable among fey courtiers in the Moonshae Isles. After winning a riddle game and parting with a lock of hair, I secured enough samples to re-create them in my workshop.*
 
-This garb appeals to Fey from one Domain of Delight, such as the Gloaming Court or the Summer Court. While wearing the garb, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on ability checks to influence Fey associated with that Domain of Delight.
+This garb appeals to Fey from one Domain of Delight, such as the Gloaming Court or the Summer Court. While wearing the garb, you have [[advantage-xphb|Advantage]] on ability checks to influence Fey associated with that Domain of Delight.
 
 *Source: FRHoF p. 132*

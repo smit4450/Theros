@@ -24,6 +24,6 @@ Finishing a Long Rest in your Bastion better prepares you for travel; your group
 
 ## Research: Reconnaissance
 
-When you issue the Research order to this facility, you commission the Zhentarim Travel Station's hirelings to gather information that facilitates an upcoming journey. This work takes 7 days. For the duration of the journey, you have Advantage on Wisdom ([Survival](Compendium/rules/skills.md#Survival)) checks to forage or navigate.
+When you issue the Research order to this facility, you commission the Zhentarim Travel Station's hirelings to gather information that facilitates an upcoming journey. This work takes 7 days. For the duration of the journey, you have Advantage on Wisdom ([[skills#Survival|Survival]]) checks to forage or navigate.
 
 *Source: FRHoF*

@@ -14,6 +14,6 @@ aliases:
 
 *Piety 25+ Mogis trait*
 
-Countless battles and vicious visions have given you focus. You have advantage on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed) or [frightened](Compendium/rules/conditions.md#Frightened).
+Countless battles and vicious visions have given you focus. You have advantage on saving throws against being [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]].
 
 *Source: Mythic Odysseys of Theros p. 64*

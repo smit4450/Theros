@@ -17,6 +17,6 @@ aliases:
 
 *We recommend a team of these sled dogs to ease the burden on individual animals. Rotate your dogs through the lead positions to give weary animals a rest.*
 
-A sled dog uses the [Wolf](Compendium/bestiary/beast/wolf-xmm.md) stat block (see the Monster Manual). A sled dog pulling a sled alone must take a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) after pulling a sled for 1 hour; otherwise, it gains 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level.
+A sled dog uses the [[wolf-xmm|Wolf]] stat block (see the Monster Manual). A sled dog pulling a sled alone must take a [[short-rest-xphb|Short Rest]] after pulling a sled for 1 hour; otherwise, it gains 1 [[conditions#Exhaustion|Exhaustion]] level.
 
 *Source: FRHoF p. 132*

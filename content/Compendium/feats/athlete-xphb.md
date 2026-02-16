@@ -18,8 +18,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-**Climb Speed.** You gain a [Climb Speed](Compendium/rules/variant-rules/climb-speed-xphb.md) equal to your [Speed](Compendium/rules/variant-rules/speed-xphb.md).
+**Climb Speed.** You gain a [[climb-speed-xphb|Climb Speed]] equal to your [[speed-xphb|Speed]].
 
-**Hop Up.** When you have the [Prone](Compendium/rules/conditions.md#Prone) condition, you can right yourself with only 5 feet of movement.
+**Hop Up.** When you have the [[conditions#Prone|Prone]] condition, you can right yourself with only 5 feet of movement.
 
-**Jumping.** You can make a running Long or [High Jump](Compendium/rules/variant-rules/high-jump-xphb.md) after moving only 5 feet.
+**Jumping.** You can make a running Long or [[high-jump-xphb|High Jump]] after moving only 5 feet.

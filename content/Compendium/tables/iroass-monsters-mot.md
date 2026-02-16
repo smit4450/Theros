@@ -15,12 +15,12 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/8 | [Guard](Compendium/bestiary/humanoid/guard-xmm.md) |
-| 1 | [Nyx-fleece ram](Compendium/bestiary/monstrosity/nyx-fleece-ram-mot.md) |
-| 2 | [Griffon](Compendium/bestiary/monstrosity/griffon-xmm.md) |
-| 3 | [Akroan hoplite](Compendium/bestiary/humanoid/akroan-hoplite-mot.md) |
-| 3 | [Fleecemane lion](Compendium/bestiary/monstrosity/fleecemane-lion-mot.md) |
-| 5 | [Gladiator](Compendium/bestiary/humanoid/gladiator-xmm.md) |
-| 7 | [Stone giant](Compendium/bestiary/giant/stone-giant-xmm.md) |
-| 11 | [Roc](Compendium/bestiary/monstrosity/roc-xmm.md) |
+| 1/8 | [[guard-xmm|Guard]] |
+| 1 | [[nyx-fleece-ram-mot|Nyx-fleece ram]] |
+| 2 | [[griffon-xmm|Griffon]] |
+| 3 | [[akroan-hoplite-mot|Akroan hoplite]] |
+| 3 | [[fleecemane-lion-mot|Fleecemane lion]] |
+| 5 | [[gladiator-xmm|Gladiator]] |
+| 7 | [[stone-giant-xmm|Stone giant]] |
+| 11 | [[roc-xmm|Roc]] |
 ^iroass-monsters

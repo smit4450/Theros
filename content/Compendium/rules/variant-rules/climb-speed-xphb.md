@@ -11,4 +11,4 @@ aliases:
 # Climb Speed
 *Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-A Climb Speed can be used in place of [Speed](Compendium/rules/variant-rules/speed-xphb.md) to traverse a vertical surface without expending the extra movement normally associated with climbing.
+A Climb Speed can be used in place of [[speed-xphb|Speed]] to traverse a vertical surface without expending the extra movement normally associated with climbing.

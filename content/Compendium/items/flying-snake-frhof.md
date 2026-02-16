@@ -17,6 +17,6 @@ aliases:
 
 *Our partners in the Zhentarim provide these remarkable pets, fully domesticated and trained to deliver messages. Always wear gloves when handling venomous creatures.*
 
-Pet flying snakes use the [Flying Snake](Compendium/bestiary/monstrosity/flying-snake-xmm.md) stat block.
+Pet flying snakes use the [[flying-snake-xmm|Flying Snake]] stat block.
 
 *Source: FRHoF p. 132*

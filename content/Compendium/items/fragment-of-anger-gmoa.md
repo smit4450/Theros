@@ -18,7 +18,7 @@ This chipped piece of stone comes from an Underworld soul who has forgotten thei
 
 ## Paid
 
-With the fragment in hand, you can focus on it to relive in your mind one event from your life that made you extremely angry. You can perform actions within this mental simulation that deviate from what you actually did and see how that changes the course of events. During this simulation, your actual body is [incapacitated](Compendium/rules/conditions.md#Incapacitated). You may leave this mental simulation and return to reality at will.
+With the fragment in hand, you can focus on it to relive in your mind one event from your life that made you extremely angry. You can perform actions within this mental simulation that deviate from what you actually did and see how that changes the course of events. During this simulation, your actual body is [[conditions#Incapacitated|incapacitated]]. You may leave this mental simulation and return to reality at will.
 
 ## Overpaid
 

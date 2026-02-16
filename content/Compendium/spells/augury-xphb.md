@@ -49,8 +49,8 @@ You receive an omen from an otherworldly entity about the results of a course of
 
 The spell doesn't account for circumstances, such as other spells, that might change the results.
 
-If you cast the spell more than once before finishing a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), there is a cumulative  chance for each casting after the first that you get no answer.
+If you cast the spell more than once before finishing a [[long-rest-xphb|Long Rest]], there is a cumulative  chance for each casting after the first that you get no answer.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

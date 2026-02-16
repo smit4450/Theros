@@ -12,12 +12,12 @@ aliases:
 - "Ephixis, Bow of Nylea"
 ---
 # Ephixis, Bow of Nylea
-*Weapon ([shortbow](Compendium/items/shortbow-xphb.md)), artifact (requires attunement)*  
+*Weapon ([[shortbow-xphb|shortbow]]), artifact (requires attunement)*  
 ![](Compendium/items/img/ephixis-bow-of-nylea.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
 Nylea wields the shortbow Ephixis, the bow whose arrows herald the turning of the seasons. Nylea is quick to let her favored followers borrow her bow, particularly when they intend to use it to perform great deeds, put an end to foul creatures, or cast down the arrogant.
@@ -41,10 +41,10 @@ See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on random
 
 The four arrows—each associated with a season—that accompany this bow can be fired only from it. Each arrow disappears immediately after it's used, and it reappears in the quiver at the next dusk. The save DC against spells cast with the arrows is 18. Each arrow has a unique property:
 
-- **Spring.** As an action, you can fire this arrow, targeting a beast or a plant creature you can see within 320 feet of you. On a hit, the arrow deals no damage, and the target gains the benefits of the [awaken](Compendium/spells/awaken-xphb.md) spell for 8 hours.  
-- **Summer.** As an action, you can fire this arrow at an unoccupied space on the ground that you can see within 320 feet of you, no attack roll required. A Nyxborn lynx is summoned in that space (use the stat block for a [tiger](Compendium/bestiary/beast/tiger-xmm.md) with the "Nyxborn traits" from chapter 6). The lynx understands your verbal commands and obeys them as best it can, and it takes its turns immediately after yours. The emissary remains for 1 hour before fading away.  
-- **Autumn.** As an action, you can fire this arrow at a space on the ground that you can see within 320 feet of you, no attack roll required, casting the [wall of thorns](Compendium/spells/wall-of-thorns-xphb.md) spell there.  
-- **Winter.** As an action, you can fire this arrow at a space that you can see within 320 feet of you, no attack roll required, casting the [ice storm](Compendium/spells/ice-storm-xphb.md) spell there.  
+- **Spring.** As an action, you can fire this arrow, targeting a beast or a plant creature you can see within 320 feet of you. On a hit, the arrow deals no damage, and the target gains the benefits of the [[awaken-xphb|awaken]] spell for 8 hours.  
+- **Summer.** As an action, you can fire this arrow at an unoccupied space on the ground that you can see within 320 feet of you, no attack roll required. A Nyxborn lynx is summoned in that space (use the stat block for a [[tiger-xmm|tiger]] with the "Nyxborn traits" from chapter 6). The lynx understands your verbal commands and obeys them as best it can, and it takes its turns immediately after yours. The emissary remains for 1 hour before fading away.  
+- **Autumn.** As an action, you can fire this arrow at a space on the ground that you can see within 320 feet of you, no attack roll required, casting the [[wall-of-thorns-xphb|wall of thorns]] spell there.  
+- **Winter.** As an action, you can fire this arrow at a space that you can see within 320 feet of you, no attack roll required, casting the [[ice-storm-xphb|ice storm]] spell there.  
 
 ## Destroying the Bow
 

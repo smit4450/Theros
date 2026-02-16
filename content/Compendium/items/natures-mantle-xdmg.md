@@ -14,8 +14,8 @@ aliases:
 ![](Compendium/items/img/natures-mantle.webp#right)
 
 
-This cloak shifts color and texture to blend with the terrain surrounding you. While wearing the cloak, you can use it as a [Spellcasting Focus](Compendium/rules/variant-rules/spellcasting-focus-xphb.md) for your Druid and Ranger spells.
+This cloak shifts color and texture to blend with the terrain surrounding you. While wearing the cloak, you can use it as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your Druid and Ranger spells.
 
-While you are in an area that is [Lightly Obscured](Compendium/rules/variant-rules/lightly-obscured-xphb.md), you can [Hide](Compendium/rules/actions.md#Hide) as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) even if you are being directly observed.
+While you are in an area that is [[lightly-obscured-xphb|Lightly Obscured]], you can [[actions#Hide|Hide]] as a [[bonus-action-xphb|Bonus Action]] even if you are being directly observed.
 
 *Source: Dungeon Master's Guide (2024) p. 280*

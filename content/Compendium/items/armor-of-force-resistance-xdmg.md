@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to force damage while you wear this armor.
+You have [[resistance-xphb|Resistance]] to force damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Force Resistance](#Breastplate%20of%20Force%20Resistance)

@@ -32,6 +32,6 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 You can use this transportation ability only once on each of your turns. You must end each turn outside a tree.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Temperate Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [Druid (Circle of the Land, Temperate Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid|Druid]]; [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger|Ranger]]
 
 *Source: Player's Handbook (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

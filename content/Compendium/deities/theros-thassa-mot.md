@@ -61,7 +61,7 @@ Thassa's most fervent human worshipers offer prayers at high and low tide. If po
 > 
 > Tales about Thassa typically demonstrate that she is often patient, but never kind.
 > 
-> **Callaphe the False.** During the last great Silence of the gods, a triton appeared, impersonated a mariner named Callaphe, and traveled the waves aboard Callaphe's living ship,The Monsoon. This false Callaphe misled the tritons with false prophecies and pulled a kraken from the depths, hoping to harness his power. When the Silence was lifted and Thassa returned to the world, she struck the impostor down with such fury that she shattered her [bident](Compendium/items/dekella-bident-of-thassa-mot.md). Purphoros, remembering Thassa's kindness to him on many occasions, replaced her sacred weapon.
+> **Callaphe the False.** During the last great Silence of the gods, a triton appeared, impersonated a mariner named Callaphe, and traveled the waves aboard Callaphe's living ship,The Monsoon. This false Callaphe misled the tritons with false prophecies and pulled a kraken from the depths, hoping to harness his power. When the Silence was lifted and Thassa returned to the world, she struck the impostor down with such fury that she shattered her [[dekella-bident-of-thassa-mot|bident]]. Purphoros, remembering Thassa's kindness to him on many occasions, replaced her sacred weapon.
 > 
 > - **Dreams in the Deep.** While Purphoros is renowned for his endless creations and desires to bring new ideas into being, Thassa secretly shares similar creative desires. Endlessly bored with the predictable denizens of the land and sky, in the deepest ocean trenches, Thassa wills immortal dreams and nightmares into being. Delicate beauty, undulating grace, and tentacular terrors are birthed in the absolute dark, iterate for generations, and suffer swift extinctions at the god's whim, never knowing the sun's touch. Sapient mortals aren't welcome in these maddening ateliers; Thassa remains bitterly unwilling to reveal her work until her creations—and the time—are absolutely perfect.  
 > - **Every Tear the Sea.** Few myths tell of those who escaped Thassa's wrath. This isn't one of them. When the infamous explorer Rasiao failed to steal one of Thassa's Tidelock Pearls, wave-controlling treasures protected by vicious mollusks, she spent years avoiding the waves before finding her way back to the mainland. Although she'd failed to abscond with one of Thassa's treasures, she'd avoided the sea god's wrath, a claim she valued more preciously than gold. For years, Rasiao lived far from ocean or river, making her home in the driest reaches of Theros. She lived a long life, but on one trip to Akros to resupply and brag, she drowned in a bowl of ox stew. Those who found Rasiao discovered a pearl, too large to pass her lips, lodged in her mouth. Fearing further reprisal, Rasiao's daughters committed their mother's body to the Deyda River and Thassa's clutches. The explorer's daughters never forgot that just as countless drops make the sea, so too is every raindrop, tear, and cup part of Thassa's domain.  
@@ -138,7 +138,7 @@ Your piety score to Thassa decreases if you diminish Thassa's influence in the w
 
 ### Benefits of Piety
 
-- [Thassa's Devotee](Compendium/rewards/thassas-devotee-mot.md)  
-- [Thassa's Votary](Compendium/rewards/thassas-votary-mot.md)  
-- [Thassa's Disciple](Compendium/rewards/thassas-disciple-mot.md)  
-- [Champion of the Sea](Compendium/rewards/champion-of-the-sea-mot.md)
+- [[thassas-devotee-mot|Thassa's Devotee]]  
+- [[thassas-votary-mot|Thassa's Votary]]  
+- [[thassas-disciple-mot|Thassa's Disciple]]  
+- [[champion-of-the-sea-mot|Champion of the Sea]]

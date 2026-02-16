@@ -15,146 +15,146 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–10 | [Armor of Gleaming](Compendium/items/armor-of-gleaming-xdmg.md) |
-| 11–20 | [Cast-Off Armor](Compendium/items/cast-off-armor-xdmg.md) |
-| 21–30 | [Dread Helm](Compendium/items/dread-helm-xdmg.md) |
-| 31–40 | [Moon-Touched Sword](Compendium/items/moon-touched-sword-xdmg.md) |
-| 41–50 | [Shield of Expression](Compendium/items/shield-of-expression-xdmg.md) |
-| 51–60 | [Silvered Weapon](Compendium/items/silvered-weapon-xdmg.md) |
-| 61–70 | [Smoldering Armor](Compendium/items/smoldering-armor-xdmg.md) |
-| 71–80 | [Sylvan Talon](Compendium/items/sylvan-talon-xdmg.md) |
-| 81–90 | [Veteran's Cane](Compendium/items/veterans-cane-xdmg.md) |
-| 91–00 | [Walloping Ammunition](Compendium/items/walloping-ammunition-xdmg.md) |
+| 01–10 | [[armor-of-gleaming-xdmg|Armor of Gleaming]] |
+| 11–20 | [[cast-off-armor-xdmg|Cast-Off Armor]] |
+| 21–30 | [[dread-helm-xdmg|Dread Helm]] |
+| 31–40 | [[moon-touched-sword-xdmg|Moon-Touched Sword]] |
+| 41–50 | [[shield-of-expression-xdmg|Shield of Expression]] |
+| 51–60 | [[silvered-weapon-xdmg|Silvered Weapon]] |
+| 61–70 | [[smoldering-armor-xdmg|Smoldering Armor]] |
+| 71–80 | [[sylvan-talon-xdmg|Sylvan Talon]] |
+| 81–90 | [[veterans-cane-xdmg|Veteran's Cane]] |
+| 91–00 | [[walloping-ammunition-xdmg|Walloping Ammunition]] |
 ^armaments-common
 
 **Armaments - Uncommon**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–04 | [Adamantine Armor](Compendium/items/adamantine-armor-xdmg.md) |
-| 05–08 | [Adamantine Weapon](Compendium/items/adamantine-weapon-xdmg.md) |
-| 09–13 | [Ammunition, +1](Compendium/items/1-ammunition-xdmg.md) |
-| 14–18 | [Bracers of Archery](Compendium/items/bracers-of-archery-xdmg.md) |
-| 19–23 | [Enspelled Armor](Compendium/items/enspelled-armor-xdmg.md) (cantrip or level 1 spell) |
-| 24–28 | [Enspelled Weapon](Compendium/items/enspelled-weapon-xdmg.md) (cantrip or level 1 spell) |
-| 29–33 | [Gauntlets of Ogre Power](Compendium/items/gauntlets-of-ogre-power-xdmg.md) |
-| 34–38 | [Javelin of Lightning](Compendium/items/javelin-of-lightning-xdmg.md) |
-| 39–43 | [Mariner's Armor](Compendium/items/mariners-armor-xdmg.md) |
-| 44–48 | [Mithral Armor](Compendium/items/mithral-armor-xdmg.md) |
-| 49–53 | [Potion of Giant Strength (hill)](Compendium/items/potion-of-hill-giant-strength-xdmg.md) |
-| 54–58 | [Potion of Pugilism](Compendium/items/potion-of-pugilism-xdmg.md) |
-| 59–62 | [Quiver of Ehlonna](Compendium/items/quiver-of-ehlonna-xdmg.md) |
-| 63–66 | [Saddle of the Cavalier](Compendium/items/saddle-of-the-cavalier-xdmg.md) |
-| 67–71 | [Sentinel Shield](Compendium/items/sentinel-shield-xdmg.md) |
-| 72–76 | [Shield, +1](Compendium/items/1-shield-xdmg.md) |
-| 77–81 | [Sword of Vengeance](Compendium/items/sword-of-vengeance-xdmg.md) |
-| 82–85 | [Trident of Fish Command](Compendium/items/trident-of-fish-command-xdmg.md) |
-| 86–90 | [Weapon, +1](Compendium/items/1-weapon-xdmg.md) |
-| 91–95 | [Weapon of Warning](Compendium/items/weapon-of-warning-xdmg.md) |
-| 96–00 | [Wraps of Unarmed Power, +1](Compendium/items/1-wraps-of-unarmed-power-xdmg.md) |
+| 01–04 | [[adamantine-armor-xdmg|Adamantine Armor]] |
+| 05–08 | [[adamantine-weapon-xdmg|Adamantine Weapon]] |
+| 09–13 | [[1-ammunition-xdmg|Ammunition, +1]] |
+| 14–18 | [[bracers-of-archery-xdmg|Bracers of Archery]] |
+| 19–23 | [[enspelled-armor-xdmg|Enspelled Armor]] (cantrip or level 1 spell) |
+| 24–28 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (cantrip or level 1 spell) |
+| 29–33 | [[gauntlets-of-ogre-power-xdmg|Gauntlets of Ogre Power]] |
+| 34–38 | [[javelin-of-lightning-xdmg|Javelin of Lightning]] |
+| 39–43 | [[mariners-armor-xdmg|Mariner's Armor]] |
+| 44–48 | [[mithral-armor-xdmg|Mithral Armor]] |
+| 49–53 | [[potion-of-hill-giant-strength-xdmg|Potion of Giant Strength (hill)]] |
+| 54–58 | [[potion-of-pugilism-xdmg|Potion of Pugilism]] |
+| 59–62 | [[quiver-of-ehlonna-xdmg|Quiver of Ehlonna]] |
+| 63–66 | [[saddle-of-the-cavalier-xdmg|Saddle of the Cavalier]] |
+| 67–71 | [[sentinel-shield-xdmg|Sentinel Shield]] |
+| 72–76 | [[1-shield-xdmg|Shield, +1]] |
+| 77–81 | [[sword-of-vengeance-xdmg|Sword of Vengeance]] |
+| 82–85 | [[trident-of-fish-command-xdmg|Trident of Fish Command]] |
+| 86–90 | [[1-weapon-xdmg|Weapon, +1]] |
+| 91–95 | [[weapon-of-warning-xdmg|Weapon of Warning]] |
+| 96–00 | [[1-wraps-of-unarmed-power-xdmg|Wraps of Unarmed Power, +1]] |
 ^armaments-uncommon
 
 **Armaments - Rare**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–03 | [Ammunition, +2](Compendium/items/2-ammunition-xdmg.md) |
-| 04–07 | [Armor, +1](Compendium/items/1-armor-xdmg.md) |
-| 08–10 | [Armor of Resistance](Compendium/items/armor-of-resistance-xdmg.md) |
-| 11–13 | [Armor of Vulnerability](Compendium/items/armor-of-vulnerability-xdmg.md) |
-| 14–15 | [Arrow-Catching Shield](Compendium/items/arrow-catching-shield-xdmg.md) |
-| 16–18 | [Belt of Giant Strength (hill)](Compendium/items/belt-of-hill-giant-strength-xdmg.md) |
-| 19–20 | [Berserker Axe](Compendium/items/berserker-axe-xdmg.md) |
-| 21–22 | [Daern's Instant Fortress](Compendium/items/daerns-instant-fortress-xdmg.md) |
-| 23–25 | [Dagger of Venom](Compendium/items/dagger-of-venom-xdmg.md) |
-| 26–28 | [Dragon Slayer](Compendium/items/dragon-slayer-xdmg.md) |
-| 29–31 | [Elven Chain](Compendium/items/elven-chain-xdmg.md) |
-| 32–34 | [Enspelled Armor](Compendium/items/enspelled-armor-xdmg.md) (level 2 or 3 spell) |
-| 35–37 | [Enspelled Weapon](Compendium/items/enspelled-weapon-xdmg.md) (level 2 or 3 spell) |
-| 38–40 | [Flame Tongue](Compendium/items/flame-tongue-xdmg.md) |
-| 41–43 | [Giant Slayer](Compendium/items/giant-slayer-xdmg.md) |
-| 44–46 | [Horn of Blasting](Compendium/items/horn-of-blasting-xdmg.md) |
-| 47–48 | [Horn of Valhalla](Compendium/items/horn-of-valhalla-xdmg.md) ([brass](Compendium/items/horn-of-valhalla-brass-xdmg.md) or [silver](Compendium/items/horn-of-valhalla-silver-xdmg.md)) |
-| 49–51 | [Ioun Stone](Compendium/items/ioun-stone-xdmg.md) ([protection](Compendium/items/ioun-stone-protection-xdmg.md)) |
-| 52–54 | [Mace of Disruption](Compendium/items/mace-of-disruption-xdmg.md) |
-| 55–57 | [Mace of Smiting](Compendium/items/mace-of-smiting-xdmg.md) |
-| 58–60 | [Mace of Terror](Compendium/items/mace-of-terror-xdmg.md) |
-| 61–63 | [Potion of Giant Strength (fire)](Compendium/items/potion-of-fire-giant-strength-xdmg.md) |
-| 64–66 | [Potion of Giant Strength](Compendium/items/potion-of-giant-strength-xdmg.md) ([frost](Compendium/items/potion-of-frost-giant-strength-xdmg.md) or [stone](Compendium/items/potion-of-stone-giant-strength-xdmg.md)) |
-| 67–69 | [Potion of Heroism](Compendium/items/potion-of-heroism-xdmg.md) |
-| 70–72 | [Potion of Invulnerability](Compendium/items/potion-of-invulnerability-xdmg.md) |
-| 73–75 | [Ring of Protection](Compendium/items/ring-of-protection-xdmg.md) |
-| 76–78 | [Ring of the Ram](Compendium/items/ring-of-the-ram-xdmg.md) |
-| 79–81 | [Shield, +2](Compendium/items/2-shield-xdmg.md) |
-| 82–84 | [Shield of Missile Attraction](Compendium/items/shield-of-missile-attraction-xdmg.md) |
-| 85–86 | [Sun Blade](Compendium/items/sun-blade-xdmg.md) |
-| 87–88 | [Sword of Life Stealing](Compendium/items/sword-of-life-stealing-xdmg.md) |
-| 89–90 | [Sword of Wounding](Compendium/items/sword-of-wounding-xdmg.md) |
-| 91–92 | [Tentacle Rod](Compendium/items/tentacle-rod-xdmg.md) |
-| 93–94 | [Vicious Weapon](Compendium/items/vicious-weapon-xdmg.md) |
-| 95–97 | [Weapon, +2](Compendium/items/2-weapon-xdmg.md) |
-| 98–00 | [Wraps of Unarmed Power, +2](Compendium/items/2-wraps-of-unarmed-power-xdmg.md) |
+| 01–03 | [[2-ammunition-xdmg|Ammunition, +2]] |
+| 04–07 | [[1-armor-xdmg|Armor, +1]] |
+| 08–10 | [[armor-of-resistance-xdmg|Armor of Resistance]] |
+| 11–13 | [[armor-of-vulnerability-xdmg|Armor of Vulnerability]] |
+| 14–15 | [[arrow-catching-shield-xdmg|Arrow-Catching Shield]] |
+| 16–18 | [[belt-of-hill-giant-strength-xdmg|Belt of Giant Strength (hill)]] |
+| 19–20 | [[berserker-axe-xdmg|Berserker Axe]] |
+| 21–22 | [[daerns-instant-fortress-xdmg|Daern's Instant Fortress]] |
+| 23–25 | [[dagger-of-venom-xdmg|Dagger of Venom]] |
+| 26–28 | [[dragon-slayer-xdmg|Dragon Slayer]] |
+| 29–31 | [[elven-chain-xdmg|Elven Chain]] |
+| 32–34 | [[enspelled-armor-xdmg|Enspelled Armor]] (level 2 or 3 spell) |
+| 35–37 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (level 2 or 3 spell) |
+| 38–40 | [[flame-tongue-xdmg|Flame Tongue]] |
+| 41–43 | [[giant-slayer-xdmg|Giant Slayer]] |
+| 44–46 | [[horn-of-blasting-xdmg|Horn of Blasting]] |
+| 47–48 | [[horn-of-valhalla-xdmg|Horn of Valhalla]] ([[horn-of-valhalla-brass-xdmg|brass]] or [[horn-of-valhalla-silver-xdmg|silver]]) |
+| 49–51 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-protection-xdmg|protection]]) |
+| 52–54 | [[mace-of-disruption-xdmg|Mace of Disruption]] |
+| 55–57 | [[mace-of-smiting-xdmg|Mace of Smiting]] |
+| 58–60 | [[mace-of-terror-xdmg|Mace of Terror]] |
+| 61–63 | [[potion-of-fire-giant-strength-xdmg|Potion of Giant Strength (fire)]] |
+| 64–66 | [[potion-of-giant-strength-xdmg|Potion of Giant Strength]] ([[potion-of-frost-giant-strength-xdmg|frost]] or [[potion-of-stone-giant-strength-xdmg|stone]]) |
+| 67–69 | [[potion-of-heroism-xdmg|Potion of Heroism]] |
+| 70–72 | [[potion-of-invulnerability-xdmg|Potion of Invulnerability]] |
+| 73–75 | [[ring-of-protection-xdmg|Ring of Protection]] |
+| 76–78 | [[ring-of-the-ram-xdmg|Ring of the Ram]] |
+| 79–81 | [[2-shield-xdmg|Shield, +2]] |
+| 82–84 | [[shield-of-missile-attraction-xdmg|Shield of Missile Attraction]] |
+| 85–86 | [[sun-blade-xdmg|Sun Blade]] |
+| 87–88 | [[sword-of-life-stealing-xdmg|Sword of Life Stealing]] |
+| 89–90 | [[sword-of-wounding-xdmg|Sword of Wounding]] |
+| 91–92 | [[tentacle-rod-xdmg|Tentacle Rod]] |
+| 93–94 | [[vicious-weapon-xdmg|Vicious Weapon]] |
+| 95–97 | [[2-weapon-xdmg|Weapon, +2]] |
+| 98–00 | [[2-wraps-of-unarmed-power-xdmg|Wraps of Unarmed Power, +2]] |
 ^armaments-rare
 
 **Armaments - Very Rare**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–03 | [Ammunition, +3](Compendium/items/3-ammunition-xdmg.md) |
-| 04–06 | [Ammunition of Slaying](Compendium/items/ammunition-of-slaying-xdmg.md) |
-| 07–09 | [Animated Shield](Compendium/items/animated-shield-xdmg.md) |
-| 10–12 | [Armor, +2](Compendium/items/2-armor-xdmg.md) |
-| 13–14 | [Belt of Giant Strength (fire)](Compendium/items/belt-of-fire-giant-strength-xdmg.md) |
-| 15–17 | [Belt of Giant Strength](Compendium/items/belt-of-giant-strength-xdmg.md) ([frost](Compendium/items/belt-of-frost-giant-strength-xdmg.md) or [stone](Compendium/items/belt-of-stone-giant-strength-xdmg.md)) |
-| 18–19 | [Dancing Sword](Compendium/items/dancing-sword-xdmg.md) |
-| 20–22 | [Demon Armor](Compendium/items/demon-armor-xdmg.md) |
-| 23–25 | [Dragon Scale Mail](Compendium/items/dragon-scale-mail-xdmg.md) |
-| 26–28 | [Dwarven Plate](Compendium/items/dwarven-plate-xdmg.md) |
-| 29–31 | [Dwarven Thrower](Compendium/items/dwarven-thrower-xdmg.md) |
-| 32–34 | [Energy Bow](Compendium/items/energy-bow-xdmg.md) |
-| 35–37 | [Enspelled Armor](Compendium/items/enspelled-armor-xdmg.md) (level 4 or 5 spell) |
-| 38–40 | [Enspelled Weapon](Compendium/items/enspelled-weapon-xdmg.md) (level 4 or 5 spell) |
-| 41–43 | [Executioner's Axe](Compendium/items/executioners-axe-xdmg.md) |
-| 44–46 | [Frost Brand](Compendium/items/frost-brand-xdmg.md) |
-| 47–49 | [Horn of Valhalla (bronze)](Compendium/items/horn-of-valhalla-bronze-xdmg.md) |
-| 50–52 | [Ioun Stone](Compendium/items/ioun-stone-xdmg.md) ([strength](Compendium/items/ioun-stone-strength-xdmg.md)) |
-| 53–55 | [Lute of Thunderous Thumping](Compendium/items/lute-of-thunderous-thumping-xdmg.md) |
-| 56–58 | [Manual of Gainful Exercise](Compendium/items/manual-of-gainful-exercise-xdmg.md) |
-| 59–61 | [Nine Lives Stealer](Compendium/items/nine-lives-stealer-xdmg.md) |
-| 62–64 | [Oathbow](Compendium/items/oathbow-xdmg.md) |
-| 65–68 | [Oil of Sharpness](Compendium/items/oil-of-sharpness-xdmg.md) |
-| 69–72 | [Potion of Giant Strength (cloud)](Compendium/items/potion-of-cloud-giant-strength-xdmg.md) |
-| 73–75 | [Quarterstaff of the Acrobat](Compendium/items/quarterstaff-of-the-acrobat-xdmg.md) |
-| 76–78 | [Scimitar of Speed](Compendium/items/scimitar-of-speed-xdmg.md) |
-| 79–82 | [Shield, +3](Compendium/items/3-shield-xdmg.md) |
-| 83–85 | [Shield of the Cavalier](Compendium/items/shield-of-the-cavalier-xdmg.md) |
-| 86–88 | [Spellguard Shield](Compendium/items/spellguard-shield-xdmg.md) |
-| 89–91 | [Sword of Sharpness](Compendium/items/sword-of-sharpness-xdmg.md) |
-| 92–94 | [Thunderous Greatclub](Compendium/items/thunderous-greatclub-xdmg.md) |
-| 95–97 | [Weapon, +3](Compendium/items/3-weapon-xdmg.md) |
-| 98–00 | [Wraps of Unarmed Power, +3](Compendium/items/3-wraps-of-unarmed-power-xdmg.md) |
+| 01–03 | [[3-ammunition-xdmg|Ammunition, +3]] |
+| 04–06 | [[ammunition-of-slaying-xdmg|Ammunition of Slaying]] |
+| 07–09 | [[animated-shield-xdmg|Animated Shield]] |
+| 10–12 | [[2-armor-xdmg|Armor, +2]] |
+| 13–14 | [[belt-of-fire-giant-strength-xdmg|Belt of Giant Strength (fire)]] |
+| 15–17 | [[belt-of-giant-strength-xdmg|Belt of Giant Strength]] ([[belt-of-frost-giant-strength-xdmg|frost]] or [[belt-of-stone-giant-strength-xdmg|stone]]) |
+| 18–19 | [[dancing-sword-xdmg|Dancing Sword]] |
+| 20–22 | [[demon-armor-xdmg|Demon Armor]] |
+| 23–25 | [[dragon-scale-mail-xdmg|Dragon Scale Mail]] |
+| 26–28 | [[dwarven-plate-xdmg|Dwarven Plate]] |
+| 29–31 | [[dwarven-thrower-xdmg|Dwarven Thrower]] |
+| 32–34 | [[energy-bow-xdmg|Energy Bow]] |
+| 35–37 | [[enspelled-armor-xdmg|Enspelled Armor]] (level 4 or 5 spell) |
+| 38–40 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (level 4 or 5 spell) |
+| 41–43 | [[executioners-axe-xdmg|Executioner's Axe]] |
+| 44–46 | [[frost-brand-xdmg|Frost Brand]] |
+| 47–49 | [[horn-of-valhalla-bronze-xdmg|Horn of Valhalla (bronze)]] |
+| 50–52 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-strength-xdmg|strength]]) |
+| 53–55 | [[lute-of-thunderous-thumping-xdmg|Lute of Thunderous Thumping]] |
+| 56–58 | [[manual-of-gainful-exercise-xdmg|Manual of Gainful Exercise]] |
+| 59–61 | [[nine-lives-stealer-xdmg|Nine Lives Stealer]] |
+| 62–64 | [[oathbow-xdmg|Oathbow]] |
+| 65–68 | [[oil-of-sharpness-xdmg|Oil of Sharpness]] |
+| 69–72 | [[potion-of-cloud-giant-strength-xdmg|Potion of Giant Strength (cloud)]] |
+| 73–75 | [[quarterstaff-of-the-acrobat-xdmg|Quarterstaff of the Acrobat]] |
+| 76–78 | [[scimitar-of-speed-xdmg|Scimitar of Speed]] |
+| 79–82 | [[3-shield-xdmg|Shield, +3]] |
+| 83–85 | [[shield-of-the-cavalier-xdmg|Shield of the Cavalier]] |
+| 86–88 | [[spellguard-shield-xdmg|Spellguard Shield]] |
+| 89–91 | [[sword-of-sharpness-xdmg|Sword of Sharpness]] |
+| 92–94 | [[thunderous-greatclub-xdmg|Thunderous Greatclub]] |
+| 95–97 | [[3-weapon-xdmg|Weapon, +3]] |
+| 98–00 | [[3-wraps-of-unarmed-power-xdmg|Wraps of Unarmed Power, +3]] |
 ^armaments-very-rare
 
 **Armaments - Legendary**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–06 | [Armor, +3](Compendium/items/3-armor-xdmg.md) |
-| 07–12 | [Armor of Invulnerability](Compendium/items/armor-of-invulnerability-xdmg.md) |
-| 13–18 | [Belt of Giant Strength (cloud)](Compendium/items/belt-of-cloud-giant-strength-xdmg.md) |
-| 19–21 | [Belt of Giant Strength (storm)](Compendium/items/belt-of-storm-giant-strength-xdmg.md) |
-| 22–27 | [Defender](Compendium/items/defender-xdmg.md) |
-| 28–33 | [Efreeti Chain](Compendium/items/efreeti-chain-xdmg.md) |
-| 34–39 | [Enspelled Armor](Compendium/items/enspelled-armor-xdmg.md) (level 6, 7, or 8 spell) |
-| 40–45 | [Enspelled Weapon](Compendium/items/enspelled-weapon-xdmg.md) (level 6, 7, or 8 spell) |
-| 46–51 | [Hammer of Thunderbolts](Compendium/items/hammer-of-thunderbolts-xdmg.md) |
-| 52–56 | [Holy Avenger](Compendium/items/holy-avenger-xdmg.md) |
-| 57–62 | [Horn of Valhalla (iron)](Compendium/items/horn-of-valhalla-iron-xdmg.md) |
-| 63–68 | [Luck Blade](Compendium/items/luck-blade-xdmg.md) |
-| 69–72 | [Moonblade](Compendium/items/moonblade-xdmg.md) |
-| 73–78 | [Plate Armor of Etherealness](Compendium/items/plate-armor-of-etherealness-xdmg.md) |
-| 79–87 | [Potion of Giant Strength (storm)](Compendium/items/potion-of-storm-giant-strength-xdmg.md) |
-| 88–90 | [Rod of Lordly Might](Compendium/items/rod-of-lordly-might-xdmg.md) |
-| 91–95 | [Sword of Answering](Compendium/items/sword-of-answering-xdmg.md) |
-| 96–00 | [Vorpal Sword](Compendium/items/vorpal-sword-xdmg.md) |
+| 01–06 | [[3-armor-xdmg|Armor, +3]] |
+| 07–12 | [[armor-of-invulnerability-xdmg|Armor of Invulnerability]] |
+| 13–18 | [[belt-of-cloud-giant-strength-xdmg|Belt of Giant Strength (cloud)]] |
+| 19–21 | [[belt-of-storm-giant-strength-xdmg|Belt of Giant Strength (storm)]] |
+| 22–27 | [[defender-xdmg|Defender]] |
+| 28–33 | [[efreeti-chain-xdmg|Efreeti Chain]] |
+| 34–39 | [[enspelled-armor-xdmg|Enspelled Armor]] (level 6, 7, or 8 spell) |
+| 40–45 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (level 6, 7, or 8 spell) |
+| 46–51 | [[hammer-of-thunderbolts-xdmg|Hammer of Thunderbolts]] |
+| 52–56 | [[holy-avenger-xdmg|Holy Avenger]] |
+| 57–62 | [[horn-of-valhalla-iron-xdmg|Horn of Valhalla (iron)]] |
+| 63–68 | [[luck-blade-xdmg|Luck Blade]] |
+| 69–72 | [[moonblade-xdmg|Moonblade]] |
+| 73–78 | [[plate-armor-of-etherealness-xdmg|Plate Armor of Etherealness]] |
+| 79–87 | [[potion-of-storm-giant-strength-xdmg|Potion of Giant Strength (storm)]] |
+| 88–90 | [[rod-of-lordly-might-xdmg|Rod of Lordly Might]] |
+| 91–95 | [[sword-of-answering-xdmg|Sword of Answering]] |
+| 96–00 | [[vorpal-sword-xdmg|Vorpal Sword]] |
 ^armaments-legendary

@@ -33,8 +33,8 @@ aliases: ["Shield"]
 - **Components:** V, S
 - **Duration:** 1 round
 
-An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from [Magic Missile](Compendium/spells/magic-missile-xphb.md).
+An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from [[magic-missile-xphb|Magic Missile]].
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

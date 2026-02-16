@@ -37,6 +37,6 @@ You create three glowing darts of magical force. Each dart strikes a creature of
 
 **Using a Higher-Level Spell Slot.** The spell creates one more dart for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

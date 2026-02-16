@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Cost**: 15 gp
 - **Weight**: 5.0 lbs.
 

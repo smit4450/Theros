@@ -133,7 +133,7 @@ Your piety score to Klothys decreases if you diminish her influence in the world
 
 ### Benefits of Piety
 
-- [Klothys's Devotee](Compendium/rewards/klothyss-devotee-mot.md)  
-- [Klothys's Votary](Compendium/rewards/klothyss-votary-mot.md)  
-- [Klothys's Disciple](Compendium/rewards/klothyss-disciple-mot.md)  
-- [Champion of Destiny](Compendium/rewards/champion-of-destiny-mot.md)
+- [[klothyss-devotee-mot|Klothys's Devotee]]  
+- [[klothyss-votary-mot|Klothys's Votary]]  
+- [[klothyss-disciple-mot|Klothys's Disciple]]  
+- [[champion-of-destiny-mot|Champion of Destiny]]

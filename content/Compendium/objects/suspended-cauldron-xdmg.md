@@ -14,9 +14,9 @@ aliases:
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 97*  
 
-An iron pot is suspended so that it can be tipped easily, spilling its contents. Once emptied, a cauldron must be refilled before it can be used again. Filling the cauldron requires three [Utilize](Compendium/rules/actions.md#Utilize) actions. Then a crew member can take the Spill action.
+An iron pot is suspended so that it can be tipped easily, spilling its contents. Once emptied, a cauldron must be refilled before it can be used again. Filling the cauldron requires three [[actions#Utilize|Utilize]] actions. Then a crew member can take the Spill action.
 
-Cauldrons are typically filled with boiling oil but can be filled with other substances, such as acid or [green slime](Compendium/traps-hazards/green-slime-xdmg.md) (see ""Hazards""), with different effects.
+Cauldrons are typically filled with boiling oil but can be filled with other substances, such as acid or [[green-slime-xdmg|green slime]] (see ""Hazards""), with different effects.
 
 ```ad-statblock
 title: Suspended Cauldron

@@ -30,15 +30,15 @@ aliases: ["Syluné's Viper"]
 - **Components:** V, S, M (a snake fang)
 - **Duration:** 1 hour
 
-A shimmering, spectral snake encircles your body for the duration. You gain 15 [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md); the spell ends early if you have no [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) left.
+A shimmering, spectral snake encircles your body for the duration. You gain 15 [[temporary-hit-points-xphb|Temporary Hit Points]]; the spell ends early if you have no [[temporary-hit-points-xphb|Temporary Hit Points]] left.
 
 While the spell is active, you gain the following benefits:
 
-- **Climbing.** You gain a [Climb Speed](Compendium/rules/variant-rules/climb-speed-xphb.md) equal to your [Speed](Compendium/rules/variant-rules/speed-xphb.md).  
-- **Venomous Bite.** As a [Magic](Compendium/rules/actions.md#Magic) action, you can make a ranged spell attack using the snake against one creature within 50 feet. On a hit, the target takes `1d6` Force damage and has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition until the start of your next turn. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.  
+- **Climbing.** You gain a [[climb-speed-xphb|Climb Speed]] equal to your [[speed-xphb|Speed]].  
+- **Venomous Bite.** As a [[actions#Magic|Magic]] action, you can make a ranged spell attack using the snake against one creature within 50 feet. On a hit, the target takes `1d6` Force damage and has the [[conditions#Poisoned|Poisoned]] condition until the start of your next turn. While [[conditions#Poisoned|Poisoned]], the target has the [[conditions#Incapacitated|Incapacitated]] condition.  
 
-**Using a Higher-Level Spell Slot.** For each spell slot level above 3, the number of [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) you gain from this spell increases by 5, and the damage of Venomous Bite increases by `1d6`.
+**Using a Higher-Level Spell Slot.** For each spell slot level above 3, the number of [[temporary-hit-points-xphb|Temporary Hit Points]] you gain from this spell increases by 5, and the damage of Venomous Bite increases by `1d6`.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: FRHoF p. 147*

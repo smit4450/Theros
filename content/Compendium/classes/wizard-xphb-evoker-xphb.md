@@ -75,6 +75,6 @@ Whenever you cast a Wizard spell from the Evocation school, you can add your Int
 
 You can increase the power of your spells. When you cast a Wizard spell with a spell slot of levels 1–5 that deals damage, you can deal maximum damage with that spell on the turn you cast it.
 
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) and [Immunity](Compendium/rules/variant-rules/immunity-xphb.md).
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [[long-rest-xphb|Long Rest]], you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [[resistance-xphb|Resistance]] and [[immunity-xphb|Immunity]].
 
-Each time you use this feature again before finishing a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), the Necrotic damage per spell level increases by `1d12`.
+Each time you use this feature again before finishing a [[long-rest-xphb|Long Rest]], the Necrotic damage per spell level increases by `1d12`.

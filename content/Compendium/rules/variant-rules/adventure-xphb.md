@@ -11,4 +11,4 @@ aliases:
 # Adventure
 *Source: Player's Handbook (2024) p. 360. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-An adventure is a series of [encounters](Compendium/rules/variant-rules/encounter-xphb.md). A story emerges through playing them.
+An adventure is a series of [[encounter-xphb|encounters]]. A story emerges through playing them.

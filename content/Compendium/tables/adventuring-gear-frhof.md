@@ -15,16 +15,16 @@ aliases:
 
 | Item | Catalog | Weight | Cost |
 |------|---------|--------|------|
-| [Adventurer's Ring](Compendium/items/adventurers-ring-frhof.md) | Dalelands Wares | — | 250 GP |
-| [Bright Fungal Cloak](Compendium/items/bright-fungal-cloak-frhof.md) | Icewind Dale Wares | 4 lb. | 25 GP |
-| [Desert Clothing](Compendium/items/desert-clothing-frhof.md) | Calimshan Wares | 4 lb. | 10 GP |
-| [Devil Mask](Compendium/items/devil-mask-frhof.md) | Baldur's Gate Wares | — | 25 GP |
-| [Garb of Light and Shadow](Compendium/items/garb-of-light-and-shadow-frhof.md) | Moonshae Isles Wares | 6 lb. | 50 GP |
-| [Genie Robe](Compendium/items/genie-robe-frhof.md) | Calimshan Wares | 6 lb. | 50 GP |
-| [Locking Spellbook](Compendium/items/locking-spellbook-frhof.md) | Dalelands Wares | 3 lb. | 35 GP |
-| [Monster Camouflage](Compendium/items/monster-camouflage-frhof.md) | Icewind Dale Wares | 6 lb. | 50 GP |
-| [Prosthetic Limb](Compendium/items/prosthetic-limb-frhof.md) | Calimshan Wares | — | — |
-| [Warm Fungal Clothing](Compendium/items/warm-fungal-clothing-frhof.md) | Icewind Dale Wares | 4 lb. | 15 GP |
-| [Windskiff](Compendium/items/windskiff-fraif.md) | Moonshae Isles Wares | — | 4,000 GP |
-| [Winter Camouflage](Compendium/items/winter-camouflage-frhof.md) | Icewind Dale Wares | 4 lb. | 50 GP |
+| [[adventurers-ring-frhof|Adventurer's Ring]] | Dalelands Wares | — | 250 GP |
+| [[bright-fungal-cloak-frhof|Bright Fungal Cloak]] | Icewind Dale Wares | 4 lb. | 25 GP |
+| [[desert-clothing-frhof|Desert Clothing]] | Calimshan Wares | 4 lb. | 10 GP |
+| [[devil-mask-frhof|Devil Mask]] | Baldur's Gate Wares | — | 25 GP |
+| [[garb-of-light-and-shadow-frhof|Garb of Light and Shadow]] | Moonshae Isles Wares | 6 lb. | 50 GP |
+| [[genie-robe-frhof|Genie Robe]] | Calimshan Wares | 6 lb. | 50 GP |
+| [[locking-spellbook-frhof|Locking Spellbook]] | Dalelands Wares | 3 lb. | 35 GP |
+| [[monster-camouflage-frhof|Monster Camouflage]] | Icewind Dale Wares | 6 lb. | 50 GP |
+| [[prosthetic-limb-frhof|Prosthetic Limb]] | Calimshan Wares | — | — |
+| [[warm-fungal-clothing-frhof|Warm Fungal Clothing]] | Icewind Dale Wares | 4 lb. | 15 GP |
+| [[windskiff-fraif|Windskiff]] | Moonshae Isles Wares | — | 4,000 GP |
+| [[winter-camouflage-frhof|Winter Camouflage]] | Icewind Dale Wares | 4 lb. | 50 GP |
 ^adventuring-gear

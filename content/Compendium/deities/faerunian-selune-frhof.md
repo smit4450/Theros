@@ -22,7 +22,7 @@ aliases:
 
 Selûne is a god of the moon, and she is among the most ancient of Faerûn's deities. People in Faerûn consider the moon to literally be the god gazing down on the world, and the trailing motes of light behind it her tears. She is also a god of stars, navigation, and motherhood.
 
-Selûne appears as a woman of varying ages. She sometimes changes slowly before an onlooker's gaze, passing through the phases of aging as the moon transitions through its cycle. In any form, she emits the silvery-blue glow of the brightest full moon. When she sends an emissary to mortals, she sends an [Owl](Compendium/bestiary/beast/owl-xmm.md) or other night bird, a moonlight-hued [Planetar](Compendium/bestiary/celestial/planetar-xmm.md), or a benevolent lycanthrope, commonly a [Werebear](Compendium/bestiary/monstrosity/werebear-xmm.md). Lycanthropes are said to be blessed by Selûne.
+Selûne appears as a woman of varying ages. She sometimes changes slowly before an onlooker's gaze, passing through the phases of aging as the moon transitions through its cycle. In any form, she emits the silvery-blue glow of the brightest full moon. When she sends an emissary to mortals, she sends an [[owl-xmm|Owl]] or other night bird, a moonlight-hued [[planetar-xmm|Planetar]], or a benevolent lycanthrope, commonly a [[werebear-xmm|Werebear]]. Lycanthropes are said to be blessed by Selûne.
 
 The principal legend about Selûne recounts the battle at the beginning of time between Selûne and her sister, Shar. The Tears of Selûne, the cluster of starry lights that follow the moon around the sky, are said to be the result of her joy, sorrow, or both.
 

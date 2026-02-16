@@ -134,7 +134,7 @@ Your piety score to Mogis decreases if you diminish Mogis's influence in the wor
 
 ### Benefits of Piety
 
-- [Mogis's Devotee](Compendium/rewards/mogiss-devotee-mot.md)  
-- [Mogis's Votary](Compendium/rewards/mogiss-votary-mot.md)  
-- [Mogis's Disciple](Compendium/rewards/mogiss-disciple-mot.md)  
-- [Champion of Slaughter](Compendium/rewards/champion-of-slaughter-mot.md)
+- [[mogiss-devotee-mot|Mogis's Devotee]]  
+- [[mogiss-votary-mot|Mogis's Votary]]  
+- [[mogiss-disciple-mot|Mogis's Disciple]]  
+- [[champion-of-slaughter-mot|Champion of Slaughter]]

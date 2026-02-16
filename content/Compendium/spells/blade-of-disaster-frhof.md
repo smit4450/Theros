@@ -26,12 +26,12 @@ aliases: ["Blade of Disaster"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You create a 3-foot-long blade-shaped planar rift that lasts for the duration. The rift appears within range in a space of your choice, and you can immediately make up to two melee spell attacks, each one against a creature or object within 5 feet of the rift. On a hit, the target takes `10d6` Force damage. This attack scores a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md) if the number on the `d20` is 18 or higher.
+You create a 3-foot-long blade-shaped planar rift that lasts for the duration. The rift appears within range in a space of your choice, and you can immediately make up to two melee spell attacks, each one against a creature or object within 5 feet of the rift. On a hit, the target takes `10d6` Force damage. This attack scores a [[critical-hit-xphb|Critical Hit]] if the number on the `d20` is 18 or higher.
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) on your later turns, you can move the rift up to 60 feet and repeat the two attacks against a creature or an object within 5 feet of it. You can direct the attacks at the same target or at different ones.
+As a [[bonus-action-xphb|Bonus Action]] on your later turns, you can move the rift up to 60 feet and repeat the two attacks against a creature or an object within 5 feet of it. You can direct the attacks at the same target or at different ones.
 
-The blade can harmlessly pass through any barrier, including ones created by spells like [Wall of Force](Compendium/spells/wall-of-force-xphb.md).
+The blade can harmlessly pass through any barrier, including ones created by spells like [[wall-of-force-xphb|Wall of Force]].
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: FRHoF p. 143*

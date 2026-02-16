@@ -30,6 +30,6 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 
 You then teleport to an unoccupied space you can see within 5 feet of one of the targets.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 320*

@@ -19,10 +19,10 @@ An ethereal green glow fills the inside of this warrior's helm. While you wear i
 
 ## Paid
 
-While you wear the helm, you have [advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks made to hide.
+While you wear the helm, you have [[advantage-xphb|advantage]] on Dexterity ([[skills#Stealth|Stealth]]) checks made to hide.
 
 ## Overpaid
 
-Once a day, while you wear the helm, you can use an action to cast the [pass without trace](Compendium/spells/pass-without-trace-xphb.md) spell.
+Once a day, while you wear the helm, you can use an action to cast the [[pass-without-trace-xphb|pass without trace]] spell.
 
 *Source: The Gray Merchant of Asphodel*

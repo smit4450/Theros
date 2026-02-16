@@ -15,15 +15,15 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [Armor of Invulnerability](Compendium/items/armor-of-invulnerability-xdmg.md) |
-| 09–18 | [Armor, +3](Compendium/items/3-armor-xdmg.md) |
-| 19–27 | [Enspelled Staff](Compendium/items/enspelled-staff-xdmg.md) (level 6, 7, or 8 spell) |
-| 28–36 | [Holy Avenger](Compendium/items/holy-avenger-xdmg.md) |
-| 37–45 | [Horn of Valhalla (iron)](Compendium/items/horn-of-valhalla-iron-xdmg.md) |
-| 46–54 | [Rod of Resurrection](Compendium/items/rod-of-resurrection-xdmg.md) |
-| 55–63 | [Scarab of Protection](Compendium/items/scarab-of-protection-xdmg.md) |
-| 64–72 | [Scroll of Titan Summoning](Compendium/items/scroll-of-titan-summoning-xdmg.md) |
-| 73–80 | [Spell Scroll](Compendium/items/spell-scroll-xdmg.md) ([level 9](Compendium/items/spell-scroll-level-9-xdmg.md) spell) |
-| 81–90 | [Talisman of Pure Good](Compendium/items/talisman-of-pure-good-xdmg.md) |
-| 91–00 | [Talisman of Ultimate Evil](Compendium/items/talisman-of-ultimate-evil-xdmg.md) |
+| 01–08 | [[armor-of-invulnerability-xdmg|Armor of Invulnerability]] |
+| 09–18 | [[3-armor-xdmg|Armor, +3]] |
+| 19–27 | [[enspelled-staff-xdmg|Enspelled Staff]] (level 6, 7, or 8 spell) |
+| 28–36 | [[holy-avenger-xdmg|Holy Avenger]] |
+| 37–45 | [[horn-of-valhalla-iron-xdmg|Horn of Valhalla (iron)]] |
+| 46–54 | [[rod-of-resurrection-xdmg|Rod of Resurrection]] |
+| 55–63 | [[scarab-of-protection-xdmg|Scarab of Protection]] |
+| 64–72 | [[scroll-of-titan-summoning-xdmg|Scroll of Titan Summoning]] |
+| 73–80 | [[spell-scroll-xdmg|Spell Scroll]] ([[spell-scroll-level-9-xdmg|level 9]] spell) |
+| 81–90 | [[talisman-of-pure-good-xdmg|Talisman of Pure Good]] |
+| 91–00 | [[talisman-of-ultimate-evil-xdmg|Talisman of Ultimate Evil]] |
 ^relics-legendary

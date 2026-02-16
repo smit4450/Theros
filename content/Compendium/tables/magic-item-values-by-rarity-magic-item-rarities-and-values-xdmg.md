@@ -23,4 +23,4 @@ aliases:
 | Artifact | Priceless |
 ^magic-item-rarities-and-values
 
-*Halve the value for a consumable item other than a [Spell Scroll](Compendium/items/spell-scroll-xdmg.md). The value of a Spell Scroll is double what it costs to scribe the scroll (as specified in the "Player's Handbook").
+*Halve the value for a consumable item other than a [[spell-scroll-xdmg|Spell Scroll]]. The value of a Spell Scroll is double what it costs to scribe the scroll (as specified in the "Player's Handbook").

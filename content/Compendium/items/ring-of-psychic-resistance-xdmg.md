@@ -14,6 +14,6 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to psychic damage while wearing this ring. The ring is set with jade.
+You have [[resistance-xphb|Resistance]] to psychic damage while wearing this ring. The ring is set with jade.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

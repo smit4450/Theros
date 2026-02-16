@@ -32,10 +32,10 @@ A shimmering sphere encloses a Large or smaller creature or object within range.
 
 Nothing—not physical objects, energy, or other spell effects—can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
 
-The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can take an action to push against the sphere's walls and thus roll the sphere at up to half the creature's [Speed](Compendium/rules/variant-rules/speed-xphb.md). Similarly, the globe can be picked up and moved by other creatures.
+The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can take an action to push against the sphere's walls and thus roll the sphere at up to half the creature's [[speed-xphb|Speed]]. Similarly, the globe can be picked up and moved by other creatures.
 
-A [Disintegrate](Compendium/spells/disintegrate-xphb.md) spell targeting the globe destroys it without harming anything inside.
+A [[disintegrate-xphb|Disintegrate]] spell targeting the globe destroys it without harming anything inside.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Resilient Sphere") and the Free Rules (2024)*

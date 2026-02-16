@@ -18,6 +18,6 @@ aliases:
 
 *The people of Icewind Dale have developed many strategies for safely traveling in dangerous wilderness. This outfit, adapted from hunting garb, deters strangers and animals alike.*
 
-A suit of Monster Camouflage looks like a Beast or Monstrosity, such as an [owlbear](Compendium/bestiary/monstrosity/owlbear-xmm.md). To discern that you're disguised, a creature must take the [Study](Compendium/rules/actions.md#Study) action to inspect your appearance and succeed on a DC 10 Intelligence ([Investigation](Compendium/rules/skills.md#Investigation) or [Nature](Compendium/rules/skills.md#Nature)) check. The creature has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on this check if it is within 30 feet of you and automatically succeeds on this check if you do anything the monster you're disguised as couldn't do.
+A suit of Monster Camouflage looks like a Beast or Monstrosity, such as an [[owlbear-xmm|owlbear]]. To discern that you're disguised, a creature must take the [[actions#Study|Study]] action to inspect your appearance and succeed on a DC 10 Intelligence ([[skills#Investigation|Investigation]] or [[skills#Nature|Nature]]) check. The creature has [[advantage-xphb|Advantage]] on this check if it is within 30 feet of you and automatically succeeds on this check if you do anything the monster you're disguised as couldn't do.
 
 *Source: FRHoF p. 132*

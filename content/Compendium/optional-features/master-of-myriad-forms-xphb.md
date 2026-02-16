@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Level 5
 
-You can cast [Alter Self](Compendium/spells/alter-self-xphb.md) without expending a spell slot.
+You can cast [[alter-self-xphb|Alter Self]] without expending a spell slot.

@@ -12,7 +12,7 @@ aliases:
 # Red Wizard Necropolis
 *Level 5 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [Spellcasting Focus](Compendium/rules/variant-rules/spellcasting-focus-xphb.md)
+- **Prerequisites**: Ability to use a [[spellcasting-focus-xphb|Spellcasting Focus]]
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 1
 - **Order**: recruit

@@ -16,8 +16,8 @@ aliases:
 | dice: 1d100 | Property |
 |-------------|----------|
 | 01–20 | While attuned to the Artifact, you gain proficiency in one skill of the DM's choice. |
-| 21–30 | While attuned to the Artifact, you have Immunity to the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition. |
-| 31–40 | While attuned to the Artifact, you have Immunity to the [Charmed](Compendium/rules/conditions.md#Charmed) and [Frightened](Compendium/rules/conditions.md#Frightened) conditions. |
+| 21–30 | While attuned to the Artifact, you have Immunity to the [[conditions#Poisoned|Poisoned]] condition. |
+| 31–40 | While attuned to the Artifact, you have Immunity to the [[conditions#Charmed|Charmed]] and [[conditions#Frightened|Frightened]] conditions. |
 | 41–50 | While attuned to the Artifact, you have Resistance to one damage type of the DM's choice. |
 | 51–60 | While attuned to the Artifact, you can cast one cantrip (chosen by the DM) from it. |
 | 61–70 | While attuned to the Artifact, you can cast one level 1 spell (chosen by the DM) from it. After you cast the spell, roll `1d6`. On a roll of 1–5, you can't cast it again in this way until the next dawn. |

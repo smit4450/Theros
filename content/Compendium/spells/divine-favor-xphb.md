@@ -22,6 +22,6 @@ aliases: ["Divine Favor"]
 
 Until the spell ends, your attacks with weapons deal an extra `1d4` Radiant damage on a hit.
 
-**Classes**: [Paladin](Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to cold damage while you wear this armor.
+You have [[resistance-xphb|Resistance]] to cold damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Cold Resistance](#Breastplate%20of%20Cold%20Resistance)

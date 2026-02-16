@@ -15,7 +15,7 @@ aliases:
 ![](Compendium/items/img/greatsword.webp#right)
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Cost**: 50 gp
 - **Weight**: 6.0 lbs.
 

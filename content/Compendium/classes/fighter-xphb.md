@@ -52,16 +52,16 @@ aliases:
 ## Starting Fighter
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Athletics](Compendium/rules/skills.md#Athletics), [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 2:* [[skills#Acrobatics|Acrobatics]], [[skills#Animal%20Handling|Animal Handling]], [[skills#Athletics|Athletics]], [[skills#History|History]], [[skills#Insight|Insight]], [[skills#Intimidation|Intimidation]], [[skills#Perception|Perception]], [[skills#Persuasion|Persuasion]], or [[skills#Survival|Survival]]
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy%20Armor), and [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[item-types#Heavy%20Armor|Heavy armor]], and [[shield-xphb|Shields]]
 
-**Starting Equipment:** *Choose A, B, or C:* (A) [Chain Mail](Compendium/items/chain-mail-xphb.md), [Greatsword](Compendium/items/greatsword-xphb.md), [Flail](Compendium/items/flail-xphb.md), 8 [Javelins](Compendium/items/javelin-xphb.md), [Dungeoneer's Pack](Compendium/items/dungeoneers-pack-xphb.md), and 4 GP; (B) [Studded Leather Armor](Compendium/items/studded-leather-armor-xphb.md), [Scimitar](Compendium/items/scimitar-xphb.md), [Shortsword](Compendium/items/shortsword-xphb.md), [Longbow](Compendium/items/longbow-xphb.md), [20 Arrows](Compendium/items/arrows-20-xphb.md), [Quiver](Compendium/items/quiver-xphb.md), [Dungeoneer's Pack](Compendium/items/dungeoneers-pack-xphb.md), and 11 GP; or (C) 155 GP
+**Starting Equipment:** *Choose A, B, or C:* (A) [[chain-mail-xphb|Chain Mail]], [[greatsword-xphb|Greatsword]], [[flail-xphb|Flail]], 8 [[javelin-xphb|Javelins]], [[dungeoneers-pack-xphb|Dungeoneer's Pack]], and 4 GP; (B) [[studded-leather-armor-xphb|Studded Leather Armor]], [[scimitar-xphb|Scimitar]], [[shortsword-xphb|Shortsword]], [[longbow-xphb|Longbow]], [[arrows-20-xphb|20 Arrows]], [[quiver-xphb|Quiver]], [[dungeoneers-pack-xphb|Dungeoneer's Pack]], and 11 GP; or (C) 155 GP
 
 ## Multiclassing Fighter
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-xphb|Shields]]
 
 ## Fighter
 
@@ -73,33 +73,33 @@ Fighters master various weapon techniques, and a well-equipped Fighter always ha
 
 ### Fighting Style (Level 1)
 
-You have honed your martial prowess and gain a Fighting Style feat of your choice. [Defense](Compendium/feats/defense-xphb.md) is recommended.
+You have honed your martial prowess and gain a Fighting Style feat of your choice. [[defense-xphb|Defense]] is recommended.
 
 Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
 ### Second Wind (Level 1)
 
-You have a limited well of physical and mental stamina that you can draw on. As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can use it to regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to `1d10` plus your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a [[bonus-action-xphb|Bonus Action]], you can use it to regain [[hit-points-xphb|Hit Points]] equal to `1d10` plus your Fighter level.
 
-You can use this feature twice. You regain one expended use when you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can use this feature twice. You regain one expended use when you finish a [[short-rest-xphb|Short Rest]], and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
 When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [mastery properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md) of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [[weapon-mastery-properties-xphb|mastery properties]] of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [[long-rest-xphb|Long Rest]], you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain Fighter levels, you gain the ability to use the [mastery properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md) of more kinds of weapons, as shown in the [Weapon](Compendium/rules/variant-rules/weapon-xphb.md) Mastery column of the Fighter Features table.
+When you reach certain Fighter levels, you gain the ability to use the [[weapon-mastery-properties-xphb|mastery properties]] of more kinds of weapons, as shown in the [[weapon-xphb|Weapon]] Mastery column of the Fighter Features table.
 
 ### Action Surge (Level 2)
 
-You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](Compendium/rules/actions.md#Magic) action.
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [[actions#Magic|Magic]] action.
 
-Once you use this feature, you can't do so again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). Starting at level 17, you can use it twice before a rest but only once on a turn.
+Once you use this feature, you can't do so again until you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ### Tactical Mind (Level 2)
 
-You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), you roll `1d10` and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
+You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[hit-points-xphb|Hit Points]], you roll `1d10` and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ### Fighter Subclass (Level 3)
 
@@ -107,19 +107,19 @@ You gain a Fighter subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [[actions#Attack|Attack]] action on your turn.
 
 ### Tactical Shift (Level 5)
 
-Whenever you activate your Second Wind with a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).
+Whenever you activate your Second Wind with a [[bonus-action-xphb|Bonus Action]], you can move up to half your [[speed-xphb|Speed]] without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].
 
 ### Ability Score Improvement (Level 6)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 7)
 
@@ -127,17 +127,17 @@ You gain a feature from your Fighter Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Indomitable (Level 9)
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[long-rest-xphb|Long Rest]].
 
-You can use this feature twice before a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) starting at level 13 and three times before a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) starting at level 17.
+You can use this feature twice before a [[long-rest-xphb|Long Rest]] starting at level 13 and three times before a [[long-rest-xphb|Long Rest]] starting at level 17.
 
 ### Tactical Master (Level 9)
 
-When you attack with a weapon whose mastery property you can use, you can replace that property with the [Push](Compendium/rules/item-mastery.md#Push), [Sap](Compendium/rules/item-mastery.md#Sap), or [Slow](Compendium/rules/item-mastery.md#Slow) property for that attack.
+When you attack with a weapon whose mastery property you can use, you can replace that property with the [[item-mastery#Push|Push]], [[item-mastery#Sap|Sap]], or [[item-mastery#Slow|Slow]] property for that attack.
 
 ### Subclass Feature (Level 10)
 
@@ -145,25 +145,25 @@ You gain a feature from your Fighter Subclass.
 
 ### Two Extra Attacks (Level 11)
 
-You can attack three times instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack three times instead of once whenever you take the [[actions#Attack|Attack]] action on your turn.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Indomitable (Level 13)
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[long-rest-xphb|Long Rest]].
 
-You can use this feature twice before a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) starting at level 13 and three times before a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) starting at level 17.
+You can use this feature twice before a [[long-rest-xphb|Long Rest]] starting at level 13 and three times before a [[long-rest-xphb|Long Rest]] starting at level 17.
 
 ### Studied Attacks (Level 13)
 
-You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on your next attack roll against that creature before the end of your next turn.
+You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have [[advantage-xphb|Advantage]] on your next attack roll against that creature before the end of your next turn.
 
 ### Ability Score Improvement (Level 14)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 15)
 
@@ -171,19 +171,19 @@ You gain a feature from your Fighter Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Action Surge (Level 17)
 
-You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](Compendium/rules/actions.md#Magic) action.
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [[actions#Magic|Magic]] action.
 
-Once you use this feature, you can't do so again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). Starting at level 17, you can use it twice before a rest but only once on a turn.
+Once you use this feature, you can't do so again until you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ### Indomitable (Level 17)
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[long-rest-xphb|Long Rest]].
 
-You can use this feature twice before a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) starting at level 13 and three times before a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) starting at level 17.
+You can use this feature twice before a [[long-rest-xphb|Long Rest]] starting at level 13 and three times before a [[long-rest-xphb|Long Rest]] starting at level 17.
 
 ### Subclass Feature (Level 18)
 
@@ -191,8 +191,8 @@ You gain a feature from your Fighter Subclass.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Combat Prowess](Compendium/feats/boon-of-combat-prowess-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[boon-of-combat-prowess-xphb|Boon of Combat Prowess]] is recommended.
 
 ### Three Extra Attacks (Level 20)
 
-You can attack four times instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack four times instead of once whenever you take the [[actions#Attack|Attack]] action on your turn.

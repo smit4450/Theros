@@ -25,11 +25,11 @@ When a Training Area becomes part of your Bastion, choose one trainer from the "
 
 | Trainer Type | Empower Effect |
 |--------------|----------------|
-| Battle Expert | When you take damage from an attack made with an [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md) or a weapon, you can take a Reaction to reduce this damage by `1d4`. |
-| Skills Expert | You gain proficiency in one of the following skills of your choice: [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Performance](Compendium/rules/skills.md#Performance), [Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand), or [Stealth](Compendium/rules/skills.md#Stealth). |
+| Battle Expert | When you take damage from an attack made with an [[unarmed-strike-xphb|Unarmed Strike]] or a weapon, you can take a Reaction to reduce this damage by `1d4`. |
+| Skills Expert | You gain proficiency in one of the following skills of your choice: [[skills#Acrobatics|Acrobatics]], [[skills#Athletics|Athletics]], [[skills#Performance|Performance]], [[skills#Sleight%20of%20Hand|Sleight of Hand]], or [[skills#Stealth|Stealth]]. |
 | Tools Expert | You gain proficiency with one tool of your choice. |
-| Unarmed Combat Expert | When you hit with your [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md) and deal damage, the attack deals an extra `1d4` Bludgeoning damage. |
-| Weapon Expert | Choose a kind of Simple or Martial weapon, such as [Spear](Compendium/items/spear-xphb.md) or [Longbow](Compendium/items/longbow-xphb.md). If you aren't proficient with the weapon, you gain proficiency with it. If you already have proficiency with the weapon, you can use its mastery property. |
+| Unarmed Combat Expert | When you hit with your [[unarmed-strike-xphb|Unarmed Strike]] and deal damage, the attack deals an extra `1d4` Bludgeoning damage. |
+| Weapon Expert | Choose a kind of Simple or Martial weapon, such as [[spear-xphb|Spear]] or [[longbow-xphb|Longbow]]. If you aren't proficient with the weapon, you gain proficiency with it. If you already have proficiency with the weapon, you can use its mastery property. |
 ^expert-trainers
 
 ## Empower: Training

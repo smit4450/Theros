@@ -20,7 +20,7 @@ aliases:
 - **Alignment**: Unaligned
 - **Pantheon**: Faerûnian
 
-Eldath is a god of comfort, healing, stillness, and peaceful waters. She is thought to be present at waterfalls, springs, pools, and glades, particularly those visited by druids. Her blessed waters heal the sick, ease troubled minds, and comfort the dying. When she speaks to her followers, Eldath appears as a serene humanlike face formed from flowing water in a pool or waterfall, or she sends a [Centaur Warden](Compendium/bestiary/fey/centaur-warden-xmm.md) or a [Merfolk Wavebender](Compendium/bestiary/elemental/merfolk-wavebender-xmm.md) to deliver her instructions.
+Eldath is a god of comfort, healing, stillness, and peaceful waters. She is thought to be present at waterfalls, springs, pools, and glades, particularly those visited by druids. Her blessed waters heal the sick, ease troubled minds, and comfort the dying. When she speaks to her followers, Eldath appears as a serene humanlike face formed from flowing water in a pool or waterfall, or she sends a [[centaur-warden-xmm|Centaur Warden]] or a [[merfolk-wavebender-xmm|Merfolk Wavebender]] to deliver her instructions.
 
 Most rural settlements have a pond or a glade that locals ascribe to Eldath. Tradition dictates that the site remain a place of quiet reflection. The body of water serves as a repository of offerings. Within a glade, people tie offerings to a bush or tree. Offerings are broken weapons or items associated with arguments, which the faithful discard while praying for peace. Many who favor Eldath are pacifists or people troubled by violence they have witnessed or experienced.
 

@@ -18,7 +18,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 30.
 
-**Cunning Speaker.** You don't have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on ability checks to influence [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) creatures.
+**Cunning Speaker.** You don't have [[disadvantage-xphb|Disadvantage]] on ability checks to influence [[hostile-attitude-xphb|Hostile]] creatures.
 
 **Gifted Interpreter.** You understand the literal meaning of any language you hear or see signed, and you can understand the literal meaning of any written language you see.
 

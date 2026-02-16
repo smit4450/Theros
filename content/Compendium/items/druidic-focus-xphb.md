@@ -16,8 +16,8 @@ aliases:
 
 **Items in this group:**
 
-- [Sprig of mistletoe](Compendium/items/sprig-of-mistletoe-xphb.md)
-- [Wooden staff](Compendium/items/wooden-staff-xphb.md)
-- [Yew wand](Compendium/items/yew-wand-xphb.md)
+- [[sprig-of-mistletoe-xphb|Sprig of mistletoe]]
+- [[wooden-staff-xphb|Wooden staff]]
+- [[yew-wand-xphb|Yew wand]]
 
 *Source: Player's Handbook (2024) p. 225*

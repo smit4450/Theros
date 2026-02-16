@@ -30,10 +30,10 @@ aliases: ["Spare the Dying"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Choose a creature within range that has 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) and isn't dead. The creature becomes [Stable](Compendium/rules/variant-rules/stable-xphb.md).
+Choose a creature within range that has 0 [[hit-points-xphb|Hit Points]] and isn't dead. The creature becomes [[stable-xphb|Stable]].
 
 **Cantrip Upgrade.** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]
 
 *Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

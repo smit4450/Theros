@@ -23,9 +23,9 @@ aliases:
 ![](Compendium/items/img/dancing-sword.webp#right)
 
 
-You can take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls.
+You can take a [[bonus-action-xphb|Bonus Action]] to toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls.
 
-While the weapon hovers, you can take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can cause the weapon to attack one creature within 5 feet of the weapon.
+While the weapon hovers, you can take a [[bonus-action-xphb|Bonus Action]] to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same [[bonus-action-xphb|Bonus Action]], you can cause the weapon to attack one creature within 5 feet of the weapon.
 
 After the hovering weapon attacks for the fourth time, it flies back to you and tries to return to your hand. If you have no hand free, the weapon falls to the ground in your space. If the weapon has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or are more than 30 feet away from it.
 
@@ -40,13 +40,13 @@ After the hovering weapon attacks for the fourth time, it flies back to you and 
 ### Dancing Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](Compendium/rules/item-properties.md#Two-Handed), special
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]], special
 - **Weight**: 6.0 lbs.
 
 ### Dancing Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Dancing Longsword
@@ -54,25 +54,25 @@ After the hovering weapon attacks for the fourth time, it flies back to you and 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Dancing Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Dancing Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Dancing Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 

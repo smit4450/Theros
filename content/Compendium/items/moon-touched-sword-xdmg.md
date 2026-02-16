@@ -22,7 +22,7 @@ aliases:
 ![](Compendium/items/img/moon-touched-sword.webp#right)
 
 
-In [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the unsheathed blade of this weapon sheds moonlight, creating [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 15-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 15 feet.
+In [[darkness-xphb|Darkness]], the unsheathed blade of this weapon sheds moonlight, creating [[bright-light-xphb|Bright Light]] in a 15-foot radius and [[dim-light-xphb|Dim Light]] for an additional 15 feet.
 
 **Variants**:
 - [Moon-Touched Double-Bladed Scimitar](#Moon-Touched%20Double-Bladed%20Scimitar)
@@ -35,13 +35,13 @@ In [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the unsheathed b
 ### Moon-Touched Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](Compendium/rules/item-properties.md#Two-Handed), special
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]], special
 - **Weight**: 6.0 lbs.
 
 ### Moon-Touched Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Moon-Touched Longsword
@@ -49,25 +49,25 @@ In [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the unsheathed b
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Moon-Touched Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Moon-Touched Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Moon-Touched Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 

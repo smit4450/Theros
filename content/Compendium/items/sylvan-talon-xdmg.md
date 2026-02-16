@@ -28,7 +28,7 @@ While this weapon is on your person, you understand the non-written communicatio
 
 ## Secret Message
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can use the weapon to cast [Message](Compendium/spells/message-xphb.md). Once this property is used, it can't be used again until the next dawn.
+As a [[actions#Magic|Magic]] action, you can use the weapon to cast [[message-xphb|Message]]. Once this property is used, it can't be used again until the next dawn.
 
 **Variants**:
 - [Sylvan Talon Dagger](#Sylvan%20Talon%20Dagger)
@@ -42,31 +42,31 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you can use the weapon t
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 ### Sylvan Talon Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Sylvan Talon Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Sylvan Talon Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Sylvan Talon Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Sylvan Talon Spear
@@ -75,7 +75,7 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you can use the weapon t
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 

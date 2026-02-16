@@ -20,21 +20,21 @@ aliases: ["Dwarf"]
 
 ### Darkvision
 
-You have [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 120 feet.
+You have [[senses#Darkvision|Darkvision]] with a range of 120 feet.
 
 ### Dwarven Resilience
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Poison damage. You also have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.
+You have [[resistance-xphb|Resistance]] to Poison damage. You also have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Poisoned|Poisoned]] condition.
 
 ### Dwarven Toughness
 
-Your [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum increases by 1, and it increases by 1 again whenever you gain a level.
+Your [[hit-points-xphb|Hit Point]] maximum increases by 1, and it increases by 1 again whenever you gain a level.
 
 ### Stonecunning
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you gain [Tremorsense](Compendium/rules/senses.md#Tremorsense) with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this [Tremorsense](Compendium/rules/senses.md#Tremorsense). The stone can be natural or worked.
+As a [[bonus-action-xphb|Bonus Action]], you gain [[senses#Tremorsense|Tremorsense]] with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this [[senses#Tremorsense|Tremorsense]]. The stone can be natural or worked.
 
-You can use this [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) a number of times equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can use this [[bonus-action-xphb|Bonus Action]] a number of times equal to your [[proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
 ## Description
 

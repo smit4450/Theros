@@ -34,10 +34,10 @@ aliases: ["Laeral's Silver Lance"]
 - **Components:** V, S, M (a silver pin worth 250+ GP)
 - **Duration:** Instantaneous
 
-Silver energy bursts out from you in a 120-footlong, 5-foot-wide [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). Each creature of your choice in the [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md) makes a Strength saving throw. On a failed save, a creature takes `3d10` Force damage and has the [Prone](Compendium/rules/conditions.md#Prone) condition. On a successful save, a creature takes half as much damage only.
+Silver energy bursts out from you in a 120-footlong, 5-foot-wide [[line-area-of-effect-xphb|Line]]. Each creature of your choice in the [[line-area-of-effect-xphb|Line]] makes a Strength saving throw. On a failed save, a creature takes `3d10` Force damage and has the [[conditions#Prone|Prone]] condition. On a successful save, a creature takes half as much damage only.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for every spell slot level above 3.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: FRHoF p. 145*

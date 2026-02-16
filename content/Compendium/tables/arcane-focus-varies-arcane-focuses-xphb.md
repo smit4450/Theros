@@ -15,9 +15,9 @@ aliases:
 
 | Focus | Weight | Cost |
 |-------|--------|------|
-| [Crystal](Compendium/items/crystal-xphb.md) | 1 lb. | 10 GP |
-| [Orb](Compendium/items/orb-xphb.md) | 3 lb. | 20 GP |
-| [Rod](Compendium/items/rod-xphb.md) | 2 lb. | 10 GP |
-| [Staff](Compendium/items/staff-xphb.md) (also a [Quarterstaff](Compendium/items/quarterstaff-xphb.md)) | 4 lb. | 5 GP |
-| [Wand](Compendium/items/wand-xphb.md) | 1 lb. | 10 GP |
+| [[crystal-xphb|Crystal]] | 1 lb. | 10 GP |
+| [[orb-xphb|Orb]] | 3 lb. | 20 GP |
+| [[rod-xphb|Rod]] | 2 lb. | 10 GP |
+| [[staff-xphb|Staff]] (also a [[quarterstaff-xphb|Quarterstaff]]) | 4 lb. | 5 GP |
+| [[wand-xphb|Wand]] | 1 lb. | 10 GP |
 ^arcane-focuses

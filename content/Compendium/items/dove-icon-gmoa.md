@@ -16,7 +16,7 @@ aliases:
 
 This icon is a quartz crystal statuette of a flying dove and is filled with swirling white clouds resembling foam. It can grant Aspect of Dove for 10 minutes. Once it has been used, it can't be used again until 5 days have passed. 
 
-**Aspect of Dove.** You look more beautiful in some intangible way and soft cooing accompanies your voice. You become the center of attention for anyone within 60 feet of you, drawing their eyes and giving allies [advantage](Compendium/rules/variant-rules/advantage-xphb.md) on any Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks they make. You have [advantage](Compendium/rules/variant-rules/advantage-xphb.md) when making Charisma checks.
+**Aspect of Dove.** You look more beautiful in some intangible way and soft cooing accompanies your voice. You become the center of attention for anyone within 60 feet of you, drawing their eyes and giving allies [[advantage-xphb|advantage]] on any Dexterity ([[skills#Stealth|Stealth]]) checks they make. You have [[advantage-xphb|advantage]] when making Charisma checks.
 
 ## Paid
 

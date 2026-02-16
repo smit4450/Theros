@@ -15,12 +15,12 @@ aliases:
 
 | Class | Change When You... | Number of Spells |
 |-------|--------------------|------------------|
-| [Bard](Compendium/classes/bard-xphb.md) | Gain a level | One |
-| [Cleric](Compendium/classes/cleric-xphb.md) | Finish a Long Rest | Any |
-| [Druid](Compendium/classes/druid-xphb.md) | Finish a Long Rest | Any |
-| [Paladin](Compendium/classes/paladin-xphb.md) | Finish a Long Rest | One |
-| [Ranger](Compendium/classes/ranger-xphb.md) | Finish a Long Rest | One |
-| [Sorcerer](Compendium/classes/sorcerer-xphb.md) | Gain a level | One |
-| [Warlock](Compendium/classes/warlock-xphb.md) | Gain a level | One |
-| [Wizard](Compendium/classes/wizard-xphb.md) | Finish a Long Rest | Any |
+| [[bard-xphb|Bard]] | Gain a level | One |
+| [[cleric-xphb|Cleric]] | Finish a Long Rest | Any |
+| [[druid-xphb|Druid]] | Finish a Long Rest | Any |
+| [[paladin-xphb|Paladin]] | Finish a Long Rest | One |
+| [[ranger-xphb|Ranger]] | Finish a Long Rest | One |
+| [[sorcerer-xphb|Sorcerer]] | Gain a level | One |
+| [[warlock-xphb|Warlock]] | Gain a level | One |
+| [[wizard-xphb|Wizard]] | Finish a Long Rest | Any |
 ^spell-preparation-by-class

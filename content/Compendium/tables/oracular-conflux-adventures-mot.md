@@ -19,7 +19,7 @@ aliases:
 | 2 | Defend the shrine from a worshiper who is angry with an oracle for an incorrect prediction. |
 | 3 | Convince an oracle to give a worshiper a particular false prediction. |
 | 4 | Help the addled victim of a lightning strike recover. |
-| 5 | Recover sacrificial animals from a [cyclops](Compendium/bestiary/giant/cyclops-sentry-xmm.md) raider. |
+| 5 | Recover sacrificial animals from a [[cyclops-sentry-xmm|cyclops]] raider. |
 | 6 | Rig tools used to predict the future so that they produce a specific outcome. |
 | 7 | Manipulate a situation so prophesied events transpire within sight of a half-blind oracle. |
 | 8 | Evacuate a crowded shrine during a storm when lightning strike sets the temple ablaze. |

@@ -16,6 +16,6 @@ aliases:
 - **Cost**: 1 gp
 - **Weight**: 1.0 lbs.
 
-A [Crossbow Bolt Case](Compendium/items/crossbow-bolt-case-xphb.md) holds up to 20 Bolts.
+A [[crossbow-bolt-case-xphb|Crossbow Bolt Case]] holds up to 20 Bolts.
 
 *Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -20,7 +20,7 @@ aliases:
 - **Alignment**: Unaligned
 - **Pantheon**: Faerûnian
 
-Auril, the merciless god of cold indifference, embodies winter's cruelty. Auril's beloved ice grips all things in her clutches, preserving them against the ravages of time. She hoards beauty in all forms, from art objects and flowers to skilled artisans and their wondrous works, freezing them in magical ice for her pleasure alone. If she deigns to speak to a mortal, her voice whispers like icy needles on the cold wind, or she sends a [Yeti](Compendium/bestiary/monstrosity/yeti-xmm.md) or an [Air Elemental](Compendium/bestiary/elemental/air-elemental-xmm.md) to speak on her behalf.
+Auril, the merciless god of cold indifference, embodies winter's cruelty. Auril's beloved ice grips all things in her clutches, preserving them against the ravages of time. She hoards beauty in all forms, from art objects and flowers to skilled artisans and their wondrous works, freezing them in magical ice for her pleasure alone. If she deigns to speak to a mortal, her voice whispers like icy needles on the cold wind, or she sends a [[yeti-xmm|Yeti]] or an [[air-elemental-xmm|Air Elemental]] to speak on her behalf.
 
 Auril is worshiped in regions affected by deep winters, notably Icewind Dale during the supernaturally long night known as the Everlasting Rime. Individuals propitiate Auril with offerings and prayers for mercy. Few favor Auril, except those who make their livelihood from winter or those who truly love the season. Worshipers stock food, fuel, and other sources of comfort and warmth, which they sacrifice to Auril for deliverance from harsh winters. In times of deep desperation, however, sapient beings might be left in the deadly cold as a sacrifice to the Frostmaiden.
 

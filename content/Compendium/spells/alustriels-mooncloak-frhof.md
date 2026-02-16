@@ -28,13 +28,13 @@ aliases: ["Alustriel's Mooncloak"]
 - **Components:** V, S, M (a moonstone worth 50+ GP)
 - **Duration:** Concentration, up to 1 minute
 
-For the duration, moonlight fills a 20-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you with [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md). While in that area, you and your allies have [Half Cover](Compendium/rules/variant-rules/cover-xphb.md) and [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Cold, Lightning, and Radiant damage.
+For the duration, moonlight fills a 20-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you with [[dim-light-xphb|Dim Light]]. While in that area, you and your allies have [[cover-xphb|Half Cover]] and [[resistance-xphb|Resistance]] to Cold, Lightning, and Radiant damage.
 
 While the spell lasts, you can use one of the following options, ending the spell immediately:
 
-- **Liberation.** When you fail a saving throw to avoid or end the [Frightened](Compendium/rules/conditions.md#Frightened), [Grappled](Compendium/rules/conditions.md#Grappled), or [Restrained](Compendium/rules/conditions.md#Restrained) condition, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to succeed on the save instead.  
-- **Respite.** As a [Magic](Compendium/rules/actions.md#Magic) action, you or an ally within the area regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to `4d10` plus your spellcasting ability modifier.  
+- **Liberation.** When you fail a saving throw to avoid or end the [[conditions#Frightened|Frightened]], [[conditions#Grappled|Grappled]], or [[conditions#Restrained|Restrained]] condition, you can take a [[reaction-xphb|Reaction]] to succeed on the save instead.  
+- **Respite.** As a [[actions#Magic|Magic]] action, you or an ally within the area regains [[hit-points-xphb|Hit Points]] equal to `4d10` plus your spellcasting ability modifier.  
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: FRHoF p. 142*

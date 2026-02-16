@@ -16,6 +16,6 @@ aliases:
 
 An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take `2d4` Psychic damage.
 
-You can play Anstruth Harp to cast one of the following spells: [Fly](Compendium/spells/fly-xphb.md), [Invisibility](Compendium/spells/invisibility-xphb.md), [Levitate](Compendium/spells/levitate-xphb.md), [Protection from Evil and Good](Compendium/spells/protection-from-evil-and-good-xphb.md), [Cure Wounds](Compendium/spells/cure-wounds-xphb.md) (level 5), [Ice Storm](Compendium/spells/ice-storm-xphb.md), and [Wall of Thorns](Compendium/spells/wall-of-thorns-xphb.md). Once the Anstruth Harp has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+You can play Anstruth Harp to cast one of the following spells: [[fly-xphb|Fly]], [[invisibility-xphb|Invisibility]], [[levitate-xphb|Levitate]], [[protection-from-evil-and-good-xphb|Protection from Evil and Good]], [[cure-wounds-xphb|Cure Wounds]] (level 5), [[ice-storm-xphb|Ice Storm]], and [[wall-of-thorns-xphb|Wall of Thorns]]. Once the Anstruth Harp has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
 *Source: Dungeon Master's Guide (2024) p. 272*

@@ -34,7 +34,7 @@ You alter the appearance of your eyes for 1 minute.
 
 ## Booming Voice
 
-Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) checks.
+Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [[advantage-xphb|Advantage]] on Charisma ([[skills#Intimidation|Intimidation]]) checks.
 
 ## Fire Play
 
@@ -54,6 +54,6 @@ You cause harmless tremors in the ground for 1 minute.
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]
 
 *Source: Player's Handbook (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

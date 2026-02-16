@@ -22,10 +22,10 @@ aliases: ["Thunderous Smite"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-Your strike rings with thunder that is audible within 300 feet of you, and the target takes an extra `2d6` Thunder damage from the attack. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and have the [Prone](Compendium/rules/conditions.md#Prone) condition.
+Your strike rings with thunder that is audible within 300 feet of you, and the target takes an extra `2d6` Thunder damage from the attack. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and have the [[conditions#Prone|Prone]] condition.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Paladin (Oath of the Noble Genies)](Compendium/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [Paladin (Oath of the Noble Genies)](Compendium/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 334*

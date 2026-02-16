@@ -21,13 +21,13 @@ aliases: ["Elf"]
 
 ### Darkvision
 
-You have [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 feet.
+You have [[senses#Darkvision|Darkvision]] with a range of 60 feet.
 
 ### Elven Lineage
 
 You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.
 
-When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You can also cast the spell using any spell slots you have of the appropriate level.
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [[long-rest-xphb|Long Rest]]. You can also cast the spell using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 
@@ -35,22 +35,22 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 | Lineage | Level 1 | Level 3 | Level 5 |
 |---------|---------|---------|---------|
-| Drow | The range of your Darkvision increases to 120 feet. You also know the [Dancing Lights](Compendium/spells/dancing-lights-xphb.md) cantrip. | [Faerie Fire](Compendium/spells/faerie-fire-xphb.md) | [Darkness](Compendium/spells/darkness-xphb.md) |
-| High Elf | You know the [Prestidigitation](Compendium/spells/prestidigitation-xphb.md) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [Detect Magic](Compendium/spells/detect-magic-xphb.md) | [Misty Step](Compendium/spells/misty-step-xphb.md) |
-| Wood Elf | Your Speed increases to 35 feet. You also know the [Druidcraft](Compendium/spells/druidcraft-xphb.md) cantrip. | [Longstrider](Compendium/spells/longstrider-xphb.md) | [Pass without Trace](Compendium/spells/pass-without-trace-xphb.md) |
+| Drow | The range of your Darkvision increases to 120 feet. You also know the [[dancing-lights-xphb|Dancing Lights]] cantrip. | [[faerie-fire-xphb|Faerie Fire]] | [[darkness-xphb|Darkness]] |
+| High Elf | You know the [[prestidigitation-xphb|Prestidigitation]] cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [[detect-magic-xphb|Detect Magic]] | [[misty-step-xphb|Misty Step]] |
+| Wood Elf | Your Speed increases to 35 feet. You also know the [[druidcraft-xphb|Druidcraft]] cantrip. | [[longstrider-xphb|Longstrider]] | [[pass-without-trace-xphb|Pass without Trace]] |
 ^elven-lineages
 
 ### Fey Ancestry
 
-You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](Compendium/rules/conditions.md#Charmed) condition.
+You have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Charmed|Charmed]] condition.
 
 ### Keen Senses
 
-You have proficiency in the [Insight](Compendium/rules/skills.md#Insight), [Perception](Compendium/rules/skills.md#Perception), or [Survival](Compendium/rules/skills.md#Survival) skill.
+You have proficiency in the [[skills#Insight|Insight]], [[skills#Perception|Perception]], or [[skills#Survival|Survival]] skill.
 
 ### Trance
 
-You don't need to sleep, and magic can't put you to sleep. You can finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+You don't need to sleep, and magic can't put you to sleep. You can finish a [[long-rest-xphb|Long Rest]] in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 ## Description
 

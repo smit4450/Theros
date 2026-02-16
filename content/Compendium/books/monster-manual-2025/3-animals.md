@@ -13,385 +13,385 @@ aliases:
 
 This appendix provides stat blocks for animals of the Beast type—along with many of their gigantic or mythologized kin—in alphabetical order. Most represent versions of animals that exist (or existed) in the real world. You can find descriptions of these creatures in dictionaries or other educational sources, or you might create new roles for them in your D&D worlds.
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
-- [Allosaurus](Compendium/bestiary/beast/allosaurus-xmm.md)  
-- [Ankylosaurus](Compendium/bestiary/beast/ankylosaurus-xmm.md)  
-- [Ape](Compendium/bestiary/beast/ape-xmm.md)  
-- [Archelon](Compendium/bestiary/beast/archelon-xmm.md)  
-- [Baboon](Compendium/bestiary/beast/baboon-xmm.md)  
-- [Badger](Compendium/bestiary/beast/badger-xmm.md)  
-- [Bat](Compendium/bestiary/beast/bat-xmm.md)  
-- [Black Bear](Compendium/bestiary/beast/black-bear-xmm.md)  
-- [Blood Hawk](Compendium/bestiary/beast/blood-hawk-xmm.md)  
-- [Boar](Compendium/bestiary/beast/boar-xmm.md)  
-- [Brown Bear](Compendium/bestiary/beast/brown-bear-xmm.md)  
-- [Camel](Compendium/bestiary/beast/camel-xmm.md)  
-- [Cat](Compendium/bestiary/beast/cat-xmm.md)  
-- [Constrictor Snake](Compendium/bestiary/beast/constrictor-snake-xmm.md)  
-- [Crab](Compendium/bestiary/beast/crab-xmm.md)  
-- [Crocodile](Compendium/bestiary/beast/crocodile-xmm.md)  
-- [Deer](Compendium/bestiary/beast/deer-xmm.md)  
-- [Dire Wolf](Compendium/bestiary/beast/dire-wolf-xmm.md)  
-- [Draft Horse](Compendium/bestiary/beast/draft-horse-xmm.md)  
-- [Eagle](Compendium/bestiary/beast/eagle-xmm.md)  
-- [Elephant](Compendium/bestiary/beast/elephant-xmm.md)  
-- [Elk](Compendium/bestiary/beast/elk-xmm.md)  
-- [Flying Snake](Compendium/bestiary/monstrosity/flying-snake-xmm.md)  
-- [Frog](Compendium/bestiary/beast/frog-xmm.md)  
-- [Giant Ape](Compendium/bestiary/beast/giant-ape-xmm.md)  
-- [Giant Badger](Compendium/bestiary/beast/giant-badger-xmm.md)  
-- [Giant Bat](Compendium/bestiary/beast/giant-bat-xmm.md)  
-- [Giant Boar](Compendium/bestiary/beast/giant-boar-xmm.md)  
-- [Giant Centipede](Compendium/bestiary/beast/giant-centipede-xmm.md)  
-- [Giant Constrictor Snake](Compendium/bestiary/beast/giant-constrictor-snake-xmm.md)  
-- [Giant Crab](Compendium/bestiary/beast/giant-crab-xmm.md)  
-- [Giant Crocodile](Compendium/bestiary/beast/giant-crocodile-xmm.md)  
-- [Giant Eagle](Compendium/bestiary/celestial/giant-eagle-xmm.md)  
-- [Giant Elk](Compendium/bestiary/celestial/giant-elk-xmm.md)  
-- [Giant Fire Beetle](Compendium/bestiary/beast/giant-fire-beetle-xmm.md)  
-- [Giant Frog](Compendium/bestiary/beast/giant-frog-xmm.md)  
-- [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md)  
-- [Giant Hyena](Compendium/bestiary/beast/giant-hyena-xmm.md)  
-- [Giant Lizard](Compendium/bestiary/beast/giant-lizard-xmm.md)  
-- [Giant Octopus](Compendium/bestiary/beast/giant-octopus-xmm.md)  
-- [Giant Owl](Compendium/bestiary/celestial/giant-owl-xmm.md)  
-- [Giant Rat](Compendium/bestiary/beast/giant-rat-xmm.md)  
-- [Giant Scorpion](Compendium/bestiary/beast/giant-scorpion-xmm.md)  
-- [Giant Seahorse](Compendium/bestiary/beast/giant-seahorse-xmm.md)  
-- [Giant Shark](Compendium/bestiary/beast/giant-shark-xmm.md)  
-- [Giant Spider](Compendium/bestiary/beast/giant-spider-xmm.md)  
-- [Giant Squid](Compendium/bestiary/beast/giant-squid-xmm.md)  
-- [Giant Toad](Compendium/bestiary/beast/giant-toad-xmm.md)  
-- [Giant Venomous Snake](Compendium/bestiary/beast/giant-venomous-snake-xmm.md)  
-- [Giant Vulture](Compendium/bestiary/monstrosity/giant-vulture-xmm.md)  
-- [Giant Wasp](Compendium/bestiary/beast/giant-wasp-xmm.md)  
-- [Giant Weasel](Compendium/bestiary/beast/giant-weasel-xmm.md)  
-- [Giant Wolf Spider](Compendium/bestiary/beast/giant-wolf-spider-xmm.md)  
-- [Goat](Compendium/bestiary/beast/goat-xmm.md)  
-- [Hawk](Compendium/bestiary/beast/hawk-xmm.md)  
-- [Hippopotamus](Compendium/bestiary/beast/hippopotamus-xmm.md)  
-- [Hunter Shark](Compendium/bestiary/beast/hunter-shark-xmm.md)  
-- [Hyena](Compendium/bestiary/beast/hyena-xmm.md)  
-- [Jackal](Compendium/bestiary/beast/jackal-xmm.md)  
-- [Killer Whale](Compendium/bestiary/beast/killer-whale-xmm.md)  
-- [Lion](Compendium/bestiary/beast/lion-xmm.md)  
-- [Lizard](Compendium/bestiary/beast/lizard-xmm.md)  
-- [Mammoth](Compendium/bestiary/beast/mammoth-xmm.md)  
-- [Mastiff](Compendium/bestiary/beast/mastiff-xmm.md)  
-- [Mule](Compendium/bestiary/beast/mule-xmm.md)  
-- [Octopus](Compendium/bestiary/beast/octopus-xmm.md)  
-- [Owl](Compendium/bestiary/beast/owl-xmm.md)  
-- [Panther](Compendium/bestiary/beast/panther-xmm.md)  
-- [Piranha](Compendium/bestiary/beast/piranha-xmm.md)  
-- [Plesiosaurus](Compendium/bestiary/beast/plesiosaurus-xmm.md)  
-- [Polar Bear](Compendium/bestiary/beast/polar-bear-xmm.md)  
-- [Pony](Compendium/bestiary/beast/pony-xmm.md)  
-- [Pteranodon](Compendium/bestiary/beast/pteranodon-xmm.md)  
-- [Rat](Compendium/bestiary/beast/rat-xmm.md)  
-- [Raven](Compendium/bestiary/beast/raven-xmm.md)  
-- [Reef Shark](Compendium/bestiary/beast/reef-shark-xmm.md)  
-- [Rhinoceros](Compendium/bestiary/beast/rhinoceros-xmm.md)  
-- [Riding Horse](Compendium/bestiary/beast/riding-horse-xmm.md)  
-- [Saber-Toothed Tiger](Compendium/bestiary/beast/saber-toothed-tiger-xmm.md)  
-- [Scorpion](Compendium/bestiary/beast/scorpion-xmm.md)  
-- [Seahorse](Compendium/bestiary/beast/seahorse-xmm.md)  
-- [Spider](Compendium/bestiary/beast/spider-xmm.md)  
-- [Swarm of Bats](Compendium/bestiary/beast/swarm-of-bats-xmm.md)  
-- [Swarm of Insects](Compendium/bestiary/beast/swarm-of-insects-xmm.md)  
-- [Swarm of Piranhas](Compendium/bestiary/beast/swarm-of-piranhas-xmm.md)  
-- [Swarm of Rats](Compendium/bestiary/beast/swarm-of-rats-xmm.md)  
-- [Swarm of Ravens](Compendium/bestiary/beast/swarm-of-ravens-xmm.md)  
-- [Swarm of Venomous Snakes](Compendium/bestiary/beast/swarm-of-venomous-snakes-xmm.md)  
-- [Tiger](Compendium/bestiary/beast/tiger-xmm.md)  
-- [Triceratops](Compendium/bestiary/beast/triceratops-xmm.md)  
-- [Tyrannosaurus Rex](Compendium/bestiary/beast/tyrannosaurus-rex-xmm.md)  
-- [Venomous Snake](Compendium/bestiary/beast/venomous-snake-xmm.md)  
-- [Vulture](Compendium/bestiary/beast/vulture-xmm.md)  
-- [Warhorse](Compendium/bestiary/beast/warhorse-xmm.md)  
-- [Weasel](Compendium/bestiary/beast/weasel-xmm.md)  
-- [Wolf](Compendium/bestiary/beast/wolf-xmm.md)  
+- [[allosaurus-xmm|Allosaurus]]  
+- [[ankylosaurus-xmm|Ankylosaurus]]  
+- [[ape-xmm|Ape]]  
+- [[archelon-xmm|Archelon]]  
+- [[baboon-xmm|Baboon]]  
+- [[badger-xmm|Badger]]  
+- [[bat-xmm|Bat]]  
+- [[black-bear-xmm|Black Bear]]  
+- [[blood-hawk-xmm|Blood Hawk]]  
+- [[boar-xmm|Boar]]  
+- [[brown-bear-xmm|Brown Bear]]  
+- [[camel-xmm|Camel]]  
+- [[cat-xmm|Cat]]  
+- [[constrictor-snake-xmm|Constrictor Snake]]  
+- [[crab-xmm|Crab]]  
+- [[crocodile-xmm|Crocodile]]  
+- [[deer-xmm|Deer]]  
+- [[dire-wolf-xmm|Dire Wolf]]  
+- [[draft-horse-xmm|Draft Horse]]  
+- [[eagle-xmm|Eagle]]  
+- [[elephant-xmm|Elephant]]  
+- [[elk-xmm|Elk]]  
+- [[flying-snake-xmm|Flying Snake]]  
+- [[frog-xmm|Frog]]  
+- [[giant-ape-xmm|Giant Ape]]  
+- [[giant-badger-xmm|Giant Badger]]  
+- [[giant-bat-xmm|Giant Bat]]  
+- [[giant-boar-xmm|Giant Boar]]  
+- [[giant-centipede-xmm|Giant Centipede]]  
+- [[giant-constrictor-snake-xmm|Giant Constrictor Snake]]  
+- [[giant-crab-xmm|Giant Crab]]  
+- [[giant-crocodile-xmm|Giant Crocodile]]  
+- [[giant-eagle-xmm|Giant Eagle]]  
+- [[giant-elk-xmm|Giant Elk]]  
+- [[giant-fire-beetle-xmm|Giant Fire Beetle]]  
+- [[giant-frog-xmm|Giant Frog]]  
+- [[giant-goat-xmm|Giant Goat]]  
+- [[giant-hyena-xmm|Giant Hyena]]  
+- [[giant-lizard-xmm|Giant Lizard]]  
+- [[giant-octopus-xmm|Giant Octopus]]  
+- [[giant-owl-xmm|Giant Owl]]  
+- [[giant-rat-xmm|Giant Rat]]  
+- [[giant-scorpion-xmm|Giant Scorpion]]  
+- [[giant-seahorse-xmm|Giant Seahorse]]  
+- [[giant-shark-xmm|Giant Shark]]  
+- [[giant-spider-xmm|Giant Spider]]  
+- [[giant-squid-xmm|Giant Squid]]  
+- [[giant-toad-xmm|Giant Toad]]  
+- [[giant-venomous-snake-xmm|Giant Venomous Snake]]  
+- [[giant-vulture-xmm|Giant Vulture]]  
+- [[giant-wasp-xmm|Giant Wasp]]  
+- [[giant-weasel-xmm|Giant Weasel]]  
+- [[giant-wolf-spider-xmm|Giant Wolf Spider]]  
+- [[goat-xmm|Goat]]  
+- [[hawk-xmm|Hawk]]  
+- [[hippopotamus-xmm|Hippopotamus]]  
+- [[hunter-shark-xmm|Hunter Shark]]  
+- [[hyena-xmm|Hyena]]  
+- [[jackal-xmm|Jackal]]  
+- [[killer-whale-xmm|Killer Whale]]  
+- [[lion-xmm|Lion]]  
+- [[lizard-xmm|Lizard]]  
+- [[mammoth-xmm|Mammoth]]  
+- [[mastiff-xmm|Mastiff]]  
+- [[mule-xmm|Mule]]  
+- [[octopus-xmm|Octopus]]  
+- [[owl-xmm|Owl]]  
+- [[panther-xmm|Panther]]  
+- [[piranha-xmm|Piranha]]  
+- [[plesiosaurus-xmm|Plesiosaurus]]  
+- [[polar-bear-xmm|Polar Bear]]  
+- [[pony-xmm|Pony]]  
+- [[pteranodon-xmm|Pteranodon]]  
+- [[rat-xmm|Rat]]  
+- [[raven-xmm|Raven]]  
+- [[reef-shark-xmm|Reef Shark]]  
+- [[rhinoceros-xmm|Rhinoceros]]  
+- [[riding-horse-xmm|Riding Horse]]  
+- [[saber-toothed-tiger-xmm|Saber-Toothed Tiger]]  
+- [[scorpion-xmm|Scorpion]]  
+- [[seahorse-xmm|Seahorse]]  
+- [[spider-xmm|Spider]]  
+- [[swarm-of-bats-xmm|Swarm of Bats]]  
+- [[swarm-of-insects-xmm|Swarm of Insects]]  
+- [[swarm-of-piranhas-xmm|Swarm of Piranhas]]  
+- [[swarm-of-rats-xmm|Swarm of Rats]]  
+- [[swarm-of-ravens-xmm|Swarm of Ravens]]  
+- [[swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]]  
+- [[tiger-xmm|Tiger]]  
+- [[triceratops-xmm|Triceratops]]  
+- [[tyrannosaurus-rex-xmm|Tyrannosaurus Rex]]  
+- [[venomous-snake-xmm|Venomous Snake]]  
+- [[vulture-xmm|Vulture]]  
+- [[warhorse-xmm|Warhorse]]  
+- [[weasel-xmm|Weasel]]  
+- [[wolf-xmm|Wolf]]  
 
 > [!embed-monster]- Deer
-> ![Deer](Compendium/bestiary/beast/deer-xmm.md#^statblock)
+> ![[deer-xmm#^statblock|Deer]]
 
 ![Dire Wolf](Compendium/books/monster-manual-2025/img/005-27-006-dire-wolf.webp#center)
 
 > [!embed-monster]- Dire Wolf
-> ![Dire Wolf](Compendium/bestiary/beast/dire-wolf-xmm.md#^statblock)
+> ![[dire-wolf-xmm#^statblock|Dire Wolf]]
 
 > [!embed-monster]- Draft Horse
-> ![Draft Horse](Compendium/bestiary/beast/draft-horse-xmm.md#^statblock)
+> ![[draft-horse-xmm#^statblock|Draft Horse]]
 
 ![Elephant](Compendium/books/monster-manual-2025/img/006-27-007-elephant.webp#center)
 
 > [!embed-monster]- Elephant
-> ![Elephant](Compendium/bestiary/beast/elephant-xmm.md#^statblock)
+> ![[elephant-xmm#^statblock|Elephant]]
 
 > [!embed-monster]- Eagle
-> ![Eagle](Compendium/bestiary/beast/eagle-xmm.md#^statblock)
+> ![[eagle-xmm#^statblock|Eagle]]
 
 > [!embed-monster]- Elk
-> ![Elk](Compendium/bestiary/beast/elk-xmm.md#^statblock)
+> ![[elk-xmm#^statblock|Elk]]
 
 > [!embed-monster]- Flying Snake
-> ![Flying Snake](Compendium/bestiary/monstrosity/flying-snake-xmm.md#^statblock)
+> ![[flying-snake-xmm#^statblock|Flying Snake]]
 
 > [!embed-monster]- Frog
-> ![Frog](Compendium/bestiary/beast/frog-xmm.md#^statblock)
+> ![[frog-xmm#^statblock|Frog]]
 
 ![A giant ape defends its territory from giant bats](Compendium/books/monster-manual-2025/img/007-27-008-giant-ape.webp#center)
 
 > [!embed-monster]- Giant Ape
-> ![Giant Ape](Compendium/bestiary/beast/giant-ape-xmm.md#^statblock)
+> ![[giant-ape-xmm#^statblock|Giant Ape]]
 
 > [!embed-monster]- Giant Badger
-> ![Giant Badger](Compendium/bestiary/beast/giant-badger-xmm.md#^statblock)
+> ![[giant-badger-xmm#^statblock|Giant Badger]]
 
 > [!embed-monster]- Giant Bat
-> ![Giant Bat](Compendium/bestiary/beast/giant-bat-xmm.md#^statblock)
+> ![[giant-bat-xmm#^statblock|Giant Bat]]
 
 ![Giant Boar](Compendium/books/monster-manual-2025/img/008-27-009-giant-boar.webp#center)
 
 > [!embed-monster]- Giant Boar
-> ![Giant Boar](Compendium/bestiary/beast/giant-boar-xmm.md#^statblock)
+> ![[giant-boar-xmm#^statblock|Giant Boar]]
 
 > [!embed-monster]- Giant Centipede
-> ![Giant Centipede](Compendium/bestiary/beast/giant-centipede-xmm.md#^statblock)
+> ![[giant-centipede-xmm#^statblock|Giant Centipede]]
 
 > [!embed-monster]- Giant Constrictor Snake
-> ![Giant Constrictor Snake](Compendium/bestiary/beast/giant-constrictor-snake-xmm.md#^statblock)
+> ![[giant-constrictor-snake-xmm#^statblock|Giant Constrictor Snake]]
 
 > [!embed-monster]- Giant Crab
-> ![Giant Crab](Compendium/bestiary/beast/giant-crab-xmm.md#^statblock)
+> ![[giant-crab-xmm#^statblock|Giant Crab]]
 
 ![Giant Crab](Compendium/books/monster-manual-2025/img/009-27-010-giant-crab.webp#center)
 
 > [!embed-monster]- Giant Crocodile
-> ![Giant Crocodile](Compendium/bestiary/beast/giant-crocodile-xmm.md#^statblock)
+> ![[giant-crocodile-xmm#^statblock|Giant Crocodile]]
 
 > [!embed-monster]- Giant Eagle
-> ![Giant Eagle](Compendium/bestiary/celestial/giant-eagle-xmm.md#^statblock)
+> ![[giant-eagle-xmm#^statblock|Giant Eagle]]
 
 > [!embed-monster]- Giant Elk
-> ![Giant Elk](Compendium/bestiary/celestial/giant-elk-xmm.md#^statblock)
+> ![[giant-elk-xmm#^statblock|Giant Elk]]
 
 > [!embed-monster]- Giant Fire Beetle
-> ![Giant Fire Beetle](Compendium/bestiary/beast/giant-fire-beetle-xmm.md#^statblock)
+> ![[giant-fire-beetle-xmm#^statblock|Giant Fire Beetle]]
 
 > [!embed-monster]- Giant Frog
-> ![Giant Frog](Compendium/bestiary/beast/giant-frog-xmm.md#^statblock)
+> ![[giant-frog-xmm#^statblock|Giant Frog]]
 
 ![Giant Goat](Compendium/books/monster-manual-2025/img/010-27-011-giant-goat.webp#center)
 
 > [!embed-monster]- Giant Goat
-> ![Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md#^statblock)
+> ![[giant-goat-xmm#^statblock|Giant Goat]]
 
 > [!embed-monster]- Giant Hyena
-> ![Giant Hyena](Compendium/bestiary/beast/giant-hyena-xmm.md#^statblock)
+> ![[giant-hyena-xmm#^statblock|Giant Hyena]]
 
 > [!embed-monster]- Giant Lizard
-> ![Giant Lizard](Compendium/bestiary/beast/giant-lizard-xmm.md#^statblock)
+> ![[giant-lizard-xmm#^statblock|Giant Lizard]]
 
 ![Giant Lizard](Compendium/books/monster-manual-2025/img/011-27-012-giant-lizard.webp#center)
 
 > [!embed-monster]- Giant Octopus
-> ![Giant Octopus](Compendium/bestiary/beast/giant-octopus-xmm.md#^statblock)
+> ![[giant-octopus-xmm#^statblock|Giant Octopus]]
 
 > [!embed-monster]- Giant Owl
-> ![Giant Owl](Compendium/bestiary/celestial/giant-owl-xmm.md#^statblock)
+> ![[giant-owl-xmm#^statblock|Giant Owl]]
 
 > [!embed-monster]- Giant Rat
-> ![Giant Rat](Compendium/bestiary/beast/giant-rat-xmm.md#^statblock)
+> ![[giant-rat-xmm#^statblock|Giant Rat]]
 
 > [!embed-monster]- Giant Seahorse
-> ![Giant Seahorse](Compendium/bestiary/beast/giant-seahorse-xmm.md#^statblock)
+> ![[giant-seahorse-xmm#^statblock|Giant Seahorse]]
 
 > [!embed-monster]- Giant Scorpion
-> ![Giant Scorpion](Compendium/bestiary/beast/giant-scorpion-xmm.md#^statblock)
+> ![[giant-scorpion-xmm#^statblock|Giant Scorpion]]
 
 > [!embed-monster]- Giant Shark
-> ![Giant Shark](Compendium/bestiary/beast/giant-shark-xmm.md#^statblock)
+> ![[giant-shark-xmm#^statblock|Giant Shark]]
 
 > [!embed-monster]- Giant Spider
-> ![Giant Spider](Compendium/bestiary/beast/giant-spider-xmm.md#^statblock)
+> ![[giant-spider-xmm#^statblock|Giant Spider]]
 
 > [!embed-monster]- Giant Squid
-> ![Giant Squid](Compendium/bestiary/beast/giant-squid-xmm.md#^statblock)
+> ![[giant-squid-xmm#^statblock|Giant Squid]]
 
 ![Giant Squid](Compendium/books/monster-manual-2025/img/012-27-013-giant-squid.webp#center)
 
 > [!embed-monster]- Giant Toad
-> ![Giant Toad](Compendium/bestiary/beast/giant-toad-xmm.md#^statblock)
+> ![[giant-toad-xmm#^statblock|Giant Toad]]
 
 > [!embed-monster]- Giant Venomous Snake
-> ![Giant Venomous Snake](Compendium/bestiary/beast/giant-venomous-snake-xmm.md#^statblock)
+> ![[giant-venomous-snake-xmm#^statblock|Giant Venomous Snake]]
 
 > [!embed-monster]- Giant Vulture
-> ![Giant Vulture](Compendium/bestiary/monstrosity/giant-vulture-xmm.md#^statblock)
+> ![[giant-vulture-xmm#^statblock|Giant Vulture]]
 
 ![A gnome rogue distracts a ...](Compendium/books/monster-manual-2025/img/013-27-015-giant-wasp.webp#center "A gnome rogue distracts a hive of giant wasps while Sheila the thief sneaks by")
 
 > [!embed-monster]- Giant Wasp
-> ![Giant Wasp](Compendium/bestiary/beast/giant-wasp-xmm.md#^statblock)
+> ![[giant-wasp-xmm#^statblock|Giant Wasp]]
 
 > [!embed-monster]- Giant Weasel
-> ![Giant Weasel](Compendium/bestiary/beast/giant-weasel-xmm.md#^statblock)
+> ![[giant-weasel-xmm#^statblock|Giant Weasel]]
 
 ![Giant Weasel](Compendium/books/monster-manual-2025/img/014-27-014-giant-weasel.webp#center)
 
 > [!embed-monster]- Giant Wolf Spider
-> ![Giant Wolf Spider](Compendium/bestiary/beast/giant-wolf-spider-xmm.md#^statblock)
+> ![[giant-wolf-spider-xmm#^statblock|Giant Wolf Spider]]
 
 ![Giant Wolf Spider](Compendium/books/monster-manual-2025/img/015-27-016-giant-spider.webp#center)
 
 > [!embed-monster]- Goat
-> ![Goat](Compendium/bestiary/beast/goat-xmm.md#^statblock)
+> ![[goat-xmm#^statblock|Goat]]
 
 ![Hawk](Compendium/books/monster-manual-2025/img/016-27-017-hawk.webp#center)
 
 > [!embed-monster]- Hawk
-> ![Hawk](Compendium/bestiary/beast/hawk-xmm.md#^statblock)
+> ![[hawk-xmm#^statblock|Hawk]]
 
 > [!embed-monster]- Hippopotamus
-> ![Hippopotamus](Compendium/bestiary/beast/hippopotamus-xmm.md#^statblock)
+> ![[hippopotamus-xmm#^statblock|Hippopotamus]]
 
 > [!embed-monster]- Hunter Shark
-> ![Hunter Shark](Compendium/bestiary/beast/hunter-shark-xmm.md#^statblock)
+> ![[hunter-shark-xmm#^statblock|Hunter Shark]]
 
 ![Aquatic animals swim along...](Compendium/books/monster-manual-2025/img/017-27-018-druid-with-fish.webp#center "Aquatic animals swim alongside a druid exploring the sea")
 
 > [!embed-monster]- Hyena
-> ![Hyena](Compendium/bestiary/beast/hyena-xmm.md#^statblock)
+> ![[hyena-xmm#^statblock|Hyena]]
 
 > [!embed-monster]- Jackal
-> ![Jackal](Compendium/bestiary/beast/jackal-xmm.md#^statblock)
+> ![[jackal-xmm#^statblock|Jackal]]
 
 > [!embed-monster]- Killer Whale
-> ![Killer Whale](Compendium/bestiary/beast/killer-whale-xmm.md#^statblock)
+> ![[killer-whale-xmm#^statblock|Killer Whale]]
 
 ![Lion](Compendium/books/monster-manual-2025/img/018-27-019-lion.webp#center)
 
 > [!embed-monster]- Lion
-> ![Lion](Compendium/bestiary/beast/lion-xmm.md#^statblock)
+> ![[lion-xmm#^statblock|Lion]]
 
 > [!embed-monster]- Lizard
-> ![Lizard](Compendium/bestiary/beast/lizard-xmm.md#^statblock)
+> ![[lizard-xmm#^statblock|Lizard]]
 
 > [!embed-monster]- Mammoth
-> ![Mammoth](Compendium/bestiary/beast/mammoth-xmm.md#^statblock)
+> ![[mammoth-xmm#^statblock|Mammoth]]
 
 > [!embed-monster]- Mastiff
-> ![Mastiff](Compendium/bestiary/beast/mastiff-xmm.md#^statblock)
+> ![[mastiff-xmm#^statblock|Mastiff]]
 
 > [!embed-monster]- Mule
-> ![Mule](Compendium/bestiary/beast/mule-xmm.md#^statblock)
+> ![[mule-xmm#^statblock|Mule]]
 
 ![Octopus](Compendium/books/monster-manual-2025/img/019-27-020-octopus.webp#center)
 
 > [!embed-monster]- Octopus
-> ![Octopus](Compendium/bestiary/beast/octopus-xmm.md#^statblock)
+> ![[octopus-xmm#^statblock|Octopus]]
 
 ![Owl](Compendium/books/monster-manual-2025/img/020-27-021-owl.webp#center)
 
 > [!embed-monster]- Owl
-> ![Owl](Compendium/bestiary/beast/owl-xmm.md#^statblock)
+> ![[owl-xmm#^statblock|Owl]]
 
 > [!embed-monster]- Panther
-> ![Panther](Compendium/bestiary/beast/panther-xmm.md#^statblock)
+> ![[panther-xmm#^statblock|Panther]]
 
 > [!embed-monster]- Piranha
-> ![Piranha](Compendium/bestiary/beast/piranha-xmm.md#^statblock)
+> ![[piranha-xmm#^statblock|Piranha]]
 
 > [!embed-monster]- Plesiosaurus
-> ![Plesiosaurus](Compendium/bestiary/beast/plesiosaurus-xmm.md#^statblock)
+> ![[plesiosaurus-xmm#^statblock|Plesiosaurus]]
 
 > [!embed-monster]- Polar Bear
-> ![Polar Bear](Compendium/bestiary/beast/polar-bear-xmm.md#^statblock)
+> ![[polar-bear-xmm#^statblock|Polar Bear]]
 
 > [!embed-monster]- Pony
-> ![Pony](Compendium/bestiary/beast/pony-xmm.md#^statblock)
+> ![[pony-xmm#^statblock|Pony]]
 
 > [!embed-monster]- Pteranodon
-> ![Pteranodon](Compendium/bestiary/beast/pteranodon-xmm.md#^statblock)
+> ![[pteranodon-xmm#^statblock|Pteranodon]]
 
 > [!embed-monster]- Rat
-> ![Rat](Compendium/bestiary/beast/rat-xmm.md#^statblock)
+> ![[rat-xmm#^statblock|Rat]]
 
 ![An adventurer underestimat...](Compendium/books/monster-manual-2025/img/021-27-022-rats.webp#center "An adventurer underestimates the extent of a tavern's giant rat infestation")
 
 > [!embed-monster]- Raven
-> ![Raven](Compendium/bestiary/beast/raven-xmm.md#^statblock)
+> ![[raven-xmm#^statblock|Raven]]
 
 > [!embed-monster]- Reef Shark
-> ![Reef Shark](Compendium/bestiary/beast/reef-shark-xmm.md#^statblock)
+> ![[reef-shark-xmm#^statblock|Reef Shark]]
 
 > [!embed-monster]- Rhinoceros
-> ![Rhinoceros](Compendium/bestiary/beast/rhinoceros-xmm.md#^statblock)
+> ![[rhinoceros-xmm#^statblock|Rhinoceros]]
 
 ![Rhinoceros](Compendium/books/monster-manual-2025/img/022-27-023-rhinoceros.webp#center)
 
 > [!embed-monster]- Riding Horse
-> ![Riding Horse](Compendium/bestiary/beast/riding-horse-xmm.md#^statblock)
+> ![[riding-horse-xmm#^statblock|Riding Horse]]
 
 > [!embed-monster]- Saber-Toothed Tiger
-> ![Saber-Toothed Tiger](Compendium/bestiary/beast/saber-toothed-tiger-xmm.md#^statblock)
+> ![[saber-toothed-tiger-xmm#^statblock|Saber-Toothed Tiger]]
 
 > [!embed-monster]- Scorpion
-> ![Scorpion](Compendium/bestiary/beast/scorpion-xmm.md#^statblock)
+> ![[scorpion-xmm#^statblock|Scorpion]]
 
 ![Scorpion](Compendium/books/monster-manual-2025/img/023-27-024-scorpion.webp#center)
 
 > [!embed-monster]- Seahorse
-> ![Seahorse](Compendium/bestiary/beast/seahorse-xmm.md#^statblock)
+> ![[seahorse-xmm#^statblock|Seahorse]]
 
 > [!embed-monster]- Spider
-> ![Spider](Compendium/bestiary/beast/spider-xmm.md#^statblock)
+> ![[spider-xmm#^statblock|Spider]]
 
 > [!embed-monster]- Swarm of Bats
-> ![Swarm of Bats](Compendium/bestiary/beast/swarm-of-bats-xmm.md#^statblock)
+> ![[swarm-of-bats-xmm#^statblock|Swarm of Bats]]
 
 > [!embed-monster]- Swarm of Insects
-> ![Swarm of Insects](Compendium/bestiary/beast/swarm-of-insects-xmm.md#^statblock)
+> ![[swarm-of-insects-xmm#^statblock|Swarm of Insects]]
 
 > [!embed-monster]- Swarm of Piranhas
-> ![Swarm of Piranhas](Compendium/bestiary/beast/swarm-of-piranhas-xmm.md#^statblock)
+> ![[swarm-of-piranhas-xmm#^statblock|Swarm of Piranhas]]
 
 > [!embed-monster]- Swarm of Rats
-> ![Swarm of Rats](Compendium/bestiary/beast/swarm-of-rats-xmm.md#^statblock)
+> ![[swarm-of-rats-xmm#^statblock|Swarm of Rats]]
 
 ![Swarm of Ravens](Compendium/books/monster-manual-2025/img/024-27-025-swarm-of-ravens.webp#center)
 
 > [!embed-monster]- Swarm of Ravens
-> ![Swarm of Ravens](Compendium/bestiary/beast/swarm-of-ravens-xmm.md#^statblock)
+> ![[swarm-of-ravens-xmm#^statblock|Swarm of Ravens]]
 
 > [!embed-monster]- Swarm of Venomous Snakes
-> ![Swarm of Venomous Snakes](Compendium/bestiary/beast/swarm-of-venomous-snakes-xmm.md#^statblock)
+> ![[swarm-of-venomous-snakes-xmm#^statblock|Swarm of Venomous Snakes]]
 
 > [!embed-monster]- Tiger
-> ![Tiger](Compendium/bestiary/beast/tiger-xmm.md#^statblock)
+> ![[tiger-xmm#^statblock|Tiger]]
 
 > [!embed-monster]- Triceratops
-> ![Triceratops](Compendium/bestiary/beast/triceratops-xmm.md#^statblock)
+> ![[triceratops-xmm#^statblock|Triceratops]]
 
 ![Tyrannosaurus Rex](Compendium/books/monster-manual-2025/img/025-27-026-tyrannosaurus.webp#center)
 
 > [!embed-monster]- Tyrannosaurus Rex
-> ![Tyrannosaurus Rex](Compendium/bestiary/beast/tyrannosaurus-rex-xmm.md#^statblock)
+> ![[tyrannosaurus-rex-xmm#^statblock|Tyrannosaurus Rex]]
 
 > [!embed-monster]- Venomous Snake
-> ![Venomous Snake](Compendium/bestiary/beast/venomous-snake-xmm.md#^statblock)
+> ![[venomous-snake-xmm#^statblock|Venomous Snake]]
 
 > [!embed-monster]- Vulture
-> ![Vulture](Compendium/bestiary/beast/vulture-xmm.md#^statblock)
+> ![[vulture-xmm#^statblock|Vulture]]
 
 > [!embed-monster]- Warhorse
-> ![Warhorse](Compendium/bestiary/beast/warhorse-xmm.md#^statblock)
+> ![[warhorse-xmm#^statblock|Warhorse]]
 
 > [!embed-monster]- Weasel
-> ![Weasel](Compendium/bestiary/beast/weasel-xmm.md#^statblock)
+> ![[weasel-xmm#^statblock|Weasel]]
 
 > [!embed-monster]- Wolf
-> ![Wolf](Compendium/bestiary/beast/wolf-xmm.md#^statblock)
+> ![[wolf-xmm#^statblock|Wolf]]
 
 ![Inhabitants of the rain fo...](Compendium/books/monster-manual-2025/img/026-27-027-druid-in-jungle.webp#center "Inhabitants of the rain forest answer a druid's summons")

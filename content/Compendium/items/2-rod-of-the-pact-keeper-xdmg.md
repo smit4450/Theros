@@ -18,6 +18,6 @@ aliases:
 
 While holding this rod, you gain a +2 bonus to spell attack rolls and to the saving throw DCs of your Warlock spells.
 
-In addition, you can regain one spell slot as a [Magic](Compendium/rules/actions.md#Magic) action while holding the rod. You can't use this property again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+In addition, you can regain one spell slot as a [[actions#Magic|Magic]] action while holding the rod. You can't use this property again until you finish a [[long-rest-xphb|Long Rest]].
 
 *Source: Dungeon Master's Guide (2024) p. 301*

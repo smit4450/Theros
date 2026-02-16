@@ -50,7 +50,7 @@ In addition, any climb that requires hands and feet is especially difficult for 
 
 ### Survivor
 
-You have proficiency in one of the following skills of your choice: [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Medicine](Compendium/rules/skills.md#Medicine), [Nature](Compendium/rules/skills.md#Nature), or [Survival](Compendium/rules/skills.md#Survival).
+You have proficiency in one of the following skills of your choice: [[skills#Animal%20Handling|Animal Handling]], [[skills#Medicine|Medicine]], [[skills#Nature|Nature]], or [[skills#Survival|Survival]].
 
 ### Languages
 

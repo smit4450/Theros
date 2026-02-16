@@ -51,39 +51,39 @@ aliases:
 
 *Become a Gruesome Agent of Malice*
 
-A Scion of the Three draws power from a group of malevolent gods known as the Dead Three: [Bane](Compendium/deities/faerunian-bane-frhof.md), deity of tyranny; [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), deity of violence and murder; and [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md), deity of death. While some Rogues of this subclass pledge themselves ardently to those three macabre gods, others find themselves thrust on this path by a curse. Either way, a scion's power manifests as various occult gifts, as well as an uncanny talent for striking and terrifying foes.
+A Scion of the Three draws power from a group of malevolent gods known as the Dead Three: [[faerunian-bane-frhof|Bane]], deity of tyranny; [[faerunian-bhaal-frhof|Bhaal]], deity of violence and murder; and [[faerunian-myrkul-frhof|Myrkul]], deity of death. While some Rogues of this subclass pledge themselves ardently to those three macabre gods, others find themselves thrust on this path by a curse. Either way, a scion's power manifests as various occult gifts, as well as an uncanny talent for striking and terrifying foes.
 
-Scions of the Three are most common in Baldur's Gate, where the Dead Three have long competed for influence over mortal hearts. Underground cults to [Bane](Compendium/deities/faerunian-bane-frhof.md), [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), and [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md) often count Scions of the Three among their most useful agents. Outside Baldur's Gate, secular thieves' guilds such as the Shadow Thieves of Amn or Xanathar's guild in Waterdeep might cautiously call on a Scion of the Three to undertake an especially violent contract.
+Scions of the Three are most common in Baldur's Gate, where the Dead Three have long competed for influence over mortal hearts. Underground cults to [[faerunian-bane-frhof|Bane]], [[faerunian-bhaal-frhof|Bhaal]], and [[faerunian-myrkul-frhof|Myrkul]] often count Scions of the Three among their most useful agents. Outside Baldur's Gate, secular thieves' guilds such as the Shadow Thieves of Amn or Xanathar's guild in Waterdeep might cautiously call on a Scion of the Three to undertake an especially violent contract.
 
 ### Bloodthirst (Level 3)
 
-When an enemy you can see within 30 feet of yourself takes damage and is [Bloodied](Compendium/rules/conditions.md#Bloodied) after taking that damage but not killed outright, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) and [teleport](Compendium/rules/variant-rules/teleportation-xphb.md) to an unoccupied space you can see within 5 feet of that enemy. You can then make one melee attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+When an enemy you can see within 30 feet of yourself takes damage and is [[conditions#Bloodied|Bloodied]] after taking that damage but not killed outright, you can take a [[reaction-xphb|Reaction]] and [[teleportation-xphb|teleport]] to an unoccupied space you can see within 5 feet of that enemy. You can then make one melee attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
 ### Dread Allegiance (Level 3)
 
-Choose one of the Dead Three: [Bane](Compendium/deities/faerunian-bane-frhof.md), [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), or [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md). You gain [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can change your choice.
+Choose one of the Dead Three: [[faerunian-bane-frhof|Bane]], [[faerunian-bhaal-frhof|Bhaal]], or [[faerunian-myrkul-frhof|Myrkul]]. You gain [[resistance-xphb|Resistance]] to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [[long-rest-xphb|Long Rest]], you can change your choice.
 
 | God | Damage Resistance | Cantrip |
 |-----|-------------------|---------|
-| [Bane](Compendium/deities/faerunian-bane-frhof.md) | Psychic | [Minor Illusion](Compendium/spells/minor-illusion-xphb.md) |
-| [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md) | Poison | [Blade Ward](Compendium/spells/blade-ward-xphb.md) |
-| [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md) | Necrotic | [Chill Touch](Compendium/spells/chill-touch-xphb.md) |
+| [[faerunian-bane-frhof|Bane]] | Psychic | [[minor-illusion-xphb|Minor Illusion]] |
+| [[faerunian-bhaal-frhof|Bhaal]] | Poison | [[blade-ward-xphb|Blade Ward]] |
+| [[faerunian-myrkul-frhof|Myrkul]] | Necrotic | [[chill-touch-xphb|Chill Touch]] |
 ^god-damage-resistance-cantrip
 
 ### Strike Fear (Level 9)
 
-You gain the following [Cunning Strike](Compendium/classes/rogue-xphb.md#Cunning%20Strike%20(Level%205)) option.
+You gain the following [[rogue-xphb#Cunning%20Strike%20(Level%205|Cunning Strike]]) option.
 
 #### Terrify (Cost: `1d6`)
 _Source: FRHoF_
 
-The target must succeed on a Wisdom saving throw, or it has the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute. While the target is Frightened in this way, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against the target.
+The target must succeed on a Wisdom saving throw, or it has the [[conditions#Frightened|Frightened]] condition for 1 minute. While the target is Frightened in this way, you have [[advantage-xphb|Advantage]] on attack rolls against the target.
 
-The [Frightened](Compendium/rules/conditions.md#Frightened) target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+The [[conditions#Frightened|Frightened]] target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Aura of Malevolence (Level 13)
 
-You radiate malignant power associated with one of the Dead Three. When you use [Bloodthirst](Compendium/classes/rogue-xphb-scion-of-the-three-frhof.md#Bloodthirst%20(Level%203)) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) granted by your choice in the Dread Allegiance feature. [Damage](Compendium/rules/variant-rules/damage-xphb.md) dealt by this feature ignores [Resistance](Compendium/rules/variant-rules/resistance-xphb.md).
+You radiate malignant power associated with one of the Dead Three. When you use [[rogue-xphb-scion-of-the-three-frhof#Bloodthirst%20(Level%203|Bloodthirst]]) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [[resistance-xphb|Resistance]] granted by your choice in the Dread Allegiance feature. [[damage-xphb|Damage]] dealt by this feature ignores [[resistance-xphb|Resistance]].
 
 ### Dread Incarnate (Level 17)
 
@@ -92,9 +92,9 @@ You gain the following benefits.
 #### Cutthroat
 _Source: FRHoF_
 
-You regain one expended use of [Bloodthirst](Compendium/classes/rogue-xphb-scion-of-the-three-frhof.md#Bloodthirst%20(Level%203)) when you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md).
+You regain one expended use of [[rogue-xphb-scion-of-the-three-frhof#Bloodthirst%20(Level%203|Bloodthirst]]) when you finish a [[short-rest-xphb|Short Rest]].
 
 #### Murderous Intent
 _Source: FRHoF_
 
-When you roll for your [Sneak Attack](Compendium/classes/rogue-xphb.md#Sneak%20Attack%20(Level%201)) damage, you can treat a roll of a 1 or 2 on the die as a 3.
+When you roll for your [[rogue-xphb#Sneak%20Attack%20(Level%201|Sneak Attack]]) damage, you can treat a roll of a 1 or 2 on the die as a 3.

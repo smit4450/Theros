@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Dexterity  
 - **Utilize.** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)  
-- **Craft.** [Padded Armor](Compendium/items/padded-armor-xphb.md), [Basket](Compendium/items/basket-xphb.md), [Bedroll](Compendium/items/bedroll-xphb.md), [Blanket](Compendium/items/blanket-xphb.md), [Fine Clothes](Compendium/items/fine-clothes-xphb.md), [Net](Compendium/items/net-xphb.md), [Robe](Compendium/items/robe-xphb.md), [Rope](Compendium/items/rope-xphb.md), [Sack](Compendium/items/sack-xphb.md), [String](Compendium/items/string-xphb.md), [Tent](Compendium/items/tent-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md)  
+- **Craft.** [[padded-armor-xphb|Padded Armor]], [[basket-xphb|Basket]], [[bedroll-xphb|Bedroll]], [[blanket-xphb|Blanket]], [[fine-clothes-xphb|Fine Clothes]], [[net-xphb|Net]], [[robe-xphb|Robe]], [[rope-xphb|Rope]], [[sack-xphb|Sack]], [[string-xphb|String]], [[tent-xphb|Tent]], [[travelers-clothes-xphb|Traveler's Clothes]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

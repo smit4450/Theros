@@ -15,7 +15,7 @@ aliases:
 
 | Degree | Benefit to Target | Offered By... |
 |--------|-------------------|---------------|
-| [Half](Compendium/rules/variant-rules/cover-xphb.md) | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
-| [Three-Quarters](Compendium/rules/variant-rules/cover-xphb.md) | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
-| [Total](Compendium/rules/variant-rules/cover-xphb.md) | Can't be targeted directly | An object that covers the whole target |
+| [[cover-xphb|Half]] | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
+| [[cover-xphb|Three-Quarters]] | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
+| [[cover-xphb|Total]] | Can't be targeted directly | An object that covers the whole target |
 ^cover

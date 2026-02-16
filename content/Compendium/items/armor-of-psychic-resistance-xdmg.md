@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to psychic damage while you wear this armor.
+You have [[resistance-xphb|Resistance]] to psychic damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Psychic Resistance](#Breastplate%20of%20Psychic%20Resistance)

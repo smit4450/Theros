@@ -18,8 +18,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Dexterity or Charisma by 1, to a maximum of 20.
 
-**Faerie Trod Trotter.** When you take the [Disengage](Compendium/rules/actions.md#Disengage) action on your turn, [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md) doesn't cost you extra movement for the rest of that turn.
+**Faerie Trod Trotter.** When you take the [[actions#Disengage|Disengage]] action on your turn, [[difficult-terrain-xphb|Difficult Terrain]] doesn't cost you extra movement for the rest of that turn.
 
-**Flustering Strike.** When you hit a creature with an attack roll, you can attempt to fluster the target. The target must succeed on a Wisdom saving throw (DC 8 plus the ability modifier of the score increased by this feat and your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md)) or have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on saving throws until the end of your next turn.
+**Flustering Strike.** When you hit a creature with an attack roll, you can attempt to fluster the target. The target must succeed on a Wisdom saving throw (DC 8 plus the ability modifier of the score increased by this feat and your [[proficiency-xphb|Proficiency Bonus]]) or have [[disadvantage-xphb|Disadvantage]] on saving throws until the end of your next turn.
 
-You can use this benefit a number of times equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can use this benefit a number of times equal to your [[proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].

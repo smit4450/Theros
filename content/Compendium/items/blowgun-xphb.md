@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Loading](Compendium/rules/item-properties.md#Loading)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
 - **Cost**: 10 gp
 - **Weight**: 1.0 lbs.
 

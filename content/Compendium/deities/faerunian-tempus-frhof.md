@@ -23,7 +23,7 @@ Tempus is a war god concerned with brave conduct, using force to settle disputes
 
 This god of war is random in his favors, meaning his chaotic nature favors all sides equally. Tempus might be an army's ally one day and its enemy the next. When he manifests before a battle, he can appear to either side in the conflict. If he rides Veiros, his white mare, the army will succeed. If he rides Deiros, his black stallion, defeat is certain. Most often, he rides with one foot in each mount's stirrup, signifying the unpredictable nature of battle.
 
-In such visions, Tempus is a powerfully built warrior dressed for battle in the style of those who see him. When he speaks to mortals directly, his voice reverberates in a clash of weapons, or he sends a Celestial [Berserker](Compendium/bestiary/humanoid/berserker-xmm.md) to carry his will.
+In such visions, Tempus is a powerfully built warrior dressed for battle in the style of those who see him. When he speaks to mortals directly, his voice reverberates in a clash of weapons, or he sends a Celestial [[berserker-xmm|Berserker]] to carry his will.
 
 Over the centuries, Tempus's priests have spread and enforced a common code that encourages rules of war, respect for reputation, and professional behavior on the battlefield. This code, called Tempus's Honor, encourages conflicts to be brief, decisive, and as safe as possible for bystanders. The rules in the code include the following: arm anyone who has need of a weapon, disparage no foe, acquit yourself with bravery, train all for battle, and don't engage in feuds. Those who poison wells, taint fields, kill noncombatants, or engage in torture in the name of war are considered enemies.
 

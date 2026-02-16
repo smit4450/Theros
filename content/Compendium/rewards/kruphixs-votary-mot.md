@@ -14,8 +14,8 @@ aliases:
 
 *Piety 10+ Kruphix trait*
 
-You can cast [detect thoughts](Compendium/spells/detect-thoughts-xphb.md) with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for this spell.
+You can cast [[detect-thoughts-xphb|detect thoughts]] with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for this spell.
 
-In addition, you have advantage on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed).
+In addition, you have advantage on saving throws against being [[conditions#Charmed|charmed]].
 
 *Source: Mythic Odysseys of Theros p. 61*

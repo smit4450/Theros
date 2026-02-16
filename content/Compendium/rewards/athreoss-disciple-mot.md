@@ -14,6 +14,6 @@ aliases:
 
 *Piety 25+ Athreos trait*
 
-You can cast [false life](Compendium/spells/false-life-xphb.md) with this trait, requiring no material components. When you do so, you gain an additional 25 temporary hit points. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.
+You can cast [[false-life-xphb|false life]] with this trait, requiring no material components. When you do so, you gain an additional 25 temporary hit points. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.
 
 *Source: Mythic Odysseys of Theros p. 37*

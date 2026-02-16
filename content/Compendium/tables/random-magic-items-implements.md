@@ -15,151 +15,151 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–02 | [Bead of Nourishment](Compendium/items/bead-of-nourishment-xdmg.md) |
-| 03–04 | [Bead of Refreshment](Compendium/items/bead-of-refreshment-xdmg.md) |
-| 05–06 | [Boots of False Tracks](Compendium/items/boots-of-false-tracks-xdmg.md) |
-| 07–08 | [Candle of the Deep](Compendium/items/candle-of-the-deep-xdmg.md) |
-| 09–10 | [Charlatan's Die](Compendium/items/charlatans-die-xdmg.md) |
-| 11–13 | [Cloak of Many Fashions](Compendium/items/cloak-of-many-fashions-xdmg.md) |
-| 14–15 | [Clockwork Amulet](Compendium/items/clockwork-amulet-xdmg.md) |
-| 16–17 | [Ear Horn of Hearing](Compendium/items/ear-horn-of-hearing-xdmg.md) |
-| 18–19 | [Ersatz Eye](Compendium/items/ersatz-eye-xdmg.md) |
-| 20–21 | [Heward's Handy Spice Pouch](Compendium/items/hewards-handy-spice-pouch-xdmg.md) |
-| 22–23 | [Horn of Silent Alarm](Compendium/items/horn-of-silent-alarm-xdmg.md) |
-| 24–25 | [Instrument of Illusions](Compendium/items/instrument-of-illusions-xdmg.md) |
-| 26–27 | [Instrument of Scribing](Compendium/items/instrument-of-scribing-xdmg.md) |
-| 28–29 | [Lock of Trickery](Compendium/items/lock-of-trickery-xdmg.md) |
-| 30–32 | [Moon-Touched Sword](Compendium/items/moon-touched-sword-xdmg.md) |
-| 33–34 | [Mystery Key](Compendium/items/mystery-key-xdmg.md) |
-| 35–36 | [Orb of Direction](Compendium/items/orb-of-direction-xdmg.md) |
-| 37–38 | [Orb of Time](Compendium/items/orb-of-time-xdmg.md) |
-| 39–40 | [Perfume of Bewitching](Compendium/items/perfume-of-bewitching-xdmg.md) |
-| 41–42 | [Pipe of Smoke Monsters](Compendium/items/pipe-of-smoke-monsters-xdmg.md) |
-| 43–44 | [Pole of Angling](Compendium/items/pole-of-angling-xdmg.md) |
-| 45–46 | [Pole of Collapsing](Compendium/items/pole-of-collapsing-xdmg.md) |
-| 47–52 | [Potion of Climbing](Compendium/items/potion-of-climbing-xdmg.md) |
-| 53–58 | [Potion of Comprehension](Compendium/items/potion-of-comprehension-xdmg.md) |
-| 59–74 | [Potion of Healing](Compendium/items/potion-of-healing-xdmg.md) |
-| 75–76 | [Prosthetic Limb](Compendium/items/prosthetic-limb-xdmg.md) |
-| 77–78 | [Rope of Mending](Compendium/items/rope-of-mending-xdmg.md) |
-| 79–80 | [Staff of Birdcalls](Compendium/items/staff-of-birdcalls-xdmg.md) |
-| 81–82 | [Sylvan Talon](Compendium/items/sylvan-talon-xdmg.md) |
-| 83–84 | [Talking Doll](Compendium/items/talking-doll-xdmg.md) |
-| 85–86 | [Tankard of Sobriety](Compendium/items/tankard-of-sobriety-xdmg.md) |
-| 87–90 | [Veteran's Cane](Compendium/items/veterans-cane-xdmg.md) |
-| 91–92 | [Walloping Ammunition](Compendium/items/walloping-ammunition-xdmg.md) |
-| 93–94 | [Wand of Conducting](Compendium/items/wand-of-conducting-xdmg.md) |
-| 95–97 | [Wand of Enemy Detection](Compendium/items/wand-of-enemy-detection-xdmg.md) |
-| 98–00 | [Wand of Pyrotechnics](Compendium/items/wand-of-pyrotechnics-xdmg.md) |
+| 01–02 | [[bead-of-nourishment-xdmg|Bead of Nourishment]] |
+| 03–04 | [[bead-of-refreshment-xdmg|Bead of Refreshment]] |
+| 05–06 | [[boots-of-false-tracks-xdmg|Boots of False Tracks]] |
+| 07–08 | [[candle-of-the-deep-xdmg|Candle of the Deep]] |
+| 09–10 | [[charlatans-die-xdmg|Charlatan's Die]] |
+| 11–13 | [[cloak-of-many-fashions-xdmg|Cloak of Many Fashions]] |
+| 14–15 | [[clockwork-amulet-xdmg|Clockwork Amulet]] |
+| 16–17 | [[ear-horn-of-hearing-xdmg|Ear Horn of Hearing]] |
+| 18–19 | [[ersatz-eye-xdmg|Ersatz Eye]] |
+| 20–21 | [[hewards-handy-spice-pouch-xdmg|Heward's Handy Spice Pouch]] |
+| 22–23 | [[horn-of-silent-alarm-xdmg|Horn of Silent Alarm]] |
+| 24–25 | [[instrument-of-illusions-xdmg|Instrument of Illusions]] |
+| 26–27 | [[instrument-of-scribing-xdmg|Instrument of Scribing]] |
+| 28–29 | [[lock-of-trickery-xdmg|Lock of Trickery]] |
+| 30–32 | [[moon-touched-sword-xdmg|Moon-Touched Sword]] |
+| 33–34 | [[mystery-key-xdmg|Mystery Key]] |
+| 35–36 | [[orb-of-direction-xdmg|Orb of Direction]] |
+| 37–38 | [[orb-of-time-xdmg|Orb of Time]] |
+| 39–40 | [[perfume-of-bewitching-xdmg|Perfume of Bewitching]] |
+| 41–42 | [[pipe-of-smoke-monsters-xdmg|Pipe of Smoke Monsters]] |
+| 43–44 | [[pole-of-angling-xdmg|Pole of Angling]] |
+| 45–46 | [[pole-of-collapsing-xdmg|Pole of Collapsing]] |
+| 47–52 | [[potion-of-climbing-xdmg|Potion of Climbing]] |
+| 53–58 | [[potion-of-comprehension-xdmg|Potion of Comprehension]] |
+| 59–74 | [[potion-of-healing-xdmg|Potion of Healing]] |
+| 75–76 | [[prosthetic-limb-xdmg|Prosthetic Limb]] |
+| 77–78 | [[rope-of-mending-xdmg|Rope of Mending]] |
+| 79–80 | [[staff-of-birdcalls-xdmg|Staff of Birdcalls]] |
+| 81–82 | [[sylvan-talon-xdmg|Sylvan Talon]] |
+| 83–84 | [[talking-doll-xdmg|Talking Doll]] |
+| 85–86 | [[tankard-of-sobriety-xdmg|Tankard of Sobriety]] |
+| 87–90 | [[veterans-cane-xdmg|Veteran's Cane]] |
+| 91–92 | [[walloping-ammunition-xdmg|Walloping Ammunition]] |
+| 93–94 | [[wand-of-conducting-xdmg|Wand of Conducting]] |
+| 95–97 | [[wand-of-enemy-detection-xdmg|Wand of Enemy Detection]] |
+| 98–00 | [[wand-of-pyrotechnics-xdmg|Wand of Pyrotechnics]] |
 ^implements-common
 
 **Implements - Uncommon**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–02 | [Alchemy Jug](Compendium/items/alchemy-jug-xdmg.md) |
-| 03–06 | [Ammunition, +1](Compendium/items/1-ammunition-xdmg.md) |
-| 07–10 | [Bag of Holding](Compendium/items/bag-of-holding-xdmg.md) |
-| 11–12 | [Boots of Elvenkind](Compendium/items/boots-of-elvenkind-xdmg.md) |
-| 13–14 | [Boots of Striding and Springing](Compendium/items/boots-of-striding-and-springing-xdmg.md) |
-| 15–16 | [Boots of the Winterlands](Compendium/items/boots-of-the-winterlands-xdmg.md) |
-| 17–18 | [Broom of Flying](Compendium/items/broom-of-flying-xdmg.md) |
-| 19–20 | [Cap of Water Breathing](Compendium/items/cap-of-water-breathing-xdmg.md) |
-| 21–22 | [Cloak of Elvenkind](Compendium/items/cloak-of-elvenkind-xdmg.md) |
-| 23–24 | [Cloak of Protection](Compendium/items/cloak-of-protection-xdmg.md) |
-| 25–26 | [Cloak of the Manta Ray](Compendium/items/cloak-of-the-manta-ray-xdmg.md) |
-| 27 | [Decanter of Endless Water](Compendium/items/decanter-of-endless-water-xdmg.md) |
-| 28–30 | [Driftglobe](Compendium/items/driftglobe-xdmg.md) |
-| 31–32 | [Dust of Disappearance](Compendium/items/dust-of-disappearance-xdmg.md) |
-| 33–34 | [Dust of Dryness](Compendium/items/dust-of-dryness-xdmg.md) |
-| 35–36 | [Dust of Sneezing and Choking](Compendium/items/dust-of-sneezing-and-choking-xdmg.md) |
-| 37–38 | [Enspelled Weapon](Compendium/items/enspelled-weapon-xdmg.md) (cantrip or level 1 spell) |
-| 39–40 | [Eyes of Minute Seeing](Compendium/items/eyes-of-minute-seeing-xdmg.md) |
-| 41–42 | [Eyes of the Eagle](Compendium/items/eyes-of-the-eagle-xdmg.md) |
-| 43–44 | [Gloves of Missile Snaring](Compendium/items/gloves-of-missile-snaring-xdmg.md) |
-| 45–46 | [Gloves of Swimming and Climbing](Compendium/items/gloves-of-swimming-and-climbing-xdmg.md) |
-| 47–48 | [Gloves of Thievery](Compendium/items/gloves-of-thievery-xdmg.md) |
-| 49–50 | [Goggles of Night](Compendium/items/goggles-of-night-xdmg.md) |
-| 51 | [Hag Eye](Compendium/items/hag-eye-xdmg.md) |
-| 52–54 | [Helm of Comprehending Languages](Compendium/items/helm-of-comprehending-languages-xdmg.md) |
-| 55 | [Immovable Rod](Compendium/items/immovable-rod-xdmg.md) |
-| 56–57 | [Instrument of the Bards](Compendium/items/instrument-of-the-bards-xdmg.md) ([Doss lute](Compendium/items/instrument-of-the-bards-doss-lute-xdmg.md), [Fochlucan bandore](Compendium/items/instrument-of-the-bards-fochlucan-bandore-xdmg.md), or [Mac-Fuirmidh cittern](Compendium/items/instrument-of-the-bards-mac-fuirmidh-cittern-xdmg.md)) |
-| 58–59 | [Lantern of Revealing](Compendium/items/lantern-of-revealing-xdmg.md) |
-| 60–61 | [Nature's Mantle](Compendium/items/natures-mantle-xdmg.md) |
-| 62–63 | [Oil of Slipperiness](Compendium/items/oil-of-slipperiness-xdmg.md) |
-| 64–65 | [Pipes of Haunting](Compendium/items/pipes-of-haunting-xdmg.md) |
-| 66–67 | [Pipes of the Sewers](Compendium/items/pipes-of-the-sewers-xdmg.md) |
-| 68–71 | [Potion of Growth](Compendium/items/potion-of-growth-xdmg.md) |
-| 72–80 | [Potion of Healing (greater)](Compendium/items/potion-of-greater-healing-xdmg.md) |
-| 81–84 | [Potion of Water Breathing](Compendium/items/potion-of-water-breathing-xdmg.md) |
-| 85–86 | [Quaal's Feather Token](Compendium/items/quaals-feather-token-xdmg.md) ([anchor](Compendium/items/quaals-feather-token-anchor-xdmg.md), [fan](Compendium/items/quaals-feather-token-fan-xdmg.md), or [tree](Compendium/items/quaals-feather-token-tree-xdmg.md)) |
-| 87–88 | [Ring of Jumping](Compendium/items/ring-of-jumping-xdmg.md) |
-| 89–90 | [Ring of Swimming](Compendium/items/ring-of-swimming-xdmg.md) |
-| 91–92 | [Ring of Warmth](Compendium/items/ring-of-warmth-xdmg.md) |
-| 93–94 | [Robe of Useful Items](Compendium/items/robe-of-useful-items-xdmg.md) |
-| 95–96 | [Rope of Climbing](Compendium/items/rope-of-climbing-xdmg.md) |
-| 97–98 | [Stone of Good Luck](Compendium/items/stone-of-good-luck-xdmg.md) |
-| 99–00 | [Wand of Secrets](Compendium/items/wand-of-secrets-xdmg.md) |
+| 01–02 | [[alchemy-jug-xdmg|Alchemy Jug]] |
+| 03–06 | [[1-ammunition-xdmg|Ammunition, +1]] |
+| 07–10 | [[bag-of-holding-xdmg|Bag of Holding]] |
+| 11–12 | [[boots-of-elvenkind-xdmg|Boots of Elvenkind]] |
+| 13–14 | [[boots-of-striding-and-springing-xdmg|Boots of Striding and Springing]] |
+| 15–16 | [[boots-of-the-winterlands-xdmg|Boots of the Winterlands]] |
+| 17–18 | [[broom-of-flying-xdmg|Broom of Flying]] |
+| 19–20 | [[cap-of-water-breathing-xdmg|Cap of Water Breathing]] |
+| 21–22 | [[cloak-of-elvenkind-xdmg|Cloak of Elvenkind]] |
+| 23–24 | [[cloak-of-protection-xdmg|Cloak of Protection]] |
+| 25–26 | [[cloak-of-the-manta-ray-xdmg|Cloak of the Manta Ray]] |
+| 27 | [[decanter-of-endless-water-xdmg|Decanter of Endless Water]] |
+| 28–30 | [[driftglobe-xdmg|Driftglobe]] |
+| 31–32 | [[dust-of-disappearance-xdmg|Dust of Disappearance]] |
+| 33–34 | [[dust-of-dryness-xdmg|Dust of Dryness]] |
+| 35–36 | [[dust-of-sneezing-and-choking-xdmg|Dust of Sneezing and Choking]] |
+| 37–38 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (cantrip or level 1 spell) |
+| 39–40 | [[eyes-of-minute-seeing-xdmg|Eyes of Minute Seeing]] |
+| 41–42 | [[eyes-of-the-eagle-xdmg|Eyes of the Eagle]] |
+| 43–44 | [[gloves-of-missile-snaring-xdmg|Gloves of Missile Snaring]] |
+| 45–46 | [[gloves-of-swimming-and-climbing-xdmg|Gloves of Swimming and Climbing]] |
+| 47–48 | [[gloves-of-thievery-xdmg|Gloves of Thievery]] |
+| 49–50 | [[goggles-of-night-xdmg|Goggles of Night]] |
+| 51 | [[hag-eye-xdmg|Hag Eye]] |
+| 52–54 | [[helm-of-comprehending-languages-xdmg|Helm of Comprehending Languages]] |
+| 55 | [[immovable-rod-xdmg|Immovable Rod]] |
+| 56–57 | [[instrument-of-the-bards-xdmg|Instrument of the Bards]] ([[instrument-of-the-bards-doss-lute-xdmg|Doss lute]], [[instrument-of-the-bards-fochlucan-bandore-xdmg|Fochlucan bandore]], or [[instrument-of-the-bards-mac-fuirmidh-cittern-xdmg|Mac-Fuirmidh cittern]]) |
+| 58–59 | [[lantern-of-revealing-xdmg|Lantern of Revealing]] |
+| 60–61 | [[natures-mantle-xdmg|Nature's Mantle]] |
+| 62–63 | [[oil-of-slipperiness-xdmg|Oil of Slipperiness]] |
+| 64–65 | [[pipes-of-haunting-xdmg|Pipes of Haunting]] |
+| 66–67 | [[pipes-of-the-sewers-xdmg|Pipes of the Sewers]] |
+| 68–71 | [[potion-of-growth-xdmg|Potion of Growth]] |
+| 72–80 | [[potion-of-greater-healing-xdmg|Potion of Healing (greater)]] |
+| 81–84 | [[potion-of-water-breathing-xdmg|Potion of Water Breathing]] |
+| 85–86 | [[quaals-feather-token-xdmg|Quaal's Feather Token]] ([[quaals-feather-token-anchor-xdmg|anchor]], [[quaals-feather-token-fan-xdmg|fan]], or [[quaals-feather-token-tree-xdmg|tree]]) |
+| 87–88 | [[ring-of-jumping-xdmg|Ring of Jumping]] |
+| 89–90 | [[ring-of-swimming-xdmg|Ring of Swimming]] |
+| 91–92 | [[ring-of-warmth-xdmg|Ring of Warmth]] |
+| 93–94 | [[robe-of-useful-items-xdmg|Robe of Useful Items]] |
+| 95–96 | [[rope-of-climbing-xdmg|Rope of Climbing]] |
+| 97–98 | [[stone-of-good-luck-xdmg|Stone of Good Luck]] |
+| 99–00 | [[wand-of-secrets-xdmg|Wand of Secrets]] |
 ^implements-uncommon
 
 **Implements - Rare**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–04 | [Ammunition, +2](Compendium/items/2-ammunition-xdmg.md) |
-| 05–08 | [Bag of Beans](Compendium/items/bag-of-beans-xdmg.md) |
-| 09–12 | [Belt of Dwarvenkind](Compendium/items/belt-of-dwarvenkind-xdmg.md) |
-| 13–16 | [Boots of Levitation](Compendium/items/boots-of-levitation-xdmg.md) |
-| 17–20 | [Boots of Speed](Compendium/items/boots-of-speed-xdmg.md) |
-| 21–24 | [Chime of Opening](Compendium/items/chime-of-opening-xdmg.md) |
-| 25–28 | [Dimensional Shackles](Compendium/items/dimensional-shackles-xdmg.md) |
-| 29–32 | [Enspelled Weapon](Compendium/items/enspelled-weapon-xdmg.md) (level 2 or 3 spell) |
-| 33–36 | [Folding Boat](Compendium/items/folding-boat-xdmg.md) |
-| 37–40 | [Glamoured Studded Leather](Compendium/items/glamoured-studded-leather-xdmg.md) |
-| 41–44 | [Heward's Handy Haversack](Compendium/items/hewards-handy-haversack-xdmg.md) |
-| 45–48 | [Horseshoes of Speed](Compendium/items/horseshoes-of-speed-xdmg.md) |
-| 49–52 | [Instrument of the Bards](Compendium/items/instrument-of-the-bards-xdmg.md) ([Canaith mandolin](Compendium/items/instrument-of-the-bards-canaith-mandolin-xdmg.md) or [Cli lyre](Compendium/items/instrument-of-the-bards-cli-lyre-xdmg.md)) |
-| 53–56 | [Ioun Stone](Compendium/items/ioun-stone-xdmg.md) ([awareness](Compendium/items/ioun-stone-awareness-xdmg.md)) |
-| 57–60 | [Portable Hole](Compendium/items/portable-hole-xdmg.md) |
-| 61–64 | [Potion of Diminution](Compendium/items/potion-of-diminution-xdmg.md) |
-| 65–68 | [Potion of Gaseous Form](Compendium/items/potion-of-gaseous-form-xdmg.md) |
-| 69–76 | [Potion of Healing (superior)](Compendium/items/potion-of-superior-healing-xdmg.md) |
-| 77–80 | [Quaal's Feather Token](Compendium/items/quaals-feather-token-xdmg.md) ([bird](Compendium/items/quaals-feather-token-bird-xdmg.md), [swan boat](Compendium/items/quaals-feather-token-swan-boat-xdmg.md), or [whip](Compendium/items/quaals-feather-token-whip-xdmg.md)) |
-| 81–84 | [Ring of Evasion](Compendium/items/ring-of-evasion-xdmg.md) |
-| 85–88 | [Ring of Free Action](Compendium/items/ring-of-free-action-xdmg.md) |
-| 89–92 | [Rope of Entanglement](Compendium/items/rope-of-entanglement-xdmg.md) |
-| 93–96 | [Staff of Healing](Compendium/items/staff-of-healing-xdmg.md) |
-| 97–00 | [Wand of Enemy Detection](Compendium/items/wand-of-enemy-detection-xdmg.md) |
+| 01–04 | [[2-ammunition-xdmg|Ammunition, +2]] |
+| 05–08 | [[bag-of-beans-xdmg|Bag of Beans]] |
+| 09–12 | [[belt-of-dwarvenkind-xdmg|Belt of Dwarvenkind]] |
+| 13–16 | [[boots-of-levitation-xdmg|Boots of Levitation]] |
+| 17–20 | [[boots-of-speed-xdmg|Boots of Speed]] |
+| 21–24 | [[chime-of-opening-xdmg|Chime of Opening]] |
+| 25–28 | [[dimensional-shackles-xdmg|Dimensional Shackles]] |
+| 29–32 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (level 2 or 3 spell) |
+| 33–36 | [[folding-boat-xdmg|Folding Boat]] |
+| 37–40 | [[glamoured-studded-leather-xdmg|Glamoured Studded Leather]] |
+| 41–44 | [[hewards-handy-haversack-xdmg|Heward's Handy Haversack]] |
+| 45–48 | [[horseshoes-of-speed-xdmg|Horseshoes of Speed]] |
+| 49–52 | [[instrument-of-the-bards-xdmg|Instrument of the Bards]] ([[instrument-of-the-bards-canaith-mandolin-xdmg|Canaith mandolin]] or [[instrument-of-the-bards-cli-lyre-xdmg|Cli lyre]]) |
+| 53–56 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-awareness-xdmg|awareness]]) |
+| 57–60 | [[portable-hole-xdmg|Portable Hole]] |
+| 61–64 | [[potion-of-diminution-xdmg|Potion of Diminution]] |
+| 65–68 | [[potion-of-gaseous-form-xdmg|Potion of Gaseous Form]] |
+| 69–76 | [[potion-of-superior-healing-xdmg|Potion of Healing (superior)]] |
+| 77–80 | [[quaals-feather-token-xdmg|Quaal's Feather Token]] ([[quaals-feather-token-bird-xdmg|bird]], [[quaals-feather-token-swan-boat-xdmg|swan boat]], or [[quaals-feather-token-whip-xdmg|whip]]) |
+| 81–84 | [[ring-of-evasion-xdmg|Ring of Evasion]] |
+| 85–88 | [[ring-of-free-action-xdmg|Ring of Free Action]] |
+| 89–92 | [[rope-of-entanglement-xdmg|Rope of Entanglement]] |
+| 93–96 | [[staff-of-healing-xdmg|Staff of Healing]] |
+| 97–00 | [[wand-of-enemy-detection-xdmg|Wand of Enemy Detection]] |
 ^implements-rare
 
 **Implements - Very Rare**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–07 | [Ammunition, +3](Compendium/items/3-ammunition-xdmg.md) |
-| 08–14 | [Bag of Devouring](Compendium/items/bag-of-devouring-xdmg.md) |
-| 15–21 | [Carpet of Flying](Compendium/items/carpet-of-flying-xdmg.md) |
-| 22–28 | [Enspelled Weapon](Compendium/items/enspelled-weapon-xdmg.md) (level 4 or 5 spell) |
-| 29–35 | [Horseshoes of a Zephyr](Compendium/items/horseshoes-of-a-zephyr-xdmg.md) |
-| 36–42 | [Instrument of the Bards (Anstruth harp)](Compendium/items/instrument-of-the-bards-anstruth-harp-xdmg.md) |
-| 43–49 | [Ioun Stone](Compendium/items/ioun-stone-xdmg.md) ([agility](Compendium/items/ioun-stone-agility-xdmg.md)) |
-| 50–56 | [Lute of Thunderous Thumping](Compendium/items/lute-of-thunderous-thumping-xdmg.md) |
-| 57–63 | [Manual of Quickness of Action](Compendium/items/manual-of-quickness-of-action-xdmg.md) |
-| 64–70 | [Nolzur's Marvelous Pigments](Compendium/items/nolzurs-marvelous-pigments-xdmg.md) |
-| 71–77 | [Potion of Flying](Compendium/items/potion-of-flying-xdmg.md) |
-| 78–86 | [Potion of Healing (supreme)](Compendium/items/potion-of-supreme-healing-xdmg.md) |
-| 87–93 | [Potion of Speed](Compendium/items/potion-of-speed-xdmg.md) |
-| 94–00 | [Tome of Leadership and Influence](Compendium/items/tome-of-leadership-and-influence-xdmg.md) |
+| 01–07 | [[3-ammunition-xdmg|Ammunition, +3]] |
+| 08–14 | [[bag-of-devouring-xdmg|Bag of Devouring]] |
+| 15–21 | [[carpet-of-flying-xdmg|Carpet of Flying]] |
+| 22–28 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (level 4 or 5 spell) |
+| 29–35 | [[horseshoes-of-a-zephyr-xdmg|Horseshoes of a Zephyr]] |
+| 36–42 | [[instrument-of-the-bards-anstruth-harp-xdmg|Instrument of the Bards (Anstruth harp)]] |
+| 43–49 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-agility-xdmg|agility]]) |
+| 50–56 | [[lute-of-thunderous-thumping-xdmg|Lute of Thunderous Thumping]] |
+| 57–63 | [[manual-of-quickness-of-action-xdmg|Manual of Quickness of Action]] |
+| 64–70 | [[nolzurs-marvelous-pigments-xdmg|Nolzur's Marvelous Pigments]] |
+| 71–77 | [[potion-of-flying-xdmg|Potion of Flying]] |
+| 78–86 | [[potion-of-supreme-healing-xdmg|Potion of Healing (supreme)]] |
+| 87–93 | [[potion-of-speed-xdmg|Potion of Speed]] |
+| 94–00 | [[tome-of-leadership-and-influence-xdmg|Tome of Leadership and Influence]] |
 ^implements-very-rare
 
 **Implements - Legendary**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–17 | [Enspelled Weapon](Compendium/items/enspelled-weapon-xdmg.md) (level 6, 7, or 8 spell) |
-| 18–34 | [Instrument of the Bards](Compendium/items/instrument-of-the-bards-xdmg.md) ([Ollamh harp](Compendium/items/instrument-of-the-bards-ollamh-harp-xdmg.md)) |
-| 35–54 | [Sovereign Glue](Compendium/items/sovereign-glue-xdmg.md) |
-| 55–70 | [Sphere of Annihilation](Compendium/items/sphere-of-annihilation-xdmg.md) |
-| 71–83 | [Talisman of the Sphere](Compendium/items/talisman-of-the-sphere-xdmg.md) |
-| 84–00 | [Universal Solvent](Compendium/items/universal-solvent-xdmg.md) |
+| 01–17 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (level 6, 7, or 8 spell) |
+| 18–34 | [[instrument-of-the-bards-xdmg|Instrument of the Bards]] ([[instrument-of-the-bards-ollamh-harp-xdmg|Ollamh harp]]) |
+| 35–54 | [[sovereign-glue-xdmg|Sovereign Glue]] |
+| 55–70 | [[sphere-of-annihilation-xdmg|Sphere of Annihilation]] |
+| 71–83 | [[talisman-of-the-sphere-xdmg|Talisman of the Sphere]] |
+| 84–00 | [[universal-solvent-xdmg|Universal Solvent]] |
 ^implements-legendary

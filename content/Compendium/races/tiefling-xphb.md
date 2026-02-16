@@ -21,26 +21,26 @@ aliases: ["Tiefling"]
 
 ### Darkvision
 
-You have [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 feet.
+You have [[senses#Darkvision|Darkvision]] with a range of 60 feet.
 
 ### Fiendish Legacy
 
 You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table. You gain the level 1 benefit of the chosen legacy.
 
-When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [[long-rest-xphb|Long Rest]]. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
 
 **Fiendish Legacies**
 
 | Legacy | Level 1 | Level 3 | Level 5 |
 |--------|---------|---------|---------|
-| Abyssal | You have Resistance to Poison damage. You also know the [Poison Spray](Compendium/spells/poison-spray-xphb.md) cantrip. | [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md) | [Hold Person](Compendium/spells/hold-person-xphb.md) |
-| Chthonic | You have Resistance to Necrotic damage. You also know the [Chill Touch](Compendium/spells/chill-touch-xphb.md) cantrip. | [False Life](Compendium/spells/false-life-xphb.md) | [Ray of Enfeeblement](Compendium/spells/ray-of-enfeeblement-xphb.md) |
-| Infernal | You have Resistance to Fire damage. You also know the [Fire Bolt](Compendium/spells/fire-bolt-xphb.md) cantrip. | [Hellish Rebuke](Compendium/spells/hellish-rebuke-xphb.md) | [Darkness](Compendium/spells/darkness-xphb.md) |
+| Abyssal | You have Resistance to Poison damage. You also know the [[poison-spray-xphb|Poison Spray]] cantrip. | [[ray-of-sickness-xphb|Ray of Sickness]] | [[hold-person-xphb|Hold Person]] |
+| Chthonic | You have Resistance to Necrotic damage. You also know the [[chill-touch-xphb|Chill Touch]] cantrip. | [[false-life-xphb|False Life]] | [[ray-of-enfeeblement-xphb|Ray of Enfeeblement]] |
+| Infernal | You have Resistance to Fire damage. You also know the [[fire-bolt-xphb|Fire Bolt]] cantrip. | [[hellish-rebuke-xphb|Hellish Rebuke]] | [[darkness-xphb|Darkness]] |
 ^fiendish-legacies
 
 ### Otherworldly Presence
 
-You know the [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md) cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
+You know the [[thaumaturgy-xphb|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
 
 ## Description
 

@@ -61,39 +61,39 @@ You know how to conduct yourself with grace as a noble ambassador. You gain the 
 
 #### Comprehension
 
-You can cast the [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md) spell but only as a [Ritual](Compendium/rules/variant-rules/ritual-xphb.md). Charisma is your spellcasting ability for it.
+You can cast the [[comprehend-languages-xphb|Comprehend Languages]] spell but only as a [[ritual-xphb|Ritual]]. Charisma is your spellcasting ability for it.
 
 #### Polyglot
 
-You learn one language from the language tables in the Player's Handbook or chapter 2 of this book. When you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can replace a language learned from this benefit with another language you have heard, seen signed, or read in the past 24 hours.
+You learn one language from the language tables in the Player's Handbook or chapter 2 of this book. When you finish a [[long-rest-xphb|Long Rest]], you can replace a language learned from this benefit with another language you have heard, seen signed, or read in the past 24 hours.
 
 #### Well Spoken
 
-You gain proficiency in one of the following skills of your choice: [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Performance](Compendium/rules/skills.md#Performance).
+You gain proficiency in one of the following skills of your choice: [[skills#Insight|Insight]], [[skills#Intimidation|Intimidation]], [[skills#Persuasion|Persuasion]], or [[skills#Performance|Performance]].
 
 ### Group Recovery (Level 3)
 
-When you use your Second Wind to regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), you can choose a number of allies within a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from yourself, up to a number of allies equal to your Charisma modifier (minimum of one). Each of those allies regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to `1d4` plus your Fighter level. Once you use this ability, you can't use it again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+When you use your Second Wind to regain [[hit-points-xphb|Hit Points]], you can choose a number of allies within a 30-foot [[emanation-area-of-effect-xphb|Emanation]] originating from yourself, up to a number of allies equal to your Charisma modifier (minimum of one). Each of those allies regains [[hit-points-xphb|Hit Points]] equal to `1d4` plus your Fighter level. Once you use this ability, you can't use it again until you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
 
 ### Team Tactics (Level 7)
 
-When you use Group Recovery, each chosen ally has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md) until the start of your next turn.
+When you use Group Recovery, each chosen ally has [[advantage-xphb|Advantage]] on [[d20-test-xphb|D20 Tests]] until the start of your next turn.
 
 ### Rallying Surge (Level 10)
 
-When you use your Action Surge, you can choose allies within a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from yourself, up to a number of allies equal to your Charisma modifier (minimum of one). Each of those allies can immediately take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to use one of the following options.
+When you use your Action Surge, you can choose allies within a 30-foot [[emanation-area-of-effect-xphb|Emanation]] originating from yourself, up to a number of allies equal to your Charisma modifier (minimum of one). Each of those allies can immediately take a [[reaction-xphb|Reaction]] to use one of the following options.
 
 #### Attack
 
-The ally makes one attack with a weapon or an [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md).
+The ally makes one attack with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]].
 
 #### Move
 
-The ally moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking an [Opportunity Attack](Compendium/rules/actions.md#Opportunity%20Attack).
+The ally moves up to half its [[speed-xphb|Speed]] without provoking an [[actions#Opportunity%20Attack|Opportunity Attack]].
 
 ### Shared Resilience (Level 15)
 
-When an ally you can see within 60 feet of yourself fails a saving throw, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to expend a use of your Indomitable feature. The ally can immediately reroll the saving throw with a bonus equal to your Fighter level; the ally must use the new roll.
+When an ally you can see within 60 feet of yourself fails a saving throw, you can take a [[reaction-xphb|Reaction]] to expend a use of your Indomitable feature. The ally can immediately reroll the saving throw with a bonus equal to your Fighter level; the ally must use the new roll.
 
 ### Inspiring Commander (Level 18)
 
@@ -101,8 +101,8 @@ You gain the following benefits.
 
 #### Bolstered Rally
 
-The area of effect for both Group Recovery and Rallying Surge is now a 60-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md).
+The area of effect for both Group Recovery and Rallying Surge is now a 60-foot [[emanation-area-of-effect-xphb|Emanation]].
 
 #### Unshakable Bravery
 
-You have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to the Charmed and Frightened conditions.
+You have [[immunity-xphb|Immunity]] to the Charmed and Frightened conditions.

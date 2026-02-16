@@ -10,7 +10,7 @@ aliases:
 - "Mirror Shield"
 ---
 # Mirror Shield
-*Armor ([shield](Compendium/items/shield-xphb.md)), rare*
+*Armor ([[shield-xphb|shield]]), rare*
 ![[Mirror Shield.webp]]
 **Price:** 1,000-10,000 gp | low sentimentality
 

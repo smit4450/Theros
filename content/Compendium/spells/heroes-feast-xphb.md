@@ -24,10 +24,10 @@ aliases: ["Heroes' Feast"]
 - **Components:** V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)
 - **Duration:** Instantaneous
 
-You conjure a feast that appears on a surface in an unoccupied 10-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
+You conjure a feast that appears on a surface in an unoccupied 10-foot [[cube-area-of-effect-xphb|Cube]] next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
-A creature that partakes gains several benefits, which last for 24 hours. The creature has [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Poison damage, and it has [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to the [Frightened](Compendium/rules/conditions.md#Frightened) and [Poisoned](Compendium/rules/conditions.md#Poisoned) conditions. Its [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum also increases by `2d10`, and it gains the same number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+A creature that partakes gains several benefits, which last for 24 hours. The creature has [[resistance-xphb|Resistance]] to Poison damage, and it has [[immunity-xphb|Immunity]] to the [[conditions#Frightened|Frightened]] and [[conditions#Poisoned|Poisoned]] conditions. Its [[hit-points-xphb|Hit Point]] maximum also increases by `2d10`, and it gains the same number of [[hit-points-xphb|Hit Points]].
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

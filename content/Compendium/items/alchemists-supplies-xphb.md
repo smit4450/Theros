@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)  
-- **Craft.** [Acid](Compendium/items/acid-xphb.md), [Alchemist's Fire](Compendium/items/alchemists-fire-xphb.md), [Component Pouch](Compendium/items/component-pouch-xphb.md), [Oil](Compendium/items/oil-xphb.md), [Paper](Compendium/items/paper-xphb.md), [Perfume](Compendium/items/perfume-xphb.md)  
+- **Craft.** [[acid-xphb|Acid]], [[alchemists-fire-xphb|Alchemist's Fire]], [[component-pouch-xphb|Component Pouch]], [[oil-xphb|Oil]], [[paper-xphb|Paper]], [[perfume-xphb|Perfume]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -32,8 +32,8 @@ aliases: ["Purify Food and Drink"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You remove poison and rot from nonmagical food and drink in a 5-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within range.
+You remove poison and rot from nonmagical food and drink in a 5-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point within range.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

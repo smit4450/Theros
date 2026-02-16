@@ -15,9 +15,9 @@ aliases:
 
 | Type | Amount | Storage | Weight | Cost |
 |------|--------|---------|--------|------|
-| [Arrows](Compendium/items/arrows-20-xphb.md) | 20 | [Quiver](Compendium/items/quiver-xphb.md) | 1 lb. | 1 GP |
-| [Bolts](Compendium/items/bolts-20-xphb.md) | 20 | [Case](Compendium/items/crossbow-bolt-case-xphb.md) | 1½ lb. | 1 GP |
-| [Bullets, Firearm](Compendium/items/firearm-bullets-10-xphb.md) | 10 | [Pouch](Compendium/items/pouch-xphb.md) | 2 lb. | 3 GP |
-| [Bullets, Sling](Compendium/items/sling-bullet-xphb.md) | 20 | [Pouch](Compendium/items/pouch-xphb.md) | 1½ lb. | 4 CP |
-| [Needles](Compendium/items/needles-50-xphb.md) | 50 | [Pouch](Compendium/items/pouch-xphb.md) | 1 lb. | 1 GP |
+| [[arrows-20-xphb|Arrows]] | 20 | [[quiver-xphb|Quiver]] | 1 lb. | 1 GP |
+| [[bolts-20-xphb|Bolts]] | 20 | [[crossbow-bolt-case-xphb|Case]] | 1½ lb. | 1 GP |
+| [[firearm-bullets-10-xphb|Bullets, Firearm]] | 10 | [[pouch-xphb|Pouch]] | 2 lb. | 3 GP |
+| [[sling-bullet-xphb|Bullets, Sling]] | 20 | [[pouch-xphb|Pouch]] | 1½ lb. | 4 CP |
+| [[needles-50-xphb|Needles]] | 50 | [[pouch-xphb|Pouch]] | 1 lb. | 1 GP |
 ^ammunition

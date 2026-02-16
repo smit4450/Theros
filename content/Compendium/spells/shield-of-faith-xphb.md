@@ -34,6 +34,6 @@ aliases: ["Shield of Faith"]
 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -15,7 +15,7 @@ aliases:
 ![](Compendium/items/img/lance.webp#right)
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
 - **Cost**: 10 gp
 - **Weight**: 6.0 lbs.
 

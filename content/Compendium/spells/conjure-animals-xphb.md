@@ -30,12 +30,12 @@ aliases: ["Conjure Animals"]
 
 You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits' animal form, such as wolves, serpents, or birds.
 
-You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Strength saving throws while you're within 5 feet of the pack, and when you move on your turn, you can also move the pack up to 30 feet to an unoccupied space you can see.
+You have [[advantage-xphb|Advantage]] on Strength saving throws while you're within 5 feet of the pack, and when you move on your turn, you can also move the pack up to 30 feet to an unoccupied space you can see.
 
 Whenever the pack moves within 10 feet of a creature you can see and whenever a creature you can see enters a space within 10 feet of the pack or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes `3d10` Slashing damage. A creature makes this save only once per turn.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 3.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Moon)](Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Druid (Circle of the Moon)](Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]
 
 *Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

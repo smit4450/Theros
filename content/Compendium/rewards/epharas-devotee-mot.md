@@ -14,6 +14,6 @@ aliases:
 
 *Piety 3+ Ephara trait*
 
-Ephara grants you insight into how people communicate. You can cast [comprehend languages](Compendium/spells/comprehend-languages-xphb.md) with this trait, requiring no material component, a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest. Intelligence is your spellcasting ability for this spell.
+Ephara grants you insight into how people communicate. You can cast [[comprehend-languages-xphb|comprehend languages]] with this trait, requiring no material component, a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest. Intelligence is your spellcasting ability for this spell.
 
 *Source: Mythic Odysseys of Theros p. 40*

@@ -22,7 +22,7 @@ aliases:
 
 Helm is a god of vigilance and protection—the ultimate guardian, watcher, and sentinel. He is venerated by those who must remain watchful for enemies or danger. Helm is a favorite deity of those who make a living by protecting someone or something, such as bodyguards, members of the city watch, and the guards of a treasury vault.
 
-Helm embodies the spirit of watchfulness without regard for good or evil. In legends, he is honorable and keeps his word to a fault. During the Time of Troubles, he guarded the celestial stairways, preventing the gods from ascending them and ensuring they continued to walk Faerûn. Helm appears as a towering figure in full plate armor with a concealing visor. When he speaks to mortals, he materializes in as a massive armored figure or sends a [Planetar](Compendium/bestiary/celestial/planetar-xmm.md) to deliver his word.
+Helm embodies the spirit of watchfulness without regard for good or evil. In legends, he is honorable and keeps his word to a fault. During the Time of Troubles, he guarded the celestial stairways, preventing the gods from ascending them and ensuring they continued to walk Faerûn. Helm appears as a towering figure in full plate armor with a concealing visor. When he speaks to mortals, he materializes in as a massive armored figure or sends a [[planetar-xmm|Planetar]] to deliver his word.
 
 Helm's faith has known dark days. He was slain in a duel with Tyr—a tragic injustice some say was arranged by Cyric. But worship of Helm never faded. Most of his followers believe the Watcher can't be vanquished, and his return after the Second Sundering verified that belief.
 
@@ -38,6 +38,6 @@ Recruits to the Everwatch Knights are called seekers. They train through partner
 
 For a seeker to be chosen for knighthood, they must establish a reputation for upholding contracts and defend themself in an armed encounter with enemies of Helm. A seeker tapped to ascend to knighthood must hold vigil at a post for a day, taking no food or rest with only water to drink. Once a seeker completes the vigil, they are knighted and join the ranks of the Everwatch. (If your campaign uses renown, a character must also have a Renown Score of 3+ with the Everwatch Knights to be knighted.)
 
-Everwatch Knights train their martial skills and hone their alertness by studying stealth and infiltration techniques. Knights receive a free Comfortable lifestyle when guarding caravans or ships in service of the Everwatch. They can arrange for the services of a [Knight](Compendium/bestiary/humanoid/knight-xmm.md) or [Spy](Compendium/bestiary/humanoid/spy-xmm.md) to assist in defending a charge or to gather information.
+Everwatch Knights train their martial skills and hone their alertness by studying stealth and infiltration techniques. Knights receive a free Comfortable lifestyle when guarding caravans or ships in service of the Everwatch. They can arrange for the services of a [[knight-xmm|Knight]] or [[spy-xmm|Spy]] to assist in defending a charge or to gather information.
 
 The Everwatch Knights opposes destabilizing deities such as Mask, Shar, and Bane. Despite ideological differences between the followers of Torm and Helm, the Everwatch maintains a close alliance with several Torm-worshiping organizations.

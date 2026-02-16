@@ -42,10 +42,10 @@ Add the ability to record all sounds the raptor hears for up to one minute as an
   - !!int "8"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion), [frightened](Compendium/rules/conditions.md#Frightened), [petrified](Compendium/rules/conditions.md#Petrified),"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]], [[conditions#Petrified|petrified]],"
 "senses": "darkvision 120 ft., Passive Perception 13"
 "languages": "understands all but can't speak"
 "cr": "1"

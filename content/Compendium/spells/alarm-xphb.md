@@ -38,11 +38,11 @@ aliases: ["Alarm"]
 - **Components:** V, S, M (a bell and silver wire)
 - **Duration:** 8 hours
 
-You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md). Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
+You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot [[cube-area-of-effect-xphb|Cube]]. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
 
 - **Audible Alarm.** The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.  
 - **Mental Alarm.** You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you're asleep.  
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger|Ranger]]; [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

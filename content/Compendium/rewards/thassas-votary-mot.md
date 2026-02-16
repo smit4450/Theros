@@ -14,6 +14,6 @@ aliases:
 
 *Piety 10+ Thassa trait*
 
-You can cast [blink](Compendium/spells/blink-xphb.md) with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for this spell.
+You can cast [[blink-xphb|blink]] with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for this spell.
 
 *Source: Mythic Odysseys of Theros p. 79*

@@ -28,18 +28,18 @@ aliases: ["Songal's Elemental Suffusion"]
 
 You imbue yourself with the elemental power of genies. You gain the following benefits until the spell ends:
 
-- **Elemental Immunity.** When you cast this spell, choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to the chosen damage type.  
-- **Elemental Pulse.** When you cast this spell and at the start of each of your subsequent turns, you release a burst of elemental energy in a 15-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from yourself. Each creature of your choice in that area makes a Dexterity saving throw. On a failed save, a creature takes `2d6` Acid, Cold, Fire, Lightning, or Thunder damage (your choice) and has the [Prone](Compendium/rules/conditions.md#Prone) condition. On a successful save, a creature takes half as much damage only.  
-- **Flight.** You gain a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) of 30 feet and can hover.  
+- **Elemental Immunity.** When you cast this spell, choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. You have [[resistance-xphb|Resistance]] to the chosen damage type.  
+- **Elemental Pulse.** When you cast this spell and at the start of each of your subsequent turns, you release a burst of elemental energy in a 15-foot [[emanation-area-of-effect-xphb|Emanation]] originating from yourself. Each creature of your choice in that area makes a Dexterity saving throw. On a failed save, a creature takes `2d6` Acid, Cold, Fire, Lightning, or Thunder damage (your choice) and has the [[conditions#Prone|Prone]] condition. On a successful save, a creature takes half as much damage only.  
+- **Flight.** You gain a [[fly-speed-xphb|Fly Speed]] of 30 feet and can hover.  
 
 ## Casting as a Circle Spell
 
-If the spell is cast as a Circle spell, its casting time increases to 1 minute, and its duration increases to [Concentration](Compendium/rules/conditions.md#Concentration), up to 10 minutes. For each secondary caster who participates in the casting, you can choose one additional creature, to a maximum of nine additional creatures. The chosen creatures also gain the benefits of the spell for its duration.
+If the spell is cast as a Circle spell, its casting time increases to 1 minute, and its duration increases to [[conditions#Concentration|Concentration]], up to 10 minutes. For each secondary caster who participates in the casting, you can choose one additional creature, to a maximum of nine additional creatures. The chosen creatures also gain the benefits of the spell for its duration.
 
 When the spell is cast, each secondary caster must expend a level 2+ spell slot; otherwise, the spell fails.
 
 ## Summary
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: FRHoF p. 145*

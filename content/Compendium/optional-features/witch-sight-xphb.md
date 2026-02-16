@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Level 15
 
-You have [Truesight](Compendium/rules/senses.md#Truesight) with a range of 30 feet.
+You have [[senses#Truesight|Truesight]] with a range of 30 feet.

@@ -136,7 +136,7 @@ Your piety score to Iroas decreases if you diminish Iroas's influence in the wor
 
 ### Benefits of Piety
 
-- [Iroas's Devotee](Compendium/rewards/iroass-devotee-mot.md)  
-- [Iroas's Votary](Compendium/rewards/iroass-votary-mot.md)  
-- [Iroas's Disciple](Compendium/rewards/iroass-disciple-mot.md)  
-- [Champion of Victory](Compendium/rewards/champion-of-victory-mot.md)
+- [[iroass-devotee-mot|Iroas's Devotee]]  
+- [[iroass-votary-mot|Iroas's Votary]]  
+- [[iroass-disciple-mot|Iroas's Disciple]]  
+- [[champion-of-victory-mot|Champion of Victory]]

@@ -136,7 +136,7 @@ Your piety score to Phenax decreases if you diminish Phenax's influence in the w
 
 ### Benefits of Piety
 
-- [Phenax's Devotee](Compendium/rewards/phenaxs-devotee-mot.md)  
-- [Phenax's Votary](Compendium/rewards/phenaxs-votary-mot.md)  
-- [Phenax's Disciple](Compendium/rewards/phenaxs-disciple-mot.md)  
-- [Champion of Deception](Compendium/rewards/champion-of-deception-mot.md)
+- [[phenaxs-devotee-mot|Phenax's Devotee]]  
+- [[phenaxs-votary-mot|Phenax's Votary]]  
+- [[phenaxs-disciple-mot|Phenax's Disciple]]  
+- [[champion-of-deception-mot|Champion of Deception]]

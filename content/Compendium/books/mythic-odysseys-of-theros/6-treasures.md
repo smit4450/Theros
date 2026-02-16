@@ -31,24 +31,24 @@ The following sections explore some of the magic items that heroes might encount
 
 Just as the heroes of Theros carry great destinies, so too do many of the magic items they encounter. The common folk don't typically possess magic items, yet adventurers come across them with some regularity—further evidencing the divine favor most enjoy. Nearly every magic item was created with a purpose and often carries with it a role in some greater story, whether an epic long ended or one yet untold.
 
-As DM, feel free to make ordinary magic items feel like they have significant history and purpose. Even a [+1 spear](Compendium/items/1-weapon-xdmg.md) might have been carried by a company of hoplite veterans that went missing during their quest to reach the edge of the world. Wands might be crafted from legendary sources, while potions might bear the seals of famed alchemists or include signature reagents—like a pegasus feather in a [potion of flying](Compendium/items/potion-of-flying-xdmg.md). The Remarkable Origins table offers just a few ways to suggest a magic item's remarkable pedigree without altering its magical properties.
+As DM, feel free to make ordinary magic items feel like they have significant history and purpose. Even a [[1-weapon-xdmg|+1 spear]] might have been carried by a company of hoplite veterans that went missing during their quest to reach the edge of the world. Wands might be crafted from legendary sources, while potions might bear the seals of famed alchemists or include signature reagents—like a pegasus feather in a [[potion-of-flying-xdmg|potion of flying]]. The Remarkable Origins table offers just a few ways to suggest a magic item's remarkable pedigree without altering its magical properties.
 
-Certain treasures might also be the objects of heroic quests. For example, one might not be considered a true hero until one follows in the footsteps of past legends and either makes or claims one's own magical garment from the wool of a [Nyx-fleece ram](Compendium/bestiary/monstrosity/nyx-fleece-ram-mot.md) (see "chapter 6"). You can also use the tables in "chapter 7" of the "Dungeon Master's Guide" to help further inspire the story you create for a magic item.
+Certain treasures might also be the objects of heroic quests. For example, one might not be considered a true hero until one follows in the footsteps of past legends and either makes or claims one's own magical garment from the wool of a [[nyx-fleece-ram-mot|Nyx-fleece ram]] (see "chapter 6"). You can also use the tables in "chapter 7" of the "Dungeon Master's Guide" to help further inspire the story you create for a magic item.
 
-![Gifts of the Gods; Remarkable Origins](Compendium/tables/gifts-of-the-gods-remarkable-origins-mot.md)
+![[gifts-of-the-gods-remarkable-origins-mot|Gifts of the Gods; Remarkable Origins]]
 
 ## Magic Item Descriptions
 
 This section presents an assortment of magic items in alphabetical order. See the "Dungeon Master's Guide" for the rules on magic items.
 
-- [Flying Chariot](Compendium/items/flying-chariot-mot.md)  
-- [Helm of the Gods](Compendium/items/helm-of-the-gods-mot.md)  
-- [Molten Bronze Skin](Compendium/items/molten-bronze-skin-mot.md)  
-- [Potion of Aqueous Form](Compendium/items/potion-of-aqueous-form-mot.md)  
-- [Pyxis of Pandemonium](Compendium/items/pyxis-of-pandemonium-mot.md)  
-- [Siren Song Lyre](Compendium/items/siren-song-lyre-mot.md)  
-- [Sling Bullets of Althemone](Compendium/items/sling-bullets-of-althemone-mot.md)  
-- [Two-Birds Sling](Compendium/items/two-birds-sling-mot.md)  
+- [[flying-chariot-mot|Flying Chariot]]  
+- [[helm-of-the-gods-mot|Helm of the Gods]]  
+- [[molten-bronze-skin-mot|Molten Bronze Skin]]  
+- [[potion-of-aqueous-form-mot|Potion of Aqueous Form]]  
+- [[pyxis-of-pandemonium-mot|Pyxis of Pandemonium]]  
+- [[siren-song-lyre-mot|Siren Song Lyre]]  
+- [[sling-bullets-of-althemone-mot|Sling Bullets of Althemone]]  
+- [[two-birds-sling-mot|Two-Birds Sling]]  
 
 ## Artifacts
 
@@ -58,14 +58,14 @@ Typically a deity bestows their weapon only on a favored champion or devotee. De
 
 Occasionally a god's weapon might fall into the wrong hands or go missing entirely, sparking fantastic quests. Consult the Weapons of the Gods Adventures table for suggestions of the sort of quests these artifacts might inspire.
 
-![Artifacts; Weapons of the Gods Adventures](Compendium/tables/artifacts-weapons-of-the-gods-adventures-mot.md)
+![[artifacts-weapons-of-the-gods-adventures-mot|Artifacts; Weapons of the Gods Adventures]]
 
 ## Artifact Descriptions
 
 This section presents an assortment of artifacts in alphabetical order. See the "Dungeon Master's Guide" for the rules on artifacts.
 
-- [Akmon, Hammer of Purphoros](Compendium/items/akmon-hammer-of-purphoros-mot.md)  
-- [Dekella, Bident of Thassa](Compendium/items/dekella-bident-of-thassa-mot.md)  
-- [Ephixis, Bow of Nylea](Compendium/items/ephixis-bow-of-nylea-mot.md)  
-- [Khrusor, Spear of Heliod](Compendium/items/khrusor-spear-of-heliod-mot.md)  
-- [Mastix, Whip of Erebos](Compendium/items/mastix-whip-of-erebos-mot.md)
+- [[akmon-hammer-of-purphoros-mot|Akmon, Hammer of Purphoros]]  
+- [[dekella-bident-of-thassa-mot|Dekella, Bident of Thassa]]  
+- [[ephixis-bow-of-nylea-mot|Ephixis, Bow of Nylea]]  
+- [[khrusor-spear-of-heliod-mot|Khrusor, Spear of Heliod]]  
+- [[mastix-whip-of-erebos-mot|Mastix, Whip of Erebos]]

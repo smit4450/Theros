@@ -21,13 +21,13 @@ This ring belonged to Cymede, queen of Akros, before her ascension into Nyx to s
 
 You gain the following attributes when wearing the ring: 
 
-**Skilled Tactician.** You gain [advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom ([Insight](Compendium/rules/skills.md#Insight)) checks to detect deception. 
+**Skilled Tactician.** You gain [[advantage-xphb|advantage]] on Wisdom ([[skills#Insight|Insight]]) checks to detect deception. 
 
 **Master of Elements.** You have resistance to fire, cold, lightning, and thunder damage. You gain a +3 bonus to attack rolls or DC to save when casting spells that deal fire, cold, lightning, or thunder damage.
 
 ## Overpaid
 
-While you wear the ring, you can lose a quarter of your maximum hit points to cast the [conjure elementals](Compendium/spells/conjure-elemental-xphb.md) spell with the modification that the spell doesn't require concentration and the elemental can't become hostile toward you.
+While you wear the ring, you can lose a quarter of your maximum hit points to cast the [[conjure-elemental-xphb|conjure elementals]] spell with the modification that the spell doesn't require concentration and the elemental can't become hostile toward you.
 
 ## Destroying the Ring
 

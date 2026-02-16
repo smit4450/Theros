@@ -26,7 +26,7 @@ aliases: ["Teleport"]
 
 This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can't be held or carried by an unwilling creature.
 
-The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls `1d100` and consults the [Teleportation](Compendium/rules/variant-rules/teleportation-xphb.md) Outcome table and the explanations after it.
+The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls `1d100` and consults the [[teleportation-xphb|Teleportation]] Outcome table and the explanations after it.
 
 **Teleportation Outcome**
 
@@ -69,6 +69,6 @@ You and your group (or the target object) appear where you intended.
 
 ## Summary
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

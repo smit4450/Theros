@@ -15,6 +15,6 @@ aliases:
 
 - **Cost**: 2 cp
 
-Using [Ink](Compendium/items/ink-xphb.md), an Ink Pen is used to write or draw.
+Using [[ink-xphb|Ink]], an Ink Pen is used to write or draw.
 
 *Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

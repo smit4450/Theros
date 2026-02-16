@@ -22,6 +22,6 @@ You can pour up to 32 ounces of fragrant, high quality olive oil out of the leky
 
 ## Overpaid
 
-You can use 8 ounces of the oil from this lekythos as a substitute for the material components of any [divination](Compendium/rules/spells.md#Divination) spell.
+You can use 8 ounces of the oil from this lekythos as a substitute for the material components of any [[spells#Divination|divination]] spell.
 
 *Source: The Gray Merchant of Asphodel*

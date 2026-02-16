@@ -18,6 +18,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Constitution score by 1, to a maximum of 20.
 
-**Defy Death.** You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md).
+**Defy Death.** You have [[advantage-xphb|Advantage]] on [[death-saving-throw-xphb|Death Saving Throws]].
 
-**Speedy Recovery.** As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can expend one of your [Hit Point Dice](Compendium/rules/variant-rules/hit-point-dice-xphb.md), roll the die, and regain a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to the roll.
+**Speedy Recovery.** As a [[bonus-action-xphb|Bonus Action]], you can expend one of your [[hit-point-dice-xphb|Hit Point Dice]], roll the die, and regain a number of [[hit-points-xphb|Hit Points]] equal to the roll.

@@ -20,10 +20,10 @@ aliases: ["Staggering Smite"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-The target takes an extra `4d6` Psychic damage from the attack, and the target must succeed on a Wisdom saving throw or have the [Stunned](Compendium/rules/conditions.md#Stunned) condition until the end of your next turn.
+The target takes an extra `4d6` Psychic damage from the attack, and the target must succeed on a Wisdom saving throw or have the [[conditions#Stunned|Stunned]] condition until the end of your next turn.
 
 **Using a Higher-Level Spell Slot.** The extra damage increases by `1d6` for each spell slot level above 4.
 
-**Classes**: [Paladin](Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 320*

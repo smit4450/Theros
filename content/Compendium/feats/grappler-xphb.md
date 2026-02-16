@@ -18,8 +18,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-**Punch and Grab.** When you hit a creature with an [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md) as part of the [Attack](Compendium/rules/actions.md#Attack) action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
+**Punch and Grab.** When you hit a creature with an [[unarmed-strike-xphb|Unarmed Strike]] as part of the [[actions#Attack|Attack]] action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
 
-**Attack Advantage.** You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against a creature [Grappled](Compendium/rules/conditions.md#Grappled) by you.
+**Attack Advantage.** You have [[advantage-xphb|Advantage]] on attack rolls against a creature [[conditions#Grappled|Grappled]] by you.
 
-**Fast Wrestler.** You don't have to spend extra movement to move a creature [Grappled](Compendium/rules/conditions.md#Grappled) by you if the creature is your size or smaller.
+**Fast Wrestler.** You don't have to spend extra movement to move a creature [[conditions#Grappled|Grappled]] by you if the creature is your size or smaller.

@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Level 9
 
-You can cast [Arcane Eye](Compendium/spells/arcane-eye-xphb.md) without expending a spell slot.
+You can cast [[arcane-eye-xphb|Arcane Eye]] without expending a spell slot.

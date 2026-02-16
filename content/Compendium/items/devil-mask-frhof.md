@@ -17,6 +17,6 @@ aliases:
 
 *Grant your sins plausible deniability by wearing one of these diabolical masks inspired by fiends from the Nine Hells. Also suitable for patriar galas in the city of Baldur's Gate.*
 
-While you are wearing a Devil Mask, other creatures have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) and Wisdom ([Insight](Compendium/rules/skills.md#Insight)) checks made to discern your true identity or intentions.
+While you are wearing a Devil Mask, other creatures have [[disadvantage-xphb|Disadvantage]] on Intelligence ([[skills#Investigation|Investigation]]) and Wisdom ([[skills#Insight|Insight]]) checks made to discern your true identity or intentions.
 
 *Source: FRHoF p. 132*

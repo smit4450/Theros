@@ -17,9 +17,9 @@ aliases:
 
 **Items in this group:**
 
-- [Potion of Healing](Compendium/items/potion-of-healing-xdmg.md)
-- [Potion of Greater Healing](Compendium/items/potion-of-greater-healing-xdmg.md)
-- [Potion of Superior Healing](Compendium/items/potion-of-superior-healing-xdmg.md)
-- [Potion of Supreme Healing](Compendium/items/potion-of-supreme-healing-xdmg.md)
+- [[potion-of-healing-xdmg|Potion of Healing]]
+- [[potion-of-greater-healing-xdmg|Potion of Greater Healing]]
+- [[potion-of-superior-healing-xdmg|Potion of Superior Healing]]
+- [[potion-of-supreme-healing-xdmg|Potion of Supreme Healing]]
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -16,7 +16,7 @@ aliases:
 
 This icon is a silver statuette of a howling wolf. It can grant Aspect of Wolf for 1 minute. Once it has been used, it can't be used again until 4 days have passed. 
 
-**Aspect of Wolf.** You can use an action to howl, granting up to 6 allies Pack Tactics until the end of your next turn. Pack Tactics grants you and your allies [advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against a creature if at least one ally is within 5 feet of the creature and the ally isn't [incapacitated](Compendium/rules/conditions.md#Incapacitated).
+**Aspect of Wolf.** You can use an action to howl, granting up to 6 allies Pack Tactics until the end of your next turn. Pack Tactics grants you and your allies [[advantage-xphb|advantage]] on attack rolls against a creature if at least one ally is within 5 feet of the creature and the ally isn't [[conditions#Incapacitated|incapacitated]].
 
 ## Paid
 

@@ -11,83 +11,83 @@ aliases:
 # Stat Block
 *Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-A stat block contains the game statistics of a [monster](Compendium/rules/variant-rules/monster-xphb.md). Each stat block includes the following information presented after the [monster's](Compendium/rules/variant-rules/monster-xphb.md) name.
+A stat block contains the game statistics of a [[monster-xphb|monster]]. Each stat block includes the following information presented after the [[monster-xphb|monster's]] name.
 
 ## Size
 
-A [monster](Compendium/rules/variant-rules/monster-xphb.md) is Tiny, Small, Med ium, Large, Huge, or Gargantuan.
+A [[monster-xphb|monster]] is Tiny, Small, Med ium, Large, Huge, or Gargantuan.
 
 ## Creature Type
 
-This entry notes the family of beings a [monster](Compendium/rules/variant-rules/monster-xphb.md) belongs to, along with any descriptive tags.
+This entry notes the family of beings a [[monster-xphb|monster]] belongs to, along with any descriptive tags.
 
 ## Alignment
 
-An alignment is suggested for the [monster](Compendium/rules/variant-rules/monster-xphb.md), with the DM determining its actual alignment.
+An alignment is suggested for the [[monster-xphb|monster]], with the DM determining its actual alignment.
 
 ## AC, Initiative, and HP
 
-These entries give the [monster's](Compendium/rules/variant-rules/monster-xphb.md) [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md), [Initiative](Compendium/rules/variant-rules/initiative-xphb.md), and [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), which are detailed in "chapter 1". In parentheses after the [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), the [monster's](Compendium/rules/variant-rules/monster-xphb.md) [Hit Point Dice](Compendium/rules/variant-rules/hit-point-dice-xphb.md) are provided, along with the contribution of its Constitution, if any, to its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). Following the [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) modifier is an [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) score. Some creatures that are created by magic lack Hit Dice and [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) information.
+These entries give the [[monster-xphb|monster's]] [[armor-class-xphb|Armor Class]], [[initiative-xphb|Initiative]], and [[hit-points-xphb|Hit Points]], which are detailed in "chapter 1". In parentheses after the [[hit-points-xphb|Hit Points]], the [[monster-xphb|monster's]] [[hit-point-dice-xphb|Hit Point Dice]] are provided, along with the contribution of its Constitution, if any, to its [[hit-points-xphb|Hit Points]]. Following the [[initiative-xphb|Initiative]] modifier is an [[initiative-xphb|Initiative]] score. Some creatures that are created by magic lack Hit Dice and [[initiative-xphb|Initiative]] information.
 
 ## Speed
 
-Here the [monster's](Compendium/rules/variant-rules/monster-xphb.md) Speed is provided, along with any special speeds.
+Here the [[monster-xphb|monster's]] Speed is provided, along with any special speeds.
 
 ## Ability Scores
 
-A table provides the [monster's](Compendium/rules/variant-rules/monster-xphb.md) ability scores, modifiers, and [saving throw](Compendium/rules/variant-rules/saving-throw-xphb.md) modifiers, all of which are detailed in "chapter 1".
+A table provides the [[monster-xphb|monster's]] ability scores, modifiers, and [[saving-throw-xphb|saving throw]] modifiers, all of which are detailed in "chapter 1".
 
 ## Skills
 
-This entry lists the [monster's](Compendium/rules/variant-rules/monster-xphb.md) skill proficiencies, if any.
+This entry lists the [[monster-xphb|monster's]] skill proficiencies, if any.
 
 ## Resistances and Vulnerabilities
 
-These entries list the [monster's](Compendium/rules/variant-rules/monster-xphb.md) Resistances and Vulnerabilities, if any.
+These entries list the [[monster-xphb|monster's]] Resistances and Vulnerabilities, if any.
 
 ## Immunities
 
-This section lists the [monster's](Compendium/rules/variant-rules/monster-xphb.md) damage and [condition](Compendium/rules/variant-rules/condition-xphb.md) Immunities, if any.
+This section lists the [[monster-xphb|monster's]] damage and [[condition-xphb|condition]] Immunities, if any.
 
 ## Gear
 
-If the [monster](Compendium/rules/variant-rules/monster-xphb.md) has any equipment that can be given away or retrieved, it's listed in this entry.
+If the [[monster-xphb|monster]] has any equipment that can be given away or retrieved, it's listed in this entry.
 
 ## Senses
 
-This entry lists the [monster's](Compendium/rules/variant-rules/monster-xphb.md) special senses, such as [Darkvision](Compendium/rules/senses.md#Darkvision), and its Passive [Perception](Compendium/rules/skills.md#Perception).
+This entry lists the [[monster-xphb|monster's]] special senses, such as [[senses#Darkvision|Darkvision]], and its Passive [[skills#Perception|Perception]].
 
 ## Languages
 
-This entry lists any languages the [monster](Compendium/rules/variant-rules/monster-xphb.md) knows.
+This entry lists any languages the [[monster-xphb|monster]] knows.
 
 ## CR
 
-Challenge Rating summarizes the threat a [monster](Compendium/rules/variant-rules/monster-xphb.md) poses and is detailed in the "Monster Manual". The Experience Points characters receive for defeating a [monster](Compendium/rules/variant-rules/monster-xphb.md) and its [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) follow. Some creatures that are created by magic have no CR.
+Challenge Rating summarizes the threat a [[monster-xphb|monster]] poses and is detailed in the "Monster Manual". The Experience Points characters receive for defeating a [[monster-xphb|monster]] and its [[proficiency-xphb|Proficiency Bonus]] follow. Some creatures that are created by magic have no CR.
 
 ## Traits
 
-The [monster's](Compendium/rules/variant-rules/monster-xphb.md) traits, if any, are features that are active at all times or in certain situations.
+The [[monster-xphb|monster's]] traits, if any, are features that are active at all times or in certain situations.
 
 ## Actions
 
-The [monster](Compendium/rules/variant-rules/monster-xphb.md) can take these actions in addition to those detailed in this glossary.
+The [[monster-xphb|monster]] can take these actions in addition to those detailed in this glossary.
 
 ## Bonus Actions
 
-If the [monster](Compendium/rules/variant-rules/monster-xphb.md) has [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) options, they are listed in this section.
+If the [[monster-xphb|monster]] has [[bonus-action-xphb|Bonus Action]] options, they are listed in this section.
 
 ## Reactions
 
-If the [monster](Compendium/rules/variant-rules/monster-xphb.md) can take special [Reactions](Compendium/rules/variant-rules/reaction-xphb.md), those are listed in this section.
+If the [[monster-xphb|monster]] can take special [[reaction-xphb|Reactions]], those are listed in this section.
 
 ## Attack Notation
 
-The entry for a [monster's](Compendium/rules/variant-rules/monster-xphb.md) attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
+The entry for a [[monster-xphb|monster's]] attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
 
 ## Saving Throw Effect Notation
 
-If an effect forces a [saving throw](Compendium/rules/variant-rules/saving-throw-xphb.md), the effect's entry starts by identifying the kind of [saving throw](Compendium/rules/variant-rules/saving-throw-xphb.md) required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
+If an effect forces a [[saving-throw-xphb|saving throw]], the effect's entry starts by identifying the kind of [[saving-throw-xphb|saving throw]] required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
 
 ## Damage Notation
 

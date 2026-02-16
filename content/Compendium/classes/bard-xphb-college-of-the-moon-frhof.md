@@ -59,25 +59,25 @@ The primal and ever-changing power of the moon flows through you, granting you t
 
 #### Inspired Eclipse
 
-When you take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to give a creature a Bardic Inspiration die, you can have the Invisible condition and teleport up to 30 feet to an unoccupied space you can see as part of that [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md). This invisibility lasts until the start of your next turn and ends early immediately after you make an attack roll, deal damage, or cast a spell.
+When you take a [[bonus-action-xphb|Bonus Action]] to give a creature a Bardic Inspiration die, you can have the Invisible condition and teleport up to 30 feet to an unoccupied space you can see as part of that [[bonus-action-xphb|Bonus Action]]. This invisibility lasts until the start of your next turn and ends early immediately after you make an attack roll, deal damage, or cast a spell.
 
 #### Lunar Vitality
 
-Once per turn when you restore [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) to a creature with a spell, you can expend a Bardic Inspiration die and increase the amount of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) restored by a number equal to a roll of the Bardic Inspiration die. The creature's [Speed](Compendium/rules/variant-rules/speed-xphb.md) also increases by 10 feet until the end of its next turn.
+Once per turn when you restore [[hit-points-xphb|Hit Points]] to a creature with a spell, you can expend a Bardic Inspiration die and increase the amount of [[hit-points-xphb|Hit Points]] restored by a number equal to a roll of the Bardic Inspiration die. The creature's [[speed-xphb|Speed]] also increases by 10 feet until the end of its next turn.
 
 ### Primal Lore (Level 3)
 
 You learn Druidic and one cantrip from the Druid spell list. It counts as a Bard spell for you but doesn't count against the number of cantrips you know. Whenever you gain a Bard level, you can replace this cantrip with another cantrip of your choice from the Druid spell list.
 
-Additionally, choose one of the following skills: [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Insight](Compendium/rules/skills.md#Insight), [Medicine](Compendium/rules/skills.md#Medicine), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), or [Survival](Compendium/rules/skills.md#Survival). You have proficiency in that skill.
+Additionally, choose one of the following skills: [[skills#Animal%20Handling|Animal Handling]], [[skills#Insight|Insight]], [[skills#Medicine|Medicine]], [[skills#Nature|Nature]], [[skills#Perception|Perception]], or [[skills#Survival|Survival]]. You have proficiency in that skill.
 
 ### Blessing of Moonlight (Level 6)
 
-You always have the [Moonbeam](Compendium/spells/moonbeam-xphb.md) spell prepared.
+You always have the [[moonbeam-xphb|Moonbeam]] spell prepared.
 
-When you cast [Moonbeam](Compendium/spells/moonbeam-xphb.md), you can modify the spell so that you glow faintly while the spell is active. While glowing, you shed [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) out to 5 feet, and whenever a creature fails its saving throw against the effects of this Moonbeam, another creature of your choice that you can see within 60 feet of yourself regains `2d4` [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+When you cast [[moonbeam-xphb|Moonbeam]], you can modify the spell so that you glow faintly while the spell is active. While glowing, you shed [[dim-light-xphb|Dim Light]] out to 5 feet, and whenever a creature fails its saving throw against the effects of this Moonbeam, another creature of your choice that you can see within 60 feet of yourself regains `2d4` [[hit-points-xphb|Hit Points]].
 
-Once you use this feature to modify a casting of Moonbeam, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature to modify a casting of Moonbeam, you can't use it again until you finish a [[long-rest-xphb|Long Rest]].
 
 ### Eventide's Splendor (Level 14)
 
@@ -85,7 +85,7 @@ You become suffused with the might of the moon, improving your Moon's Inspiratio
 
 #### Shadow of the New Moon
 
-When you use Inspired Eclipse, the creature who received the Bardic Inspiration die can also have the Invisible condition and immediately take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to teleport up to 30 feet to an unoccupied space it can see. The creature remains Invisible until the start of its next turn.
+When you use Inspired Eclipse, the creature who received the Bardic Inspiration die can also have the Invisible condition and immediately take a [[reaction-xphb|Reaction]] to teleport up to 30 feet to an unoccupied space it can see. The creature remains Invisible until the start of its next turn.
 
 #### Vibrance of the Full Moon
 

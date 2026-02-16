@@ -16,7 +16,7 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast [Fireball](Compendium/spells/fireball-xphb.md) (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spell's level by 1 for each additional charge you expend.
+This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast [[fireball-xphb|Fireball]] (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spell's level by 1 for each additional charge you expend.
 
 ## Regaining Charges
 

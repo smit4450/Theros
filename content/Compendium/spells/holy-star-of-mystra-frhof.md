@@ -26,12 +26,12 @@ aliases: ["Holy Star of Mystra"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You create a glowing mote of energy that hovers above you for the duration. The mote sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 5-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 5 feet.
+You create a glowing mote of energy that hovers above you for the duration. The mote sheds [[bright-light-xphb|Bright Light]] in a 5-foot radius and [[dim-light-xphb|Dim Light]] for an additional 5 feet.
 
-When you cast this spell and as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) on later turns, you can unleash a shining bolt from the mote, targeting one creature within 120 feet of yourself. Make a ranged spell attack. On a hit, the target takes Force or Radiant damage (your choice) equal to `4d10` plus your spellcasting ability modifier.
+When you cast this spell and as a [[bonus-action-xphb|Bonus Action]] on later turns, you can unleash a shining bolt from the mote, targeting one creature within 120 feet of yourself. Make a ranged spell attack. On a hit, the target takes Force or Radiant damage (your choice) equal to `4d10` plus your spellcasting ability modifier.
 
-In addition, while the mote is present, you have [Three-Quarters Cover](Compendium/rules/variant-rules/cover-xphb.md), and if you succeed on a saving throw against a spell of level 7 or lower that targeted only you and didn't create an area of effect, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to deflect that spell back at the spell's caster; the caster makes a saving throw against that spell using that caster's own spell save DC.
+In addition, while the mote is present, you have [[cover-xphb|Three-Quarters Cover]], and if you succeed on a saving throw against a spell of level 7 or lower that targeted only you and didn't create an area of effect, you can take a [[reaction-xphb|Reaction]] to deflect that spell back at the spell's caster; the caster makes a saving throw against that spell using that caster's own spell save DC.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: FRHoF p. 145*

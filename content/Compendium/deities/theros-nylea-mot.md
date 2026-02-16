@@ -64,7 +64,7 @@ Nylea blesses those who are kind to animals, considering such acts as wordless p
 > 
 > - **The First Hunt.** Each spring, communities observe the festival of the First Hunt, the Protokynion. In ancient times, the festival involved hunting, but in the modern form of observance, it is a day of picnics, outdoor games, and frolicking that has little to do with Nylea except that it celebrates the full flowering of spring. Tales tell of Nylea being passingly bitter about the celebration and, annually, visiting a First Hunt celebration in disguise. If she finds herself duly honored during the revelry, she blesses the event and might personally participate. If she finds no mention of her works, she curses those in attendance, sometimes sending rampaging beasts to disrupt the event or turning participants into game animals for true hunters to stalk.  
 > 
-> **Origin of the Catoblepas, Another Perspective.** When a herder boasted that his cattle were Theros's finest because Heliod and Nylea had created them, Heliod persuaded Mogis to curse the cattle, transforming them into the first [catoblepases](Compendium/bestiary/monstrosity/catoblepas-vgm.md). Heliod had hoped to win Nylea's favor by defending her honor in this way, but she was outraged to be associated with the creation of these abominations. To this day, Nylea offers a boon to anyone who hunts down a catoblepas and brings its head to her sacred grove.
+> **Origin of the Catoblepas, Another Perspective.** When a herder boasted that his cattle were Theros's finest because Heliod and Nylea had created them, Heliod persuaded Mogis to curse the cattle, transforming them into the first [[catoblepas-vgm|catoblepases]]. Heliod had hoped to win Nylea's favor by defending her honor in this way, but she was outraged to be associated with the creation of these abominations. To this day, Nylea offers a boon to anyone who hunts down a catoblepas and brings its head to her sacred grove.
 > 
 > - **The Three Hunters.** Three young men from wealthy families were hunting for sport in the Nessian Wood. Nylea accosted them before they had taken any prey and gave each man a chance to bring her a gift that would atone for his intentions. The first man killed a stag and made an offering of it in her name, so she turned him into a stag to compensate for the one he had killed. The second offered wealth from his family coffers, so she turned him into a tree clinging to a cliff face by one root. The third, remorseful, threw himself on a bed of moss, and a cerulean butterfly came to rest on his hand. Carefully, he carried the butterfly back to Nylea. She not only spared him, but blessed his house and all his descendants.  
 > - **The Tragedy of Arasta.** In ages long past, Nylea loved her dryad companion, Arasta, as a sister and the two spread wonders across Theros. One day, Phenax, envious of the pair and stung by some forgotten slight, transformed Arasta into a terrible monster to prove that the goddess's love was based on beauty, not true kinship. Seeing the unfamiliar creature, Nylea was horrified and drove her away. Shattered, Arasta retreated and has terrorized the gods' servants ever since. To this day, Nylea remains deeply pained by Arasta's loss. Knowing that only Phenax can undo the curse he laid upon the dryad, Nylea often sends her champions to learn the secret of what might restore her friend.  
@@ -141,7 +141,7 @@ Your piety score to Nylea decreases if you diminish Nylea's influence in the wor
 
 ### Benefits of Piety
 
-- [Nylea's Devotee](Compendium/rewards/nyleas-devotee-mot.md)  
-- [Nylea's Votary](Compendium/rewards/nyleas-votary-mot.md)  
-- [Nylea's Disciple](Compendium/rewards/nyleas-disciple-mot.md)  
-- [Champion of the Hunt](Compendium/rewards/champion-of-the-hunt-mot.md)
+- [[nyleas-devotee-mot|Nylea's Devotee]]  
+- [[nyleas-votary-mot|Nylea's Votary]]  
+- [[nyleas-disciple-mot|Nylea's Disciple]]  
+- [[champion-of-the-hunt-mot|Champion of the Hunt]]

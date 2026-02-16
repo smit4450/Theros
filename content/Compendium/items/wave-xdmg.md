@@ -12,14 +12,14 @@ aliases:
 - "Wave"
 ---
 # Wave
-*Weapon ([trident](Compendium/items/trident-xphb.md)), artifact (requires attunement)*  
+*Weapon ([[trident-xphb|trident]]), artifact (requires attunement)*  
 
 
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 Held in the dungeon of White Plume Mountain, Wave is engraved with images of waves, shells, and sea creatures.
@@ -28,20 +28,20 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 
 While holding Wave, you gain the following benefits:
 
-- **Combat Ready.** You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) rolls.  
+- **Combat Ready.** You have [[advantage-xphb|Advantage]] on [[initiative-xphb|Initiative]] rolls.  
 - **Underwater Adaptation.** A bubble of air forms around your head while you are underwater, allowing you to breathe normally in that environment.  
 
 ## Aquatic Command
 
-Wave has 3 charges and regains `1d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [Dominate Beast](Compendium/spells/dominate-beast-xphb.md) (save DC 20) from it on a Beast that has a [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md).
+Wave has 3 charges and regains `1d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[dominate-beast-xphb|Dominate Beast]] (save DC 20) from it on a Beast that has a [[swim-speed-xphb|Swim Speed]].
 
 ## Globe of Invulnerability
 
-While holding Wave, you can cast the level 9 version of [Globe of Invulnerability](Compendium/spells/globe-of-invulnerability-xphb.md) from it. Once used, this property can't be used again until the next dawn.
+While holding Wave, you can cast the level 9 version of [[globe-of-invulnerability-xphb|Globe of Invulnerability]] from it. Once used, this property can't be used again until the next dawn.
 
 ## Sentience
 
-Wave is a sentient weapon of Neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [Darkvision](Compendium/rules/senses.md#Darkvision) out to 120 feet.
+Wave is a sentient weapon of Neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [[senses#Darkvision|Darkvision]] out to 120 feet.
 
 The weapon communicates telepathically with its wielder and speaks Aquan.
 
@@ -51,6 +51,6 @@ Wave zealously encourages mortals to worship sea gods and has a habit of humming
 
 ## Destroying Wave
 
-Wave can be destroyed only on the island of Thunderforge, where it was forged. The weapon must be melted down by a [storm giant](Compendium/bestiary/giant/storm-giant-xmm.md) or someone imbued with a storm giant's strength. Destroying Wave angers a god of the sea, who sends powerful agents to attack the island and punish the destroyers.
+Wave can be destroyed only on the island of Thunderforge, where it was forged. The weapon must be melted down by a [[storm-giant-xmm|storm giant]] or someone imbued with a storm giant's strength. Destroying Wave angers a god of the sea, who sends powerful agents to attack the island and punish the destroyers.
 
 *Source: Dungeon Master's Guide (2024) p. 323*

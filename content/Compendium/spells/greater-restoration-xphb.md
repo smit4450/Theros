@@ -38,12 +38,12 @@ aliases: ["Greater Restoration"]
 
 You touch a creature and magically remove one of the following effects from it:
 
-- 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level  
-- The [Charmed](Compendium/rules/conditions.md#Charmed) or [Petrified](Compendium/rules/conditions.md#Petrified) condition  
-- A curse, including the target's [Attunement](Compendium/rules/variant-rules/attunement-xphb.md) to a cursed magic item  
+- 1 [[conditions#Exhaustion|Exhaustion]] level  
+- The [[conditions#Charmed|Charmed]] or [[conditions#Petrified|Petrified]] condition  
+- A curse, including the target's [[attunement-xphb|Attunement]] to a cursed magic item  
 - Any reduction to one of the target's ability scores  
-- Any reduction to the target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum  
+- Any reduction to the target's [[hit-points-xphb|Hit Point]] maximum  
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Compendium/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB"); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[list-spells-classes-bard|Bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-ranger|Ranger]]; [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Compendium/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB"); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

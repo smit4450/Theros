@@ -85,25 +85,25 @@ Each species gives a character special traits—unique characteristics based on 
 
 Sixteen backgrounds are presented in this section in alphabetical order:
 
-- [Acolyte](Compendium/backgrounds/acolyte-xphb.md)  
-- [Artisan](Compendium/backgrounds/artisan-xphb.md)  
-- [Charlatan](Compendium/backgrounds/charlatan-xphb.md)  
-- [Criminal](Compendium/backgrounds/criminal-xphb.md)  
-- [Entertainer](Compendium/backgrounds/entertainer-xphb.md)  
-- [Farmer](Compendium/backgrounds/farmer-xphb.md)  
-- [Guard](Compendium/backgrounds/guard-xphb.md)  
-- [Guide](Compendium/backgrounds/guide-xphb.md)  
-- [Hermit](Compendium/backgrounds/hermit-xphb.md)  
-- [Merchant](Compendium/backgrounds/merchant-xphb.md)  
-- [Noble](Compendium/backgrounds/noble-xphb.md)  
-- [Sage](Compendium/backgrounds/sage-xphb.md)  
-- [Sailor](Compendium/backgrounds/sailor-xphb.md)  
-- [Scribe](Compendium/backgrounds/scribe-xphb.md)  
-- [Soldier](Compendium/backgrounds/soldier-xphb.md)  
-- [Wayfarer](Compendium/backgrounds/wayfarer-xphb.md)  
+- [[acolyte-xphb|Acolyte]]  
+- [[artisan-xphb|Artisan]]  
+- [[charlatan-xphb|Charlatan]]  
+- [[criminal-xphb|Criminal]]  
+- [[entertainer-xphb|Entertainer]]  
+- [[farmer-xphb|Farmer]]  
+- [[guard-xphb|Guard]]  
+- [[guide-xphb|Guide]]  
+- [[hermit-xphb|Hermit]]  
+- [[merchant-xphb|Merchant]]  
+- [[noble-xphb|Noble]]  
+- [[sage-xphb|Sage]]  
+- [[sailor-xphb|Sailor]]  
+- [[scribe-xphb|Scribe]]  
+- [[soldier-xphb|Soldier]]  
+- [[wayfarer-xphb|Wayfarer]]  
 
 ## Species Descriptions
 
-Ten species are presented in this section in alphabetical order: [Aasimar](Compendium/races/aasimar-xphb.md), [Dragonborn](Compendium/races/dragonborn-xphb.md), [Dwarf](Compendium/races/dwarf-xphb.md), [Elf](Compendium/races/elf-xphb.md), [Gnome](Compendium/races/gnome-xphb.md), [Goliath](Compendium/races/goliath-xphb.md), [Halfling](Compendium/races/halfling-xphb.md), [Human](Compendium/races/human-xphb.md), [Orc](Compendium/races/orc-xphb.md), and [Tiefling](Compendium/races/tiefling-xphb.md).
+Ten species are presented in this section in alphabetical order: [[aasimar-xphb|Aasimar]], [[dragonborn-xphb|Dragonborn]], [[dwarf-xphb|Dwarf]], [[elf-xphb|Elf]], [[gnome-xphb|Gnome]], [[goliath-xphb|Goliath]], [[halfling-xphb|Halfling]], [[human-xphb|Human]], [[orc-xphb|Orc]], and [[tiefling-xphb|Tiefling]].
 
 ![](Compendium/books/players-handbook-2024/img/153-05-027-map-decoration.webp#center)

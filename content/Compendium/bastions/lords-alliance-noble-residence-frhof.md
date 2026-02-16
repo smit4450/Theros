@@ -18,7 +18,7 @@ aliases:
 
 You maintain a luxurious apartment fit for the ruler of a city such as Neverwinter, Waterdeep, or Baldur's Gate. Your hireling is a butler who tends to the resident's needs.
 
-After spending a Long Rest in your Noble Residence, you gain [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md).
+After spending a Long Rest in your Noble Residence, you gain [[heroic-inspiration-xphb|Heroic Inspiration]].
 
 ## Recruit: Visiting Noble
 

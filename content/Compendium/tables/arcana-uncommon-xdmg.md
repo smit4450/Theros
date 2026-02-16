@@ -15,66 +15,66 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01 | [Amulet of Proof against Detection and Location](Compendium/items/amulet-of-proof-against-detection-and-location-xdmg.md) |
-| 02 | [Baba Yaga's Dancing Broom](Compendium/items/baba-yagas-dancing-broom-xdmg.md) |
-| 03–05 | [Bag of Holding](Compendium/items/bag-of-holding-xdmg.md) |
-| 06–07 | [Bag of Tricks](Compendium/items/bag-of-tricks-xdmg.md) |
-| 08 | [Brooch of Shielding](Compendium/items/brooch-of-shielding-xdmg.md) |
-| 09 | [Broom of Flying](Compendium/items/broom-of-flying-xdmg.md) |
-| 10 | [Cap of Water Breathing](Compendium/items/cap-of-water-breathing-xdmg.md) |
-| 11 | [Circlet of Blasting](Compendium/items/circlet-of-blasting-xdmg.md) |
-| 12–13 | [Cloak of Protection](Compendium/items/cloak-of-protection-xdmg.md) |
-| 14 | [Cloak of the Manta Ray](Compendium/items/cloak-of-the-manta-ray-xdmg.md) |
-| 15 | [Decanter of Endless Water](Compendium/items/decanter-of-endless-water-xdmg.md) |
-| 16 | [Deck of Illusions](Compendium/items/deck-of-illusions-xdmg.md) |
-| 17–18 | [Driftglobe](Compendium/items/driftglobe-xdmg.md) |
-| 19–20 | [Dust of Disappearance](Compendium/items/dust-of-disappearance-xdmg.md) |
-| 21 | [Dust of Dryness](Compendium/items/dust-of-dryness-xdmg.md) |
-| 22 | [Dust of Sneezing and Choking](Compendium/items/dust-of-sneezing-and-choking-xdmg.md) |
-| 23–24 | [Elemental Gem](Compendium/items/elemental-gem-xdmg.md) |
-| 25 | [Enspelled Staff](Compendium/items/enspelled-staff-xdmg.md) (cantrip or level 1 spell) |
-| 26 | [Eversmoking Bottle](Compendium/items/eversmoking-bottle-xdmg.md) |
-| 27 | [Eyes of Charming](Compendium/items/eyes-of-charming-xdmg.md) |
-| 28 | [Eyes of Minute Seeing](Compendium/items/eyes-of-minute-seeing-xdmg.md) |
-| 29–30 | [Figurine of Wondrous Power (silver raven)](Compendium/items/figurine-of-wondrous-power-silver-raven-xdmg.md) |
-| 31 | [Gem of Brightness](Compendium/items/gem-of-brightness-xdmg.md) |
-| 32 | [Hag Eye](Compendium/items/hag-eye-xdmg.md) |
-| 33 | [Hat of Disguise](Compendium/items/hat-of-disguise-xdmg.md) |
-| 34 | [Headband of Intellect](Compendium/items/headband-of-intellect-xdmg.md) |
-| 35 | [Helm of Comprehending Languages](Compendium/items/helm-of-comprehending-languages-xdmg.md) |
-| 36 | [Helm of Telepathy](Compendium/items/helm-of-telepathy-xdmg.md) |
-| 37 | [Immovable Rod](Compendium/items/immovable-rod-xdmg.md) |
-| 38 | [Lantern of Revealing](Compendium/items/lantern-of-revealing-xdmg.md) |
-| 39 | [Medallion of Thoughts](Compendium/items/medallion-of-thoughts-xdmg.md) |
-| 40 | [Mithral Armor](Compendium/items/mithral-armor-xdmg.md) |
-| 41–42 | [Necklace of Adaptation](Compendium/items/necklace-of-adaptation-xdmg.md) |
-| 43 | [Oil of Slipperiness](Compendium/items/oil-of-slipperiness-xdmg.md) |
-| 44 | [Pearl of Power](Compendium/items/pearl-of-power-xdmg.md) |
-| 45 | [Periapt of Health](Compendium/items/periapt-of-health-xdmg.md) |
-| 46–47 | [Philter of Love](Compendium/items/philter-of-love-xdmg.md) |
-| 48–49 | [Potion of Animal Friendship](Compendium/items/potion-of-animal-friendship-xdmg.md) |
-| 50–51 | [Potion of Fire Breath](Compendium/items/potion-of-fire-breath-xdmg.md) |
-| 52–53 | [Potion of Giant Strength (hill)](Compendium/items/potion-of-hill-giant-strength-xdmg.md) |
-| 54–55 | [Potion of Growth](Compendium/items/potion-of-growth-xdmg.md) |
-| 56–57 | [Potion of Poison](Compendium/items/potion-of-poison-xdmg.md) |
-| 58–59 | [Potion of Resistance](Compendium/items/potion-of-resistance-xdmg.md) |
-| 60–61 | [Potion of Water Breathing](Compendium/items/potion-of-water-breathing-xdmg.md) |
-| 62 | [Quaal's Feather Token](Compendium/items/quaals-feather-token-xdmg.md) ([anchor](Compendium/items/quaals-feather-token-anchor-xdmg.md), [fan](Compendium/items/quaals-feather-token-fan-xdmg.md), or [tree](Compendium/items/quaals-feather-token-tree-xdmg.md)) |
-| 63 | [Ring of Mind Shielding](Compendium/items/ring-of-mind-shielding-xdmg.md) |
-| 64–65 | [Robe of Useful Items](Compendium/items/robe-of-useful-items-xdmg.md) |
-| 66–67 | [Rod of the Pact Keeper](Compendium/items/rod-of-the-pact-keeper-xdmg.md) |
-| 68–69 | [Rope of Climbing](Compendium/items/rope-of-climbing-xdmg.md) |
-| 70 | [Saddle of the Cavalier](Compendium/items/saddle-of-the-cavalier-xdmg.md) |
-| 71–72 | [Sending Stones](Compendium/items/sending-stones-xdmg.md) |
-| 73–74 | [Slippers of Spider Climbing](Compendium/items/slippers-of-spider-climbing-xdmg.md) |
-| 75–82 | [Spell Scroll](Compendium/items/spell-scroll-xdmg.md) ([level 2](Compendium/items/spell-scroll-level-2-xdmg.md) or [level 3](Compendium/items/spell-scroll-level-3-xdmg.md) spell) |
-| 83 | [Staff of the Adder](Compendium/items/staff-of-the-adder-xdmg.md) |
-| 84 | [Staff of the Python](Compendium/items/staff-of-the-python-xdmg.md) |
-| 85–88 | [Wand of Magic Detection](Compendium/items/wand-of-magic-detection-xdmg.md) |
-| 89–91 | [Wand of Magic Missiles](Compendium/items/wand-of-magic-missiles-xdmg.md) |
-| 92–93 | [Wand of Secrets](Compendium/items/wand-of-secrets-xdmg.md) |
-| 94–95 | [Wand of the War Mage, +1](Compendium/items/1-wand-of-the-war-mage-xdmg.md) |
-| 96–97 | [Wand of Web](Compendium/items/wand-of-web-xdmg.md) |
-| 98–99 | [Wind Fan](Compendium/items/wind-fan-xdmg.md) |
-| 00 | [Winged Boots](Compendium/items/winged-boots-xdmg.md) |
+| 01 | [[amulet-of-proof-against-detection-and-location-xdmg|Amulet of Proof against Detection and Location]] |
+| 02 | [[baba-yagas-dancing-broom-xdmg|Baba Yaga's Dancing Broom]] |
+| 03–05 | [[bag-of-holding-xdmg|Bag of Holding]] |
+| 06–07 | [[bag-of-tricks-xdmg|Bag of Tricks]] |
+| 08 | [[brooch-of-shielding-xdmg|Brooch of Shielding]] |
+| 09 | [[broom-of-flying-xdmg|Broom of Flying]] |
+| 10 | [[cap-of-water-breathing-xdmg|Cap of Water Breathing]] |
+| 11 | [[circlet-of-blasting-xdmg|Circlet of Blasting]] |
+| 12–13 | [[cloak-of-protection-xdmg|Cloak of Protection]] |
+| 14 | [[cloak-of-the-manta-ray-xdmg|Cloak of the Manta Ray]] |
+| 15 | [[decanter-of-endless-water-xdmg|Decanter of Endless Water]] |
+| 16 | [[deck-of-illusions-xdmg|Deck of Illusions]] |
+| 17–18 | [[driftglobe-xdmg|Driftglobe]] |
+| 19–20 | [[dust-of-disappearance-xdmg|Dust of Disappearance]] |
+| 21 | [[dust-of-dryness-xdmg|Dust of Dryness]] |
+| 22 | [[dust-of-sneezing-and-choking-xdmg|Dust of Sneezing and Choking]] |
+| 23–24 | [[elemental-gem-xdmg|Elemental Gem]] |
+| 25 | [[enspelled-staff-xdmg|Enspelled Staff]] (cantrip or level 1 spell) |
+| 26 | [[eversmoking-bottle-xdmg|Eversmoking Bottle]] |
+| 27 | [[eyes-of-charming-xdmg|Eyes of Charming]] |
+| 28 | [[eyes-of-minute-seeing-xdmg|Eyes of Minute Seeing]] |
+| 29–30 | [[figurine-of-wondrous-power-silver-raven-xdmg|Figurine of Wondrous Power (silver raven)]] |
+| 31 | [[gem-of-brightness-xdmg|Gem of Brightness]] |
+| 32 | [[hag-eye-xdmg|Hag Eye]] |
+| 33 | [[hat-of-disguise-xdmg|Hat of Disguise]] |
+| 34 | [[headband-of-intellect-xdmg|Headband of Intellect]] |
+| 35 | [[helm-of-comprehending-languages-xdmg|Helm of Comprehending Languages]] |
+| 36 | [[helm-of-telepathy-xdmg|Helm of Telepathy]] |
+| 37 | [[immovable-rod-xdmg|Immovable Rod]] |
+| 38 | [[lantern-of-revealing-xdmg|Lantern of Revealing]] |
+| 39 | [[medallion-of-thoughts-xdmg|Medallion of Thoughts]] |
+| 40 | [[mithral-armor-xdmg|Mithral Armor]] |
+| 41–42 | [[necklace-of-adaptation-xdmg|Necklace of Adaptation]] |
+| 43 | [[oil-of-slipperiness-xdmg|Oil of Slipperiness]] |
+| 44 | [[pearl-of-power-xdmg|Pearl of Power]] |
+| 45 | [[periapt-of-health-xdmg|Periapt of Health]] |
+| 46–47 | [[philter-of-love-xdmg|Philter of Love]] |
+| 48–49 | [[potion-of-animal-friendship-xdmg|Potion of Animal Friendship]] |
+| 50–51 | [[potion-of-fire-breath-xdmg|Potion of Fire Breath]] |
+| 52–53 | [[potion-of-hill-giant-strength-xdmg|Potion of Giant Strength (hill)]] |
+| 54–55 | [[potion-of-growth-xdmg|Potion of Growth]] |
+| 56–57 | [[potion-of-poison-xdmg|Potion of Poison]] |
+| 58–59 | [[potion-of-resistance-xdmg|Potion of Resistance]] |
+| 60–61 | [[potion-of-water-breathing-xdmg|Potion of Water Breathing]] |
+| 62 | [[quaals-feather-token-xdmg|Quaal's Feather Token]] ([[quaals-feather-token-anchor-xdmg|anchor]], [[quaals-feather-token-fan-xdmg|fan]], or [[quaals-feather-token-tree-xdmg|tree]]) |
+| 63 | [[ring-of-mind-shielding-xdmg|Ring of Mind Shielding]] |
+| 64–65 | [[robe-of-useful-items-xdmg|Robe of Useful Items]] |
+| 66–67 | [[rod-of-the-pact-keeper-xdmg|Rod of the Pact Keeper]] |
+| 68–69 | [[rope-of-climbing-xdmg|Rope of Climbing]] |
+| 70 | [[saddle-of-the-cavalier-xdmg|Saddle of the Cavalier]] |
+| 71–72 | [[sending-stones-xdmg|Sending Stones]] |
+| 73–74 | [[slippers-of-spider-climbing-xdmg|Slippers of Spider Climbing]] |
+| 75–82 | [[spell-scroll-xdmg|Spell Scroll]] ([[spell-scroll-level-2-xdmg|level 2]] or [[spell-scroll-level-3-xdmg|level 3]] spell) |
+| 83 | [[staff-of-the-adder-xdmg|Staff of the Adder]] |
+| 84 | [[staff-of-the-python-xdmg|Staff of the Python]] |
+| 85–88 | [[wand-of-magic-detection-xdmg|Wand of Magic Detection]] |
+| 89–91 | [[wand-of-magic-missiles-xdmg|Wand of Magic Missiles]] |
+| 92–93 | [[wand-of-secrets-xdmg|Wand of Secrets]] |
+| 94–95 | [[1-wand-of-the-war-mage-xdmg|Wand of the War Mage, +1]] |
+| 96–97 | [[wand-of-web-xdmg|Wand of Web]] |
+| 98–99 | [[wind-fan-xdmg|Wind Fan]] |
+| 00 | [[winged-boots-xdmg|Winged Boots]] |
 ^arcana-uncommon

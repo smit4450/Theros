@@ -34,6 +34,6 @@ You bless up to three creatures within range. Whenever a target makes an attack 
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

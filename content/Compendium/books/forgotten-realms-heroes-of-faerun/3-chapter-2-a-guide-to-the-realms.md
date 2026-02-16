@@ -900,7 +900,7 @@ Before the Lands of Intrigue existed, there was Shanatar. This ancient shield dw
 > - **Realms.** Icewind Dale, Kingdom of Many-Arrows, Lords' Alliance, Luskan, Menzoberranzan, northern dwarfholds, Savage Frontier  
 > - **Languages.** Bothii, Chondathan, Illuskan, Reghedjic  
 > - **Landmarks.** The Evermoors, Gimmerwood, Nether Mountains, Reghed Glacier, Sea of Moving Ice, Spine of the World Mountains  
-> - **Threats.** [Nature](Compendium/rules/skills.md#Nature)'s wrath, giants, dragons, roving marauders, and the menace of the Underdark.  
+> - **Threats.** [[skills#Nature|Nature]]'s wrath, giants, dragons, roving marauders, and the menace of the Underdark.  
 ^overview
 
 > [!gallery]
@@ -1062,7 +1062,7 @@ Chessenta is an unusual empire, where a chaotic array of city-states are in perp
 
 Chessentans revel in war the way other cultures delight in sports or feasting. In Chessenta, a youth's first brush with death is a rite of passage, and a life without battle is no life at all. Chessentans who don't take part in their city's bloody military campaigns toil at home to supply the army, growing drought-resistant crops in the thin and stony soil, forging sturdy but lightweight weapons and shields suitable for the hot summer wars, and producing thousands of barrels of the region's famous ruby wine to keep soldiers' spirits high.
 
-[Religion](Compendium/rules/skills.md#Religion) is important in Chessenta, and Chessentans have an array of gods and demigods utterly alien to outsiders. But perhaps no deity in Chessenta is so noteworthy as Tchazzar, a legendary god-king who in antiquity united the city-states of Chessenta and spearheaded the realm's only golden age. Tchazzar's death four hundred years ago heralded a great schism between the Chessentan cities. Only recently has the violent deity returned to Faerûnian soil in his true form as the Great Red Dragon. After reclaiming and subjugating the city of Cimbar, Tchazzar now aims to reunite the fractious powers of Chessenta into his idealized warrior realm.
+[[skills#Religion|Religion]] is important in Chessenta, and Chessentans have an array of gods and demigods utterly alien to outsiders. But perhaps no deity in Chessenta is so noteworthy as Tchazzar, a legendary god-king who in antiquity united the city-states of Chessenta and spearheaded the realm's only golden age. Tchazzar's death four hundred years ago heralded a great schism between the Chessentan cities. Only recently has the violent deity returned to Faerûnian soil in his true form as the Great Red Dragon. After reclaiming and subjugating the city of Cimbar, Tchazzar now aims to reunite the fractious powers of Chessenta into his idealized warrior realm.
 
 ##### Airspur
 
@@ -1213,7 +1213,7 @@ Waterdeep is divided into several wards. Wards aren't separated by walls or gate
 
 ##### Defenses
 
-While Waterdeep has a militia and city guard, its most famous defenders are magical walking statues and the griffon cavalry. The walking statues are eight enormous statues that sit dormant among the city's buildings. The Blackstaff can activate them to defend the city in times of dire need, animating each statue into an unstoppable stone colossus. The griffon cavalry is made up of well-trained riders and their griffon mounts. Each rider wears a [Ring of Feather Falling](Compendium/items/ring-of-feather-falling-xdmg.md), allowing them to safely leap from their mounts in daring assaults on any enemy.
+While Waterdeep has a militia and city guard, its most famous defenders are magical walking statues and the griffon cavalry. The walking statues are eight enormous statues that sit dormant among the city's buildings. The Blackstaff can activate them to defend the city in times of dire need, animating each statue into an unstoppable stone colossus. The griffon cavalry is made up of well-trained riders and their griffon mounts. Each rider wears a [[ring-of-feather-falling-xdmg|Ring of Feather Falling]], allowing them to safely leap from their mounts in daring assaults on any enemy.
 
 ##### Undermountain
 
@@ -1443,7 +1443,7 @@ Inhabitants of the Trackless Sea are ever-wary of Umberlee, the Wavemother. Cult
 > ![Map 02.014: vilhon reach](Compendium/books/forgotten-realms-heroes-of-faerun/img/077-map-02-014-vilhon-reach.webp#gallery)
 > ![Player Version](Compendium/books/forgotten-realms-heroes-of-faerun/img/078-map-02-014-vilhon-reach-player.webp#gallery)
 
-The subtropical Vilhon Reach lies southwest of the Sea of Fallen Stars, situated along its eponymous gulf. [Nature](Compendium/rules/skills.md#Nature) is more respected here than in other areas of Faerûn, a result of both the Emerald Enclave's enormous influence on the region and the region's history of natural disasters.
+The subtropical Vilhon Reach lies southwest of the Sea of Fallen Stars, situated along its eponymous gulf. [[skills#Nature|Nature]] is more respected here than in other areas of Faerûn, a result of both the Emerald Enclave's enormous influence on the region and the region's history of natural disasters.
 
 People wary of magic often settle in the Vilhon, since some of its cities have laws that curtail or even ban spellcasting. Some Thayan commoners desperate to escape the rule of Red Wizards speak in whispers of Ilighôn, an island in the Vilhon Reach where no divination magic can find them.
 
@@ -1473,7 +1473,7 @@ A prosperous Sespech trade city, Mimph relies almost entirely on its port—famo
 
 ##### Nagawater
 
-A bobbing line of buoys lit by [Continual Flame](Compendium/spells/continual-flame-xphb.md) spells divides the freshwater lake of Nagawater. The northern half belongs to the realm of Sespech, and fishers from Ormpetarr fish there often. The southern half is inhabited by a peaceful guardian naga. Those who assume the naga is guarding some treasure and attempt to retrieve it generally end up drowned in the lake's still waters.
+A bobbing line of buoys lit by [[continual-flame-xphb|Continual Flame]] spells divides the freshwater lake of Nagawater. The northern half belongs to the realm of Sespech, and fishers from Ormpetarr fish there often. The southern half is inhabited by a peaceful guardian naga. Those who assume the naga is guarding some treasure and attempt to retrieve it generally end up drowned in the lake's still waters.
 
 ##### Ormpetarr
 

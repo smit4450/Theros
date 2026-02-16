@@ -18,8 +18,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Charisma score by 1, to a maximum of 30.
 
-**Fearless.** You have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to the [Frightened](Compendium/rules/conditions.md#Frightened) condition.
+**Fearless.** You have [[immunity-xphb|Immunity]] to the [[conditions#Frightened|Frightened]] condition.
 
-**Flee, Fools!.** When a creature with the [Frightened](Compendium/rules/conditions.md#Frightened) condition starts its turn within 60 feet of you, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to stoke its terror, provided you can see the creature and it isn't behind [Total Cover](Compendium/rules/variant-rules/cover-xphb.md). If you do so, the creature must succeed on a Wisdom saving throw (DC 8 plus your Charisma modifier and your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md)) or spend its turn moving away from you by the fastest available means. Once you use this benefit, you can't use it again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+**Flee, Fools!.** When a creature with the [[conditions#Frightened|Frightened]] condition starts its turn within 60 feet of you, you can take a [[reaction-xphb|Reaction]] to stoke its terror, provided you can see the creature and it isn't behind [[cover-xphb|Total Cover]]. If you do so, the creature must succeed on a Wisdom saving throw (DC 8 plus your Charisma modifier and your [[proficiency-xphb|Proficiency Bonus]]) or spend its turn moving away from you by the fastest available means. Once you use this benefit, you can't use it again until you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
 
-**Intimidating.** You gain [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) in the [Intimidation](Compendium/rules/skills.md#Intimidation) skill if you don't already have it. You also gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in [Intimidation](Compendium/rules/skills.md#Intimidation).
+**Intimidating.** You gain [[proficiency-xphb|Proficiency]] in the [[skills#Intimidation|Intimidation]] skill if you don't already have it. You also gain [[expertise-xphb|Expertise]] in [[skills#Intimidation|Intimidation]].

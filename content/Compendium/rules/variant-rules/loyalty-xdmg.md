@@ -31,4 +31,4 @@ An NPC with a Loyalty Score of 10 or higher risks anything to help fellow party 
 
 ## Crew Loyalty and Mutiny
 
-If the characters own or operate a sailing ship or similar vessel, you can use these rules to track the loyalty of individual crew members or the ship's crew as a whole. If at least half the crew's Loyalty Scores drop to 0 during a voyage, the crew turns [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) and stages a mutiny. If the ship is berthed, disloyal crew members leave the ship and never return.
+If the characters own or operate a sailing ship or similar vessel, you can use these rules to track the loyalty of individual crew members or the ship's crew as a whole. If at least half the crew's Loyalty Scores drop to 0 during a voyage, the crew turns [[hostile-attitude-xphb|Hostile]] and stages a mutiny. If the ship is berthed, disloyal crew members leave the ship and never return.

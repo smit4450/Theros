@@ -140,7 +140,7 @@ The saga of Callaphe the Mariner, told in *The Callapheia*, is a more coherent n
 
 ### Recent Memory
 
-The Age of Heroes has not yet come to an end, and more epics will surely be sung and written as more heroes take their destinies into their own hands and chart their paths to the stars. The heroes of recent memory—Haktos the Unscarred, Siona and her crew on the *Pyleas*, Kytheon Iora, Elspeth and Daxos, Anax and Cymede, Ajani Goldmane, and countless others—are no less heroic than the protagonists of age-old epics, even if their deeds aren't yet as widely known. Beyond individuals—a kraken attack on Meletis; the fall of the monstrous hydra [Polukranos](Compendium/bestiary/npc/polukranos-mot.md); the Nyxborn assault on Akros; Erebos's titan felled by Heliod's champion; the apotheosis and destruction of the mortal-turned-god Xenagos—the epic events of the recent past are already remembered and retold as mythic deeds. Many of these tales are told throughout this book, but they're only a fraction of the myths the people of Theros share.
+The Age of Heroes has not yet come to an end, and more epics will surely be sung and written as more heroes take their destinies into their own hands and chart their paths to the stars. The heroes of recent memory—Haktos the Unscarred, Siona and her crew on the *Pyleas*, Kytheon Iora, Elspeth and Daxos, Anax and Cymede, Ajani Goldmane, and countless others—are no less heroic than the protagonists of age-old epics, even if their deeds aren't yet as widely known. Beyond individuals—a kraken attack on Meletis; the fall of the monstrous hydra [[polukranos-mot|Polukranos]]; the Nyxborn assault on Akros; Erebos's titan felled by Heliod's champion; the apotheosis and destruction of the mortal-turned-god Xenagos—the epic events of the recent past are already remembered and retold as mythic deeds. Many of these tales are told throughout this book, but they're only a fraction of the myths the people of Theros share.
 
 Like white-hot bronze on the smith's anvil, Theros is ready to be forged by the deeds of today's heroes and ushered into the next great era of its history.
 
@@ -148,6 +148,6 @@ Like white-hot bronze on the smith's anvil, Theros is ready to be forged by the 
 
 Theros is not the most cosmopolitan of worlds, and a relatively small number of languages are used in its lands and sea. The citizens of the three human poleis (Meletis, Akros, and Setessa) speak their own dialects of the Common language, mutually intelligible but just different enough to identify the speaker's native land. Leonin and minotaurs have their own languages, and tritons speak the Aquan dialect of Primordial. Centaurs and satyrs speak distinct dialects of Sylvan, and different bands of centaurs even pronounce the same words differently. Giants and cyclopes share one language. Dragons and sphinxes have distinct languages rarely spoken among mortals of Theros, and the gods themselves speak in a unique language that few beyond mortal oracles can understand.
 
-![Standard Languages](Compendium/tables/standard-languages-mot.md)
+![[standard-languages-mot|Standard Languages]]
 
-![Exotic Languages](Compendium/tables/exotic-languages-mot.md)
+![[exotic-languages-mot|Exotic Languages]]

@@ -15,15 +15,15 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1 | [Death dog](Compendium/bestiary/monstrosity/death-dog-xmm.md) |
-| 2 | [Berserker](Compendium/bestiary/humanoid/berserker-xmm.md) |
-| 3 | [Fleecemane lion](Compendium/bestiary/monstrosity/fleecemane-lion-mot.md) |
-| 3 | [Manticore](Compendium/bestiary/monstrosity/manticore-xmm.md) |
-| 3 | [Minotaur](Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) |
-| 5 | [Catoblepas](Compendium/bestiary/monstrosity/catoblepas-vgm.md)* |
-| 6 | [Cyclops](Compendium/bestiary/giant/cyclops-sentry-xmm.md)* |
-| 7 | [Theran chimera](Compendium/bestiary/monstrosity/theran-chimera-mot.md) |
-| 8 | [Blackguard](Compendium/bestiary/humanoid/blackguard-vgm.md) |
+| 1 | [[death-dog-xmm|Death dog]] |
+| 2 | [[berserker-xmm|Berserker]] |
+| 3 | [[fleecemane-lion-mot|Fleecemane lion]] |
+| 3 | [[manticore-xmm|Manticore]] |
+| 3 | [[minotaur-of-baphomet-xmm|Minotaur]] |
+| 5 | [[catoblepas-vgm|Catoblepas]]* |
+| 6 | [[cyclops-sentry-xmm|Cyclops]]* |
+| 7 | [[theran-chimera-mot|Theran chimera]] |
+| 8 | [[blackguard-vgm|Blackguard]] |
 ^mogiss-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

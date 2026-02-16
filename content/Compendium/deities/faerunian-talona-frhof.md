@@ -24,7 +24,7 @@ One of Faerûn's most feared deities, Talona is a god of plague and poison, blam
 
 Talona is a fickle god. She is more petulant than conniving, more reactive than active. Though she receives many prayers, Talona has almost no temples or cults dedicated to her, and she resents the neglect. When she lashes out with plagues, blights, and magical contagions, victims desperately pray to her for respite, placating her for a time. But once the contagion ends, prayers dwindle, and it isn't long before the neglected god lashes out again.
 
-When Talona communicates with mortals—usually to demand some sort of propitiation—she sends a [Vulture](Compendium/bestiary/beast/vulture-xmm.md), a [Giant Rat](Compendium/bestiary/beast/giant-rat-xmm.md), or the corpse of a creature infested by insects. Whatever method she chooses, her messenger is shrouded in a sickly yellow-brown glow.
+When Talona communicates with mortals—usually to demand some sort of propitiation—she sends a [[vulture-xmm|Vulture]], a [[giant-rat-xmm|Giant Rat]], or the corpse of a creature infested by insects. Whatever method she chooses, her messenger is shrouded in a sickly yellow-brown glow.
 
 Rituals to placate Talona involve three drops of blood or three tears dropped into a well that has gone bad, dripped into the handkerchief of someone beset by coughing, dropped into a fire made by burning a withered crop, dripped into the mouth of a plague sufferer, and so on. It's common practice to mark a container of poison with her holy symbol, three droplets in a triangle. During epidemics, this image is painted on the homes of the infected.
 

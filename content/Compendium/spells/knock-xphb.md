@@ -34,10 +34,10 @@ Choose an object that you can see within range. The object can be a door, a box,
 
 A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
 
-If the target is held shut by [Arcane Lock](Compendium/spells/arcane-lock-xphb.md), that spell is suppressed for 10 minutes, during which time the target can be opened and closed.
+If the target is held shut by [[arcane-lock-xphb|Arcane Lock]], that spell is suppressed for 10 minutes, during which time the target can be opened and closed.
 
 When you cast the spell, a loud knock, audible up to 300 feet away, emanates from the target.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

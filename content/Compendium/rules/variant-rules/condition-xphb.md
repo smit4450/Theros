@@ -13,20 +13,20 @@ aliases:
 
 A condition is a temporary game state. The definition of a condition says how it affects its recipient, and various rules define how to end a condition. This glossary defines these conditions:
 
-- [Blinded](Compendium/rules/conditions.md#Blinded)  
-- [Charmed](Compendium/rules/conditions.md#Charmed)  
-- [Deafened](Compendium/rules/conditions.md#Deafened)  
-- [Exhaustion](Compendium/rules/conditions.md#Exhaustion)  
-- [Frightened](Compendium/rules/conditions.md#Frightened)  
-- [Grappled](Compendium/rules/conditions.md#Grappled)  
-- [Incapacitated](Compendium/rules/conditions.md#Incapacitated)  
-- [Invisible](Compendium/rules/conditions.md#Invisible)  
-- [Paralyzed](Compendium/rules/conditions.md#Paralyzed)  
-- [Petrified](Compendium/rules/conditions.md#Petrified)  
-- [Poisoned](Compendium/rules/conditions.md#Poisoned)  
-- [Prone](Compendium/rules/conditions.md#Prone)  
-- [Restrained](Compendium/rules/conditions.md#Restrained)  
-- [Stunned](Compendium/rules/conditions.md#Stunned)  
-- [Unconscious](Compendium/rules/conditions.md#Unconscious)  
+- [[conditions#Blinded|Blinded]]  
+- [[conditions#Charmed|Charmed]]  
+- [[conditions#Deafened|Deafened]]  
+- [[conditions#Exhaustion|Exhaustion]]  
+- [[conditions#Frightened|Frightened]]  
+- [[conditions#Grappled|Grappled]]  
+- [[conditions#Incapacitated|Incapacitated]]  
+- [[conditions#Invisible|Invisible]]  
+- [[conditions#Paralyzed|Paralyzed]]  
+- [[conditions#Petrified|Petrified]]  
+- [[conditions#Poisoned|Poisoned]]  
+- [[conditions#Prone|Prone]]  
+- [[conditions#Restrained|Restrained]]  
+- [[conditions#Stunned|Stunned]]  
+- [[conditions#Unconscious|Unconscious]]  
 
-A condition doesn't stack with itself; a recipient either has a condition or doesn't. The [Exhaustion](Compendium/rules/conditions.md#Exhaustion) condition is an exception to that rule.
+A condition doesn't stack with itself; a recipient either has a condition or doesn't. The [[conditions#Exhaustion|Exhaustion]] condition is an exception to that rule.

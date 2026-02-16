@@ -18,6 +18,6 @@ aliases:
 
 *Channel the authority of genies with these elegant Calishite fashions.*
 
-This robe appeals to Elementals associated with a particular Elemental Plane (Air, Earth, Fire, Water). While wearing a Genie Robe, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on ability checks made to influence Elementals associated with that plane.
+This robe appeals to Elementals associated with a particular Elemental Plane (Air, Earth, Fire, Water). While wearing a Genie Robe, you have [[advantage-xphb|Advantage]] on ability checks made to influence Elementals associated with that plane.
 
 *Source: FRHoF p. 132*

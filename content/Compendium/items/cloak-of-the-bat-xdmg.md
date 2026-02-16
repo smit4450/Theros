@@ -14,8 +14,8 @@ aliases:
 
 
 
-While wearing this cloak, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks. In an area of [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), you can grip the edges of the cloak and use it to gain a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), you lose this [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md).
+While wearing this cloak, you have [[advantage-xphb|Advantage]] on Dexterity ([[skills#Stealth|Stealth]]) checks. In an area of [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]], you can grip the edges of the cloak and use it to gain a [[fly-speed-xphb|Fly Speed]] of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]], you lose this [[fly-speed-xphb|Fly Speed]].
 
-While wearing the cloak in an area of [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), you can cast [Polymorph](Compendium/spells/polymorph-xphb.md) on yourself, shape-shifting into a [Bat](Compendium/bestiary/beast/bat-xmm.md). While in that form, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
+While wearing the cloak in an area of [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]], you can cast [[polymorph-xphb|Polymorph]] on yourself, shape-shifting into a [[bat-xmm|Bat]]. While in that form, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

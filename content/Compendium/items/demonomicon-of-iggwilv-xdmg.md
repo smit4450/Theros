@@ -18,19 +18,19 @@ This treatise, composed by "Iggwilv" the archmage, documents the Abyss's layers 
 
 ## Abyssal Lore
 
-You can reference the Demonomicon whenever you make an Intelligence check to discern information about demons or a Wisdom ([Survival](Compendium/rules/skills.md#Survival)) check related to the Abyss. When you do so, you gain [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check.
+You can reference the Demonomicon whenever you make an Intelligence check to discern information about demons or a Wisdom ([[skills#Survival|Survival]]) check related to the Abyss. When you do so, you gain [[advantage-xphb|Advantage]] on the check.
 
 ## Containment
 
-The first ten pages of the Demonomicon are blank. As a [Magic](Compendium/rules/actions.md#Magic) action while holding the book, you can target a Fiend that you can see that is trapped within the area of a [Magic Circle](Compendium/spells/magic-circle-xphb.md) spell. The Fiend must succeed on a DC 20 Charisma saving throw with [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) or become trapped within one of the Demonomicon's blank pages, which fills with writing detailing the trapped creature's widely known name and depravities. Once used, this action can't be used again until the next dawn.
+The first ten pages of the Demonomicon are blank. As a [[actions#Magic|Magic]] action while holding the book, you can target a Fiend that you can see that is trapped within the area of a [[magic-circle-xphb|Magic Circle]] spell. The Fiend must succeed on a DC 20 Charisma saving throw with [[disadvantage-xphb|Disadvantage]] or become trapped within one of the Demonomicon's blank pages, which fills with writing detailing the trapped creature's widely known name and depravities. Once used, this action can't be used again until the next dawn.
 
-When you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), if you and the Demonomicon are on the same plane of existence, one trapped creature within the book can attempt to possess you. You make a DC 20 Charisma saving throw. On a failed save, you are possessed by the creature, which controls you like a puppet. As a [Magic](Compendium/rules/actions.md#Magic) action, the possessing creature can release you and appear in the closest unoccupied space to you. On a successful save, the Fiend can't try to possess you again for 7 days (but another Fiend trapped in the book can certainly try).
+When you finish a [[long-rest-xphb|Long Rest]], if you and the Demonomicon are on the same plane of existence, one trapped creature within the book can attempt to possess you. You make a DC 20 Charisma saving throw. On a failed save, you are possessed by the creature, which controls you like a puppet. As a [[actions#Magic|Magic]] action, the possessing creature can release you and appear in the closest unoccupied space to you. On a successful save, the Fiend can't try to possess you again for 7 days (but another Fiend trapped in the book can certainly try).
 
 When the tome is discovered, it has `1d4` Fiends occupying its pages—typically an assortment of demons.
 
 ## Ensnarement
 
-While carrying the book, whenever you cast [Magic Circle](Compendium/spells/magic-circle-xphb.md) naming only Fiends or cast [Planar Binding](Compendium/spells/planar-binding-xphb.md) targeting a Fiend, the spell is cast at level 9, regardless of what level spell slot you used, if any. Additionally, the Fiend has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on its saving throw against the spell.
+While carrying the book, whenever you cast [[magic-circle-xphb|Magic Circle]] naming only Fiends or cast [[planar-binding-xphb|Planar Binding]] targeting a Fiend, the spell is cast at level 9, regardless of what level spell slot you used, if any. Additionally, the Fiend has [[disadvantage-xphb|Disadvantage]] on its saving throw against the spell.
 
 ## Fiendish Scourging
 
@@ -40,23 +40,23 @@ While carrying the book, when you make a damage roll for a spell you cast agains
 
 The Artifact has the following random properties:
 
-- 2 [minor beneficial](Compendium/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
-- 1 [minor detrimental](Compendium/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
-- 1 [major detrimental](Compendium/tables/artifact-properties-major-detrimental-properties-xdmg.md) property  
+- 2 [[artifact-properties-minor-beneficial-properties-xdmg|minor beneficial]] properties  
+- 1 [[artifact-properties-minor-detrimental-properties-xdmg|minor detrimental]] property  
+- 1 [[artifact-properties-major-detrimental-properties-xdmg|major detrimental]] property  
 
 ## Spells
 
-The book has 8 charges and regains `1d8` expended charges daily at dawn. While holding the book, you can take a [Magic](Compendium/rules/actions.md#Magic) action to cast one of the spells (save DC 20) on the following table. The table indicates how many charges you must expend to cast the spell.
+The book has 8 charges and regains `1d8` expended charges daily at dawn. While holding the book, you can take a [[actions#Magic|Magic]] action to cast one of the spells (save DC 20) on the following table. The table indicates how many charges you must expend to cast the spell.
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Magic Circle](Compendium/spells/magic-circle-xphb.md) | 1 |
-| [Magic Jar](Compendium/spells/magic-jar-xphb.md) | 3 |
-| [Planar Ally](Compendium/spells/planar-ally-xphb.md) | 3 |
-| [Planar Binding](Compendium/spells/planar-binding-xphb.md) | 2 |
-| [Plane Shift](Compendium/spells/plane-shift-xphb.md) (to the Abyss only) | 3 |
-| [Summon Fiend](Compendium/spells/summon-fiend-xphb.md) | 3 |
-| [Tasha's Hideous Laughter](Compendium/spells/tashas-hideous-laughter-xphb.md) | 0 |
+| [[magic-circle-xphb|Magic Circle]] | 1 |
+| [[magic-jar-xphb|Magic Jar]] | 3 |
+| [[planar-ally-xphb|Planar Ally]] | 3 |
+| [[planar-binding-xphb|Planar Binding]] | 2 |
+| [[plane-shift-xphb|Plane Shift]] (to the Abyss only) | 3 |
+| [[summon-fiend-xphb|Summon Fiend]] | 3 |
+| [[tashas-hideous-laughter-xphb|Tasha's Hideous Laughter]] | 0 |
 ^spell-charge-cost
 
 ## Destroying the Demonomicon

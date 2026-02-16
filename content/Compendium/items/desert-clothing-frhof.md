@@ -18,6 +18,6 @@ aliases:
 
 *Stylish but practical, our desert clothing protects you whether you're taking a caravan of camels through the Calim Desert or exploring an ancient Mulhorandi tomb.*
 
-When you are wearing Desert Clothing and not wearing Medium or Heavy armor, you automatically succeed on saving throws against the effects of [extreme heat](Compendium/traps-hazards/extreme-heat-xdmg.md).
+When you are wearing Desert Clothing and not wearing Medium or Heavy armor, you automatically succeed on saving throws against the effects of [[extreme-heat-xdmg|extreme heat]].
 
 *Source: FRHoF p. 132*

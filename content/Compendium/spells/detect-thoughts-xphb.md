@@ -40,7 +40,7 @@ aliases: ["Detect Thoughts"]
 - **Components:** V, S, M (1 Copper Piece)
 - **Duration:** Concentration, up to 1 minute
 
-You activate one of the effects below. Until the spell ends, you can activate either effect as a [Magic](Compendium/rules/actions.md#Magic) action on your later turns.
+You activate one of the effects below. Until the spell ends, you can activate either effect as a [[actions#Magic|Magic]] action on your later turns.
 
 ## Sense Thoughts
 
@@ -52,10 +52,10 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 Target one creature you can see within 30 feet of yourself or one creature within 30 feet of yourself that you detected with the Sense Thoughts option. You learn what is most on the target's mind right now. If the target doesn't know any languages and isn't telepathic, you learn nothing.
 
-As a [Magic](Compendium/rules/actions.md#Magic) action on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a Wisdom saving throw. On a failed save, you discern the target's reasoning, emotions, and something that looms large in its mind (such as a worry, love, or hate). On a successful save, the spell ends. Either way, the target knows that you are probing into its mind, and until you shift your attention away from the target's mind, the target can take an action on its turn to make an Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check against your spell save DC, ending the spell on a success.
+As a [[actions#Magic|Magic]] action on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a Wisdom saving throw. On a failed save, you discern the target's reasoning, emotions, and something that looms large in its mind (such as a worry, love, or hate). On a successful save, the spell ends. Either way, the target knows that you are probing into its mind, and until you shift your attention away from the target's mind, the target can take an action on its turn to make an Intelligence ([[skills#Arcana|Arcana]]) check against your spell save DC, ending the spell on a success.
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](Compendium/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](Compendium/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

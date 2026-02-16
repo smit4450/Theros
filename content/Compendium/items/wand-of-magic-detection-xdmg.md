@@ -15,6 +15,6 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-This wand has 3 charges. While holding it, you can expend 1 charge to cast [Detect Magic](Compendium/spells/detect-magic-xphb.md) from it. The wand regains `1d3` expended charges daily at dawn.
+This wand has 3 charges. While holding it, you can expend 1 charge to cast [[detect-magic-xphb|Detect Magic]] from it. The wand regains `1d3` expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -31,7 +31,7 @@ You gain the following attributes when using the weapon:
 
 ## Overpaid
 
-Once a day for the first ten days after you attune to the whip, you may cast the [commune](Compendium/spells/commune-xphb.md) spell without requiring material components to contact Erebos.
+Once a day for the first ten days after you attune to the whip, you may cast the [[commune-xphb|commune]] spell without requiring material components to contact Erebos.
 
 ## Destroying the Whip of Erebos
 

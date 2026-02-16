@@ -15,63 +15,63 @@ aliases:
 
 | 2014 Stat Block | 2025 Equivalent |
 |-----------------|-----------------|
-| [Aarakocra](Compendium/bestiary/elemental/aarakocra-skirmisher-xmm.md) | [Aarakocra Skirmisher](Compendium/bestiary/elemental/aarakocra-skirmisher-xmm.md) |
-| [Acolyte](Compendium/bestiary/humanoid/priest-acolyte-xmm.md) | [Priest Acolyte](Compendium/bestiary/humanoid/priest-acolyte-xmm.md) |
-| [Adult Blue Dracolich](Compendium/bestiary/undead/dracolich-xmm.md) | [Dracolich](Compendium/bestiary/undead/dracolich-xmm.md) |
-| [Androsphinx](Compendium/bestiary/celestial/sphinx-of-valor-xmm.md) | [Sphinx of Valor](Compendium/bestiary/celestial/sphinx-of-valor-xmm.md) |
-| [Azer](Compendium/bestiary/elemental/azer-sentinel-xmm.md) | [Azer Sentinel](Compendium/bestiary/elemental/azer-sentinel-xmm.md) |
-| [Bugbear](Compendium/bestiary/fey/bugbear-warrior-xmm.md) | [Bugbear Warrior](Compendium/bestiary/fey/bugbear-warrior-xmm.md) |
-| [Bullywug](Compendium/bestiary/fey/bullywug-warrior-xmm.md) | [Bullywug Warrior](Compendium/bestiary/fey/bullywug-warrior-xmm.md) |
-| [Centaur](Compendium/bestiary/fey/centaur-trooper-xmm.md) | [Centaur Trooper](Compendium/bestiary/fey/centaur-trooper-xmm.md) |
-| [Cult Fanatic](Compendium/bestiary/humanoid/cultist-fanatic-xmm.md) | [Cultist Fanatic](Compendium/bestiary/humanoid/cultist-fanatic-xmm.md) |
-| [Cyclops](Compendium/bestiary/giant/cyclops-sentry-xmm.md) | [Cyclops Sentry](Compendium/bestiary/giant/cyclops-sentry-xmm.md) |
-| Deep Gnome | [Scout](Compendium/bestiary/humanoid/scout-xmm.md) |
-| [Drow](Compendium/bestiary/humanoid/priest-acolyte-xmm.md) | [Priest Acolyte](Compendium/bestiary/humanoid/priest-acolyte-xmm.md) |
-| [Drow Elite Warrior](Compendium/bestiary/humanoid/gladiator-xmm.md) | [Gladiator](Compendium/bestiary/humanoid/gladiator-xmm.md) |
-| [Drow Mage](Compendium/bestiary/humanoid/bandit-deceiver-xmm.md) | [Bandit Deceiver](Compendium/bestiary/humanoid/bandit-deceiver-xmm.md) |
-| [Drow Priestess of Lolth](Compendium/bestiary/humanoid/fiend-cultist-xmm.md) | [Fiend Cultist](Compendium/bestiary/humanoid/fiend-cultist-xmm.md) |
-| [Duergar](Compendium/bestiary/humanoid/spy-xmm.md) | [Spy](Compendium/bestiary/humanoid/spy-xmm.md) |
-| [Duodrone](Compendium/bestiary/construct/modron-duodrone-xmm.md) | [Modron Duodrone](Compendium/bestiary/construct/modron-duodrone-xmm.md) |
-| [Faerie Dragon (if green, blue, indigo, or violet)](Compendium/bestiary/dragon/faerie-dragon-adult-xmm.md) | [Faerie Dragon Adult](Compendium/bestiary/dragon/faerie-dragon-adult-xmm.md) |
-| [Faerie Dragon (if red, orange, or yellow)](Compendium/bestiary/dragon/faerie-dragon-youth-xmm.md) | [Faerie Dragon Youth](Compendium/bestiary/dragon/faerie-dragon-youth-xmm.md) |
-| [Fire Snake](Compendium/bestiary/elemental/salamander-fire-snake-xmm.md) | [Salamander Fire Snake](Compendium/bestiary/elemental/salamander-fire-snake-xmm.md) |
-| [Flying Sword](Compendium/bestiary/construct/animated-flying-sword-xmm.md) | [Animated Flying Sword](Compendium/bestiary/construct/animated-flying-sword-xmm.md) |
-| [Gas Spore](Compendium/bestiary/plant/gas-spore-fungus-xmm.md) | [Gas Spore Fungus](Compendium/bestiary/plant/gas-spore-fungus-xmm.md) |
-| [Giant Poisonous Snake](Compendium/bestiary/beast/giant-venomous-snake-xmm.md) | [Giant Venomous Snake](Compendium/bestiary/beast/giant-venomous-snake-xmm.md) |
-| [Gnoll](Compendium/bestiary/fiend/gnoll-warrior-xmm.md) | [Gnoll Warrior](Compendium/bestiary/fiend/gnoll-warrior-xmm.md) |
-| [Goblin](Compendium/bestiary/fey/goblin-warrior-xmm.md) | [Goblin Warrior](Compendium/bestiary/fey/goblin-warrior-xmm.md) |
-| [Grick Alpha](Compendium/bestiary/aberration/grick-ancient-xmm.md) | [Grick Ancient](Compendium/bestiary/aberration/grick-ancient-xmm.md) |
-| [Gynosphinx](Compendium/bestiary/celestial/sphinx-of-lore-xmm.md) | [Sphinx of Lore](Compendium/bestiary/celestial/sphinx-of-lore-xmm.md) |
-| [Half-Ogre (Ogrillon)](Compendium/bestiary/giant/ogrillon-ogre-xmm.md) | [Ogrillon Ogre](Compendium/bestiary/giant/ogrillon-ogre-xmm.md) |
-| [Half-Red Dragon Veteran](Compendium/bestiary/dragon/half-dragon-xmm.md) | [Half-Dragon](Compendium/bestiary/dragon/half-dragon-xmm.md) |
-| [Hobgoblin](Compendium/bestiary/fey/hobgoblin-warrior-xmm.md) | [Hobgoblin Warrior](Compendium/bestiary/fey/hobgoblin-warrior-xmm.md) |
-| [Kobold](Compendium/bestiary/dragon/kobold-warrior-xmm.md) | [Kobold Warrior](Compendium/bestiary/dragon/kobold-warrior-xmm.md) |
-| [Lizardfolk](Compendium/bestiary/humanoid/scout-xmm.md) | [Scout](Compendium/bestiary/humanoid/scout-xmm.md) |
-| [Lizardfolk Shaman](Compendium/bestiary/elemental/lizardfolk-geomancer-xmm.md) | [Lizardfolk Geomancer](Compendium/bestiary/elemental/lizardfolk-geomancer-xmm.md) |
-| [Lizard King](Compendium/bestiary/elemental/lizardfolk-sovereign-xmm.md)/[Queen](Compendium/bestiary/elemental/lizardfolk-sovereign-xmm.md) | [Lizardfolk Sovereign](Compendium/bestiary/elemental/lizardfolk-sovereign-xmm.md) |
-| [Merfolk](Compendium/bestiary/elemental/merfolk-skirmisher-xmm.md) | [Merfolk Skirmisher](Compendium/bestiary/elemental/merfolk-skirmisher-xmm.md) |
-| [Minotaur](Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) | [Minotaur of Baphomet](Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) |
-| [Monodrone](Compendium/bestiary/construct/modron-monodrone-xmm.md) | [Modron Monodrone](Compendium/bestiary/construct/modron-monodrone-xmm.md) |
-| [Orc](Compendium/bestiary/humanoid/tough-xmm.md) | [Tough](Compendium/bestiary/humanoid/tough-xmm.md) |
-| [Orc Eye of Gruumsh](Compendium/bestiary/humanoid/cultist-fanatic-xmm.md) | [Cultist Fanatic](Compendium/bestiary/humanoid/cultist-fanatic-xmm.md) |
-| [Orc War Chief](Compendium/bestiary/humanoid/tough-boss-xmm.md) | [Tough Boss](Compendium/bestiary/humanoid/tough-boss-xmm.md) |
-| [Orog](Compendium/bestiary/humanoid/berserker-xmm.md) | [Berserker](Compendium/bestiary/humanoid/berserker-xmm.md) |
-| [Pentadrone](Compendium/bestiary/construct/modron-pentadrone-xmm.md) | [Modron Pentadrone](Compendium/bestiary/construct/modron-pentadrone-xmm.md) |
-| [Poisonous Snake](Compendium/bestiary/beast/venomous-snake-xmm.md) | [Venomous Snake](Compendium/bestiary/beast/venomous-snake-xmm.md) |
-| [Quadrone](Compendium/bestiary/construct/modron-quadrone-xmm.md) | [Modron Quadrone](Compendium/bestiary/construct/modron-quadrone-xmm.md) |
-| [Quaggoth Spore Servant](Compendium/bestiary/plant/myconid-spore-servant-xmm.md) | [Myconid Spore Servant](Compendium/bestiary/plant/myconid-spore-servant-xmm.md) |
-| [Quipper](Compendium/bestiary/beast/piranha-xmm.md) | [Piranha](Compendium/bestiary/beast/piranha-xmm.md) |
-| [Rug of Smothering](Compendium/bestiary/construct/animated-rug-of-smothering-xmm.md) | [Animated Rug of Smothering](Compendium/bestiary/construct/animated-rug-of-smothering-xmm.md) |
-| [Sahuagin](Compendium/bestiary/fiend/sahuagin-warrior-xmm.md) | [Sahuagin Warrior](Compendium/bestiary/fiend/sahuagin-warrior-xmm.md) |
-| [Sahuagin Priestess](Compendium/bestiary/fiend/sahuagin-priest-xmm.md) | [Sahuagin Priest](Compendium/bestiary/fiend/sahuagin-priest-xmm.md) |
-| [Shrieker](Compendium/bestiary/plant/shrieker-fungus-xmm.md) | [Shrieker Fungus](Compendium/bestiary/plant/shrieker-fungus-xmm.md) |
-| [Swarm of Poisonous Snakes](Compendium/bestiary/beast/swarm-of-venomous-snakes-xmm.md) | [Swarm of Venomous Snakes](Compendium/bestiary/beast/swarm-of-venomous-snakes-xmm.md) |
-| [Swarm of Quippers](Compendium/bestiary/beast/swarm-of-piranhas-xmm.md) | [Swarm of Piranhas](Compendium/bestiary/beast/swarm-of-piranhas-xmm.md) |
-| [Thri-kreen](Compendium/bestiary/monstrosity/thri-kreen-marauder-xmm.md) | [Thri-kreen Marauder](Compendium/bestiary/monstrosity/thri-kreen-marauder-xmm.md) |
-| [Thug](Compendium/bestiary/humanoid/tough-xmm.md) | [Tough](Compendium/bestiary/humanoid/tough-xmm.md) |
-| [Tribal Warrior](Compendium/bestiary/humanoid/warrior-infantry-xmm.md) | [Warrior Infantry](Compendium/bestiary/humanoid/warrior-infantry-xmm.md) |
-| [Tridrone](Compendium/bestiary/construct/modron-tridrone-xmm.md) | [Modron Tridrone](Compendium/bestiary/construct/modron-tridrone-xmm.md) |
-| [Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md) | [Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md) |
-| [Young Red Shadow Dragon](Compendium/bestiary/dragon/shadow-dragon-xmm.md) | [Shadow Dragon](Compendium/bestiary/dragon/shadow-dragon-xmm.md) |
-| [Yuan-ti Pureblood](Compendium/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) | [Yuan-ti Infiltrator](Compendium/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) |
+| [[aarakocra-skirmisher-xmm|Aarakocra]] | [[aarakocra-skirmisher-xmm|Aarakocra Skirmisher]] |
+| [[priest-acolyte-xmm|Acolyte]] | [[priest-acolyte-xmm|Priest Acolyte]] |
+| [[dracolich-xmm|Adult Blue Dracolich]] | [[dracolich-xmm|Dracolich]] |
+| [[sphinx-of-valor-xmm|Androsphinx]] | [[sphinx-of-valor-xmm|Sphinx of Valor]] |
+| [[azer-sentinel-xmm|Azer]] | [[azer-sentinel-xmm|Azer Sentinel]] |
+| [[bugbear-warrior-xmm|Bugbear]] | [[bugbear-warrior-xmm|Bugbear Warrior]] |
+| [[bullywug-warrior-xmm|Bullywug]] | [[bullywug-warrior-xmm|Bullywug Warrior]] |
+| [[centaur-trooper-xmm|Centaur]] | [[centaur-trooper-xmm|Centaur Trooper]] |
+| [[cultist-fanatic-xmm|Cult Fanatic]] | [[cultist-fanatic-xmm|Cultist Fanatic]] |
+| [[cyclops-sentry-xmm|Cyclops]] | [[cyclops-sentry-xmm|Cyclops Sentry]] |
+| Deep Gnome | [[scout-xmm|Scout]] |
+| [[priest-acolyte-xmm|Drow]] | [[priest-acolyte-xmm|Priest Acolyte]] |
+| [[gladiator-xmm|Drow Elite Warrior]] | [[gladiator-xmm|Gladiator]] |
+| [[bandit-deceiver-xmm|Drow Mage]] | [[bandit-deceiver-xmm|Bandit Deceiver]] |
+| [[fiend-cultist-xmm|Drow Priestess of Lolth]] | [[fiend-cultist-xmm|Fiend Cultist]] |
+| [[spy-xmm|Duergar]] | [[spy-xmm|Spy]] |
+| [[modron-duodrone-xmm|Duodrone]] | [[modron-duodrone-xmm|Modron Duodrone]] |
+| [[faerie-dragon-adult-xmm|Faerie Dragon (if green, blue, indigo, or violet)]] | [[faerie-dragon-adult-xmm|Faerie Dragon Adult]] |
+| [[faerie-dragon-youth-xmm|Faerie Dragon (if red, orange, or yellow)]] | [[faerie-dragon-youth-xmm|Faerie Dragon Youth]] |
+| [[salamander-fire-snake-xmm|Fire Snake]] | [[salamander-fire-snake-xmm|Salamander Fire Snake]] |
+| [[animated-flying-sword-xmm|Flying Sword]] | [[animated-flying-sword-xmm|Animated Flying Sword]] |
+| [[gas-spore-fungus-xmm|Gas Spore]] | [[gas-spore-fungus-xmm|Gas Spore Fungus]] |
+| [[giant-venomous-snake-xmm|Giant Poisonous Snake]] | [[giant-venomous-snake-xmm|Giant Venomous Snake]] |
+| [[gnoll-warrior-xmm|Gnoll]] | [[gnoll-warrior-xmm|Gnoll Warrior]] |
+| [[goblin-warrior-xmm|Goblin]] | [[goblin-warrior-xmm|Goblin Warrior]] |
+| [[grick-ancient-xmm|Grick Alpha]] | [[grick-ancient-xmm|Grick Ancient]] |
+| [[sphinx-of-lore-xmm|Gynosphinx]] | [[sphinx-of-lore-xmm|Sphinx of Lore]] |
+| [[ogrillon-ogre-xmm|Half-Ogre (Ogrillon)]] | [[ogrillon-ogre-xmm|Ogrillon Ogre]] |
+| [[half-dragon-xmm|Half-Red Dragon Veteran]] | [[half-dragon-xmm|Half-Dragon]] |
+| [[hobgoblin-warrior-xmm|Hobgoblin]] | [[hobgoblin-warrior-xmm|Hobgoblin Warrior]] |
+| [[kobold-warrior-xmm|Kobold]] | [[kobold-warrior-xmm|Kobold Warrior]] |
+| [[scout-xmm|Lizardfolk]] | [[scout-xmm|Scout]] |
+| [[lizardfolk-geomancer-xmm|Lizardfolk Shaman]] | [[lizardfolk-geomancer-xmm|Lizardfolk Geomancer]] |
+| [[lizardfolk-sovereign-xmm|Lizard King]]/[[lizardfolk-sovereign-xmm|Queen]] | [[lizardfolk-sovereign-xmm|Lizardfolk Sovereign]] |
+| [[merfolk-skirmisher-xmm|Merfolk]] | [[merfolk-skirmisher-xmm|Merfolk Skirmisher]] |
+| [[minotaur-of-baphomet-xmm|Minotaur]] | [[minotaur-of-baphomet-xmm|Minotaur of Baphomet]] |
+| [[modron-monodrone-xmm|Monodrone]] | [[modron-monodrone-xmm|Modron Monodrone]] |
+| [[tough-xmm|Orc]] | [[tough-xmm|Tough]] |
+| [[cultist-fanatic-xmm|Orc Eye of Gruumsh]] | [[cultist-fanatic-xmm|Cultist Fanatic]] |
+| [[tough-boss-xmm|Orc War Chief]] | [[tough-boss-xmm|Tough Boss]] |
+| [[berserker-xmm|Orog]] | [[berserker-xmm|Berserker]] |
+| [[modron-pentadrone-xmm|Pentadrone]] | [[modron-pentadrone-xmm|Modron Pentadrone]] |
+| [[venomous-snake-xmm|Poisonous Snake]] | [[venomous-snake-xmm|Venomous Snake]] |
+| [[modron-quadrone-xmm|Quadrone]] | [[modron-quadrone-xmm|Modron Quadrone]] |
+| [[myconid-spore-servant-xmm|Quaggoth Spore Servant]] | [[myconid-spore-servant-xmm|Myconid Spore Servant]] |
+| [[piranha-xmm|Quipper]] | [[piranha-xmm|Piranha]] |
+| [[animated-rug-of-smothering-xmm|Rug of Smothering]] | [[animated-rug-of-smothering-xmm|Animated Rug of Smothering]] |
+| [[sahuagin-warrior-xmm|Sahuagin]] | [[sahuagin-warrior-xmm|Sahuagin Warrior]] |
+| [[sahuagin-priest-xmm|Sahuagin Priestess]] | [[sahuagin-priest-xmm|Sahuagin Priest]] |
+| [[shrieker-fungus-xmm|Shrieker]] | [[shrieker-fungus-xmm|Shrieker Fungus]] |
+| [[swarm-of-venomous-snakes-xmm|Swarm of Poisonous Snakes]] | [[swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]] |
+| [[swarm-of-piranhas-xmm|Swarm of Quippers]] | [[swarm-of-piranhas-xmm|Swarm of Piranhas]] |
+| [[thri-kreen-marauder-xmm|Thri-kreen]] | [[thri-kreen-marauder-xmm|Thri-kreen Marauder]] |
+| [[tough-xmm|Thug]] | [[tough-xmm|Tough]] |
+| [[warrior-infantry-xmm|Tribal Warrior]] | [[warrior-infantry-xmm|Warrior Infantry]] |
+| [[modron-tridrone-xmm|Tridrone]] | [[modron-tridrone-xmm|Modron Tridrone]] |
+| [[warrior-veteran-xmm|Veteran]] | [[warrior-veteran-xmm|Warrior Veteran]] |
+| [[shadow-dragon-xmm|Young Red Shadow Dragon]] | [[shadow-dragon-xmm|Shadow Dragon]] |
+| [[yuan-ti-infiltrator-xmm|Yuan-ti Pureblood]] | [[yuan-ti-infiltrator-xmm|Yuan-ti Infiltrator]] |
 ^stat-block-conversions

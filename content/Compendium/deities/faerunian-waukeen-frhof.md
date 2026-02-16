@@ -22,7 +22,7 @@ aliases:
 
 Waukeen is a god of wealth and trade. She is interested in anything that increases trade and the flow of money, whether new trade routes, new inventions, or the whim of changing fashion. Waukeen keeps cordial relationships with other deities, save for Mask, who is her only real enemy—larceny is bad for business, after all.
 
-Waukeen takes the form of a splendidly dressed woman with long golden hair, often accompanied by two golden [Lions](Compendium/bestiary/beast/lion-xmm.md). She might more subtly manifest as sprouting golden daffodils, or a stack of gold coins that writhes and slithers like a snake. When she sends an emissary, she sends an awakened golden [Cat](Compendium/bestiary/beast/cat-xmm.md), [Lion](Compendium/bestiary/beast/lion-xmm.md), or eagle ([Hawk](Compendium/bestiary/beast/hawk-xmm.md)), or she might send a [Sphinx of Lore](Compendium/bestiary/celestial/sphinx-of-lore-xmm.md).
+Waukeen takes the form of a splendidly dressed woman with long golden hair, often accompanied by two golden [[lion-xmm|Lions]]. She might more subtly manifest as sprouting golden daffodils, or a stack of gold coins that writhes and slithers like a snake. When she sends an emissary, she sends an awakened golden [[cat-xmm|Cat]], [[lion-xmm|Lion]], or eagle ([[hawk-xmm|Hawk]]), or she might send a [[sphinx-of-lore-xmm|Sphinx of Lore]].
 
 Her ardent worshipers include shopkeepers, members of trade organizations, wealthy merchants, caravan guides, itinerant peddlers, moneychangers, and smugglers. Greed motivates those who take Waukeen as a patron, but the Coinmaiden frowns on misers and smiles on the industrious and the profligate. For these reasons, priests who bear her holy symbol are welcome in towns and cities.
 

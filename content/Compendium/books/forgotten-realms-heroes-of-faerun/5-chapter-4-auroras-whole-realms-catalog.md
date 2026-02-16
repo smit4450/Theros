@@ -30,37 +30,37 @@ The following equipment can be purchased through *Aurora's Whole Realms Catalog*
 
 This section describes adventuring gear used throughout the Realms.
 
-![Adventuring Gear](Compendium/tables/adventuring-gear-frhof.md)
+![[adventuring-gear-frhof|Adventuring Gear]]
 
 ## Mechanical Wonders
 
 Calishites rely on the technological marvels known as Mechanical Wonders.
 
-![Mechanical Wonders](Compendium/tables/mechanical-wonders-frhof.md)
+![[mechanical-wonders-frhof|Mechanical Wonders]]
 
 ## Mounts and Other Animals
 
 People in Faerûn use animals for transportation and other tasks.
 
-![Mounts and Other Animals](Compendium/tables/mounts-and-other-animals-frhof.md)
+![[mounts-and-other-animals-frhof|Mounts and Other Animals]]
 
 ## Tools
 
 The Musical Instruments described here are used by musicians across Faerûn.
 
-![Tools](Compendium/tables/tools-frhof.md)
+![[tools-frhof|Tools]]
 
 ## Travel
 
 Travelers in the Realms might use interesting modes of transport.
 
-![Travel](Compendium/tables/travel-frhof.md)
+![[travel-frhof|Travel]]
 
 ### Black Coach Service (1 GP/Trip)
 
 *Travel in the city of Baldur's Gate should be comfortable, elegant, and discreet. Narwin Cottle's magical black coaches are all three. Tell your driver Aurora sent you*.
 
-Each of Cottle's black coaches is a Carriage (see the "Player's Handbook") keyed to a unique sigil sequence. While inside a black coach, a creature can take a [Magic](Compendium/rules/actions.md#Magic) action to turn a combination dial and input a sigil sequence belonging to another black coach. All creatures inside the coach then teleport to that destination coach. If the destination coach is occupied, the teleport fails and the action is wasted.
+Each of Cottle's black coaches is a Carriage (see the "Player's Handbook") keyed to a unique sigil sequence. While inside a black coach, a creature can take a [[actions#Magic|Magic]] action to turn a combination dial and input a sigil sequence belonging to another black coach. All creatures inside the coach then teleport to that destination coach. If the destination coach is occupied, the teleport fails and the action is wasted.
 
 Alternatively, a creature inside the coach can use the combination dial to input a random sequence, teleporting all creatures inside to a random coach in Cottle's fleet.
 
@@ -70,7 +70,7 @@ Alternatively, a creature inside the coach can use the combination dial to input
 
 *We've contracted with expert sled drivers to provide travel services around Icewind Dale, the High Ice, the Great Glacier, and other realms of the North. Each guide brings their own sled and team of six sled dogs or axe beaks. Authentic local food is provided for you and your companions. Contracts are per journey, paid half in advance and half on arrival*.
 
-Sled service includes a [Scout](Compendium/bestiary/humanoid/scout-xmm.md) and six [Axe Beaks](Compendium/bestiary/monstrosity/axe-beak-xmm.md) or sled dogs ([Wolves](Compendium/bestiary/beast/wolf-xmm.md)). See the "Monster Manual" for these stat blocks.
+Sled service includes a [[scout-xmm|Scout]] and six [[axe-beak-xmm|Axe Beaks]] or sled dogs ([[wolf-xmm|Wolves]]). See the "Monster Manual" for these stat blocks.
 
 ![](Compendium/books/forgotten-realms-heroes-of-faerun/img/144-04-017-sled-services-and-sled-dogs.webp#center)
 
@@ -78,4 +78,4 @@ Sled service includes a [Scout](Compendium/bestiary/humanoid/scout-xmm.md) and s
 
 Often found in the Dalelands, the following vehicle is used by folk looking to protect their cargo.
 
-![Vehicles](Compendium/tables/vehicles-frhof.md)
+![[vehicles-frhof|Vehicles]]

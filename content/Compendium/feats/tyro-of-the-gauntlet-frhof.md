@@ -14,6 +14,6 @@ aliases:
 
 You gain the following benefits.
 
-**Stand as One.** When an ally within 5 feet of you is subjected to an effect that would push or pull it, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to prevent that ally from being pushed or pulled. To receive this benefit, the ally can't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+**Stand as One.** When an ally within 5 feet of you is subjected to an effect that would push or pull it, you can take a [[reaction-xphb|Reaction]] to prevent that ally from being pushed or pulled. To receive this benefit, the ally can't have the [[conditions#Incapacitated|Incapacitated]] condition.
 
-**Vigilant.** When you take the [Ready](Compendium/rules/actions.md#Ready) action, the next attack roll made against you has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) before the start of your next turn.
+**Vigilant.** When you take the [[actions#Ready|Ready]] action, the next attack roll made against you has [[disadvantage-xphb|Disadvantage]] before the start of your next turn.

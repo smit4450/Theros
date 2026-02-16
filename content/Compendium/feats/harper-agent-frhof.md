@@ -16,6 +16,6 @@ You gain the following benefits.
 
 **Thieves' Cant.** You know Thieves' Cant.
 
-**Instrument Training.** You gain proficiency with a [Musical Instrument](Compendium/items/musical-instrument-xphb.md) of your choice.
+**Instrument Training.** You gain proficiency with a [[musical-instrument-xphb|Musical Instrument]] of your choice.
 
-**Distracting Melody.** When you take the [Help](Compendium/rules/actions.md#Help) action to assist an ally's attack roll, the enemy you're distracting can be within 30 feet of you, rather than within 5 feet of you, provided the enemy can see or hear you.
+**Distracting Melody.** When you take the [[actions#Help|Help]] action to assist an ally's attack roll, the enemy you're distracting can be within 30 feet of you, rather than within 5 feet of you, provided the enemy can see or hear you.

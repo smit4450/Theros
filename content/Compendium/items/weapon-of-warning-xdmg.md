@@ -83,7 +83,7 @@ The weapon magically awakens each subject who is sleeping naturally when combat 
 
 ## Supernatural Readiness
 
-Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on its [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) rolls.
+Each subject has [[advantage-xphb|Advantage]] on its [[initiative-xphb|Initiative]] rolls.
 
 **Variants**:
 - [Antimatter Rifle of Warning](#Antimatter%20Rifle%20of%20Warning)
@@ -144,14 +144,14 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Automatic Rifle of Warning
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Burst Fire](Compendium/rules/item-properties.md#Burst%20Fire), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Burst%20Fire|Burst Fire]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 8.0 lbs.
 
 ### Battleaxe of Warning
@@ -159,40 +159,40 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Blowgun of Warning
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Loading](Compendium/rules/item-properties.md#Loading)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
 - **Weight**: 1.0 lbs.
 
 ### Club of Warning
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Dagger of Warning
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 ### Dart of Warning
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 0.25 lbs.
 
 ### Double-Bladed Scimitar of Warning
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](Compendium/rules/item-properties.md#Two-Handed), special
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]], special
 - **Weight**: 6.0 lbs.
 
 ### Flail of Warning
@@ -203,127 +203,127 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 ### Glaive of Warning
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Greataxe of Warning
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Greatclub of Warning
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Greatsword of Warning
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Halberd of Warning
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Hand Crossbow of Warning
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Light](Compendium/rules/item-properties.md#Light), [Loading](Compendium/rules/item-properties.md#Loading)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Light|Light]], [[item-properties#Loading|Loading]]
 - **Weight**: 3.0 lbs.
 
 ### Handaxe of Warning
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Heavy Crossbow of Warning
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Heavy](Compendium/rules/item-properties.md#Heavy), [Loading](Compendium/rules/item-properties.md#Loading), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
 ### Hooked Shortspear of Warning
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Hoopak of Warning
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Finesse](Compendium/rules/item-properties.md#Finesse), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed), special
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Finesse|Finesse]], [[item-properties#Two-Handed|Two-Handed]], special
 - **Weight**: 2.0 lbs.
 
 ### Hunting Rifle of Warning
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 8.0 lbs.
 
 ### Javelin of Warning
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Lance of Warning
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
 - **Weight**: 6.0 lbs.
 
 ### Laser Pistol of Warning
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
 - **Weight**: 2.0 lbs.
 
 ### Laser Rifle of Warning
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Light Crossbow of Warning
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Loading](Compendium/rules/item-properties.md#Loading), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 5.0 lbs.
 
 ### Light Hammer of Warning
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Light Repeating Crossbow of Warning
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 5.0 lbs.
 
 ### Longbow of Warning
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
 ### Longsword of Warning
@@ -331,7 +331,7 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Mace of Warning
@@ -342,7 +342,7 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 ### Maul of Warning
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Morningstar of Warning
@@ -354,20 +354,20 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Loading](Compendium/rules/item-properties.md#Loading), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Pike of Warning
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
 ### Pistol of Warning
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Loading](Compendium/rules/item-properties.md#Loading)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
 - **Weight**: 3.0 lbs.
 
 ### Quarterstaff of Warning
@@ -375,66 +375,66 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Rapier of Warning
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Revolver of Warning
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
 - **Weight**: 3.0 lbs.
 
 ### Scimitar of Warning
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Semiautomatic Pistol of Warning
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
 - **Weight**: 3.0 lbs.
 
 ### Shortbow of Warning
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
 ### Shortsword of Warning
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Shotgun of Warning
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Sickle of Warning
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Sling of Warning
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition)
+- **Properties**: [[item-properties#Ammunition|Ammunition]]
 
 ### Spear of Warning
 
@@ -442,7 +442,7 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Staff of Warning
@@ -450,7 +450,7 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Trident of Warning
@@ -459,7 +459,7 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### War Pick of Warning
@@ -467,7 +467,7 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 2.0 lbs.
 
 ### Warhammer of Warning
@@ -475,13 +475,13 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 5.0 lbs.
 
 ### Whip of Warning
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Reach](Compendium/rules/item-properties.md#Reach)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
 - **Weight**: 3.0 lbs.
 
 ### Wooden Staff of Warning
@@ -489,14 +489,14 @@ Each subject has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) o
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Yklwa of Warning
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [[item-properties#Thrown|Thrown]]
 - **Weight**: 3.0 lbs.
 
 

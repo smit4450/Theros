@@ -13,6 +13,6 @@ aliases:
 ![](Compendium/items/img/cloak-of-billowing.webp#right)
 
 
-While wearing this cloak, you can take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to make it billow dramatically for 1 minute.
+While wearing this cloak, you can take a [[bonus-action-xphb|Bonus Action]] to make it billow dramatically for 1 minute.
 
 *Source: Dungeon Master's Guide (2024) p. 244*

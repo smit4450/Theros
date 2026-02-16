@@ -15,12 +15,12 @@ aliases:
 
 | dice: 1d8 | Stone |
 |-----------|-------|
-| 1 | [Black opal](Compendium/items/black-opal-xdmg.md) (dark green with black mottling and golden flecks) |
-| 2 | [Blue sapphire](Compendium/items/blue-sapphire-xdmg.md) (medium blue) |
-| 3 | [Emerald](Compendium/items/emerald-xdmg.md) (deep bright green) |
-| 4 | [Fire opal](Compendium/items/fire-opal-xdmg.md) (fiery red) |
-| 5 | [Opal](Compendium/items/opal-xdmg.md) (pale blue with green and golden mottling) |
-| 6 | [Star ruby](Compendium/items/star-ruby-xdmg.md) (ruby with white star-shaped center) |
-| 7 | [Star sapphire](Compendium/items/star-sapphire-xdmg.md) (blue sapphire with white star-shaped center) |
-| 8 | [Yellow sapphire](Compendium/items/yellow-sapphire-xdmg.md) (fiery yellow or yellow green) |
+| 1 | [[black-opal-xdmg|Black opal]] (dark green with black mottling and golden flecks) |
+| 2 | [[blue-sapphire-xdmg|Blue sapphire]] (medium blue) |
+| 3 | [[emerald-xdmg|Emerald]] (deep bright green) |
+| 4 | [[fire-opal-xdmg|Fire opal]] (fiery red) |
+| 5 | [[opal-xdmg|Opal]] (pale blue with green and golden mottling) |
+| 6 | [[star-ruby-xdmg|Star ruby]] (ruby with white star-shaped center) |
+| 7 | [[star-sapphire-xdmg|Star sapphire]] (blue sapphire with white star-shaped center) |
+| 8 | [[yellow-sapphire-xdmg|Yellow sapphire]] (fiery yellow or yellow green) |
 ^1000-gp-gemstones

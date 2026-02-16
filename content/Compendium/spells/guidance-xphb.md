@@ -34,6 +34,6 @@ aliases: ["Guidance"]
 
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds `1d4` to any ability check using the chosen skill.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of the Stars)](Compendium/lists/list-spells-classes-circle-of-the-stars-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [Druid (Circle of the Stars)](Compendium/lists/list-spells-classes-circle-of-the-stars-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid|Druid]]
 
 *Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

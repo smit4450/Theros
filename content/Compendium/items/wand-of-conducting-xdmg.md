@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-This wand has 3 charges. While holding it, you can take a [Magic](Compendium/rules/actions.md#Magic) action to expend 1 charge and create orchestral music by waving it around. The music can be heard out to 120 feet and ends when you stop waving the wand.
+This wand has 3 charges. While holding it, you can take a [[actions#Magic|Magic]] action to expend 1 charge and create orchestral music by waving it around. The music can be heard out to 120 feet and ends when you stop waving the wand.
 
 ## Regaining Charges
 

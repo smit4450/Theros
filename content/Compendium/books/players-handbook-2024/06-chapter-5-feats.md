@@ -45,99 +45,99 @@ The benefits of a feat are detailed after any prerequisites are listed. If you h
 
 A feat can be taken only once unless its description states otherwise in a "Repeatable" subsection.
 
-![Repeatable; Feat List](Compendium/tables/repeatable-feat-list-xphb.md)
+![[repeatable-feat-list-xphb|Repeatable; Feat List]]
 
 ## Origin Feats
 
 These feats are in the Origin category.
 
-- [Alert](Compendium/feats/alert-xphb.md)  
-- [Crafter](Compendium/feats/crafter-xphb.md)  
-- [Healer](Compendium/feats/healer-xphb.md)  
-- [Lucky](Compendium/feats/lucky-xphb.md)  
-- [Magic Initiate](Compendium/feats/magic-initiate-xphb.md)  
-- [Musician](Compendium/feats/musician-xphb.md)  
-- [Savage Attacker](Compendium/feats/savage-attacker-xphb.md)  
-- [Skilled](Compendium/feats/skilled-xphb.md)  
-- [Tavern Brawler](Compendium/feats/tavern-brawler-xphb.md)  
-- [Tough](Compendium/feats/tough-xphb.md)  
+- [[alert-xphb|Alert]]  
+- [[crafter-xphb|Crafter]]  
+- [[healer-xphb|Healer]]  
+- [[lucky-xphb|Lucky]]  
+- [[magic-initiate-xphb|Magic Initiate]]  
+- [[musician-xphb|Musician]]  
+- [[savage-attacker-xphb|Savage Attacker]]  
+- [[skilled-xphb|Skilled]]  
+- [[tavern-brawler-xphb|Tavern Brawler]]  
+- [[tough-xphb|Tough]]  
 
 ## General Feats
 
 These feats are in the General category.
 
-- [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md)  
-- [Actor](Compendium/feats/actor-xphb.md)  
-- [Athlete](Compendium/feats/athlete-xphb.md)  
-- [Charger](Compendium/feats/charger-xphb.md)  
-- [Chef](Compendium/feats/chef-xphb.md)  
-- [Crossbow Expert](Compendium/feats/crossbow-expert-xphb.md)  
-- [Crusher](Compendium/feats/crusher-xphb.md)  
-- [Defensive Duelist](Compendium/feats/defensive-duelist-xphb.md)  
-- [Dual Wielder](Compendium/feats/dual-wielder-xphb.md)  
-- [Durable](Compendium/feats/durable-xphb.md)  
-- [Elemental Adept](Compendium/feats/elemental-adept-xphb.md)  
-- [Fey-Touched](Compendium/feats/fey-touched-xphb.md)  
-- [Grappler](Compendium/feats/grappler-xphb.md)  
-- [Great Weapon Master](Compendium/feats/great-weapon-master-xphb.md)  
-- [Heavily Armored](Compendium/feats/heavily-armored-xphb.md)  
-- [Heavy Armor Master](Compendium/feats/heavy-armor-master-xphb.md)  
-- [Inspiring Leader](Compendium/feats/inspiring-leader-xphb.md)  
-- [Keen Mind](Compendium/feats/keen-mind-xphb.md)  
-- [Lightly Armored](Compendium/feats/lightly-armored-xphb.md)  
-- [Mage Slayer](Compendium/feats/mage-slayer-xphb.md)  
-- [Martial Weapon Training](Compendium/feats/martial-weapon-training-xphb.md)  
-- [Medium Armor Master](Compendium/feats/medium-armor-master-xphb.md)  
-- [Moderately Armored](Compendium/feats/moderately-armored-xphb.md)  
-- [Mounted Combatant](Compendium/feats/mounted-combatant-xphb.md)  
-- [Observant](Compendium/feats/observant-xphb.md)  
-- [Piercer](Compendium/feats/piercer-xphb.md)  
-- [Poisoner](Compendium/feats/poisoner-xphb.md)  
-- [Polearm Master](Compendium/feats/polearm-master-xphb.md)  
-- [Resilient](Compendium/feats/resilient-xphb.md)  
-- [Ritual Caster](Compendium/feats/ritual-caster-xphb.md)  
-- [Sentinel](Compendium/feats/sentinel-xphb.md)  
-- [Shadow-Touched](Compendium/feats/shadow-touched-xphb.md)  
-- [Sharpshooter](Compendium/feats/sharpshooter-xphb.md)  
-- [Shield Master](Compendium/feats/shield-master-xphb.md)  
-- [Skill Expert](Compendium/feats/skill-expert-xphb.md)  
-- [Skulker](Compendium/feats/skulker-xphb.md)  
-- [Slasher](Compendium/feats/slasher-xphb.md)  
-- [Speedy](Compendium/feats/speedy-xphb.md)  
-- [Spell Sniper](Compendium/feats/spell-sniper-xphb.md)  
-- [Telekinetic](Compendium/feats/telekinetic-xphb.md)  
-- [Telepathic](Compendium/feats/telepathic-xphb.md)  
-- [War Caster](Compendium/feats/war-caster-xphb.md)  
-- [Weapon Master](Compendium/feats/weapon-master-xphb.md)  
+- [[ability-score-improvement-xphb|Ability Score Improvement]]  
+- [[actor-xphb|Actor]]  
+- [[athlete-xphb|Athlete]]  
+- [[charger-xphb|Charger]]  
+- [[chef-xphb|Chef]]  
+- [[crossbow-expert-xphb|Crossbow Expert]]  
+- [[crusher-xphb|Crusher]]  
+- [[defensive-duelist-xphb|Defensive Duelist]]  
+- [[dual-wielder-xphb|Dual Wielder]]  
+- [[durable-xphb|Durable]]  
+- [[elemental-adept-xphb|Elemental Adept]]  
+- [[fey-touched-xphb|Fey-Touched]]  
+- [[grappler-xphb|Grappler]]  
+- [[great-weapon-master-xphb|Great Weapon Master]]  
+- [[heavily-armored-xphb|Heavily Armored]]  
+- [[heavy-armor-master-xphb|Heavy Armor Master]]  
+- [[inspiring-leader-xphb|Inspiring Leader]]  
+- [[keen-mind-xphb|Keen Mind]]  
+- [[lightly-armored-xphb|Lightly Armored]]  
+- [[mage-slayer-xphb|Mage Slayer]]  
+- [[martial-weapon-training-xphb|Martial Weapon Training]]  
+- [[medium-armor-master-xphb|Medium Armor Master]]  
+- [[moderately-armored-xphb|Moderately Armored]]  
+- [[mounted-combatant-xphb|Mounted Combatant]]  
+- [[observant-xphb|Observant]]  
+- [[piercer-xphb|Piercer]]  
+- [[poisoner-xphb|Poisoner]]  
+- [[polearm-master-xphb|Polearm Master]]  
+- [[resilient-xphb|Resilient]]  
+- [[ritual-caster-xphb|Ritual Caster]]  
+- [[sentinel-xphb|Sentinel]]  
+- [[shadow-touched-xphb|Shadow-Touched]]  
+- [[sharpshooter-xphb|Sharpshooter]]  
+- [[shield-master-xphb|Shield Master]]  
+- [[skill-expert-xphb|Skill Expert]]  
+- [[skulker-xphb|Skulker]]  
+- [[slasher-xphb|Slasher]]  
+- [[speedy-xphb|Speedy]]  
+- [[spell-sniper-xphb|Spell Sniper]]  
+- [[telekinetic-xphb|Telekinetic]]  
+- [[telepathic-xphb|Telepathic]]  
+- [[war-caster-xphb|War Caster]]  
+- [[weapon-master-xphb|Weapon Master]]  
 
 ## Fighting Style Feats
 
 These feats are in the Fighting Style category.
 
-- [Archery](Compendium/feats/archery-xphb.md)  
-- [Blind Fighting](Compendium/feats/blind-fighting-xphb.md)  
-- [Defense](Compendium/feats/defense-xphb.md)  
-- [Dueling](Compendium/feats/dueling-xphb.md)  
-- [Great Weapon Fighting](Compendium/feats/great-weapon-fighting-xphb.md)  
-- [Interception](Compendium/feats/interception-xphb.md)  
-- [Protection](Compendium/feats/protection-xphb.md)  
-- [Thrown Weapon Fighting](Compendium/feats/thrown-weapon-fighting-xphb.md)  
-- [Two-Weapon Fighting](Compendium/feats/two-weapon-fighting-xphb.md)  
-- [Unarmed Fighting](Compendium/feats/unarmed-fighting-xphb.md)  
+- [[archery-xphb|Archery]]  
+- [[blind-fighting-xphb|Blind Fighting]]  
+- [[defense-xphb|Defense]]  
+- [[dueling-xphb|Dueling]]  
+- [[great-weapon-fighting-xphb|Great Weapon Fighting]]  
+- [[interception-xphb|Interception]]  
+- [[protection-xphb|Protection]]  
+- [[thrown-weapon-fighting-xphb|Thrown Weapon Fighting]]  
+- [[two-weapon-fighting-xphb|Two-Weapon Fighting]]  
+- [[unarmed-fighting-xphb|Unarmed Fighting]]  
 
 ## Epic Boon Feats
 
 These feats are in the Epic Boon category.
 
-- [Boon of Combat Prowess](Compendium/feats/boon-of-combat-prowess-xphb.md)  
-- [Boon of Dimensional Travel](Compendium/feats/boon-of-dimensional-travel-xphb.md)  
-- [Boon of Energy Resistance](Compendium/feats/boon-of-energy-resistance-xphb.md)  
-- [Boon of Fate](Compendium/feats/boon-of-fate-xphb.md)  
-- [Boon of Fortitude](Compendium/feats/boon-of-fortitude-xphb.md)  
-- [Boon of Irresistible Offense](Compendium/feats/boon-of-irresistible-offense-xphb.md)  
-- [Boon of Recovery](Compendium/feats/boon-of-recovery-xphb.md)  
-- [Boon of Skill](Compendium/feats/boon-of-skill-xphb.md)  
-- [Boon of Speed](Compendium/feats/boon-of-speed-xphb.md)  
-- [Boon of Spell Recall](Compendium/feats/boon-of-spell-recall-xphb.md)  
-- [Boon of the Night Spirit](Compendium/feats/boon-of-the-night-spirit-xphb.md)  
-- [Boon of Truesight](Compendium/feats/boon-of-truesight-xphb.md)
+- [[boon-of-combat-prowess-xphb|Boon of Combat Prowess]]  
+- [[boon-of-dimensional-travel-xphb|Boon of Dimensional Travel]]  
+- [[boon-of-energy-resistance-xphb|Boon of Energy Resistance]]  
+- [[boon-of-fate-xphb|Boon of Fate]]  
+- [[boon-of-fortitude-xphb|Boon of Fortitude]]  
+- [[boon-of-irresistible-offense-xphb|Boon of Irresistible Offense]]  
+- [[boon-of-recovery-xphb|Boon of Recovery]]  
+- [[boon-of-skill-xphb|Boon of Skill]]  
+- [[boon-of-speed-xphb|Boon of Speed]]  
+- [[boon-of-spell-recall-xphb|Boon of Spell Recall]]  
+- [[boon-of-the-night-spirit-xphb|Boon of the Night Spirit]]  
+- [[boon-of-truesight-xphb|Boon of Truesight]]

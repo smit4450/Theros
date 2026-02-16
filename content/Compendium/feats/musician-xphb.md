@@ -16,4 +16,4 @@ You gain the following benefits.
 
 **Instrument Training.** You gain proficiency with three Musical Instruments of your choice.
 
-**Encouraging Song.** As you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can play a song on a [Musical Instrument](Compendium/items/musical-instrument-xphb.md) with which you have proficiency and give [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md) to allies who hear the song. The number of allies you can affect in this way equals your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md).
+**Encouraging Song.** As you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]], you can play a song on a [[musical-instrument-xphb|Musical Instrument]] with which you have proficiency and give [[heroic-inspiration-xphb|Heroic Inspiration]] to allies who hear the song. The number of allies you can affect in this way equals your [[proficiency-xphb|Proficiency Bonus]].

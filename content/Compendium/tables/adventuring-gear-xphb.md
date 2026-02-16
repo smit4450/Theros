@@ -15,86 +15,86 @@ aliases:
 
 | Item | Weight | Cost |
 |------|--------|------|
-| [Acid](Compendium/items/acid-xphb.md) | 1 lb. | 25 GP |
-| [Alchemist's Fire](Compendium/items/alchemists-fire-xphb.md) | 1 lb. | 50 GP |
+| [[acid-xphb|Acid]] | 1 lb. | 25 GP |
+| [[alchemists-fire-xphb|Alchemist's Fire]] | 1 lb. | 50 GP |
 | Ammunition | Varies | Varies |
-| [Antitoxin](Compendium/items/antitoxin-xphb.md) | — | 50 GP |
-| [Arcane Focus](Compendium/items/arcane-focus-xphb.md) | Varies | Varies |
-| [Backpack](Compendium/items/backpack-xphb.md) | 5 lb. | 2 GP |
-| [Ball Bearings](Compendium/items/ball-bearings-xphb.md) | 2 lb. | 1 GP |
-| [Barrel](Compendium/items/barrel-xphb.md) | 70 lb. | 2 GP |
-| [Basket](Compendium/items/basket-xphb.md) | 2 lb. | 4 SP |
-| [Bedroll](Compendium/items/bedroll-xphb.md) | 7 lb. | 1 GP |
-| [Bell](Compendium/items/bell-xphb.md) | — | 1 GP |
-| [Blanket](Compendium/items/blanket-xphb.md) | 3 lb. | 5 SP |
-| [Block and Tackle](Compendium/items/block-and-tackle-xphb.md) | 5 lb. | 1 GP |
-| [Book](Compendium/items/book-xphb.md) | 5 lb. | 25 GP |
-| [Bottle, Glass](Compendium/items/glass-bottle-xphb.md) | 2 lb. | 2 GP |
-| [Bucket](Compendium/items/bucket-xphb.md) | 2 lb. | 5 CP |
-| [Burglar's Pack](Compendium/items/burglars-pack-xphb.md) | 42 lb. | 16 GP |
-| [Caltrops](Compendium/items/caltrops-xphb.md) | 2 lb. | 1 GP |
-| [Candle](Compendium/items/candle-xphb.md) | — | 1 CP |
-| [Case, Crossbow Bolt](Compendium/items/crossbow-bolt-case-xphb.md) | 1 lb. | 1 GP |
-| [Case, Map or Scroll](Compendium/items/map-or-scroll-case-xphb.md) | 1 lb. | 1 GP |
-| [Chain](Compendium/items/chain-xphb.md) | 10 lb. | 5 GP |
-| [Chest](Compendium/items/chest-xphb.md) | 25 lb. | 5 GP |
-| [Climber's Kit](Compendium/items/climbers-kit-xphb.md) | 12 lb. | 25 GP |
-| [Clothes, Fine](Compendium/items/fine-clothes-xphb.md) | 6 lb. | 15 GP |
-| [Clothes, Traveler's](Compendium/items/travelers-clothes-xphb.md) | 4 lb. | 2 GP |
-| [Component Pouch](Compendium/items/component-pouch-xphb.md) | 2 lb. | 25 GP |
-| [Costume](Compendium/items/costume-xphb.md) | 4 lb. | 5 GP |
-| [Crowbar](Compendium/items/crowbar-xphb.md) | 5 lb. | 2 GP |
-| [Diplomat's Pack](Compendium/items/diplomats-pack-xphb.md) | 39 lb. | 39 GP |
-| [Druidic Focus](Compendium/items/druidic-focus-xphb.md) | Varies | Varies |
-| [Dungeoneer's Pack](Compendium/items/dungeoneers-pack-xphb.md) | 55 lb. | 12 GP |
-| [Entertainer's Pack](Compendium/items/entertainers-pack-xphb.md) | 58½ lb. | 40 GP |
-| [Explorer's Pack](Compendium/items/explorers-pack-xphb.md) | 55 lb. | 10 GP |
-| [Flask](Compendium/items/flask-xphb.md) | 1 lb. | 2 CP |
-| [Grappling Hook](Compendium/items/grappling-hook-xphb.md) | 4 lb. | 2 GP |
-| [Healer's Kit](Compendium/items/healers-kit-xphb.md) | 3 lb. | 5 GP |
-| [Holy Symbol](Compendium/items/holy-symbol-xphb.md) | Varies | Varies |
-| [Holy Water](Compendium/items/holy-water-xphb.md) | 1 lb. | 25 GP |
-| [Hunting Trap](Compendium/items/hunting-trap-xphb.md) | 25 lb. | 5 GP |
-| [Ink](Compendium/items/ink-xphb.md) | — | 10 GP |
-| [Ink Pen](Compendium/items/ink-pen-xphb.md) | — | 2 CP |
-| [Jug](Compendium/items/jug-xphb.md) | 4 lb. | 2 CP |
-| [Ladder](Compendium/items/ladder-xphb.md) | 25 lb. | 1 SP |
-| [Lamp](Compendium/items/lamp-xphb.md) | 1 lb. | 5 SP |
-| [Lantern, Bullseye](Compendium/items/bullseye-lantern-xphb.md) | 2 lb. | 10 GP |
-| [Lantern, Hooded](Compendium/items/hooded-lantern-xphb.md) | 2 lb. | 5 GP |
-| [Lock](Compendium/items/lock-xphb.md) | 1 lb. | 10 GP |
-| [Magnifying Glass](Compendium/items/magnifying-glass-xphb.md) | — | 100 GP |
-| [Manacles](Compendium/items/manacles-xphb.md) | 6 lb. | 2 GP |
-| [Map](Compendium/items/map-xphb.md) | — | 1 GP |
-| [Mirror](Compendium/items/mirror-xphb.md) | 1/2 lb. | 5 GP |
-| [Net](Compendium/items/net-xphb.md) | 3 lb. | 1 GP |
-| [Oil](Compendium/items/oil-xphb.md) | 1 lb. | 1 SP |
-| [Paper](Compendium/items/paper-xphb.md) | — | 2 SP |
-| [Parchment](Compendium/items/parchment-xphb.md) | — | 1 SP |
-| [Perfume](Compendium/items/perfume-xphb.md) | — | 5 GP |
-| [Poison, Basic](Compendium/items/basic-poison-xphb.md) | — | 100 GP |
-| [Pole](Compendium/items/pole-xphb.md) | 7 lb. | 5 CP |
-| [Pot, Iron](Compendium/items/iron-pot-xphb.md) | 10 lb. | 2 GP |
-| [Potion of Healing](Compendium/items/potion-of-healing-xdmg.md) | 1/2 lb. | 50 GP |
-| [Pouch](Compendium/items/pouch-xphb.md) | 1 lb. | 5 SP |
-| [Priest's Pack](Compendium/items/priests-pack-xphb.md) | 29 lb. | 33 GP |
-| [Quiver](Compendium/items/quiver-xphb.md) | 1 lb. | 1 GP |
-| [Ram, Portable](Compendium/items/portable-ram-xphb.md) | 35 lb. | 4 GP |
-| [Rations](Compendium/items/rations-xphb.md) | 2 lb. | 5 SP |
-| [Robe](Compendium/items/robe-xphb.md) | 4 lb. | 1 GP |
-| [Rope](Compendium/items/rope-xphb.md) | 5 lb. | 1 GP |
-| [Sack](Compendium/items/sack-xphb.md) | 1/2 lb. | 1 CP |
-| [Scholar's Pack](Compendium/items/scholars-pack-xphb.md) | 22 lb. | 40 GP |
-| [Shovel](Compendium/items/shovel-xphb.md) | 5 lb. | 2 GP |
-| [Signal Whistle](Compendium/items/signal-whistle-xphb.md) | — | 5 CP |
+| [[antitoxin-xphb|Antitoxin]] | — | 50 GP |
+| [[arcane-focus-xphb|Arcane Focus]] | Varies | Varies |
+| [[backpack-xphb|Backpack]] | 5 lb. | 2 GP |
+| [[ball-bearings-xphb|Ball Bearings]] | 2 lb. | 1 GP |
+| [[barrel-xphb|Barrel]] | 70 lb. | 2 GP |
+| [[basket-xphb|Basket]] | 2 lb. | 4 SP |
+| [[bedroll-xphb|Bedroll]] | 7 lb. | 1 GP |
+| [[bell-xphb|Bell]] | — | 1 GP |
+| [[blanket-xphb|Blanket]] | 3 lb. | 5 SP |
+| [[block-and-tackle-xphb|Block and Tackle]] | 5 lb. | 1 GP |
+| [[book-xphb|Book]] | 5 lb. | 25 GP |
+| [[glass-bottle-xphb|Bottle, Glass]] | 2 lb. | 2 GP |
+| [[bucket-xphb|Bucket]] | 2 lb. | 5 CP |
+| [[burglars-pack-xphb|Burglar's Pack]] | 42 lb. | 16 GP |
+| [[caltrops-xphb|Caltrops]] | 2 lb. | 1 GP |
+| [[candle-xphb|Candle]] | — | 1 CP |
+| [[crossbow-bolt-case-xphb|Case, Crossbow Bolt]] | 1 lb. | 1 GP |
+| [[map-or-scroll-case-xphb|Case, Map or Scroll]] | 1 lb. | 1 GP |
+| [[chain-xphb|Chain]] | 10 lb. | 5 GP |
+| [[chest-xphb|Chest]] | 25 lb. | 5 GP |
+| [[climbers-kit-xphb|Climber's Kit]] | 12 lb. | 25 GP |
+| [[fine-clothes-xphb|Clothes, Fine]] | 6 lb. | 15 GP |
+| [[travelers-clothes-xphb|Clothes, Traveler's]] | 4 lb. | 2 GP |
+| [[component-pouch-xphb|Component Pouch]] | 2 lb. | 25 GP |
+| [[costume-xphb|Costume]] | 4 lb. | 5 GP |
+| [[crowbar-xphb|Crowbar]] | 5 lb. | 2 GP |
+| [[diplomats-pack-xphb|Diplomat's Pack]] | 39 lb. | 39 GP |
+| [[druidic-focus-xphb|Druidic Focus]] | Varies | Varies |
+| [[dungeoneers-pack-xphb|Dungeoneer's Pack]] | 55 lb. | 12 GP |
+| [[entertainers-pack-xphb|Entertainer's Pack]] | 58½ lb. | 40 GP |
+| [[explorers-pack-xphb|Explorer's Pack]] | 55 lb. | 10 GP |
+| [[flask-xphb|Flask]] | 1 lb. | 2 CP |
+| [[grappling-hook-xphb|Grappling Hook]] | 4 lb. | 2 GP |
+| [[healers-kit-xphb|Healer's Kit]] | 3 lb. | 5 GP |
+| [[holy-symbol-xphb|Holy Symbol]] | Varies | Varies |
+| [[holy-water-xphb|Holy Water]] | 1 lb. | 25 GP |
+| [[hunting-trap-xphb|Hunting Trap]] | 25 lb. | 5 GP |
+| [[ink-xphb|Ink]] | — | 10 GP |
+| [[ink-pen-xphb|Ink Pen]] | — | 2 CP |
+| [[jug-xphb|Jug]] | 4 lb. | 2 CP |
+| [[ladder-xphb|Ladder]] | 25 lb. | 1 SP |
+| [[lamp-xphb|Lamp]] | 1 lb. | 5 SP |
+| [[bullseye-lantern-xphb|Lantern, Bullseye]] | 2 lb. | 10 GP |
+| [[hooded-lantern-xphb|Lantern, Hooded]] | 2 lb. | 5 GP |
+| [[lock-xphb|Lock]] | 1 lb. | 10 GP |
+| [[magnifying-glass-xphb|Magnifying Glass]] | — | 100 GP |
+| [[manacles-xphb|Manacles]] | 6 lb. | 2 GP |
+| [[map-xphb|Map]] | — | 1 GP |
+| [[mirror-xphb|Mirror]] | 1/2 lb. | 5 GP |
+| [[net-xphb|Net]] | 3 lb. | 1 GP |
+| [[oil-xphb|Oil]] | 1 lb. | 1 SP |
+| [[paper-xphb|Paper]] | — | 2 SP |
+| [[parchment-xphb|Parchment]] | — | 1 SP |
+| [[perfume-xphb|Perfume]] | — | 5 GP |
+| [[basic-poison-xphb|Poison, Basic]] | — | 100 GP |
+| [[pole-xphb|Pole]] | 7 lb. | 5 CP |
+| [[iron-pot-xphb|Pot, Iron]] | 10 lb. | 2 GP |
+| [[potion-of-healing-xdmg|Potion of Healing]] | 1/2 lb. | 50 GP |
+| [[pouch-xphb|Pouch]] | 1 lb. | 5 SP |
+| [[priests-pack-xphb|Priest's Pack]] | 29 lb. | 33 GP |
+| [[quiver-xphb|Quiver]] | 1 lb. | 1 GP |
+| [[portable-ram-xphb|Ram, Portable]] | 35 lb. | 4 GP |
+| [[rations-xphb|Rations]] | 2 lb. | 5 SP |
+| [[robe-xphb|Robe]] | 4 lb. | 1 GP |
+| [[rope-xphb|Rope]] | 5 lb. | 1 GP |
+| [[sack-xphb|Sack]] | 1/2 lb. | 1 CP |
+| [[scholars-pack-xphb|Scholar's Pack]] | 22 lb. | 40 GP |
+| [[shovel-xphb|Shovel]] | 5 lb. | 2 GP |
+| [[signal-whistle-xphb|Signal Whistle]] | — | 5 CP |
 | Spell Scroll (Cantrip) | — | 30 GP |
 | Spell Scroll (Level 1) | — | 50 GP |
-| [Spikes, Iron](Compendium/items/iron-spikes-xphb.md) | 5 lb. | 1 GP |
-| [Spyglass](Compendium/items/spyglass-xphb.md) | 1 lb. | 1,000 GP |
-| [String](Compendium/items/string-xphb.md) | — | 1 SP |
-| [Tent](Compendium/items/tent-xphb.md) | 20 lb. | 2 GP |
-| [Tinderbox](Compendium/items/tinderbox-xphb.md) | 1 lb. | 5 SP |
-| [Torch](Compendium/items/torch-xphb.md) | 1 lb. | 1 CP |
-| [Vial](Compendium/items/vial-xphb.md) | — | 1 GP |
-| [Waterskin](Compendium/items/waterskin-xphb.md) | 5 lb. (full) | 2 SP |
+| [[iron-spikes-xphb|Spikes, Iron]] | 5 lb. | 1 GP |
+| [[spyglass-xphb|Spyglass]] | 1 lb. | 1,000 GP |
+| [[string-xphb|String]] | — | 1 SP |
+| [[tent-xphb|Tent]] | 20 lb. | 2 GP |
+| [[tinderbox-xphb|Tinderbox]] | 1 lb. | 5 SP |
+| [[torch-xphb|Torch]] | 1 lb. | 1 CP |
+| [[vial-xphb|Vial]] | — | 1 GP |
+| [[waterskin-xphb|Waterskin]] | 5 lb. (full) | 2 SP |
 ^adventuring-gear

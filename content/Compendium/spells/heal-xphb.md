@@ -24,10 +24,10 @@ aliases: ["Heal"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). This spell also ends the [Blinded](Compendium/rules/conditions.md#Blinded), [Deafened](Compendium/rules/conditions.md#Deafened), and [Poisoned](Compendium/rules/conditions.md#Poisoned) conditions on the target.
+Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [[hit-points-xphb|Hit Points]]. This spell also ends the [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], and [[conditions#Poisoned|Poisoned]] conditions on the target.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `10` for each spell slot level above 6.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

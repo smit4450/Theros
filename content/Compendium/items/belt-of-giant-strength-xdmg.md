@@ -16,20 +16,20 @@ aliases:
 
 | Belt | Str. | Rarity |
 |------|------|--------|
-| [Belt of Hill Giant Strength](Compendium/items/belt-of-hill-giant-strength-xdmg.md) | 21 | Rare |
-| [Belt of Frost Giant Strength](Compendium/items/belt-of-frost-giant-strength-xdmg.md) or [Belt of Stone Giant Strength](Compendium/items/belt-of-stone-giant-strength-xdmg.md) | 23 | Very Rare |
-| [Belt of Fire Giant Strength](Compendium/items/belt-of-fire-giant-strength-xdmg.md) | 25 | Very Rare |
-| [Belt of Cloud Giant Strength](Compendium/items/belt-of-cloud-giant-strength-xdmg.md) | 27 | Legendary |
-| [Belt of Storm Giant Strength](Compendium/items/belt-of-storm-giant-strength-xdmg.md) | 29 | Legendary |
+| [[belt-of-hill-giant-strength-xdmg|Belt of Hill Giant Strength]] | 21 | Rare |
+| [[belt-of-frost-giant-strength-xdmg|Belt of Frost Giant Strength]] or [[belt-of-stone-giant-strength-xdmg|Belt of Stone Giant Strength]] | 23 | Very Rare |
+| [[belt-of-fire-giant-strength-xdmg|Belt of Fire Giant Strength]] | 25 | Very Rare |
+| [[belt-of-cloud-giant-strength-xdmg|Belt of Cloud Giant Strength]] | 27 | Legendary |
+| [[belt-of-storm-giant-strength-xdmg|Belt of Storm Giant Strength]] | 29 | Legendary |
 ^belt-str-rarity
 
 **Items in this group:**
 
-- [Belt of Cloud Giant Strength](Compendium/items/belt-of-cloud-giant-strength-xdmg.md)
-- [Belt of Fire Giant Strength](Compendium/items/belt-of-fire-giant-strength-xdmg.md)
-- [Belt of Frost Giant Strength](Compendium/items/belt-of-frost-giant-strength-xdmg.md)
-- [Belt of Hill Giant Strength](Compendium/items/belt-of-hill-giant-strength-xdmg.md)
-- [Belt of Stone Giant Strength](Compendium/items/belt-of-stone-giant-strength-xdmg.md)
-- [Belt of Storm Giant Strength](Compendium/items/belt-of-storm-giant-strength-xdmg.md)
+- [[belt-of-cloud-giant-strength-xdmg|Belt of Cloud Giant Strength]]
+- [[belt-of-fire-giant-strength-xdmg|Belt of Fire Giant Strength]]
+- [[belt-of-frost-giant-strength-xdmg|Belt of Frost Giant Strength]]
+- [[belt-of-hill-giant-strength-xdmg|Belt of Hill Giant Strength]]
+- [[belt-of-stone-giant-strength-xdmg|Belt of Stone Giant Strength]]
+- [[belt-of-storm-giant-strength-xdmg|Belt of Storm Giant Strength]]
 
 *Source: Dungeon Master's Guide (2024) p. 236. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

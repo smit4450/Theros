@@ -16,9 +16,9 @@ aliases:
 
 **Items in this group:**
 
-- [Dice Set](Compendium/items/dice-set-xphb.md)
-- [Dragonchess Set](Compendium/items/dragonchess-set-xphb.md)
-- [Playing Cards](Compendium/items/playing-cards-xphb.md)
-- [Three-Dragon Ante Set](Compendium/items/three-dragon-ante-set-xphb.md)
+- [[dice-set-xphb|Dice Set]]
+- [[dragonchess-set-xphb|Dragonchess Set]]
+- [[playing-cards-xphb|Playing Cards]]
+- [[three-dragon-ante-set-xphb|Three-Dragon Ante Set]]
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

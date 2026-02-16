@@ -15,7 +15,7 @@ An improvised weapon is an object wielded as a makeshift weapon, such as broken 
 
 ## Proficiency
 
-Don't add your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) to attack rolls with an improvised weapon.
+Don't add your [[proficiency-xphb|Proficiency Bonus]] to attack rolls with an improvised weapon.
 
 ## Damage
 
@@ -27,4 +27,4 @@ If you throw the weapon, it has a normal range of 20 feet and a long range of 60
 
 ## Weapon Equivalents
 
-If an improvised weapon resembles a Simple or Martial weapon, the DM may say it functions as that weapon and uses that weapon's rules. For example, the DM could treat a table leg as a [Club](Compendium/items/club-xphb.md).
+If an improvised weapon resembles a Simple or Martial weapon, the DM may say it functions as that weapon and uses that weapon's rules. For example, the DM could treat a table leg as a [[club-xphb|Club]].

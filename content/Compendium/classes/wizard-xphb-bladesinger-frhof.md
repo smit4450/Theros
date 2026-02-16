@@ -57,15 +57,15 @@ Bladesinging is associated with the ancient elven societies that first mastered 
 
 ### Bladesong (Level 3)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you invoke an elven magic called the Bladesong, provided you aren't wearing armor or using a Shield.
+As a [[bonus-action-xphb|Bonus Action]], you invoke an elven magic called the Bladesong, provided you aren't wearing armor or using a Shield.
 
 The Bladesong lasts for 1 minute and ends early if you have the Incapacitated condition, if you don armor or a Shield, or if you use two hands to make an attack with a weapon. You can dismiss the Bladesong at any time (no action required).
 
-While the Bladesong is active, you gain the following benefits. You can invoke the Bladesong a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You regain one expended use when you use Arcane Recovery.
+While the Bladesong is active, you gain the following benefits. You can invoke the Bladesong a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]]. You regain one expended use when you use Arcane Recovery.
 
 #### Agility
 
-You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your [Speed](Compendium/rules/variant-rules/speed-xphb.md) increases by 10 feet. In addition, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks.
+You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your [[speed-xphb|Speed]] increases by 10 feet. In addition, you have [[advantage-xphb|Advantage]] on Dexterity ([[skills#Acrobatics|Acrobatics]]) checks.
 
 #### Bladework
 
@@ -73,22 +73,22 @@ Whenever you attack with a weapon with which you have proficiency, you can use y
 
 #### Focus
 
-When you make a Constitution saving throw to maintain [Concentration](Compendium/rules/conditions.md#Concentration), you can add your Intelligence modifier to the total.
+When you make a Constitution saving throw to maintain [[conditions#Concentration|Concentration]], you can add your Intelligence modifier to the total.
 
 ### Training in War and Song (Level 3)
 
-You gain proficiency with all Melee Martial weapons that don't have the Two-Handed or Heavy property. You can use a Melee weapon with which you have proficiency as a [Spellcasting Focus](Compendium/rules/variant-rules/spellcasting-focus-xphb.md) for your Wizard spells.
+You gain proficiency with all Melee Martial weapons that don't have the Two-Handed or Heavy property. You can use a Melee weapon with which you have proficiency as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your Wizard spells.
 
-You also gain proficiency in one of the following skills of your choice: [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Performance](Compendium/rules/skills.md#Performance), or [Persuasion](Compendium/rules/skills.md#Persuasion).
+You also gain proficiency in one of the following skills of your choice: [[skills#Acrobatics|Acrobatics]], [[skills#Athletics|Athletics]], [[skills#Performance|Performance]], or [[skills#Persuasion|Persuasion]].
 
 ### Extra Attack (Level 6)
 
-You can attack twice, instead of once, whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn. Moreover, you can cast one of your Wizard cantrips that has a casting time of an action in place of one of those attacks.
+You can attack twice, instead of once, whenever you take the [[actions#Attack|Attack]] action on your turn. Moreover, you can cast one of your Wizard cantrips that has a casting time of an action in place of one of those attacks.
 
 ### Song of Defense (Level 10)
 
-When you take damage while your Bladesong is active, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to expend one spell slot and reduce the damage taken by an amount equal to five times the spell slot's level.
+When you take damage while your Bladesong is active, you can take a [[reaction-xphb|Reaction]] to expend one spell slot and reduce the damage taken by an amount equal to five times the spell slot's level.
 
 ### Song of Victory (Level 14)
 
-After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md).
+After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [[bonus-action-xphb|Bonus Action]].

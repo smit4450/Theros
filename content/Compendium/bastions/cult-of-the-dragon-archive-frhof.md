@@ -20,11 +20,11 @@ A Cult of the Dragon Archive contains extensive records on specific topics, incl
 
 ## Research: Helpful Lore
 
-When you issue the Research order to this facility, you commission the facility's hireling to search the archive for lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [Legend Lore](Compendium/spells/legend-lore-xphb.md) spell, then shares this knowledge with you the next time you speak with them.
+When you issue the Research order to this facility, you commission the facility's hireling to search the archive for lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [[legend-lore-xphb|Legend Lore]] spell, then shares this knowledge with you the next time you speak with them.
 
 ## Reference Books
 
-Your Cult of the Dragon Archive contains a collection of draconic lore. You have Advantage on Intelligence ([Nature](Compendium/rules/skills.md#Nature) or [Religion](Compendium/rules/skills.md#Religion)) checks you make in your Bastion when you take the [Study](Compendium/rules/actions.md#Study) action to recall lore about Dragons, Tiamat, or the Cult of the Dragon.
+Your Cult of the Dragon Archive contains a collection of draconic lore. You have Advantage on Intelligence ([[skills#Nature|Nature]] or [[skills#Religion|Religion]]) checks you make in your Bastion when you take the [[actions#Study|Study]] action to recall lore about Dragons, Tiamat, or the Cult of the Dragon.
 
 ## Enlarging the Facility
 

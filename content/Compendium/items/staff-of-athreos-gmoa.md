@@ -19,10 +19,10 @@ This gnarled staff belongs to devotees of Athreos, the god of passage, who ferri
 
 ## Paid
 
-While the staff is transformed into a boat, you gain resistance to all damage types and creatures can't make attacks of opportunity against you, your boat, or anyone in your boat. The boat can't capsize and occupants of the boat have [advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against effects that would knock them out of the boat. You have advantage on attack rolls when an enemy is within 5 feet of your boat.
+While the staff is transformed into a boat, you gain resistance to all damage types and creatures can't make attacks of opportunity against you, your boat, or anyone in your boat. The boat can't capsize and occupants of the boat have [[advantage-xphb|advantage]] on saving throws against effects that would knock them out of the boat. You have advantage on attack rolls when an enemy is within 5 feet of your boat.
 
 ## Overpaid
 
-Once a day for the first ten days after you attune to the staff, you may cast the [commune](Compendium/spells/commune-xphb.md) spell without requiring material components to contact Athreos.
+Once a day for the first ten days after you attune to the staff, you may cast the [[commune-xphb|commune]] spell without requiring material components to contact Athreos.
 
 *Source: The Gray Merchant of Asphodel*

@@ -19,7 +19,7 @@ Some weapons in the Firearms table have the following properties, in addition to
 
 ## Burst Fire
 
-As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
+As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [[cube-area-of-effect-xphb|Cube]] within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
 
 ## Reload
 
@@ -27,8 +27,8 @@ You can make a limited number of shots with a Reload weapon. You must then reloa
 
 ## Ammunition
 
-Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at your discretion. An [Energy Cell](Compendium/items/energy-cell-xdmg.md) weighs 1/2 lb.
+Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at your discretion. An [[energy-cell-xdmg|Energy Cell]] weighs 1/2 lb.
 
-![Firearms](Compendium/tables/firearms-xdmg.md)
+![[firearms-xdmg|Firearms]]
 
-![Firearms](Compendium/tables/firearms-xdmg.md)
+![[firearms-xdmg|Firearms]]

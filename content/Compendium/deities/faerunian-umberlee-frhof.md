@@ -21,7 +21,7 @@ aliases:
 
 No seaside community can ignore the influence of Umberlee, the furious sea god whose tempestuous nature is reflected by the waters of the deep. Coastal villages and towns host festivals to propitiate the Wavemother, seek her favor, and avoid seafaring disaster. Although mercurial in temperament, she can be generous to those who do her honor, as any great queen should be. Some Druids worship Umberlee as a manifestation of nature in its cruelest form.
 
-Umberlee manifests as a woman colored like the sea in blues and greens, with taloned hands and fins on her elbows. Clad in a cape of purple jellyfish and wielding a trident, she rises from the sea to terrify sailors. When she speaks through emissaries, she sends an [Air Elemental](Compendium/bestiary/elemental/air-elemental-xmm.md), a [Water Elemental](Compendium/bestiary/elemental/water-elemental-xmm.md), an awakened [Giant Shark](Compendium/bestiary/beast/giant-shark-xmm.md), or a [Kraken](Compendium/bestiary/monstrosity/kraken-xmm.md).
+Umberlee manifests as a woman colored like the sea in blues and greens, with taloned hands and fins on her elbows. Clad in a cape of purple jellyfish and wielding a trident, she rises from the sea to terrify sailors. When she speaks through emissaries, she sends an [[air-elemental-xmm|Air Elemental]], a [[water-elemental-xmm|Water Elemental]], an awakened [[giant-shark-xmm|Giant Shark]], or a [[kraken-xmm|Kraken]].
 
 The Wavemother is worshiped out of fear instead of adoration. Ship crews toss gems over the side as offerings to calm storm-tossed waters. She is capricious and cruel; the sea is a savage place, and those who travel it must be willing to pay the price of challenging her domain.
 

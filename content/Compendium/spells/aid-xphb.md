@@ -38,10 +38,10 @@ aliases: ["Aid"]
 - **Components:** V, S, M (a strip of white cloth)
 - **Duration:** 8 hours
 
-Choose up to three creatures within range. Each target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum and current [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) increase by 5 for the duration.
+Choose up to three creatures within range. Each target's [[hit-points-xphb|Hit Point]] maximum and current [[hit-points-xphb|Hit Points]] increase by 5 for the duration.
 
-**Using a Higher-Level Spell Slot.** Each target's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) increase by 5 for each spell slot level above 2.
+**Using a Higher-Level Spell Slot.** Each target's [[hit-points-xphb|Hit Points]] increase by 5 for each spell slot level above 2.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-ranger|Ranger]]; [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

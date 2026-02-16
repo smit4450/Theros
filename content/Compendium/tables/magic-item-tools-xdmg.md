@@ -15,13 +15,13 @@ aliases:
 
 | Item Category | Required Tool |
 |---------------|---------------|
-| Armor | [Leatherworker's Tools](Compendium/items/leatherworkers-tools-xphb.md), [Smith's Tools](Compendium/items/smiths-tools-xphb.md), or [Weaver's Tools](Compendium/items/weavers-tools-xphb.md) depending on the kind of armor as noted in the tools' descriptions |
-| Potion | [Alchemist's Supplies](Compendium/items/alchemists-supplies-xphb.md) or [Herbalism Kit](Compendium/items/herbalism-kit-xphb.md) |
-| Ring | [Jeweler's Tools](Compendium/items/jewelers-tools-xphb.md) |
-| Rod | [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md) |
-| Scroll | [Calligrapher's Supplies](Compendium/items/calligraphers-supplies-xphb.md) |
-| Staff | [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md) |
-| Wand | [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md) |
-| Weapon | [Leatherworker's Tools](Compendium/items/leatherworkers-tools-xphb.md), [Smith's Tools](Compendium/items/smiths-tools-xphb.md), or [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md) depending on the kind of weapon as noted in the tools' descriptions |
-| Wondrous Item | [Tinker's Tools](Compendium/items/tinkers-tools-xphb.md) or the tool required to make the nonmagical item on which the magic item is based |
+| Armor | [[leatherworkers-tools-xphb|Leatherworker's Tools]], [[smiths-tools-xphb|Smith's Tools]], or [[weavers-tools-xphb|Weaver's Tools]] depending on the kind of armor as noted in the tools' descriptions |
+| Potion | [[alchemists-supplies-xphb|Alchemist's Supplies]] or [[herbalism-kit-xphb|Herbalism Kit]] |
+| Ring | [[jewelers-tools-xphb|Jeweler's Tools]] |
+| Rod | [[woodcarvers-tools-xphb|Woodcarver's Tools]] |
+| Scroll | [[calligraphers-supplies-xphb|Calligrapher's Supplies]] |
+| Staff | [[woodcarvers-tools-xphb|Woodcarver's Tools]] |
+| Wand | [[woodcarvers-tools-xphb|Woodcarver's Tools]] |
+| Weapon | [[leatherworkers-tools-xphb|Leatherworker's Tools]], [[smiths-tools-xphb|Smith's Tools]], or [[woodcarvers-tools-xphb|Woodcarver's Tools]] depending on the kind of weapon as noted in the tools' descriptions |
+| Wondrous Item | [[tinkers-tools-xphb|Tinker's Tools]] or the tool required to make the nonmagical item on which the magic item is based |
 ^magic-item-tools

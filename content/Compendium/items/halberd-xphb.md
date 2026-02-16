@@ -15,7 +15,7 @@ aliases:
 ![](Compendium/items/img/halberd.webp#right)
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Cost**: 20 gp
 - **Weight**: 6.0 lbs.
 

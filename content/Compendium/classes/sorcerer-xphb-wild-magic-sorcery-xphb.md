@@ -59,24 +59,24 @@ Your spellcasting can unleash surges of untamed magic. Once per turn, you can ro
 
 If the magical effect is a spell, it is too wild to be affected by your Metamagic.
 
-![Wild Magic Surge](Compendium/tables/wild-magic-surge-xphb.md)
+![[wild-magic-surge-xphb|Wild Magic Surge]]
 
 ### Tides of Chaos (Level 3)
 
-You can manipulate chaos itself to give yourself [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on one [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) before you roll the `d20`. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) before you can use this feature again.
+You can manipulate chaos itself to give yourself [[advantage-xphb|Advantage]] on one [[d20-test-xphb|D20 Test]] before you roll the `d20`. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a [[long-rest-xphb|Long Rest]] before you can use this feature again.
 
-If you do cast a Sorcerer spell with a spell slot before you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you automatically roll on the [Wild Magic Surge](Compendium/tables/wild-magic-surge-xphb.md) table.
+If you do cast a Sorcerer spell with a spell slot before you finish a [[long-rest-xphb|Long Rest]], you automatically roll on the [[wild-magic-surge-xphb|Wild Magic Surge]] table.
 
 ### Bend Luck (Level 6)
 
-You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the `d20` for a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md), you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) and spend 1 Sorcery Point to roll `1d4` and apply the number rolled as a bonus or penalty (your choice) to the `d20` roll.
+You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the `d20` for a [[d20-test-xphb|D20 Test]], you can take a [[reaction-xphb|Reaction]] and spend 1 Sorcery Point to roll `1d4` and apply the number rolled as a bonus or penalty (your choice) to the `d20` roll.
 
 ### Controlled Chaos (Level 14)
 
-You gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild [Magic](Compendium/rules/actions.md#Magic) Surge table, you can roll twice and use either number.
+You gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild [[actions#Magic|Magic]] Surge table, you can roll twice and use either number.
 
 ### Tamed Surge (Level 18)
 
-Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the [Wild Magic Surge](Compendium/tables/wild-magic-surge-xphb.md) table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
+Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the [[wild-magic-surge-xphb|Wild Magic Surge]] table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
 
-Once you use this feature, you can't do so again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't do so again until you finish a [[long-rest-xphb|Long Rest]].

@@ -12,9 +12,9 @@ aliases: ["Acolyte"]
 ![](Compendium/backgrounds/img/acolyte.webp#right)
 
 - **Ability Scores.** Intelligence, Wisdom, Charisma  
-- **Feat.** [Magic Initiate](Compendium/feats/magic-initiate-xphb.md) (Cleric)  
-- **Skill Proficiencies.** [Insight](Compendium/rules/skills.md#Insight), [Religion](Compendium/rules/skills.md#Religion)  
-- **Tool Proficiency.** [Calligrapher's Supplies](Compendium/items/calligraphers-supplies-xphb.md)  
-- **Equipment.** Choose A or B: (A) [Calligrapher's Supplies](Compendium/items/calligraphers-supplies-xphb.md), [Book (prayers)](Compendium/items/book-xphb.md), [Holy Symbol](Compendium/items/holy-symbol-xphb.md), [Parchment](Compendium/items/parchment-xphb.md) (10 sheets), [Robe](Compendium/items/robe-xphb.md), 8 GP; or (B) 50 GP  
+- **Feat.** [[magic-initiate-xphb|Magic Initiate]] (Cleric)  
+- **Skill Proficiencies.** [[skills#Insight|Insight]], [[skills#Religion|Religion]]  
+- **Tool Proficiency.** [[calligraphers-supplies-xphb|Calligrapher's Supplies]]  
+- **Equipment.** Choose A or B: (A) [[calligraphers-supplies-xphb|Calligrapher's Supplies]], [[book-xphb|Book (prayers)]], [[holy-symbol-xphb|Holy Symbol]], [[parchment-xphb|Parchment]] (10 sheets), [[robe-xphb|Robe]], 8 GP; or (B) 50 GP  
 
 You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest's instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.

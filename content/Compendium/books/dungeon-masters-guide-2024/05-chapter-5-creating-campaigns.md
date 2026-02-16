@@ -208,8 +208,8 @@ Whether you want to run a full-fledged horror campaign or a single creepy advent
 A supernatural horror campaign often features Undead or demonic foes whose evil transcends the merely mortal. Consider conflicts like these to drive the campaign:
 
 - **The Faceless Lord.** "Juiblex", the Faceless Lord, oozes out of the "Abyss" and into the "Underdark". The characters hear from subterranean folk who need help defeating the demon lord and its minions.  
-- **School of Necromancy.** [Vampires](Compendium/bestiary/undead/vampire-xmm.md) open a college of necromancy, attracting evil necromancers who need fresh corpses for their studies. An order of vampire hunters seeks the characters' help.  
-- **Undying Monarch.** A venerable monarch clings to power by worshiping "Orcus" and becoming a [lich](Compendium/bestiary/undead/lich-xmm.md).  
+- **School of Necromancy.** [[vampire-xmm|Vampires]] open a college of necromancy, attracting evil necromancers who need fresh corpses for their studies. An order of vampire hunters seeks the characters' help.  
+- **Undying Monarch.** A venerable monarch clings to power by worshiping "Orcus" and becoming a [[lich-xmm|lich]].  
 
 #### Intrigue
 
@@ -247,7 +247,7 @@ Conflicts like these highlight the themes of a swashbuckling campaign:
 
 - **Inherited Antagonists.** A character inherits a magic item from a deceased relative, unaware that this relative's enemies are after the item.  
 - **Pirates and Privateers.** A new monarch cracks down on piracy by commissioning privateers and naval officers to hunt pirate ships.  
-- **The Waking Deep.** A monstrous horror slumbering in the depths of the ocean stirs, driving minions such as sahuagin, [merrows](Compendium/bestiary/monstrosity/merrow-xmm.md), or [dragon turtles](Compendium/bestiary/dragon/dragon-turtle-xmm.md) to attack seafaring vessels.  
+- **The Waking Deep.** A monstrous horror slumbering in the depths of the ocean stirs, driving minions such as sahuagin, [[merrow-xmm|merrows]], or [[dragon-turtle-xmm|dragon turtles]] to attack seafaring vessels.  
 
 #### War
 
@@ -263,7 +263,7 @@ Conflicts like these highlight the themes and flavor of a war campaign:
 
 #### Crossing the Streams
 
-Deep in D&D's roots are elements of science fiction and science fantasy as well as a wide-ranging collection of fantasy inspiration, and your campaign might draw on those sources as well. You can send your characters hurtling through a magic mirror to Lewis Carroll's Wonderland, put them aboard a ship traveling between the stars, or set your campaign in a far-future world where laser weapons (see ""Firearms and Explosives"" in "chapter 3") and [Wands of Magic Missile](Compendium/items/wand-of-magic-missiles-xdmg.md) exist side by side.
+Deep in D&D's roots are elements of science fiction and science fantasy as well as a wide-ranging collection of fantasy inspiration, and your campaign might draw on those sources as well. You can send your characters hurtling through a magic mirror to Lewis Carroll's Wonderland, put them aboard a ship traveling between the stars, or set your campaign in a far-future world where laser weapons (see ""Firearms and Explosives"" in "chapter 3") and [[wand-of-magic-missiles-xdmg|Wands of Magic Missile]] exist side by side.
 
 ##### Crossing the Streams Conflicts
 
@@ -290,7 +290,7 @@ One advantage of using a published campaign setting is that much of the world-bu
 
 The D&D Settings table describes several established campaign settings.
 
-![Using a Published Setting; D&D Settings](Compendium/tables/using-a-published-setting-d-d-settings-xdmg.md)
+![[using-a-published-setting-d-d-settings-xdmg|Using a Published Setting; D&D Settings]]
 
 #### Creating Your Own Setting
 
@@ -304,7 +304,7 @@ As you contemplate a new campaign setting, think about your answers to the follo
 
 - **What's Your Campaign Setting Called?.** Choose an evocative name for your setting. It can be a word or phrase that reflects the theme and tone of the game, or just a made-up name that sounds cool to you. Keep a running list of ideas as you decide on other aspects of your setting.  
 - **What Factions and Organizations Are Prominent?.** Nations, temples, guilds, orders, secret societies, and colleges shape the social fabric of the setting. What organizations or societal groups play an important part in your setting? Which ones might be involved in the lives of player characters as patrons, allies, or enemies? What organizations can characters join, becoming part of something larger than themselves?  
-- **How Common Is Magic?.** Spellcasters and magic item shops might be common, rare, or practically nonexistent in your world. How readily available are spells such as [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md), [Raise Dead](Compendium/spells/raise-dead-xphb.md), and [Teleportation Circle](Compendium/spells/teleportation-circle-xphb.md)? Is magic so widespread that it's part of daily life, or so rare that it conjures all sorts of superstitions?  
+- **How Common Is Magic?.** Spellcasters and magic item shops might be common, rare, or practically nonexistent in your world. How readily available are spells such as [[lesser-restoration-xphb|Lesser Restoration]], [[raise-dead-xphb|Raise Dead]], and [[teleportation-circle-xphb|Teleportation Circle]]? Is magic so widespread that it's part of daily life, or so rare that it conjures all sorts of superstitions?  
 - **What Mysteries Does the World Hold?.** Every campaign setting has mysteries: a fabled land across the sea, a grim forest hiding a terrible secret, restless spirits haunting a ruined keep for reasons unknown, an ancient dungeon built for a forgotten purpose, and so on. Dream up as many mysteries as you wish—you never know which ones will seize your players' imaginations and become central to the campaign—and record them in your campaign journal.  
 - **What Roles, If Any, Do the Gods Play?.** What greater gods, lesser gods, and quasi-deities are present or worshiped in your world? If there are gods, how involved are they in the world? Are they distant and detached beings, or do they appear before their worshipers and meddle in mortal affairs?  
 
@@ -413,7 +413,7 @@ A serialized campaign is one continuous story broken up into smaller parts that 
 
 In a serialized campaign, make connections between the end of one adventure and the start of the next to help it feel like a connected story. Sometimes you can simply continue the current storyline with new locations to explore and new threats to overcome. Alternatively, you can use the Adventure Connections table to inspire a link from one adventure to the next. The table suggests things you can do near the end of one adventure to lead characters into the next one.
 
-![Linking Adventures; Adventure Connections](Compendium/tables/linking-adventures-adventure-connections-xdmg.md)
+![[linking-adventures-adventure-connections-xdmg|Linking Adventures; Adventure Connections]]
 
 ### Getting Players Invested
 
@@ -622,7 +622,7 @@ The conflict between adventurers and Iuz might follow this broad outline:
 - **Levels 1–4.** Early in their adventuring careers, the characters might face what appear to be ordinary toughs who are disrupting mining operations near the Free City of Greyhawk (see ""Beyond the City Walls"" in this chapter), only to discover these toughs are agents of some greater villain. The identity of this villain remains a mystery—for now. If you use the adventure ""Miner Difficulties"" from "chapter 4", NPCs speaking to the characters might assume the trouble in the mine is related to these toughs and their bullying.  
 - **Levels 5–10.** You might use the adventure ""Horns of the Beast"" from "chapter 4" to introduce an agent of Iuz to the characters. After their return from that expedition, they start having unpleasant encounters with the City Watch in Greyhawk. Eventually, they discover that Captain-General Sental Nurev is being manipulated by the leaders of Stoink, a petty fief in the Bandit Kingdoms. When the characters undertake an expedition into that dangerous realm to confront Stoink's leaders and free the captain-general's captive brother, they discover that the villains were agents of Iuz.  
 - **Levels 11–16.** Iuz and the Horned Society launch an all-out invasion into the Shield Lands, overwhelming its defenses and moving toward Furyondy. The characters might have adventures to muster forces in surrounding lands and bring them to Furyondy's defense or hinder Iuz's advance.  
-- **Levels 17–20.** Finally, the characters discover that Iuz's assault is merely a cover to distract the southern realms from his true aim: retrieving the [Eye and Hand of Vecna](Compendium/items/eye-and-hand-of-vecna-xdmg.md) from an ancient keep on Lake Quag. The characters confront Iuz at the shores of the lake, perhaps facing a terrible choice: Will they wield the power of Vecna to stop Iuz, or will they risk Iuz wielding that awful might against them?  
+- **Levels 17–20.** Finally, the characters discover that Iuz's assault is merely a cover to distract the southern realms from his true aim: retrieving the [[eye-and-hand-of-vecna-xdmg|Eye and Hand of Vecna]] from an ancient keep on Lake Quag. The characters confront Iuz at the shores of the lake, perhaps facing a terrible choice: Will they wield the power of Vecna to stop Iuz, or will they risk Iuz wielding that awful might against them?  
 
 #### The Greyhawk Setting
 
@@ -636,7 +636,7 @@ The sun takes 360 days to travel once around Oerth. Luna waxes and wanes in fixe
 
 The standard year is 360 days long and consists of twelve twenty-eight-day months (each month divided into four seven-day weeks) and four six-day lunar festivals (Needfest, Growfest, Richfest, and Brewfest). The midwinter festival of Needfest is considered the start of the year. The diagram here shows the months and festivals that make up a year.
 
-![Months and Festivals; Days of the Week](Compendium/tables/months-and-festivals-days-of-the-week-xdmg.md)
+![[months-and-festivals-days-of-the-week-xdmg|Months and Festivals; Days of the Week]]
 
 > [!note] Your World's Calendar
 > 
@@ -716,7 +716,7 @@ The Gods of Greyhawk table shows many of the most popular deities worshiped in t
 
 The greater gods of Greyhawk rarely get directly involved with happenings on Oerth. Lesser gods are more likely to manifest in some form on the Material Plane and interact with their worshipers. Cuthbert, for example, is well known for appearing in mortal guise, appearing as a dirt-covered farmer, a wanderer robed in brown and green, or an elderly tinker. And of the many quasi-deities that appear on Oerth, most prominent among them is Iuz, a demigod who rules his own nation in the Flanaess.
 
-![Gods of Greyhawk](Compendium/tables/gods-of-greyhawk-xdmg.md)
+![[gods-of-greyhawk-xdmg|Gods of Greyhawk]]
 
 ### Free City of Greyhawk
 
@@ -794,11 +794,11 @@ The city is yours to make your own. A few important features and locations are d
 
 ##### City Government
 
-The Free City of Greyhawk is ruled by a council called the Directing Oligarchy, made up of sixteen coequal rulers. This council elects its chief officer, the lord mayor—a position currently held by a human [Spy Master](Compendium/bestiary/humanoid/spy-master-xmm.md) (Lawful Neutral) named Nerof Gasgol. The other directors include the captain-general and constable of the City Watch, several guild masters, priests of Boccob and Rao, the inspector of taxes, and a few influential magic-users with ties to politically active secret societies. Several of these directors represent criminal or unsavory interests, including Nerof Gasgol himself, who achieved his position and wealth as the owner of a notorious gambling den.
+The Free City of Greyhawk is ruled by a council called the Directing Oligarchy, made up of sixteen coequal rulers. This council elects its chief officer, the lord mayor—a position currently held by a human [[spy-master-xmm|Spy Master]] (Lawful Neutral) named Nerof Gasgol. The other directors include the captain-general and constable of the City Watch, several guild masters, priests of Boccob and Rao, the inspector of taxes, and a few influential magic-users with ties to politically active secret societies. Several of these directors represent criminal or unsavory interests, including Nerof Gasgol himself, who achieved his position and wealth as the owner of a notorious gambling den.
 
 ##### City Watch
 
-The City Watch is a standing garrison of some eight hundred [Guards](Compendium/bestiary/humanoid/guard-xmm.md) and [Veteran Warriors](Compendium/bestiary/humanoid/warrior-veteran-xmm.md). Bolstering these defenders are [Mages](Compendium/bestiary/humanoid/mage-xmm.md) from the city's Guild of Wizardry, as well as [Priests](Compendium/bestiary/humanoid/priest-xmm.md) from local temples.
+The City Watch is a standing garrison of some eight hundred [[guard-xmm|Guards]] and [[warrior-veteran-xmm|Veteran Warriors]]. Bolstering these defenders are [[mage-xmm|Mages]] from the city's Guild of Wizardry, as well as [[priest-xmm|Priests]] from local temples.
 
 The captain-general and constable of the City Watch are stationed at the Grand Citadel (see ""City Locations"").
 
@@ -806,7 +806,7 @@ The captain-general and constable of the City Watch are stationed at the Grand C
 
 A 30-foot-high stone wall winds like a snake around the city. Two other walls, identical in height to the outer wall, separate the city into its three great sections. Access to the wall tops can be gained via lifts in each gatehouse. In addition, along the inside base of the outer wall are secret compartments at 300-foot intervals, each one containing a 30-foot-tall wooden ladder. All members of the City Watch know the locations of these secret ladders, which, in an emergency, can be pulled out and used by city defenders to quickly reach the parapets.
 
-The walls are patrolled regularly. During daytime, the typical patrol is one sentry (a [Guard](Compendium/bestiary/humanoid/guard-xmm.md)) placed every 300 feet along the top of the wall. At night, the guard patrol is quadrupled, with two sentries posted together every 150 feet along the wall. Also at night, torches light the wall top at 150-foot intervals between the guards so each sentry station is 75 feet from a torch in each direction.
+The walls are patrolled regularly. During daytime, the typical patrol is one sentry (a [[guard-xmm|Guard]]) placed every 300 feet along the top of the wall. At night, the guard patrol is quadrupled, with two sentries posted together every 150 feet along the wall. Also at night, torches light the wall top at 150-foot intervals between the guards so each sentry station is 75 feet from a torch in each direction.
 
 ##### City Gates
 
@@ -868,11 +868,11 @@ The locations detailed here can serve as a good starting point for your campaign
 
 The Black Dragon Inn in Clerkburg has good food and affordable rooms. The inn's stable can hold up to a dozen steeds.
 
-The inn's proprietor is Miklos Dare, a human [Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md) (Chaotic Good) who loves to recount his heroic exploits in the Battle of Emridy Meadows seven years ago, when warriors from across the Central Flanaess united to drive the forces of wickedness from the Temple of Elemental Evil (see ""Central Flanaess"" in this chapter). A red-bearded bear of a man with a prosthetic leg, Miklos is affable and proud. His friendly rivalry with Olaf and Sivan, the proprietors of the Silver Dragon Inn just up the street, is the talk of the city. Olaf and Sivan recently hired a mage to make Miklos's black dragon sign drool acid, much to the chagrin of visitors entering and leaving the Black Dragon. Miklos is itching to pull a similar prank of his own.
+The inn's proprietor is Miklos Dare, a human [[warrior-veteran-xmm|Warrior Veteran]] (Chaotic Good) who loves to recount his heroic exploits in the Battle of Emridy Meadows seven years ago, when warriors from across the Central Flanaess united to drive the forces of wickedness from the Temple of Elemental Evil (see ""Central Flanaess"" in this chapter). A red-bearded bear of a man with a prosthetic leg, Miklos is affable and proud. His friendly rivalry with Olaf and Sivan, the proprietors of the Silver Dragon Inn just up the street, is the talk of the city. Olaf and Sivan recently hired a mage to make Miklos's black dragon sign drool acid, much to the chagrin of visitors entering and leaving the Black Dragon. Miklos is itching to pull a similar prank of his own.
 
 ###### Character Backgrounds
 
-An adventurer with the [Soldier](Compendium/backgrounds/soldier-xphb.md) background might have a tie to Miklos, perhaps having fought alongside him at the Battle of Emridy Meadows. A character with the [Wayfarer](Compendium/backgrounds/wayfarer-xphb.md) background might know Miklos as a generous man who gives away food and sometimes even lodging to people in need.
+An adventurer with the [[soldier-xphb|Soldier]] background might have a tie to Miklos, perhaps having fought alongside him at the Battle of Emridy Meadows. A character with the [[wayfarer-xphb|Wayfarer]] background might know Miklos as a generous man who gives away food and sometimes even lodging to people in need.
 
 ###### Reasons to Visit
 
@@ -891,13 +891,13 @@ Adventurers might visit the Black Dragon Inn for one of the following reasons:
 
 The grand edifice at the northern end of the High Quarter, simply called "the Citadel" by the city's inhabitants, contains barracks for the City Watch, the offices of the captain-general, the city's treasury, and a large store of armaments for the emergency citizen militia. The Citadel also contains a prison where the city's most hardened criminals are incarcerated.
 
-The captain-general of the City Watch is Sental Nurev, a tall, human [Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md) (Neutral Good) with thinning blond hair and a mustache. Sental is usually incorruptible, but he is under great stress. The rulers of Stoink, a fortified town in the Bandit Kingdoms, have captured Sental's brother Sarek and are forcing the captain-general to provide information about Greyhawk's defenses and local politicians. Sental gives this information to a human [Spy](Compendium/bestiary/humanoid/spy-xmm.md) (Chaotic Evil) who stays at the Black Dragon Inn under the false name Skanda Drond. Sental is unaware that the bandit lords of Stoink are pawns of Iuz, whose dreams of conquest extend to the Free City of Greyhawk and far beyond.
+The captain-general of the City Watch is Sental Nurev, a tall, human [[warrior-veteran-xmm|Warrior Veteran]] (Neutral Good) with thinning blond hair and a mustache. Sental is usually incorruptible, but he is under great stress. The rulers of Stoink, a fortified town in the Bandit Kingdoms, have captured Sental's brother Sarek and are forcing the captain-general to provide information about Greyhawk's defenses and local politicians. Sental gives this information to a human [[spy-xmm|Spy]] (Chaotic Evil) who stays at the Black Dragon Inn under the false name Skanda Drond. Sental is unaware that the bandit lords of Stoink are pawns of Iuz, whose dreams of conquest extend to the Free City of Greyhawk and far beyond.
 
-The city's constable—who serves as second-in-command to the captain-general, manager to the members of the watch, and a member of the Directing Oligarchy—is a compassionate [Priest](Compendium/bestiary/humanoid/priest-xmm.md) of Pelor named Derider Fanshen (Neutral Good). Her kindness and talent for healing make her well loved among the watch, and as a former adventurer, she is sympathetic to adventurers' needs. She's unaware of Sental's compromised position.
+The city's constable—who serves as second-in-command to the captain-general, manager to the members of the watch, and a member of the Directing Oligarchy—is a compassionate [[priest-xmm|Priest]] of Pelor named Derider Fanshen (Neutral Good). Her kindness and talent for healing make her well loved among the watch, and as a former adventurer, she is sympathetic to adventurers' needs. She's unaware of Sental's compromised position.
 
 ###### Character Backgrounds
 
-Adventurers with the [Criminal](Compendium/backgrounds/criminal-xphb.md) or [Guard](Compendium/backgrounds/guard-xphb.md) background might have a connection to the Grand Citadel involving a past run-in with the law or past service on the watch.
+Adventurers with the [[criminal-xphb|Criminal]] or [[guard-xphb|Guard]] background might have a connection to the Grand Citadel involving a past run-in with the law or past service on the watch.
 
 ###### Reasons to Visit
 
@@ -914,17 +914,17 @@ Adventurers might be drawn to the Grand Citadel for one of the following reasons
 > The front of this building is a grand sweep of granite walls and tall columns. A wide ramp leads to a pair of massive doors flanked by stone-carved dragons. Inside, it's cool and musty.
 ^325
 
-Weapons and armor aren't permitted in the Great Library. If anyone wearing armor or carrying a visible weapon tries to enter the library, or if a thief is spotted trying to leave the library with one or more stolen books, the stone-carved bronze dragons flanking the entrance animate and attack. These statues are [Stone Golems](Compendium/bestiary/construct/stone-golem-xmm.md).
+Weapons and armor aren't permitted in the Great Library. If anyone wearing armor or carrying a visible weapon tries to enter the library, or if a thief is spotted trying to leave the library with one or more stolen books, the stone-carved bronze dragons flanking the entrance animate and attack. These statues are [[stone-golem-xmm|Stone Golems]].
 
-Abra Saghast, a crusty and irascible dragonborn sage, serves as the head librarian. Abra, an [Archmage](Compendium/bestiary/humanoid/archmage-xmm.md) (Chaotic Good), has bright-green eyes, and her bronze scales are tinged with aquamarine blue. She typically wears a patchwork robe.
+Abra Saghast, a crusty and irascible dragonborn sage, serves as the head librarian. Abra, an [[archmage-xmm|Archmage]] (Chaotic Good), has bright-green eyes, and her bronze scales are tinged with aquamarine blue. She typically wears a patchwork robe.
 
 Abra sits behind a high desk in the main hall. Six open archways lead from the main hall to wings where the bulk of the library's books are shelved, free for visitors to peruse (but not remove from the library). The library has several sages and scribes under contract to write books, mostly detailing current affairs in the city.
 
-An iron door leads to a hallway behind the head librarian's desk. Three scribes ([Mages](Compendium/bestiary/humanoid/mage-xmm.md)) labor here and act as sentries, for next to their desks are three locked, iron doors to the library's vaults. [Arcane Lock](Compendium/spells/arcane-lock-xphb.md) spells seal these doors, beyond which are repositories for the library's most valuable or scandalous works. Next to each scribe's desk is a pull cord hanging through a hole in the ceiling. A tug on any one of these cords releases a homing pigeon from a loft above the library. It takes the bird 1 minute to find and alert an [Archmage](Compendium/bestiary/humanoid/archmage-xmm.md), who teleports to the main hall of the library to investigate.
+An iron door leads to a hallway behind the head librarian's desk. Three scribes ([[mage-xmm|Mages]]) labor here and act as sentries, for next to their desks are three locked, iron doors to the library's vaults. [[arcane-lock-xphb|Arcane Lock]] spells seal these doors, beyond which are repositories for the library's most valuable or scandalous works. Next to each scribe's desk is a pull cord hanging through a hole in the ceiling. A tug on any one of these cords releases a homing pigeon from a loft above the library. It takes the bird 1 minute to find and alert an [[archmage-xmm|Archmage]], who teleports to the main hall of the library to investigate.
 
 ###### Character Backgrounds
 
-Adventurers with the [Sage](Compendium/backgrounds/sage-xphb.md) or [Scribe](Compendium/backgrounds/scribe-xphb.md) background might have a connection to the Great Library and its proprietor.
+Adventurers with the [[sage-xphb|Sage]] or [[scribe-xphb|Scribe]] background might have a connection to the Great Library and its proprietor.
 
 ###### Reasons to Visit
 
@@ -932,7 +932,7 @@ Adventurers might visit the Great Library for one of the following reasons:
 
 - **Research.** Adventurers searching for a specific book or more information about a specific topic might find what they're looking for in the library.  
 - **Spellbooks.** The adventurers might need to purloin one of the many spellbooks kept in the library, necessitating a carefully planned heist.  
-- **Spell Scrolls.** Adventurers can commission the scribes to create a [Spell Scroll](Compendium/items/spell-scroll-xdmg.md) that bears a Wizard spell of level 5 or lower. See the "Player's Handbook" for the time required to "craft a scroll"; the scribes charge double the cost shown there.  
+- **Spell Scrolls.** Adventurers can commission the scribes to create a [[spell-scroll-xdmg|Spell Scroll]] that bears a Wizard spell of level 5 or lower. See the "Player's Handbook" for the time required to "craft a scroll"; the scribes charge double the cost shown there.  
 
 ##### High Tower Inn
 
@@ -941,13 +941,13 @@ Adventurers might visit the Great Library for one of the following reasons:
 > Conveniently located near the Selintan River, this inviting inn is distinguished by its tall tower, which is pointed at the top like the hat of an eccentric wizard. The clientele is notably wealthy, but the inn itself isn't at all ostentatious.
 ^329
 
-The High Tower Inn's human proprietor, Erlynn Goodfellow, is a soft-spoken, middle-aged, pot-bellied [Mage](Compendium/bestiary/humanoid/mage-xmm.md) (Lawful Good) with gray hair, bright-blue eyes, and platinum-rimmed spectacles. She dabbled in adventuring before realizing she had little taste for danger and her life's calling might involve more sedentary pursuits. Few guests know of Erlynn's magical abilities, as she rarely casts spells in front of strangers.
+The High Tower Inn's human proprietor, Erlynn Goodfellow, is a soft-spoken, middle-aged, pot-bellied [[mage-xmm|Mage]] (Lawful Good) with gray hair, bright-blue eyes, and platinum-rimmed spectacles. She dabbled in adventuring before realizing she had little taste for danger and her life's calling might involve more sedentary pursuits. Few guests know of Erlynn's magical abilities, as she rarely casts spells in front of strangers.
 
 The High Tower, located in the Garden Quarter, is a favorite haunt for some of the city's most famous wizards, including "Otto" and "Jallarzi".
 
 ###### Character Backgrounds
 
-Adventurers with the [Merchant](Compendium/backgrounds/merchant-xphb.md) or [Noble](Compendium/backgrounds/noble-xphb.md) background might have a connection to the High Tower Inn, which caters to people of means.
+Adventurers with the [[merchant-xphb|Merchant]] or [[noble-xphb|Noble]] background might have a connection to the High Tower Inn, which caters to people of means.
 
 ###### Reasons to Visit
 
@@ -968,13 +968,13 @@ Adventurers might visit the High Tower for one of the following reasons:
 
 The grand Silver Dragon Inn, located in the Foreign Quarter, is often the first place sought by new arrivals to the city. The prices are average, but the food servings are huge. The inn's menu includes spicy bean dishes, seafood delicacies of the Wild Coast, and rice and vegetable entrées.
 
-Weapons larger than daggers must be checked at the door, together with shields. Customers wearing metal armor aren't admitted. Two bouncers (Neutral [Tough Bosses](Compendium/bestiary/humanoid/tough-boss-xmm.md)) stand at the door, politely enforcing the rule.
+Weapons larger than daggers must be checked at the door, together with shields. Customers wearing metal armor aren't admitted. Two bouncers (Neutral [[tough-boss-xmm|Tough Bosses]]) stand at the door, politely enforcing the rule.
 
-The inn's married human proprietors, Olaf Al-Azul (Chaotic Good [Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md)) and Sivan Al-Azul (Chaotic Neutral [Assassin](Compendium/bestiary/humanoid/assassin-xmm.md)), speak multiple languages and use humor to raise spirits and diffuse tensions. Olaf can almost always break up a fight before it starts, generally with a round of drinks for the instigators. Sivan is quiet and introspective, but he always keeps a hilarious joke or cutting remark at the ready.
+The inn's married human proprietors, Olaf Al-Azul (Chaotic Good [[warrior-veteran-xmm|Warrior Veteran]]) and Sivan Al-Azul (Chaotic Neutral [[assassin-xmm|Assassin]]), speak multiple languages and use humor to raise spirits and diffuse tensions. Olaf can almost always break up a fight before it starts, generally with a round of drinks for the instigators. Sivan is quiet and introspective, but he always keeps a hilarious joke or cutting remark at the ready.
 
 ###### Character Backgrounds
 
-Adventurers with the [Artisan](Compendium/backgrounds/artisan-xphb.md) or [Entertainer](Compendium/backgrounds/entertainer-xphb.md) background might do business with the Silver Dragon Inn.
+Adventurers with the [[artisan-xphb|Artisan]] or [[entertainer-xphb|Entertainer]] background might do business with the Silver Dragon Inn.
 
 ###### Reasons to Visit
 
@@ -991,20 +991,20 @@ Adventurers might visit the Silver Dragon for one of the following reasons:
 > Hidden among the city's grander temples is a quiet, modest house of worship with clay-tiled rooftops, a corner bell tower, and well-tended vegetable gardens. Sick and hungry folk gather in short lines outside as they wait for priests to attend to their needs.
 ^331
 
-Situated in the Garden Quarter, this temple is dedicated to Fharlanghn, a god favored by travelers and mercenaries. The [Priests](Compendium/bestiary/humanoid/priest-xmm.md) who staff the temple offer nourishment, rest, and healing to those in need, day and night. Several small rooms are maintained for guests, and simple, hot meals are free to all visitors.
+Situated in the Garden Quarter, this temple is dedicated to Fharlanghn, a god favored by travelers and mercenaries. The [[priest-xmm|Priests]] who staff the temple offer nourishment, rest, and healing to those in need, day and night. Several small rooms are maintained for guests, and simple, hot meals are free to all visitors.
 
 ###### Character Backgrounds
 
-Adventurers with the [Guide](Compendium/backgrounds/guide-xphb.md) or [Sailor](Compendium/backgrounds/sailor-xphb.md) background might have a connection to the temple, which offers help to travelers.
+Adventurers with the [[guide-xphb|Guide]] or [[sailor-xphb|Sailor]] background might have a connection to the temple, which offers help to travelers.
 
 ###### Reasons to Visit
 
 Adventurers might visit the temple for one of the following reasons:
 
 - **Adventurers Wanted.** The priests keep tabs on threats in the region around the city. They're paying close attention to rumors of dragon activity in the nearby Cairn Hills, and they're looking to hire adventurers to investigate these rumors.  
-- **Healing.** Adventurers can purchase [Potions of Healing](Compendium/items/potion-of-healing-xdmg.md) for 50 GP each, and the temple's priests have `1d4` such potions in stock on any given day. The priests also have [Cure Wounds](Compendium/spells/cure-wounds-xphb.md) and [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md) spells prepared and customarily cast them for free. For more powerful magic, such as [Greater Restoration](Compendium/spells/greater-restoration-xphb.md) and [Raise Dead](Compendium/spells/raise-dead-xphb.md) spells, the priests direct the adventurers to the Temple of the Radiant Sun.  
+- **Healing.** Adventurers can purchase [[potion-of-healing-xdmg|Potions of Healing]] for 50 GP each, and the temple's priests have `1d4` such potions in stock on any given day. The priests also have [[cure-wounds-xphb|Cure Wounds]] and [[lesser-restoration-xphb|Lesser Restoration]] spells prepared and customarily cast them for free. For more powerful magic, such as [[greater-restoration-xphb|Greater Restoration]] and [[raise-dead-xphb|Raise Dead]] spells, the priests direct the adventurers to the Temple of the Radiant Sun.  
 - **Safe Travels.** By making a small donation to the temple, adventurers increase the likelihood of safe travel to their next destination.  
-- **Teleportation Circle.** Though it isn't the only permanent teleportation circle in the city, the circle within the Temple of the Far Horizon is the easiest to access. The priests allow free access to the teleportation circle in either direction. For 2,000 GP, the chief priest will cast the [Teleportation Circle](Compendium/spells/teleportation-circle-xphb.md) spell to open a connection to another permanent circle on the Material Plane.  
+- **Teleportation Circle.** Though it isn't the only permanent teleportation circle in the city, the circle within the Temple of the Far Horizon is the easiest to access. The priests allow free access to the teleportation circle in either direction. For 2,000 GP, the chief priest will cast the [[teleportation-circle-xphb|Teleportation Circle]] spell to open a connection to another permanent circle on the Material Plane.  
 
 ##### Temple of the Radiant Sun
 
@@ -1013,20 +1013,20 @@ Adventurers might visit the temple for one of the following reasons:
 > This copper-roofed temple has a gold-inlaid symbol of the sun above its double-door entrance. During the day, sunlight shines through high windows to illuminate the temple's interior, which is adorned with golden draperies.
 ^335
 
-This temple, dedicated to serving the god Pelor in the heart of the Garden Quarter, opens at dawn and closes at dusk. In a sanctuary in the heart of the temple, [Priests](Compendium/bestiary/humanoid/priest-xmm.md) conduct daily morning rites, as well as all-day observances every Godsday.
+This temple, dedicated to serving the god Pelor in the heart of the Garden Quarter, opens at dawn and closes at dusk. In a sanctuary in the heart of the temple, [[priest-xmm|Priests]] conduct daily morning rites, as well as all-day observances every Godsday.
 
-Sarana, the temple's [Archpriest](Compendium/bestiary/humanoid/archpriest-xmm.md) (Neutral Good), is a middle-aged, human woman wearing a sun-shaped headdress and yellow-and-gold robes. She is never seen in public without her [Staff of Healing](Compendium/items/staff-of-healing-xdmg.md). Sarana has straw-colored hair, green eyes, and a forgiving nature.
+Sarana, the temple's [[archpriest-xmm|Archpriest]] (Neutral Good), is a middle-aged, human woman wearing a sun-shaped headdress and yellow-and-gold robes. She is never seen in public without her [[staff-of-healing-xdmg|Staff of Healing]]. Sarana has straw-colored hair, green eyes, and a forgiving nature.
 
 ###### Character Backgrounds
 
-Adventurers with the [Acolyte](Compendium/backgrounds/acolyte-xphb.md) background might have served in the Temple of the Radiant Sun, while those with the Farmer background might seek it out as a place for blessing.
+Adventurers with the [[acolyte-xphb|Acolyte]] background might have served in the Temple of the Radiant Sun, while those with the Farmer background might seek it out as a place for blessing.
 
 ###### Reasons to Visit
 
 Adventurers might visit the temple for one of the following reasons:
 
-- **Healing.** The temple sells [Spell Scrolls](Compendium/items/spell-scroll-xdmg.md) of [Greater Restoration](Compendium/spells/greater-restoration-xphb.md) for 3,200 GP apiece and [Spell Scrolls](Compendium/items/spell-scroll-xdmg.md) of [Remove Curse](Compendium/spells/remove-curse-xphb.md) for 300 GP apiece, and the priests have `1d3` copies of each scroll in stock on any given day. The priests also have [Cure Wounds](Compendium/spells/cure-wounds-xphb.md) and [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md) spells prepared, which they customarily cast for free.  
-- **Raise Dead.** Archpriest Sarana is one of a handful of people in the Free City of Greyhawk who can cast the [Raise Dead](Compendium/spells/raise-dead-xphb.md) spell, but she needs the requisite 500 GP diamond to do so. Sarana can recommend a jeweler who sells diamonds of sufficient value. Before agreeing to cast the spell, Sarana casts [Zone of Truth](Compendium/spells/zone-of-truth-xphb.md) and asks questions about the deceased individual to make sure she's not returning to life someone who should stay dead.  
+- **Healing.** The temple sells [[spell-scroll-xdmg|Spell Scrolls]] of [[greater-restoration-xphb|Greater Restoration]] for 3,200 GP apiece and [[spell-scroll-xdmg|Spell Scrolls]] of [[remove-curse-xphb|Remove Curse]] for 300 GP apiece, and the priests have `1d3` copies of each scroll in stock on any given day. The priests also have [[cure-wounds-xphb|Cure Wounds]] and [[lesser-restoration-xphb|Lesser Restoration]] spells prepared, which they customarily cast for free.  
+- **Raise Dead.** Archpriest Sarana is one of a handful of people in the Free City of Greyhawk who can cast the [[raise-dead-xphb|Raise Dead]] spell, but she needs the requisite 500 GP diamond to do so. Sarana can recommend a jeweler who sells diamonds of sufficient value. Before agreeing to cast the spell, Sarana casts [[zone-of-truth-xphb|Zone of Truth]] and asks questions about the deceased individual to make sure she's not returning to life someone who should stay dead.  
 - **Service to the Greater Good.** The temple might call upon the adventurers to perform good acts in the city or abroad. Sarana is particularly vigilant about the threat of Elemental Evil, since she was involved in the battle at the Temple of Elemental Evil seven years ago. In exchange for their service, the characters and their companions are entitled to a 50 percent discount on goods purchased at the temple.  
 
 ##### Unearthed Arcana
@@ -1040,13 +1040,13 @@ Adventurers might visit the temple for one of the following reasons:
 
 Magic items are bought and sold in Unearthed Arcana, a quaint shop in Clerkburg. Magical wards render the store's windows and doors shatterproof, and no one can use magic to enter or leave the shop without the consent of its proprietor, Morley, whose quarters take up the second floor.
 
-Morley is an [Adult Copper Dragon](Compendium/bestiary/dragon/adult-copper-dragon-xmm.md) (Chaotic Good) who spends his days shape-shifted into a talkative, alert, white-bearded human mage wearing a pointed hat, frayed robes, and pointed slippers. Only a few people in the city—including the esteemed local members of the Circle of Eight, Jallarzi Sallavarian and Otto—know Morley's true form.
+Morley is an [[adult-copper-dragon-xmm|Adult Copper Dragon]] (Chaotic Good) who spends his days shape-shifted into a talkative, alert, white-bearded human mage wearing a pointed hat, frayed robes, and pointed slippers. Only a few people in the city—including the esteemed local members of the Circle of Eight, Jallarzi Sallavarian and Otto—know Morley's true form.
 
 Morley is one of the city's secret weapons, ready to repel invaders or break a siege should the need arise. The dragon has a soft spot for adventurers who risk their lives for good causes. He occasionally loans magic items free of charge to valorous heroes who can't afford them, on the condition that the items be returned to him as soon as they're no longer needed.
 
 ###### Character Backgrounds
 
-Adventurers with the [Charlatan](Compendium/backgrounds/charlatan-xphb.md) or [Hermit](Compendium/backgrounds/hermit-xphb.md) background might have a connection to Unearthed Arcana, as Morley has a variety of unusual interests.
+Adventurers with the [[charlatan-xphb|Charlatan]] or [[hermit-xphb|Hermit]] background might have a connection to Unearthed Arcana, as Morley has a variety of unusual interests.
 
 ###### Reasons to Visit
 
@@ -1054,7 +1054,7 @@ Adventurers might visit Unearthed Arcana for one of the following reasons:
 
 - **Buying and Selling Magic Items.** Morley buys and sells magic items at "standard prices" (see "chapter 7"). Although he keeps a few magic items in the shop to catch the eye, most of his inventory is stored in extradimensional vaults only he can access. The shop sells many Common, Uncommon, and Rare magic items—mainly potions, rings, rods, staffs, wands, and wondrous items. Morley has access to a few Very Rare and Legendary magic items as well.  
 - **Free Loan.** A benefactor arranges for Morley to loan the characters a magic item to help them complete a quest. Before giving them the item, Morley asks they return it in pristine condition.  
-- **Magic Item Identification.** Morley can cast the [Identify](Compendium/spells/identify-xphb.md) spell at will. He charges 50 GP for each casting of the spell.  
+- **Magic Item Identification.** Morley can cast the [[identify-xphb|Identify]] spell at will. He charges 50 GP for each casting of the spell.  
 
 #### Beyond the City Walls
 
@@ -1077,7 +1077,7 @@ The City of Greyhawk and Environs map shows the lands around the Free City of Gr
 - **Grossettgrottell.** An industrious community of gnome miners and foragers lives in this network of hewn tunnels and natural caverns. The gnomes trade gemstones and rare fungi in exchange for help repelling monsters from the Underdark.  
 - **Marsh Keep.** Like Blackwall Keep, Marsh Keep is newly built and watches over the Mistmarsh. The Dwarfwalk road leads east from the tower to Greysmere, a quarrying town with a large population of dwarves.  
 - **Mining Towns.** Blackstone, Diamond Lake, and Steaming Springs are small mining towns governed and protected by the Free City of Greyhawk. The city frequently dispatches adventurers to quell threats to the towns' miners and mining operations, which of late includes agents of Iuz intent on destabilizing the city's economy.  
-- **Mistmarsh.** This vast swamp holds the half-sunken ruins of an ancient city that is now shrouded by fog and guarded by a family of black dragons. [Will-o'-wisps](Compendium/bestiary/undead/will-o-wisp-xmm.md) lure prey to the ruins, where doom awaits.  
+- **Mistmarsh.** This vast swamp holds the half-sunken ruins of an ancient city that is now shrouded by fog and guarded by a family of black dragons. [[will-o-wisp-xmm|Will-o'-wisps]] lure prey to the ruins, where doom awaits.  
 - **Peculiar Manor.** Like other manors in the Plain of Greyhawk, Peculiar Manor was established by a now-forgotten hero of an ancient war. However, a few years ago it was purchased by retired adventurers from Ekbir, Sanjarah and Chetna Mohsin. The Mohsins brew an extraordinary ale they call Old Peculiar, which lends its name to the manor.  
 - **Steaming Springs.** See "Mining Towns" above.  
 - **Stone Bridge.** A small garrison in the fort of Stone Bridge keeps careful watch over river traffic approaching Greyhawk.  
@@ -1115,8 +1115,8 @@ With this big picture in mind, you can think of the Flanaess beyond the Free Cit
 > 
 > - **Echoes of the Past.** Features like a crater in the side of a mountain, a defaced statue in the town square, or a holiday celebrating a local hero provide concrete touchstones to past events. The characters might learn that a ruin they're exploring was destroyed in a catastrophic battle or natural disaster.  
 > - **Historical Records.** Written historical details might appear anywhere in an adventure: glyphs on ancient dungeon walls, books in a library, files in a royal vault, or tapestries depicting key events. Use such set dressing to share important details. Summarize what lengthy works say, and focus on the most plot-worthy parts.  
-> - **Scholarly Expertise.** Characters who have proficiency in the [Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), or [Religion](Compendium/rules/skills.md#Religion) skill can be fonts of useful information. When it would be helpful for a group to know something about the setting, ask such characters to make an Intelligence check using the relevant skill, then share plot-relevant details if their roll warrants it.  
-> - **Magical Footnotes.** Spells such as [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md), [Legend Lore](Compendium/spells/legend-lore-xphb.md), and [Speak with Dead](Compendium/spells/speak-with-dead-xphb.md) allow characters to learn information while leaving you control of the particulars.  
+> - **Scholarly Expertise.** Characters who have proficiency in the [[skills#Arcana|Arcana]], [[skills#History|History]], or [[skills#Religion|Religion]] skill can be fonts of useful information. When it would be helpful for a group to know something about the setting, ask such characters to make an Intelligence check using the relevant skill, then share plot-relevant details if their roll warrants it.  
+> - **Magical Footnotes.** Spells such as [[contact-other-plane-xphb|Contact Other Plane]], [[legend-lore-xphb|Legend Lore]], and [[speak-with-dead-xphb|Speak with Dead]] allow characters to learn information while leaving you control of the particulars.  
 > - **Primary Sources.** Personify the past through a tragic ghost, an otherworldly guardian, an artificial intelligence, an ancient sage, or another long-lived individual. Such NPCs give you a way to share relevant information and respond to questions from the party. If the characters miss an important detail, this NPC can reinforce details in a way books and recollected facts can't.  
 > 
 > Any one of these methods is useful for revealing a few details. You can combine them to share nuanced histories and help players feel like they're digging into a rich and realistic history.
@@ -1128,7 +1128,7 @@ With this big picture in mind, you can think of the Flanaess beyond the Free Cit
 
 The rich soil and pleasant climate of the region between the Nyr Dyv and the Yatil Mountains—combined with healthy trade relations between these realms and their neighbors to the east, south, and west—make this a strong and prosperous region.
 
-![Central Flanaess Locations](Compendium/tables/central-flanaess-locations-xdmg.md)
+![[central-flanaess-locations-xdmg|Central Flanaess Locations]]
 
 ##### Battle of Emridy Meadows
 
@@ -1178,7 +1178,7 @@ Once a powerful force for order and good, the Great Kingdom of Aerdy has decline
 
 Aerdiaak, Ahlissa, Medegia, and Rel Astra are provinces and fiefs of the Great Kingdom. The Sea Baronies are vassal states that provide most of the kingdom's navy.
 
-![Eastern Flanaess Locations](Compendium/tables/eastern-flanaess-locations-xdmg.md)
+![[eastern-flanaess-locations-xdmg|Eastern Flanaess Locations]]
 
 ##### Shar
 
@@ -1222,7 +1222,7 @@ The chilly mists of the Troll Fens, located against the shoulders of the Griff M
 
 The northern region of the Flanaess includes three distinct areas populated by different peoples: the Baklunish horse riders of the Chakyik and the Wegwiur, the Suloise people of the North Kingdoms, and the Flan nomads of the Hunting Lands.
 
-![Northern Flanaess Locations](Compendium/tables/northern-flanaess-locations-xdmg.md)
+![[northern-flanaess-locations-xdmg|Northern Flanaess Locations]]
 
 ##### Baklunish Nomads
 
@@ -1272,7 +1272,7 @@ The cold north is an ideal location for a campaign featuring themes of "sword-an
 
 United by their shared history as part of the ancient Kingdom of Keoland, the marches and fiefdoms between the Lortmil Mountains and the higher mountains to the west gather diverse populations of many different species in relative peace with each other. Even the long-standing feud between Keoland and the Hold of the Sea Princes might be drawing to an end under the leadership of Keoland's current ruler, King Kimbertos Skotti. The region enjoys a warm, mild climate but faces many threats from monstrous foes.
 
-![Old Keoland Locations](Compendium/tables/old-keoland-locations-xdmg.md)
+![[old-keoland-locations-xdmg|Old Keoland Locations]]
 
 ##### Old Keoland Culture
 
@@ -1322,7 +1322,7 @@ The nations of Ekbir, Tusmit, and Zeif represent the heart of the region, and tw
 
 Sultan Naxas Murad of Zeif is a reclusive man, a great philosopher, and a stern father figure to the rulers of Ekbir and Tusmit. Over the years, advisers and family members have urged Naxas to expand Zeif's borders through military conquest, but he refuses to do so, citing failed land grabs by kingdoms through history as proof that imperial expansion across the Flanaess rarely ends well.
 
-![Western Flanaess Locations](Compendium/tables/western-flanaess-locations-xdmg.md)
+![[western-flanaess-locations-xdmg|Western Flanaess Locations]]
 
 ##### Western Flanaess Culture
 

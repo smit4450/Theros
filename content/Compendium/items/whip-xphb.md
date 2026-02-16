@@ -15,7 +15,7 @@ aliases:
 ![](Compendium/items/img/whip.webp#right)
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Reach](Compendium/rules/item-properties.md#Reach)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
 - **Cost**: 2 gp
 - **Weight**: 3.0 lbs.
 

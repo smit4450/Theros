@@ -26,10 +26,10 @@ aliases: ["Tasha's Bubbling Cauldron"]
 
 You conjure a claw-footed cauldron filled with bubbling liquid. The cauldron appears in an unoccupied space on the ground within 5 feet of you and lasts for the duration. The cauldron can't be moved and disappears when the spell ends, along with the bubbling liquid inside it.
 
-The liquid in the cauldron duplicates the properties of a Common or an Uncommon potion of your choice (such as a [Potion of Healing](Compendium/items/potion-of-healing-xdmg.md)). As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you or an ally can reach into the cauldron and withdraw one potion of that kind. The potion is contained in a vial that disappears when the potion is consumed. The cauldron can produce a number of these potions equal to your spellcasting ability modifier (minimum 1). When the last of these potions is withdrawn from the cauldron, the cauldron disappears, and the spell ends.
+The liquid in the cauldron duplicates the properties of a Common or an Uncommon potion of your choice (such as a [[potion-of-healing-xdmg|Potion of Healing]]). As a [[bonus-action-xphb|Bonus Action]], you or an ally can reach into the cauldron and withdraw one potion of that kind. The potion is contained in a vial that disappears when the potion is consumed. The cauldron can produce a number of these potions equal to your spellcasting ability modifier (minimum 1). When the last of these potions is withdrawn from the cauldron, the cauldron disappears, and the spell ends.
 
 Potions obtained from the cauldron that aren't consumed disappear when you cast this spell again.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 330*

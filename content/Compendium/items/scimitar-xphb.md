@@ -15,7 +15,7 @@ aliases:
 ![](Compendium/items/img/scimitar.webp#right)
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Cost**: 25 gp
 - **Weight**: 3.0 lbs.
 

@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Cost**: 2 gp
 - **Weight**: 2.0 lbs.
 

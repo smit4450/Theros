@@ -22,6 +22,6 @@ Creatures inside the euklisia are resistant to cold and fire damage from sources
 
 ## Overpaid
 
-Taking a [long rest](Compendium/rules/variant-rules/long-rest-xphb.md) inside the euklisia removes one level of [exhaustion](Compendium/rules/conditions.md#Exhaustion) in addition to the one level removed by taking a long rest.
+Taking a [[long-rest-xphb|long rest]] inside the euklisia removes one level of [[conditions#Exhaustion|exhaustion]] in addition to the one level removed by taking a long rest.
 
 *Source: The Gray Merchant of Asphodel*

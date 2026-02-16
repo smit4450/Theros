@@ -29,4 +29,4 @@ aliases:
 | — | 50-foot | 30-foot-radius | — | 20 |
 ^targets-in-area-of-effect
 
-*Use this column for [Cylinders](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md), [Emanations](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) (using the size of the Emanation rather than its radius), and [Spheres](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md).
+*Use this column for [[cylinder-area-of-effect-xphb|Cylinders]], [[emanation-area-of-effect-xphb|Emanations]] (using the size of the Emanation rather than its radius), and [[sphere-area-of-effect-xphb|Spheres]].

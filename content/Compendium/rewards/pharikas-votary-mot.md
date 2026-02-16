@@ -14,6 +14,6 @@ aliases:
 
 *Piety 10+ Pharika trait*
 
-Pharika's blessing shields you from most maladies. You have advantage on saving throws against being [poisoned](Compendium/rules/conditions.md#Poisoned), and you are immune to disease.
+Pharika's blessing shields you from most maladies. You have advantage on saving throws against being [[conditions#Poisoned|poisoned]], and you are immune to disease.
 
 *Source: Mythic Odysseys of Theros p. 70*

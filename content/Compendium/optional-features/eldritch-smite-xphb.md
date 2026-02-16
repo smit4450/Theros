@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Level 5, pact of the blade|xphb
 
-Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra `1d8` Force damage to the target, plus another `1d8` per level of the spell slot, and you can give the target the [Prone](Compendium/rules/conditions.md#Prone) condition if it is Huge or smaller.
+Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra `1d8` Force damage to the target, plus another `1d8` per level of the spell slot, and you can give the target the [[conditions#Prone|Prone]] condition if it is Huge or smaller.

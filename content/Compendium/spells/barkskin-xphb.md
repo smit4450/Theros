@@ -26,8 +26,8 @@ aliases: ["Barkskin"]
 - **Components:** V, S, M (a handful of oak bark)
 - **Duration:** 1 hour
 
-You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) of 17 if its AC is lower than that.
+You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an [[armor-class-xphb|Armor Class]] of 17 if its AC is lower than that.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]
 
 *Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

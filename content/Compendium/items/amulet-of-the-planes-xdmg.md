@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-While wearing this amulet, you can take a [Magic](Compendium/rules/actions.md#Magic) action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check. On a successful check, you cast [Plane Shift](Compendium/spells/plane-shift-xphb.md). On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling `1d100` and consulting the following table.
+While wearing this amulet, you can take a [[actions#Magic|Magic]] action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence ([[skills#Arcana|Arcana]]) check. On a successful check, you cast [[plane-shift-xphb|Plane Shift]]. On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling `1d100` and consulting the following table.
 
 | dice: 1d100 | Destination |
 |-------------|-------------|

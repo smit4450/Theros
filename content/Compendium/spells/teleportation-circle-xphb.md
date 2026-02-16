@@ -34,6 +34,6 @@ When you first gain the ability to cast this spell, you learn the sigil sequence
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

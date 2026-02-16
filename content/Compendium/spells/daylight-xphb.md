@@ -37,12 +37,12 @@ aliases: ["Daylight"]
 - **Components:** V, S
 - **Duration:** 1 hour
 
-For the duration, sunlight spreads from a point within range and fills a 60-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md). The sunlight's area is [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) and sheds [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 60 feet.
+For the duration, sunlight spreads from a point within range and fills a 60-foot-radius [[sphere-area-of-effect-xphb|Sphere]]. The sunlight's area is [[bright-light-xphb|Bright Light]] and sheds [[dim-light-xphb|Dim Light]] for an additional 60 feet.
 
-Alternatively, you cast the spell on an object that isn't being worn or carried, causing the sunlight to fill a 60-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight.
+Alternatively, you cast the spell on an object that isn't being worn or carried, causing the sunlight to fill a 60-foot [[emanation-area-of-effect-xphb|Emanation]] originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight.
 
-If any of this spell's area overlaps with an area of [Darkness](Compendium/rules/variant-rules/darkness-xphb.md) created by a spell of level 3 or lower, that other spell is dispelled.
+If any of this spell's area overlaps with an area of [[darkness-xphb|Darkness]] created by a spell of level 3 or lower, that other spell is dispelled.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-sorcerer|Sorcerer]]; [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 260. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

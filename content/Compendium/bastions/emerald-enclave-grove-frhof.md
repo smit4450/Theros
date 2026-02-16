@@ -28,18 +28,18 @@ Creatures in your Emerald Enclave Grove count as Bastion Defenders. Deduct any y
 
 | Creature | Size |
 |----------|------|
-| [Awakened Shrub](Compendium/bestiary/plant/awakened-shrub-xmm.md) | Small |
-| [Awakened Tree](Compendium/bestiary/plant/awakened-tree-xmm.md) | Huge |
-| [Blink Dog](Compendium/bestiary/fey/blink-dog-xmm.md) | Medium |
-| [Centaur Trooper](Compendium/bestiary/fey/centaur-trooper-xmm.md) | Large |
-| [Dryad](Compendium/bestiary/fey/dryad-xmm.md) | Medium |
-| [Myconid Adult](Compendium/bestiary/plant/myconid-adult-xmm.md) | Medium |
-| [Myconid Sprout](Compendium/bestiary/plant/myconid-sprout-xmm.md) | Small |
-| [Pixie](Compendium/bestiary/fey/pixie-xmm.md) | Tiny |
-| [Satyr](Compendium/bestiary/fey/satyr-xmm.md) | Medium |
-| [Sprite](Compendium/bestiary/fey/sprite-xmm.md) | Tiny |
-| [Treant](Compendium/bestiary/plant/treant-xmm.md) | Large |
-| [Unicorn](Compendium/bestiary/celestial/unicorn-xmm.md) | Large |
+| [[awakened-shrub-xmm|Awakened Shrub]] | Small |
+| [[awakened-tree-xmm|Awakened Tree]] | Huge |
+| [[blink-dog-xmm|Blink Dog]] | Medium |
+| [[centaur-trooper-xmm|Centaur Trooper]] | Large |
+| [[dryad-xmm|Dryad]] | Medium |
+| [[myconid-adult-xmm|Myconid Adult]] | Medium |
+| [[myconid-sprout-xmm|Myconid Sprout]] | Small |
+| [[pixie-xmm|Pixie]] | Tiny |
+| [[satyr-xmm|Satyr]] | Medium |
+| [[sprite-xmm|Sprite]] | Tiny |
+| [[treant-xmm|Treant]] | Large |
+| [[unicorn-xmm|Unicorn]] | Large |
 ^emerald-enclave-grove-creatures
 
 *Source: FRHoF*

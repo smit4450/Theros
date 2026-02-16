@@ -13,9 +13,9 @@ aliases:
 
 Vicious vines are animated by magic. They often cling to doorways, archways, walls, and statuary. Until a vicious vine moves, there's nothing to distinguish it from an inanimate vine.
 
-Each vicious vine has AC 11; HP 16; and Immunity to Bludgeoning, Piercing, and Psychic damage. When a creature enters a space within 5 feet of the vine for the first time on a turn or starts its turn there, the vine tries to coil around that creature. The target must succeed on a DC 12 Dexterity saving throw or have the [Grappled](Compendium/rules/conditions.md#Grappled) condition (escape DC 12). While Grappled in this way, the target takes 5 (`1d10`) Necrotic damage from the vine's life-draining thorns at the start of each of the target's turns. The vine can grapple only one creature at a time.
+Each vicious vine has AC 11; HP 16; and Immunity to Bludgeoning, Piercing, and Psychic damage. When a creature enters a space within 5 feet of the vine for the first time on a turn or starts its turn there, the vine tries to coil around that creature. The target must succeed on a DC 12 Dexterity saving throw or have the [[conditions#Grappled|Grappled]] condition (escape DC 12). While Grappled in this way, the target takes 5 (`1d10`) Necrotic damage from the vine's life-draining thorns at the start of each of the target's turns. The vine can grapple only one creature at a time.
 
-As an [Influence](Compendium/rules/actions.md#Influence) action, a character under the effect of a [Speak with Plants](Compendium/spells/speak-with-plants-xphb.md) spell or similar magic can try to persuade the vine to release its victim, doing so with a successful DC 10 Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) check. A creature released by the vine in this way won't be attacked by that vine again for the next 24 hours.
+As an [[actions#Influence|Influence]] action, a character under the effect of a [[speak-with-plants-xphb|Speak with Plants]] spell or similar magic can try to persuade the vine to release its victim, doing so with a successful DC 10 Charisma ([[skills#Persuasion|Persuasion]]) check. A creature released by the vine in this way won't be attacked by that vine again for the next 24 hours.
 
 ## At Higher Levels
 

@@ -20,10 +20,10 @@ aliases: ["Armor of Agathys"]
 - **Components:** V, S, M (a shard of blue glass)
 - **Duration:** 1 hour
 
-Protective magical frost surrounds you. You gain 5 [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md). If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md).
+Protective magical frost surrounds you. You gain 5 [[temporary-hit-points-xphb|Temporary Hit Points]]. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no [[temporary-hit-points-xphb|Temporary Hit Points]].
 
-**Using a Higher-Level Spell Slot.** The [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) and the Cold damage both increase by 5 for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The [[temporary-hit-points-xphb|Temporary Hit Points]] and the Cold damage both increase by 5 for each spell slot level above 1.
 
-**Classes**: [Warlock](Compendium/lists/list-spells-classes-warlock.md)
+**Classes**: [[list-spells-classes-warlock|Warlock]]
 
 *Source: Player's Handbook (2024) p. 243*

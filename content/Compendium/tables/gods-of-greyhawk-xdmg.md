@@ -15,33 +15,33 @@ aliases:
 
 | Name and Epithet | Home Plane | Typical Worshipers | Symbol |
 |------------------|------------|--------------------|--------|
-| [Beory](Compendium/deities/greyhawk-beory-xdmg.md), Heart of Oerth* | "Material Plane" | Farmers, herders | Green disk |
-| [Berei](Compendium/deities/greyhawk-berei-xdmg.md) of the Hearth | "Bytopia" | Families, farmers | Sheaf of wheat stalks |
-| [Boccob](Compendium/deities/greyhawk-boccob-xdmg.md) the Uncaring, Archmage of the Gods* | "Outlands" | Sages, spellcasters, seers | Eye within a pentagram |
-| [Celestian](Compendium/deities/greyhawk-celestian-xdmg.md), the Far Wanderer | "Astral Plane" | Wanderers, astronomers | Arc of seven stars inside a circle |
-| [Cuthbert](Compendium/deities/greyhawk-cuthbert-xdmg.md) of the Cudgel | "Arcadia" | Practical, honest folk | Circle at the center of a starburst of lines |
-| [Ehlonna](Compendium/deities/greyhawk-ehlonna-xdmg.md) of the Forests | "Beastlands" | Hunters, foragers | Unicorn horn |
-| [Erythnul](Compendium/deities/greyhawk-erythnul-xdmg.md), the Many | "Pandemonium" | Raiders, bandits, berserkers | Blood drop |
-| [Fharlanghn](Compendium/deities/greyhawk-fharlanghn-xdmg.md), the Dweller on the Horizon | "Outlands" | Travelers | Circle crossed by a curved horizon line |
-| [Heironeous](Compendium/deities/greyhawk-heironeous-xdmg.md) the Invincible | "Mount Celestia" | Knights, soldiers | Lightning bolt |
-| [Hextor](Compendium/deities/greyhawk-hextor-xdmg.md), Scourge of Battle | "Acheron" | Soldiers, tyrants | Six down-pointing arrows in a fan |
-| [Incabulos](Compendium/deities/greyhawk-incabulos-xdmg.md), the Black Rider* | "Hades" | Necromancers, those who seek to ward off illness | Reptilian eye within a horizontal diamond |
-| [Istus](Compendium/deities/greyhawk-istus-xdmg.md), Weaver of Our Fate* | "Mechanus" | Seers, advisers | Spindle with three strands |
-| [Iuz](Compendium/deities/greyhawk-iuz-xdmg.md) the Evil† | "Material Plane" | His subjects and allies | Grinning human skull |
-| [Kord](Compendium/deities/greyhawk-kord-xdmg.md), the Brawler | "Ysgard" | Athletes, berserkers | Spears and maces radiating from a point |
-| [Nerull](Compendium/deities/greyhawk-nerull-xdmg.md), the Reaper* | "Carceri" | Murderers, necromancers | Skull with a scythe |
-| [Obad-Hai](Compendium/deities/greyhawk-obad-hai-xdmg.md), the Shalm | "Outlands" | Hunters, gatherers, hermits | Oak leaf and acorn |
-| [Olidammara](Compendium/deities/greyhawk-olidammara-xdmg.md), the Laughing Rogue | "Ysgard" | Revelers, gamblers, pranksters | Laughing mask |
-| [Pelor](Compendium/deities/greyhawk-pelor-xdmg.md), the Radiant Sun* | "Elysium" | Healers, the compassionate | Sun |
-| [Pholtus](Compendium/deities/greyhawk-pholtus-xdmg.md) of the Blinding Light | "Arcadia" | Judges, lawyers, arbiters | Silver sun partially eclipsed by a crescent moon |
-| [Ralishaz](Compendium/deities/greyhawk-ralishaz-xdmg.md), the Unlooked For | "Limbo" | Gamblers | Three bone fate-casting sticks |
-| [Rao](Compendium/deities/greyhawk-rao-xdmg.md), the Mediator* | "Mount Celestia" | Mediators, sages, scientists | White heart |
-| [Syrul](Compendium/deities/greyhawk-syrul-xdmg.md) Oathbreaker | "Gehenna" | Liars, charlatans, traitors | Forked tongue |
-| [Tharizdun](Compendium/deities/greyhawk-tharizdun-xdmg.md), the Eater of Worlds | Imprisoned in a demiplane | Nihilistic cultists | Spiral rune |
-| [Trithereon](Compendium/deities/greyhawk-trithereon-xdmg.md), the Summoner | "Arborea" | Rebels, individualists | Triskelion |
-| [Ulaa](Compendium/deities/greyhawk-ulaa-xdmg.md), the Bejeweled | "Arcadia" | Miners, jewelers, quarriers | Ruby-hearted mountain |
-| [Vecna](Compendium/deities/greyhawk-vecna-xdmg.md), the Whispered One | Unknown | Necromancers, undead, those who keep or unearth secrets | An eye in the palm of a left hand |
-| [Wee Jas](Compendium/deities/greyhawk-wee-jas-xdmg.md), the Witch | "Acheron" | Spellcasters, advisers | Red skull in front of fireball |
+| [[greyhawk-beory-xdmg|Beory]], Heart of Oerth* | "Material Plane" | Farmers, herders | Green disk |
+| [[greyhawk-berei-xdmg|Berei]] of the Hearth | "Bytopia" | Families, farmers | Sheaf of wheat stalks |
+| [[greyhawk-boccob-xdmg|Boccob]] the Uncaring, Archmage of the Gods* | "Outlands" | Sages, spellcasters, seers | Eye within a pentagram |
+| [[greyhawk-celestian-xdmg|Celestian]], the Far Wanderer | "Astral Plane" | Wanderers, astronomers | Arc of seven stars inside a circle |
+| [[greyhawk-cuthbert-xdmg|Cuthbert]] of the Cudgel | "Arcadia" | Practical, honest folk | Circle at the center of a starburst of lines |
+| [[greyhawk-ehlonna-xdmg|Ehlonna]] of the Forests | "Beastlands" | Hunters, foragers | Unicorn horn |
+| [[greyhawk-erythnul-xdmg|Erythnul]], the Many | "Pandemonium" | Raiders, bandits, berserkers | Blood drop |
+| [[greyhawk-fharlanghn-xdmg|Fharlanghn]], the Dweller on the Horizon | "Outlands" | Travelers | Circle crossed by a curved horizon line |
+| [[greyhawk-heironeous-xdmg|Heironeous]] the Invincible | "Mount Celestia" | Knights, soldiers | Lightning bolt |
+| [[greyhawk-hextor-xdmg|Hextor]], Scourge of Battle | "Acheron" | Soldiers, tyrants | Six down-pointing arrows in a fan |
+| [[greyhawk-incabulos-xdmg|Incabulos]], the Black Rider* | "Hades" | Necromancers, those who seek to ward off illness | Reptilian eye within a horizontal diamond |
+| [[greyhawk-istus-xdmg|Istus]], Weaver of Our Fate* | "Mechanus" | Seers, advisers | Spindle with three strands |
+| [[greyhawk-iuz-xdmg|Iuz]] the Evil† | "Material Plane" | His subjects and allies | Grinning human skull |
+| [[greyhawk-kord-xdmg|Kord]], the Brawler | "Ysgard" | Athletes, berserkers | Spears and maces radiating from a point |
+| [[greyhawk-nerull-xdmg|Nerull]], the Reaper* | "Carceri" | Murderers, necromancers | Skull with a scythe |
+| [[greyhawk-obad-hai-xdmg|Obad-Hai]], the Shalm | "Outlands" | Hunters, gatherers, hermits | Oak leaf and acorn |
+| [[greyhawk-olidammara-xdmg|Olidammara]], the Laughing Rogue | "Ysgard" | Revelers, gamblers, pranksters | Laughing mask |
+| [[greyhawk-pelor-xdmg|Pelor]], the Radiant Sun* | "Elysium" | Healers, the compassionate | Sun |
+| [[greyhawk-pholtus-xdmg|Pholtus]] of the Blinding Light | "Arcadia" | Judges, lawyers, arbiters | Silver sun partially eclipsed by a crescent moon |
+| [[greyhawk-ralishaz-xdmg|Ralishaz]], the Unlooked For | "Limbo" | Gamblers | Three bone fate-casting sticks |
+| [[greyhawk-rao-xdmg|Rao]], the Mediator* | "Mount Celestia" | Mediators, sages, scientists | White heart |
+| [[greyhawk-syrul-xdmg|Syrul]] Oathbreaker | "Gehenna" | Liars, charlatans, traitors | Forked tongue |
+| [[greyhawk-tharizdun-xdmg|Tharizdun]], the Eater of Worlds | Imprisoned in a demiplane | Nihilistic cultists | Spiral rune |
+| [[greyhawk-trithereon-xdmg|Trithereon]], the Summoner | "Arborea" | Rebels, individualists | Triskelion |
+| [[greyhawk-ulaa-xdmg|Ulaa]], the Bejeweled | "Arcadia" | Miners, jewelers, quarriers | Ruby-hearted mountain |
+| [[greyhawk-vecna-xdmg|Vecna]], the Whispered One | Unknown | Necromancers, undead, those who keep or unearth secrets | An eye in the palm of a left hand |
+| [[greyhawk-wee-jas-xdmg|Wee Jas]], the Witch | "Acheron" | Spellcasters, advisers | Red skull in front of fireball |
 ^gods-of-greyhawk
 
 *Greater god

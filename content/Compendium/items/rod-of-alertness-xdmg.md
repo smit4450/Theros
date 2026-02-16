@@ -20,17 +20,17 @@ This rod has the following properties.
 
 ## Alertness
 
-While holding the rod, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks and on [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) rolls. Spells. While holding the rod, you can cast the following spells from it:
+While holding the rod, you have [[advantage-xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks and on [[initiative-xphb|Initiative]] rolls. Spells. While holding the rod, you can cast the following spells from it:
 
-- [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md)  
-- [Detect Magic](Compendium/spells/detect-magic-xphb.md)  
-- [Detect Poison and Disease](Compendium/spells/detect-poison-and-disease-xphb.md)  
-- [See Invisibility](Compendium/spells/see-invisibility-xphb.md)  
+- [[detect-evil-and-good-xphb|Detect Evil and Good]]  
+- [[detect-magic-xphb|Detect Magic]]  
+- [[detect-poison-and-disease-xphb|Detect Poison and Disease]]  
+- [[see-invisibility-xphb|See Invisibility]]  
 
 ## Protective Aura
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 60-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 60 feet. While in that [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md), you and your allies gain a +1 bonus to [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) and saving throws and can sense the location of any [Invisible](Compendium/rules/conditions.md#Invisible) creature that is also in the [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md).
+As a [[actions#Magic|Magic]] action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds [[bright-light-xphb|Bright Light]] in a 60-foot radius and [[dim-light-xphb|Dim Light]] for an additional 60 feet. While in that [[bright-light-xphb|Bright Light]], you and your allies gain a +1 bonus to [[armor-class-xphb|Armor Class]] and saving throws and can sense the location of any [[conditions#Invisible|Invisible]] creature that is also in the [[bright-light-xphb|Bright Light]].
 
-The rod's head stops glowing and the effect ends after 10 minutes or when a creature takes a [Magic](Compendium/rules/actions.md#Magic) action to pull the rod from the ground. Once used, this property can't be used again until the next dawn.
+The rod's head stops glowing and the effect ends after 10 minutes or when a creature takes a [[actions#Magic|Magic]] action to pull the rod from the ground. Once used, this property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -141,7 +141,7 @@ Kruphix doesn't care about the righteousness of a cause, only about upholding im
 
 ### Benefits of Piety
 
-- [Kruphix's Devotee](Compendium/rewards/kruphixs-devotee-mot.md)  
-- [Kruphix's Votary](Compendium/rewards/kruphixs-votary-mot.md)  
-- [Kruphix's Disciple](Compendium/rewards/kruphixs-disciple-mot.md)  
-- [Champion of Horizons](Compendium/rewards/champion-of-horizons-mot.md)
+- [[kruphixs-devotee-mot|Kruphix's Devotee]]  
+- [[kruphixs-votary-mot|Kruphix's Votary]]  
+- [[kruphixs-disciple-mot|Kruphix's Disciple]]  
+- [[champion-of-horizons-mot|Champion of Horizons]]

@@ -15,11 +15,11 @@ aliases:
 
 **Price:** 1,000-2,000 gp | low sentimentality
 
-It's said that Arasta's webs stretch from the Underworld through the mortal world into Nyx itself. This small strand has touched divinity and carries echoes of it—under sunlight, it sparkles like stars in a night sky, and at night, a faint, black fog emanates from it. While you have this strand wrapped around your body, your attacks deal an extra 1d4 necrotic damage and you regain lost hit points equal to the necrotic damage you dealt. You have [advantage](Compendium/rules/variant-rules/advantage-xphb.md) on checks to grapple creatures.
+It's said that Arasta's webs stretch from the Underworld through the mortal world into Nyx itself. This small strand has touched divinity and carries echoes of it—under sunlight, it sparkles like stars in a night sky, and at night, a faint, black fog emanates from it. While you have this strand wrapped around your body, your attacks deal an extra 1d4 necrotic damage and you regain lost hit points equal to the necrotic damage you dealt. You have [[advantage-xphb|advantage]] on checks to grapple creatures.
 
 ## Curse
 
-This item is cursed if Arasta (MOoT) is alive. Attuning to it curses you until Arasta dies or you're targeted by a [remove curse](Compendium/spells/remove-curse-xphb.md) spell or similar magic. As long as you remain cursed, you can't discard the strand, which sticks to your body and seems to generate more strands the more you tug. Each night, you suffer nightmares about being caught in a massive web woven of thin, white hair. You feel the strand vibrate around your body as a massive, ominous body approaches. Each day, you feel compelled to move closer to Arasta, though you don't know her exact location. The nightmares intensify if you try to escape her web, and you're unable to take a [long rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you are closer to Arasta than when you finished your last long rest.
+This item is cursed if Arasta (MOoT) is alive. Attuning to it curses you until Arasta dies or you're targeted by a [[remove-curse-xphb|remove curse]] spell or similar magic. As long as you remain cursed, you can't discard the strand, which sticks to your body and seems to generate more strands the more you tug. Each night, you suffer nightmares about being caught in a massive web woven of thin, white hair. You feel the strand vibrate around your body as a massive, ominous body approaches. Each day, you feel compelled to move closer to Arasta, though you don't know her exact location. The nightmares intensify if you try to escape her web, and you're unable to take a [[long-rest-xphb|long rest]] unless you are closer to Arasta than when you finished your last long rest.
 
 ## Paid
 

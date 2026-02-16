@@ -14,10 +14,10 @@ aliases:
 
 You gain the following benefits.
 
-**Enhanced Unarmed Strike.** When you hit with your [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md) and deal damage, you can deal Bludgeoning damage equal to `1d4` plus your Strength modifier instead of the normal damage of an [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md).
+**Enhanced Unarmed Strike.** When you hit with your [[unarmed-strike-xphb|Unarmed Strike]] and deal damage, you can deal Bludgeoning damage equal to `1d4` plus your Strength modifier instead of the normal damage of an [[unarmed-strike-xphb|Unarmed Strike]].
 
-**Damage Rerolls.** Whenever you roll a damage die for your [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md), you can reroll the die if it rolls a 1, and you must use the new roll.
+**Damage Rerolls.** Whenever you roll a damage die for your [[unarmed-strike-xphb|Unarmed Strike]], you can reroll the die if it rolls a 1, and you must use the new roll.
 
 **Improvised Weaponry.** You have proficiency with improvised weapons.
 
-**Push.** When you hit a creature with an [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md) as part of the [Attack](Compendium/rules/actions.md#Attack) action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.
+**Push.** When you hit a creature with an [[unarmed-strike-xphb|Unarmed Strike]] as part of the [[actions#Attack|Attack]] action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.

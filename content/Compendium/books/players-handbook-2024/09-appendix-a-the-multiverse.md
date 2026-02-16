@@ -49,4 +49,4 @@ Realms where ideas take form and spirits spend their afterlives, the Outer Plane
 - **Outlands.** Influences from the other Outer Planes converge in the Outlands, where portals lead to those planes. At the Outlands' center rises the Spire, a pillar atop which floats Sigil.  
 - **Other Outer Planes.** These planes are listed on the Outer Planes table. Some are paradises, some are nightmare realms, and some are more bizarre. Each is dominated by forces that embody one or more of the alignments described in "chapter 2".  
 
-![The Outer Planes; Outer Planes](Compendium/tables/the-outer-planes-outer-planes-xphb.md)
+![[the-outer-planes-outer-planes-xphb|The Outer Planes; Outer Planes]]

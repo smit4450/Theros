@@ -18,7 +18,7 @@ aliases:
 
 The Order of the Gauntlet Tournament Field is a marked-off area for combat between two armed individuals. It includes room for spectators.
 
-Your hireling is a [Knight](Compendium/bestiary/humanoid/knight-xmm.md) whose alignment matches your own. If your Bastion lacks facilities to house this knight, the knight secures accommodations in the inn or settlement closest to the Bastion. This knight isn't a Bastion Defender, but if your Bastion is attacked, the knight reduces by 1 the number of dice you roll to determine how many Bastion Defenders are lost in the attack.
+Your hireling is a [[knight-xmm|Knight]] whose alignment matches your own. If your Bastion lacks facilities to house this knight, the knight secures accommodations in the inn or settlement closest to the Bastion. This knight isn't a Bastion Defender, but if your Bastion is attacked, the knight reduces by 1 the number of dice you roll to determine how many Bastion Defenders are lost in the attack.
 
 ## Empower: Hold Tournament
 

@@ -14,7 +14,7 @@ aliases:
 
 
 
-When you drink this potion, you transform into a pool of water. You return to your true form after 10 minutes or if you are [incapacitated](Compendium/rules/conditions.md#Incapacitated) or die.
+When you drink this potion, you transform into a pool of water. You return to your true form after 10 minutes or if you are [[conditions#Incapacitated|incapacitated]] or die.
 
 You're under the following effects while in this form:
 

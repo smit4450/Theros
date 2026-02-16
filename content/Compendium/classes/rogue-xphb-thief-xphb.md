@@ -55,15 +55,15 @@ A mix of burglar, treasure hunter, and explorer, you are the epitome of an adven
 
 ### Fast Hands (Level 3)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can do one of the following.
+As a [[bonus-action-xphb|Bonus Action]], you can do one of the following.
 
 #### Sleight of Hand
 
-Make a Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check to pick a lock or disarm a trap with [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) or to pick a pocket.
+Make a Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check to pick a lock or disarm a trap with [[thieves-tools-xphb|Thieves' Tools]] or to pick a pocket.
 
 #### Use an Object
 
-Take the [Utilize](Compendium/rules/actions.md#Utilize) action, or take the [Magic](Compendium/rules/actions.md#Magic) action to use a magic item that requires that action.
+Take the [[actions#Utilize|Utilize]] action, or take the [[actions#Magic|Magic]] action to use a magic item that requires that action.
 
 ### Second-Story Work (Level 3)
 
@@ -71,7 +71,7 @@ You've trained to get into especially hard-to-reach places, granting you these b
 
 #### Climber
 
-You gain a [Climb Speed](Compendium/rules/variant-rules/climb-speed-xphb.md) equal to your [Speed](Compendium/rules/variant-rules/speed-xphb.md).
+You gain a [[climb-speed-xphb|Climb Speed]] equal to your [[speed-xphb|Speed]].
 
 #### Jumper
 
@@ -83,7 +83,7 @@ You gain the following Cunning Strike option.
 
 #### Stealth Attack (Cost: 1d6)
 
-If you have the [Hide](Compendium/rules/actions.md#Hide) action's [Invisible](Compendium/rules/conditions.md#Invisible) condition, this attack doesn't end that condition on you if you end the turn behind [Three-Quarters Cover](Compendium/rules/variant-rules/cover-xphb.md) or [Total Cover](Compendium/rules/variant-rules/cover-xphb.md).
+If you have the [[actions#Hide|Hide]] action's [[conditions#Invisible|Invisible]] condition, this attack doesn't end that condition on you if you end the turn behind [[cover-xphb|Three-Quarters Cover]] or [[cover-xphb|Total Cover]].
 
 ### Use Magic Device (Level 13)
 
@@ -99,8 +99,8 @@ Whenever you use a magic item property that expends charges, roll `1d6`. On a ro
 
 #### Scrolls
 
-You can use any [Spell Scroll](Compendium/items/spell-scroll-xdmg.md), using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
+You can use any [[spell-scroll-xdmg|Spell Scroll]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([[skills#Arcana|Arcana]]) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 
 ### Thief's Reflexes (Level 17)
 
-You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) and your second turn at your [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) minus 10.
+You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[initiative-xphb|Initiative]] and your second turn at your [[initiative-xphb|Initiative]] minus 10.

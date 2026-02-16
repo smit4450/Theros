@@ -26,20 +26,20 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 
 | dice: 1d10 | Species |
 |------------|---------|
-| 1 | [Aasimar](Compendium/races/aasimar-xphb.md) |
-| 2 | [Dragonborn](Compendium/races/dragonborn-xphb.md) |
-| 3 | [Dwarf](Compendium/races/dwarf-xphb.md) |
-| 4 | [Elf](Compendium/races/elf-xphb.md) |
-| 5 | [Gnome](Compendium/races/gnome-xphb.md) |
-| 6 | [Goliath](Compendium/races/goliath-xphb.md) |
-| 7 | [Halfling](Compendium/races/halfling-xphb.md) |
-| 8 | [Human](Compendium/races/human-xphb.md) |
-| 9 | [Orc](Compendium/races/orc-xphb.md) |
-| 10 | [Tiefling](Compendium/races/tiefling-xphb.md) |
+| 1 | [[aasimar-xphb|Aasimar]] |
+| 2 | [[dragonborn-xphb|Dragonborn]] |
+| 3 | [[dwarf-xphb|Dwarf]] |
+| 4 | [[elf-xphb|Elf]] |
+| 5 | [[gnome-xphb|Gnome]] |
+| 6 | [[goliath-xphb|Goliath]] |
+| 7 | [[halfling-xphb|Halfling]] |
+| 8 | [[human-xphb|Human]] |
+| 9 | [[orc-xphb|Orc]] |
+| 10 | [[tiefling-xphb|Tiefling]] |
 ^1-species
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]
 
 *Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

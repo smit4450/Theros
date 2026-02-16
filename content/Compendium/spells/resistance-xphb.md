@@ -32,6 +32,6 @@ aliases: ["Resistance"]
 
 You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, Fire, Lightning, Necrotic, Piercing, Poison, Radiant, Slashing, or Thunder. When the creature takes damage of the chosen type before the spell ends, the creature reduces the total damage taken by `1d4`. A creature can benefit from this spell only once per turn.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]
 
 *Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

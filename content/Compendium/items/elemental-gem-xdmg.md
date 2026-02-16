@@ -15,9 +15,9 @@ aliases:
 
 **Items in this group:**
 
-- [Elemental Gem, Blue Sapphire](Compendium/items/elemental-gem-blue-sapphire-xdmg.md)
-- [Elemental Gem, Emerald](Compendium/items/elemental-gem-emerald-xdmg.md)
-- [Elemental Gem, Red Corundum](Compendium/items/elemental-gem-red-corundum-xdmg.md)
-- [Elemental Gem, Yellow Diamond](Compendium/items/elemental-gem-yellow-diamond-xdmg.md)
+- [[elemental-gem-blue-sapphire-xdmg|Elemental Gem, Blue Sapphire]]
+- [[elemental-gem-emerald-xdmg|Elemental Gem, Emerald]]
+- [[elemental-gem-red-corundum-xdmg|Elemental Gem, Red Corundum]]
+- [[elemental-gem-yellow-diamond-xdmg|Elemental Gem, Yellow Diamond]]
 
 *Source: Dungeon Master's Guide (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

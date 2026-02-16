@@ -18,6 +18,6 @@ aliases:
 
 *Is it any wonder adventurers flock to the Dalelands? It's not just the majestic forests and flavorful ale; here, everyone minds their own business. These wagons, popularized by adventurers current and retired, can be found from Thunder Pass to Dragon's Reach.*
 
-This vehicle is a [Wagon](Compendium/items/wagon-xphb.md) covered by durable canvas. A creature has [Three-Quarters Cover](Compendium/rules/variant-rules/cover-xphb.md) while riding inside this vehicle.
+This vehicle is a [[wagon-xphb|Wagon]] covered by durable canvas. A creature has [[cover-xphb|Three-Quarters Cover]] while riding inside this vehicle.
 
 *Source: FRHoF p. 132*

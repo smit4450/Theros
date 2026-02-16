@@ -14,6 +14,6 @@ aliases:
 
 *Piety 25+ Kruphix trait*
 
-As a true champion of Kruphix, you can use your [mage hand](Compendium/spells/mage-hand-xphb.md) cantrip to protect yourself. While your spectral hand is within 5 feet of you, you gain a +2 bonus to your AC against ranged attacks.
+As a true champion of Kruphix, you can use your [[mage-hand-xphb|mage hand]] cantrip to protect yourself. While your spectral hand is within 5 feet of you, you gain a +2 bonus to your AC against ranged attacks.
 
 *Source: Mythic Odysseys of Theros p. 61*

@@ -13,7 +13,7 @@ aliases:
 
 > [!quote] A quote from Jenna Helland, Godsend  
 > 
-> As they so often do, destruction and creation intermingled. As Purphoros cut into Nyx, he rattled the celestial creatures that populated the night sky. He accidentally dislodged [Polukranos](Compendium/bestiary/npc/polukranos-mot.md), the World Eater, from its heavenly perch. The fifty-headed monster plunged toward the mortal realm, leaving a trail of Nyx blazing in the sky.
+> As they so often do, destruction and creation intermingled. As Purphoros cut into Nyx, he rattled the celestial creatures that populated the night sky. He accidentally dislodged [[polukranos-mot|Polukranos]], the World Eater, from its heavenly perch. The fifty-headed monster plunged toward the mortal realm, leaving a trail of Nyx blazing in the sky.
 > 
 > Heliod joined with Nylea, God of the Hunt, who cast vines beneath the hydra's body to ease its harsh entrance into the world. The hydra materialized in the valley and was momentarily stunned into stillness. Though much diminished in size, the hydra could still destroy every human city unless it was immediately contained. Together the gods trapped the hydra inside a cavern deep under the Nessian Forest.
 
@@ -29,13 +29,13 @@ Whether monsters, manifestations of long-dead mortals, or other beings, Nyxborn 
 
 You can use the Nyxborn Monster Origin table to help you decide what brought a Nyxborn creature into existence.
 
-![Nyxborn Creatures; Nyxborn Monster Origin](Compendium/tables/nyxborn-creatures-nyxborn-monster-origin-mot.md)
+![[nyxborn-creatures-nyxborn-monster-origin-mot|Nyxborn Creatures; Nyxborn Monster Origin]]
 
 ### Nyxborn Statistics
 
 Any type of creature might be Nyxborn. A Nyxborn creature has the normal statistics for its kind, but usually has a special characteristic, a magical quality that sets it apart. When creating Nyxborn creatures, you can summarize their Nyxborn traits as Magic Resistance, as in the Nyxborn Traits table. Alternatively, if you'd like more variety, roll on that table to randomly determine the distinctive characteristic of a Nyxborn creature, or choose one of these or similar traits.
 
-![Nyxborn Statistics; Nyxborn Traits](Compendium/tables/nyxborn-statistics-nyxborn-traits-mot.md)
+![[nyxborn-statistics-nyxborn-traits-mot|Nyxborn Statistics; Nyxborn Traits]]
 
 ## Classic Monsters
 
@@ -47,13 +47,13 @@ This section explores Theros's most noteworthy monstrous myths and curiosities u
 
 Legends told among the worshipers of Pharika describe how the god hid a treasure trove of secrets in basilisk blood, inspiring her followers to seek ways to reveal the truths hidden among organs and scales. Healers dilute the blood to use in potions, and oracles employ it in divination rituals.
 
-[Basilisks](Compendium/bestiary/monstrosity/basilisk-xmm.md) on Theros have only four legs but are statistically identical to the monster described in the "Monster Manual".
+[[basilisk-xmm|Basilisks]] on Theros have only four legs but are statistically identical to the monster described in the "Monster Manual".
 
 ### Catoblepas
 
 Legends tell of a human herder who bragged that his cattle were the finest in all of Theros. When the gods heard this, Heliod, Nylea, and Mogis became involved in laying a curse that afflicted the mortal and his cattle, giving rise to the first catoblepas. How the gods were involved, though, and for what honorable or petty reasons, the gods' faithful—particularly those of Heliod and Nylea—greatly debate (see "chapter 2"). Regardless, catoblepases are widely viewed as cursed creatures, which only Mogis's faithful hold in wicked esteem.
 
-The [catoblepas](Compendium/bestiary/monstrosity/catoblepas-vgm.md) appears in "Volo's Guide to Monsters".
+The [[catoblepas-vgm|catoblepas]] appears in "Volo's Guide to Monsters".
 
 ### Cyclops
 
@@ -85,7 +85,7 @@ Krakens number among the most terrifying denizens of the sea, their wrath capabl
 
 #### Nadir Krakens
 
-The largest and most devastating krakens, nadir krakens, dwell in the deepest ocean trenches. These krakens are unique beings, of which the terrifying [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) (described in the ""Mythic Monsters"" section of this chapter) numbers among the most feared. When a nadir kraken breaks free of its sea lock and rises to the surface, continents are redrawn, civilizations collapse, and eras end.
+The largest and most devastating krakens, nadir krakens, dwell in the deepest ocean trenches. These krakens are unique beings, of which the terrifying [[tromokratis-mot|Tromokratis]] (described in the ""Mythic Monsters"" section of this chapter) numbers among the most feared. When a nadir kraken breaks free of its sea lock and rises to the surface, continents are redrawn, civilizations collapse, and eras end.
 
 ![Unleashed from the darkest...](Compendium/books/mythic-odysseys-of-theros/img/151-06-03.webp#center "Unleashed from the darkest ocean depths, each nadir kraken is a unique aquatic nightmare")
 
@@ -95,15 +95,15 @@ When rage and despair at the gods' misdeeds consume a mortal mind, lamia comes i
 
 ### Medusa
 
-[Medusas](Compendium/bestiary/monstrosity/medusa-mot.md) (often called gorgons on Theros) are closely associated with Pharika, the god of poison and medicine. Pharika has charged her favored servants with guarding secrets of life, health, and immortality that are too powerful to be known by those who lack the wisdom to use them properly. Those who approach a [medusa](Compendium/bestiary/monstrosity/medusa-mot.md) with humility and worthy offerings might receive the creature's favor. The [medusa](Compendium/bestiary/monstrosity/medusa-mot.md) might propose a dangerous quest to fetch some rare ingredient or legendary relic, promising to reward success with a bit of Pharika's knowledge. This information might lead to a cure for a plague, an alchemical breakthrough, or a secret of the cosmos.
+[[medusa-mot|Medusas]] (often called gorgons on Theros) are closely associated with Pharika, the god of poison and medicine. Pharika has charged her favored servants with guarding secrets of life, health, and immortality that are too powerful to be known by those who lack the wisdom to use them properly. Those who approach a [[medusa-mot|medusa]] with humility and worthy offerings might receive the creature's favor. The [[medusa-mot|medusa]] might propose a dangerous quest to fetch some rare ingredient or legendary relic, promising to reward success with a bit of Pharika's knowledge. This information might lead to a cure for a plague, an alchemical breakthrough, or a secret of the cosmos.
 
-The medusas of Theros differ from those in the "Monster Manual" in that they have long, serpentine bodies in place of legs. A [medusa](Compendium/bestiary/monstrosity/medusa-mot.md) uses the stat block from the "Monster Manual" with the following altered and additional actions:
+The medusas of Theros differ from those in the "Monster Manual" in that they have long, serpentine bodies in place of legs. A [[medusa-mot|medusa]] uses the stat block from the "Monster Manual" with the following altered and additional actions:
 
 #### Constrict
 
-*Melee Weapon Attack:* `+3` to hit, reach 10 ft., one target. *Hit:* 7 (`2d6`) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 11) if it is a Large or smaller creature. Until this grapple ends, the target is [restrained](Compendium/rules/conditions.md#Restrained), and the [medusa](Compendium/bestiary/monstrosity/medusa-mot.md) can't constrict another target.
+*Melee Weapon Attack:* `+3` to hit, reach 10 ft., one target. *Hit:* 7 (`2d6`) bludgeoning damage, and the target is [[conditions#Grappled|grappled]] (escape DC 11) if it is a Large or smaller creature. Until this grapple ends, the target is [[conditions#Restrained|restrained]], and the [[medusa-mot|medusa]] can't constrict another target.
 
-- **Multiattack.** The [medusa](Compendium/bestiary/monstrosity/medusa-mot.md) makes either three melee attacks—one with its snake hair, one to constrict, and one with its shortsword—or two ranged attacks with its longbow.  
+- **Multiattack.** The [[medusa-mot|medusa]] makes either three melee attacks—one with its snake hair, one to constrict, and one with its shortsword—or two ranged attacks with its longbow.  
 
 ### Night Hag
 
@@ -141,57 +141,57 @@ Unicorns on Theros are closely tied to the mysteries of Nyx. They often appear i
 
 The following pages include descriptions and stat blocks for inhabitants of Theros. The majority are presented in alphabetical order. At the end of this section, you'll find a selection of mythic monsters, foes designed to pose challenges worthy of legend.
 
-- [Abhorrent Overlord](Compendium/bestiary/fiend/abhorrent-overlord-mot.md)  
-- [Akroan Hoplite](Compendium/bestiary/humanoid/akroan-hoplite-mot.md)  
-- [Alseid](Compendium/bestiary/fey/alseid-mot.md)  
-- [Amphisbaena](Compendium/bestiary/monstrosity/amphisbaena-gos.md)  
-- [Anvilwrought Raptor](Compendium/bestiary/construct/anvilwrought-raptor-mot.md)  
-- [Aphemia](Compendium/bestiary/monstrosity/aphemia-mot.md)  
-- [Archon of Falling Stars](Compendium/bestiary/celestial/archon-of-falling-stars-mot.md)  
-- [Ashen Rider](Compendium/bestiary/celestial/ashen-rider-mot.md)  
-- [Blood-Toll Harpy](Compendium/bestiary/monstrosity/blood-toll-harpy-mot.md)  
-- [Bronze Sable](Compendium/bestiary/construct/bronze-sable-mot.md)  
-- [Burnished Hart](Compendium/bestiary/construct/burnished-hart-mot.md)  
-- [Colossus of Akros](Compendium/bestiary/construct/colossus-of-akros-mot.md)  
-- [Doomwake Giant](Compendium/bestiary/giant/doomwake-giant-mot.md)  
-- [Eater of Hope](Compendium/bestiary/fiend/eater-of-hope-mot.md)  
-- [Fleecemane Lion](Compendium/bestiary/monstrosity/fleecemane-lion-mot.md)  
-- [Flitterstep Eidolon](Compendium/bestiary/undead/flitterstep-eidolon-mot.md)  
-- [Ghostblade Eidolon](Compendium/bestiary/undead/ghostblade-eidolon-mot.md)  
-- [Gold-Forged Sentinel](Compendium/bestiary/construct/gold-forged-sentinel-mot.md)  
-- [Hippocamp](Compendium/bestiary/monstrosity/hippocamp-mot.md)  
-- [Hundred-Handed One](Compendium/bestiary/giant/hundred-handed-one-mot.md)  
-- [Ironscale Hydra](Compendium/bestiary/monstrosity/ironscale-hydra-mot.md)  
-- [Lampad](Compendium/bestiary/fey/lampad-mot.md)  
-- [Leonin Iconoclast](Compendium/bestiary/humanoid/leonin-iconoclast-mot.md)  
-- [Meletian Hoplite](Compendium/bestiary/humanoid/meletian-hoplite-mot.md)  
-- [Naiad](Compendium/bestiary/fey/naiad-mot.md)  
-- [Nightmare Shepherd](Compendium/bestiary/fiend/nightmare-shepherd-mot.md)  
-- [Nyx-Fleece Ram](Compendium/bestiary/monstrosity/nyx-fleece-ram-mot.md)  
-- [Oracle](Compendium/bestiary/humanoid/oracle-mot.md)  
-- [Oread](Compendium/bestiary/fey/oread-mot.md)  
-- [Phylaskia](Compendium/bestiary/undead/phylaskia-mot.md)  
-- [Polukranos](Compendium/bestiary/npc/polukranos-mot.md)  
-- [Returned Drifter](Compendium/bestiary/undead/returned-drifter-mot.md)  
-- [Returned Kakomantis](Compendium/bestiary/undead/returned-kakomantis-mot.md)  
-- [Returned Palamnite](Compendium/bestiary/undead/returned-palamnite-mot.md)  
-- [Returned Sentry](Compendium/bestiary/undead/returned-sentry-mot.md)  
-- [Satyr Reveler](Compendium/bestiary/fey/satyr-reveler-mot.md)  
-- [Satyr Thornbearer](Compendium/bestiary/fey/satyr-thornbearer-mot.md)  
-- [Setessan Hoplite](Compendium/bestiary/humanoid/setessan-hoplite-mot.md)  
-- [Theran Chimera](Compendium/bestiary/monstrosity/theran-chimera-mot.md)  
-- [Triton Master of Waves](Compendium/bestiary/humanoid/triton-master-of-waves-mot.md)  
-- [Triton Shorestalker](Compendium/bestiary/humanoid/triton-shorestalker-mot.md)  
-- [Two-Headed Cerberus](Compendium/bestiary/monstrosity/two-headed-cerberus-mot.md)  
-- [Typhon](Compendium/bestiary/monstrosity/typhon-mot.md)  
-- [Underworld Cerberus](Compendium/bestiary/monstrosity/underworld-cerberus-mot.md)  
-- [Winged Bull](Compendium/bestiary/celestial/winged-bull-mot.md)  
-- [Winged Lion](Compendium/bestiary/celestial/winged-lion-mot.md)  
-- [Woe Strider](Compendium/bestiary/aberration/woe-strider-mot.md)  
+- [[abhorrent-overlord-mot|Abhorrent Overlord]]  
+- [[akroan-hoplite-mot|Akroan Hoplite]]  
+- [[alseid-mot|Alseid]]  
+- [[amphisbaena-gos|Amphisbaena]]  
+- [[anvilwrought-raptor-mot|Anvilwrought Raptor]]  
+- [[aphemia-mot|Aphemia]]  
+- [[archon-of-falling-stars-mot|Archon of Falling Stars]]  
+- [[ashen-rider-mot|Ashen Rider]]  
+- [[blood-toll-harpy-mot|Blood-Toll Harpy]]  
+- [[bronze-sable-mot|Bronze Sable]]  
+- [[burnished-hart-mot|Burnished Hart]]  
+- [[colossus-of-akros-mot|Colossus of Akros]]  
+- [[doomwake-giant-mot|Doomwake Giant]]  
+- [[eater-of-hope-mot|Eater of Hope]]  
+- [[fleecemane-lion-mot|Fleecemane Lion]]  
+- [[flitterstep-eidolon-mot|Flitterstep Eidolon]]  
+- [[ghostblade-eidolon-mot|Ghostblade Eidolon]]  
+- [[gold-forged-sentinel-mot|Gold-Forged Sentinel]]  
+- [[hippocamp-mot|Hippocamp]]  
+- [[hundred-handed-one-mot|Hundred-Handed One]]  
+- [[ironscale-hydra-mot|Ironscale Hydra]]  
+- [[lampad-mot|Lampad]]  
+- [[leonin-iconoclast-mot|Leonin Iconoclast]]  
+- [[meletian-hoplite-mot|Meletian Hoplite]]  
+- [[naiad-mot|Naiad]]  
+- [[nightmare-shepherd-mot|Nightmare Shepherd]]  
+- [[nyx-fleece-ram-mot|Nyx-Fleece Ram]]  
+- [[oracle-mot|Oracle]]  
+- [[oread-mot|Oread]]  
+- [[phylaskia-mot|Phylaskia]]  
+- [[polukranos-mot|Polukranos]]  
+- [[returned-drifter-mot|Returned Drifter]]  
+- [[returned-kakomantis-mot|Returned Kakomantis]]  
+- [[returned-palamnite-mot|Returned Palamnite]]  
+- [[returned-sentry-mot|Returned Sentry]]  
+- [[satyr-reveler-mot|Satyr Reveler]]  
+- [[satyr-thornbearer-mot|Satyr Thornbearer]]  
+- [[setessan-hoplite-mot|Setessan Hoplite]]  
+- [[theran-chimera-mot|Theran Chimera]]  
+- [[triton-master-of-waves-mot|Triton Master of Waves]]  
+- [[triton-shorestalker-mot|Triton Shorestalker]]  
+- [[two-headed-cerberus-mot|Two-Headed Cerberus]]  
+- [[typhon-mot|Typhon]]  
+- [[underworld-cerberus-mot|Underworld Cerberus]]  
+- [[winged-bull-mot|Winged Bull]]  
+- [[winged-lion-mot|Winged Lion]]  
+- [[woe-strider-mot|Woe Strider]]  
 
 ## Mythic Monsters
 
-This section describes three of Theros's most infamous terrors, beings whose might and dreadful deeds set them apart as menaces of legendary proportions. While many of Theros's greatest myths arise from storied terrors—like the hydra [Polukranos](Compendium/bestiary/npc/polukranos-mot.md) or the dreaded titans—the monsters in this section have a feature that sets them apart: mythic traits.
+This section describes three of Theros's most infamous terrors, beings whose might and dreadful deeds set them apart as menaces of legendary proportions. While many of Theros's greatest myths arise from storied terrors—like the hydra [[polukranos-mot|Polukranos]] or the dreaded titans—the monsters in this section have a feature that sets them apart: mythic traits.
 
 Mythic traits transform battles into truly legendary confrontations, well suited to the climactic battles at the ends of adventures or whole campaigns. Mythic traits are optional; they don't need to be used during combat with these monsters. If you so choose, you may simply ignore a monster's mythic trait and mythic actions. If you wish to increase a battle's stakes, though, using a monster's mythic trait results in some mid-battle twist that changes the way the monster behaves, restores its resources, or provides it with new actions to use. As a result, the battle becomes deadlier and rages on for longer than most combat encounters. Each monster features an "As a Mythic Encounter" section that highlights its mythic trait, notes how using it changes the difficulty of the encounter and the rewards, and includes read-aloud text you can use mid-battle to signal a terrifying shift in the conflict.
 
@@ -199,106 +199,106 @@ Mythic traits transform battles into truly legendary confrontations, well suited
 
 ### Arasta of the Endless Web
 
-A victim of the gods' petty rivalries, [Arasta](Compendium/bestiary/npc/arasta-mot.md) was once one of Nylea's most beloved dryad companions. Phenax's bitterness saw her transformed into an arachnid monstrosity and driven into the darkest depths of the Nessian Wood. Now she broods on her unjust fate and the fickleness of the gods who left her cursed with monstrous immortality.
+A victim of the gods' petty rivalries, [[arasta-mot|Arasta]] was once one of Nylea's most beloved dryad companions. Phenax's bitterness saw her transformed into an arachnid monstrosity and driven into the darkest depths of the Nessian Wood. Now she broods on her unjust fate and the fickleness of the gods who left her cursed with monstrous immortality.
 
-[Arasta](Compendium/bestiary/npc/arasta-mot.md) appears as a gigantic spiderlike creature, her few humanoid features made monstrous by cruel magic and ages of hatred. Webs fill her lair deep in the Nessian Wood, sticky strands made not of silk but of her own endless hair. In her darkened realm, [Arasta](Compendium/bestiary/npc/arasta-mot.md) broods on her hatred of the gods and their servants. She doesn't do so alone, though, as innumerable arachnids fawn over her, serving as her eyes throughout the wilderness, disposing of victims trapped within her hair, and sacrificing themselves in her defense if they must.
+[[arasta-mot|Arasta]] appears as a gigantic spiderlike creature, her few humanoid features made monstrous by cruel magic and ages of hatred. Webs fill her lair deep in the Nessian Wood, sticky strands made not of silk but of her own endless hair. In her darkened realm, [[arasta-mot|Arasta]] broods on her hatred of the gods and their servants. She doesn't do so alone, though, as innumerable arachnids fawn over her, serving as her eyes throughout the wilderness, disposing of victims trapped within her hair, and sacrificing themselves in her defense if they must.
 
-See ""Myths of Nylea"" in chapter 2 for more details on the tragedy of [Arasta](Compendium/bestiary/npc/arasta-mot.md).
+See ""Myths of Nylea"" in chapter 2 for more details on the tragedy of [[arasta-mot|Arasta]].
 
 #### Arasta's Lair
 
-[Arasta](Compendium/bestiary/npc/arasta-mot.md) lives in an enormous, gnarled olive tree called Enorasi, which was planted millennia ago by Klothys. It is said that those who eat of its fruit can see glimpses of the future. Eating the fruit brings with it a risk, though, for those who Klothys finds unworthy might be driven mad. There, within Enorasi's hollow trunk, [Arasta](Compendium/bestiary/npc/arasta-mot.md) awaits the next would-be prophet to make her meal. Her webs stretch beyond the branches of the tree and carpet the forest floor of her realm.
+[[arasta-mot|Arasta]] lives in an enormous, gnarled olive tree called Enorasi, which was planted millennia ago by Klothys. It is said that those who eat of its fruit can see glimpses of the future. Eating the fruit brings with it a risk, though, for those who Klothys finds unworthy might be driven mad. There, within Enorasi's hollow trunk, [[arasta-mot|Arasta]] awaits the next would-be prophet to make her meal. Her webs stretch beyond the branches of the tree and carpet the forest floor of her realm.
 
-- **Path to the Underworld.** Tales are told of forlorn souls who, because of grief or madness over the loss of a loved one, have sought out [Arasta](Compendium/bestiary/npc/arasta-mot.md)'s lair, as it is rumored that some of the strands of her web are anchored near the edge of the Underworld and can enable a traveler to reach that realm's ashen shores.  
+- **Path to the Underworld.** Tales are told of forlorn souls who, because of grief or madness over the loss of a loved one, have sought out [[arasta-mot|Arasta]]'s lair, as it is rumored that some of the strands of her web are anchored near the edge of the Underworld and can enable a traveler to reach that realm's ashen shores.  
 
-But those who enter her domain unbidden almost never go unnoticed, for [Arasta](Compendium/bestiary/npc/arasta-mot.md) can sense the slightest vibration along her web hair, and her children act as spies on her behalf.
+But those who enter her domain unbidden almost never go unnoticed, for [[arasta-mot|Arasta]] can sense the slightest vibration along her web hair, and her children act as spies on her behalf.
 
-- **Lair Actions.** On initiative count 20 (losing initiative ties), [Arasta](Compendium/bestiary/npc/arasta-mot.md) can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row.  
+- **Lair Actions.** On initiative count 20 (losing initiative ties), [[arasta-mot|Arasta]] can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row.  
 
-- [Arasta](Compendium/bestiary/npc/arasta-mot.md) learns about any creature touching her webs. Each creature [restrained](Compendium/rules/conditions.md#Restrained) by a web or [Arasta](Compendium/bestiary/npc/arasta-mot.md)'s Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, [Arasta](Compendium/bestiary/npc/arasta-mot.md) gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.  
-- [Arasta](Compendium/bestiary/npc/arasta-mot.md) casts the [giant insect](Compendium/spells/giant-insect-xphb.md) spell (spiders only). It lasts until she uses this lair action again or until she dies.  
+- [[arasta-mot|Arasta]] learns about any creature touching her webs. Each creature [[conditions#Restrained|restrained]] by a web or [[arasta-mot|Arasta]]'s Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, [[arasta-mot|Arasta]] gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.  
+- [[arasta-mot|Arasta]] casts the [[giant-insect-xphb|giant insect]] spell (spiders only). It lasts until she uses this lair action again or until she dies.  
 
-- **Regional Effects.** The region containing [Arasta](Compendium/bestiary/npc/arasta-mot.md)'s lair is warped by her presence, which creates one or more of the following effects:  
+- **Regional Effects.** The region containing [[arasta-mot|Arasta]]'s lair is warped by her presence, which creates one or more of the following effects:  
 
-- Spiders and insects within 1 mile of [Arasta](Compendium/bestiary/npc/arasta-mot.md)'s lair serve as her eyes and ears. Birds and other flying creatures are absent from the skies and occasionally found trapped in webs.  
-- Within 1 mile of [Arasta](Compendium/bestiary/npc/arasta-mot.md)'s lair, webs fill all 10-foot cubes of open space, so long as the webs can be anchored between two solid masses (such as walls or trees). The webs are flammable. Any webs exposed to fire burn away in 1 round. Any destroyed webs are magically repaired at the next dawn.  
+- Spiders and insects within 1 mile of [[arasta-mot|Arasta]]'s lair serve as her eyes and ears. Birds and other flying creatures are absent from the skies and occasionally found trapped in webs.  
+- Within 1 mile of [[arasta-mot|Arasta]]'s lair, webs fill all 10-foot cubes of open space, so long as the webs can be anchored between two solid masses (such as walls or trees). The webs are flammable. Any webs exposed to fire burn away in 1 round. Any destroyed webs are magically repaired at the next dawn.  
 
-If [Arasta](Compendium/bestiary/npc/arasta-mot.md) dies, the spiders and insects lose their supernatural link to her. The webs remain, but they dissolve within `1d10` days.
+If [[arasta-mot|Arasta]] dies, the spiders and insects lose their supernatural link to her. The webs remain, but they dissolve within `1d10` days.
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/191-06-33.webp#center)
 
 #### Arasta as a Mythic Encounter
 
-[Arasta](Compendium/bestiary/npc/arasta-mot.md) is a formidable enemy under normal circumstances, but to give characters a truly mythic challenge, you can have her call on her Armor of Spiders. Her use of this trait signals a drastic turn in the encounter, as [Arasta](Compendium/bestiary/npc/arasta-mot.md) summons her arachnid children to protect her. While she has temporary hit points from this trait, she can choose one of her mythic actions when she uses a legendary action.
+[[arasta-mot|Arasta]] is a formidable enemy under normal circumstances, but to give characters a truly mythic challenge, you can have her call on her Armor of Spiders. Her use of this trait signals a drastic turn in the encounter, as [[arasta-mot|Arasta]] summons her arachnid children to protect her. While she has temporary hit points from this trait, she can choose one of her mythic actions when she uses a legendary action.
 
-Read or paraphrase the following text when [Arasta](Compendium/bestiary/npc/arasta-mot.md) uses her Armor of Spiders trait:
+Read or paraphrase the following text when [[arasta-mot|Arasta]] uses her Armor of Spiders trait:
 
 > [!readaloud] 
 > 
 > The nightmarish arachnid unleashes a shriek that sounds like a thousand spider carapaces scarring slate. In response, the ground ripples and bursts over the monster, revealing itself as a wave of countless spiders. The tiny arachnids swarm the larger horror, girding it in skittering bodies.
 ^3e9
 
-Fighting [Arasta](Compendium/bestiary/npc/arasta-mot.md) as a mythic encounter is equivalent to taking on two challenge rating 21 creatures in one encounter. Award a party 66,000 XP for defeating [Arasta](Compendium/bestiary/npc/arasta-mot.md) after she uses Armor of Spiders.
+Fighting [[arasta-mot|Arasta]] as a mythic encounter is equivalent to taking on two challenge rating 21 creatures in one encounter. Award a party 66,000 XP for defeating [[arasta-mot|Arasta]] after she uses Armor of Spiders.
 
 ### Hythonia the Cruel
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/192-06-34.webp#center)
 
-Theros's reclusive medusas often delight in collecting and expanding their galleries of [petrified](Compendium/rules/conditions.md#Petrified) victims. Unlike other medusas, [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) isn't merely a collector; she's an artist.
+Theros's reclusive medusas often delight in collecting and expanding their galleries of [[conditions#Petrified|petrified]] victims. Unlike other medusas, [[hythonia-mot|Hythonia]] isn't merely a collector; she's an artist.
 
-When [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the [medusa](Compendium/bestiary/monstrosity/medusa-mot.md)'s petrifying gaze in hopes of gaining Pharika's favor. Seeing herself surrounded by willing devotees, [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) formulated a cruel plan. After encouraging them to engage in wild rituals, [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) began turning her followers to stone, weaving their forms to create a grisly throne made of their [petrified](Compendium/rules/conditions.md#Petrified) bodies.
+When [[hythonia-mot|Hythonia]] came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the [[medusa-mot|medusa]]'s petrifying gaze in hopes of gaining Pharika's favor. Seeing herself surrounded by willing devotees, [[hythonia-mot|Hythonia]] formulated a cruel plan. After encouraging them to engage in wild rituals, [[hythonia-mot|Hythonia]] began turning her followers to stone, weaving their forms to create a grisly throne made of their [[conditions#Petrified|petrified]] bodies.
 
-While the [medusa](Compendium/bestiary/monstrosity/medusa-mot.md)'s victims have dwindled, tales of the [medusa](Compendium/bestiary/monstrosity/medusa-mot.md) queen and the divine secrets she hoards have not. [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) eagerly trades the mysteries she knows but demands a constant price: a beautiful individual to become part of her throne.
+While the [[medusa-mot|medusa]]'s victims have dwindled, tales of the [[medusa-mot|medusa]] queen and the divine secrets she hoards have not. [[hythonia-mot|Hythonia]] eagerly trades the mysteries she knows but demands a constant price: a beautiful individual to become part of her throne.
 
 #### Hythonia's Lair
 
-[Hythonia](Compendium/bestiary/npc/hythonia-mot.md) makes her lair on Skathos, an island where a secret sect of worshipers dedicated to Pharika previously hoarded secrets and engaged in dark rituals.
+[[hythonia-mot|Hythonia]] makes her lair on Skathos, an island where a secret sect of worshipers dedicated to Pharika previously hoarded secrets and engaged in dark rituals.
 
-- **Island of Potent Magic.** Although Skathos's location remains a mystery, stories tell of the island's magical plants and [Hythonia](Compendium/bestiary/npc/hythonia-mot.md)'s various treasures. [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) encourages such rumors by letting lone survivors escape her realm, letting the ravings of survivors tempt more playthings into her clutches.  
-- **Lair Actions.** On initiative count 20 (losing initiative ties), [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:  
+- **Island of Potent Magic.** Although Skathos's location remains a mystery, stories tell of the island's magical plants and [[hythonia-mot|Hythonia]]'s various treasures. [[hythonia-mot|Hythonia]] encourages such rumors by letting lone survivors escape her realm, letting the ravings of survivors tempt more playthings into her clutches.  
+- **Lair Actions.** On initiative count 20 (losing initiative ties), [[hythonia-mot|Hythonia]] can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:  
 
-- [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) briefly animates creatures that have been [petrified](Compendium/rules/conditions.md#Petrified) by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 15).  
-- [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 (`2d4`) piercing damage and become [poisoned](Compendium/rules/conditions.md#Poisoned) until the end of its next turn. While [poisoned](Compendium/rules/conditions.md#Poisoned) in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the [confusion](Compendium/spells/confusion-xphb.md) spell.  
+- [[hythonia-mot|Hythonia]] briefly animates creatures that have been [[conditions#Petrified|petrified]] by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also [[conditions#Grappled|grappled]] (escape DC 15).  
+- [[hythonia-mot|Hythonia]] causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 (`2d4`) piercing damage and become [[conditions#Poisoned|poisoned]] until the end of its next turn. While [[conditions#Poisoned|poisoned]] in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the [[confusion-xphb|confusion]] spell.  
 
-- **Regional Effects.** The region containing [Hythonia](Compendium/bestiary/npc/hythonia-mot.md)'s lair is warped by her presence, which creates one or more of the following effects:  
+- **Regional Effects.** The region containing [[hythonia-mot|Hythonia]]'s lair is warped by her presence, which creates one or more of the following effects:  
 
 - A large population of snakes dwells in the region.  
 - Trees within 1 mile of the lair are petrified wood. Plants that stay within 500 feet of the lair for 1 day turn to stone.  
-- Small bodies of water within 1 mile of the lair become poisonous. A creature that drinks the water must succeed on a DC 19 Constitution saving throw or become [poisoned](Compendium/rules/conditions.md#Poisoned) for 8 hours. An affected creature can repeat the saving throw at the end of each hour.  
+- Small bodies of water within 1 mile of the lair become poisonous. A creature that drinks the water must succeed on a DC 19 Constitution saving throw or become [[conditions#Poisoned|poisoned]] for 8 hours. An affected creature can repeat the saving throw at the end of each hour.  
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/193-06-35.webp#center)
 
 #### Hythonia as a Mythic Encounter
 
-[Hythonia](Compendium/bestiary/npc/hythonia-mot.md) serves as a potent threat against even high-level characters, but you can increase the challenge by using the Shed Skin trait. When this happens, [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) heals many of her wounds and slips away from danger, and then she can choose one of her mythic actions when she uses a legendary action.
+[[hythonia-mot|Hythonia]] serves as a potent threat against even high-level characters, but you can increase the challenge by using the Shed Skin trait. When this happens, [[hythonia-mot|Hythonia]] heals many of her wounds and slips away from danger, and then she can choose one of her mythic actions when she uses a legendary action.
 
-You might foreshadow [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) using her mythic trait by describing her skin cracking and turning pale as she suffers wounds. Read or paraphrase the following text when [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) finally uses her Shed Skin trait:
+You might foreshadow [[hythonia-mot|Hythonia]] using her mythic trait by describing her skin cracking and turning pale as she suffers wounds. Read or paraphrase the following text when [[hythonia-mot|Hythonia]] finally uses her Shed Skin trait:
 
 > [!readaloud] 
 > 
-> The [medusa](Compendium/bestiary/monstrosity/medusa-mot.md)'s skin cracks, turns a lifeless gray, and shatters! The monster crumbles to dust—but what clatters to the ground isn't scale and bone, but hollow stone. The sound of rippling coils precedes the [medusa](Compendium/bestiary/monstrosity/medusa-mot.md) rising up anew, the last of her shed skin dropping away, revealing glistening, unscarred scales.
+> The [[medusa-mot|medusa]]'s skin cracks, turns a lifeless gray, and shatters! The monster crumbles to dust—but what clatters to the ground isn't scale and bone, but hollow stone. The sound of rippling coils precedes the [[medusa-mot|medusa]] rising up anew, the last of her shed skin dropping away, revealing glistening, unscarred scales.
 ^3ed
 
-Fighting [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) as a mythic encounter is equivalent to taking on two challenge rating 17 creatures in one encounter. Award a party 36,000 XP for defeating [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) after she uses Shed Skin.
+Fighting [[hythonia-mot|Hythonia]] as a mythic encounter is equivalent to taking on two challenge rating 17 creatures in one encounter. Award a party 36,000 XP for defeating [[hythonia-mot|Hythonia]] after she uses Shed Skin.
 
 ### Tromokratis
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/194-06-36.webp#center)
 
-Most krakens roam the seas, shattering hulls and scattering fleets, but the kraken [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) notoriously vents its wrath on coastal settlements. Whether it acts at the command of the god Thassa or to sate its own hunger, [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) numbers among the most feared threats in the sea, having no fixed lair and wandering where it will. In recent memory, the massive menace rose from the waves to topple the Pyrgnos, Meletis's great repository of scholarly knowledge. Since that day, the polis keeps a watch specifically for [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md).
+Most krakens roam the seas, shattering hulls and scattering fleets, but the kraken [[tromokratis-mot|Tromokratis]] notoriously vents its wrath on coastal settlements. Whether it acts at the command of the god Thassa or to sate its own hunger, [[tromokratis-mot|Tromokratis]] numbers among the most feared threats in the sea, having no fixed lair and wandering where it will. In recent memory, the massive menace rose from the waves to topple the Pyrgnos, Meletis's great repository of scholarly knowledge. Since that day, the polis keeps a watch specifically for [[tromokratis-mot|Tromokratis]].
 
-- **Rough Waters.** [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) is a particularly cantankerous nadir kraken that has claimed all the sea as its territory. A tumultuous sea is often attributed to [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) battling another kraken to assert its claim. Often, before a journey, sailors blow conch-shell horns in the belief that the sound will soothe nearby krakens.  
-- **The Horn of Humenades.** Legend speaks of a magic horn that the hero Humenades used in ancient times to summon [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) to lay waste to a cursed city lost to evil ways. The horn was so powerful that, after the city was destroyed, Humenades took it to Tizerus and buried it under a stone near the palace of Erebos.  
+- **Rough Waters.** [[tromokratis-mot|Tromokratis]] is a particularly cantankerous nadir kraken that has claimed all the sea as its territory. A tumultuous sea is often attributed to [[tromokratis-mot|Tromokratis]] battling another kraken to assert its claim. Often, before a journey, sailors blow conch-shell horns in the belief that the sound will soothe nearby krakens.  
+- **The Horn of Humenades.** Legend speaks of a magic horn that the hero Humenades used in ancient times to summon [[tromokratis-mot|Tromokratis]] to lay waste to a cursed city lost to evil ways. The horn was so powerful that, after the city was destroyed, Humenades took it to Tizerus and buried it under a stone near the palace of Erebos.  
 
 #### Tromokratis as a Mythic Encounter
 
-[Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) numbers among the most powerful creatures a group of adventurers might face. If you wish to make an encounter with the kraken truly legendary, [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) might use its Hearts of the Kraken mythic trait. When this happens, it calls upon a reserve of strength just as it appears to be vanquished. After its hearts are exposed, [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) can choose one of its mythic actions when it uses a legendary action.
+[[tromokratis-mot|Tromokratis]] numbers among the most powerful creatures a group of adventurers might face. If you wish to make an encounter with the kraken truly legendary, [[tromokratis-mot|Tromokratis]] might use its Hearts of the Kraken mythic trait. When this happens, it calls upon a reserve of strength just as it appears to be vanquished. After its hearts are exposed, [[tromokratis-mot|Tromokratis]] can choose one of its mythic actions when it uses a legendary action.
 
-Read or paraphrase the following text when [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) uses its Hearts of the Kraken trait:
+Read or paraphrase the following text when [[tromokratis-mot|Tromokratis]] uses its Hearts of the Kraken trait:
 
 > [!readaloud] 
 > 
 > The titanic monster's carapace cracks, revealing a pulsing, red-purple heart buried amid heaps of blubber and muscle. Fissures run across the beast's ancient shell, revealing three other mighty, ichor-slick organs. The sea terror thrashes, channeling pain into fury.
 ^3f0
 
-Fighting [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) as a mythic encounter is equivalent to taking on two CR 26 creatures in one encounter. Award a party 180,000 XP for defeating [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) after it uses Hearts of the Kraken.
+Fighting [[tromokratis-mot|Tromokratis]] as a mythic encounter is equivalent to taking on two CR 26 creatures in one encounter. Award a party 180,000 XP for defeating [[tromokratis-mot|Tromokratis]] after it uses Hearts of the Kraken.

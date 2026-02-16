@@ -20,4 +20,4 @@ You gain the following benefits.
 
 **Skill Proficiency.** You gain proficiency in one skill of your choice.
 
-**Expertise.** Choose one skill in which you have proficiency but lack [Expertise](Compendium/rules/variant-rules/expertise-xphb.md). You gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) with that skill.
+**Expertise.** Choose one skill in which you have proficiency but lack [[expertise-xphb|Expertise]]. You gain [[expertise-xphb|Expertise]] with that skill.

@@ -14,20 +14,20 @@ aliases:
 |    |    |
 |----|----|
 | AC | Armor Class |
-| C | [Concentration](Compendium/rules/conditions.md#Concentration) |
+| C | [[conditions#Concentration|Concentration]] |
 | CE | Chaotic Evil |
 | CG | Chaotic Good |
 | Cha. | Charisma |
 | CN | Chaotic Neutral |
 | Con. | Constitution |
 | CP | Copper Piece(s) |
-| CR | [Challenge Rating](Compendium/rules/variant-rules/challenge-rating-xphb.md) |
-| DC | [Difficulty Class](Compendium/rules/variant-rules/difficulty-class-xphb.md) |
+| CR | [[challenge-rating-xphb|Challenge Rating]] |
+| DC | [[difficulty-class-xphb|Difficulty Class]] |
 | Dex. | Dexterity |
 | DM | Dungeon Master |
 | EP | Electrum Piece(s) |
 | GP | Gold Piece(s) |
-| HP | [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)(s) |
+| HP | [[hit-points-xphb|Hit Point]](s) |
 | Int. | Intelligence |
 | LE | Lawful Evil |
 | LG | Lawful Good |
@@ -37,12 +37,12 @@ aliases:
 | NE | Neutral Evil |
 | NG | Neutral Good |
 | NPC | Nonplayer character |
-| PB | [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) |
+| PB | [[proficiency-xphb|Proficiency Bonus]] |
 | PP | Platinum Piece(s) |
-| R | [Ritual](Compendium/rules/variant-rules/ritual-xphb.md) |
+| R | [[ritual-xphb|Ritual]] |
 | S | Somatic component |
 | SP | Silver Piece(s) |
 | Str. | Strength |
 | V | Verbal component |
 | Wis. | Wisdom |
-| XP | [Experience Point](Compendium/rules/variant-rules/experience-points-xphb.md)(s) |
+| XP | [[experience-points-xphb|Experience Point]](s) |

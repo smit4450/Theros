@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Strength  
 - **Utilize.** Seal or pry open a door or container (DC 20)  
-- **Craft.** [Club](Compendium/items/club-xphb.md), [Greatclub](Compendium/items/greatclub-xphb.md), [Quarterstaff](Compendium/items/quarterstaff-xphb.md), [Barrel](Compendium/items/barrel-xphb.md), [Chest](Compendium/items/chest-xphb.md), [Ladder](Compendium/items/ladder-xphb.md), [Pole](Compendium/items/pole-xphb.md), [Portable Ram](Compendium/items/portable-ram-xphb.md), [Torch](Compendium/items/torch-xphb.md)  
+- **Craft.** [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], [[barrel-xphb|Barrel]], [[chest-xphb|Chest]], [[ladder-xphb|Ladder]], [[pole-xphb|Pole]], [[portable-ram-xphb|Portable Ram]], [[torch-xphb|Torch]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

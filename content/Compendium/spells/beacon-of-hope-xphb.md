@@ -26,8 +26,8 @@ aliases: ["Beacon of Hope"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-Choose any number of creatures within range. For the duration, each target has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom saving throws and [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md) and regains the maximum number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) possible from any healing.
+Choose any number of creatures within range. For the duration, each target has [[advantage-xphb|Advantage]] on Wisdom saving throws and [[death-saving-throw-xphb|Death Saving Throws]] and regains the maximum number of [[hit-points-xphb|Hit Points]] possible from any healing.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

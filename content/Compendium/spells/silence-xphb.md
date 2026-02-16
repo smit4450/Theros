@@ -27,8 +27,8 @@ aliases: ["Silence"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-For the duration, no sound can be created within or pass through a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point you choose within range. Any creature or object entirely inside the [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) has [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Thunder damage, and creatures have the [Deafened](Compendium/rules/conditions.md#Deafened) condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
+For the duration, no sound can be created within or pass through a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point you choose within range. Any creature or object entirely inside the [[sphere-area-of-effect-xphb|Sphere]] has [[immunity-xphb|Immunity]] to Thunder damage, and creatures have the [[conditions#Deafened|Deafened]] condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-ranger|Ranger]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

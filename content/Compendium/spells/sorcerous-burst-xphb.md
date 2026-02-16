@@ -27,6 +27,6 @@ If you roll an 8 on a `d8` for this spell, you can roll another `d8`, and add it
 
 **Cantrip Upgrade.** The damage increases by `1d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md)
+**Classes**: [[list-spells-classes-sorcerer|Sorcerer]]
 
 *Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

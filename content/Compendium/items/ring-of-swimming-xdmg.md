@@ -14,6 +14,6 @@ aliases:
 
 
 
-You have a [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md) of 40 feet while wearing this ring.
+You have a [[swim-speed-xphb|Swim Speed]] of 40 feet while wearing this ring.
 
 *Source: Dungeon Master's Guide (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

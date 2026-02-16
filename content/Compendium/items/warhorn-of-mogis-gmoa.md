@@ -17,7 +17,7 @@ aliases:
 
 This warhorn is carved from the horn of a minotaur, and Mogis only graces the most ferocious warriors with such a magic horn. Worshipers of Mogis (which typically include all Theran minotaurs with rare exceptions) covet such warhorns and go to great lengths to take one for themselves. If they discover you possess such a warhorn, they attack you to obtain it. 
 
-**Bound by Blood.** You can't end attunement to the warhorn unless you die, lose the favor of Mogis, or use the [wish](Compendium/spells/wish-xphb.md) spell. A creature that kills someone attuned to the warhorn automatically becomes attuned to the warhorn.
+**Bound by Blood.** You can't end attunement to the warhorn unless you die, lose the favor of Mogis, or use the [[wish-xphb|wish]] spell. A creature that kills someone attuned to the warhorn automatically becomes attuned to the warhorn.
 
 ## Paid
 
@@ -25,6 +25,6 @@ When you blow the warhorn, all worshipers of Mogis within a mile of you are unab
 
 ## Overpaid
 
-Once a day for the first ten days after you attune to the warhorn, you may cast the [commune](Compendium/spells/commune-xphb.md) spell without requiring material components to contact Mogis.
+Once a day for the first ten days after you attune to the warhorn, you may cast the [[commune-xphb|commune]] spell without requiring material components to contact Mogis.
 
 *Source: The Gray Merchant of Asphodel*

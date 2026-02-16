@@ -20,17 +20,17 @@ aliases: ["Orc"]
 
 ### Adrenaline Rush
 
-You can take the [Dash](Compendium/rules/actions.md#Dash) action as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md). When you do so, you gain a number of [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md).
+You can take the [[actions#Dash|Dash]] action as a [[bonus-action-xphb|Bonus Action]]. When you do so, you gain a number of [[temporary-hit-points-xphb|Temporary Hit Points]] equal to your [[proficiency-xphb|Proficiency Bonus]].
 
-You can use this trait a number of times equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can use this trait a number of times equal to your [[proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
 
 ### Darkvision
 
-You have [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 120 feet.
+You have [[senses#Darkvision|Darkvision]] with a range of 120 feet.
 
 ### Relentless Endurance
 
-When you are reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) but not killed outright, you can drop to 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) instead. Once you use this trait, you can't do so again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+When you are reduced to 0 [[hit-points-xphb|Hit Points]] but not killed outright, you can drop to 1 [[hit-points-xphb|Hit Point]] instead. Once you use this trait, you can't do so again until you finish a [[long-rest-xphb|Long Rest]].
 
 ## Description
 

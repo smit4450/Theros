@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Fighting Style Feature
 
-You have [Blindsight](Compendium/rules/senses.md#Blindsight) with a range of 10 feet.
+You have [[senses#Blindsight|Blindsight]] with a range of 10 feet.

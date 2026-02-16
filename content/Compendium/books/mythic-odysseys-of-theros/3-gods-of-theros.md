@@ -37,7 +37,7 @@ The gods can assume any form they choose. They most commonly appear as humanoids
 
 When physically present in the mortal world, a god is capable of devastating physical attacks. Heliod's spear striking the polis of Olantin caused it to sink forever into the sea, and an errant blow from Purphoros's hammer shaped the mountains.
 
-The power of the gods exceeds that of any mortal being. Even so, a god killing another god—let alone a mortal attempting the task—is virtually inconceivable. Any kind of direct confrontation against a god by mortals would require the assistance of at least one other god, and ideally more than one, to have any hope of success. A group of adventurers might try to convince a group of gods to lend their aid against a god who has become a threat to the mortal world, hoping to get the gods to band together to restrain or punish the offender. Kruphix or Klothys might be able to force a god into a physical form that doesn't fill the sky (perhaps something similar to an [empyrean](Compendium/bestiary/miscellaneous/empyrean-xmm.md) or the [tarrasque](Compendium/bestiary/monstrosity/tarrasque-xmm.md)), which could enable adventurers to battle the god, especially if they have access to a divine weapon like the artifacts detailed in "chapter 5". But defeating the god in that form would merely weaken the deity, allowing other members of the pantheon to capture, bind, or punish them.
+The power of the gods exceeds that of any mortal being. Even so, a god killing another god—let alone a mortal attempting the task—is virtually inconceivable. Any kind of direct confrontation against a god by mortals would require the assistance of at least one other god, and ideally more than one, to have any hope of success. A group of adventurers might try to convince a group of gods to lend their aid against a god who has become a threat to the mortal world, hoping to get the gods to band together to restrain or punish the offender. Kruphix or Klothys might be able to force a god into a physical form that doesn't fill the sky (perhaps something similar to an [[empyrean-xmm|empyrean]] or the [[tarrasque-xmm|tarrasque]]), which could enable adventurers to battle the god, especially if they have access to a divine weapon like the artifacts detailed in "chapter 5". But defeating the god in that form would merely weaken the deity, allowing other members of the pantheon to capture, bind, or punish them.
 
 ### Divine Relationships
 
@@ -89,7 +89,7 @@ Often, heroes choose to devote themselves to particular gods either out of piety
 
 Most heroes in a Theros campaign, and all clerics, are assumed to devote themselves to a god's cause, acting as that god's champion. All the characters in a party might serve the same god, but more likely, they represent the interests of different gods as they face the dangers of the world together.
 
-![Gods of Theros](Compendium/tables/gods-of-theros-mot.md)
+![[gods-of-theros-mot|Gods of Theros]]
 
 ## Piety
 
@@ -129,18 +129,18 @@ When you change gods, you lose all the benefits granted by your old one, includi
 
 ## The Gods
 
-- [Athreos](Compendium/deities/theros-athreos-mot.md)  
-- [Ephara](Compendium/deities/theros-ephara-mot.md)  
-- [Erebos](Compendium/deities/theros-erebos-mot.md)  
-- [Heliod](Compendium/deities/theros-heliod-mot.md)  
-- [Iroas](Compendium/deities/theros-iroas-mot.md)  
-- [Karametra](Compendium/deities/theros-karametra-mot.md)  
-- [Keranos](Compendium/deities/theros-keranos-mot.md)  
-- [Klothys](Compendium/deities/theros-klothys-mot.md)  
-- [Kruphix](Compendium/deities/theros-kruphix-mot.md)  
-- [Mogis](Compendium/deities/theros-mogis-mot.md)  
-- [Nylea](Compendium/deities/theros-nylea-mot.md)  
-- [Pharika](Compendium/deities/theros-pharika-mot.md)  
-- [Phenax](Compendium/deities/theros-phenax-mot.md)  
-- [Purphoros](Compendium/deities/theros-purphoros-mot.md)  
-- [Thassa](Compendium/deities/theros-thassa-mot.md)
+- [[theros-athreos-mot|Athreos]]  
+- [[theros-ephara-mot|Ephara]]  
+- [[theros-erebos-mot|Erebos]]  
+- [[theros-heliod-mot|Heliod]]  
+- [[theros-iroas-mot|Iroas]]  
+- [[theros-karametra-mot|Karametra]]  
+- [[theros-keranos-mot|Keranos]]  
+- [[theros-klothys-mot|Klothys]]  
+- [[theros-kruphix-mot|Kruphix]]  
+- [[theros-mogis-mot|Mogis]]  
+- [[theros-nylea-mot|Nylea]]  
+- [[theros-pharika-mot|Pharika]]  
+- [[theros-phenax-mot|Phenax]]  
+- [[theros-purphoros-mot|Purphoros]]  
+- [[theros-thassa-mot|Thassa]]

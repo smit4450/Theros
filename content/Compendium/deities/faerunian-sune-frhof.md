@@ -22,7 +22,7 @@ aliases:
 
 Sune Firehair is a deity of passion and the delights of the senses. She is the god of beauty in all its forms—not just pleasing sights, but also enchanting sounds, luxurious tastes and scents, and exquisite sensual pleasures, from a lover's caress to the whispering brush of silk on the skin. Her worshipers seek out these pleasures in life, not out of mere decadence, but because the experience of pleasure is an act of worship.
 
-Sune appears as a woman of unearthly beauty. Regardless of what features she takes on, her hair is always impossibly long and fiery red. When she doesn't speak in dreams or visions, she sends a [Couatl](Compendium/bestiary/celestial/couatl-xmm.md) or [Deva](Compendium/bestiary/celestial/deva-xmm.md) to act as muse on her behalf.
+Sune appears as a woman of unearthly beauty. Regardless of what features she takes on, her hair is always impossibly long and fiery red. When she doesn't speak in dreams or visions, she sends a [[couatl-xmm|Couatl]] or [[deva-xmm|Deva]] to act as muse on her behalf.
 
 The followers of Sune have a reputation as hedonists. Her priests foster beauty in the world by creating art or acting as patrons for promising talents. Her priests consider loveliness to be one of their greatest callings and train in comportment, fashion, and cosmetics.
 
@@ -40,6 +40,6 @@ Prospective members are called Hopefuls. A Hopeful who demonstrates adherence to
 
 To win Sune's acceptance, a Hopeful must have protected a meaningful aspect of beauty from something that would destroy it, whether through ignorance or malice. Once inducted, the Companion is granted an enameled red rose brooch and joins the order. Members of special distinction bear brooches with ruby petals. (If your campaign uses renown, a character must have a Renown Score of 3+ with the Sodality of the Ruby Rose to join the organization.)
 
-Companions of the Ruby Rose are trained in battle, presentation, and poise. Companions receive a free Comfortable lifestyle when staying at holdings of Sune's faithful. When need arises, Companions can requisition the aid of a [Mage](Compendium/bestiary/humanoid/mage-xmm.md) or [Priest](Compendium/bestiary/humanoid/priest-xmm.md) of Sune.
+Companions of the Ruby Rose are trained in battle, presentation, and poise. Companions receive a free Comfortable lifestyle when staying at holdings of Sune's faithful. When need arises, Companions can requisition the aid of a [[mage-xmm|Mage]] or [[priest-xmm|Priest]] of Sune.
 
 The Sodality of the Ruby Rose strives against creatures that are corrupt and eager to destroy beauty. Sune's nature ensures that most people, even followers of other gods, are unlikely to remain in conflict with her for long, though the Ruby Rose occasionally clashes with the faithful of Talona, Talos, Tempus, and Umberlee.

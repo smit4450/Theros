@@ -76,13 +76,13 @@ Use the tables in this section to inspire adventure ideas for characters of diff
 
 The fate of a village might depend on the abilities of fledgling adventurers. These characters navigate dangerous terrain and explore haunted crypts, where they might fight ferocious wolves, giant spiders, evil cultists, flesh-eating ghouls, and ruthless brigands.
 
-![Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations](Compendium/tables/levels-14-local-heroes-levels-14-adventure-situations-xdmg.md)
+![[levels-14-local-heroes-levels-14-adventure-situations-xdmg|Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations]]
 
 #### Levels 5–10: Heroes of the Realm
 
 At this tier, characters undertake adventures that might determine the fate of a region. These adventurers venture into fearsome wilds and ancient ruins, where they confront giants, hydras, golems, devils, demons, and mind flayers. They might also face a young dragon that has just established a lair.
 
-![Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations](Compendium/tables/levels-510-heroes-of-the-realm-levels-510-adventure-situations-xdmg.md)
+![[levels-510-heroes-of-the-realm-levels-510-adventure-situations-xdmg|Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations]]
 
 #### Levels 11–16: Masters of the Realm
 
@@ -90,13 +90,13 @@ At this tier, characters undertake adventures that might determine the fate of a
 
 The fate of a nation or even the world depends on the characters at this tier. These adventurers explore uncharted regions and delve into forgotten dungeons, where the characters confront terrible schemers of the Lower Planes, cunning rakshasas and beholders, and hungry purple worms. They might encounter and even defeat a powerful adult dragon. At this tier, they broker peace between nations or lead them into war, and their formidable reputations attract the attention of powerful foes.
 
-![Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations](Compendium/tables/levels-1116-masters-of-the-realm-levels-1116-adventure-situations-xdmg.md)
+![[levels-1116-masters-of-the-realm-levels-1116-adventure-situations-xdmg|Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations]]
 
 #### Levels 17–20: Masters of the World
 
 At this tier, adventures have far-reaching consequences, possibly determining the fate of millions on the Material Plane and even places beyond. Characters traverse otherworldly realms and explore demiplanes and other extraplanar locales, where they fight terrible balor demons, titans, archdevils, liches, ancient dragons, and even manifestations of the gods.
 
-![Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations](Compendium/tables/levels-1720-masters-of-the-world-levels-1720-adventure-situations-xdmg.md)
+![[levels-1720-masters-of-the-world-levels-1720-adventure-situations-xdmg|Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations]]
 
 ### Adventure Setting
 
@@ -171,7 +171,7 @@ Take the time to flesh out an NPC who serves as a patron. Once in a while, it ca
 
 The Patron Hooks table offers some suggestions for ways a patron can lead characters to an adventure situation. The ""Campaign Start"" section in "chapter 5" offers some more suggestions for patrons.
 
-![Adventure Patrons; Patron Hooks](Compendium/tables/adventure-patrons-patron-hooks-xdmg.md)
+![[adventure-patrons-patron-hooks-xdmg|Adventure Patrons; Patron Hooks]]
 
 ![When rival factions inhabi...](Compendium/books/dungeon-masters-guide-2024/img/052-03-004-rival-factions.webp#center "When rival factions inhabit a ruined dungeon, sometimes the best course is to stay out of the way!")
 
@@ -179,13 +179,13 @@ The Patron Hooks table offers some suggestions for ways a patron can lead charac
 
 Celestial omens, vivid dreams, or other magical phenomena can point characters to the adventure situation and suggest a course of action. The Supernatural Hooks table offers some suggestions.
 
-![Supernatural Hooks](Compendium/tables/supernatural-hooks-xdmg.md)
+![[supernatural-hooks-xdmg|Supernatural Hooks]]
 
 ### Happenstance Hooks
 
 Sometimes, characters just happen on an adventure through sheer coincidence—or at least what appears to be coincidence (which might actually involve divine or other supernatural intervention). The Happenstance Hooks table provides some ideas.
 
-![Happenstance Hooks](Compendium/tables/happenstance-hooks-xdmg.md)
+![[happenstance-hooks-xdmg|Happenstance Hooks]]
 
 ## Plan Encounters
 
@@ -205,7 +205,7 @@ The characters must convince two opposing groups (or their leaders) to end the c
 
 #### Protect an NPC or Object
 
-The characters must act as bodyguards or protect some object in their custody. As a complication, an NPC under the party's protection might be cursed, panicked, unable to fight, or apt to risk the lives of the adventurers through dubious decisions. The object the adventurers have sworn to protect might be sentient, cursed, or difficult to transport. Such an encounter might be a combat encounter or an exploration encounter, with either [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) monsters or a dangerous environment threatening the NPC or object the characters are trying to protect. If the characters are protecting an NPC, this objective can add an element of social interaction to a combat or exploration encounter.
+The characters must act as bodyguards or protect some object in their custody. As a complication, an NPC under the party's protection might be cursed, panicked, unable to fight, or apt to risk the lives of the adventurers through dubious decisions. The object the adventurers have sworn to protect might be sentient, cursed, or difficult to transport. Such an encounter might be a combat encounter or an exploration encounter, with either [[hostile-attitude-xphb|Hostile]] monsters or a dangerous environment threatening the NPC or object the characters are trying to protect. If the characters are protecting an NPC, this objective can add an element of social interaction to a combat or exploration encounter.
 
 #### Retrieve an Object
 
@@ -213,7 +213,7 @@ The adventurers must gain possession of a specific object in the area of the enc
 
 #### Run a Gauntlet
 
-The adventurers must pass through a dangerous area. As with retrieving an object, reaching the exit is a higher priority than killing opponents in the area. A time limit adds a complication, as does a decision point that might lead characters astray. This might be an exploration encounter, with traps and hazards as complications, or a combat encounter against [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) monsters.
+The adventurers must pass through a dangerous area. As with retrieving an object, reaching the exit is a higher priority than killing opponents in the area. A time limit adds a complication, as does a decision point that might lead characters astray. This might be an exploration encounter, with traps and hazards as complications, or a combat encounter against [[hostile-attitude-xphb|Hostile]] monsters.
 
 #### Sneak In
 
@@ -235,7 +235,7 @@ Make sure your players have clear objectives they can pursue at every stage of t
 
 - **Adviser NPCs.** A helpful NPC in a social interaction can offer advice and suggestions to the characters. Such an NPC might be the patron who initially sent the characters on the adventure, someone they met along the way, or a character's contact. When you're planning an adventure, include NPCs who can fill this role.  
 - **Evil Intrusion.** If things start grinding to a halt, have the characters encounter a minion or monster connected to the adventure's main threat. At the end of the encounter, perhaps the characters find information that gets them back on track. Plan one or two encounters like this ahead of time.  
-- **The DM's Role.** If the characters can't figure out how to solve an encounter or aren't sure what to do next, you can remind the players of things their characters have already learned or call for Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) or similar checks to see if their characters can remember and connect things that the players might be missing.  
+- **The DM's Role.** If the characters can't figure out how to solve an encounter or aren't sure what to do next, you can remind the players of things their characters have already learned or call for Intelligence ([[skills#Investigation|Investigation]]) or similar checks to see if their characters can remember and connect things that the players might be missing.  
 
 ### Something for Everyone
 
@@ -287,7 +287,7 @@ Three categories describe the range of encounter difficulty:
 
 Using the XP Budget per Character table, cross-reference the party's level with the desired encounter difficulty. Multiply the number in the table by the number of characters in the party to get your XP budget for the encounter.
 
-![Determine Your XP Budget; XP Budget per Character](Compendium/tables/determine-your-xp-budget-xp-budget-per-character-xdmg.md)
+![[determine-your-xp-budget-xp-budget-per-character-xdmg|Determine Your XP Budget; XP Budget per Character]]
 
 ##### Step 3: Spend Your Budget
 
@@ -295,18 +295,18 @@ Every creature has an XP value in its stat block. When you add a creature to you
 
 - **Example 1.** A low-difficulty encounter for four level 1 characters has an XP budget of 50 × 4, for a total of 200 XP. With that, you could build any of the following encounters:  
 
-- 1 [Bugbear Warrior](Compendium/bestiary/fey/bugbear-warrior-xmm.md) (200 XP)  
-- 2 [Giant Wasps](Compendium/bestiary/beast/giant-wasp-xmm.md) (100 XP each), for 200 XP total  
-- 6 [Twig Blights](Compendium/bestiary/plant/twig-blight-xmm.md) (25 XP each), for 150 XP total  
+- 1 [[bugbear-warrior-xmm|Bugbear Warrior]] (200 XP)  
+- 2 [[giant-wasp-xmm|Giant Wasps]] (100 XP each), for 200 XP total  
+- 6 [[twig-blight-xmm|Twig Blights]] (25 XP each), for 150 XP total  
 
 - **Example 2.** A moderate-difficulty encounter for five level 3 characters has an XP budget of 225 × 5, for a total of 1,125 XP. With that, you could build either of these encounters:  
 
-- 2 [Nothics](Compendium/bestiary/aberration/nothic-xmm.md) (450 XP each) and 9 [Stirges](Compendium/bestiary/monstrosity/stirge-xmm.md) (25 XP each), for 1,125 XP total  
-- 1 [Wight](Compendium/bestiary/undead/wight-xmm.md) (700 XP), 1 [Warhorse Skeleton](Compendium/bestiary/undead/warhorse-skeleton-xmm.md) (100 XP), and 6 [Skeletons](Compendium/bestiary/undead/skeleton-xmm.md) (50 XP each), for 1,100 XP total  
+- 2 [[nothic-xmm|Nothics]] (450 XP each) and 9 [[stirge-xmm|Stirges]] (25 XP each), for 1,125 XP total  
+- 1 [[wight-xmm|Wight]] (700 XP), 1 [[warhorse-skeleton-xmm|Warhorse Skeleton]] (100 XP), and 6 [[skeleton-xmm|Skeletons]] (50 XP each), for 1,100 XP total  
 
 - **Example 3.** A high-difficulty encounter for six level 15 characters has an XP budget of 7,800 × 6, for a total of 46,800 XP. With that, you could build this encounter:  
 
-- 2 [Adult Red Dragons](Compendium/bestiary/dragon/adult-red-dragon-xmm.md) (18,000 XP each) and 2 [Fire Giants](Compendium/bestiary/giant/fire-giant-xmm.md) (5,000 XP each), for 46,000 XP total  
+- 2 [[adult-red-dragon-xmm|Adult Red Dragons]] (18,000 XP each) and 2 [[fire-giant-xmm|Fire Giants]] (5,000 XP each), for 46,000 XP total  
 
 #### Troubleshooting
 
@@ -332,7 +332,7 @@ The best combat encounters often pair one kind of creature with another, such as
 
 ##### Powerful Creatures
 
-If your combat encounter includes a creature whose CR is higher than the party's level, be aware that such a creature might deal enough damage with a single action to take out one or more characters. For example, an [Ogre](Compendium/bestiary/giant/ogre-xmm.md) (CR 2) can kill a level 1 Wizard with a single blow.
+If your combat encounter includes a creature whose CR is higher than the party's level, be aware that such a creature might deal enough damage with a single action to take out one or more characters. For example, an [[ogre-xmm|Ogre]] (CR 2) can kill a level 1 Wizard with a single blow.
 
 ##### Unusual Features
 
@@ -346,21 +346,21 @@ The attitudes, motivations, and behavior of the monsters in an encounter help de
 
 #### Initial Attitudes
 
-A published adventure typically notes or implies whether a creature's initial attitude toward the adventurers is [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md), [Indifferent](Compendium/rules/variant-rules/indifferent-attitude-xphb.md), or [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md). In an encounter you've created, you can decide that starting attitude, or you can randomly determine it using the Initial Attitude table.
+A published adventure typically notes or implies whether a creature's initial attitude toward the adventurers is [[friendly-attitude-xphb|Friendly]], [[indifferent-attitude-xphb|Indifferent]], or [[hostile-attitude-xphb|Hostile]]. In an encounter you've created, you can decide that starting attitude, or you can randomly determine it using the Initial Attitude table.
 
-![Initial Attitudes; Initial Attitude](Compendium/tables/initial-attitudes-initial-attitude-xdmg.md)
+![[initial-attitudes-initial-attitude-xdmg|Initial Attitudes; Initial Attitude]]
 
 #### Monster Personality
 
 If an encounter involves a significant individual, use the guidance in the ""Nonplayer Characters"" section of "chapter 3" to flesh out the details of that individual's personality and aims. For a group of nameless monsters, you can decide on a personality based on the monsters' entries in the "Monster Manual", or you can use the Monster Personality table to inform how you portray the monsters and their actions. It's simplest to assign the same personality traits to an entire group of monsters in an encounter. For example, one bandit gang might be an unruly mob of braggarts, while the members of another gang are always on edge and ready to flee at the first sign of danger.
 
-![Monster Personality](Compendium/tables/monster-personality-xdmg.md)
+![[monster-personality-xdmg|Monster Personality]]
 
 #### Monster Relationships
 
 Encounters with groups of monsters can be more interesting if rivalries, hatreds, or attachments exist among the monsters in the group. The death of a much-revered leader might throw its followers into a frenzy. On the other hand, a monster might flee if its hunting companion is killed, or a mistreated toady might be eager to surrender and betray its boss in return for its life. You can use the Monster Relationships table to inspire such relationships within a monster group.
 
-![Monster Relationships](Compendium/tables/monster-relationships-xdmg.md)
+![[monster-relationships-xdmg|Monster Relationships]]
 
 #### Reactive Tactics
 
@@ -369,7 +369,7 @@ A great way to make an adventure location feel alive—particularly an organized
 Take a copy of the adventure map, and pencil in the locations of all its inhabitants to give yourself a sense of where they're located relative to each other. When the adventurers engage in combat or any other noisy activity, assume that nearby creatures hear the noise and are alerted to the adventurers' presence. (Creatures that can't hear might be alerted by vibrations or other sensory cues.) Once alerted, a creature has several options:
 
 - **Ambush.** The creature leaves its current location and takes up a position near the adventurers' location, hoping to catch the adventurers unaware. Ambushers try to hide and, once hidden, take advantage of any opportune moment to attack.  
-- **Fortify.** The creature attempts to fortify its location by using furniture or heavy objects to block doors or entryways. Increase the DC to force open a blocked door by 3, and hastily blocked passageways are [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md). A creature with a ranged attack that selects this option seeks cover in its location.  
+- **Fortify.** The creature attempts to fortify its location by using furniture or heavy objects to block doors or entryways. Increase the DC to force open a blocked door by 3, and hastily blocked passageways are [[difficult-terrain-xphb|Difficult Terrain]]. A creature with a ranged attack that selects this option seeks cover in its location.  
 - **Hide/Flee.** If possible, the creature hides in its current location, hoping to avoid any adventurers that enter. If there is nowhere to hide, the creature flees to a location farther from the adventurers or flees to any nearby location occupied by its allies. If a fleeing creature reaches allies, those allies are immediately alerted to the presence of the adventurers; determine how those allies react.  
 - **Investigate.** The creature rushes to the sound of the disturbance to investigate, possibly joining any battle that is underway. A creature that passes near an ally while moving to investigate a disturbance might ask that ally to accompany it.  
 
@@ -451,7 +451,7 @@ The climactic ending of an adventure fulfills the promise of all that came befor
 
 Although the climax must hinge on the successes and failures of the characters up to that moment, the Adventure Climax table can provide suggestions to help you shape the end of your adventure.
 
-![Bring It to an End; Adventure Climax](Compendium/tables/bring-it-to-an-end-adventure-climax-xdmg.md)
+![[bring-it-to-an-end-adventure-climax-xdmg|Bring It to an End; Adventure Climax]]
 
 ### Denouement
 
@@ -473,7 +473,7 @@ Characters might find small amounts of treasure in the pockets, pouches, or pers
 
 You can use the Random Individual Treasure table to determine how much treasure a single monster has based on its Challenge Rating (CR). The table includes the average total in parentheses, which you can use instead of rolling. To determine the total amount of treasure for a group of similar creatures, you can roll once and multiply the total by the number of creatures in the group.
 
-![Random Individual Treasure](Compendium/tables/random-individual-treasure-xdmg.md)
+![[random-individual-treasure-xdmg|Random Individual Treasure]]
 
 ### Treasure Hoards
 
@@ -481,7 +481,7 @@ Adventurers sometimes discover large caches of treasure, the accumulated wealth 
 
 As a rough benchmark, aim to roll on the Random Treasure Hoard table about once per game session. Use the guidelines in "chapter 7" to determine which magic items are in the hoard (see ""Awarding Magic Items"" and ""Random Magic Items"").
 
-![Treasure Hoards; Random Treasure Hoard](Compendium/tables/treasure-hoards-random-treasure-hoard-xdmg.md)
+![[treasure-hoards-random-treasure-hoard-xdmg|Treasure Hoards; Random Treasure Hoard]]
 
 ![A climactic battle at the ...](Compendium/books/dungeon-masters-guide-2024/img/058-03-010-temple-of-elemental-evil.webp#center "A climactic battle at the Temple of Elemental Evil brings an adventure to a dramatic end")
 
@@ -533,30 +533,30 @@ A mile upstream from the village, a stream flows into the river from a little wo
 
 ##### Journey Upstream
 
-Borogrove, a kindly [Treant](Compendium/bestiary/plant/treant-xmm.md), keeps watch over the wood and meets the characters as they follow the polluted stream. He knows the source of the corruption is inside a cave that the stream spills out of. He gives the characters a magic acorn. If swallowed, the acorn conveys the benefits of a [Potion of Healing](Compendium/items/potion-of-healing-xdmg.md) and the [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md) spell.
+Borogrove, a kindly [[treant-xmm|Treant]], keeps watch over the wood and meets the characters as they follow the polluted stream. He knows the source of the corruption is inside a cave that the stream spills out of. He gives the characters a magic acorn. If swallowed, the acorn conveys the benefits of a [[potion-of-healing-xdmg|Potion of Healing]] and the [[lesser-restoration-xphb|Lesser Restoration]] spell.
 
 ##### Twig Blights
 
-Just outside the cave, the characters encounter six [Twig Blights](Compendium/bestiary/plant/twig-blight-xmm.md).
+Just outside the cave, the characters encounter six [[twig-blight-xmm|Twig Blights]].
 
 ##### Corrupted Cave
 
 Use the Underdark Warren map in "Appendix B" for the corrupted cave. Ignore the secret door and the inner chambers behind it. Close off the tunnels leading off the map to the south, east, and north. The characters enter the cave in the southeast, following the stream. The cave's main features and inhabitants are as follows:
 
-- **Entrance.** A [Shrieker Fungus](Compendium/bestiary/plant/shrieker-fungus-xmm.md) just inside the cave entrance alerts the inhabitants to the characters' arrival. On watch near the entrance and quick to respond to the shriekers' cry are four [Bullywug Warriors](Compendium/bestiary/fey/bullywug-warrior-xmm.md) who have fungal growths on them.  
-- **Berserk Bear.** In a side cave to the southeast is a [Brown Bear](Compendium/bestiary/beast/brown-bear-xmm.md) that drank from the stream. It's upset because the water made it ill. If the characters can make it eat Borogrove's acorn or otherwise rid it the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition, the bear recovers immediately and leaves them alone.  
-- **Ooze's Lair.** At the north end of the stream are a [Psychic Gray Ooze](Compendium/bestiary/ooze/gray-ooze-xmm.md) and six [Stirges](Compendium/bestiary/monstrosity/stirge-xmm.md). After defeating these creatures, the characters can destroy the brain-like fungus in the water, which is the source of the corruption. If they do, each character earns a bonus 100 XP.  
+- **Entrance.** A [[shrieker-fungus-xmm|Shrieker Fungus]] just inside the cave entrance alerts the inhabitants to the characters' arrival. On watch near the entrance and quick to respond to the shriekers' cry are four [[bullywug-warrior-xmm|Bullywug Warriors]] who have fungal growths on them.  
+- **Berserk Bear.** In a side cave to the southeast is a [[brown-bear-xmm|Brown Bear]] that drank from the stream. It's upset because the water made it ill. If the characters can make it eat Borogrove's acorn or otherwise rid it the [[conditions#Poisoned|Poisoned]] condition, the bear recovers immediately and leaves them alone.  
+- **Ooze's Lair.** At the north end of the stream are a [[gray-ooze-xmm|Psychic Gray Ooze]] and six [[stirge-xmm|Stirges]]. After defeating these creatures, the characters can destroy the brain-like fungus in the water, which is the source of the corruption. If they do, each character earns a bonus 100 XP.  
 
 ##### Journey Home
 
-As they leave the wood, the characters encounter Borogrove again. If they used his acorn, he gives them another one. If they purified the source of the stream, he gives them a [Staff of Flowers](Compendium/items/staff-of-flowers-xdmg.md) in gratitude.
+As they leave the wood, the characters encounter Borogrove again. If they used his acorn, he gives them another one. If they purified the source of the stream, he gives them a [[staff-of-flowers-xdmg|Staff of Flowers]] in gratitude.
 
 ### Miner Difficulties
 
 *Adventure for Level 2 Characters*
 
-- **Situation.** After miners dug into an Underdark tunnel, a [Hook Horror](Compendium/bestiary/monstrosity/hook-horror-xmm.md) found its way into the mine and became trapped. It has eaten a few miners, and the others are too terrified of the echoing clicks in the mine to hunt down the predator.  
-- **Hook.** The mayor of the village of Blackstone, Kristryd Splitanvil (a Lawful Good, dwarf [Tough](Compendium/bestiary/humanoid/tough-xmm.md)), hires the adventurers—perhaps because of how adeptly they handled the situation in ""The Fouled Stream""—to deal with the monster in the mines. She offers a precious topaz worth 500 GP to adventurers who kill the creature or drive it away.  
+- **Situation.** After miners dug into an Underdark tunnel, a [[hook-horror-xmm|Hook Horror]] found its way into the mine and became trapped. It has eaten a few miners, and the others are too terrified of the echoing clicks in the mine to hunt down the predator.  
+- **Hook.** The mayor of the village of Blackstone, Kristryd Splitanvil (a Lawful Good, dwarf [[tough-xmm|Tough]]), hires the adventurers—perhaps because of how adeptly they handled the situation in ""The Fouled Stream""—to deal with the monster in the mines. She offers a precious topaz worth 500 GP to adventurers who kill the creature or drive it away.  
 
 #### Encounters
 
@@ -566,11 +566,11 @@ The adventure consists of these encounters.
 
 Use the Mine map in "Appendix B". In the weeks since the miners abandoned the place, pests have flourished in the tunnels. Each time the characters enter a distinct area of the mine, roll on the following table.
 
-![Exploring the Mine](Compendium/tables/exploring-the-mine-xdmg.md)
+![[exploring-the-mine-xdmg|Exploring the Mine]]
 
 ##### Sounds of Terror
 
-The first time this encounter occurs, the characters hear eerie clacking and scraping noises echoing in the mine shafts and notice gouges in the walls. The second time, they find the source of those sounds and markings—the [Hook Horror](Compendium/bestiary/monstrosity/hook-horror-xmm.md). The creature is hungry, but what it really wants is to find its way back to the Underdark. It retreats from a fight that is going badly for it.
+The first time this encounter occurs, the characters hear eerie clacking and scraping noises echoing in the mine shafts and notice gouges in the walls. The second time, they find the source of those sounds and markings—the [[hook-horror-xmm|Hook Horror]]. The creature is hungry, but what it really wants is to find its way back to the Underdark. It retreats from a fight that is going badly for it.
 
 ##### Underdark Connection
 
@@ -580,8 +580,8 @@ The tunnel in the southeast corner of the bottom level of the mine is where the 
 
 *Adventure for Level 3 Characters*
 
-- **Situation.** A few weeks ago, a [Red Dragon Wyrmling](Compendium/bestiary/dragon/red-dragon-wyrmling-xmm.md) drove a band of kobolds out of their warren to claim the place as its lair. Now some of the kobolds are causing trouble in the Cairn Hills. They're raiding merchants, hoping the dragon will allow them to return home as its loyal servants.  
-- **Hook.** A merchant named Nondy Barducks (a Lawful Neutral, gnome [Commoner](Compendium/bestiary/humanoid/commoner-xmm.md)) hires the characters to escort his wagon to the remote mining village of Diamond Lake, which happens to be near the dragon's new lair. Nondy was robbed by kobolds on his last trip, and he wants protection this time. He offers to pay each character 150 GP.  
+- **Situation.** A few weeks ago, a [[red-dragon-wyrmling-xmm|Red Dragon Wyrmling]] drove a band of kobolds out of their warren to claim the place as its lair. Now some of the kobolds are causing trouble in the Cairn Hills. They're raiding merchants, hoping the dragon will allow them to return home as its loyal servants.  
+- **Hook.** A merchant named Nondy Barducks (a Lawful Neutral, gnome [[commoner-xmm|Commoner]]) hires the characters to escort his wagon to the remote mining village of Diamond Lake, which happens to be near the dragon's new lair. Nondy was robbed by kobolds on his last trip, and he wants protection this time. He offers to pay each character 150 GP.  
 
 #### Encounters
 
@@ -589,11 +589,11 @@ The adventure consists of these encounters.
 
 ##### Kobold Bandits
 
-Along the road, the wagon is surrounded by eight [Kobold Warriors](Compendium/bestiary/dragon/kobold-warrior-xmm.md) (Neutral) who demand that the merchant surrender his goods. In combat, the kobolds shout things like "For the Winged God!" and "Fight to reclaim our home!" If four of them fall in battle, the remaining kobolds try to flee. Any captured kobold explains the situation.
+Along the road, the wagon is surrounded by eight [[kobold-warrior-xmm|Kobold Warriors]] (Neutral) who demand that the merchant surrender his goods. In combat, the kobolds shout things like "For the Winged God!" and "Fight to reclaim our home!" If four of them fall in battle, the remaining kobolds try to flee. Any captured kobold explains the situation.
 
 ##### Kobold Supplicants
 
-If the characters continue on their way without pursuing the kobolds, twelve [Kobold Warriors](Compendium/bestiary/dragon/kobold-warrior-xmm.md) (including any survivors of the first encounter) and six [Winged Kobolds](Compendium/bestiary/dragon/winged-kobold-xmm.md) (all Neutral) approach the wagon. These kobolds humbly ask the adventurers to help them. They promise to return the goods they stole from Nondy if the adventurers drive off the dragon.
+If the characters continue on their way without pursuing the kobolds, twelve [[kobold-warrior-xmm|Kobold Warriors]] (including any survivors of the first encounter) and six [[winged-kobold-xmm|Winged Kobolds]] (all Neutral) approach the wagon. These kobolds humbly ask the adventurers to help them. They promise to return the goods they stole from Nondy if the adventurers drive off the dragon.
 
 ##### Kobold Camp
 
@@ -601,16 +601,16 @@ If the adventurers follow fleeing kobolds, they can find the kobolds' camp on a 
 
 ##### Dragon's Lair
 
-Use the Volcanic Caves map in "Appendix B" for the dragon's lair, but close off passages to keep the lair small. Near the entrance, the characters encounter a gang of four [Magma Mephits](Compendium/bestiary/elemental/magma-mephit-xmm.md) and three [Smoke Mephits](Compendium/bestiary/elemental/smoke-mephit-xmm.md), drawn to the lair by the magic of the dragon.
+Use the Volcanic Caves map in "Appendix B" for the dragon's lair, but close off passages to keep the lair small. Near the entrance, the characters encounter a gang of four [[magma-mephit-xmm|Magma Mephits]] and three [[smoke-mephit-xmm|Smoke Mephits]], drawn to the lair by the magic of the dragon.
 
-In the inner cave, the troublesome [Red Dragon Wyrmling](Compendium/bestiary/dragon/red-dragon-wyrmling-xmm.md) rests on its little hoard:
+In the inner cave, the troublesome [[red-dragon-wyrmling-xmm|Red Dragon Wyrmling]] rests on its little hoard:
 
 - Crate holding Nondy's stolen goods (worth 400 GP)  
 - 4,200 CP, 2,000 SP, and 180 GP  
 - Seven gemstones worth 50 GP each  
-- [Potion of Healing](Compendium/items/potion-of-healing-xdmg.md)  
-- [Rope of Climbing](Compendium/items/rope-of-climbing-xdmg.md)  
-- Two [Spell Scrolls](Compendium/items/spell-scroll-xdmg.md) ([Alarm](Compendium/spells/alarm-xphb.md) and [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md))  
+- [[potion-of-healing-xdmg|Potion of Healing]]  
+- [[rope-of-climbing-xdmg|Rope of Climbing]]  
+- Two [[spell-scroll-xdmg|Spell Scrolls]] ([[alarm-xphb|Alarm]] and [[comprehend-languages-xphb|Comprehend Languages]])  
 
 If the characters defeat or drive off the dragon, each of them earns a bonus 400 XP.
 
@@ -619,7 +619,7 @@ If the characters defeat or drive off the dragon, each of them earns a bonus 400
 *Adventure for Level 5 Characters*
 
 - **Situation.** A long-forgotten ruin is rumored to hold a fiendish Artifact called the Horns of the Beast. A villain hopes to claim the Artifact and put it to terrible use.  
-- **Hook.** An unassuming human merchant named Melchis (secretly a Chaotic Evil [Fiend Cultist](Compendium/bestiary/humanoid/fiend-cultist-xmm.md) devoted to "Iuz") hires the characters to escort him on an expedition to find an ancient temple lost in the jungle. He offers to pay them a total of 2,000 GP in trade bars—half when they reach the temple and half when they safely return to civilization—and promises to support them with what he claims to be "limited magical ability."  
+- **Hook.** An unassuming human merchant named Melchis (secretly a Chaotic Evil [[fiend-cultist-xmm|Fiend Cultist]] devoted to "Iuz") hires the characters to escort him on an expedition to find an ancient temple lost in the jungle. He offers to pay them a total of 2,000 GP in trade bars—half when they reach the temple and half when they safely return to civilization—and promises to support them with what he claims to be "limited magical ability."  
 
 #### Encounters
 
@@ -627,29 +627,29 @@ You can use the poster map of the world of Greyhawk for this adventure; the temp
 
 ##### Stage 1
 
-Melchis hires a ship to carry the party to the Amedio Jungle. Use the map to determine how long the sea voyage takes, depending on where the adventurers begin the trip and figuring that the ship covers about 1½ hexes per day. Near the end of the trip, as the ship crosses Jeklea Bay, it's attacked by a group of [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) sahuagin, including two [Sahuagin Priests](Compendium/bestiary/fiend/sahuagin-priest-xmm.md), six [Sahuagin Warriors](Compendium/bestiary/fiend/sahuagin-warrior-xmm.md), and a [Water Elemental](Compendium/bestiary/elemental/water-elemental-xmm.md). (Assume the ship's crew stays out of the way of these terrifying monsters and lets the characters and Melchis deal with this threat.) Stage 1 ends when Melchis and the characters row a launch ashore.
+Melchis hires a ship to carry the party to the Amedio Jungle. Use the map to determine how long the sea voyage takes, depending on where the adventurers begin the trip and figuring that the ship covers about 1½ hexes per day. Near the end of the trip, as the ship crosses Jeklea Bay, it's attacked by a group of [[hostile-attitude-xphb|Hostile]] sahuagin, including two [[sahuagin-priest-xmm|Sahuagin Priests]], six [[sahuagin-warrior-xmm|Sahuagin Warriors]], and a [[water-elemental-xmm|Water Elemental]]. (Assume the ship's crew stays out of the way of these terrifying monsters and lets the characters and Melchis deal with this threat.) Stage 1 ends when Melchis and the characters row a launch ashore.
 
 ##### Stage 2
 
 Melchis leads the characters into the jungle, aiming for the shore of the lake. This stage covers about 180 miles through the dense forest. Each day of the journey, roll once on the following table to determine what the characters encounter on their journey, if anything.
 
-![Stage 2](Compendium/tables/stage-2-xdmg.md)
+![[stage-2-xdmg|Stage 2]]
 
 ##### Stage 3
 
-Once the characters reach the edge of the lake, Melchis leads them southwest along the shore until they find the ruin. This stage covers 90 miles through coastal terrain. The second day of the journey, "heavy rain" obscures vision and creates "quicksand pits" (see ""Environmental Effects"" and ""Hazards"" in "chapter 3"). The front rank of the party might fall into a quicksand pit while two [Giant Crocodiles](Compendium/bestiary/beast/giant-crocodile-xmm.md) attack at the same time. The rest of the journey passes without incident.
+Once the characters reach the edge of the lake, Melchis leads them southwest along the shore until they find the ruin. This stage covers 90 miles through coastal terrain. The second day of the journey, "heavy rain" obscures vision and creates "quicksand pits" (see ""Environmental Effects"" and ""Hazards"" in "chapter 3"). The front rank of the party might fall into a quicksand pit while two [[giant-crocodile-xmm|Giant Crocodiles]] attack at the same time. The rest of the journey passes without incident.
 
 ##### The Ruins
 
-For the ruins, use the western half of the ground floor of the Dungeon Hideout map in "Appendix B", and ignore the stairs leading to the lower levels. Dwelling in the ruins are six [Minotaurs of Baphomet](Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) who are Hostile to all intruders. They are spread out around the ruins but come quickly when they hear combat.
+For the ruins, use the western half of the ground floor of the Dungeon Hideout map in "Appendix B", and ignore the stairs leading to the lower levels. Dwelling in the ruins are six [[minotaur-of-baphomet-xmm|Minotaurs of Baphomet]] who are Hostile to all intruders. They are spread out around the ruins but come quickly when they hear combat.
 
 ##### The Artifact
 
-The Horns of the Beast—a jagged crown made from the horns of demons and wild animals—rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a [Hezrou](Compendium/bestiary/fiend/hezrou-xmm.md) and tries to kill the characters. A character who dons the Artifact is cursed with "Demonic Possession" (see ""Curses and Magical Contagions"" in "chapter 3"). The Artifact can't be removed from the character's head until a [Remove Curse](Compendium/spells/remove-curse-xphb.md) spell is cast on the character. If the characters defeat Melchis and search him, they find a [Bag of Holding](Compendium/items/bag-of-holding-xdmg.md) containing twelve 5-pound gold trade bars (worth 250 GP each) and a [Spell Scroll](Compendium/items/spell-scroll-xdmg.md) of [Teleportation Circle](Compendium/spells/teleportation-circle-xphb.md). The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP.
+The Horns of the Beast—a jagged crown made from the horns of demons and wild animals—rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a [[hezrou-xmm|Hezrou]] and tries to kill the characters. A character who dons the Artifact is cursed with "Demonic Possession" (see ""Curses and Magical Contagions"" in "chapter 3"). The Artifact can't be removed from the character's head until a [[remove-curse-xphb|Remove Curse]] spell is cast on the character. If the characters defeat Melchis and search him, they find a [[bag-of-holding-xdmg|Bag of Holding]] containing twelve 5-pound gold trade bars (worth 250 GP each) and a [[spell-scroll-xdmg|Spell Scroll]] of [[teleportation-circle-xphb|Teleportation Circle]]. The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP.
 
 ##### Destroying the Artifact
 
-The Horns of the Beast can be destroyed only by dropping it in the "River Oceanus", which flows through the Upper Planes (see "chapter 6"). A character can learn this by casting [Identify](Compendium/spells/identify-xphb.md) on the Artifact.
+The Horns of the Beast can be destroyed only by dropping it in the "River Oceanus", which flows through the Upper Planes (see "chapter 6"). A character can learn this by casting [[identify-xphb|Identify]] on the Artifact.
 
 ### Boreal Ball
 
@@ -664,16 +664,16 @@ The Horns of the Beast can be destroyed only by dropping it in the "River Oceanu
 
 The adventure plays out over three dances. During each one, the characters can decide whether they dance, mingle, watch the dancers, or engage in some other activity. (The Manor map in "Appendix B" can serve as a floor plan for the baron's palace.) Each character has the opportunity to earn renown for the party (see ""Renown"" in *chapter 3*) by making a positive impression on whomever they're interacting with—a potential Renown Score increase of 1 per character per dance. These guests pay particular attention to the characters:
 
-- Cannifer is a [Satyr Revelmaster](Compendium/bestiary/fey/satyr-revelmaster-xmm.md) who is used to being the center of attention at every ball he attends and is thus [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) to the adventurers.  
-- Darisis a [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md), fun-loving [Dryad](Compendium/bestiary/fey/dryad-xmm.md) who wants to be seen dancing with all the adventurers.  
-- Fidget is a playful [Pixie](Compendium/bestiary/fey/pixie-xmm.md) who is [Indifferent](Compendium/rules/variant-rules/indifferent-attitude-xphb.md) and pesters the adventurers with pranks throughout the evening, without causing any actual harm.  
-- Granny Snailtongue is a [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) [Green Hag](Compendium/bestiary/fey/green-hag-xmm.md) who sees the adventurers as potentially useful tools. She offers to help them at every turn in hopes of putting them in her debt.  
-- Raxas Albrethin is an arrogant, Chaotic Neutral drow [Mage](Compendium/bestiary/humanoid/mage-xmm.md) who is initially [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) and wants to see the adventurers humiliated. However, once the characters' Renown Score reaches 6, Raxas admits he misjudged them and becomes [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md).  
+- Cannifer is a [[satyr-revelmaster-xmm|Satyr Revelmaster]] who is used to being the center of attention at every ball he attends and is thus [[hostile-attitude-xphb|Hostile]] to the adventurers.  
+- Darisis a [[friendly-attitude-xphb|Friendly]], fun-loving [[dryad-xmm|Dryad]] who wants to be seen dancing with all the adventurers.  
+- Fidget is a playful [[pixie-xmm|Pixie]] who is [[indifferent-attitude-xphb|Indifferent]] and pesters the adventurers with pranks throughout the evening, without causing any actual harm.  
+- Granny Snailtongue is a [[hostile-attitude-xphb|Hostile]] [[green-hag-xmm|Green Hag]] who sees the adventurers as potentially useful tools. She offers to help them at every turn in hopes of putting them in her debt.  
+- Raxas Albrethin is an arrogant, Chaotic Neutral drow [[mage-xmm|Mage]] who is initially [[hostile-attitude-xphb|Hostile]] and wants to see the adventurers humiliated. However, once the characters' Renown Score reaches 6, Raxas admits he misjudged them and becomes [[friendly-attitude-xphb|Friendly]].  
 
 ##### Rude Interruption
 
-After the second dance, the ball is interrupted by a Neutral Evil [Hobgoblin Warlord](Compendium/bestiary/fey/hobgoblin-warlord-xmm.md) named Varka, who is accompanied by a [Hobgoblin Captain](Compendium/bestiary/fey/hobgoblin-captain-xmm.md) and five [Hobgoblin Warriors](Compendium/bestiary/fey/hobgoblin-warrior-xmm.md). The hobgoblins are offended by the adventurers' presence and attack them. If the characters defeat the hobgoblins, their Renown Score increases by 2.
+After the second dance, the ball is interrupted by a Neutral Evil [[hobgoblin-warlord-xmm|Hobgoblin Warlord]] named Varka, who is accompanied by a [[hobgoblin-captain-xmm|Hobgoblin Captain]] and five [[hobgoblin-warrior-xmm|Hobgoblin Warriors]]. The hobgoblins are offended by the adventurers' presence and attack them. If the characters defeat the hobgoblins, their Renown Score increases by 2.
 
 ##### Conclusion
 
-After three dances, the Baron of the Boreal Ball appears. If the party's Renown Score is at least 6, he bestows on each character a Charm of the Boreal Ball. This charm (see ""Supernatural Gifts"" in "chapter 3") allows a character who has it to cast the level 3 version of the [Ice Knife](Compendium/spells/ice-knife-xphb.md) spell. Once used, the Charm vanishes. Each character also earns a bonus 1,700 XP.
+After three dances, the Baron of the Boreal Ball appears. If the party's Renown Score is at least 6, he bestows on each character a Charm of the Boreal Ball. This charm (see ""Supernatural Gifts"" in "chapter 3") allows a character who has it to cast the level 3 version of the [[ice-knife-xphb|Ice Knife]] spell. Once used, the Charm vanishes. Each character also earns a bonus 1,700 XP.

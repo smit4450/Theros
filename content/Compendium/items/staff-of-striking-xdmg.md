@@ -18,7 +18,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic Quarterstaff that grants a +3 bonus to attack rolls and damage rolls made with it.

@@ -15,15 +15,15 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/4 | [Blink dog](Compendium/bestiary/fey/blink-dog-xmm.md) |
-| 1/2 | [Cockatrice](Compendium/bestiary/monstrosity/cockatrice-xmm.md) |
-| 2 | [Nothic](Compendium/bestiary/aberration/nothic-xmm.md) |
-| 3 | [Phase spider](Compendium/bestiary/monstrosity/phase-spider-xmm.md) |
-| 6 | [Invisible stalker](Compendium/bestiary/elemental/invisible-stalker-xmm.md) |
-| 7 | [Theran chimera](Compendium/bestiary/monstrosity/theran-chimera-mot.md) |
-| 11 | [Gynosphinx](Compendium/bestiary/celestial/sphinx-of-lore-xmm.md)* |
-| 12 | [Archmage](Compendium/bestiary/humanoid/archmage-xmm.md) |
-| 17 | [Androsphinx](Compendium/bestiary/celestial/sphinx-of-valor-xmm.md)* |
+| 1/4 | [[blink-dog-xmm|Blink dog]] |
+| 1/2 | [[cockatrice-xmm|Cockatrice]] |
+| 2 | [[nothic-xmm|Nothic]] |
+| 3 | [[phase-spider-xmm|Phase spider]] |
+| 6 | [[invisible-stalker-xmm|Invisible stalker]] |
+| 7 | [[theran-chimera-mot|Theran chimera]] |
+| 11 | [[sphinx-of-lore-xmm|Gynosphinx]]* |
+| 12 | [[archmage-xmm|Archmage]] |
+| 17 | [[sphinx-of-valor-xmm|Androsphinx]]* |
 ^kruphixs-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

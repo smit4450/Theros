@@ -18,10 +18,10 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Fire damage while you hold this staff.
+You have [[resistance-xphb|Resistance]] to Fire damage while you hold this staff.
 
 ## Spells
 
@@ -29,9 +29,9 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Burning Hands](Compendium/spells/burning-hands-xphb.md) | 1 |
-| [Fireball](Compendium/spells/fireball-xphb.md) | 3 |
-| [Wall of Fire](Compendium/spells/wall-of-fire-xphb.md) | 4 |
+| [[burning-hands-xphb|Burning Hands]] | 1 |
+| [[fireball-xphb|Fireball]] | 3 |
+| [[wall-of-fire-xphb|Wall of Fire]] | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges

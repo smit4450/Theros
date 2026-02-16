@@ -19,7 +19,7 @@ aliases:
 - **Alignment**: Unaligned
 - **Pantheon**: Faerûnian
 
-Good natured, confident, and fiercely loyal to her allies, Mielikki is a god of the woods and the creatures who live within them. She is also a god of Rangers. When she makes her will known on the Material Plane, Mielikki manifests as a confident voice in a forest glade. Alternatively, she sends a [Dryad](Compendium/bestiary/fey/dryad-xmm.md), [Hawk](Compendium/bestiary/beast/hawk-xmm.md), or [Unicorn](Compendium/bestiary/celestial/unicorn-xmm.md) as a messenger.
+Good natured, confident, and fiercely loyal to her allies, Mielikki is a god of the woods and the creatures who live within them. She is also a god of Rangers. When she makes her will known on the Material Plane, Mielikki manifests as a confident voice in a forest glade. Alternatively, she sends a [[dryad-xmm|Dryad]], [[hawk-xmm|Hawk]], or [[unicorn-xmm|Unicorn]] as a messenger.
 
 Mielikki's followers don't organize into official temples. Instead, they assemble in peaceful wooded glades to worship her or create shrines in her honor. A typical shrine to Mielikki is a dead tree trunk into which has been carved the likeness of her holy symbol: a unicorn or unicorn's head. Such a shrine marks a point in the forest beyond which locals know not to cut timber or hunt; in this way, followers thank Mielikki for the forest's bounty.
 

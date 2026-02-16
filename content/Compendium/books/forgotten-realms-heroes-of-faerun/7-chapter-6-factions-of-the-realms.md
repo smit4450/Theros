@@ -38,7 +38,7 @@ The factions detailed in this chapter each include a special facility that membe
 
 ## Faction Relationships
 
-The Faction Attitudes table summarizes the sentiments shared between the factions described in this chapter. Faction pairs marked with an *F* consider each other allies, and their members have a default attitude of [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md) toward one another. Faction pairs marked with an *H* consider each other rivals, and their members have a default attitude of [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward one another. Members of factions marked with an *I* begin [Indifferent](Compendium/rules/variant-rules/indifferent-attitude-xphb.md) toward one another. Exceptions might exist on an individual level.
+The Faction Attitudes table summarizes the sentiments shared between the factions described in this chapter. Faction pairs marked with an *F* consider each other allies, and their members have a default attitude of [[friendly-attitude-xphb|Friendly]] toward one another. Faction pairs marked with an *H* consider each other rivals, and their members have a default attitude of [[hostile-attitude-xphb|Hostile]] toward one another. Members of factions marked with an *I* begin [[indifferent-attitude-xphb|Indifferent]] toward one another. Exceptions might exist on an individual level.
 
 **Faction Attitudes**
 
@@ -110,7 +110,7 @@ Once initiated, a cultist belongs to the cult for life. Those who escape the cul
 
 Characters gain renown with the Cult of the Dragon by working with dragons or by completing quests for the cult. As their Renown Score increases, characters gain access to various perks, as shown on the Cult of the Dragon Renown table. If your campaign doesn't use renown, your DM decides if and when characters earn these perks.
 
-![Cult of the Dragon Renown](Compendium/tables/cult-of-the-dragon-renown-frhof.md)
+![[cult-of-the-dragon-renown-frhof|Cult of the Dragon Renown]]
 
 ### Cult of the Dragon Characters
 
@@ -128,7 +128,7 @@ You are expected to donate 100 GP or 10% of your earnings per month, whichever i
 
 ##### Trinket
 
-Roll on the [Cult of the Dragon Trinkets](Compendium/items/cult-of-the-dragon-trinket-frhof.md) table to determine what trinket you have from your time with the Cult of the Dragon.
+Roll on the [[cult-of-the-dragon-trinket-frhof|Cult of the Dragon Trinkets]] table to determine what trinket you have from your time with the Cult of the Dragon.
 
 ##### Vestments
 
@@ -159,7 +159,7 @@ If your character has undergone a sacrificial ritual and yet survived, you can r
 Members of the Cult of the Dragon can add the following special facility to their Bastions.
 
 > [!embed-facility]- Cult of the Dragon Archive
-> ![Cult of the Dragon Archive](Compendium/bastions/cult-of-the-dragon-archive-frhof.md)
+> ![[cult-of-the-dragon-archive-frhof|Cult of the Dragon Archive]]
 
 ## Emerald Enclave
 
@@ -236,7 +236,7 @@ The Silver Tearin Anauroch is an underground oasis at the center of a massive gr
 
 Characters gain renown with the Emerald Enclave by defending nature against would-be despoilers and by completing tasks for enclave members. As their Renown Score increases, characters gain access to various perks, as shown on the Emerald Enclave Renown table. If your campaign doesn't use renown, your DM decides if and when characters earn these perks.
 
-![Emerald Enclave Renown](Compendium/tables/emerald-enclave-renown-frhof.md)
+![[emerald-enclave-renown-frhof|Emerald Enclave Renown]]
 
 ### Emerald Enclave Characters
 
@@ -252,14 +252,14 @@ The Emerald Enclave provides its members with enough food, water, and shelter fo
 
 ##### Trinket
 
-Roll on the [Emerald Enclave Trinkets](Compendium/items/emerald-enclave-trinket-frhof.md) table to determine what trinket you have from your time with the Emerald Enclave.
+Roll on the [[emerald-enclave-trinket-frhof|Emerald Enclave Trinkets]] table to determine what trinket you have from your time with the Emerald Enclave.
 
 ### Special Facility
 
 Members of the Emerald Enclave can add the following special facility to their Bastions.
 
 > [!embed-facility]- Emerald Enclave Grove
-> ![Emerald Enclave Grove](Compendium/bastions/emerald-enclave-grove-frhof.md)
+> ![[emerald-enclave-grove-frhof|Emerald Enclave Grove]]
 
 ## Harpers
 
@@ -328,9 +328,9 @@ Harpers are masters of disguise and improvisation. The best Harpers develop a re
 
 Harper personas share tropes or fall into recognizable archetypes. When allies recognize a persona, they realize it's a Harper and play along. When a persona becomes too well known, Harpers retire the character and develop a new one.
 
-A character with a [Disguise Kit](Compendium/items/disguise-kit-xphb.md) can assume a Harper persona by succeeding on a DC 10 Charisma check to apply makeup. When you learn a persona in this way, you can roll on the Harper Personas table to randomly determine what persona you learn.
+A character with a [[disguise-kit-xphb|Disguise Kit]] can assume a Harper persona by succeeding on a DC 10 Charisma check to apply makeup. When you learn a persona in this way, you can roll on the Harper Personas table to randomly determine what persona you learn.
 
-![Harper Personas](Compendium/tables/harper-personas-frhof.md)
+![[harper-personas-frhof|Harper Personas]]
 
 ### Renown Rewards
 
@@ -360,18 +360,18 @@ If you're a member of the Harpers, you receive these benefits.
 
 ##### Harper Kit
 
-When you first join the Harpers, you receive a Musical Instrument and a [Disguise Kit](Compendium/items/disguise-kit-xphb.md).
+When you first join the Harpers, you receive a Musical Instrument and a [[disguise-kit-xphb|Disguise Kit]].
 
 ##### Trinket
 
-Roll on the [Harper Trinkets](Compendium/items/harper-trinket-frhof.md) table to determine what trinket you have from your time with the Harpers.
+Roll on the [[harper-trinket-frhof|Harper Trinkets]] table to determine what trinket you have from your time with the Harpers.
 
 ### Special Facility
 
 Members of the Harpers can add the following special facility to their Bastions.
 
 > [!embed-facility]- Harper Hideout
-> ![Harper Hideout](Compendium/bastions/harper-hideout-frhof.md)
+> ![[harper-hideout-frhof|Harper Hideout]]
 
 ## Lordsʼ Alliance
 
@@ -451,14 +451,14 @@ Characters gain renown with the Lords' Alliance by thwarting evil's attempts to 
 
 | Renown Score | Reward |
 |--------------|--------|
-| 3+ | Nobles from Amphail, Daggerford, and Yartar are [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you by default. |
-| 5+ | While in an alliance settlement whose nobles are Friendly to you by default, you can buy potions and [Spell Scrolls](Compendium/items/spell-scroll-xdmg.md) from an alliance quartermaster at a 10 percent discount. A Spell Scroll bought with this discount can contain a spell of level 3 or lower. |
+| 3+ | Nobles from Amphail, Daggerford, and Yartar are [[friendly-attitude-xphb|Friendly]] to you by default. |
+| 5+ | While in an alliance settlement whose nobles are Friendly to you by default, you can buy potions and [[spell-scroll-xdmg|Spell Scrolls]] from an alliance quartermaster at a 10 percent discount. A Spell Scroll bought with this discount can contain a spell of level 3 or lower. |
 | 10 | The first time your Renown Score reaches 10, your lord gives you one random Uncommon magic item. |
 | 15+ | Nobles from Longsaddle, Mirabar, and Neverwinter are Friendly to you by default. |
-| 25+ | In any Lords' Alliance settlement, you can enlist a spellcaster to cast the [Sending](Compendium/spells/sending-xphb.md) spell for you at no charge, targeting an alliance representative. |
+| 25+ | In any Lords' Alliance settlement, you can enlist a spellcaster to cast the [[sending-xphb|Sending]] spell for you at no charge, targeting an alliance representative. |
 | 30+ | Nobles from Baldur's Gate, Mithral Hall, Silverymoon, and Waterdeep are Friendly to you by default. |
 | 40 | The first time your Renown Score reaches 40, your lord gives you one random Rare magic item. |
-| 50+ | You can request an audience with any representative of the Lords' Alliance. In addition, you can request a detail of up to three [Knights](Compendium/bestiary/humanoid/knight-xmm.md) to accompany you for one mission. Once you use this reward, you can't do so again until your Renown Score increases. |
+| 50+ | You can request an audience with any representative of the Lords' Alliance. In addition, you can request a detail of up to three [[knight-xmm|Knights]] to accompany you for one mission. Once you use this reward, you can't do so again until your Renown Score increases. |
 ^lords-alliance-renown
 
 ### Lords' Alliance Characters
@@ -475,11 +475,11 @@ You enjoy a "Wealthy" lifestyle while in the alliance settlement you represent a
 
 ##### Mount and Tack
 
-You receive a steed worth up to 75 GP, such as a [Riding Horse](Compendium/bestiary/beast/riding-horse-xmm.md), and a [Riding Saddle](Compendium/items/riding-saddle-xphb.md).
+You receive a steed worth up to 75 GP, such as a [[riding-horse-xmm|Riding Horse]], and a [[riding-saddle-xphb|Riding Saddle]].
 
 ##### Trinket
 
-Roll on the [Lords' Alliance Trinkets](Compendium/items/lords-alliance-trinket-frhof.md) table to determine what trinket you have from your time with the Lords' Alliance.
+Roll on the [[lords-alliance-trinket-frhof|Lords' Alliance Trinkets]] table to determine what trinket you have from your time with the Lords' Alliance.
 
 ### Heraldry of the Lords' Alliance
 
@@ -510,7 +510,7 @@ Finally, the coat of arms is distinguished by its tinctures, the materials and c
 Members of the Lords' Alliance can add the following special facility to their Bastions.
 
 > [!embed-facility]- Lords' Alliance Noble Residence
-> ![Lords' Alliance Noble Residence](Compendium/bastions/lords-alliance-noble-residence-frhof.md)
+> ![[lords-alliance-noble-residence-frhof|Lords' Alliance Noble Residence]]
 
 ## Order of the Gauntlet
 
@@ -560,9 +560,9 @@ Members of the order must respect and follow their superiors. Failure to do so i
 
 #### Trials and Justice
 
-The Order of the Gauntlet judges evildoers summarily and punish them promptly. To determine punishments, knights refer to the Code of Scales and Weights or, if in doubt, use a spell such as [Commune](Compendium/spells/commune-xphb.md) to ask a divinity (typically Tyr or Torm) for guidance. Only in the most morally gray situations will knights arrest an offender. Arrested suspects are taken to the nearest chapter to undergo a Court of Justice.
+The Order of the Gauntlet judges evildoers summarily and punish them promptly. To determine punishments, knights refer to the Code of Scales and Weights or, if in doubt, use a spell such as [[commune-xphb|Commune]] to ask a divinity (typically Tyr or Torm) for guidance. Only in the most morally gray situations will knights arrest an offender. Arrested suspects are taken to the nearest chapter to undergo a Court of Justice.
 
-A Court of Justice includes interrogations, cross-examinations, and follow-up investigations. Knights of justice use magic such as the [Zone of Truth](Compendium/spells/zone-of-truth-xphb.md) spell to determine the facts and identify wrongdoing. Suspects not convicted within a tenday are released.
+A Court of Justice includes interrogations, cross-examinations, and follow-up investigations. Knights of justice use magic such as the [[zone-of-truth-xphb|Zone of Truth]] spell to determine the facts and identify wrongdoing. Suspects not convicted within a tenday are released.
 
 Knights of justice monitor other knights and the order's larger activities, keeping an eye out for corruption and fanaticism.
 
@@ -578,7 +578,7 @@ The Order of the Gauntlet's governing body is a tribunal called the Righteous Ha
 
 Characters gain renown with the Order of the Gauntlet by fighting evil or completing quests for the order. As their Renown Score increases, characters gain access to various perks, as shown on the Order of the Gauntlet Renown table. If your campaign doesn't use renown, your DM decides if and when characters earn these perks.
 
-![Order of the Gauntlet Renown](Compendium/tables/order-of-the-gauntlet-renown-frhof.md)
+![[order-of-the-gauntlet-renown-frhof|Order of the Gauntlet Renown]]
 
 ### Order of the Gauntlet Characters
 
@@ -592,7 +592,7 @@ If you're a member of the Order of the Gauntlet, you receive these benefits.
 
 ##### Trinket
 
-Roll on the [Gauntlet Trinkets](Compendium/items/order-of-the-gauntlet-trinket-frhof.md) table to determine what trinket you have from your time with the Order of the Gauntlet.
+Roll on the [[order-of-the-gauntlet-trinket-frhof|Gauntlet Trinkets]] table to determine what trinket you have from your time with the Order of the Gauntlet.
 
 ##### Vestments
 
@@ -620,7 +620,7 @@ Examples include the following:
 Members of the Order of the Gauntlet can add the following special facility to their Bastions.
 
 > [!embed-facility]- Order of the Gauntlet Tournament Field
-> ![Order of the Gauntlet Tournament Field](Compendium/bastions/order-of-the-gauntlet-tournament-field-frhof.md)
+> ![[order-of-the-gauntlet-tournament-field-frhof|Order of the Gauntlet Tournament Field]]
 
 ## The Purple Dragon Knights
 
@@ -677,9 +677,9 @@ Characters gain renown with the Purple Dragon Knights by defeating Aberrations a
 | 3+ | The Purple Dragon Knights provide you a "Comfortable" lifestyle for free at Purplemont, the faction's fortress in Suzail. |
 | 5+ | You can hire Cormyrean hirelings for half the usual cost. |
 | 10 | The first time your Renown Score reaches 10, the Purple Dragon Knights give you an Uncommon magic item from the Armor or Weapon category. |
-| 15+ | You are given an honorary Cormyrean knighthood. The royal family of Cormyr is [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you by default. |
+| 15+ | You are given an honorary Cormyrean knighthood. The royal family of Cormyr is [[friendly-attitude-xphb|Friendly]] to you by default. |
 | 25+ | Amethyst dragons are Friendly to you by default. |
-| 30+ | You can command a troop of `1d6` [Knights](Compendium/bestiary/humanoid/knight-xmm.md) to help you on a mission or complete one task that doesn't go against the Purple Dragon Knights' core principles. Once you use this reward, you can't do so again until your Renown Score increases. |
+| 30+ | You can command a troop of `1d6` [[knight-xmm|Knights]] to help you on a mission or complete one task that doesn't go against the Purple Dragon Knights' core principles. Once you use this reward, you can't do so again until your Renown Score increases. |
 | 40+ | You are trusted by the Purple Dragon Knights' Great Knight, who confides in you and provides information. |
 | 50+ | You are asked to take care of an amethyst dragon egg until it hatches. Additionally, you can call on a High Knight to perform a major favor for you, such as granting a private audience with the royal family. Once you use this reward, you can't do so again until your Renown Score increases. |
 ^purple-dragon-knights-renown
@@ -694,11 +694,11 @@ If you're a member of the Purple Dragon Knights, you receive these benefits.
 
 ##### Equipment
 
-You receive a "Martial Melee" weapon, a [Lance](Compendium/items/lance-xphb.md), a suit of "Medium or Heavy armor", and an [Exotic Saddle](Compendium/items/exotic-saddle-xphb.md).
+You receive a "Martial Melee" weapon, a [[lance-xphb|Lance]], a suit of "Medium or Heavy armor", and an [[exotic-saddle-xphb|Exotic Saddle]].
 
 ##### Trinket
 
-Roll on the [Purple Dragon Knight Trinkets](Compendium/items/purple-dragon-knight-trinket-frhof.md) table to determine what trinket you have from your time with the Purple Dragon Knights.
+Roll on the [[purple-dragon-knight-trinket-frhof|Purple Dragon Knight Trinkets]] table to determine what trinket you have from your time with the Purple Dragon Knights.
 
 ### Dragon Quests
 
@@ -710,14 +710,14 @@ Some amethyst dragons offer their quests to non-squires, allowing unaffiliated a
 
 If your character aspires to join the Purple Dragon Knights and has received a quest from an amethyst dragon, you can roll on the Amethyst Dragon Quests table to determine the quest.
 
-![Amethyst Dragon Quests](Compendium/tables/amethyst-dragon-quests-frhof.md)
+![[amethyst-dragon-quests-frhof|Amethyst Dragon Quests]]
 
 ### Special Facility
 
 Members of the Purple Dragon Knights can add the following special facility to their Bastions.
 
 > [!embed-facility]- Amethyst Dragon Den
-> ![Amethyst Dragon Den](Compendium/bastions/amethyst-dragon-den-frhof.md)
+> ![[amethyst-dragon-den-frhof|Amethyst Dragon Den]]
 
 ## Red Wizards
 
@@ -776,7 +776,7 @@ For anyone who seeks an audience with the Red Wizards—or who aspires to become
 
 Characters gain renown with the Red Wizards by completing quests for the faction, acquiring powerful magic, and contributing to the reconstruction of Thay. As their Renown Score increases, characters gain access to various perks, as shown on the Red Wizards Renown table. If your campaign doesn't use renown, your DM decides if and when characters earn these perks.
 
-![Red Wizards Renown](Compendium/tables/red-wizards-renown-frhof.md)
+![[red-wizards-renown-frhof|Red Wizards Renown]]
 
 ### Red Wizard Characters
 
@@ -796,17 +796,17 @@ You receive a set of crimson robes. As long as you're a member of the Red Wizard
 
 ##### Trinket
 
-Roll on the [Red Wizard Trinkets](Compendium/items/red-wizard-trinket-frhof.md) table to determine what trinket you have from your time with the Red Wizards.
+Roll on the [[red-wizard-trinket-frhof|Red Wizard Trinkets]] table to determine what trinket you have from your time with the Red Wizards.
 
 ### Tattoo Magic
 
-Red Wizards often adorn their bodies with tattoos. Many of these tattoos are decorative or symbolic, signifying, for example, a Red Wizard's allegiance to a particular zulkir. Some, however, are magical tattoos, called [Thayan Spell Tattoos](Compendium/items/thayan-spell-tattoo-frhof.md), which allow the wearer to cast the spell contained in the tattoo's ink.
+Red Wizards often adorn their bodies with tattoos. Many of these tattoos are decorative or symbolic, signifying, for example, a Red Wizard's allegiance to a particular zulkir. Some, however, are magical tattoos, called [[thayan-spell-tattoo-frhof|Thayan Spell Tattoos]], which allow the wearer to cast the spell contained in the tattoo's ink.
 
 > [!note] Inking Thayan Spell Tattoos
 > 
-> The Thayan art of magical tattooing is highly guarded by its practitioners, and thus, [Thayan Spell Tattoos](Compendium/items/thayan-spell-tattoo-frhof.md) can't be crafted like other magic items. To learn how to ink *Thayan Spell Tattoos*, you must have a Renown Score of 50+ with the Red Wizards.
+> The Thayan art of magical tattooing is highly guarded by its practitioners, and thus, [[thayan-spell-tattoo-frhof|Thayan Spell Tattoos]] can't be crafted like other magic items. To learn how to ink *Thayan Spell Tattoos*, you must have a Renown Score of 50+ with the Red Wizards.
 > 
-> To ink a *Thayan Spell Tattoo*, you must have proficiency in the [Arcana](Compendium/rules/skills.md#Arcana) skill and with Calligrapher's Tools and have the spell prepared each day of the inking. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed when you complete the tattoo. Inking a *Thayan Spell Tattoo* takes the same amount of time and money as scribing a [Spell Scroll](Compendium/items/spell-scroll-xdmg.md) of an equivalent level.
+> To ink a *Thayan Spell Tattoo*, you must have proficiency in the [[skills#Arcana|Arcana]] skill and with Calligrapher's Tools and have the spell prepared each day of the inking. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed when you complete the tattoo. Inking a *Thayan Spell Tattoo* takes the same amount of time and money as scribing a [[spell-scroll-xdmg|Spell Scroll]] of an equivalent level.
 ^inking-thayan-spell-tattoos
 
 ### Special Facility
@@ -814,7 +814,7 @@ Red Wizards often adorn their bodies with tattoos. Many of these tattoos are dec
 Members of the Red Wizards can add the following special facility to their Bastions.
 
 > [!embed-facility]- Red Wizard Necropolis
-> ![Red Wizard Necropolis](Compendium/bastions/red-wizard-necropolis-frhof.md)
+> ![[red-wizard-necropolis-frhof|Red Wizard Necropolis]]
 
 ## Zhentarim
 
@@ -873,7 +873,7 @@ Many Zhentarim outposts are secret—unassuming locales such as abandoned wareho
 
 Characters gain renown with the Zhentarim by completing Zhentarim jobs and expanding the organization's reach. As their Renown Score increases, characters gain access to various perks, as shown on the Zhentarim Renown table. If your campaign doesn't use Renown, your DM decides if and when characters earn these perks.
 
-![Zhentarim Renown](Compendium/tables/zhentarim-renown-frhof.md)
+![[zhentarim-renown-frhof|Zhentarim Renown]]
 
 ### Zhentarim Characters
 
@@ -895,7 +895,7 @@ You can always find mercenary work while in a settlement.
 
 ##### Trinket
 
-Roll on the [Zhentarim Trinkets](Compendium/items/zhentarim-trinket-frhof.md) table to determine what trinket you have from your time with the Zhentarim.
+Roll on the [[zhentarim-trinket-frhof|Zhentarim Trinkets]] table to determine what trinket you have from your time with the Zhentarim.
 
 ### Zhentarim Insignias
 
@@ -912,7 +912,7 @@ Work with your DM to determine what, if any, insignia your Zhentarim character h
 Members of the Zhentarim can add the following special facility to their Bastions.
 
 > [!embed-facility]- Zhentarim Travel Station
-> ![Zhentarim Travel Station](Compendium/bastions/zhentarim-travel-station-frhof.md)
+> ![[zhentarim-travel-station-frhof|Zhentarim Travel Station]]
 
 ## Criminal Syndicates
 
@@ -1064,7 +1064,7 @@ In the event of a catastrophic mishap, the Order of Delvers can be hired to send
 
 ##### Special Equipment
 
-The Order of Delvers commissions a variety of magic items available for delvers to purchase, including [Elven Chain](Compendium/items/elven-chain-xdmg.md), [Heward's Handy Haversacks](Compendium/items/hewards-handy-haversack-xdmg.md), and [Orbs of Direction](Compendium/items/orb-of-direction-xdmg.md).
+The Order of Delvers commissions a variety of magic items available for delvers to purchase, including [[elven-chain-xdmg|Elven Chain]], [[hewards-handy-haversack-xdmg|Heward's Handy Haversacks]], and [[orb-of-direction-xdmg|Orbs of Direction]].
 
 ### Spellguard
 

@@ -23,7 +23,7 @@ Erebos is the god of death and the Underworld, lord of all that has ever lived. 
 
 Erebos's very presence is stifling, and those who come face to face with him often depart in despair. He is jealous and tyrannical within his realm, but unlike his brother Heliod, he neither blusters nor tries to expand his influence. He waits patiently, secure in the knowledge that everything belongs to him in the end.
 
-Erebos most frequently appears as a slender, gray-skinned humanoid with two large, outward-curving horns, wielding an [impossibly long black whip](Compendium/items/mastix-whip-of-erebos-mot.md). He also appears in the form of a black asp, a cloud of choking smoke, or an animated golden idol.
+Erebos most frequently appears as a slender, gray-skinned humanoid with two large, outward-curving horns, wielding an [[mastix-whip-of-erebos-mot|impossibly long black whip]]. He also appears in the form of a black asp, a cloud of choking smoke, or an animated golden idol.
 
 ## Erebos's Influence
 
@@ -140,7 +140,7 @@ Your piety score to Erebos decreases if you diminish Erebos's influence in the w
 
 ### Benefits of Piety
 
-- [Erebos's Devotee](Compendium/rewards/ereboss-devotee-mot.md)  
-- [Erebos's Votary](Compendium/rewards/ereboss-votary-mot.md)  
-- [Erebos's Disciple](Compendium/rewards/ereboss-disciple-mot.md)  
-- [Champion of the Dead](Compendium/rewards/champion-of-the-dead-mot.md)
+- [[ereboss-devotee-mot|Erebos's Devotee]]  
+- [[ereboss-votary-mot|Erebos's Votary]]  
+- [[ereboss-disciple-mot|Erebos's Disciple]]  
+- [[champion-of-the-dead-mot|Champion of the Dead]]

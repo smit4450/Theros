@@ -30,6 +30,6 @@ A Large spectral guardian appears and hovers for the duration in an unoccupied s
 
 Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a Dexterity saving throw, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

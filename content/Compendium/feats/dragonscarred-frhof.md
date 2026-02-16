@@ -18,6 +18,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Constitution or Charisma by 1, to a maximum of 20.
 
-**Damage Resistance.** When you gain this feat, choose Acid, Cold, Fire, Lightning, or Poison. You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to the chosen damage type.
+**Damage Resistance.** When you gain this feat, choose Acid, Cold, Fire, Lightning, or Poison. You have [[resistance-xphb|Resistance]] to the chosen damage type.
 
-**Fearsome Power.** When you deal damage to a creature as part of the Attack or Magic action on your turn, you can use the Dragon's Terror benefit of the Cult of the Dragon Initiate feat as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) this turn.
+**Fearsome Power.** When you deal damage to a creature as part of the Attack or Magic action on your turn, you can use the Dragon's Terror benefit of the Cult of the Dragon Initiate feat as a [[bonus-action-xphb|Bonus Action]] this turn.

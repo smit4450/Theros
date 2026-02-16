@@ -12,4 +12,4 @@ aliases:
 # Goading Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to goad the target into attacking you. Add the Superiority Die to the attack's damage roll. The target must succeed on a Wisdom saving throw or have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against targets other than you until the end of your next turn.
+When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to goad the target into attacking you. Add the Superiority Die to the attack's damage roll. The target must succeed on a Wisdom saving throw or have [[disadvantage-xphb|Disadvantage]] on attack rolls against targets other than you until the end of your next turn.

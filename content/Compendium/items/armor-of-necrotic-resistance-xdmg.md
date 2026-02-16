@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to necrotic damage while you wear this armor.
+You have [[resistance-xphb|Resistance]] to necrotic damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Necrotic Resistance](#Breastplate%20of%20Necrotic%20Resistance)

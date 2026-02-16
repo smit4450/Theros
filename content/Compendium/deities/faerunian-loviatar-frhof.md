@@ -22,7 +22,7 @@ aliases:
 
 Loviatar is a god of agony, the mistress of physical and psychological suffering. Coldhearted and calculatingly cruel, Loviatar is an aggressive and domineering despot, and she deeply enjoys her divine remit. Pain isn't a means to an end for Loviatar, but an end unto itself. That quality endears her to the tyrant god Bane.
 
-Loviatar takes the form of a slender woman, like a whip in her movement and aspect. She speaks to her followers during extended sessions of enduring or inflicting pain, intruding on their perceptions in the delirium of agony or ecstasy. When she dispatches an emissary, she usually sends a [Chain Devil](Compendium/bestiary/fiend/chain-devil-xmm.md), an [Incubus](Compendium/bestiary/fiend/incubus-xmm.md), or a [Succubus](Compendium/bestiary/fiend/succubus-xmm.md).
+Loviatar takes the form of a slender woman, like a whip in her movement and aspect. She speaks to her followers during extended sessions of enduring or inflicting pain, intruding on their perceptions in the delirium of agony or ecstasy. When she dispatches an emissary, she usually sends a [[chain-devil-xmm|Chain Devil]], an [[incubus-xmm|Incubus]], or a [[succubus-xmm|Succubus]].
 
 To the followers of Loviatar, nothing is as transcendent as suffering. All pain is holy, from the crudest brutality to the emotional suffering of the heartbroken or the betrayed, and is proof of Loviatar's attention. Pain—the ability both to inflict it and to endure it—is a path to power. Loviatar's followers consider a cold, cruel demeanor ideal because that best emulates Loviatar herself, and for the same reason her faithful appreciate beauty, cultural refinement, and skill at manipulation.
 

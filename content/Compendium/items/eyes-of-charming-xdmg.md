@@ -14,6 +14,6 @@ aliases:
 ![](Compendium/items/img/eyes-of-charming.webp#right)
 
 
-These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 or more charges to cast [Charm Person](Compendium/spells/charm-person-xphb.md) (save DC 13). For 1 charge, you cast the level 1 version of the spell. You increase the spell's level by one for each additional charge you expend. The lenses regain all expended charges daily at dawn.
+These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 or more charges to cast [[charm-person-xphb|Charm Person]] (save DC 13). For 1 charge, you cast the level 1 version of the spell. You increase the spell's level by one for each additional charge you expend. The lenses regain all expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

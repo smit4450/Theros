@@ -57,11 +57,11 @@ Wielders of spellfire tend to have a penchant for wandering. Many travel between
 
 ### Spellfire Burst (Level 3)
 
-When you spend at least 1 Sorcery Point as part of the [Magic](Compendium/rules/actions.md#Magic) action or a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.
+When you spend at least 1 Sorcery Point as part of the [[actions#Magic|Magic]] action or a [[bonus-action-xphb|Bonus Action]] on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.
 
 ### Bolstering Flames (Level 3)
 
-You or one creature you can see within 30 feet of yourself gains [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to `1d4` plus your Charisma modifier.
+You or one creature you can see within 30 feet of yourself gains [[temporary-hit-points-xphb|Temporary Hit Points]] equal to `1d4` plus your Charisma modifier.
 
 ### Radiant Fire (Level 3)
 
@@ -73,37 +73,37 @@ When you reach a Sorcerer level specified in the Spellfire Spells table, you the
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3 | [Cure Wounds](Compendium/spells/cure-wounds-xphb.md), [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md), [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md), [Scorching Ray](Compendium/spells/scorching-ray-xphb.md) |
-| 5 | [Aura of Vitality](Compendium/spells/aura-of-vitality-xphb.md), [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) |
-| 7 | [Fire Shield](Compendium/spells/fire-shield-xphb.md), [Wall of Fire](Compendium/spells/wall-of-fire-xphb.md) |
-| 9 | [Greater Restoration](Compendium/spells/greater-restoration-xphb.md), [Flame Strike](Compendium/spells/flame-strike-xphb.md) |
+| 3 | [[cure-wounds-xphb|Cure Wounds]], [[guiding-bolt-xphb|Guiding Bolt]], [[lesser-restoration-xphb|Lesser Restoration]], [[scorching-ray-xphb|Scorching Ray]] |
+| 5 | [[aura-of-vitality-xphb|Aura of Vitality]], [[dispel-magic-xphb|Dispel Magic]] |
+| 7 | [[fire-shield-xphb|Fire Shield]], [[wall-of-fire-xphb|Wall of Fire]] |
+| 9 | [[greater-restoration-xphb|Greater Restoration]], [[flame-strike-xphb|Flame Strike]] |
 ^sorcerer-level-spells
 
 ### Absorb Spells (Level 6)
 
-You always have [Counterspell](Compendium/spells/counterspell-xphb.md) prepared.
+You always have [[counterspell-xphb|Counterspell]] prepared.
 
-Additionally, whenever a target fails the saving throw against a [Counterspell](Compendium/spells/counterspell-xphb.md) you cast, you regain `1d4` Sorcery Points.
+Additionally, whenever a target fails the saving throw against a [[counterspell-xphb|Counterspell]] you cast, you regain `1d4` Sorcery Points.
 
 ### Honed Spellfire (Level 14)
 
-Your [Spellfire Burst](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md#Spellfire%20Burst%20(Level%203)) improves. You add your [Sorcerer](Compendium/classes/sorcerer-xphb.md) level to the [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) gained from [Bolstering Flames](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md#Bolstering%20Flames%20(Level%203)), and the damage of [Radiant Fire](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md#Radiant%20Fire%20(Level%203)) increases to `1d8`.
+Your [[sorcerer-xphb-spellfire-sorcery-frhof#Spellfire%20Burst%20(Level%203|Spellfire Burst]]) improves. You add your [[sorcerer-xphb|Sorcerer]] level to the [[temporary-hit-points-xphb|Temporary Hit Points]] gained from [[sorcerer-xphb-spellfire-sorcery-frhof#Bolstering%20Flames%20(Level%203|Bolstering Flames]]), and the damage of [[sorcerer-xphb-spellfire-sorcery-frhof#Radiant%20Fire%20(Level%203|Radiant Fire]]) increases to `1d8`.
 
 ### Crown of Spellfire (Level 18)
 
-When you use [Innate Sorcery](Compendium/classes/sorcerer-xphb.md#Innate%20Sorcery%20(Level%201)), you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active. Once you use this feature to alter Innate Sorcery, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+When you use [[sorcerer-xphb#Innate%20Sorcery%20(Level%201|Innate Sorcery]]), you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active. Once you use this feature to alter Innate Sorcery, you can't use it again until you finish a [[long-rest-xphb|Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 #### Burning Life Force
 _Source: FRHoF_
 
-Once per turn when you are hit by an attack roll, you can expend a number of [Hit Point Dice](Compendium/rules/variant-rules/hit-point-dice-xphb.md), up to a maximum equal to your Charisma modifier (minimum of one). Roll the expended dice, and reduce the amount of damage from that attack equal to the total rolled.
+Once per turn when you are hit by an attack roll, you can expend a number of [[hit-point-dice-xphb|Hit Point Dice]], up to a maximum equal to your Charisma modifier (minimum of one). Roll the expended dice, and reduce the amount of damage from that attack equal to the total rolled.
 
 #### Flight
 _Source: FRHoF_
 
-You gain a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) of 60 feet and can hover.
+You gain a [[fly-speed-xphb|Fly Speed]] of 60 feet and can hover.
 
 #### Spell Avoidance
 _Source: FRHoF_
 
-When you're subjected to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this benefit if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+When you're subjected to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this benefit if you have the [[conditions#Incapacitated|Incapacitated]] condition.

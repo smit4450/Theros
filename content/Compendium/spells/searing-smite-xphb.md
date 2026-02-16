@@ -24,6 +24,6 @@ As you hit the target, it takes an extra `1d6` Fire damage from the attack. At t
 
 **Using a Higher-Level Spell Slot.** All the damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Paladin](Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

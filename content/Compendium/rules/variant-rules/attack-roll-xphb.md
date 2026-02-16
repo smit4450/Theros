@@ -11,4 +11,4 @@ aliases:
 # Attack Roll
 *Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-An attack roll is a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) that represents making an attack with a weapon, an [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md), or a spell.
+An attack roll is a [[d20-test-xphb|D20 Test]] that represents making an attack with a weapon, an [[unarmed-strike-xphb|Unarmed Strike]], or a spell.

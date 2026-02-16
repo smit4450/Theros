@@ -15,33 +15,33 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to one type of damage for 1 hour. The DM chooses the type or determines it randomly by rolling on the following table.
+When you drink this potion, you have [[resistance-xphb|Resistance]] to one type of damage for 1 hour. The DM chooses the type or determines it randomly by rolling on the following table.
 
 | dice: d10 | Damage Type |
 |-----------|-------------|
-| 1 | [Acid](Compendium/items/potion-of-acid-resistance-xdmg.md) |
-| 2 | [Cold](Compendium/items/potion-of-cold-resistance-xdmg.md) |
-| 3 | [Fire](Compendium/items/potion-of-fire-resistance-xdmg.md) |
-| 4 | [Force](Compendium/items/potion-of-force-resistance-xdmg.md) |
-| 5 | [Lightning](Compendium/items/potion-of-lightning-resistance-xdmg.md) |
-| 6 | [Necrotic](Compendium/items/potion-of-necrotic-resistance-xdmg.md) |
-| 7 | [Poison](Compendium/items/potion-of-poison-resistance-xdmg.md) |
-| 8 | [Psychic](Compendium/items/potion-of-psychic-resistance-xdmg.md) |
-| 9 | [Radiant](Compendium/items/potion-of-radiant-resistance-xdmg.md) |
-| 10 | [Thunder](Compendium/items/potion-of-thunder-resistance-xdmg.md) |
+| 1 | [[potion-of-acid-resistance-xdmg|Acid]] |
+| 2 | [[potion-of-cold-resistance-xdmg|Cold]] |
+| 3 | [[potion-of-fire-resistance-xdmg|Fire]] |
+| 4 | [[potion-of-force-resistance-xdmg|Force]] |
+| 5 | [[potion-of-lightning-resistance-xdmg|Lightning]] |
+| 6 | [[potion-of-necrotic-resistance-xdmg|Necrotic]] |
+| 7 | [[potion-of-poison-resistance-xdmg|Poison]] |
+| 8 | [[potion-of-psychic-resistance-xdmg|Psychic]] |
+| 9 | [[potion-of-radiant-resistance-xdmg|Radiant]] |
+| 10 | [[potion-of-thunder-resistance-xdmg|Thunder]] |
 ^damage-type
 
 **Items in this group:**
 
-- [Potion of Acid Resistance](Compendium/items/potion-of-acid-resistance-xdmg.md)
-- [Potion of Cold Resistance](Compendium/items/potion-of-cold-resistance-xdmg.md)
-- [Potion of Fire Resistance](Compendium/items/potion-of-fire-resistance-xdmg.md)
-- [Potion of Force Resistance](Compendium/items/potion-of-force-resistance-xdmg.md)
-- [Potion of Lightning Resistance](Compendium/items/potion-of-lightning-resistance-xdmg.md)
-- [Potion of Necrotic Resistance](Compendium/items/potion-of-necrotic-resistance-xdmg.md)
-- [Potion of Poison Resistance](Compendium/items/potion-of-poison-resistance-xdmg.md)
-- [Potion of Psychic Resistance](Compendium/items/potion-of-psychic-resistance-xdmg.md)
-- [Potion of Radiant Resistance](Compendium/items/potion-of-radiant-resistance-xdmg.md)
-- [Potion of Thunder Resistance](Compendium/items/potion-of-thunder-resistance-xdmg.md)
+- [[potion-of-acid-resistance-xdmg|Potion of Acid Resistance]]
+- [[potion-of-cold-resistance-xdmg|Potion of Cold Resistance]]
+- [[potion-of-fire-resistance-xdmg|Potion of Fire Resistance]]
+- [[potion-of-force-resistance-xdmg|Potion of Force Resistance]]
+- [[potion-of-lightning-resistance-xdmg|Potion of Lightning Resistance]]
+- [[potion-of-necrotic-resistance-xdmg|Potion of Necrotic Resistance]]
+- [[potion-of-poison-resistance-xdmg|Potion of Poison Resistance]]
+- [[potion-of-psychic-resistance-xdmg|Potion of Psychic Resistance]]
+- [[potion-of-radiant-resistance-xdmg|Potion of Radiant Resistance]]
+- [[potion-of-thunder-resistance-xdmg|Potion of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

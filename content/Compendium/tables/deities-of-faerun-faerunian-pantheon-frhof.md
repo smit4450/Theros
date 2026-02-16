@@ -15,46 +15,46 @@ aliases:
 
 | Deity | Home Plane | Typical Worshipers |
 |-------|------------|--------------------|
-| [Amaunator](Compendium/deities/faerunian-amaunator-frhof.md), god of the sun | Mechanus | Farmers, lawmakers, travelers |
-| [Asmodeus](Compendium/deities/faerunian-asmodeus-frhof.md), god of indulgence | The Nine Hells (Nessus) | Corrupt politicians, desperate folk |
-| [Auril](Compendium/deities/faerunian-auril-frhof.md), god of winter | Pandemonium (Pandesmos) | Druids, inhabitants of cold climates |
-| [Azuth](Compendium/deities/faerunian-azuth-frhof.md), god of wizardry | Arcadia (Buxenus) | Arcane spellcasters |
-| [Bane](Compendium/deities/faerunian-bane-frhof.md), god of tyranny | Acheron (Avalas) | Conquerors, Fighters, Monks, tyrants |
-| [Beshaba](Compendium/deities/faerunian-beshaba-frhof.md), god of misfortune | The Abyss | Gamblers, Red Wizards, Rogues |
-| [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), god of murder | Gehenna (Khalas) | Assassins, murderers |
-| [Chauntea](Compendium/deities/faerunian-chauntea-frhof.md), god of agriculture | Elysium (Eronia) | Farmers, gardeners, homesteaders |
-| [Cyric](Compendium/deities/faerunian-cyric-frhof.md), god of lies | Pandemonium (Cocytus) | Liars, manipulators, power-hungry folk |
-| [Deneir](Compendium/deities/faerunian-deneir-frhof.md), god of writing | Elysium (Amoria) | Sages, scribes, students, teachers |
-| [Eilistraee](Compendium/deities/faerunian-eilistraee-frhof.md), god of song and moonlight | Arborea (Arvandor) | Bladesingers, elves, performing artists |
-| [Eldath](Compendium/deities/faerunian-eldath-frhof.md), god of peace | Elysium (Eronia) | Druids, pacifists, the dying |
-| [Gond](Compendium/deities/faerunian-gond-frhof.md), god of craft | The Outlands | Artificers, crafters, engineers, inventors |
-| [Helm](Compendium/deities/faerunian-helm-frhof.md), god of watchfulness | Mechanus | Explorers, Fighters, guards, Paladins |
-| [Ilmater](Compendium/deities/faerunian-ilmater-frhof.md), god of endurance | Bytopia (Shurrock) | Monks, the oppressed, the poor |
-| [Kelemvor](Compendium/deities/faerunian-kelemvor-frhof.md), god of the dead | Astral Plane (Fugue Plane) | Funeral workers, the dying |
-| [Lathander](Compendium/deities/faerunian-lathander-frhof.md), god of dawn and renewal | Elysium (Eronia) | Aristocrats, athletes, merchants, youths |
-| [Leira](Compendium/deities/faerunian-leira-frhof.md), god of illusion | Limbo | Actors, con artists, Illusionists, Rogues |
-| [Lliira](Compendium/deities/faerunian-lliira-frhof.md), god of joy | Arboria (Arvandor) | Bards, dancers, poets, revelers, singers |
-| [Lolth](Compendium/deities/faerunian-lolth-frhof.md), god of spiders | The Abyss (Demonweb Pits) | Evil drow, folk who travel the Underdark |
-| [Loviatar](Compendium/deities/faerunian-loviatar-frhof.md), god of pain | Gehenna (Mungoth) | Those suffering from pain or betrayal |
-| [Malar](Compendium/deities/faerunian-malar-frhof.md), god of the hunt | Carceri (Colothys) | Barbarians, hunters, lycanthropes |
-| [Mask](Compendium/deities/faerunian-mask-frhof.md), god of thieves | Hades (Niflheim) | Assassins, Rogues, thieves, tricksters |
-| [Mielikki](Compendium/deities/faerunian-mielikki-frhof.md), god of forests | The Beastlands (Krigala) | Fey, foresters, Rangers |
-| [Milil](Compendium/deities/faerunian-milil-frhof.md), god of poetry and song | Elysium (Amoria) | Bards, orators, poets, singers |
-| [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md), god of death | Hades (Oinos) | Necromancers, undead |
-| [Mystra](Compendium/deities/faerunian-mystra-frhof.md), god of magic | Elysium (Eronia) | Anyone who uses magic |
-| [Oghma](Compendium/deities/faerunian-oghma-frhof.md), god of knowledge | The Outlands | Archivists, cartographers, sages |
-| [The Red Knight](Compendium/deities/faerunian-the-red-knight-frhof.md), god of strategy | Arcadia (Buxenus) | Fighters, game players, strategists |
-| [Selûne](Compendium/deities/faerunian-selune-frhof.md), god of the moon | Ysgard (Ysgard) | Lycanthropes, sailors, spellcasters |
-| [Shar](Compendium/deities/faerunian-shar-frhof.md), god of darkness and loss | Hades (Niflheim) | Anyone suffering pain or loss |
-| [Shaundakul](Compendium/deities/faerunian-shaundakul-frhof.md), god of travel | Ysgard (Ysgard) | Guides, explorers, Rangers, travelers |
-| [Silvanus](Compendium/deities/faerunian-silvanus-frhof.md), god of wild nature | The Outlands | Barbarians, Druids, Rangers, wood elves |
-| [Sune](Compendium/deities/faerunian-sune-frhof.md), god of love and beauty | Arborea (Arvandor) | Artists, hedonists, lovers |
-| [Talona](Compendium/deities/faerunian-talona-frhof.md), god of poison and disease | Carceri (Cathrys) | Those suffering from plague |
-| [Talos](Compendium/deities/faerunian-talos-frhof.md), god of storms | Pandemonium (Pandesmos) | Barbarians, Druids, raiders |
-| [Tempus](Compendium/deities/faerunian-tempus-frhof.md), god of war | Limbo | Fighters, mercenaries, warriors |
-| [Torm](Compendium/deities/faerunian-torm-frhof.md), god of courage and self-sacrifice | Mount Celestia (Mercuria) | Guardians, knights, Paladins |
-| [Tymora](Compendium/deities/faerunian-tymora-frhof.md), god of good fortune | Arboria (Arvandor) | Gamblers, Harpers, merchants, Rogues |
-| [Tyr](Compendium/deities/faerunian-tyr-frhof.md), god of justice | Mount Celestia (Lunia) | Judges, law enforcers, lawyers, Paladins |
-| [Umberlee](Compendium/deities/faerunian-umberlee-frhof.md), god of the sea | The Abyss | Coastal dwellers, sailors |
-| [Waukeen](Compendium/deities/faerunian-waukeen-frhof.md), god of trade | The Outlands | Merchants, the rich, traders |
+| [[faerunian-amaunator-frhof|Amaunator]], god of the sun | Mechanus | Farmers, lawmakers, travelers |
+| [[faerunian-asmodeus-frhof|Asmodeus]], god of indulgence | The Nine Hells (Nessus) | Corrupt politicians, desperate folk |
+| [[faerunian-auril-frhof|Auril]], god of winter | Pandemonium (Pandesmos) | Druids, inhabitants of cold climates |
+| [[faerunian-azuth-frhof|Azuth]], god of wizardry | Arcadia (Buxenus) | Arcane spellcasters |
+| [[faerunian-bane-frhof|Bane]], god of tyranny | Acheron (Avalas) | Conquerors, Fighters, Monks, tyrants |
+| [[faerunian-beshaba-frhof|Beshaba]], god of misfortune | The Abyss | Gamblers, Red Wizards, Rogues |
+| [[faerunian-bhaal-frhof|Bhaal]], god of murder | Gehenna (Khalas) | Assassins, murderers |
+| [[faerunian-chauntea-frhof|Chauntea]], god of agriculture | Elysium (Eronia) | Farmers, gardeners, homesteaders |
+| [[faerunian-cyric-frhof|Cyric]], god of lies | Pandemonium (Cocytus) | Liars, manipulators, power-hungry folk |
+| [[faerunian-deneir-frhof|Deneir]], god of writing | Elysium (Amoria) | Sages, scribes, students, teachers |
+| [[faerunian-eilistraee-frhof|Eilistraee]], god of song and moonlight | Arborea (Arvandor) | Bladesingers, elves, performing artists |
+| [[faerunian-eldath-frhof|Eldath]], god of peace | Elysium (Eronia) | Druids, pacifists, the dying |
+| [[faerunian-gond-frhof|Gond]], god of craft | The Outlands | Artificers, crafters, engineers, inventors |
+| [[faerunian-helm-frhof|Helm]], god of watchfulness | Mechanus | Explorers, Fighters, guards, Paladins |
+| [[faerunian-ilmater-frhof|Ilmater]], god of endurance | Bytopia (Shurrock) | Monks, the oppressed, the poor |
+| [[faerunian-kelemvor-frhof|Kelemvor]], god of the dead | Astral Plane (Fugue Plane) | Funeral workers, the dying |
+| [[faerunian-lathander-frhof|Lathander]], god of dawn and renewal | Elysium (Eronia) | Aristocrats, athletes, merchants, youths |
+| [[faerunian-leira-frhof|Leira]], god of illusion | Limbo | Actors, con artists, Illusionists, Rogues |
+| [[faerunian-lliira-frhof|Lliira]], god of joy | Arboria (Arvandor) | Bards, dancers, poets, revelers, singers |
+| [[faerunian-lolth-frhof|Lolth]], god of spiders | The Abyss (Demonweb Pits) | Evil drow, folk who travel the Underdark |
+| [[faerunian-loviatar-frhof|Loviatar]], god of pain | Gehenna (Mungoth) | Those suffering from pain or betrayal |
+| [[faerunian-malar-frhof|Malar]], god of the hunt | Carceri (Colothys) | Barbarians, hunters, lycanthropes |
+| [[faerunian-mask-frhof|Mask]], god of thieves | Hades (Niflheim) | Assassins, Rogues, thieves, tricksters |
+| [[faerunian-mielikki-frhof|Mielikki]], god of forests | The Beastlands (Krigala) | Fey, foresters, Rangers |
+| [[faerunian-milil-frhof|Milil]], god of poetry and song | Elysium (Amoria) | Bards, orators, poets, singers |
+| [[faerunian-myrkul-frhof|Myrkul]], god of death | Hades (Oinos) | Necromancers, undead |
+| [[faerunian-mystra-frhof|Mystra]], god of magic | Elysium (Eronia) | Anyone who uses magic |
+| [[faerunian-oghma-frhof|Oghma]], god of knowledge | The Outlands | Archivists, cartographers, sages |
+| [[faerunian-the-red-knight-frhof|The Red Knight]], god of strategy | Arcadia (Buxenus) | Fighters, game players, strategists |
+| [[faerunian-selune-frhof|Selûne]], god of the moon | Ysgard (Ysgard) | Lycanthropes, sailors, spellcasters |
+| [[faerunian-shar-frhof|Shar]], god of darkness and loss | Hades (Niflheim) | Anyone suffering pain or loss |
+| [[faerunian-shaundakul-frhof|Shaundakul]], god of travel | Ysgard (Ysgard) | Guides, explorers, Rangers, travelers |
+| [[faerunian-silvanus-frhof|Silvanus]], god of wild nature | The Outlands | Barbarians, Druids, Rangers, wood elves |
+| [[faerunian-sune-frhof|Sune]], god of love and beauty | Arborea (Arvandor) | Artists, hedonists, lovers |
+| [[faerunian-talona-frhof|Talona]], god of poison and disease | Carceri (Cathrys) | Those suffering from plague |
+| [[faerunian-talos-frhof|Talos]], god of storms | Pandemonium (Pandesmos) | Barbarians, Druids, raiders |
+| [[faerunian-tempus-frhof|Tempus]], god of war | Limbo | Fighters, mercenaries, warriors |
+| [[faerunian-torm-frhof|Torm]], god of courage and self-sacrifice | Mount Celestia (Mercuria) | Guardians, knights, Paladins |
+| [[faerunian-tymora-frhof|Tymora]], god of good fortune | Arboria (Arvandor) | Gamblers, Harpers, merchants, Rogues |
+| [[faerunian-tyr-frhof|Tyr]], god of justice | Mount Celestia (Lunia) | Judges, law enforcers, lawyers, Paladins |
+| [[faerunian-umberlee-frhof|Umberlee]], god of the sea | The Abyss | Coastal dwellers, sailors |
+| [[faerunian-waukeen-frhof|Waukeen]], god of trade | The Outlands | Merchants, the rich, traders |
 ^faerunian-pantheon

@@ -36,8 +36,8 @@ You can give the same appearance or different ones to the targets. The spell can
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat.
 
-A creature that takes the [Study](Compendium/rules/actions.md#Study) action to examine a target can make an Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
+A creature that takes the [[actions#Study|Study]] action to examine a target can make an Intelligence ([[skills#Investigation|Investigation]]) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Ranger (Gloom Stalker)](Compendium/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [Ranger (Gloom Stalker)](Compendium/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

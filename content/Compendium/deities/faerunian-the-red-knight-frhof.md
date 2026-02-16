@@ -22,7 +22,7 @@ aliases:
 
 Where other war gods focus on the bravery, duty, or pain of battle, the Red Knight is concerned solely with the art of tactics. She is a god of planning and strategy. Her military genius allows her and her followers to see the greater picture in any war, rather than a series of battles won and lost.
 
-In spite of her calm and logical demeanor, the Lady of Strategy isn't without compassion. Faerûn's myths and legends depict her as a wise, daughter-like figure to the god Tempus, advising him in times of need. She aids mortal tacticians by fashioning boulders into red-veined [Stone Golems](Compendium/bestiary/construct/stone-golem-xmm.md) shaped like lanceboard pieces, sending crimson **Pegasi** from the heavens above, or animating lanceboard pieces to demonstrate tactical maneuvers.
+In spite of her calm and logical demeanor, the Lady of Strategy isn't without compassion. Faerûn's myths and legends depict her as a wise, daughter-like figure to the god Tempus, advising him in times of need. She aids mortal tacticians by fashioning boulders into red-veined [[stone-golem-xmm|Stone Golems]] shaped like lanceboard pieces, sending crimson **Pegasi** from the heavens above, or animating lanceboard pieces to demonstrate tactical maneuvers.
 
 Devotees of the Red Knight are rare in the general population. Her name is seldom invoked outside of battle, except perhaps in games of strategy such as lanceboard. High-ranking commanders of armies, instructors in colleges of war, quartermasters, and authors of tomes of tactics revere her.
 

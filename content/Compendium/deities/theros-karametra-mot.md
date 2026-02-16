@@ -140,7 +140,7 @@ Your piety score to Karametra decreases if you diminish her influence in the wor
 
 ### Benefits of Piety
 
-- [Karametra's Devotee](Compendium/rewards/karametras-devotee-mot.md)  
-- [Karametra's Votary](Compendium/rewards/karametras-votary-mot.md)  
-- [Karametra's Disciple](Compendium/rewards/karametras-disciple-mot.md)  
-- [Champion of Harvests](Compendium/rewards/champion-of-harvests-mot.md)
+- [[karametras-devotee-mot|Karametra's Devotee]]  
+- [[karametras-votary-mot|Karametra's Votary]]  
+- [[karametras-disciple-mot|Karametra's Disciple]]  
+- [[champion-of-harvests-mot|Champion of Harvests]]

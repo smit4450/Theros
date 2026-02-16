@@ -15,10 +15,10 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–17 | [Enspelled Weapon](Compendium/items/enspelled-weapon-xdmg.md) (level 6, 7, or 8 spell) |
-| 18–34 | [Instrument of the Bards](Compendium/items/instrument-of-the-bards-xdmg.md) ([Ollamh harp](Compendium/items/instrument-of-the-bards-ollamh-harp-xdmg.md)) |
-| 35–54 | [Sovereign Glue](Compendium/items/sovereign-glue-xdmg.md) |
-| 55–70 | [Sphere of Annihilation](Compendium/items/sphere-of-annihilation-xdmg.md) |
-| 71–83 | [Talisman of the Sphere](Compendium/items/talisman-of-the-sphere-xdmg.md) |
-| 84–00 | [Universal Solvent](Compendium/items/universal-solvent-xdmg.md) |
+| 01–17 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (level 6, 7, or 8 spell) |
+| 18–34 | [[instrument-of-the-bards-xdmg|Instrument of the Bards]] ([[instrument-of-the-bards-ollamh-harp-xdmg|Ollamh harp]]) |
+| 35–54 | [[sovereign-glue-xdmg|Sovereign Glue]] |
+| 55–70 | [[sphere-of-annihilation-xdmg|Sphere of Annihilation]] |
+| 71–83 | [[talisman-of-the-sphere-xdmg|Talisman of the Sphere]] |
+| 84–00 | [[universal-solvent-xdmg|Universal Solvent]] |
 ^implements-legendary

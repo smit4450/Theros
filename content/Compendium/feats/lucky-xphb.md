@@ -14,8 +14,8 @@ aliases:
 
 You gain the following benefits.
 
-**Luck Points.** You have a number of Luck Points equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) and can spend the points on the benefits below. You regain your expended Luck Points when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+**Luck Points.** You have a number of Luck Points equal to your [[proficiency-xphb|Proficiency Bonus]] and can spend the points on the benefits below. You regain your expended Luck Points when you finish a [[long-rest-xphb|Long Rest]].
 
-**Advantage.** When you roll a `d20` for a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md), you can spend 1 Luck Point to give yourself [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the roll.
+**Advantage.** When you roll a `d20` for a [[d20-test-xphb|D20 Test]], you can spend 1 Luck Point to give yourself [[advantage-xphb|Advantage]] on the roll.
 
-**Disadvantage.** When a creature rolls a `d20` for an attack roll against you, you can spend 1 Luck Point to impose [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on that roll.
+**Disadvantage.** When a creature rolls a `d20` for an attack roll against you, you can spend 1 Luck Point to impose [[disadvantage-xphb|Disadvantage]] on that roll.

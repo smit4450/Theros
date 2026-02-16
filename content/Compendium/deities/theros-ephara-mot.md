@@ -134,7 +134,7 @@ Your piety score to Ephara decreases if you diminish Ephara's influence in the w
 
 ### Benefits of Piety
 
-- [Ephara's Devotee](Compendium/rewards/epharas-devotee-mot.md)  
-- [Ephara's Votary](Compendium/rewards/epharas-votary-mot.md)  
-- [Ephara's Disciple](Compendium/rewards/epharas-disciple-mot.md)  
-- [Champion of the Polis](Compendium/rewards/champion-of-the-polis-mot.md)
+- [[epharas-devotee-mot|Ephara's Devotee]]  
+- [[epharas-votary-mot|Ephara's Votary]]  
+- [[epharas-disciple-mot|Ephara's Disciple]]  
+- [[champion-of-the-polis-mot|Champion of the Polis]]

@@ -33,6 +33,6 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 **Cantrip Upgrade.** The damage die changes when you reach levels 5 (`d10`), 11 (`d12`), and 17 (`2d6`).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-druid|Druid]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

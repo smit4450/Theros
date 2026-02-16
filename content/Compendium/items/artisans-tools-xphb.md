@@ -16,22 +16,22 @@ aliases:
 
 **Items in this group:**
 
-- [Alchemist's Supplies](Compendium/items/alchemists-supplies-xphb.md)
-- [Brewer's Supplies](Compendium/items/brewers-supplies-xphb.md)
-- [Calligrapher's Supplies](Compendium/items/calligraphers-supplies-xphb.md)
-- [Carpenter's Tools](Compendium/items/carpenters-tools-xphb.md)
-- [Cartographer's Tools](Compendium/items/cartographers-tools-xphb.md)
-- [Cobbler's Tools](Compendium/items/cobblers-tools-xphb.md)
-- [Cook's Utensils](Compendium/items/cooks-utensils-xphb.md)
-- [Glassblower's Tools](Compendium/items/glassblowers-tools-xphb.md)
-- [Jeweler's Tools](Compendium/items/jewelers-tools-xphb.md)
-- [Leatherworker's Tools](Compendium/items/leatherworkers-tools-xphb.md)
-- [Mason's Tools](Compendium/items/masons-tools-xphb.md)
-- [Painter's Supplies](Compendium/items/painters-supplies-xphb.md)
-- [Potter's Tools](Compendium/items/potters-tools-xphb.md)
-- [Smith's Tools](Compendium/items/smiths-tools-xphb.md)
-- [Tinker's Tools](Compendium/items/tinkers-tools-xphb.md)
-- [Weaver's Tools](Compendium/items/weavers-tools-xphb.md)
-- [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md)
+- [[alchemists-supplies-xphb|Alchemist's Supplies]]
+- [[brewers-supplies-xphb|Brewer's Supplies]]
+- [[calligraphers-supplies-xphb|Calligrapher's Supplies]]
+- [[carpenters-tools-xphb|Carpenter's Tools]]
+- [[cartographers-tools-xphb|Cartographer's Tools]]
+- [[cobblers-tools-xphb|Cobbler's Tools]]
+- [[cooks-utensils-xphb|Cook's Utensils]]
+- [[glassblowers-tools-xphb|Glassblower's Tools]]
+- [[jewelers-tools-xphb|Jeweler's Tools]]
+- [[leatherworkers-tools-xphb|Leatherworker's Tools]]
+- [[masons-tools-xphb|Mason's Tools]]
+- [[painters-supplies-xphb|Painter's Supplies]]
+- [[potters-tools-xphb|Potter's Tools]]
+- [[smiths-tools-xphb|Smith's Tools]]
+- [[tinkers-tools-xphb|Tinker's Tools]]
+- [[weavers-tools-xphb|Weaver's Tools]]
+- [[woodcarvers-tools-xphb|Woodcarver's Tools]]
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

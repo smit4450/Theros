@@ -37,10 +37,10 @@ aliases: ["Wardaway"]
 
 You hurl a disorienting magical force toward one creature within range. The target makes a Constitution saving throw; Constructs and Undead automatically succeed on this save.
 
-On a failed save, the target takes `2d4` Force damage, its [Speed](Compendium/rules/variant-rules/speed-xphb.md) is halved until the start of your next turn, and on its next turn, it can take only an action or a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) (but not both). On a successful save, the target takes half as much damage only.
+On a failed save, the target takes `2d4` Force damage, its [[speed-xphb|Speed]] is halved until the start of your next turn, and on its next turn, it can take only an action or a [[bonus-action-xphb|Bonus Action]] (but not both). On a successful save, the target takes half as much damage only.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `2d4` for every spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-paladin|Paladin]]; [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: FRHoF p. 147*

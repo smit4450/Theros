@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to poison damage while you wear this armor.
+You have [[resistance-xphb|Resistance]] to poison damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Poison Resistance](#Breastplate%20of%20Poison%20Resistance)

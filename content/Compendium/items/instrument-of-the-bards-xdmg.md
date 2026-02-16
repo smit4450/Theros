@@ -18,16 +18,16 @@ An Instrument of the Bards is superior to an ordinary instrument in every way. S
 
 You can play the instrument to cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
-All Instrument of the Bards can be used to cast the following spells: [Fly](Compendium/spells/fly-xphb.md), [Invisibility](Compendium/spells/invisibility-xphb.md), [Levitate](Compendium/spells/levitate-xphb.md), [Protection from Evil and Good](Compendium/spells/protection-from-evil-and-good-xphb.md)
+All Instrument of the Bards can be used to cast the following spells: [[fly-xphb|Fly]], [[invisibility-xphb|Invisibility]], [[levitate-xphb|Levitate]], [[protection-from-evil-and-good-xphb|Protection from Evil and Good]]
 
 **Items in this group:**
 
-- [Instrument of the Bards, Anstruth Harp](Compendium/items/instrument-of-the-bards-anstruth-harp-xdmg.md)
-- [Instrument of the Bards, Canaith Mandolin](Compendium/items/instrument-of-the-bards-canaith-mandolin-xdmg.md)
-- [Instrument of the Bards, Cli Lyre](Compendium/items/instrument-of-the-bards-cli-lyre-xdmg.md)
-- [Instrument of the Bards, Doss Lute](Compendium/items/instrument-of-the-bards-doss-lute-xdmg.md)
-- [Instrument of the Bards, Fochlucan Bandore](Compendium/items/instrument-of-the-bards-fochlucan-bandore-xdmg.md)
-- [Instrument of the Bards, Mac-Fuirmidh Cittern](Compendium/items/instrument-of-the-bards-mac-fuirmidh-cittern-xdmg.md)
-- [Instrument of the Bards, Ollamh Harp](Compendium/items/instrument-of-the-bards-ollamh-harp-xdmg.md)
+- [[instrument-of-the-bards-anstruth-harp-xdmg|Instrument of the Bards, Anstruth Harp]]
+- [[instrument-of-the-bards-canaith-mandolin-xdmg|Instrument of the Bards, Canaith Mandolin]]
+- [[instrument-of-the-bards-cli-lyre-xdmg|Instrument of the Bards, Cli Lyre]]
+- [[instrument-of-the-bards-doss-lute-xdmg|Instrument of the Bards, Doss Lute]]
+- [[instrument-of-the-bards-fochlucan-bandore-xdmg|Instrument of the Bards, Fochlucan Bandore]]
+- [[instrument-of-the-bards-mac-fuirmidh-cittern-xdmg|Instrument of the Bards, Mac-Fuirmidh Cittern]]
+- [[instrument-of-the-bards-ollamh-harp-xdmg|Instrument of the Bards, Ollamh Harp]]
 
 *Source: Dungeon Master's Guide (2024) p. 272*

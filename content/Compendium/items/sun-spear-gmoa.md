@@ -13,11 +13,11 @@ aliases:
 - "Sun Spear"
 ---
 # Sun Spear
-*Weapon ([spear](Compendium/items/spear-xphb.md)), artifact (requires attunement by a worshiper of Heliod)*
+*Weapon ([[spear-xphb|spear]]), artifact (requires attunement by a worshiper of Heliod)*
 
 **Price:** 200,000-500,000 gp | high sentimentality
 
-The Sun Spear is a magic weapon. It's said to be a copy of Khrusor, the spear wielded by Heliod, god of the sun, which can strike anywhere on Theros, including the Underworld. This spear isn't as powerful but is still formidable in the hands of a true believer of Heliod. You can use a [bonus action](Compendium/rules/variant-rules/bonus-action-xphb.md) to summon the spear into your hand as long as the spear is within 60 feet of you. With the spear in hand, you can use a reaction to rebuff attacks rolls within 2 of your AC. When you rebuff an attack, it deals no damage but counts as having hit you for Divine Retribution and Divine Accuracy.
+The Sun Spear is a magic weapon. It's said to be a copy of Khrusor, the spear wielded by Heliod, god of the sun, which can strike anywhere on Theros, including the Underworld. This spear isn't as powerful but is still formidable in the hands of a true believer of Heliod. You can use a [[bonus-action-xphb|bonus action]] to summon the spear into your hand as long as the spear is within 60 feet of you. With the spear in hand, you can use a reaction to rebuff attacks rolls within 2 of your AC. When you rebuff an attack, it deals no damage but counts as having hit you for Divine Retribution and Divine Accuracy.
 
 ## Paid
 
@@ -31,7 +31,7 @@ You gain the following attributes when using the weapon:
 
 ## Overpaid
 
-Once a day for the first ten days after you attune to the spear, you can cast the [commune](Compendium/spells/commune-xphb.md) spell without requiring material components to contact Heliod.
+Once a day for the first ten days after you attune to the spear, you can cast the [[commune-xphb|commune]] spell without requiring material components to contact Heliod.
 
 ## Destroying the Sun Spear
 

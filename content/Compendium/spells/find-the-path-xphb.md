@@ -28,6 +28,6 @@ You magically sense the most direct physical route to a location you name. You m
 
 For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. Whenever you face a choice of paths along the way there, you know which path is the most direct.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]
 
 *Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

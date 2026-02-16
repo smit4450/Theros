@@ -24,6 +24,6 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 1.
 
-**Classes**: [Warlock](Compendium/lists/list-spells-classes-warlock.md)
+**Classes**: [[list-spells-classes-warlock|Warlock]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

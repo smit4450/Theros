@@ -15,7 +15,7 @@ aliases:
 ![](Compendium/items/img/rapier.webp#right)
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 

@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 4.0 lbs.
 
-This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring a [Magic](Compendium/rules/actions.md#Magic) action to use:
+This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring a [[actions#Magic|Magic]] action to use:
 
 - **First Command Word.** The box unfolds into a Rowboat.  
 - **Second Command Word.** The box unfolds into a Keelboat.  
@@ -22,6 +22,6 @@ This object appears as a wooden box that measures 12 inches long, 6 inches wide,
 
 When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat.
 
-Statistics for the [Rowboat](Compendium/items/rowboat-xphb.md) and [Keelboat](Compendium/items/keelboat-xphb.md) appear in the "Player's Handbook". If either vessel is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), the Folding Boat is destroyed.
+Statistics for the [[rowboat-xphb|Rowboat]] and [[keelboat-xphb|Keelboat]] appear in the "Player's Handbook". If either vessel is reduced to 0 [[hit-points-xphb|Hit Points]], the Folding Boat is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

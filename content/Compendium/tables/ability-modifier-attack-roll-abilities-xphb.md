@@ -15,7 +15,7 @@ aliases:
 
 | Ability | Attack Type |
 |---------|-------------|
-| Strength | Melee attack with a weapon or an [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md) |
+| Strength | Melee attack with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]] |
 | Dexterity | Ranged attack with a weapon |
 | Varies | Spell attack (the ability used is determined by the spellcaster's spellcasting feature, as explained in "chapter 7") |
 ^attack-roll-abilities

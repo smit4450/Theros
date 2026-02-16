@@ -15,16 +15,16 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1 | [Satyr reveler](Compendium/bestiary/fey/satyr-reveler-mot.md) |
-| 2 | [Satyr thornbearer](Compendium/bestiary/fey/satyr-thornbearer-mot.md) |
-| 3 | [Green hag](Compendium/bestiary/fey/green-hag-xmm.md) |
-| 4 | [Oracle](Compendium/bestiary/humanoid/oracle-mot.md) |
-| 6 | [Annis hag](Compendium/bestiary/fey/annis-hag-vgm.md) |
-| 6 | [Cyclops](Compendium/bestiary/giant/cyclops-sentry-xmm.md)* |
-| 6 | [Underworld cerberus](Compendium/bestiary/monstrosity/underworld-cerberus-mot.md) |
-| 7 | [Woe strider](Compendium/bestiary/aberration/woe-strider-mot.md) |
-| 9 | [Phylaskia](Compendium/bestiary/undead/phylaskia-mot.md) |
-| 15 | [Typhon](Compendium/bestiary/monstrosity/typhon-mot.md) |
+| 1 | [[satyr-reveler-mot|Satyr reveler]] |
+| 2 | [[satyr-thornbearer-mot|Satyr thornbearer]] |
+| 3 | [[green-hag-xmm|Green hag]] |
+| 4 | [[oracle-mot|Oracle]] |
+| 6 | [[annis-hag-vgm|Annis hag]] |
+| 6 | [[cyclops-sentry-xmm|Cyclops]]* |
+| 6 | [[underworld-cerberus-mot|Underworld cerberus]] |
+| 7 | [[woe-strider-mot|Woe strider]] |
+| 9 | [[phylaskia-mot|Phylaskia]] |
+| 15 | [[typhon-mot|Typhon]] |
 ^klothyss-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

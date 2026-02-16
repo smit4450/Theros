@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Detect poisoned drink (DC 15), or identify alcohol (DC 10)  
-- **Craft.** [Antitoxin](Compendium/items/antitoxin-xphb.md)  
+- **Craft.** [[antitoxin-xphb|Antitoxin]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

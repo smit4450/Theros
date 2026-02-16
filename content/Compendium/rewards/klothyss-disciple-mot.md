@@ -14,6 +14,6 @@ aliases:
 
 *Piety 25+ Klothys trait*
 
-You develop a second sense, allowing you to intuit the tug and pull of destiny. You can't be surprised, provided you aren't [incapacitated](Compendium/rules/conditions.md#Incapacitated).
+You develop a second sense, allowing you to intuit the tug and pull of destiny. You can't be surprised, provided you aren't [[conditions#Incapacitated|incapacitated]].
 
 *Source: Mythic Odysseys of Theros p. 58*

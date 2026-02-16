@@ -12,14 +12,14 @@ aliases:
 - "Khrusor, Spear of Heliod"
 ---
 # Khrusor, Spear of Heliod
-*Weapon ([spear](Compendium/items/spear-xphb.md)), artifact (requires attunement)*  
+*Weapon ([[spear-xphb|spear]]), artifact (requires attunement)*  
 ![](Compendium/items/img/khrusor-spear-of-heliod.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 Heliod wields Khrusor, a spear blessed with the power of the sun. In his hands, it can be pitched from Nyx to any point on Theros. When Heliod lends his weapon to a mortal, it's typically so they can perform some great work in his name or as a test of their worthiness.
@@ -47,11 +47,11 @@ The spear sheds bright light in a 30-foot radius and dim light for an additional
 
 ## Sun's Retaliation
 
-When you take damage from a creature within 5 feet of you, you can use your reaction to make a melee attack with the spear against that creature. On a hit, the spear deals damage as normal, and the creature is [blinded](Compendium/rules/conditions.md#Blinded) until the start of its next turn. This property of the spear can't be used again until the next dawn.
+When you take damage from a creature within 5 feet of you, you can use your reaction to make a melee attack with the spear against that creature. On a hit, the spear deals damage as normal, and the creature is [[conditions#Blinded|blinded]] until the start of its next turn. This property of the spear can't be used again until the next dawn.
 
 ## Spells
 
-The spear has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [guiding bolt](Compendium/spells/guiding-bolt-xphb.md) (1 charge), [daylight](Compendium/spells/daylight-xphb.md) (3 charges, targeting the tip of the spear only), [sunbeam](Compendium/spells/sunbeam-xphb.md) (6 charges). The spear regains `1d6 + 4` expended charges daily at dawn.
+The spear has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [[guiding-bolt-xphb|guiding bolt]] (1 charge), [[daylight-xphb|daylight]] (3 charges, targeting the tip of the spear only), [[sunbeam-xphb|sunbeam]] (6 charges). The spear regains `1d6 + 4` expended charges daily at dawn.
 
 ## Destroying the Spear
 

@@ -39,11 +39,11 @@ Your claws are natural weapons, which you can use to make unarmed strikes. If yo
 
 ### Hunter's Instincts
 
-You have proficiency in one of the following skills of your choice: [Athletics](Compendium/rules/skills.md#Athletics), [Intimidation](Compendium/rules/skills.md#Intimidation), [Perception](Compendium/rules/skills.md#Perception), or [Survival](Compendium/rules/skills.md#Survival).
+You have proficiency in one of the following skills of your choice: [[skills#Athletics|Athletics]], [[skills#Intimidation|Intimidation]], [[skills#Perception|Perception]], or [[skills#Survival|Survival]].
 
 ### Daunting Roar
 
-As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become [frightened](Compendium/rules/conditions.md#Frightened) of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest.
+As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become [[conditions#Frightened|frightened]] of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest.
 
 ### Languages
 

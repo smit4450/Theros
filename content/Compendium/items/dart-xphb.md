@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
 - **Cost**: 5 cp
 - **Weight**: 0.25 lbs.
 

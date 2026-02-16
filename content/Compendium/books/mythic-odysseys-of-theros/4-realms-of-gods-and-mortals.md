@@ -96,7 +96,7 @@ The beginning of the year is considered the end of winter, so the new year begin
 
 The Meletian Calendar table summarizes the months, their lengths, and the god each is associated with.
 
-![The Meletian Calendar; Meletian Calendar](Compendium/tables/the-meletian-calendar-meletian-calendar-mot.md)
+![[the-meletian-calendar-meletian-calendar-mot|The Meletian Calendar; Meletian Calendar]]
 
 ## Akros
 
@@ -245,7 +245,7 @@ The mark of a true thaumaturge, though, is a gift or positive omen from the gods
 
 #### The Reverent Army
 
-The hoplites of Meletis practice battlefield tactics in an environment saturated with religious devotion. The military force of the polis is called the Reverent Army, and aims as much to exalt the glory of the pantheon as to defend Meletis. The soldiers are clever and resourceful, believing their piety leads the gods to smile upon them. More likely, though, their extensive training in battlefield tactics and magic gives them an edge over other soldiers, with most [Meletian hoplites](Compendium/bestiary/humanoid/meletian-hoplite-mot.md) knowing at least a little magic.
+The hoplites of Meletis practice battlefield tactics in an environment saturated with religious devotion. The military force of the polis is called the Reverent Army, and aims as much to exalt the glory of the pantheon as to defend Meletis. The soldiers are clever and resourceful, believing their piety leads the gods to smile upon them. More likely, though, their extensive training in battlefield tactics and magic gives them an edge over other soldiers, with most [[meletian-hoplite-mot|Meletian hoplites]] knowing at least a little magic.
 
 #### Nonhumans in Meletis
 
@@ -395,7 +395,7 @@ The most impressive part of the market is the raptor hall, where falconers show 
 
 #### Caryatid Groves
 
-Scattered throughout the city are several groves that are sacred to Karametra and Nylea, made up of slender trees with almost humanlike forms. It is said that whoever enters one of these sacred groves in search of peace will find it—and take root, becoming part of the grove. The trees here are caryatids, capable of animating in defense of the groves or the city (as [animated trees](Compendium/bestiary/plant/animated-tree-egw.md)) but otherwise resting in silent stillness.
+Scattered throughout the city are several groves that are sacred to Karametra and Nylea, made up of slender trees with almost humanlike forms. It is said that whoever enters one of these sacred groves in search of peace will find it—and take root, becoming part of the grove. The trees here are caryatids, capable of animating in defense of the groves or the city (as [[animated-tree-egw|animated trees]]) but otherwise resting in silent stillness.
 
 ![Nature and civilization me...](Compendium/books/mythic-odysseys-of-theros/img/061-03-07.webp#center "Nature and civilization meld harmoniously in the polis of Setessa")
 
@@ -579,11 +579,11 @@ Traders recognize Gray Merchants by their hooded gray cloaks and their carts pil
 
 #### Kakomanteis
 
-[Returned kakomanteis](Compendium/bestiary/undead/returned-kakomantis-mot.md) employ powerful magic at a price paid in blood. Some theorize that in life each kakomantis was a spell caster, and the trip along the Path of Phenax corrupted their abilities. Regardless of how they came upon their grisly magic, kakomanteis keep small animals, such as rodents, snakes, and insects, close at hand to power their spells, though more potent magical effects demand more significant sacrifices.
+[[returned-kakomantis-mot|Returned kakomanteis]] employ powerful magic at a price paid in blood. Some theorize that in life each kakomantis was a spell caster, and the trip along the Path of Phenax corrupted their abilities. Regardless of how they came upon their grisly magic, kakomanteis keep small animals, such as rodents, snakes, and insects, close at hand to power their spells, though more potent magical effects demand more significant sacrifices.
 
 #### Palamnites
 
-While most of the Returned are listless and quiet, [palamnites](Compendium/bestiary/undead/returned-palamnite-mot.md) burn with envy and rage. They are vicious killers, destroying what no longer brings them joy. Palamnites burn villages, slaughter innocents, and steal wealth only to discard it later. Most stories of vengeful Returned stem from reports of these tortured souls.
+While most of the Returned are listless and quiet, [[returned-palamnite-mot|palamnites]] burn with envy and rage. They are vicious killers, destroying what no longer brings them joy. Palamnites burn villages, slaughter innocents, and steal wealth only to discard it later. Most stories of vengeful Returned stem from reports of these tortured souls.
 
 #### Pseudammas
 
@@ -660,7 +660,7 @@ Tales tell of the lost island of Arixmethes, whose population was wiped out by d
 
 #### Cronemouth Cove
 
-This tiny island lies in the midst of perpetual doldrums and holds a known gate to the Underworld. It is guarded by a coven of [sea hags](Compendium/bestiary/fey/sea-hag-xmm.md) who share a single tongue that is perpetually trying to escape from their clutches, wriggling out of reach with a mind of its own.
+This tiny island lies in the midst of perpetual doldrums and holds a known gate to the Underworld. It is guarded by a coven of [[sea-hag-xmm|sea hags]] who share a single tongue that is perpetually trying to escape from their clutches, wriggling out of reach with a mind of its own.
 
 #### Ketaphos
 
@@ -668,7 +668,7 @@ Famed for its role in *The Callapheia*, the island of Ketaphos supposedly exists
 
 #### Skathos
 
-The island of Skathos was once a sacred meeting place for a secret cult of Pharika whose rites revolved around consuming a magical flower native to the island. The island is now home to the [medusa](Compendium/bestiary/monstrosity/medusa-mot.md) queen, [Hythonia](Compendium/bestiary/npc/hythonia-mot.md) (described in "chapter 6").
+The island of Skathos was once a sacred meeting place for a secret cult of Pharika whose rites revolved around consuming a magical flower native to the island. The island is now home to the [[medusa-mot|medusa]] queen, [[hythonia-mot|Hythonia]] (described in "chapter 6").
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/065-03-11.webp#center)
 
@@ -734,7 +734,7 @@ Purphoros's forge lies in the deepest part of Mount Velus, near a vast lava pool
 
 ### Mount Vesios
 
-Mount Vesios, also known as the Little Sister, is a smaller volcano that resembles Mount Velus and erupts concurrently with Velus. A monastery on its western slope houses scholars and spellcasters who study the volcano, believing that through it, they might be able to control the eruptions of Mount Velus. Numerous [oreads](Compendium/bestiary/fey/oread-mot.md) and Akroan flamespeakers offer their omens from the volcano's heights.
+Mount Vesios, also known as the Little Sister, is a smaller volcano that resembles Mount Velus and erupts concurrently with Velus. A monastery on its western slope houses scholars and spellcasters who study the volcano, believing that through it, they might be able to control the eruptions of Mount Velus. Numerous [[oread-mot|oreads]] and Akroan flamespeakers offer their omens from the volcano's heights.
 
 ## The Oraniad Mountains
 

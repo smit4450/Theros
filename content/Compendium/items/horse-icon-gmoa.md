@@ -16,7 +16,7 @@ aliases:
 
 This icon is a moonstone statuette of a horse rearing up on its hind legs. It can grant Aspect of Horse for 1 minute. Once it has been used, it can't be used again until 6 days have passed. 
 
-**Aspect of Horse.** Your feet transform into hooves and are considered a magic natural weapon. You can use an action to kick a creature as a melee attack. On a hit, the target suffers 2d4 bludgeoning damage and if the creature is Large size or smaller, it's knocked back 5 feet and must succeed a DC 14 Strength saving throw or fall [prone](Compendium/rules/conditions.md#Prone). You deal double damage to objects and structures.
+**Aspect of Horse.** Your feet transform into hooves and are considered a magic natural weapon. You can use an action to kick a creature as a melee attack. On a hit, the target suffers 2d4 bludgeoning damage and if the creature is Large size or smaller, it's knocked back 5 feet and must succeed a DC 14 Strength saving throw or fall [[conditions#Prone|prone]]. You deal double damage to objects and structures.
 
 ## Paid
 

@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 5.0 lbs.
 
-This tome contains information and incantations necessary to make a [stone golem](Compendium/bestiary/construct/stone-golem-xmm.md). To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a *manual of golems* and attempts to read it takes `6d6` psychic damage.
+This tome contains information and incantations necessary to make a [[stone-golem-xmm|stone golem]]. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a *manual of golems* and attempts to read it takes `6d6` psychic damage.
 
 To create a stone golem, you must spend 90 days, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay 80,000 gp to purchase supplies.
 

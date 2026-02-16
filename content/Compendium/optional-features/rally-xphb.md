@@ -12,4 +12,4 @@ aliases:
 # Rally
 *Source: Player's Handbook (2024) p. 95*  
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can expend one Superiority Die to bolster the resolve of a companion. Choose an ally of yours within 30 feet of yourself who can see or hear you. That creature gains [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to the Superiority Die roll plus half your Fighter level (round down).
+As a [[bonus-action-xphb|Bonus Action]], you can expend one Superiority Die to bolster the resolve of a companion. Choose an ally of yours within 30 feet of yourself who can see or hear you. That creature gains [[temporary-hit-points-xphb|Temporary Hit Points]] equal to the Superiority Die roll plus half your Fighter level (round down).

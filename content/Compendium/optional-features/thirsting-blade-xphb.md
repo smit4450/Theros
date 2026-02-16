@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Level 5, pact of the blade|xphb
 
-You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [[actions#Attack|Attack]] action on your turn.

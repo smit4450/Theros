@@ -15,7 +15,7 @@ aliases:
 
 | Item | Catalog | Carrying Capacity | Cost |
 |------|---------|-------------------|------|
-| [Axe Beak](Compendium/items/axe-beak-frhof.md) | Icewind Dale Wares | 210 lb. | 50 GP |
-| [Flying Snake](Compendium/items/flying-snake-frhof.md) | Baldur's Gate Wares | 60 lb. | 25 GP |
-| [Sled Dog](Compendium/items/sled-dog-frhof.md) | Icewind Dale Wares | 210 lb. | 50 GP |
+| [[axe-beak-frhof|Axe Beak]] | Icewind Dale Wares | 210 lb. | 50 GP |
+| [[flying-snake-frhof|Flying Snake]] | Baldur's Gate Wares | 60 lb. | 25 GP |
+| [[sled-dog-frhof|Sled Dog]] | Icewind Dale Wares | 210 lb. | 50 GP |
 ^mounts-and-other-animals

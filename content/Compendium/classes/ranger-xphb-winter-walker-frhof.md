@@ -51,7 +51,7 @@ aliases:
 
 *Withstand the Horrors of Frigid Wastelands*
 
-Winter Walkers hone their craft in the bleak and frozen wilds of places like Icewind Dale. These ruthless, rimed Rangers hunt monsters that haunt arctic wastelands, eventually becoming frigid terrors themselves. Winter Walkers are well versed in the phenomena of Icewind Dale, including the latent magic of fallen Netherese cities, endemic monsters like [yetis](Compendium/bestiary/monstrosity/yeti-xmm.md) and crag cats, and the rising threat of Underdark invaders. Due to their cold pragmatism, terrifying magic, and mastery of the region, Winter Walkers are regarded with equal parts respect and fear. Ten-Towns citizens say that Winter Walkers' frequent exposure to malignant entities gives them their fearsome powers. Many Reghed nomads, on the other hand, believe that nature spirits bestow on Winter Walkers a unique curse.
+Winter Walkers hone their craft in the bleak and frozen wilds of places like Icewind Dale. These ruthless, rimed Rangers hunt monsters that haunt arctic wastelands, eventually becoming frigid terrors themselves. Winter Walkers are well versed in the phenomena of Icewind Dale, including the latent magic of fallen Netherese cities, endemic monsters like [[yeti-xmm|yetis]] and crag cats, and the rising threat of Underdark invaders. Due to their cold pragmatism, terrifying magic, and mastery of the region, Winter Walkers are regarded with equal parts respect and fear. Ten-Towns citizens say that Winter Walkers' frequent exposure to malignant entities gives them their fearsome powers. Many Reghed nomads, on the other hand, believe that nature spirits bestow on Winter Walkers a unique curse.
 
 ### Frigid Explorer (Level 3)
 
@@ -60,12 +60,12 @@ You gain the following benefits.
 #### Biting Cold
 _Source: FRHoF_
 
-[Damage](Compendium/rules/variant-rules/damage-xphb.md) from your weapon attacks, Ranger spells, and Ranger features ignores [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Cold damage.
+[[damage-xphb|Damage]] from your weapon attacks, Ranger spells, and Ranger features ignores [[resistance-xphb|Resistance]] to Cold damage.
 
 #### Frost Resistance
 _Source: FRHoF_
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Cold damage.
+You have [[resistance-xphb|Resistance]] to Cold damage.
 
 #### Polar Strikes
 _Source: FRHoF_
@@ -74,9 +74,9 @@ When you hit a creature with an attack roll using a weapon, you can deal an extr
 
 ### Hunter's Rime (Level 3)
 
-Ice rimes you and your prey, protecting you and slowing them. When you cast [Hunter's Mark](Compendium/spells/hunters-mark-xphb.md), you gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to `1d10` plus your [Ranger](Compendium/classes/ranger-xphb.md) level.
+Ice rimes you and your prey, protecting you and slowing them. When you cast [[hunters-mark-xphb|Hunter's Mark]], you gain [[temporary-hit-points-xphb|Temporary Hit Points]] equal to `1d10` plus your [[ranger-xphb|Ranger]] level.
 
-Additionally, while a creature is marked by your [Hunter's Mark](Compendium/spells/hunters-mark-xphb.md), it can't take the [Disengage](Compendium/rules/actions.md#Disengage) action.
+Additionally, while a creature is marked by your [[hunters-mark-xphb|Hunter's Mark]], it can't take the [[actions#Disengage|Disengage]] action.
 
 ### Winter Walker Spells (Level 3)
 
@@ -84,35 +84,35 @@ When you reach a Ranger level specified in the Winter Walker Spells table, you t
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3 | [Ice Knife](Compendium/spells/ice-knife-xphb.md) |
-| 5 | [Hold Person](Compendium/spells/hold-person-xphb.md) |
-| 9 | [Remove Curse](Compendium/spells/remove-curse-xphb.md) |
-| 13 | [Ice Storm](Compendium/spells/ice-storm-xphb.md) |
-| 17 | [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md) |
+| 3 | [[ice-knife-xphb|Ice Knife]] |
+| 5 | [[hold-person-xphb|Hold Person]] |
+| 9 | [[remove-curse-xphb|Remove Curse]] |
+| 13 | [[ice-storm-xphb|Ice Storm]] |
+| 17 | [[cone-of-cold-xphb|Cone of Cold]] |
 ^ranger-level-spells
 
 ### Fortifying Soul (Level 7)
 
-Your experience surviving harrowing environments allows you to bolster your allies in addition to yourself. As a Magic action, choose a number of creatures you can see equal to your Wisdom modifier (minimum of one). Each chosen creature regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to `1d10` plus your Ranger level and has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws to avoid or end the Frightened condition for 1 hour.
+Your experience surviving harrowing environments allows you to bolster your allies in addition to yourself. As a Magic action, choose a number of creatures you can see equal to your Wisdom modifier (minimum of one). Each chosen creature regains [[hit-points-xphb|Hit Points]] equal to `1d10` plus your Ranger level and has [[advantage-xphb|Advantage]] on saving throws to avoid or end the Frightened condition for 1 hour.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [[long-rest-xphb|Long Rest]].
 
 ### Chilling Retribution (Level 11)
 
-When a creature hits you with an attack roll, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to force the creature to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Stunned condition until the end of your next turn. While the target is Stunned, its [Speed](Compendium/rules/variant-rules/speed-xphb.md) is reduced to 0 feet.
+When a creature hits you with an attack roll, you can take a [[reaction-xphb|Reaction]] to force the creature to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Stunned condition until the end of your next turn. While the target is Stunned, its [[speed-xphb|Speed]] is reduced to 0 feet.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
 ### Frozen Haunt (Level 15)
 
-When you cast [Hunter's Mark](Compendium/spells/hunters-mark-xphb.md), you can adopt a ghostly, snowy form. This form lasts until the spell ends, and while you are in this form, you gain the following benefits. Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a level 4+ spell slot (no action required).
+When you cast [[hunters-mark-xphb|Hunter's Mark]], you can adopt a ghostly, snowy form. This form lasts until the spell ends, and while you are in this form, you gain the following benefits. Once you use this feature, you can't use it again until you finish a [[long-rest-xphb|Long Rest]] unless you expend a level 4+ spell slot (no action required).
 
 #### Frozen Soul
 _Source: FRHoF_
 
-You have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Cold damage. When you first adopt this form and at the start of each of your subsequent turns, each creature of your choice in a 15-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you takes `2d4` Cold damage.
+You have [[immunity-xphb|Immunity]] to Cold damage. When you first adopt this form and at the start of each of your subsequent turns, each creature of your choice in a 15-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you takes `2d4` Cold damage.
 
 #### Partially Incorporeal
 _Source: FRHoF_
 
-You have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to the [Grappled](Compendium/rules/conditions.md#Grappled), [Prone](Compendium/rules/conditions.md#Prone), and [Restrained](Compendium/rules/conditions.md#Restrained) conditions. You can move through creatures and objects as if they were [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md), but you take `1d10` Force damage if you end your turn inside a creature or an object. If the form ends while you are inside a creature or an object, you are shunted to the nearest unoccupied space.
+You have [[immunity-xphb|Immunity]] to the [[conditions#Grappled|Grappled]], [[conditions#Prone|Prone]], and [[conditions#Restrained|Restrained]] conditions. You can move through creatures and objects as if they were [[difficult-terrain-xphb|Difficult Terrain]], but you take `1d10` Force damage if you end your turn inside a creature or an object. If the form ends while you are inside a creature or an object, you are shunted to the nearest unoccupied space.

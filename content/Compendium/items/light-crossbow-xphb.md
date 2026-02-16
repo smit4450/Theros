@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Loading](Compendium/rules/item-properties.md#Loading), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
 - **Cost**: 25 gp
 - **Weight**: 5.0 lbs.
 

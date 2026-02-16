@@ -20,7 +20,7 @@ aliases: ["Human"]
 
 ### Resourceful
 
-You gain [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md) whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You gain [[heroic-inspiration-xphb|Heroic Inspiration]] whenever you finish a [[long-rest-xphb|Long Rest]].
 
 ### Skillful
 

@@ -17,4 +17,4 @@ If you choose this option, after earning enough Experience Points to attain a ne
 
 The training time required depends on the level to be gained, as shown on the Training to Gain Levels table. The training cost is for the total training time.
 
-![Variant: Training to Gain Levels; Training to Gain Levels](Compendium/tables/variant-training-to-gain-levels-training-to-gain-levels-xdmg.md)
+![[variant-training-to-gain-levels-training-to-gain-levels-xdmg|Variant: Training to Gain Levels; Training to Gain Levels]]

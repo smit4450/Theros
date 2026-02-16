@@ -12,7 +12,7 @@ aliases:
 # Demiplane
 *Level 17 Bastion facility*  
 
-- **Prerequisites**: Ability to use an [Arcane Focus](Compendium/items/arcane-focus-xphb.md) or tool as a [Spellcasting Focus](Compendium/rules/variant-rules/spellcasting-focus-xphb.md)
+- **Prerequisites**: Ability to use an [[arcane-focus-xphb|Arcane Focus]] or tool as a [[spellcasting-focus-xphb|Spellcasting Focus]]
 - **Space**: Vast (36 sq)
 - **Hirelings**: 1
 - **Order**: empower
@@ -23,10 +23,10 @@ Only you and your Bastion's hirelings can open the door, which leads to a Demipl
 
 ## Empower: Arcane Resilience
 
-When you issue the "Empower" order to this facility, magical runes appear on the Demiplane's walls and last for 7 days. Until the runes disappear, you gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to five times your level after spending an entire Long Rest in the Demiplane.
+When you issue the "Empower" order to this facility, magical runes appear on the Demiplane's walls and last for 7 days. Until the runes disappear, you gain [[temporary-hit-points-xphb|Temporary Hit Points]] equal to five times your level after spending an entire Long Rest in the Demiplane.
 
 ## Fabrication
 
-While in the Demiplane, you can take a [Magic](Compendium/rules/actions.md#Magic) action to create a nonmagical object of your choice from nothing, causing it to appear in an unoccupied space in the Demiplane. The object can be no bigger than 5 feet in any dimension; can't have a value over 5 GP; and must be made of wood, stone, clay, porcelain, glass, paper, nonprecious crystal, or nonprecious metal. You must finish a Long Rest before you can take this action again.
+While in the Demiplane, you can take a [[actions#Magic|Magic]] action to create a nonmagical object of your choice from nothing, causing it to appear in an unoccupied space in the Demiplane. The object can be no bigger than 5 feet in any dimension; can't have a value over 5 GP; and must be made of wood, stone, clay, porcelain, glass, paper, nonprecious crystal, or nonprecious metal. You must finish a Long Rest before you can take this action again.
 
 *Source: Dungeon Master's Guide (2024) p. 340*

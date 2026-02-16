@@ -34,12 +34,12 @@ aliases: ["Tasha's Hideous Laughter"]
 - **Components:** V, S, M (a tart and a feather)
 - **Duration:** Concentration, up to 1 minute
 
-One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the [Prone](Compendium/rules/conditions.md#Prone) and [Incapacitated](Compendium/rules/conditions.md#Incapacitated) conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the [Prone](Compendium/rules/conditions.md#Prone) condition on itself.
+One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the [[conditions#Prone|Prone]] and [[conditions#Incapacitated|Incapacitated]] conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the [[conditions#Prone|Prone]] condition on itself.
 
-At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the save if the save is triggered by damage. On a successful save, the spell ends.
+At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has [[advantage-xphb|Advantage]] on the save if the save is triggered by damage. On a successful save, the spell ends.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Hideous Laughter") and the Free Rules (2024)*

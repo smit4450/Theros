@@ -13,146 +13,146 @@ aliases:
 
 This box contains a set of cards. A full deck has 34 cards: 32 depicting specific creatures and two with a mirrored surface. A deck found as treasure is usually missing ` - 1` cards.
 
-The magic of the deck functions only if its cards are drawn at random. You can take a [Magic](Compendium/rules/actions.md#Magic) action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of yourself. An illusion of a creature, determined by rolling on the Deck of Illusions table, forms over the thrown card and remains until dispelled. The illusory creature created by the card looks and behaves like a real creature of its kind, except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can take a [Magic](Compendium/rules/actions.md#Magic) action to move it anywhere within 30 feet of its card.
+The magic of the deck functions only if its cards are drawn at random. You can take a [[actions#Magic|Magic]] action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of yourself. An illusion of a creature, determined by rolling on the Deck of Illusions table, forms over the thrown card and remains until dispelled. The illusory creature created by the card looks and behaves like a real creature of its kind, except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can take a [[actions#Magic|Magic]] action to move it anywhere within 30 feet of its card.
 
-Any physical interaction with the illusory creature reveals it to be false, because objects pass through it. A creature that takes a [Study](Compendium/rules/actions.md#Study) action to visually inspect the illusory creature identifies it as an illusion with a successful DC 15 Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check. The illusion lasts until its card is moved or the illusion is dispelled (using a [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) spell or a similar effect). When the illusion ends, the image on its card disappears, and that card can't be used again.
+Any physical interaction with the illusory creature reveals it to be false, because objects pass through it. A creature that takes a [[actions#Study|Study]] action to visually inspect the illusory creature identifies it as an illusion with a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check. The illusion lasts until its card is moved or the illusion is dispelled (using a [[dispel-magic-xphb|Dispel Magic]] spell or a similar effect). When the illusion ends, the image on its card disappears, and that card can't be used again.
 
 **Deck of Illusions**
 
 | dice: 1d100 | Illusion |
 |-------------|----------|
-| 01-03 | [Adult Red Dragon](Compendium/bestiary/dragon/adult-red-dragon-xmm.md) |
-| 04-06 | [Archmage](Compendium/bestiary/humanoid/archmage-xmm.md) |
-| 07-09 | [Assassin](Compendium/bestiary/humanoid/assassin-xmm.md) |
-| 10-12 | [Bandit Captain](Compendium/bestiary/humanoid/bandit-captain-xmm.md) |
-| 13-15 | [Beholder](Compendium/bestiary/aberration/beholder-xmm.md) |
-| 16-18 | [Berserker](Compendium/bestiary/humanoid/berserker-xmm.md) |
-| 19-21 | [Bugbear Warrior](Compendium/bestiary/fey/bugbear-warrior-xmm.md) |
-| 22-24 | [Cloud Giant](Compendium/bestiary/giant/cloud-giant-xmm.md) |
-| 25-27 | [Druid](Compendium/bestiary/humanoid/druid-xmm.md) |
-| 28-30 | [Erinyes](Compendium/bestiary/fiend/erinyes-xmm.md) |
-| 31-33 | [Ettin](Compendium/bestiary/giant/ettin-xmm.md) |
-| 34-36 | [Fire Giant](Compendium/bestiary/giant/fire-giant-xmm.md) |
-| 37-39 | [Frost Giant](Compendium/bestiary/giant/frost-giant-xmm.md) |
-| 40-42 | [Gnoll Warrior](Compendium/bestiary/fiend/gnoll-warrior-xmm.md) |
-| 43-45 | [Goblin Warrior](Compendium/bestiary/fey/goblin-warrior-xmm.md) |
-| 46-48 | [Guardian Naga](Compendium/bestiary/celestial/guardian-naga-xmm.md) |
-| 49-51 | [Hill Giant](Compendium/bestiary/giant/hill-giant-xmm.md) |
-| 52-54 | [Hobgoblin Warrior](Compendium/bestiary/fey/hobgoblin-warrior-xmm.md) |
-| 55-57 | [Incubus](Compendium/bestiary/fiend/incubus-xmm.md) |
-| 58-60 | [Iron Golem](Compendium/bestiary/construct/iron-golem-xmm.md) |
-| 61-63 | [Knight](Compendium/bestiary/humanoid/knight-xmm.md) |
-| 64-66 | [Kobold Warrior](Compendium/bestiary/dragon/kobold-warrior-xmm.md) |
-| 67-69 | [Lich](Compendium/bestiary/undead/lich-xmm.md) |
-| 70-72 | [Medusa](Compendium/bestiary/monstrosity/medusa-xmm.md) |
-| 73-75 | [Night Hag](Compendium/bestiary/fiend/night-hag-xmm.md) |
-| 76-78 | [Ogre](Compendium/bestiary/giant/ogre-xmm.md) |
-| 79-81 | [Oni](Compendium/bestiary/fiend/oni-xmm.md) |
-| 82-84 | [Priest](Compendium/bestiary/humanoid/priest-xmm.md) |
-| 85-87 | [Succubus](Compendium/bestiary/fiend/succubus-xmm.md) |
-| 88-90 | [Troll](Compendium/bestiary/giant/troll-xmm.md) |
-| 91-93 | [Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md) |
-| 94-96 | [Wyvern](Compendium/bestiary/dragon/wyvern-xmm.md) |
+| 01-03 | [[adult-red-dragon-xmm|Adult Red Dragon]] |
+| 04-06 | [[archmage-xmm|Archmage]] |
+| 07-09 | [[assassin-xmm|Assassin]] |
+| 10-12 | [[bandit-captain-xmm|Bandit Captain]] |
+| 13-15 | [[beholder-xmm|Beholder]] |
+| 16-18 | [[berserker-xmm|Berserker]] |
+| 19-21 | [[bugbear-warrior-xmm|Bugbear Warrior]] |
+| 22-24 | [[cloud-giant-xmm|Cloud Giant]] |
+| 25-27 | [[druid-xmm|Druid]] |
+| 28-30 | [[erinyes-xmm|Erinyes]] |
+| 31-33 | [[ettin-xmm|Ettin]] |
+| 34-36 | [[fire-giant-xmm|Fire Giant]] |
+| 37-39 | [[frost-giant-xmm|Frost Giant]] |
+| 40-42 | [[gnoll-warrior-xmm|Gnoll Warrior]] |
+| 43-45 | [[goblin-warrior-xmm|Goblin Warrior]] |
+| 46-48 | [[guardian-naga-xmm|Guardian Naga]] |
+| 49-51 | [[hill-giant-xmm|Hill Giant]] |
+| 52-54 | [[hobgoblin-warrior-xmm|Hobgoblin Warrior]] |
+| 55-57 | [[incubus-xmm|Incubus]] |
+| 58-60 | [[iron-golem-xmm|Iron Golem]] |
+| 61-63 | [[knight-xmm|Knight]] |
+| 64-66 | [[kobold-warrior-xmm|Kobold Warrior]] |
+| 67-69 | [[lich-xmm|Lich]] |
+| 70-72 | [[medusa-xmm|Medusa]] |
+| 73-75 | [[night-hag-xmm|Night Hag]] |
+| 76-78 | [[ogre-xmm|Ogre]] |
+| 79-81 | [[oni-xmm|Oni]] |
+| 82-84 | [[priest-xmm|Priest]] |
+| 85-87 | [[succubus-xmm|Succubus]] |
+| 88-90 | [[troll-xmm|Troll]] |
+| 91-93 | [[warrior-veteran-xmm|Warrior Veteran]] |
+| 94-96 | [[wyvern-xmm|Wyvern]] |
 | 97-00 | The card drawer |
 ^deck-of-illusions
 
 ## Cards
 
 ### Adult Red Dragon
-This card creates an illusion of an [Adult Red Dragon](Compendium/bestiary/dragon/adult-red-dragon-xmm.md).
+This card creates an illusion of an [[adult-red-dragon-xmm|Adult Red Dragon]].
 
 ### Archmage
-This card creates an illusion of an [Archmage](Compendium/bestiary/humanoid/archmage-xmm.md).
+This card creates an illusion of an [[archmage-xmm|Archmage]].
 
 ### Assassin
-This card creates an illusion of an [Assassin](Compendium/bestiary/humanoid/assassin-xmm.md).
+This card creates an illusion of an [[assassin-xmm|Assassin]].
 
 ### Bandit Captain
-This card creates an illusion of a [Bandit Captain](Compendium/bestiary/humanoid/bandit-captain-xmm.md).
+This card creates an illusion of a [[bandit-captain-xmm|Bandit Captain]].
 
 ### Beholder
-This card creates an illusion of a [Beholder](Compendium/bestiary/aberration/beholder-xmm.md).
+This card creates an illusion of a [[beholder-xmm|Beholder]].
 
 ### Berserker
-This card creates an illusion of a [Berserker](Compendium/bestiary/humanoid/berserker-xmm.md).
+This card creates an illusion of a [[berserker-xmm|Berserker]].
 
 ### Bugbear Warrior
-This card creates an illusion of a [Bugbear Warrior](Compendium/bestiary/fey/bugbear-warrior-xmm.md).
+This card creates an illusion of a [[bugbear-warrior-xmm|Bugbear Warrior]].
 
 ### Cloud Giant
-This card creates an illusion of a [Cloud Giant](Compendium/bestiary/giant/cloud-giant-xmm.md).
+This card creates an illusion of a [[cloud-giant-xmm|Cloud Giant]].
 
 ### Druid
-This card creates an illusion of a [Druid](Compendium/bestiary/humanoid/druid-xmm.md).
+This card creates an illusion of a [[druid-xmm|Druid]].
 
 ### Erinyes
-This card creates an illusion of an [Erinyes](Compendium/bestiary/fiend/erinyes-xmm.md).
+This card creates an illusion of an [[erinyes-xmm|Erinyes]].
 
 ### Ettin
-This card creates an illusion of an [Ettin](Compendium/bestiary/giant/ettin-xmm.md).
+This card creates an illusion of an [[ettin-xmm|Ettin]].
 
 ### Fire Giant
-This card creates an illusion of a [Fire Giant](Compendium/bestiary/giant/fire-giant-xmm.md).
+This card creates an illusion of a [[fire-giant-xmm|Fire Giant]].
 
 ### Frost Giant
-This card creates an illusion of a [Frost Giant](Compendium/bestiary/giant/frost-giant-xmm.md).
+This card creates an illusion of a [[frost-giant-xmm|Frost Giant]].
 
 ### Gnoll Warrior
-This card creates an illusion of a [Gnoll Warrior](Compendium/bestiary/fiend/gnoll-warrior-xmm.md).
+This card creates an illusion of a [[gnoll-warrior-xmm|Gnoll Warrior]].
 
 ### Goblin Warrior
-This card creates an illusion of a [Goblin Warrior](Compendium/bestiary/fey/goblin-warrior-xmm.md).
+This card creates an illusion of a [[goblin-warrior-xmm|Goblin Warrior]].
 
 ### Guardian Naga
-This card creates an illusion of a [Guardian Naga](Compendium/bestiary/celestial/guardian-naga-xmm.md).
+This card creates an illusion of a [[guardian-naga-xmm|Guardian Naga]].
 
 ### Hill Giant
-This card creates an illusion of a [Hill Giant](Compendium/bestiary/giant/hill-giant-xmm.md).
+This card creates an illusion of a [[hill-giant-xmm|Hill Giant]].
 
 ### Hobgoblin Warrior
-This card creates an illusion of a [Hobgoblin Warrior](Compendium/bestiary/fey/hobgoblin-warrior-xmm.md).
+This card creates an illusion of a [[hobgoblin-warrior-xmm|Hobgoblin Warrior]].
 
 ### Incubus
-This card creates an illusion of an [Incubus](Compendium/bestiary/fiend/incubus-xmm.md).
+This card creates an illusion of an [[incubus-xmm|Incubus]].
 
 ### Iron Golem
-This card creates an illusion of an [Iron Golem](Compendium/bestiary/construct/iron-golem-xmm.md).
+This card creates an illusion of an [[iron-golem-xmm|Iron Golem]].
 
 ### Knight
-This card creates an illusion of a [Knight](Compendium/bestiary/humanoid/knight-xmm.md).
+This card creates an illusion of a [[knight-xmm|Knight]].
 
 ### Kobold Warrior
-This card creates an illusion of a [Kobold Warrior](Compendium/bestiary/dragon/kobold-warrior-xmm.md).
+This card creates an illusion of a [[kobold-warrior-xmm|Kobold Warrior]].
 
 ### Lich
-This card creates an illusion of a [Lich](Compendium/bestiary/undead/lich-xmm.md).
+This card creates an illusion of a [[lich-xmm|Lich]].
 
 ### Medusa
-This card creates an illusion of a [Medusa](Compendium/bestiary/monstrosity/medusa-xmm.md).
+This card creates an illusion of a [[medusa-xmm|Medusa]].
 
 ### Night Hag
-This card creates an illusion of a [Night Hag](Compendium/bestiary/fiend/night-hag-xmm.md).
+This card creates an illusion of a [[night-hag-xmm|Night Hag]].
 
 ### Ogre
-This card creates an illusion of an [Ogre](Compendium/bestiary/giant/ogre-xmm.md).
+This card creates an illusion of an [[ogre-xmm|Ogre]].
 
 ### Oni
-This card creates an illusion of an [Oni](Compendium/bestiary/fiend/oni-xmm.md).
+This card creates an illusion of an [[oni-xmm|Oni]].
 
 ### Priest
-This card creates an illusion of a [Priest](Compendium/bestiary/humanoid/priest-xmm.md).
+This card creates an illusion of a [[priest-xmm|Priest]].
 
 ### Succubus
-This card creates an illusion of a [Succubus](Compendium/bestiary/fiend/succubus-xmm.md).
+This card creates an illusion of a [[succubus-xmm|Succubus]].
 
 ### Troll
-This card creates an illusion of a [Troll](Compendium/bestiary/giant/troll-xmm.md).
+This card creates an illusion of a [[troll-xmm|Troll]].
 
 ### Warrior Veteran
-This card creates an illusion of a [Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md).
+This card creates an illusion of a [[warrior-veteran-xmm|Warrior Veteran]].
 
 ### Wyvern
-This card creates an illusion of a [Wyvern](Compendium/bestiary/dragon/wyvern-xmm.md).
+This card creates an illusion of a [[wyvern-xmm|Wyvern]].
 
 ### The Card Drawer
 This card creates an illusion of a the card drawer.

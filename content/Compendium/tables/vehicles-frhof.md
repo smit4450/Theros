@@ -15,5 +15,5 @@ aliases:
 
 | Item | Catalog | Weight | Cost |
 |------|---------|--------|------|
-| [Covered Wagon](Compendium/items/covered-wagon-frhof.md) | Daleland Wares | 1,300 lb. | 250 GP |
+| [[covered-wagon-frhof|Covered Wagon]] | Daleland Wares | 1,300 lb. | 250 GP |
 ^vehicles

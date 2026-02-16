@@ -15,6 +15,6 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-You regain `4d4 + 4` [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) when you drink this potion. The potion's red liquid glimmers when agitated.
+You regain `4d4 + 4` [[hit-points-xphb|Hit Points]] when you drink this potion. The potion's red liquid glimmers when agitated.
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

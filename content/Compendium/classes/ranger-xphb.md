@@ -52,17 +52,17 @@ aliases:
 ## Starting Ranger
 
 - **Saving Throw Proficiencies**: Dexterity, Strength
-- **Skill Proficiencies**: *Choose 3:* [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 3:* [[skills#Animal%20Handling|Animal Handling]], [[skills#Athletics|Athletics]], [[skills#Insight|Insight]], [[skills#Investigation|Investigation]], [[skills#Nature|Nature]], [[skills#Perception|Perception]], [[skills#Stealth|Stealth]], or [[skills#Survival|Survival]]
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), and [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], and [[shield-xphb|Shields]]
 
-**Starting Equipment:** *Choose A or B:* (A) [Studded Leather Armor](Compendium/items/studded-leather-armor-xphb.md), [Scimitar](Compendium/items/scimitar-xphb.md), [Shortsword](Compendium/items/shortsword-xphb.md), [Longbow](Compendium/items/longbow-xphb.md), [20 Arrows](Compendium/items/arrows-20-xphb.md), [Quiver](Compendium/items/quiver-xphb.md), [Druidic Focus](Compendium/items/druidic-focus-xphb.md) ([sprig of mistletoe](Compendium/items/sprig-of-mistletoe-xphb.md)), [Explorer's Pack](Compendium/items/explorers-pack-xphb.md), and 7 GP; or (B) 150 GP
+**Starting Equipment:** *Choose A or B:* (A) [[studded-leather-armor-xphb|Studded Leather Armor]], [[scimitar-xphb|Scimitar]], [[shortsword-xphb|Shortsword]], [[longbow-xphb|Longbow]], [[arrows-20-xphb|20 Arrows]], [[quiver-xphb|Quiver]], [[druidic-focus-xphb|Druidic Focus]] ([[sprig-of-mistletoe-xphb|sprig of mistletoe]]), [[explorers-pack-xphb|Explorer's Pack]], and 7 GP; or (B) 150 GP
 
 ## Multiclassing Ranger
 
-- **Skill Proficiencies**: *Choose 1:* [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 1:* [[skills#Animal%20Handling|Animal Handling]], [[skills#Athletics|Athletics]], [[skills#Insight|Insight]], [[skills#Investigation|Investigation]], [[skills#Nature|Nature]], [[skills#Perception|Perception]], [[skills#Stealth|Stealth]], or [[skills#Survival|Survival]]
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-xphb|Shields]]
 
 ## Ranger
 
@@ -78,11 +78,11 @@ You have learned to channel the magical essence of nature to cast spells. See "c
 
 #### Spell Slots
 
-The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[long-rest-xphb|Long Rest]].
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. [Cure Wounds](Compendium/spells/cure-wounds-xphb.md) and [Ensnaring Strike](Compendium/spells/ensnaring-strike-xphb.md) are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. [[cure-wounds-xphb|Cure Wounds]] and [[ensnaring-strike-xphb|Ensnaring Strike]] are recommended.
 
 The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
 
@@ -90,7 +90,7 @@ If another Ranger feature gives you spells that you always have prepared, those 
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can replace one spell on your list with another Ranger spell for which you have spell slots.
+Whenever you finish a [[long-rest-xphb|Long Rest]], you can replace one spell on your list with another Ranger spell for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -98,19 +98,19 @@ Wisdom is your spellcasting ability for your Ranger spells.
 
 #### Spellcasting Focus
 
-You can use a [Druidic Focus](Compendium/items/druidic-focus-xphb.md) as a [Spellcasting Focus](Compendium/rules/variant-rules/spellcasting-focus-xphb.md) for your Ranger spells.
+You can use a [[druidic-focus-xphb|Druidic Focus]] as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your Ranger spells.
 
 ### Favored Enemy (Level 1)
 
-You always have the [Hunter's Mark](Compendium/spells/hunters-mark-xphb.md) spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You always have the [[hunters-mark-xphb|Hunter's Mark]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [[long-rest-xphb|Long Rest]].
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [mastery properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of weapons of your choice with which you have proficiency, such as [Longbows](Compendium/items/longbow-xphb.md) and [Shortswords](Compendium/items/shortsword-xphb.md).
+Your training with weapons allows you to use the [[weapon-mastery-properties-xphb|mastery properties]] of two kinds of weapons of your choice with which you have proficiency, such as [[longbow-xphb|Longbows]] and [[shortsword-xphb|Shortswords]].
 
-Whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md) of [Scimitars](Compendium/items/scimitar-xphb.md) and [Longswords](Compendium/items/longsword-xphb.md).
+Whenever you finish a [[long-rest-xphb|Long Rest]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb|mastery properties]] of [[scimitar-xphb|Scimitars]] and [[longsword-xphb|Longswords]].
 
 ### Deft Explorer (Level 2)
 
@@ -118,7 +118,7 @@ Thanks to your travels, you gain the following benefits.
 
 #### Expertise
 
-Choose one of your skill proficiencies with which you lack [Expertise](Compendium/rules/variant-rules/expertise-xphb.md). You gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in that skill.
+Choose one of your skill proficiencies with which you lack [[expertise-xphb|Expertise]]. You gain [[expertise-xphb|Expertise]] in that skill.
 
 #### Languages
 
@@ -134,15 +134,15 @@ You gain a Ranger subclass of your choice. A subclass is a specialization that g
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [[actions#Attack|Attack]] action on your turn.
 
 ### Roving (Level 6)
 
-Your [Speed](Compendium/rules/variant-rules/speed-xphb.md) increases by 10 feet while you aren't wearing Heavy armor. You also have a [Climb Speed](Compendium/rules/variant-rules/climb-speed-xphb.md) and a [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](Compendium/rules/variant-rules/speed-xphb.md).
+Your [[speed-xphb|Speed]] increases by 10 feet while you aren't wearing Heavy armor. You also have a [[climb-speed-xphb|Climb Speed]] and a [[swim-speed-xphb|Swim Speed]] equal to your [[speed-xphb|Speed]].
 
 ### Subclass Feature (Level 7)
 
@@ -150,11 +150,11 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Expertise (Level 9)
 
-Choose two of your skill proficiencies with which you lack [Expertise](Compendium/rules/variant-rules/expertise-xphb.md). You gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in those skills.
+Choose two of your skill proficiencies with which you lack [[expertise-xphb|Expertise]]. You gain [[expertise-xphb|Expertise]] in those skills.
 
 ### Tireless (Level 10)
 
@@ -162,11 +162,11 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 #### Temporary Hit Points
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can give yourself a number of [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to `1d8` plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+As a [[actions#Magic|Magic]] action, you can give yourself a number of [[temporary-hit-points-xphb|Temporary Hit Points]] equal to `1d8` plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
 #### Decrease Exhaustion
 
-Whenever you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md), your [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level, if any, decreases by 1.
+Whenever you finish a [[short-rest-xphb|Short Rest]], your [[conditions#Exhaustion|Exhaustion]] level, if any, decreases by 1.
 
 ### Subclass Feature (Level 11)
 
@@ -174,17 +174,17 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Relentless Hunter (Level 13)
 
-Taking damage can't break your [Concentration](Compendium/rules/conditions.md#Concentration) on Hunter's Mark.
+Taking damage can't break your [[conditions#Concentration|Concentration]] on Hunter's Mark.
 
 ### Nature's Veil (Level 14)
 
-You invoke spirits of nature to magically hide yourself. As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can give yourself the [Invisible](Compendium/rules/conditions.md#Invisible) condition until the end of your next turn.
+You invoke spirits of nature to magically hide yourself. As a [[bonus-action-xphb|Bonus Action]], you can give yourself the [[conditions#Invisible|Invisible]] condition until the end of your next turn.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
 ### Subclass Feature (Level 15)
 
@@ -192,19 +192,19 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Precise Hunter (Level 17)
 
-You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against the creature currently marked by your Hunter's Mark.
+You have [[advantage-xphb|Advantage]] on attack rolls against the creature currently marked by your Hunter's Mark.
 
 ### Feral Senses (Level 18)
 
-Your connection to the forces of nature grants you [Blindsight](Compendium/rules/senses.md#Blindsight) with a range of 30 feet.
+Your connection to the forces of nature grants you [[senses#Blindsight|Blindsight]] with a range of 30 feet.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](Compendium/feats/boon-of-dimensional-travel-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[boon-of-dimensional-travel-xphb|Boon of Dimensional Travel]] is recommended.
 
 ### Foe Slayer (Level 20)
 

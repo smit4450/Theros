@@ -27,10 +27,10 @@ aliases: ["Healing Word"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-A creature of your choice that you can see within range regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to `2d4` plus your spellcasting ability modifier.
+A creature of your choice that you can see within range regains [[hit-points-xphb|Hit Points]] equal to `2d4` plus your spellcasting ability modifier.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `2d4` for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

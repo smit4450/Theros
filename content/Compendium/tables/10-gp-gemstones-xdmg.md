@@ -15,16 +15,16 @@ aliases:
 
 | dice: 1d12 | Stone |
 |------------|-------|
-| 1 | [Azurite](Compendium/items/azurite-xdmg.md) (mottled deep blue) |
-| 2 | [Banded agate](Compendium/items/banded-agate-xdmg.md) (striped brown, blue, white, or red) |
-| 3 | [Blue quartz](Compendium/items/blue-quartz-xdmg.md) (pale blue) |
-| 4 | [Eye agate](Compendium/items/eye-agate-xdmg.md) (circles of gray, white, brown, blue, or green) |
-| 5 | [Hematite](Compendium/items/hematite-xdmg.md) (gray black) |
-| 6 | [Lapis lazuli](Compendium/items/lapis-lazuli-xdmg.md) (light and dark blue with yellow flecks) |
-| 7 | [Malachite](Compendium/items/malachite-xdmg.md) (striated light and dark green) |
-| 8 | [Moss agate](Compendium/items/moss-agate-xdmg.md) (pink or yellow white with mossy gray or green markings) |
-| 9 | [Obsidian](Compendium/items/obsidian-xdmg.md) (black) |
-| 10 | [Rhodochrosite](Compendium/items/rhodochrosite-xdmg.md) (light pink) |
-| 11 | [Tiger eye](Compendium/items/tiger-eye-xdmg.md) (brown with golden center) |
-| 12 | [Turquoise](Compendium/items/turquoise-xdmg.md) (light blue green) |
+| 1 | [[azurite-xdmg|Azurite]] (mottled deep blue) |
+| 2 | [[banded-agate-xdmg|Banded agate]] (striped brown, blue, white, or red) |
+| 3 | [[blue-quartz-xdmg|Blue quartz]] (pale blue) |
+| 4 | [[eye-agate-xdmg|Eye agate]] (circles of gray, white, brown, blue, or green) |
+| 5 | [[hematite-xdmg|Hematite]] (gray black) |
+| 6 | [[lapis-lazuli-xdmg|Lapis lazuli]] (light and dark blue with yellow flecks) |
+| 7 | [[malachite-xdmg|Malachite]] (striated light and dark green) |
+| 8 | [[moss-agate-xdmg|Moss agate]] (pink or yellow white with mossy gray or green markings) |
+| 9 | [[obsidian-xdmg|Obsidian]] (black) |
+| 10 | [[rhodochrosite-xdmg|Rhodochrosite]] (light pink) |
+| 11 | [[tiger-eye-xdmg|Tiger eye]] (brown with golden center) |
+| 12 | [[turquoise-xdmg|Turquoise]] (light blue green) |
 ^10-gp-gemstones

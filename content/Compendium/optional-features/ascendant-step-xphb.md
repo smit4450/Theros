@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Level 5
 
-You can cast [Levitate](Compendium/spells/levitate-xphb.md) on yourself without expending a spell slot.
+You can cast [[levitate-xphb|Levitate]] on yourself without expending a spell slot.

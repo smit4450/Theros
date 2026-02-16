@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Fighting Style Feature
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to interpose your [Shield](Compendium/items/shield-xphb.md) if you're holding one. You impose [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a [[reaction-xphb|Reaction]] to interpose your [[shield-xphb|Shield]] if you're holding one. You impose [[disadvantage-xphb|Disadvantage]] on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.

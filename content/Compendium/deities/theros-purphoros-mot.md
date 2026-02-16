@@ -144,7 +144,7 @@ Your piety score to Purphoros decreases if you diminish Purphoros's influence in
 
 ### Benefits of Piety
 
-- [Purphoros's Devotee](Compendium/rewards/purphoross-devotee-mot.md)  
-- [Purphoros's Votary](Compendium/rewards/purphoross-votary-mot.md)  
-- [Purphoros's Disciple](Compendium/rewards/purphoross-disciple-mot.md)  
-- [Champion of the Forge](Compendium/rewards/champion-of-the-forge-mot.md)
+- [[purphoross-devotee-mot|Purphoros's Devotee]]  
+- [[purphoross-votary-mot|Purphoros's Votary]]  
+- [[purphoross-disciple-mot|Purphoros's Disciple]]  
+- [[champion-of-the-forge-mot|Champion of the Forge]]

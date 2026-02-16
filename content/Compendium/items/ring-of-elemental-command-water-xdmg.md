@@ -17,17 +17,17 @@ aliases:
 
 The Ring of Elemental Command (water) is linked to the Elemental Plane of Water. Every Ring of Elemental Command has the following two properties:
 
-- **Elemental Bane.** While wearing the ring, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against Elementals and they have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against you.  
-- **Elemental Compulsion.** While wearing the ring, you can take a [Magic](Compendium/rules/actions.md#Magic) action to try to compel an Elemental you see within 60 feet of yourself. The Elemental makes a DC 18 Wisdom saving throw. On a failed save, the Elemental has the [Charmed](Compendium/rules/conditions.md#Charmed) condition until the start your next turn, and you determine what it does with its move and action on its next turn.  
+- **Elemental Bane.** While wearing the ring, you have [[advantage-xphb|Advantage]] on attack rolls against Elementals and they have [[disadvantage-xphb|Disadvantage]] on attack rolls against you.  
+- **Elemental Compulsion.** While wearing the ring, you can take a [[actions#Magic|Magic]] action to try to compel an Elemental you see within 60 feet of yourself. The Elemental makes a DC 18 Wisdom saving throw. On a failed save, the Elemental has the [[conditions#Charmed|Charmed]] condition until the start your next turn, and you determine what it does with its move and action on its next turn.  
 
 ## Elemental Focus
 
 While wearing the ring, you benefit from additional properties corresponding to the ring's linked Elemental Plane:
 
-- **Water.** You know Aquan, you gain a [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md) of 60 feet, and you can breathe underwater.  
+- **Water.** You know Aquan, you gain a [[swim-speed-xphb|Swim Speed]] of 60 feet, and you can breathe underwater.  
 
 ## Spellcasting
 
-The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [Create or Destroy Water](Compendium/spells/create-or-destroy-water-xphb.md) (1 charge), [Ice Storm](Compendium/spells/ice-storm-xphb.md) (2 charges), [Tsunami](Compendium/spells/tsunami-xphb.md) (5 charges), [Wall of Ice](Compendium/spells/wall-of-ice-xphb.md) (3 charges), [Water Walk](Compendium/spells/water-walk-xphb.md) (2 charges)
+The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[create-or-destroy-water-xphb|Create or Destroy Water]] (1 charge), [[ice-storm-xphb|Ice Storm]] (2 charges), [[tsunami-xphb|Tsunami]] (5 charges), [[wall-of-ice-xphb|Wall of Ice]] (3 charges), [[water-walk-xphb|Water Walk]] (2 charges)
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

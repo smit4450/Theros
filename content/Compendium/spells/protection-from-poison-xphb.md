@@ -30,8 +30,8 @@ aliases: ["Protection from Poison"]
 - **Components:** V, S
 - **Duration:** 1 hour
 
-You touch a creature and end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition on it. For the duration, the target has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition, and it has [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Poison damage.
+You touch a creature and end the [[conditions#Poisoned|Poisoned]] condition on it. For the duration, the target has [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition, and it has [[resistance-xphb|Resistance]] to Poison damage.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-ranger|Ranger]]
 
 *Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

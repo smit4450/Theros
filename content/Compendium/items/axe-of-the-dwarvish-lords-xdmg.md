@@ -12,14 +12,14 @@ aliases:
 - "Axe of the Dwarvish Lords"
 ---
 # Axe of the Dwarvish Lords
-*Weapon ([battleaxe](Compendium/items/battleaxe-xphb.md)), artifact (requires attunement)*  
+*Weapon ([[battleaxe-xphb|battleaxe]]), artifact (requires attunement)*  
 ![](Compendium/items/img/axe-of-the-dwarvish-lords.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
 - **Range**: 20/60
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 A young dwarf prince set out to forge a weapon that would be regarded as a symbol of unity among his people. Venturing deep under the mountains, deeper than any dwarf had ever delved, the prince came to the blazing heart of a great volcano. With the aid of Moradin, a god of creation, he first crafted four mighty tools: the Starmetal Pick, the Earthheart Forge, the Anvil of Songs, and the Shaping Hammer. With these tools, he forged the Axe of the Dwarvish Lords.
@@ -34,33 +34,33 @@ The Axe of the Dwarvish Lords is a magic weapon that grants a +3 bonus to attack
 
 When you attack a creature with the axe and roll a 20 on the `d20` for the attack roll, the axe deals an extra 20 Slashing damage.
 
-The axe has [Thrown](Compendium/rules/item-properties.md#Thrown) with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra `1d8` Force damage, or an extra `2d8` Force damage if the target is a creature of the Giant type. Immediately after hitting or missing, the weapon flies back to your hand.
+The axe has [[item-properties#Thrown|Thrown]] with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra `1d8` Force damage, or an extra `2d8` Force damage if the target is a creature of the Giant type. Immediately after hitting or missing, the weapon flies back to your hand.
 
 ## Blessings of Moradin
 
 While attuned to the axe, you gain the following benefits:
 
-- **Darkvision.** You gain [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Compendium/rules/senses.md#Darkvision), its range increases by 60 feet.  
+- **Darkvision.** You gain [[senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[senses#Darkvision|Darkvision]], its range increases by 60 feet.  
 - **Fortitude of Stone.** Your Constitution increases by 2, to a maximum of 20.  
-- **Gifts of the Creator.** You have proficiency with [Brewer's Supplies](Compendium/items/brewers-supplies-xphb.md), [Mason's Tools](Compendium/items/masons-tools-xphb.md), and [Smith's Tools](Compendium/items/smiths-tools-xphb.md).  
-- **One with the Forge.** You have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Poison damage and [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Fire damage.  
+- **Gifts of the Creator.** You have proficiency with [[brewers-supplies-xphb|Brewer's Supplies]], [[masons-tools-xphb|Mason's Tools]], and [[smiths-tools-xphb|Smith's Tools]].  
+- **One with the Forge.** You have [[immunity-xphb|Immunity]] to Poison damage and [[resistance-xphb|Resistance]] to Fire damage.  
 - **Sunder.** When you hit an object with the axe, the object takes the maximum amount of damage possible.  
 
 ## Conjure Earth Elemental
 
-While holding the axe, you can take a [Magic](Compendium/rules/actions.md#Magic) action to summon an [Earth Elemental](Compendium/bestiary/elemental/earth-elemental-xmm.md). It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md). You can't use this property again until the next dawn.
+While holding the axe, you can take a [[actions#Magic|Magic]] action to summon an [[earth-elemental-xmm|Earth Elemental]]. It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative-xphb|Initiative]] count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [[bonus-action-xphb|Bonus Action]]. You can't use this property again until the next dawn.
 
 ## Random Properties
 
 The axe has the following random properties:
 
-- 2 [minor beneficial](Compendium/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
-- 1 [major beneficial](Compendium/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 2 [minor detrimental](Compendium/tables/artifact-properties-minor-detrimental-properties-xdmg.md) properties  
+- 2 [[artifact-properties-minor-beneficial-properties-xdmg|minor beneficial]] properties  
+- 1 [[artifact-properties-major-beneficial-properties-xdmg|major beneficial]] property  
+- 2 [[artifact-properties-minor-detrimental-properties-xdmg|minor detrimental]] properties  
 
 ## Travel the Depths
 
-You can take a [Magic](Compendium/rules/actions.md#Magic) action to touch the axe to a fixed piece of dwarven stonework and cast [Teleport](Compendium/spells/teleport-xphb.md) from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
+You can take a [[actions#Magic|Magic]] action to touch the axe to a fixed piece of dwarven stonework and cast [[teleport-xphb|Teleport]] from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
 
 ## Destroying the Axe
 

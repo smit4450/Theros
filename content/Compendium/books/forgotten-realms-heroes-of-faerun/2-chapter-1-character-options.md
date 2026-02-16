@@ -31,7 +31,7 @@ Throughout an aasimar's life, they frequently receive visions, prophetic dreams,
 
 #### Celestial Patrons
 
-Many aasimar are found or adopted by followers of a good deity, such as angels or animal lords—or even by a good deity themself. Their connection to this celestial being informs the aasimar's life separate from the culture into which they were born. Corellon, [Eilistraee](Compendium/deities/faerunian-eilistraee-frhof.md), [Lliira](Compendium/deities/faerunian-lliira-frhof.md), [Milil](Compendium/deities/faerunian-milil-frhof.md), and [Selûne](Compendium/deities/faerunian-selune-frhof.md) are frequently patrons of aasimar.
+Many aasimar are found or adopted by followers of a good deity, such as angels or animal lords—or even by a good deity themself. Their connection to this celestial being informs the aasimar's life separate from the culture into which they were born. Corellon, [[faerunian-eilistraee-frhof|Eilistraee]], [[faerunian-lliira-frhof|Lliira]], [[faerunian-milil-frhof|Milil]], and [[faerunian-selune-frhof|Selûne]] are frequently patrons of aasimar.
 
 In the Old Empires, where gods and demigods rule openly, aasimars are more common. The current generation of aasimar often trace their lineage to a mortal specially chosen to serve a good deity. Many aasimar wander the realms, eventually gravitating to a great city such as Waterdeep, Baldur's Gate, or Calimshan, where their unusual nature isn't particularly remarkable.
 
@@ -97,7 +97,7 @@ Wood elves, known also as copper elves, are a grounded, practical people. They v
 
 #### Drow
 
-Faerûn's drow have a long history of association with [Lolth](Compendium/deities/faerunian-lolth-frhof.md), and their greatest city is infamous Menzoberranzan, in the Underdark. Drow not affiliated with Lolth can increasingly be found living peacefully among other folk in the North, the Dalelands, and other areas with ready access to the Underdark.
+Faerûn's drow have a long history of association with [[faerunian-lolth-frhof|Lolth]], and their greatest city is infamous Menzoberranzan, in the Underdark. Drow not affiliated with Lolth can increasingly be found living peacefully among other folk in the North, the Dalelands, and other areas with ready access to the Underdark.
 
 ### Gnomes
 
@@ -147,7 +147,7 @@ Halflings of Faerûn call themselves hin. Perhaps more than any other species in
 
 #### Surrounded by Big Folk
 
-Halfling history is colored by the constant presence of bigger, threatening species that surround halfling communities. While some folk might turn inward in the face of constant threat, halfling tradition is to embrace the cultures of larger neighbors, befriending them and blending in. [History](Compendium/rules/skills.md#History) teaches that eventually halflings become inconspicuous, and in this way halfling communities survive and thrive.
+Halfling history is colored by the constant presence of bigger, threatening species that surround halfling communities. While some folk might turn inward in the face of constant threat, halfling tradition is to embrace the cultures of larger neighbors, befriending them and blending in. [[skills#History|History]] teaches that eventually halflings become inconspicuous, and in this way halfling communities survive and thrive.
 
 #### Lightfoots and Stronghearts
 
@@ -199,7 +199,7 @@ But orcs are nothing if not resilient. A new King of Many-Arrows has arisen, unr
 
 Fiends have influenced Faerûn since its earliest history, and where there have been fiends, there are tieflings.
 
-Tieflings with an infernal legacy usually trace their history to the Spellplague. During that disaster, [Asmodeus](Compendium/deities/faerunian-asmodeus-frhof.md) attempted to make every tiefling in Faerûn his servant by performing a ritual that cursed them with an infernal appearance called the Mark of Asmodeus. Asmodeus's gambit ultimately failed, but infernal tieflings remain the most common tiefling lineage in Faerûn.
+Tieflings with an infernal legacy usually trace their history to the Spellplague. During that disaster, [[faerunian-asmodeus-frhof|Asmodeus]] attempted to make every tiefling in Faerûn his servant by performing a ritual that cursed them with an infernal appearance called the Mark of Asmodeus. Asmodeus's gambit ultimately failed, but infernal tieflings remain the most common tiefling lineage in Faerûn.
 
 #### Life among Others
 
@@ -217,28 +217,28 @@ This does little to help those tiefling children recently born in Elturel to par
 
 This chapter presents eight new subclasses that are particularly appropriate for characters in the Forgotten Realms:
 
-[College of the Moon](Compendium/classes/bard-xphb-college-of-the-moon-frhof.md): A Bard trained by druids of the Moonshae Isles, with a special connection to local folktales and mysterious shrines called moonwells  
-[Knowledge Domain](Compendium/classes/cleric-xphb-knowledge-domain-frhof.md): A Cleric of [Gond](Compendium/deities/faerunian-gond-frhof.md), [Mystra](Compendium/deities/faerunian-mystra-frhof.md), [Oghma](Compendium/deities/faerunian-oghma-frhof.md), [Selûne](Compendium/deities/faerunian-selune-frhof.md), or another deity who values knowledge, craft, or secrets  
-[Banneret](Compendium/classes/fighter-xphb-banneret-frhof.md): A Fighter who leads others into battle  
-[Oath of the Noble Genies](Compendium/classes/paladin-xphb-oath-of-the-noble-genies-frhof.md): A Paladin empowered by the elemental magic of the genies of Calimshan  
-[Winter Walker](Compendium/classes/ranger-xphb-winter-walker-frhof.md): A Ranger of the North, wielding magic of cold and ice  
-[Scion of the Three](Compendium/classes/rogue-xphb-scion-of-the-three-frhof.md): A Rogue who taps into the deadly power of three evil gods—[Bane](Compendium/deities/faerunian-bane-frhof.md), [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), and [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md)  
-[Spellfire Sorcery](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md): A Sorcerer born with the ability to manipulate spellfire  
-[Bladesinger](Compendium/classes/wizard-xphb-bladesinger-frhof.md): A Wizard who has mastered an ancient elven technique of magical combat  
+[[bard-xphb-college-of-the-moon-frhof|College of the Moon]]: A Bard trained by druids of the Moonshae Isles, with a special connection to local folktales and mysterious shrines called moonwells  
+[[cleric-xphb-knowledge-domain-frhof|Knowledge Domain]]: A Cleric of [[faerunian-gond-frhof|Gond]], [[faerunian-mystra-frhof|Mystra]], [[faerunian-oghma-frhof|Oghma]], [[faerunian-selune-frhof|Selûne]], or another deity who values knowledge, craft, or secrets  
+[[fighter-xphb-banneret-frhof|Banneret]]: A Fighter who leads others into battle  
+[[paladin-xphb-oath-of-the-noble-genies-frhof|Oath of the Noble Genies]]: A Paladin empowered by the elemental magic of the genies of Calimshan  
+[[ranger-xphb-winter-walker-frhof|Winter Walker]]: A Ranger of the North, wielding magic of cold and ice  
+[[rogue-xphb-scion-of-the-three-frhof|Scion of the Three]]: A Rogue who taps into the deadly power of three evil gods—[[faerunian-bane-frhof|Bane]], [[faerunian-bhaal-frhof|Bhaal]], and [[faerunian-myrkul-frhof|Myrkul]]  
+[[sorcerer-xphb-spellfire-sorcery-frhof|Spellfire Sorcery]]: A Sorcerer born with the ability to manipulate spellfire  
+[[wizard-xphb-bladesinger-frhof|Bladesinger]]: A Wizard who has mastered an ancient elven technique of magical combat  
 
 ## Backgrounds
 
 This section presents eighteen new backgrounds for characters from Faerûn. These backgrounds are presented in alphabetical order.
 
-Ten of these new backgrounds correspond to regions of the Forgotten Realms described in "chapter 2"; these backgrounds are listed in the "Regional Backgrounds" table. Not every character from a given region needs to take a given background. For example, not all residents of Mulhorand are tomb raiders. Conversely, you might find a given background a good fit for your character even if the character isn't from the designated region. For example, the [Chondathan Freebooter](Compendium/backgrounds/chondathan-freebooter-frhof.md) background is a good fit for many pirate characters from any region.
+Ten of these new backgrounds correspond to regions of the Forgotten Realms described in "chapter 2"; these backgrounds are listed in the "Regional Backgrounds" table. Not every character from a given region needs to take a given background. For example, not all residents of Mulhorand are tomb raiders. Conversely, you might find a given background a good fit for your character even if the character isn't from the designated region. For example, the [[chondathan-freebooter-frhof|Chondathan Freebooter]] background is a good fit for many pirate characters from any region.
 
 Seven of these backgrounds are related to factions described in "chapter 6"; these backgrounds are listed in the "Faction Backgrounds" table. These backgrounds describe the training associated with a faction but aren't required for affiliation or membership with that faction.
 
-Finally, the [Spellfire Initiate](Compendium/backgrounds/spellfire-initiate-frhof.md) background represents characters born with the ability to manipulate spellfire, which is described in "chapter 5". This background, along with the related feats later in this chapter, can represent a character of any class with a talent for spellfire. Sorcerer characters with this background might also choose the [Spellfire Sorcery](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md) subclass presented earlier in this chapter.
+Finally, the [[spellfire-initiate-frhof|Spellfire Initiate]] background represents characters born with the ability to manipulate spellfire, which is described in "chapter 5". This background, along with the related feats later in this chapter, can represent a character of any class with a talent for spellfire. Sorcerer characters with this background might also choose the [[sorcerer-xphb-spellfire-sorcery-frhof|Spellfire Sorcery]] subclass presented earlier in this chapter.
 
-![Regional Backgrounds](Compendium/tables/regional-backgrounds-frhof.md)
+![[regional-backgrounds-frhof|Regional Backgrounds]]
 
-![Faction Backgrounds](Compendium/tables/faction-backgrounds-frhof.md)
+![[faction-backgrounds-frhof|Faction Backgrounds]]
 
 ![](Compendium/books/forgotten-realms-heroes-of-faerun/img/018-01-016-purple-dragon.webp#center)
 
@@ -250,54 +250,54 @@ This section's feats are organized by category—Origin, General, or Epic Boon�
 
 | Feat | Category |
 |------|----------|
-| [Boon of Bloodshed](Compendium/feats/boon-of-bloodshed-frhof.md) | Epic Boon |
-| [Boon of Bountiful Health](Compendium/feats/boon-of-bountiful-health-frhof.md) | Epic Boon |
-| [Boon of Communication](Compendium/feats/boon-of-communication-frhof.md) | Epic Boon |
-| [Boon of Desperate Resilience](Compendium/feats/boon-of-desperate-resilience-frhof.md) | Epic Boon |
-| [Boon of Exquisite Radiance](Compendium/feats/boon-of-exquisite-radiance-frhof.md) | Epic Boon |
-| [Boon of Fluid Forms](Compendium/feats/boon-of-fluid-forms-frhof.md) | Epic Boon |
-| [Boon of Fortune's Favor](Compendium/feats/boon-of-fortunes-favor-frhof.md) | Epic Boon |
-| [Boon of Poison Mastery](Compendium/feats/boon-of-poison-mastery-frhof.md) | Epic Boon |
-| [Boon of Revelry](Compendium/feats/boon-of-revelry-frhof.md) | Epic Boon |
-| [Boon of Terror](Compendium/feats/boon-of-terror-frhof.md) | Epic Boon |
-| [Boon of the Bright Sun](Compendium/feats/boon-of-the-bright-sun-frhof.md) | Epic Boon |
-| [Boon of the Furious Storm](Compendium/feats/boon-of-the-furious-storm-frhof.md) | Epic Boon |
-| [Boon of the Soul Drinker](Compendium/feats/boon-of-the-soul-drinker-frhof.md) | Epic Boon |
-| [Cold Caster](Compendium/feats/cold-caster-frhof.md) | General |
-| [Cult of the Dragon Initiate](Compendium/feats/cult-of-the-dragon-initiate-frhof.md) | Origin |
-| [Dragonscarred](Compendium/feats/dragonscarred-frhof.md) | General |
-| [Emerald Enclave Fledgling](Compendium/feats/emerald-enclave-fledgling-frhof.md) | Origin |
-| [Enclave Magic](Compendium/feats/enclave-magic-frhof.md) | General |
-| [Fairy Trickster](Compendium/feats/fairy-trickster-frhof.md) | General |
-| [Genie Magic](Compendium/feats/genie-magic-frhof.md) | General |
-| [Harper Agent](Compendium/feats/harper-agent-frhof.md) | Origin |
-| [Harper Teamwork](Compendium/feats/harper-teamwork-frhof.md) | General |
-| [Lordly Resolve](Compendium/feats/lordly-resolve-frhof.md) | General |
-| [Lords' Alliance Agent](Compendium/feats/lords-alliance-agent-frhof.md) | Origin |
-| [Mythal Touched](Compendium/feats/mythal-touched-frhof.md) | General |
-| [Order's Resilience](Compendium/feats/orders-resilience-frhof.md) | General |
-| [Purple Dragon Commandant](Compendium/feats/purple-dragon-commandant-frhof.md) | General |
-| [Purple Dragon Rook](Compendium/feats/purple-dragon-rook-frhof.md) | Origin |
-| [Spellfire Adept](Compendium/feats/spellfire-adept-frhof.md) | General |
-| [Spellfire Spark](Compendium/feats/spellfire-spark-frhof.md) | Origin |
-| [Street Justice](Compendium/feats/street-justice-frhof.md) | General |
-| [Tyro of the Gauntlet](Compendium/feats/tyro-of-the-gauntlet-frhof.md) | Origin |
-| [Zhentarim Ruffian](Compendium/feats/zhentarim-ruffian-frhof.md) | Origin |
-| [Zhentarim Tactics](Compendium/feats/zhentarim-tactics-frhof.md) | General |
+| [[boon-of-bloodshed-frhof|Boon of Bloodshed]] | Epic Boon |
+| [[boon-of-bountiful-health-frhof|Boon of Bountiful Health]] | Epic Boon |
+| [[boon-of-communication-frhof|Boon of Communication]] | Epic Boon |
+| [[boon-of-desperate-resilience-frhof|Boon of Desperate Resilience]] | Epic Boon |
+| [[boon-of-exquisite-radiance-frhof|Boon of Exquisite Radiance]] | Epic Boon |
+| [[boon-of-fluid-forms-frhof|Boon of Fluid Forms]] | Epic Boon |
+| [[boon-of-fortunes-favor-frhof|Boon of Fortune's Favor]] | Epic Boon |
+| [[boon-of-poison-mastery-frhof|Boon of Poison Mastery]] | Epic Boon |
+| [[boon-of-revelry-frhof|Boon of Revelry]] | Epic Boon |
+| [[boon-of-terror-frhof|Boon of Terror]] | Epic Boon |
+| [[boon-of-the-bright-sun-frhof|Boon of the Bright Sun]] | Epic Boon |
+| [[boon-of-the-furious-storm-frhof|Boon of the Furious Storm]] | Epic Boon |
+| [[boon-of-the-soul-drinker-frhof|Boon of the Soul Drinker]] | Epic Boon |
+| [[cold-caster-frhof|Cold Caster]] | General |
+| [[cult-of-the-dragon-initiate-frhof|Cult of the Dragon Initiate]] | Origin |
+| [[dragonscarred-frhof|Dragonscarred]] | General |
+| [[emerald-enclave-fledgling-frhof|Emerald Enclave Fledgling]] | Origin |
+| [[enclave-magic-frhof|Enclave Magic]] | General |
+| [[fairy-trickster-frhof|Fairy Trickster]] | General |
+| [[genie-magic-frhof|Genie Magic]] | General |
+| [[harper-agent-frhof|Harper Agent]] | Origin |
+| [[harper-teamwork-frhof|Harper Teamwork]] | General |
+| [[lordly-resolve-frhof|Lordly Resolve]] | General |
+| [[lords-alliance-agent-frhof|Lords' Alliance Agent]] | Origin |
+| [[mythal-touched-frhof|Mythal Touched]] | General |
+| [[orders-resilience-frhof|Order's Resilience]] | General |
+| [[purple-dragon-commandant-frhof|Purple Dragon Commandant]] | General |
+| [[purple-dragon-rook-frhof|Purple Dragon Rook]] | Origin |
+| [[spellfire-adept-frhof|Spellfire Adept]] | General |
+| [[spellfire-spark-frhof|Spellfire Spark]] | Origin |
+| [[street-justice-frhof|Street Justice]] | General |
+| [[tyro-of-the-gauntlet-frhof|Tyro of the Gauntlet]] | Origin |
+| [[zhentarim-ruffian-frhof|Zhentarim Ruffian]] | Origin |
+| [[zhentarim-tactics-frhof|Zhentarim Tactics]] | General |
 ^feat-list
 
 ## Origin Feats
 
 These feats are in the Origin category.
 
-- [Cult of the Dragon Initiate](Compendium/feats/cult-of-the-dragon-initiate-frhof.md)  
-- [Emerald Enclave Fledgling](Compendium/feats/emerald-enclave-fledgling-frhof.md)  
-- [Harper Agent](Compendium/feats/harper-agent-frhof.md)  
-- [Lords' Alliance Agent](Compendium/feats/lords-alliance-agent-frhof.md)  
-- [Purple Dragon Rook](Compendium/feats/purple-dragon-rook-frhof.md)  
-- [Spellfire Spark](Compendium/feats/spellfire-spark-frhof.md)  
-- [Tyro of the Gauntlet](Compendium/feats/tyro-of-the-gauntlet-frhof.md)  
-- [Zhentarim Ruffian](Compendium/feats/zhentarim-ruffian-frhof.md)  
+- [[cult-of-the-dragon-initiate-frhof|Cult of the Dragon Initiate]]  
+- [[emerald-enclave-fledgling-frhof|Emerald Enclave Fledgling]]  
+- [[harper-agent-frhof|Harper Agent]]  
+- [[lords-alliance-agent-frhof|Lords' Alliance Agent]]  
+- [[purple-dragon-rook-frhof|Purple Dragon Rook]]  
+- [[spellfire-spark-frhof|Spellfire Spark]]  
+- [[tyro-of-the-gauntlet-frhof|Tyro of the Gauntlet]]  
+- [[zhentarim-ruffian-frhof|Zhentarim Ruffian]]  
 
 ![With her spell Simbul's Sy...](Compendium/books/forgotten-realms-heroes-of-faerun/img/037-01-035-spell-simbuls-synostodweomer.webp#center "With her spell Simbul's Synostodweomer, the Simbul protects her sister Dove Falconhand in battle")
 
@@ -305,19 +305,19 @@ These feats are in the Origin category.
 
 These feats are in the General category.
 
-- [Cold Caster](Compendium/feats/cold-caster-frhof.md)  
-- [Dragonscarred](Compendium/feats/dragonscarred-frhof.md)  
-- [Enclave Magic](Compendium/feats/enclave-magic-frhof.md)  
-- [Fairy Trickster](Compendium/feats/fairy-trickster-frhof.md)  
-- [Genie Magic](Compendium/feats/genie-magic-frhof.md)  
-- [Harper Teamwork](Compendium/feats/harper-teamwork-frhof.md)  
-- [Lordly Resolve](Compendium/feats/lordly-resolve-frhof.md)  
-- [Mythal Touched](Compendium/feats/mythal-touched-frhof.md)  
-- [Order's Resilience](Compendium/feats/orders-resilience-frhof.md)  
-- [Purple Dragon Commandant](Compendium/feats/purple-dragon-commandant-frhof.md)  
-- [Spellfire Adept](Compendium/feats/spellfire-adept-frhof.md)  
-- [Street Justice](Compendium/feats/street-justice-frhof.md)  
-- [Zhentarim Tactics](Compendium/feats/zhentarim-tactics-frhof.md)  
+- [[cold-caster-frhof|Cold Caster]]  
+- [[dragonscarred-frhof|Dragonscarred]]  
+- [[enclave-magic-frhof|Enclave Magic]]  
+- [[fairy-trickster-frhof|Fairy Trickster]]  
+- [[genie-magic-frhof|Genie Magic]]  
+- [[harper-teamwork-frhof|Harper Teamwork]]  
+- [[lordly-resolve-frhof|Lordly Resolve]]  
+- [[mythal-touched-frhof|Mythal Touched]]  
+- [[orders-resilience-frhof|Order's Resilience]]  
+- [[purple-dragon-commandant-frhof|Purple Dragon Commandant]]  
+- [[spellfire-adept-frhof|Spellfire Adept]]  
+- [[street-justice-frhof|Street Justice]]  
+- [[zhentarim-tactics-frhof|Zhentarim Tactics]]  
 
 ![Faerûn is home to adventurers great and small](Compendium/books/forgotten-realms-heroes-of-faerun/img/038-01-036-adventurers-great-and-small.webp#center)
 
@@ -325,16 +325,16 @@ These feats are in the General category.
 
 These are feats in the Epic Boon category.
 
-- [Boon of Bloodshed](Compendium/feats/boon-of-bloodshed-frhof.md)  
-- [Boon of Bountiful Health](Compendium/feats/boon-of-bountiful-health-frhof.md)  
-- [Boon of Communication](Compendium/feats/boon-of-communication-frhof.md)  
-- [Boon of Desperate Resilience](Compendium/feats/boon-of-desperate-resilience-frhof.md)  
-- [Boon of Exquisite Radiance](Compendium/feats/boon-of-exquisite-radiance-frhof.md)  
-- [Boon of Fluid Forms](Compendium/feats/boon-of-fluid-forms-frhof.md)  
-- [Boon of Fortune's Favor](Compendium/feats/boon-of-fortunes-favor-frhof.md)  
-- [Boon of Poison Mastery](Compendium/feats/boon-of-poison-mastery-frhof.md)  
-- [Boon of Revelry](Compendium/feats/boon-of-revelry-frhof.md)  
-- [Boon of Terror](Compendium/feats/boon-of-terror-frhof.md)  
-- [Boon of the Bright Sun](Compendium/feats/boon-of-the-bright-sun-frhof.md)  
-- [Boon of the Furious Storm](Compendium/feats/boon-of-the-furious-storm-frhof.md)  
-- [Boon of the Soul Drinker](Compendium/feats/boon-of-the-soul-drinker-frhof.md)
+- [[boon-of-bloodshed-frhof|Boon of Bloodshed]]  
+- [[boon-of-bountiful-health-frhof|Boon of Bountiful Health]]  
+- [[boon-of-communication-frhof|Boon of Communication]]  
+- [[boon-of-desperate-resilience-frhof|Boon of Desperate Resilience]]  
+- [[boon-of-exquisite-radiance-frhof|Boon of Exquisite Radiance]]  
+- [[boon-of-fluid-forms-frhof|Boon of Fluid Forms]]  
+- [[boon-of-fortunes-favor-frhof|Boon of Fortune's Favor]]  
+- [[boon-of-poison-mastery-frhof|Boon of Poison Mastery]]  
+- [[boon-of-revelry-frhof|Boon of Revelry]]  
+- [[boon-of-terror-frhof|Boon of Terror]]  
+- [[boon-of-the-bright-sun-frhof|Boon of the Bright Sun]]  
+- [[boon-of-the-furious-storm-frhof|Boon of the Furious Storm]]  
+- [[boon-of-the-soul-drinker-frhof|Boon of the Soul Drinker]]

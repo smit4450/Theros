@@ -24,8 +24,8 @@ While holding the wand, you can cast one of the spells (save DC 15) on the follo
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Command](Compendium/spells/command-xphb.md) ("flee" or "grovel" only) | 1 |
-| [Fear](Compendium/spells/fear-xphb.md) (60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md)) | 3 |
+| [[command-xphb|Command]] ("flee" or "grovel" only) | 1 |
+| [[fear-xphb|Fear]] (60-foot [[cone-area-of-effect-xphb|Cone]]) | 3 |
 ^spell-charge-cost
 
 ## Regaining Charges

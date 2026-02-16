@@ -30,8 +30,8 @@ You create linked teleportation portals. Choose two Large, unoccupied spaces on 
 
 The portals are two-dimensional glowing rings filled with mist that blocks sight. They hover inches from the ground and are perpendicular to it.
 
-A portal is open on only one side (you choose which). Anything entering the open side of a portal exits from the open side of the other portal as if the two were adjacent to each other. As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can change the facing of the open sides.
+A portal is open on only one side (you choose which). Anything entering the open side of a portal exits from the open side of the other portal as if the two were adjacent to each other. As a [[bonus-action-xphb|Bonus Action]], you can change the facing of the open sides.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 242*

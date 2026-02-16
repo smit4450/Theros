@@ -18,7 +18,7 @@ aliases:
 | 1 | The NPC is in disguise, concealing their identity or some aspect of their appearance. |
 | 2 | The NPC is currently planning, executing, or covering up a crime. |
 | 3 | The NPC (or their family) has been threatened with harm unless the NPC does something. |
-| 4 | The NPC is under a magical compulsion (perhaps a [Geas](Compendium/spells/geas-xphb.md) spell or some kind of curse) to behave in a certain way. |
+| 4 | The NPC is under a magical compulsion (perhaps a [[geas-xphb|Geas]] spell or some kind of curse) to behave in a certain way. |
 | 5 | The NPC is seriously ill or in terrible pain. |
 | 6 | The NPC feels responsible for someone's death or ill fortune. |
 | 7 | The NPC is on the brink of financial ruin. |

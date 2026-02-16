@@ -86,27 +86,24 @@ def process_file(filepath: Path) -> bool:
 
 
 def main():
-    """Main function to process all creature files."""
+    """Main function to process all markdown files in content directory."""
     script_dir = Path(__file__).parent
     repo_root = script_dir.parent
-    bestiary_dir = repo_root / 'content' / 'Compendium' / 'bestiary'
+    content_dir = repo_root / 'content'
     
-    print(f"Converting markdown links to wiki links in: {bestiary_dir}")
+    print(f"Converting markdown links to wiki links in: {content_dir}")
     print()
     
-    # Find all markdown files in bestiary
-    md_files = list(bestiary_dir.glob('**/*.md'))
+    # Find all markdown files in content directory
+    md_files = list(content_dir.glob('**/*.md'))
+    
+    # Filter out .obsidian directory and other system files
+    md_files = [f for f in md_files if '.obsidian' not in f.parts]
+    
     print(f"Found {len(md_files)} markdown files\n")
     
     modified_count = 0
     for filepath in sorted(md_files):
-        # Skip the index/summary files
-        if filepath.name in ['bestiary.md', 'undead.md', 'aberration.md', 'beast.md', 
-                             'celestial.md', 'construct.md', 'dragon.md', 'elemental.md',
-                             'fey.md', 'fiend.md', 'giant.md', 'humanoid.md', 'monstrosity.md',
-                             'ooze.md', 'plant.md', 'miscellaneous.md', 'npc.md']:
-            continue
-            
         if process_file(filepath):
             modified_count += 1
     

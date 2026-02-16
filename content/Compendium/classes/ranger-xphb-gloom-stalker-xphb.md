@@ -59,15 +59,15 @@ You have mastered the art of creating fearsome ambushes, granting you the follow
 
 #### Ambusher's Leap
 
-At the start of your first turn of each combat, your [Speed](Compendium/rules/variant-rules/speed-xphb.md) increases by 10 feet until the end of that turn.
+At the start of your first turn of each combat, your [[speed-xphb|Speed]] increases by 10 feet until the end of that turn.
 
 #### Dreadful Strike
 
-When you attack a creature and hit it with a weapon, you can deal an extra `2d6` Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+When you attack a creature and hit it with a weapon, you can deal an extra `2d6` Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
 #### Initiative Bonus
 
-When you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md), you can add your Wisdom modifier to the roll.
+When you roll [[initiative-xphb|Initiative]], you can add your Wisdom modifier to the roll.
 
 ### Gloom Stalker Spells (Level 3)
 
@@ -77,18 +77,18 @@ When you reach a Ranger level specified in the Gloom Stalker Spells table, you t
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [Disguise Self](Compendium/spells/disguise-self-xphb.md) |
-| 5th | [Rope Trick](Compendium/spells/rope-trick-xphb.md) |
-| 9th | [Fear](Compendium/spells/fear-xphb.md) |
-| 13th | [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md) |
-| 17th | [Seeming](Compendium/spells/seeming-xphb.md) |
+| 3rd | [[disguise-self-xphb|Disguise Self]] |
+| 5th | [[rope-trick-xphb|Rope Trick]] |
+| 9th | [[fear-xphb|Fear]] |
+| 13th | [[greater-invisibility-xphb|Greater Invisibility]] |
+| 17th | [[seeming-xphb|Seeming]] |
 ^gloom-stalker-spells
 
 ### Umbral Sight (Level 3)
 
-You gain [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Compendium/rules/senses.md#Darkvision) when you gain this feature, its range increases by 60 feet.
+You gain [[senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[senses#Darkvision|Darkvision]] when you gain this feature, its range increases by 60 feet.
 
-You are also adept at evading creatures that rely on [Darkvision](Compendium/rules/senses.md#Darkvision). While entirely in [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), you have the [Invisible](Compendium/rules/conditions.md#Invisible) condition to any creature that relies on [Darkvision](Compendium/rules/senses.md#Darkvision) to see you in that [Darkness](Compendium/rules/variant-rules/darkness-xphb.md).
+You are also adept at evading creatures that rely on [[senses#Darkvision|Darkvision]]. While entirely in [[darkness-xphb|Darkness]], you have the [[conditions#Invisible|Invisible]] condition to any creature that relies on [[senses#Darkvision|Darkvision]] to see you in that [[darkness-xphb|Darkness]].
 
 ### Iron Mind (Level 7)
 
@@ -104,8 +104,8 @@ You can make another attack with the same weapon against a different creature th
 
 #### Mass Fear
 
-The target and each creature within 10 feet of it must make a Wisdom saving throw against your spell save DC. On a failed save, a creature has the [Frightened](Compendium/rules/conditions.md#Frightened) condition until the start of your next turn.
+The target and each creature within 10 feet of it must make a Wisdom saving throw against your spell save DC. On a failed save, a creature has the [[conditions#Frightened|Frightened]] condition until the start of your next turn.
 
 ### Shadowy Dodge (Level 15)
 
-When a creature makes an attack roll against you, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to impose [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.
+When a creature makes an attack roll against you, you can take a [[reaction-xphb|Reaction]] to impose [[disadvantage-xphb|Disadvantage]] on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.

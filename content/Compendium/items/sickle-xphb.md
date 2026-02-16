@@ -15,7 +15,7 @@ aliases:
 ![](Compendium/items/img/sickle.webp#right)
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [[item-properties#Light|Light]]
 - **Cost**: 1 gp
 - **Weight**: 2.0 lbs.
 

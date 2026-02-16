@@ -23,7 +23,7 @@ aliases:
 
 
 
-A creature hit by this ammunition must succeed on a DC 10 Strength saving throw or have the [Prone](Compendium/rules/conditions.md#Prone) condition.
+A creature hit by this ammunition must succeed on a DC 10 Strength saving throw or have the [[conditions#Prone|Prone]] condition.
 
 **Variants**:
 - [Walloping Arrow](#Walloping%20Arrow)

@@ -16,6 +16,6 @@ aliases:
 - **Cost**: 1 gp
 - **Weight**: 2.0 lbs.
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [Prone](Compendium/rules/conditions.md#Prone) condition. It takes 10 minutes to recover the Ball Bearings.
+As a [[actions#Utilize|Utilize]] action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [[conditions#Prone|Prone]] condition. It takes 10 minutes to recover the Ball Bearings.
 
 *Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

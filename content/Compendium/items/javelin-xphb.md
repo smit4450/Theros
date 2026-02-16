@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [[item-properties#Thrown|Thrown]]
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 

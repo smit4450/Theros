@@ -15,7 +15,7 @@ aliases:
 
 | Item | Catalog | Weight | Cost |
 |------|---------|--------|------|
-| [Bandore](Compendium/items/bandore-frhof.md) | Moonshae Isles Wares | 3 lb. | 65 GP |
-| [Cittern](Compendium/items/cittern-frhof.md) | Moonshae Isles Wares | 2 lb. | 65 GP |
-| [Yarting](Compendium/items/yarting-frhof.md) | Moonshae Isles Wares | 2 lb. | 40 GP |
+| [[bandore-frhof|Bandore]] | Moonshae Isles Wares | 3 lb. | 65 GP |
+| [[cittern-frhof|Cittern]] | Moonshae Isles Wares | 2 lb. | 65 GP |
+| [[yarting-frhof|Yarting]] | Moonshae Isles Wares | 2 lb. | 40 GP |
 ^tools

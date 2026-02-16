@@ -17,6 +17,6 @@ aliases:
 
 *Don't let the grouchy reputation of these hardworking creatures deter you. A team of axe beaks can pull your sled with remarkable speed and efficiency.*
 
-Use the [Axe Beak](Compendium/bestiary/monstrosity/axe-beak-xmm.md) stat block.
+Use the [[axe-beak-xmm|Axe Beak]] stat block.
 
 *Source: FRHoF p. 132*

@@ -26,7 +26,7 @@ aliases: ["Creation"]
 - **Components:** V, S, M (a paintbrush)
 - **Duration:** Special
 
-You pull wisps of shadow material from the Shadowfell to create an object within range. It is either an object of vegetable matter (soft goods, rope, wood, and the like) or mineral matter (stone, crystal, metal, and the like). The object must be no larger than a 5-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md), and the object must be of a form and material that you have seen.
+You pull wisps of shadow material from the Shadowfell to create an object within range. It is either an object of vegetable matter (soft goods, rope, wood, and the like) or mineral matter (stone, crystal, metal, and the like). The object must be no larger than a 5-foot [[cube-area-of-effect-xphb|Cube]], and the object must be of a form and material that you have seen.
 
 The spell's duration depends on the object's material, as shown in the Materials table. If the object is composed of multiple materials, use the shortest duration. Using any object created by this spell as another spell's Material component causes the other spell to fail.
 
@@ -41,8 +41,8 @@ The spell's duration depends on the object's material, as shown in the Materials
 | Adamantine or mithral | 1 minute |
 ^materials
 
-**Using a Higher-Level Spell Slot.** The [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) increases by 5 feet for each spell slot level above 5.
+**Using a Higher-Level Spell Slot.** The [[cube-area-of-effect-xphb|Cube]] increases by 5 feet for each spell slot level above 5.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-sorcerer|Sorcerer]]; [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

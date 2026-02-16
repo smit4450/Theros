@@ -36,10 +36,10 @@ aliases: ["Fire Bolt"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes `1d10` Fire damage. A flammable object hit by this spell starts [burning](Compendium/traps-hazards/burning-xphb.md) if it isn't being worn or carried.
+You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes `1d10` Fire damage. A flammable object hit by this spell starts [[burning-xphb|burning]] if it isn't being worn or carried.
 
 **Cantrip Upgrade.** The damage increases by `1d10` when you reach levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land, Arid Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land, Arid Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -18,10 +18,10 @@ This cone-shaped hat is adorned with moons and stars. While you are wearing it, 
 
 ## Spellcasting Focus
 
-You can use the hat as a [Spellcasting Focus](Compendium/rules/variant-rules/spellcasting-focus-xphb.md) for your Wizard spells.
+You can use the hat as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your Wizard spells.
 
 ## Unknown Spell
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can try to cast a cantrip that you don't know. The cantrip must be on the Wizard spell list and have a casting time of an action, and you make a DC 10 Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast the spell is wasted. In either case, you can't use this property again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+As a [[actions#Magic|Magic]] action, you can try to cast a cantrip that you don't know. The cantrip must be on the Wizard spell list and have a casting time of an action, and you make a DC 10 Intelligence ([[skills#Arcana|Arcana]]) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast the spell is wasted. In either case, you can't use this property again until you finish a [[long-rest-xphb|Long Rest]].
 
 *Source: Dungeon Master's Guide (2024) p. 267*

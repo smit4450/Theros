@@ -35,10 +35,10 @@ aliases: ["Feign Death"]
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.
 
-For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [Blinded](Compendium/rules/conditions.md#Blinded) and [Incapacitated](Compendium/rules/conditions.md#Incapacitated) conditions, and its [Speed](Compendium/rules/variant-rules/speed-xphb.md) is 0.
+For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [[conditions#Blinded|Blinded]] and [[conditions#Incapacitated|Incapacitated]] conditions, and its [[speed-xphb|Speed]] is 0.
 
-The target also has [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to all damage except Psychic damage, and it has [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.
+The target also has [[resistance-xphb|Resistance]] to all damage except Psychic damage, and it has [[immunity-xphb|Immunity]] to the [[conditions#Poisoned|Poisoned]] condition.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 271*

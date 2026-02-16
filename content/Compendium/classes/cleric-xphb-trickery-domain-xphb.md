@@ -64,19 +64,19 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [Charm Person](Compendium/spells/charm-person-xphb.md), [Disguise Self](Compendium/spells/disguise-self-xphb.md), [Invisibility](Compendium/spells/invisibility-xphb.md), [Pass without Trace](Compendium/spells/pass-without-trace-xphb.md) |
-| 5th | [Hypnotic Pattern](Compendium/spells/hypnotic-pattern-xphb.md), [Nondetection](Compendium/spells/nondetection-xphb.md) |
-| 7th | [Confusion](Compendium/spells/confusion-xphb.md), [Dimension Door](Compendium/spells/dimension-door-xphb.md) |
-| 9th | [Dominate Person](Compendium/spells/dominate-person-xphb.md), [Modify Memory](Compendium/spells/modify-memory-xphb.md) |
+| 3rd | [[charm-person-xphb|Charm Person]], [[disguise-self-xphb|Disguise Self]], [[invisibility-xphb|Invisibility]], [[pass-without-trace-xphb|Pass without Trace]] |
+| 5th | [[hypnotic-pattern-xphb|Hypnotic Pattern]], [[nondetection-xphb|Nondetection]] |
+| 7th | [[confusion-xphb|Confusion]], [[dimension-door-xphb|Dimension Door]] |
+| 9th | [[dominate-person-xphb|Dominate Person]], [[modify-memory-xphb|Modify Memory]] |
 ^trickery-domain-spells
 
 ### Blessing of the Trickster (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can choose yourself or a willing creature within 30 feet of yourself to have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks. This blessing lasts until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) or you use this feature again.
+As a [[actions#Magic|Magic]] action, you can choose yourself or a willing creature within 30 feet of yourself to have [[advantage-xphb|Advantage]] on Dexterity ([[skills#Stealth|Stealth]]) checks. This blessing lasts until you finish a [[long-rest-xphb|Long Rest]] or you use this feature again.
 
 ### Invoke Duplicity (Level 3)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
+As a [[bonus-action-xphb|Bonus Action]], you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the [[conditions#Incapacitated|Incapacitated]] condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
 
 #### Cast Spells
 
@@ -84,15 +84,15 @@ You can cast spells as though you were in the illusion's space, but you must use
 
 #### Distract
 
-When both you and your illusion are within 5 feet of a creature that can see the illusion, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against that creature, given how distracting the illusion is to the target.
+When both you and your illusion are within 5 feet of a creature that can see the illusion, you have [[advantage-xphb|Advantage]] on attack rolls against that creature, given how distracting the illusion is to the target.
 
 #### Move
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself.
+As a [[bonus-action-xphb|Bonus Action]], you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself.
 
 ### Trickster's Transposition (Level 6)
 
-Whenever you take the [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
+Whenever you take the [[bonus-action-xphb|Bonus Action]] to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
 
 ### Improved Duplicity (Level 17)
 
@@ -100,8 +100,8 @@ The illusion of your Invoke Duplicity has grown more powerful in the following w
 
 #### Shared Distraction
 
-When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md).
+When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have [[advantage-xphb|Advantage]].
 
 #### Healing Illusion
 
-When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to your Cleric level.
+When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of [[hit-points-xphb|Hit Points]] equal to your Cleric level.

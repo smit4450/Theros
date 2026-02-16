@@ -13,9 +13,9 @@ aliases:
 *Adventuring gear, poison (ingested)*  
 
 
-- **Properties**: [Poison](Compendium/rules/item-properties.md#Poison)
+- **Properties**: [[item-properties#Poison|Poison]]
 - **Cost**: 150 gp
 
-A creature subjected to Truth Serum must succeed on a DC 11 Constitution saving throw or have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour. The [Poisoned](Compendium/rules/conditions.md#Poisoned) creature can't knowingly communicate a lie.
+A creature subjected to Truth Serum must succeed on a DC 11 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 hour. The [[conditions#Poisoned|Poisoned]] creature can't knowingly communicate a lie.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

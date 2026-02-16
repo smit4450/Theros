@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to fire damage while you wear this armor.
+You have [[resistance-xphb|Resistance]] to fire damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Fire Resistance](#Breastplate%20of%20Fire%20Resistance)

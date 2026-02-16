@@ -22,7 +22,7 @@ aliases:
 
 Tyr Grimjaws, Tyr the Evenhanded, Wounded Tyr, the Maimed God, the Lord of Justice—all these names speak to the nature of the god of justice.
 
-Tyr appears as a noble warrior without his right hand, which he lost to Kezef the Chaos Hound in an act of bravery and sacrifice. His eyes are wrapped in cloth, his blindness signifying that justice applies evenly to all. Weary of the foolishness of mortals, Tyr seldom appears or speaks directly to mortals, instead sending an awakened [Mastiff](Compendium/bestiary/beast/mastiff-xmm.md) as an emissary or sending the sound of a war gong or a choir.
+Tyr appears as a noble warrior without his right hand, which he lost to Kezef the Chaos Hound in an act of bravery and sacrifice. His eyes are wrapped in cloth, his blindness signifying that justice applies evenly to all. Weary of the foolishness of mortals, Tyr seldom appears or speaks directly to mortals, instead sending an awakened [[mastiff-xmm|Mastiff]] as an emissary or sending the sound of a war gong or a choir.
 
 Tyr's followers devote themselves to achieving justice, righting wrongs, and delivering vengeance. This devotion isn't concerned with equality or fairness, but rather discovering the truth and punishing the guilty. Those who favor Tyr are stiff necked about theology and laws, evaluating actions according to a rigid moral code.
 

@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [Haste](Compendium/spells/haste-xphb.md) spell for 1 minute (no [Concentration](Compendium/rules/conditions.md#Concentration) required) without suffering the wave of lethargy that typically occurs when the effect ends.
+When you drink this potion, you gain the effect of the [[haste-xphb|Haste]] spell for 1 minute (no [[conditions#Concentration|Concentration]] required) without suffering the wave of lethargy that typically occurs when the effect ends.
 
 This potion's yellow fluid is streaked with black and swirls on its own.
 

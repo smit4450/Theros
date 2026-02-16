@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Fighting Style Feature
 
-When you hit with a ranged attack roll using a weapon that has the [Thrown](Compendium/rules/item-properties.md#Thrown) property, you gain a +2 bonus to the damage roll.
+When you hit with a ranged attack roll using a weapon that has the [[item-properties#Thrown|Thrown]] property, you gain a +2 bonus to the damage roll.

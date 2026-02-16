@@ -61,9 +61,9 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 ### Portent (Level 3)
 
-Glimpses of the future begin to press on your awareness. Whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), roll two d20s and record the numbers rolled. You can replace any [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+Glimpses of the future begin to press on your awareness. Whenever you finish a [[long-rest-xphb|Long Rest]], roll two d20s and record the numbers rolled. You can replace any [[d20-test-xphb|D20 Test]] made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
 
-Each foretelling roll can be used only once. When you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you lose any unused foretelling rolls.
+Each foretelling roll can be used only once. When you finish a [[long-rest-xphb|Long Rest]], you lose any unused foretelling rolls.
 
 ### Expert Divination (Level 6)
 
@@ -71,11 +71,11 @@ Casting Divination spells comes so easily to you that it expends only a fraction
 
 ### The Third Eye (Level 10)
 
-You can increase your powers of perception. As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), choose one of the following benefits, which lasts until you start a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You can't use this feature again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can increase your powers of perception. As a [[bonus-action-xphb|Bonus Action]], choose one of the following benefits, which lasts until you start a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]]. You can't use this feature again until you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
 
 #### Darkvision
 
-You gain [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 120 feet.
+You gain [[senses#Darkvision|Darkvision]] with a range of 120 feet.
 
 #### Greater Comprehension
 
@@ -83,7 +83,7 @@ You can read any language.
 
 #### See Invisibility
 
-You can cast [See Invisibility](Compendium/spells/see-invisibility-xphb.md) without expending a spell slot.
+You can cast [[see-invisibility-xphb|See Invisibility]] without expending a spell slot.
 
 ### Greater Portent (Level 14)
 

@@ -19,7 +19,7 @@ These sandals have small golden wings coming off their sides.
 
 ## Paid
 
-While you wear these sandals, you can use an action to cast the [haste](Compendium/spells/haste-xphb.md) or [fly](Compendium/spells/fly-xphb.md) spells on yourself at will. The spells don't require concentration. Casting one of the spells while already under its effects resets its duration but doesn't stack its effects.
+While you wear these sandals, you can use an action to cast the [[haste-xphb|haste]] or [[fly-xphb|fly]] spells on yourself at will. The spells don't require concentration. Casting one of the spells while already under its effects resets its duration but doesn't stack its effects.
 
 ## Overpaid
 

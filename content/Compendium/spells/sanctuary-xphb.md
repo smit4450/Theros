@@ -29,6 +29,6 @@ You ward a creature within range. Until the spell ends, any creature who targets
 
 The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]
 
 *Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
