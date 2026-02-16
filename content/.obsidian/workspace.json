@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/deities/theros-athreos-mot.md",
+                "file": "Compendium/books/forgotten-realms-heroes-of-faerun/6-chapter-5-magic-of-faerun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "theros-athreos-mot"
+              "title": "6-chapter-5-magic-of-faerun"
+            }
+          },
+          {
+            "id": "a92bb3c15d84d96e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "broken links output.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "broken links output"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,8 +282,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fc432a6c4f9a89aa",
+  "active": "a92bb3c15d84d96e",
   "lastOpenFiles": [
+    "Compendium/classes/cleric-xphb-knowledge-domain-frhof.md",
+    "Compendium/books/forgotten-realms-heroes-of-faerun/6-chapter-5-magic-of-faerun.md",
+    "broken links output.md",
+    "Compendium/crafting/forging/zarinthic.md",
+    "Compendium/books/forgotten-realms-heroes-of-faerun/5-chapter-4-auroras-whole-realms-catalog.md",
+    "Compendium/books/forgotten-realms-heroes-of-faerun/4-chapter-3-gods-of-faerun.md",
+    "Compendium/books/forgotten-realms-heroes-of-faerun/3-chapter-2-a-guide-to-the-realms.md",
+    "Compendium/books/forgotten-realms-heroes-of-faerun/2-chapter-1-character-options.md",
+    "Compendium/books/forgotten-realms-heroes-of-faerun/1-introduction-a-world-of-epic-heroes.md",
+    "Compendium/books/forgotten-realms-heroes-of-faerun/9-credits.md",
+    "Compendium/books/forgotten-realms-heroes-of-faerun/8-atlas-of-faerun.md",
+    "Compendium/books/forgotten-realms-heroes-of-faerun/7-chapter-6-factions-of-the-realms.md",
+    "Compendium/tables/adventuring-gear-frhof.md",
+    "Compendium/deities/theros-athreos-mot.md",
     "Compendium/deities/deities.md",
     "Compendium/books/mythic-odysseys-of-theros/3-gods-of-theros.md",
     "Compendium/supernatural-gifts/anvilwrought-mot.md",
@@ -281,18 +310,8 @@
     "Compendium/supernatural-gifts/supernatural-gifts.md",
     "mythic-odysseys-of-theros/2-character-creation.md",
     "Compendium/supernatural-gifts/unscarred-mot.md",
-    "Compendium/supernatural-gifts/pious-mot.md",
-    "Compendium/supernatural-gifts/oracle-mot.md",
-    "Compendium/supernatural-gifts/lifelong-companion-mot.md",
-    "Compendium/supernatural-gifts/inscrutable-mot.md",
-    "Compendium/supernatural-gifts/iconoclast-mot.md",
-    "Compendium/supernatural-gifts/nyxborn-mot.md",
     "Compendium/supernatural-gifts",
-    "Compendium/bastions/arcane-study.md",
-    "Compendium/books/mythic-odysseys-of-theros/5-creating-theros-adventures.md",
-    "Compendium/books/dungeon-masters-guide-2024/03-chapter-3-dms-toolbox.md",
     "mythic-odysseys-of-theros/Character Creation",
-    "mythic-odysseys-of-theros/1-welcome-to-theros.md",
     "mythic-odysseys-of-theros/img/086-04-11.webp",
     "mythic-odysseys-of-theros/img/084-02-03-heliod.webp",
     "mythic-odysseys-of-theros/img/081-map-4-2-asora.webp",
@@ -304,10 +323,6 @@
     "mythic-odysseys-of-theros/img/022-02-01.webp",
     "mythic-odysseys-of-theros/img/003-00-03-a.webp",
     "mythic-odysseys-of-theros/img",
-    "mythic-odysseys-of-theros/8-credits.md",
-    "mythic-odysseys-of-theros/7-friends-and-foes.md",
-    "mythic-odysseys-of-theros/6-treasures.md",
-    "mythic-odysseys-of-theros/5-creating-theros-adventures.md",
     "mythic-odysseys-of-theros",
     "Compendium/crafting/forging",
     "Compendium/crafting",
