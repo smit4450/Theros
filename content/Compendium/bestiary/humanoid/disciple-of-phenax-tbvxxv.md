@@ -48,7 +48,7 @@ Disciples of Phenax perform a ritual in which the name of a hated person is writ
 "languages": "Common, Any one language"
 "cr": "1/2"
 "traits":
-  - "desc": "The disciple's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: _light_, _sacred flame_ 3/day: _bless_, _cure wounds_, _sanctuary_"
+  - "desc": "The disciple's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [Light](Compendium/spells/light-xphb.md), [Sacred Flame](Compendium/spells/sacred-flame-xphb.md) 3/day: [Bless](Compendium/spells/bless-xphb.md), [Cure Wounds](Compendium/spells/cure-wounds-xphb.md), [Sanctuary](Compendium/spells/sanctuary-xphb.md)"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "_Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage."

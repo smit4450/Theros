@@ -40,7 +40,7 @@ Players familiar with this monster may find the choice too simple. In order to a
   - !!int "10"
   - !!int "13"
 "speed": "20 ft., fly 40 ft."
-"condition_immunities": "charmed"
+"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "2"
@@ -51,10 +51,10 @@ Players familiar with this monster may find the choice too simple. In order to a
     "name": "Claws"
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage."
     "name": "Club"
-  - "desc": "The siren sings a magical melody. Every humanoid and giant within 300 ft. of the siren that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The siren must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the siren is incapacitated. While charmed by the siren, a target is incapacitated and ignores the songs of other sirens. If the charmed target is more than 5 ft. away from the siren, the must move on its turn toward the siren by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the siren, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it. A target that successfully saves is immune to this siren's song for the next 24 hours."
+  - "desc": "The siren sings a magical melody. Every humanoid and giant within 300 ft. of the siren that can hear the song must succeed on a DC 11 Wisdom saving throw or be [charmed](Compendium/rules/conditions.md#Charmed) until the song ends. The siren must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the siren is [incapacitated](Compendium/rules/conditions.md#Incapacitated). While [charmed](Compendium/rules/conditions.md#Charmed) by the siren, a target is [incapacitated](Compendium/rules/conditions.md#Incapacitated) and ignores the songs of other sirens. If the [charmed](Compendium/rules/conditions.md#Charmed) target is more than 5 ft. away from the siren, the must move on its turn toward the siren by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the siren, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it. A target that successfully saves is immune to this siren's song for the next 24 hours."
     "name": "Luring Song"
 "reactions":
-  - "desc": "Immediately after initiative rolls in which the siren participates, it demands tribute from a creature it can see. That creature may bow, genuflect, salute, or perform a similar gesture as a bonus action. If tribute is paid: Until the end of combat, the siren gains a +3 bonus to damage rolls and Strength and Dexterity checks, and 17 (3d8) temporary hit points. If tribute isn't paid: The creature must succeed on a DC 11 Wisdom saving throw or be charmed by the siren for 1 round."
+  - "desc": "Immediately after initiative rolls in which the siren participates, it demands tribute from a creature it can see. That creature may bow, genuflect, salute, or perform a similar gesture as a bonus action. If tribute is paid: Until the end of combat, the siren gains a +3 bonus to damage rolls and Strength and Dexterity checks, and 17 (3d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). If tribute isn't paid: The creature must succeed on a DC 11 Wisdom saving throw or be [charmed](Compendium/rules/conditions.md#Charmed) by the siren for 1 round."
     "name": "Demand Tribute"
 "source":
   - "TBVVI"

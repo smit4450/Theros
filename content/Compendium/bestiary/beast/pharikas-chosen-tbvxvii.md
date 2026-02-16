@@ -35,11 +35,11 @@ aliases: ["Pharika's Chosen"]
   - !!int "10"
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
-"senses": "blindsight 10 ft., passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., passive Perception 10"
 "languages": ""
 "cr": "1"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one. The target becomes poisoned. A creature poisoned by the snake takes 1 poison damage every minute until cured of poison."
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one. The target becomes [poisoned](Compendium/rules/conditions.md#Poisoned). A creature [poisoned](Compendium/rules/conditions.md#Poisoned) by the snake takes 1 poison damage every minute until cured of poison."
     "name": "Bite"
 "source":
   - "TBVXVII"

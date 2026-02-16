@@ -45,14 +45,14 @@ aliases: ["Marshmist Titan"]
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+8"
 "damage_immunities": "necrotic, poison, acid"
-"condition_immunities": "frightened, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[frightened](Compendium/rules/conditions.md#Frightened), [poisoned](Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "Titan"
 "cr": "19"
 "traits":
-  - "desc": "Any creature that starts its turn within 10 feet of the titan must succeed on a DC 18 Constitution saving throw, or it takes 10 (3d6) necrotic damage and can’t regain hit points until the start of its next turn. On a successful saving throw, the creature is immune to the titan's Aura of Erebos for 24 hours."
+  - "desc": "Any creature that starts its turn within 10 feet of the titan must succeed on a DC 18 Constitution saving throw, or it takes 10 (3d6) necrotic damage and can’t regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) until the start of its next turn. On a successful saving throw, the creature is immune to the titan's Aura of Erebos for 24 hours."
     "name": "Aura of Erebos"
-  - "desc": "The titan has advantage on saving throws against spells and other magical effects."
+  - "desc": "The titan has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The titan deals double damage to objects and structures."
     "name": "Siege Monster"
@@ -61,7 +61,7 @@ aliases: ["Marshmist Titan"]
 "actions":
   - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 40 (8d8 + 4) bludgeoning damage plus 10 (3d6) necrotic damage."
     "name": "Unarmed Strike"
-  - "desc": "The titan exhales a mighty gust that creates a blast of deadly mist in a 60-foot line that is 10 feet wide. Each creature in that line must make a DC 18 Constitution saving throw. On a failed save, the creature takes 36 (8d8) necrotic damage and is knocked prone. On a successful save, a creature takes half as much damage and isn’t knocked prone."
+  - "desc": "The titan exhales a mighty gust that creates a blast of deadly mist in a 60-foot line that is 10 feet wide. Each creature in that line must make a DC 18 Constitution saving throw. On a failed save, the creature takes 36 (8d8) necrotic damage and is knocked [prone](Compendium/rules/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn’t knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Noxious Gust (Recharge 5–6)"
 "source":
   - "TBVIX"

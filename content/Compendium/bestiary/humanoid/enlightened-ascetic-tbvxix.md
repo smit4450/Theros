@@ -38,13 +38,13 @@ aliases: ["Enlightened Ascetic"]
 "skillsaves":
   - "name": "[Survival](Compendium/rules/skills.md#Survival)"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Leonin"
 "cr": "2"
 "traits":
-  - "desc": "As a bonus action, the sun guide can let out an especially menacing roar. Creatures it chooses within 10 feet of itself that can hear it must succeed on a DC 12 Wisdom saving throw or become frightened of it until the end of its next turn."
+  - "desc": "As a bonus action, the sun guide can let out an especially menacing roar. Creatures it chooses within 10 feet of itself that can hear it must succeed on a DC 12 Wisdom saving throw or become [frightened](Compendium/rules/conditions.md#Frightened) of it until the end of its next turn."
     "name": "Daunting Roar (Recharges after a Short or Long Rest)"
-  - "desc": "The enlightened ascetic's innate spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells: At will: _antimagic field_"
+  - "desc": "The enlightened ascetic's innate spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells: At will: [Antimagic Field](Compendium/spells/antimagic-field-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "While the sun guide isn't wearing armor, its armor class includes its Wisdom modifier."
     "name": "Unarmored Defense"

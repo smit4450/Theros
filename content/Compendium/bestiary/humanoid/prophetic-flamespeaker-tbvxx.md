@@ -59,11 +59,11 @@ aliases: ["Prophetic Flamespeaker"]
     "name": "Divine Influence"
   - "desc": "The flamespeaker must use a fiery ritual to for each of its spells and spell attacks, which deals 9 (2d8) magical fire damage to all creatures within 5 feet of it."
     "name": "Fiery Magic"
-  - "desc": "The flamespeaker's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components (but an additional component is required; see Fiery Magic above): At will: _guidance_, _light_, _thaumaturgy_ 3/day: _bless_, _guiding bolt_, _healing word_, _hold person_ 1/day: _augury_, _scrying_"
+  - "desc": "The flamespeaker's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components (but an additional component is required; see Fiery Magic above): At will: _guidance_, [Light](Compendium/spells/light-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md) 3/day: [Bless](Compendium/spells/bless-xphb.md), [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md), [Healing Word](Compendium/spells/healing-word-xphb.md), [Hold Person](Compendium/spells/hold-person-xphb.md) 1/day: [Augury](Compendium/spells/augury-xphb.md), [Scrying](Compendium/spells/scrying-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The flamespeaker possesses unparalleled experience in divining godly whims from cryptic visions and mundane forces."
     "name": "Interpreter of Signs"
-  - "desc": "The flamespeaker can move in and out of a Medium or smaller creature's space. If it would, it uses a bonus action to attack that creature with its eldritch touch. That creature must succeed on a DC 13 Constitution saving throw or be knocked prone. If the creature succeeds, the flamespeaker can't enter that space and must end its turn immediately. If the flamespeaker stops on top of that creature, that creature becomes restrained until the flamespeaker moves off it (escape DC 10)."
+  - "desc": "The flamespeaker can move in and out of a Medium or smaller creature's space. If it would, it uses a bonus action to attack that creature with its eldritch touch. That creature must succeed on a DC 13 Constitution saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone). If the creature succeeds, the flamespeaker can't enter that space and must end its turn immediately. If the flamespeaker stops on top of that creature, that creature becomes [restrained](Compendium/rules/conditions.md#Restrained) until the flamespeaker moves off it (escape DC 10)."
     "name": "Trample"
 "actions":
   - "desc": "The flamespeaker makes two attacks."
@@ -71,7 +71,7 @@ aliases: ["Prophetic Flamespeaker"]
   - "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) force damage. (See Fiery Magic above.)"
     "name": "Eldritch Touch"
 "reactions":
-  - "desc": "When the flamespeaker or a creature it can see makes an attack roll, a saving throw, or an ability check, the flamespeaker can cause the roll to be made with advantage or disadvantage."
+  - "desc": "When the flamespeaker or a creature it can see makes an attack roll, a saving throw, or an ability check, the flamespeaker can cause the roll to be made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
     "name": "Divine Insight (3/Day)"
 "source":
   - "TBVXX"

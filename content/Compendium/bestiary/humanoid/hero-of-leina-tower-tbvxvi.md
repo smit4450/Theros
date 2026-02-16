@@ -50,7 +50,7 @@ aliases: ["Hero of Leina Tower"]
 "traits":
   - "desc": "The warrior gains a +2 bonus to attack rolls."
     "name": "Attacker"
-  - "desc": "The warrior has advantage on initiative rolls."
+  - "desc": "The warrior has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "The warrior's attack rolls score a critical hit on a roll of 19 or 20 on the d20."
     "name": "Improved Critical"
@@ -60,7 +60,7 @@ aliases: ["Hero of Leina Tower"]
   - "desc": "_Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage in melee, or 4 (1d6 + 1) piercing damage at range, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
 "reactions":
-  - "desc": "Whenever the hero is the target of a spell, that spell's caster may expend any number of spell slots. Until the end of combat, for every spell slot expended this way, the hero gains a +1 bonus to damage rolls and Dexterity checks, and it gains 4 (1d8) temporary hit points."
+  - "desc": "Whenever the hero is the target of a spell, that spell's caster may expend any number of spell slots. Until the end of combat, for every spell slot expended this way, the hero gains a +1 bonus to damage rolls and Dexterity checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Heroic"
 "source":
   - "TBVXVI"

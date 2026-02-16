@@ -39,7 +39,7 @@ aliases: ["Nyx Weaver"]
   - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_vulnerabilities": "piercing, slashing"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
@@ -60,9 +60,9 @@ aliases: ["Nyx Weaver"]
 "actions":
   - "desc": "The spider makes two web attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way."
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), the target is stable but [poisoned](Compendium/rules/conditions.md#Poisoned) for 1 hour, even after regaining [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), and is [paralyzed](Compendium/rules/conditions.md#Paralyzed) while [poisoned](Compendium/rules/conditions.md#Poisoned) in this way."
     "name": "Bite"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/60 ft., one creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage)."
+  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/60 ft., one creature. Hit: The target is [restrained](Compendium/rules/conditions.md#Restrained) by webbing. As an action, the [restrained](Compendium/rules/conditions.md#Restrained) target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage)."
     "name": "Web (Recharge 5-6)"
 "source":
   - "TBVXXIII"

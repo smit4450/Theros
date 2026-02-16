@@ -48,9 +48,9 @@ The maenads of Theros are men and women possessed by Xenagos.
 "languages": "Common, any language"
 "cr": "3"
 "traits":
-  - "desc": "If Xenagos becomes incapacitated, or if the maenad isn't on one of Theros's three realms, the maenad becomes a **human commoner**."
+  - "desc": "If Xenagos becomes [incapacitated](Compendium/rules/conditions.md#Incapacitated), or if the maenad isn't on one of Theros's three realms, the maenad becomes a **human commoner**."
     "name": "Charmed by Xenagos"
-  - "desc": "If the maenad performs for at least 1 minute, it chooses up to four humanoids within 60 feet of it who watched or listened to the entire performance. Each target must succeed on a DC 13 Wisdom saving throw or be charmed. While charmed in this way, the target idolizes the maenad and will take part in the maenad's revels. The charmed condition ends for the creature after 1 hour, if it takes any damage, if the maenad attacks the target, or if the target witnesses the maenad attacking or damaging any of the target’s allies."
+  - "desc": "If the maenad performs for at least 1 minute, it chooses up to four humanoids within 60 feet of it who watched or listened to the entire performance. Each target must succeed on a DC 13 Wisdom saving throw or be [charmed](Compendium/rules/conditions.md#Charmed). While [charmed](Compendium/rules/conditions.md#Charmed) in this way, the target idolizes the maenad and will take part in the maenad's revels. The [charmed](Compendium/rules/conditions.md#Charmed) condition ends for the creature after 1 hour, if it takes any damage, if the maenad attacks the target, or if the target witnesses the maenad attacking or damaging any of the target’s allies."
     "name": "Enthralling Performance"
   - "desc": "The maenad has proficiency with improvised weapons."
     "name": "Improvised Weapon Proficiency"

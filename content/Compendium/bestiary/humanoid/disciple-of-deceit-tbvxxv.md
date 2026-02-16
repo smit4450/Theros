@@ -48,7 +48,7 @@ aliases: ["Disciple of Deceit"]
 "languages": "Common, Any one language"
 "cr": "0"
 "traits":
-  - "desc": "The disciple's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: _light_, _sacred flame_ 3/day: _bless_, _cure wounds_, _sanctuary_"
+  - "desc": "The disciple's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [Light](Compendium/spells/light-xphb.md), [Sacred Flame](Compendium/spells/sacred-flame-xphb.md) 3/day: [Bless](Compendium/spells/bless-xphb.md), [Cure Wounds](Compendium/spells/cure-wounds-xphb.md), [Sanctuary](Compendium/spells/sanctuary-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "At the beginning of the disciple's turn, if Phenax saw it bowing to him or his image at any point since the disciple's last turn, the disciple may use an action to cast the following spell: **Exchange Secrets** _2nd-level divination_ **Casting Time:** 1 action **Range:** Touch **Components:** V, S, M (a Returned mask) **Duration:** Concentration, up to 1 minute You and one willing creature both touch a Returned mask of that creature's choice. That creature speaks a secret to you. The revealed secret is erased entirely from the creature's memory and encoded into the Returned mask. You speak an equally valuable secret to the creature that would have been known by the soul who wore that mask before it lost its memories escaping the Underworld."
     "name": "Inspired"

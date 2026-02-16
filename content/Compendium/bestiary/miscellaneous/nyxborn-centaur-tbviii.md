@@ -51,7 +51,7 @@ aliases: ["Nyxborn Centaur"]
 "languages": "Common, Sylvan"
 "cr": "3"
 "traits":
-  - "desc": "The centaur has advantage on initiative rolls."
+  - "desc": "The centaur has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "If the centaur moves at least 30 feet straight toward a target and then hits it with a melee attack on the same turn, it can immediately follow that attack with a bonus action, making one attack against the target with its hooves."
     "name": "Charge"
@@ -76,7 +76,7 @@ aliases: ["Nyxborn Centaur"]
     "name": "Hooves"
   - "desc": "_Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Shield Bash"
 "source":
   - "TBVIII"

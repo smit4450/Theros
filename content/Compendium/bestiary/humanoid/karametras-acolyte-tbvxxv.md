@@ -46,12 +46,12 @@ aliases: ["Karametra's Acolyte"]
 "languages": "Common, Druidic, Any two languages"
 "cr": "2"
 "traits":
-  - "desc": "The acolyte is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following druid spells prepared: • Cantrips (at will): druidcraft, produce flame, shillelagh • 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave • 2nd level (3 slots): animal messenger, barkskin"
+  - "desc": "The acolyte is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following druid spells prepared: • Cantrips (at will): [Druidcraft](Compendium/spells/druidcraft-xphb.md), [Produce Flame](Compendium/spells/produce-flame-xphb.md), shillelagh • 1st level (4 slots): [Entangle](Compendium/spells/entangle-xphb.md), [Longstrider](Compendium/spells/longstrider-xphb.md), [Speak With Animals](Compendium/spells/speak-with-animals-xphb.md), thunderwave • 2nd level (3 slots): animal messenger, barkskin"
     "name": "Spellcasting"
 "actions":
   - "desc": "Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands."
     "name": "Quarterstaff"
-  - "desc": "The acolyte casts _plant growth_ without consuming a spell slot."
+  - "desc": "The acolyte casts [Plant Growth](Compendium/spells/plant-growth-xphb.md) without consuming a spell slot."
     "name": "Plant Growth"
 "source":
   - "TBVXXV"

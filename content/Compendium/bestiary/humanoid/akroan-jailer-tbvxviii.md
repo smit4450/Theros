@@ -53,11 +53,11 @@ The jailer carries a set of *manacles* and a ring of keys.
 "languages": "Common"
 "cr": "2"
 "traits":
-  - "desc": "The jailer has advantage on initiative rolls."
+  - "desc": "The jailer has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
-  - "desc": "The jailer has advantage on saving throws against being charmed, frightened, grappled, or restrained."
+  - "desc": "The jailer has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled), or [restrained](Compendium/rules/conditions.md#Restrained)."
     "name": "Resilient"
-  - "desc": "The jailer has advantage on skill checks made for pursuing, apprehension, retaining, and escorting hostile creatures."
+  - "desc": "The jailer has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on skill checks made for pursuing, apprehension, retaining, and escorting hostile creatures."
     "name": "Retainer"
 "actions":
   - "desc": "The jailer makes two unarmed strikes"

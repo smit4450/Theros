@@ -37,8 +37,8 @@ aliases: ["Black Oak of Odunos"]
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
 "damage_immunities": "necrotic"
-"condition_immunities": "poisoned, restrained"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned), [restrained](Compendium/rules/conditions.md#Restrained)"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "1/2"
 "traits":
@@ -48,7 +48,7 @@ aliases: ["Black Oak of Odunos"]
     "name": "Necrotic Body"
   - "desc": "The oak can't be surprised."
     "name": "Vigilant"
-  - "desc": "If damage reduces the oak to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the oak drops to 1 hit point instead."
+  - "desc": "If damage reduces the oak to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the oak drops to 1 hit point instead."
     "name": "Undead Fortitude"
 "source":
   - "TBVV"

@@ -52,7 +52,7 @@ aliases: ["Reverent Hunter"]
   - "desc": "_Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage."
     "name": "Longbow"
 "reactions":
-  - "desc": "When the hunter rolls initiative, it gains a permanent +X bonus on attack rolls and Dexterity and Strength checks, and its hit points and maximum hit points increase by Xd8, where X is the number of allied humans within 5 feet of the hunter."
+  - "desc": "When the hunter rolls initiative, it gains a permanent +X bonus on attack rolls and Dexterity and Strength checks, and its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) and maximum [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) increase by Xd8, where X is the number of allied humans within 5 feet of the hunter."
     "name": "Nylea's Blessing"
 "source":
   - "TBVXXV"

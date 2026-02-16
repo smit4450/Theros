@@ -47,9 +47,9 @@ aliases: ["Nyxborn Rollicker"]
 "languages": "Common, Sylvan"
 "cr": "2"
 "traits":
-  - "desc": "If the celebrant moves at least 15 feet straight toward a target and then hits it with its ram attack on the same turn, the target takes an extra 5 (2d4) slashing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone."
+  - "desc": "If the celebrant moves at least 15 feet straight toward a target and then hits it with its ram attack on the same turn, the target takes an extra 5 (2d4) slashing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Charge"
-  - "desc": "The satyr has advantage on saving throws against spells and other magical effects."
+  - "desc": "The satyr has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The rollicker's weapon attacks are magical."
     "name": "Magic Weapons"

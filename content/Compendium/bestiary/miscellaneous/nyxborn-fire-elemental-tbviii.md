@@ -37,12 +37,12 @@ aliases: ["Nyxborn Fire Elemental"]
 "saves":
   - "constitution": !!int "3"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "2"
 "traits":
-  - "desc": "The creature has advantage on initiative rolls."
+  - "desc": "The creature has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage."
     "name": "Heated Body"

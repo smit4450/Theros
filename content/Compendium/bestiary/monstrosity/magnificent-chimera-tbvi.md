@@ -40,7 +40,7 @@ It is based on the undead creature featured in MtG as the Loathsome Chimera. Cur
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "If the chimera moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+  - "desc": "If the chimera moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Charge"
 "actions":
   - "desc": "The chimera makes two attacks: one with its bite and one with its claw."

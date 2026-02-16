@@ -45,7 +45,7 @@ aliases: ["Sigiled Skink"]
     "desc": "+4"
   - "name": "[Survival](Compendium/rules/skills.md#Survival)"
     "desc": "+2"
-"senses": "darkvision 30 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 30 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
@@ -53,9 +53,9 @@ aliases: ["Sigiled Skink"]
     "name": "Evasion"
   - "desc": "The skink can take the Disengage or Hide action as a bonus action on each of its turns."
     "name": "Nimble Escape"
-  - "desc": "An oracle of Purphoros has advantage on interpreting the skink's sigils. If the skink dies, the sigils disappear."
+  - "desc": "An oracle of Purphoros has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on interpreting the skink's sigils. If the skink dies, the sigils disappear."
     "name": "Sigils"
-  - "desc": "The skink has advantage on ability checks and saving throws made to escape a grapple."
+  - "desc": "The skink has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on ability checks and saving throws made to escape a grapple."
     "name": "Slippery"
 "actions":
   - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target smaller than its head. Hit: 1 piercing damage."

@@ -38,11 +38,11 @@ The decorated griffin is a friendly beast to whomever has decorated it.
 "skillsaves":
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The griffin has advantage on Wisdom (Perception) checks that rely on sight."
+  - "desc": "The griffin has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on sight."
     "name": "Keen Sight"
 "actions":
   - "desc": "The griffin makes two attacks: one with its beak and one with its claws."

@@ -53,7 +53,7 @@ aliases: ["Pheres-Band Warchief"]
 "languages": "Common, Sylvan"
 "cr": "2"
 "traits":
-  - "desc": "The centaur has advantage on initiative rolls."
+  - "desc": "The centaur has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "If the centaur moves at least 30 feet straight toward a target and then hits it with a melee attack on the same turn, it can immediately follow that attack with a bonus action, making one attack against the target with its hooves."
     "name": "Charge"
@@ -63,11 +63,11 @@ aliases: ["Pheres-Band Warchief"]
     "name": "Extra Attack"
   - "desc": "The centaur's attack rolls score a critical hit on a roll of 19 or 20 on the d20."
     "name": "Improved Critical"
-  - "desc": "Allied centaurs within 30 feet of the warchief get a +1 bonus to Strength and Dexterity checks and damage rolls, and their hit points and maximum hit points are increased by 4 (1d8) while in range. Those centaurs also have the trample ability."
+  - "desc": "Allied centaurs within 30 feet of the warchief get a +1 bonus to Strength and Dexterity checks and damage rolls, and their [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) and maximum [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) are increased by 4 (1d8) while in range. Those centaurs also have the trample ability."
     "name": "Might of Minotaurs"
   - "desc": "Allied centaurs within 30 feet of the warchief can't be surprised."
     "name": "Sagacity of Sphinxes"
-  - "desc": "The warchief can move in and out of Medium or smaller creature's space. If it would, it uses a bonus action to attack that creature with its hooves. That creature must succeed on a DC 13 Strength saving throw or be knocked prone. If the creature succeeds, the warchief can't enter that space and must end its turn immediately. If the warchief stops on top of that creature, that creature becomes restrained until the warchief moves off it (escape DC 13)."
+  - "desc": "The warchief can move in and out of Medium or smaller creature's space. If it would, it uses a bonus action to attack that creature with its hooves. That creature must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone). If the creature succeeds, the warchief can't enter that space and must end its turn immediately. If the warchief stops on top of that creature, that creature becomes [restrained](Compendium/rules/conditions.md#Restrained) until the warchief moves off it (escape DC 13)."
     "name": "Trample"
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, one target. Hit: 7 (1d4 + 3) bludgeoning damage."

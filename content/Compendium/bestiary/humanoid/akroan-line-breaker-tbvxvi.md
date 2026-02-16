@@ -49,7 +49,7 @@ aliases: ["Akroan Line Breaker"]
 "languages": "Common, any two languages"
 "cr": "5"
 "traits":
-  - "desc": "The warrior has advantage on initiative rolls."
+  - "desc": "The warrior has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "The warrior's attack rolls score a critical hit on a roll of 19 or 20 on the d20."
     "name": "Improved Critical"
@@ -59,7 +59,7 @@ aliases: ["Akroan Line Breaker"]
   - "desc": "_Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) slashing damage."
     "name": "Battleaxe"
 "reactions":
-  - "desc": "Whenever the warrior is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the warrior gains a +2 bonus to damage rolls and Strength checks, and it gains 9 (2d8) temporary hit points. It chooses one creature that it can see within 30 feet of itself. If the target can see or hear the warrior, the target must succeed on a DC 11 Wisdom saving throw or be frightened of the warrior until the end of the warrior's next turn. If the target succeeds on its saving throw, the warrior can't choose that target again for this reaction for 24 hours."
+  - "desc": "Whenever the warrior is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the warrior gains a +2 bonus to damage rolls and Strength checks, and it gains 9 (2d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). It chooses one creature that it can see within 30 feet of itself. If the target can see or hear the warrior, the target must succeed on a DC 11 Wisdom saving throw or be [frightened](Compendium/rules/conditions.md#Frightened) of the warrior until the end of the warrior's next turn. If the target succeeds on its saving throw, the warrior can't choose that target again for this reaction for 24 hours."
     "name": "Heroic"
 "source":
   - "TBVXVI"

@@ -46,8 +46,8 @@ A cursed hoplite who has rotted away but is still alive. He wanders Asphodel, tr
   - "dexterity": !!int "4"
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion), [poisoned](Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Understands Common but can't speak"
 "cr": "1/4"
 "traits":
@@ -55,14 +55,14 @@ A cursed hoplite who has rotted away but is still alive. He wanders Asphodel, tr
     "name": "Hold the Line"
   - "desc": "The wanderer doesn’t require food, drink, or sleep."
     "name": "Immortal Nature"
-  - "desc": "If damage reduces the wanderer to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wanderer drops to 1 hit point instead."
+  - "desc": "If damage reduces the wanderer to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wanderer drops to 1 hit point instead."
     "name": "Undead Fortitude"
 "actions":
   - "desc": "The wanderer makes three melee attacks or two ranged attacks."
     "name": "Multiattack"
   - "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
     "name": "Shortsword"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Shield Bash"
 "source":
   - "TBVV"

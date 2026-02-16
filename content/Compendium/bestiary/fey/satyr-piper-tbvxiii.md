@@ -49,9 +49,9 @@ aliases: ["Satyr Piper"]
 "languages": "Common, Sylvan, Any one language"
 "cr": "0"
 "traits":
-  - "desc": "The entertainer's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: _dancing lights_, _vicious mockery_ 2/day: _charm person_, _detect magic_, _healing word_, _thunderwave_"
+  - "desc": "The entertainer's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [Dancing Lights](Compendium/spells/dancing-lights-xphb.md), [Vicious Mockery](Compendium/spells/vicious-mockery-xphb.md) 2/day: [Charm Person](Compendium/spells/charm-person-xphb.md), [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Healing Word](Compendium/spells/healing-word-xphb.md), [Thunderwave](Compendium/spells/thunderwave-xphb.md)"
     "name": "Innate Spellcasting"
-  - "desc": "The entertainer has advantage on saving throws against spells and other magical effects."
+  - "desc": "The entertainer has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Whenever the entertainer makes a long or high jump, it can cover an additional 1d8 feet, even when making a standing jump. This extra distance costs movement as normal."
     "name": "Mirthful Leaps"

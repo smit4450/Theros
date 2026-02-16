@@ -41,12 +41,12 @@ aliases: ["Insatiable Harpy"]
 "languages": "Common"
 "cr": "1/4"
 "traits":
-  - "desc": "The harpy has advantage on saving throws against being charmed or frightened."
+  - "desc": "The harpy has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed) or [frightened](Compendium/rules/conditions.md#Frightened)."
     "name": "Dark Devotion"
 "actions":
   - "desc": "The harpy makes two melee attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage. The harpy regains that many hit points."
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage. The harpy regains that many [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage."
     "name": "Claws"

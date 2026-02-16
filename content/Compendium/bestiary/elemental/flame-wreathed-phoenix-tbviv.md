@@ -45,11 +45,11 @@ Players familiar with this monster may find the choice too simple. In order to a
   - "charisma": !!int "5"
 "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks, cold"
 "damage_immunities": "fire"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "8"
 "traits":
-  - "desc": "Immediately after initiative rolls in which the phoenix participates, it expects tribute from a creature within 60 feet that it can see, but does not reveal which one or indicate it expects the tribute. Tribute may be paid by bowing, genuflecting, saluting, or a similar gesture. If by the beginning of the phoenix's first turn in combat the creature it selected has paid it tribute, the phoenix's flames grow larger, brighter, and louder. Until the end of combat, the phoenix gains a +2 bonus to damage rolls and Strength and Dexterity checks, gains 5 (2d4) temporary hit points, and loses its Rebirth trait."
+  - "desc": "Immediately after initiative rolls in which the phoenix participates, it expects tribute from a creature within 60 feet that it can see, but does not reveal which one or indicate it expects the tribute. Tribute may be paid by bowing, genuflecting, saluting, or a similar gesture. If by the beginning of the phoenix's first turn in combat the creature it selected has paid it tribute, the phoenix's flames grow larger, brighter, and louder. Until the end of combat, the phoenix gains a +2 bonus to damage rolls and Strength and Dexterity checks, gains 5 (2d4) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), and loses its Rebirth trait."
     "name": "Expect Tribute"
   - "desc": "When the phoenix dies, it explodes. Each creature within 10 feet of it must make a DC 20 Dexterity saving throw, taking 5 (1d10) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't worn or carried."
     "name": "Fiery Death"

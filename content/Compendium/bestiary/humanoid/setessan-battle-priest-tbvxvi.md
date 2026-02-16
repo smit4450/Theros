@@ -48,7 +48,7 @@ aliases: ["Setessan Battle Priest"]
 "languages": "Common, Any one language"
 "cr": "10"
 "traits":
-  - "desc": "The war priest is a 9th-level spellcaster. It's spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared: Cantrip (at will): _light_, _mending_, _sacred flame_, _spare the dying_ 1st level (4 slots): _divine favor_, _guiding bolt_, _healing word_, _shield of faith_ 2nd level (3 slots): _lesser restoration_, _magic weapon_, _prayer of healing_, _silence_, _spiritual weapon_ 3rd level (3 slots): _beacon of hope_, _crusader's mantle_, _dispel magic_, _revivify_, _spirit guardians_, _wall of water_ 4th level (3 slots): _banishment_, _freedom of movement_, _guardian of faith_, _stoneskin_ 5th level (1 slots): _flame strike_, _mass cure wounds_, _hold monster_"
+  - "desc": "The war priest is a 9th-level spellcaster. It's spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared: Cantrip (at will): [Light](Compendium/spells/light-xphb.md), [Mending](Compendium/spells/mending-xphb.md), [Sacred Flame](Compendium/spells/sacred-flame-xphb.md), [Spare The Dying](Compendium/spells/spare-the-dying-xphb.md) 1st level (4 slots): [Divine Favor](Compendium/spells/divine-favor-xphb.md), [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md), [Healing Word](Compendium/spells/healing-word-xphb.md), [Shield Of Faith](Compendium/spells/shield-of-faith-xphb.md) 2nd level (3 slots): [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md), [Magic Weapon](Compendium/spells/magic-weapon-xphb.md), [Prayer Of Healing](Compendium/spells/prayer-of-healing-xphb.md), [Silence](Compendium/spells/silence-xphb.md), [Spiritual Weapon](Compendium/spells/spiritual-weapon-xphb.md) 3rd level (3 slots): [Beacon Of Hope](Compendium/spells/beacon-of-hope-xphb.md), _crusader's mantle_, [Dispel Magic](Compendium/spells/dispel-magic-xphb.md), [Revivify](Compendium/spells/revivify-xphb.md), [Spirit Guardians](Compendium/spells/spirit-guardians-xphb.md), _wall of water_ 4th level (3 slots): [Banishment](Compendium/spells/banishment-xphb.md), [Freedom Of Movement](Compendium/spells/freedom-of-movement-xphb.md), [Guardian Of Faith](Compendium/spells/guardian-of-faith-xphb.md), [Stoneskin](Compendium/spells/stoneskin-xphb.md) 5th level (1 slots): [Flame Strike](Compendium/spells/flame-strike-xphb.md), [Mass Cure Wounds](Compendium/spells/mass-cure-wounds-xphb.md), [Hold Monster](Compendium/spells/hold-monster-xphb.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "The war priest makes two melee attacks."
@@ -58,7 +58,7 @@ aliases: ["Setessan Battle Priest"]
 "reactions":
   - "desc": "The priest grants a +10 bonus to an attack roll made by itself or another creature within 30 feet of it. The priest can make this choice after the roll is made but before it hits or misses."
     "name": "Guided Strike (1/Rest)"
-  - "desc": "Whenever a spell targets the priest, that spell's caster chooses whether the priest regains 16 hit points."
+  - "desc": "Whenever a spell targets the priest, that spell's caster chooses whether the priest regains 16 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Heroic"
 "source":
   - "TBVXVI"

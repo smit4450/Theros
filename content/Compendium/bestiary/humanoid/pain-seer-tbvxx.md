@@ -59,7 +59,7 @@ aliases: ["Pain Seer"]
     "name": "Inspired"
   - "desc": "Oracles possess unparalleled experience in divining godly whims from cryptic visions and mundane forces. Those who receive divine omens might seek out an oracle to gain a clearer vision of the god’s intentions. Finding an oracle, though, or one experienced in interpreting certain types of visions, might prove to be an adventure in its own right."
     "name": "Interpreter of Signs"
-  - "desc": "The pain seer's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 3/day: _commune_, _divination_, _scrying_ 1/day: _finger of death_, _symbol (pain)_"
+  - "desc": "The pain seer's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 3/day: _commune_, [Divination](Compendium/spells/divination-xphb.md), [Scrying](Compendium/spells/scrying-xphb.md) 1/day: [Finger Of Death](Compendium/spells/finger-of-death-xphb.md), _symbol (pain)_"
     "name": "Innate Spellcasting"
   - "desc": "The pain seer can't cast spells except with its Inspired trait."
     "name": "Painful Magic"
@@ -71,7 +71,7 @@ aliases: ["Pain Seer"]
   - "desc": "_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage, or 4 (1d4 + 2) slashing damage if used with extreme precision to pry an exposed bone outward on a nonmoving target."
     "name": "Mochliskos"
 "reactions":
-  - "desc": "When the oracle or a creature it can see makes an attack roll, a saving throw, or an ability check, the oracle can cause the roll to be made with advantage or disadvantage."
+  - "desc": "When the oracle or a creature it can see makes an attack roll, a saving throw, or an ability check, the oracle can cause the roll to be made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
     "name": "Divine Insight (3/Day)"
 "source":
   - "TBVXX"

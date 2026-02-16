@@ -57,7 +57,7 @@ The Champion wiped the sweat and blood from her brow.
 "languages": "Common, Minotaur, any one language"
 "cr": "3"
 "traits":
-  - "desc": "The warrior has advantage on initiative rolls."
+  - "desc": "The warrior has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "Immediately after the warrior uses the Dash action on its turn and moves at least 20 feet, it can make one melee attack with its horns as a bonus action."
     "name": "Goring Rush"

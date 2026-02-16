@@ -53,7 +53,7 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 "languages": "Common, any language"
 "cr": "1"
 "traits":
-  - "desc": "The human charlatan is a 2nd-level spellcaster. The human charlatan's spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It requires no material components to cast its spells. The human charlatan has the following warlock spells prepared: Cantrip (at will): _acid splash_, _eldritch blast_, _fire bolt_, _minor illusion_, _shocking grasp_ 1st level (2 slots): _charm person_, _witch bolt_"
+  - "desc": "The human charlatan is a 2nd-level spellcaster. The human charlatan's spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It requires no material components to cast its spells. The human charlatan has the following warlock spells prepared: Cantrip (at will): _acid splash_, [Eldritch Blast](Compendium/spells/eldritch-blast-xphb.md), [Fire Bolt](Compendium/spells/fire-bolt-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md), [Shocking Grasp](Compendium/spells/shocking-grasp-xphb.md) 1st level (2 slots): [Charm Person](Compendium/spells/charm-person-xphb.md), _witch bolt_"
     "name": "Spellcasting"
 "source":
   - "TBVXIV"

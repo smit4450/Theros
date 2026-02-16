@@ -48,14 +48,14 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, exhaustion, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion), [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "Understands the language of its creator but can't speak"
 "cr": "5"
 "traits":
-  - "desc": "The raptor has advantage on Wisdom (Perception) checks that rely on sight."
+  - "desc": "The raptor has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on sight."
     "name": "Keen Sight"
-  - "desc": "If the raptor moves at least 20 ft. straight toward a target and then hits it with a Beak or Talons attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone."
+  - "desc": "If the raptor moves at least 20 ft. straight toward a target and then hits it with a Beak or Talons attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Charge"
 "actions":
   - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 20 (4d8 + 6) piercing damage."

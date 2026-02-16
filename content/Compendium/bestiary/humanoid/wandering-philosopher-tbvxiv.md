@@ -50,7 +50,7 @@ aliases: ["Wandering Philosopher"]
 "languages": "Common, Sylvan"
 "cr": "1/4"
 "traits":
-  - "desc": "The philosopher's innate spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: _suggestion_, _confusion_"
+  - "desc": "The philosopher's innate spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [Suggestion](Compendium/spells/suggestion-xphb.md), [Confusion](Compendium/spells/confusion-xphb.md)"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "_Melee Weapon Attack:_ +3 to hit: one target, reach 5 ft., 1 bludgeoning damage."

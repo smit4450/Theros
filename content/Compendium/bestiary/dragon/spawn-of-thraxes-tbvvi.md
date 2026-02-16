@@ -59,7 +59,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.
   - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "fire"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "Draconic, Common (barely)"
 "cr": "24"
 "traits":
@@ -74,7 +74,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.
     "name": "Claw"
   - "desc": "Melee Weapon Attack: +12 to hit, reach 20 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage."
     "name": "Tail"
-  - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours."
+  - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become [frightened](Compendium/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours."
     "name": "Frightful Presence"
   - "desc": "The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one."
     "name": "Fire Breath (Recharge 5-6)"
@@ -83,7 +83,7 @@ If the dragon dies, these effects fade over the course of 1d10 days.
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
-  - "desc": "The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 12 (2d6 + 5) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed."
+  - "desc": "The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 12 (2d6 + 5) bludgeoning damage and be knocked [prone](Compendium/rules/conditions.md#Prone). The dragon can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "TBVVI"

@@ -53,7 +53,7 @@ aliases: ["Swordwise Centaur"]
 "languages": "Common, Sylvan"
 "cr": "2"
 "traits":
-  - "desc": "The centaur has advantage on initiative rolls."
+  - "desc": "The centaur has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "If the centaur moves at least 30 feet straight toward a target and then hits it with a melee attack on the same turn, it can immediately follow that attack with a bonus action, making one attack against the target with its hooves."
     "name": "Charge"

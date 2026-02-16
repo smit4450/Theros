@@ -36,7 +36,7 @@ aliases: ["Harpy Chick"]
 "skillsaves":
   - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
     "desc": "+4"
-"senses": "blindsight 10 ft. (can't see), passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft. (can't see), passive Perception 10"
 "languages": ""
 "cr": "0"
 "actions":

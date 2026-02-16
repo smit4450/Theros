@@ -47,7 +47,7 @@ aliases: ["Akroan Crusader"]
     "name": "Multiattack"
   - "desc": "_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage."
     "name": "Shortsword"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Shield Bash"
 "reactions":
   - "desc": "Whenever a spell targets the crusader, that spell's caster chooses whether the following happens: - The crusader summons an **Akroan crusade soldier** that appears in an unoccupied space that the crusader can see within 60 feet of itself. The summoned soldier acts as an ally to its summoner and its allies."

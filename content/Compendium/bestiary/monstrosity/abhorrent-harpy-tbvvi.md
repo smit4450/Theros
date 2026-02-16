@@ -42,7 +42,7 @@ aliases: ["Abhorrent Harpy"]
 "languages": "Common"
 "cr": "0"
 "traits":
-  - "desc": "The harpy has advantage on saving throws against being charmed or frightened."
+  - "desc": "The harpy has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed) or [frightened](Compendium/rules/conditions.md#Frightened)."
     "name": "Dark Devotion"
 "actions":
   - "desc": "The harpy makes two melee attacks: one with its bite and one with its claws."

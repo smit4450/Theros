@@ -50,10 +50,10 @@ aliases: ["Bloodcrazed Hoplite"]
     "name": "Multiattack"
   - "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft., or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 12 Strength saving throw or be knocked prone."
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 12 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Shield Bash"
 "reactions":
-  - "desc": "Whenever the hoplite becomes targeted by a spell, that spell's caster chooses whether the following happens: - The hoplite sinks its teeth into a creature within reach. Until the end of combat, the hoplite gains a +1 bonus to damage rolls and Strength and Dexterity checks, and it gains 4 (1d8) temporary hit points. Until the targeted creature finishes a long rest, that creature gains a -1 bonus to damage rolls and Strength and Dexterity checks, and its maximum hit points are reduced by the same amount the hoplite gained. The target dies if this effect reduces its hit point maximum to 0."
+  - "desc": "Whenever the hoplite becomes targeted by a spell, that spell's caster chooses whether the following happens: - The hoplite sinks its teeth into a creature within reach. Until the end of combat, the hoplite gains a +1 bonus to damage rolls and Strength and Dexterity checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). Until the targeted creature finishes a long rest, that creature gains a -1 bonus to damage rolls and Strength and Dexterity checks, and its maximum [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) are reduced by the same amount the hoplite gained. The target dies if this effect reduces its hit point maximum to 0."
     "name": "Heroic"
 "source":
   - "TBVXVIII"

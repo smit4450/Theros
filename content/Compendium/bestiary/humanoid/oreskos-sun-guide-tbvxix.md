@@ -38,13 +38,13 @@ aliases: ["Oreskos Sun Guide"]
 "skillsaves":
   - "name": "[Survival](Compendium/rules/skills.md#Survival)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Leonin"
 "cr": "2"
 "traits":
-  - "desc": "As a bonus action, the sun guide can let out an especially menacing roar. Creatures it chooses within 10 feet of itself that can hear it must succeed on a DC 12 Wisdom saving throw or become frightened of it until the end of its next turn."
+  - "desc": "As a bonus action, the sun guide can let out an especially menacing roar. Creatures it chooses within 10 feet of itself that can hear it must succeed on a DC 12 Wisdom saving throw or become [frightened](Compendium/rules/conditions.md#Frightened) of it until the end of its next turn."
     "name": "Daunting Roar (Recharges after a Short or Long Rest)"
-  - "desc": "At the beginning of the sun guide's turn, if the sun cast light on it as it was bowing at any point since the sun guide's last turn, it regains 11 (2d10) hit points."
+  - "desc": "At the beginning of the sun guide's turn, if the sun cast light on it as it was bowing at any point since the sun guide's last turn, it regains 11 (2d10) [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Inspired"
   - "desc": "While the sun guide isn't wearing armor, its armor class includes its Wisdom modifier."
     "name": "Unarmored Defense"

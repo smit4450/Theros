@@ -40,7 +40,7 @@ aliases: ["Celestial Winged Bull"]
 "traits":
   - "desc": "If the bull moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, the target takes an extra 19 (3d12) piercing damage."
     "name": "Charge"
-  - "desc": "The bull has advantage on saving throws against spells and other magical effects."
+  - "desc": "The bull has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The bull's weapon attacks are magical."
     "name": "Magic Weapons"

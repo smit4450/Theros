@@ -48,11 +48,11 @@ Adventurers are most likely to run into these knights while they are escorting i
     "desc": "+7"
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+8"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Elvish, Sylvan"
 "cr": "5"
 "traits":
-  - "desc": "If the knight is mounted and moves at least 20 feet straight toward a target and then hits it with a lance attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone."
+  - "desc": "If the knight is mounted and moves at least 20 feet straight toward a target and then hits it with a lance attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Mounted Charge"
   - "desc": "The knight of autumn can communicate with beasts and plants as if they shared a language."
     "name": "Speak with Beasts and Plants"

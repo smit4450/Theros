@@ -42,10 +42,10 @@ Even when many of the soldiers who guarded Akros were called away, its safety wa
 "languages": "Understands basic commands in Akroan Common but can't speak"
 "cr": "0"
 "traits":
-  - "desc": "The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+  - "desc": "The mastiff has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone."
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Bite"
 "source":
   - "TBVXVII"

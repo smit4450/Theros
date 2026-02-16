@@ -52,11 +52,11 @@ aliases: ["Agent of the Fates"]
 "languages": "Thieves' cant plus any two languages, Common"
 "cr": "9"
 "traits":
-  - "desc": "During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit."
+  - "desc": "During its first turn, the assassin has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit."
     "name": "Assassinate"
   - "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
     "name": "Evasion"
-  - "desc": "The assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll."
+  - "desc": "The assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't [incapacitated](Compendium/rules/conditions.md#Incapacitated) and the assassin doesn't have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":
   - "desc": "The assassin makes two dagger attacks."

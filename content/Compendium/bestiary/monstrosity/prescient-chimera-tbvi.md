@@ -40,15 +40,15 @@ The prescient chimera has the head and wings of an owl, the body of a lion, and 
     "desc": "+3"
   - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": ""
 "cr": "1"
 "traits":
   - "desc": "The chimera doesn't provoke opportunity attacks when it flies out of an enemy's reach."
     "name": "Flyby"
-  - "desc": "The chimera has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+  - "desc": "The chimera has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on hearing or sight."
     "name": "Keen Hearing and Sight"
-  - "desc": "If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action."
+  - "desc": "If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone). If the target is [prone](Compendium/rules/conditions.md#Prone), the lion can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."

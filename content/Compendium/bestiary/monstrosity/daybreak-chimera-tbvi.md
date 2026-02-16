@@ -43,13 +43,13 @@ The daybreak chimera has the body and tail of a dragon, the heads of a ram-horne
     "desc": "+2"
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Understands Celestial but can't speak"
 "cr": "9"
 "traits":
-  - "desc": "The chimera has advantage on Wisdom (perception) checks that rely on sight."
+  - "desc": "The chimera has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (perception) checks that rely on sight."
     "name": "Keen Sight"
-  - "desc": "The chimera can’t be surprised, and it has advantage on saving throws against being knocked unconscious."
+  - "desc": "The chimera can’t be surprised, and it has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being knocked [unconscious](Compendium/rules/conditions.md#Unconscious)."
     "name": "Multiheaded"
 "actions":
   - "desc": "The chimera makes five attacks: two with its claw, one with its eagle bite, one with its lion bite, and one with its horn."

@@ -48,7 +48,7 @@ aliases: ["Akroan Conscriptor"]
     "desc": "+2"
   - "name": "[Deception](Compendium/rules/skills.md#Deception)"
     "desc": "+2"
-"condition_immunities": "charmed"
+"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
 "senses": "passive Perception 10"
 "languages": "Common, Any three languages"
 "cr": "2"
@@ -56,7 +56,7 @@ aliases: ["Akroan Conscriptor"]
   - "desc": "_Melee Weapon Attack:_ +5 to hit, reach 10 ft., one target. _Hit:_ 12 (2d8 + 3) slashing damage."
     "name": "Whip"
 "reactions":
-  - "desc": "Whenever the conscriptor becomes targeted by a spell, that spell's caster chooses whether the following happens: - The conscriptor's red crystal ball becomes wreathed with electricity, and it chooses a creature it can see. Until the end of the conscriptor's next turn, that creature becomes charmed and has a +2 initiative bonus. This effect ends prematurely if the conscriptor loses contact with its ball."
+  - "desc": "Whenever the conscriptor becomes targeted by a spell, that spell's caster chooses whether the following happens: - The conscriptor's red crystal ball becomes wreathed with electricity, and it chooses a creature it can see. Until the end of the conscriptor's next turn, that creature becomes [charmed](Compendium/rules/conditions.md#Charmed) and has a +2 initiative bonus. This effect ends prematurely if the conscriptor loses contact with its ball."
     "name": "Heroic"
 "source":
   - "TBVXVI"

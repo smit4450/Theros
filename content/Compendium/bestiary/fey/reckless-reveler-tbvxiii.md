@@ -51,9 +51,9 @@ aliases: ["Reckless Reveler"]
 "traits":
   - "desc": "While the satyr bears a lit torch, its ram attacks deal an extra 4 (1d8) fire damage per lit torch."
     "name": "Careless Ramming"
-  - "desc": "If the celebrant moves at least 15 feet straight toward a target and then hits it with its ram attack on the same turn, the target takes an extra 5 (2d4) slashing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone."
+  - "desc": "If the celebrant moves at least 15 feet straight toward a target and then hits it with its ram attack on the same turn, the target takes an extra 5 (2d4) slashing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Charge"
-  - "desc": "The satyr has advantage on saving throws against spells and other magical effects."
+  - "desc": "The satyr has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Whenever the celebrant makes a long or high jump, it can cover an additional 1d8 feet, even when making a standing jump. This extra distance costs movement as normal."
     "name": "Mirthful Leaps"
@@ -61,7 +61,7 @@ aliases: ["Reckless Reveler"]
     "name": "Siege Monster"
   - "desc": "Magic can’t put the satyr to sleep."
     "name": "Sleepless Reveler"
-  - "desc": "As a bonus action, the reveler can ignite itself. Any objects within 5 feet also ignite, and the reveler drops to 0 hit points."
+  - "desc": "As a bonus action, the reveler can ignite itself. Any objects within 5 feet also ignite, and the reveler drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Hedonism"
 "actions":
   - "desc": "The satyr makes two ram attacks or two torch attacks."

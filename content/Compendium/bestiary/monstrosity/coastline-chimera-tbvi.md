@@ -46,11 +46,11 @@ The coastline chimera has the body and head of a lion, the wings of an eagle, a 
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "If the chimera moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+  - "desc": "If the chimera moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Charge"
-  - "desc": "The chimera can’t be surprised, and it has advantage on saving throws against being knocked unconscious."
+  - "desc": "The chimera can’t be surprised, and it has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being knocked [unconscious](Compendium/rules/conditions.md#Unconscious)."
     "name": "Multiheaded"
-  - "desc": "If the chimera moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the chimera can make one bite attack against it as a bonus action."
+  - "desc": "If the chimera moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone). If the target is [prone](Compendium/rules/conditions.md#Prone), the chimera can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
   - "desc": "The chimera makes three attacks: one with its lion bite, one with its ram attack, and one with its snake bite."

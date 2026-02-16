@@ -51,11 +51,11 @@ aliases: ["Voyaging Satyr"]
 "languages": "Sylvan, Common, Druidic, Any two languages"
 "cr": "1"
 "traits":
-  - "desc": "The druid has advantage on saving throws against spells and other magical effects."
+  - "desc": "The druid has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Whenever the druid makes a long or high jump, it can cover an additional 1d8 feet, even when making a standing jump. This extra distance costs movement as normal."
     "name": "Mirthful Leaps"
-  - "desc": "The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +5 to hit with spell attacks). It has the following druid spells prepared: • Cantrips (at will): druidcraft, produce flame, shillelagh • 1st level (4 slots): entangle, goodberry, longstrider, speak with animals • 2nd level (3 slots): animal messenger, barkskin"
+  - "desc": "The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +5 to hit with spell attacks). It has the following druid spells prepared: • Cantrips (at will): [Druidcraft](Compendium/spells/druidcraft-xphb.md), [Produce Flame](Compendium/spells/produce-flame-xphb.md), shillelagh • 1st level (4 slots): [Entangle](Compendium/spells/entangle-xphb.md), [Goodberry](Compendium/spells/goodberry-xphb.md), [Longstrider](Compendium/spells/longstrider-xphb.md), speak with animals • 2nd level (3 slots): animal messenger, barkskin"
     "name": "Spellcasting"
 "actions":
   - "desc": "Melee Weapon Attack: +3 to hit (+5 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands."

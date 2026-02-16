@@ -38,13 +38,13 @@ aliases: ["Griffin Dreamfinder"]
 "skillsaves":
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "truesight 60 ft., passive Perception 10"
+"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
   - "desc": "The griffin passively sees magical radiation within 60 feet of itself as a dim colored glow which can be obstructed by other things it sees."
     "name": "Arcane Sight"
-  - "desc": "The griffin has advantage on Wisdom (Perception) checks that rely on sight."
+  - "desc": "The griffin has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on sight."
     "name": "Keen Sight"
 "actions":
   - "desc": "The griffin makes two attacks: one with its beak and one with its claws."

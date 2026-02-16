@@ -43,7 +43,7 @@ aliases: ["Irregular of Kytheon"]
 "languages": "Common, Any one language"
 "cr": "4"
 "traits":
-  - "desc": "The irregular has advantage on an attack roll against a creature if at least one of the irregular's allies is within 5 ft. of the creature and the ally isn't incapacitated."
+  - "desc": "The irregular has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the irregular's allies is within 5 ft. of the creature and the ally isn't [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The irregular has a -1 penalty on damage rolls and Strength and Dexterity checks, and its hit point maximum is reduced by 4 (1d8). The first time the irregular deals damage to a player character, it loses this trait permanently."
     "name": "Unrenowned"
@@ -52,7 +52,7 @@ aliases: ["Irregular of Kytheon"]
     "name": "Multiattack"
   - "desc": "_Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (1d8 + 5) bludgeoning damage, or 10 (1d10 + 5) bludgeoning damage if used with two hands to make a melee attack."
     "name": "Warhammer"
-  - "desc": "_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. The irregular attempts to use both hands to restrain a Medium or smaller creature within 5 feet of it. That creature must succeed on a DC 10 Dexterity saving throw or become grappled by the irregular (escape DC 12). Until this grapple ends, the target is restrained, and the irregular can't perform actions with its arms or hands."
+  - "desc": "_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. The irregular attempts to use both hands to restrain a Medium or smaller creature within 5 feet of it. That creature must succeed on a DC 10 Dexterity saving throw or become [grappled](Compendium/rules/conditions.md#Grappled) by the irregular (escape DC 12). Until this grapple ends, the target is [restrained](Compendium/rules/conditions.md#Restrained), and the irregular can't perform actions with its arms or hands."
     "name": "Restrain"
 "source":
   - "TBVXVIII"

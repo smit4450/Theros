@@ -47,11 +47,11 @@ aliases: ["Wildfire Cerberus"]
 "traits":
   - "desc": "As a bonus action, the cerberus can move up to its speed toward a hostile creature that it can see."
     "name": "Aggressive"
-  - "desc": "The cerberus can’t be surprised, and it has advantage on saving throws against being knocked unconscious."
+  - "desc": "The cerberus can’t be surprised, and it has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being knocked [unconscious](Compendium/rules/conditions.md#Unconscious)."
     "name": "Multiheaded"
-  - "desc": "The cerberus has advantage on an attack roll against a creature if at least one of the cerberus’s allies is within 5 feet of the creature and the ally isn’t incapacitated."
+  - "desc": "The cerberus has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the cerberus’s allies is within 5 feet of the creature and the ally isn’t [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
-  - "desc": "When the cerberus would be reduced to 12 or fewer hit points, it first gains 6 temporary hit points. If it survives, each of its three heads exhales fire in a 15-foot cone. Each creature in those areas must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one. Any flammable objects in the areas ignite."
+  - "desc": "When the cerberus would be reduced to 12 or fewer [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it first gains 6 temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). If it survives, each of its three heads exhales fire in a 15-foot cone. Each creature in those areas must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one. Any flammable objects in the areas ignite."
     "name": "Wildfire (Mythic Trait; Recharges after a Short or Long Rest)"
 "actions":
   - "desc": "The cerberus makes three bite attacks."

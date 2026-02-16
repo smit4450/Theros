@@ -44,18 +44,18 @@ aliases: ["Silent Artisan"]
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Giant"
 "cr": "18"
 "traits":
-  - "desc": "The giant has advantage on Dexterity (Stealth) checks made to hide in mountainous rocky terrain."
+  - "desc": "The giant has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity (Stealth) checks made to hide in mountainous rocky terrain."
     "name": "Stone Camouflage"
   - "desc": "The artisan deals double damage to objects and structures."
     "name": "Siege Monster"
   - "desc": "Unless provoked, the giant ignores all nonflying things that are Huge or smaller and all flying things that are Large or smaller."
     "name": "Titanic Nature"
 "actions":
-  - "desc": "Ranged Weapon Attack: +9 to hit, range 120/480 ft., one target. Hit: 30 (6d8 + 3) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone."
+  - "desc": "Ranged Weapon Attack: +9 to hit, range 120/480 ft., one target. Hit: 30 (6d8 + 3) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Boulder"
 "reactions":
   - "desc": "If a rock or similar object is hurled at the giant, the giant can, with a successful DC 16 Dexterity saving throw, catch the missile and take no bludgeoning damage from it."

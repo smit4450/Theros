@@ -51,7 +51,7 @@ aliases: ["Pheres-Band Raider"]
 "languages": "Common, Sylvan"
 "cr": "2"
 "traits":
-  - "desc": "The centaur has advantage on initiative rolls."
+  - "desc": "The centaur has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "If the centaur moves at least 30 feet straight toward a target and then hits it with a melee attack on the same turn, it can immediately follow that attack with a bonus action, making one attack against the target with its hooves."
     "name": "Charge"
@@ -64,7 +64,7 @@ aliases: ["Pheres-Band Raider"]
 "actions":
   - "desc": "Melee Weapon Attack: +6 to hit, one target. Hit: 4 (1d4 + 2) bludgeoning damage."
     "name": "Hooves"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 12 Strength saving throw or be knocked prone."
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 12 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Shield Bash"
   - "desc": "_Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage in melee, or 4 (1d6 + 1) piercing damage at range."
     "name": "Spear"

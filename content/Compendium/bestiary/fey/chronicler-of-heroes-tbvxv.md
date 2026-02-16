@@ -53,7 +53,7 @@ aliases: ["Chronicler of Heroes"]
     "name": "Charge"
   - "desc": "The chronicler counts as one size larger when determining its carrying capacity and the weight it can push or drag. In addition, any climb that requires hands and feet is especially difficult for it because of its equine legs. When it makes such a climb, each foot of movement costs it 4 extra feet instead of the normal 1 extra foot."
     "name": "Equine Build"
-  - "desc": "The chronicler's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: _silent image_, _legend lore_ 2/day: _charm person_"
+  - "desc": "The chronicler's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [Silent Image](Compendium/spells/silent-image-xphb.md), [Legend Lore](Compendium/spells/legend-lore-xphb.md) 2/day: [Charm Person](Compendium/spells/charm-person-xphb.md)"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "Melee Weapon Attack: one target. +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage."

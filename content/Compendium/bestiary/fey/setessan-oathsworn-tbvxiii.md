@@ -53,11 +53,11 @@ aliases: ["Setessan Oathsworn"]
 "languages": "Common, Sylvan"
 "cr": "2"
 "traits":
-  - "desc": "The oathsworn has advantage on initiative rolls."
+  - "desc": "The oathsworn has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "The oathsworn's attack rolls score a critical hit on a roll of 19 or 20 on the d20."
     "name": "Improved Critical"
-  - "desc": "The oathsworn has advantage on saving throws against spells and other magical effects."
+  - "desc": "The oathsworn has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Whenever the oathsworn makes a long or high jump, it can cover an additional 1d8 feet, even when making a standing jump. This extra distance costs movement as normal."
     "name": "Mirthful Leaps"
@@ -69,9 +69,9 @@ aliases: ["Setessan Oathsworn"]
   - "desc": "_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage."
     "name": "Ram"
 "reactions":
-  - "desc": "Whenever the oathsworn is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the oathsworn gains a +2 bonus to damage rolls and Strength checks, and it gains 9 (2d8) temporary hit points."
+  - "desc": "Whenever the oathsworn is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the oathsworn gains a +2 bonus to damage rolls and Strength checks, and it gains 9 (2d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Heroic"
-  - "desc": "The oathsworn imposes disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the oathsworn. The oathsworn must be able to see the attacker."
+  - "desc": "The oathsworn imposes [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on the attack roll of a creature within 5 feet of it whose target isn't the oathsworn. The oathsworn must be able to see the attacker."
     "name": "Protection"
 "source":
   - "TBVXIII"

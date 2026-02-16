@@ -56,7 +56,7 @@ aliases: ["Prophet of Kruphix"]
     "name": "Blessings of the Gods"
   - "desc": "Just the prophet seeks insights from interpreting the divine, so too does Kruphix occasionally seek to manipulate the world through the prophet. Sometimes Kruphix might speak directly, be it with dramatic manifestations or direct possession of the prophet. Although Kruphix’s words might be steeped in metaphors, should he wish to make his intentions clear, he often finds dramatic ways to make his thoughts known."
     "name": "Divine Influence"
-  - "desc": "The prophet's innate spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: _guidance_, _light_, _thaumaturgy_ 3/day: _bless_, _slow_, _healing word_, _hold person_ 1/day: _augury_, _scrying_, _time stop_"
+  - "desc": "The prophet's innate spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: _guidance_, [Light](Compendium/spells/light-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md) 3/day: [Bless](Compendium/spells/bless-xphb.md), [Slow](Compendium/spells/slow-xphb.md), [Healing Word](Compendium/spells/healing-word-xphb.md), [Hold Person](Compendium/spells/hold-person-xphb.md) 1/day: [Augury](Compendium/spells/augury-xphb.md), [Scrying](Compendium/spells/scrying-xphb.md), [Time Stop](Compendium/spells/time-stop-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The prophet possesses unparalleled experience in divining Kruphix's whims from cryptic visions and mundane forces."
     "name": "Interpreter of Signs"
@@ -64,7 +64,7 @@ aliases: ["Prophet of Kruphix"]
   - "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) force damage."
     "name": "Eldritch Touch"
 "reactions":
-  - "desc": "When the oracle or a creature it can see makes an attack roll, a saving throw, or an ability check, the oracle can cause the roll to be made with advantage or disadvantage."
+  - "desc": "When the oracle or a creature it can see makes an attack roll, a saving throw, or an ability check, the oracle can cause the roll to be made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
     "name": "Divine Insight (3/Day)"
 "source":
   - "TBVXX"

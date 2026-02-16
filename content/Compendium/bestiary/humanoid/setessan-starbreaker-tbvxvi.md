@@ -48,18 +48,18 @@ aliases: ["Setessan Starbreaker"]
 "languages": "Common, any two languages"
 "cr": "3"
 "traits":
-  - "desc": "The warrior has advantage on initiative rolls."
+  - "desc": "The warrior has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "The warrior's attack rolls score a critical hit on a roll of 19 or 20 on the d20."
     "name": "Improved Critical"
-  - "desc": "The human warrior (attacker)'s innate spellcasting ability is Charisma (spell save DC 10, +2 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 3/day: _dispel magic_"
+  - "desc": "The human warrior (attacker)'s innate spellcasting ability is Charisma (spell save DC 10, +2 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 3/day: [Dispel Magic](Compendium/spells/dispel-magic-xphb.md)"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The warrior can attack twice, instead of once, whenever it takes the Attack action on its turn."
     "name": "Extra Attack"
   - "desc": "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage."
     "name": "Scimitar"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 12 Strength saving throw or be knocked prone."
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 12 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Shield Bash"
 "source":
   - "TBVXVI"

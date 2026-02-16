@@ -49,9 +49,9 @@ aliases: ["Satyr Hoplite"]
 "languages": "Sylvan, Common"
 "cr": "1"
 "traits":
-  - "desc": "The hoplite has advantage on saving throws against being charmed, frightened, grappled, or restrained while it is within 5 feet of at least one ally."
+  - "desc": "The hoplite has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled), or [restrained](Compendium/rules/conditions.md#Restrained) while it is within 5 feet of at least one ally."
     "name": "Formation Tactics"
-  - "desc": "The hoplite has advantage on saving throws against spells and other magical effects."
+  - "desc": "The hoplite has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Whenever the hoplite makes a long or high jump, it can cover an additional 1d8 feet, even when making a standing jump. This extra distance costs movement as normal."
     "name": "Mirthful Leaps"
@@ -63,7 +63,7 @@ aliases: ["Satyr Hoplite"]
   - "desc": "_Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage."
     "name": "Scimitar"
 "reactions":
-  - "desc": "Whenever the oathsworn is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the oathsworn gains a +1 bonus to damage rolls and Strength checks, and it gains 4 (1d8) temporary hit points."
+  - "desc": "Whenever the oathsworn is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the oathsworn gains a +1 bonus to damage rolls and Strength checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Heroic"
 "source":
   - "TBVXIII"

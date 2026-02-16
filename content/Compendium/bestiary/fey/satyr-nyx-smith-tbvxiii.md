@@ -48,11 +48,11 @@ aliases: ["Satyr Nyx-Smith"]
 "languages": "Sylvan, Common"
 "cr": "1/4"
 "traits":
-  - "desc": "The satyr has advantage on initiative rolls."
+  - "desc": "The satyr has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "At the beginning of the satyr's turn, if the satyr has used the bellows since its last turn, it uses a bonus action to summon a **nyxborn fire elemental** that appears in an unoccupied space that the worshiper can see within 5 feet of itself. The summoned elemental is friendly to its summoner and other elemental summoned this way."
     "name": "Inspired"
-  - "desc": "The satyr has advantage on saving throws against spells and other magical effects."
+  - "desc": "The satyr has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Whenever the satyr makes a long or high jump, it can cover an additional 1d8 feet, even when making a standing jump. This extra distance costs movement as normal."
     "name": "Mirthful Leaps"

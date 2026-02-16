@@ -48,7 +48,7 @@ aliases: ["Akroan Skyguard"]
   - "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft., or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
 "reactions":
-  - "desc": "Whenever the skyguard becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the skyguard gains a +1 bonus to damage rolls and Strength and Dexterity checks, and it gains 4 (1d8) temporary hit points."
+  - "desc": "Whenever the skyguard becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the skyguard gains a +1 bonus to damage rolls and Strength and Dexterity checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Heroic"
 "source":
   - "TBVXVIII"

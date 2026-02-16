@@ -47,7 +47,7 @@ A nyxborn satyr, one of Nylea's creations.
 "traits":
   - "desc": "Whenever the warrior makes a long or high jump, it can cover an additional 1d8 feet, even when making a standing jump. This extra distance costs movement as normal."
     "name": "Mirthful Leaps"
-  - "desc": "The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't incapacitated."
+  - "desc": "The warrior has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The satyr's weapon attacks are magical."
     "name": "Magic Weapons"

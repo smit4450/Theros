@@ -44,7 +44,7 @@ aliases: ["Triton Cavalry"]
   - "name": "[Animal Handling](Compendium/rules/skills.md#Animal Handling)"
     "desc": "+2"
 "damage_resistances": "cold"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Primordial"
 "cr": "2"
 "traits":
@@ -52,9 +52,9 @@ aliases: ["Triton Cavalry"]
     "name": "Amphibious"
   - "desc": "Aquatic beasts have an extraordinary affinity with tritons. Tritons can communicate simple ideas with beasts that can breathe water. Those beasts can understand the triton's words, though the triton has no special ability to understand the beasts in return."
     "name": "Emissary of the Sea"
-  - "desc": "The soldier has advantage on saving throws against being charmed, frightened, grappled, or restrained while it is within 5 feet of at least one ally."
+  - "desc": "The soldier has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled), or [restrained](Compendium/rules/conditions.md#Restrained) while it is within 5 feet of at least one ally."
     "name": "Formation Tactics"
-  - "desc": "The triton soldier's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day each: _fog cloud_"
+  - "desc": "The triton soldier's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day each: [Fog Cloud](Compendium/spells/fog-cloud-xphb.md)"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The soldier makes two melee attacks."

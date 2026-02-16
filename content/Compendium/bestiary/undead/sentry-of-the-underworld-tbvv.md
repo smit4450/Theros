@@ -40,12 +40,12 @@ aliases: ["Sentry of the Underworld"]
     "desc": "+5"
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion), [poisoned](Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The sentry has advantage on Wisdom (Perception) checks that rely on sight."
+  - "desc": "The sentry has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on sight."
     "name": "Keen Sight"
 "actions":
   - "desc": "The sentry makes two attacks: one with its beak and one with its claws."

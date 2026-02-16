@@ -48,7 +48,7 @@ aliases: ["Stonewise Fortifier"]
 "languages": "Common, any seven languages"
 "cr": "1"
 "traits":
-  - "desc": "The stonewise fortifier's innate spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 3/day: _fabricate_, _stone shape_, _creation_, _wall of stone_"
+  - "desc": "The stonewise fortifier's innate spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 3/day: [Fabricate](Compendium/spells/fabricate-xphb.md), [Stone Shape](Compendium/spells/stone-shape-xphb.md), [Creation](Compendium/spells/creation-xphb.md), [Wall Of Stone](Compendium/spells/wall-of-stone-xphb.md)"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "_Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage."

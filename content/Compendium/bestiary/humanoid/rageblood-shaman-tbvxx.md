@@ -59,15 +59,15 @@ aliases: ["Rageblood Shaman"]
     "name": "Divine Influence"
   - "desc": "Immediately after the shaman uses the Dash action on its turn and moves at least 20 feet, it can make one melee attack with its horns as a bonus action."
     "name": "Goring Rush"
-  - "desc": "The shaman's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: _guidance_, _light_, _thaumaturgy_ 3/day: _bless_, _guiding bolt_, _healing word_, _hold person_ 1/day: _augury_, _scrying_"
+  - "desc": "The shaman's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: _guidance_, [Light](Compendium/spells/light-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md) 3/day: [Bless](Compendium/spells/bless-xphb.md), [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md), [Healing Word](Compendium/spells/healing-word-xphb.md), [Hold Person](Compendium/spells/hold-person-xphb.md) 1/day: [Augury](Compendium/spells/augury-xphb.md), [Scrying](Compendium/spells/scrying-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The shaman possesses unparalleled experience in divining Mogis's whims from cryptic visions and mundane forces."
     "name": "Interpreter of Signs"
-  - "desc": "The minotaur starves itself prior to battle. If it kills a creature and has not eaten, there is a 50% chance it will stop fighting to eat the corpse. If the minotaur eats, each hostile creature that can see it must succeed on a DC 11 Wisdom saving throw or be frightened of the minotaur until the end of the minotaur's next turn. If a hungry minotaur does not eat after a kill, it gets a +1 bonus to damage rolls until it eats."
+  - "desc": "The minotaur starves itself prior to battle. If it kills a creature and has not eaten, there is a 50% chance it will stop fighting to eat the corpse. If the minotaur eats, each hostile creature that can see it must succeed on a DC 11 Wisdom saving throw or be [frightened](Compendium/rules/conditions.md#Frightened) of the minotaur until the end of the minotaur's next turn. If a hungry minotaur does not eat after a kill, it gets a +1 bonus to damage rolls until it eats."
     "name": "Ragegore Hunger"
-  - "desc": "The shaman can move in and out of a Medium or smaller creature's space. If it would, it uses a bonus action to attack that creature with an unarmed strike. That creature must succeed on a DC 11 Strength saving throw or be knocked prone. If the creature succeeds, the shaman can't enter that space and must end its turn immediately. If the shaman stops on top of that creature, that creature becomes restrained until the shaman moves off it (escape DC 11)."
+  - "desc": "The shaman can move in and out of a Medium or smaller creature's space. If it would, it uses a bonus action to attack that creature with an unarmed strike. That creature must succeed on a DC 11 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone). If the creature succeeds, the shaman can't enter that space and must end its turn immediately. If the shaman stops on top of that creature, that creature becomes [restrained](Compendium/rules/conditions.md#Restrained) until the shaman moves off it (escape DC 11)."
     "name": "Trample"
-  - "desc": "Other minotaur creatures within 30 feet of the shaman that can hear its continuous rantings roll an additional die when determining damage they deal, and they have 4 temporary hit points. They also have the Trample trait above. This effect ends for any creature that is no longer within this radius or that can no longer hear the shaman, or if the shaman is silenced."
+  - "desc": "Other minotaur creatures within 30 feet of the shaman that can hear its continuous rantings roll an additional die when determining damage they deal, and they have 4 temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). They also have the Trample trait above. This effect ends for any creature that is no longer within this radius or that can no longer hear the shaman, or if the shaman is silenced."
     "name": "Word of Hope"
 "actions":
   - "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) force damage."
@@ -77,7 +77,7 @@ aliases: ["Rageblood Shaman"]
   - "desc": "_Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage."
     "name": "Unarmed Strike"
 "reactions":
-  - "desc": "When the shaman or a creature it can see makes an attack roll, a saving throw, or an ability check, the shaman can cause the roll to be made with advantage or disadvantage."
+  - "desc": "When the shaman or a creature it can see makes an attack roll, a saving throw, or an ability check, the shaman can cause the roll to be made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
     "name": "Divine Insight (3/Day)"
 "source":
   - "TBVXX"

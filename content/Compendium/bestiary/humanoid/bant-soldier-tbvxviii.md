@@ -45,7 +45,7 @@ Soldiers summoned by Elspeth are from Bant, across the Multiverse.
 "languages": "Common"
 "cr": "1"
 "traits":
-  - "desc": "The soldier has advantage on saving throws against being charmed, frightened, grappled, or restrained while it is within 5 feet of at least one ally."
+  - "desc": "The soldier has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled), or [restrained](Compendium/rules/conditions.md#Restrained) while it is within 5 feet of at least one ally."
     "name": "Formation Tactics"
 "actions":
   - "desc": "The soldier makes two melee spear attacks or two shortsword attacks."

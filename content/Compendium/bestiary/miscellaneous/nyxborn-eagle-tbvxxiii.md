@@ -41,7 +41,7 @@ aliases: ["Nyxborn Eagle"]
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The eagle has advantage on Wisdom (Perception) checks that rely on sight."
+  - "desc": "The eagle has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on sight."
     "name": "Keen Sight"
   - "desc": "The eagle's weapon attacks are magical."
     "name": "Magic Weapons"

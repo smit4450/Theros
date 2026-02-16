@@ -63,7 +63,7 @@ aliases: ["Nylea's Disciple"]
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage."
     "name": "Hooves"
 "reactions":
-  - "desc": "When the disciple rolls for initiative, it gains temporary hit points equal to the number of allied centaurs within 5 feet of it."
+  - "desc": "When the disciple rolls for initiative, it gains temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to the number of allied centaurs within 5 feet of it."
     "name": "Nylea's Blessing"
 "source":
   - "TBVXV"

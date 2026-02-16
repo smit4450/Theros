@@ -43,7 +43,7 @@ The shimmerwing chimera is a nyxborn creature with the body of an eel, the head 
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The chimera's innate spellcasting ability is Charisma (spell save DC 8, +0 to hit with spell attacks). It can innately cast the following spells, requiring no components: At will: _dispel magic_"
+  - "desc": "The chimera's innate spellcasting ability is Charisma (spell save DC 8, +0 to hit with spell attacks). It can innately cast the following spells, requiring no components: At will: [Dispel Magic](Compendium/spells/dispel-magic-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The chimera can hold its breath for 15 minutes."
     "name": "Hold Breath"
@@ -54,11 +54,11 @@ The shimmerwing chimera is a nyxborn creature with the body of an eel, the head 
   - "desc": "The chimera glows with the soft light of the night sky, shedding dim light in a 15-foot radius."
     "name": "Starlight Form"
 "actions":
-  - "desc": "The chimera makes three attacks: one with its claw, one with its bite, and one with its _dispel magic_."
+  - "desc": "The chimera makes three attacks: one with its claw, one with its bite, and one with its [Dispel Magic](Compendium/spells/dispel-magic-xphb.md)."
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 3) bludgeoning damage, and the target is grappled (escape DC 11). The chimera has two claws, each of which can grapple only one target."
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 3) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 11). The chimera has two claws, each of which can grapple only one target."
     "name": "Claw"
 "source":
   - "TBVXXIII"

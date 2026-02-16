@@ -51,7 +51,7 @@ aliases: ["Pheres-Band Tromper"]
 "languages": "Common, Sylvan"
 "cr": "2"
 "traits":
-  - "desc": "The centaur has advantage on initiative rolls."
+  - "desc": "The centaur has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "If the centaur moves at least 30 feet straight toward a target and then hits it with a melee attack on the same turn, it can immediately follow that attack with a bonus action, making one attack against the target with its hooves."
     "name": "Charge"
@@ -67,7 +67,7 @@ aliases: ["Pheres-Band Tromper"]
   - "desc": "_Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage."
     "name": "Greataxe"
 "reactions":
-  - "desc": "At the beginning of the centaur's turn, if it made a greataxe attack during its last turn, it gains the following bonus: - Until the end of combat, the centaur gets a +1 bonus on all damage rolls and Strength and Dexterity checks, and it gains 4 (1d8) temporary hit points."
+  - "desc": "At the beginning of the centaur's turn, if it made a greataxe attack during its last turn, it gains the following bonus: - Until the end of combat, the centaur gets a +1 bonus on all damage rolls and Strength and Dexterity checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Inspired"
 "source":
   - "TBVXV"

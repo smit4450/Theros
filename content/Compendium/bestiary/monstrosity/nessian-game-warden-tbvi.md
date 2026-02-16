@@ -53,7 +53,7 @@ aliases: ["Nessian Game Warden"]
 "traits":
   - "desc": "As an action on its turn, the warden chooses a type of beast represented by one of its heads. It summons that type of beast within 250 feet of itself in a clear space."
     "name": "Call of the Wild"
-  - "desc": "The warden can’t be surprised, and it has advantage on saving throws against being knocked unconscious."
+  - "desc": "The warden can’t be surprised, and it has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being knocked [unconscious](Compendium/rules/conditions.md#Unconscious)."
     "name": "Multiheaded"
 "actions":
   - "desc": "The warden makes two fist attacks."

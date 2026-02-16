@@ -47,7 +47,7 @@ aliases: ["Dakra Mystic"]
   - "name": "[Religion](Compendium/rules/skills.md#Religion)"
     "desc": "+5"
 "damage_resistances": "cold"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Celestial, Common, Primordial"
 "cr": "1"
 "traits":
@@ -59,7 +59,7 @@ aliases: ["Dakra Mystic"]
     "name": "Divine Influence"
   - "desc": "The mystic can communicate simple ideas with beasts that can breathe water. They can understand its words, though it has no special ability to understand them in return."
     "name": "Emissary of the Sea"
-  - "desc": "The mystic's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day: _fog cloud_, _gust of wind_, _wall of water_"
+  - "desc": "The mystic's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day: [Fog Cloud](Compendium/spells/fog-cloud-xphb.md), [Gust Of Wind](Compendium/spells/gust-of-wind-xphb.md), _wall of water_"
     "name": "Innate Spellcasting"
   - "desc": "The mystic possesses unparalleled experience in divining godly whims from cryptic visions and mundane forces."
     "name": "Interpreter of Signs"
@@ -69,7 +69,7 @@ aliases: ["Dakra Mystic"]
   - "desc": "Melee Spell Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) force damage."
     "name": "Eldritch Touch"
 "reactions":
-  - "desc": "When the mystic or a creature it can see makes an attack roll, a saving throw, or an ability check, the mystic can cause the roll to be made with advantage or disadvantage."
+  - "desc": "When the mystic or a creature it can see makes an attack roll, a saving throw, or an ability check, the mystic can cause the roll to be made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
     "name": "Divine Insight (3/Day)"
 "source":
   - "TBVXX"

@@ -43,9 +43,9 @@ aliases: ["Mogis's Marauder"]
 "languages": "Common, Minotaur"
 "cr": "1/2"
 "traits":
-  - "desc": "At the start of its turn, the marauder can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+  - "desc": "At the start of its turn, the marauder can gain [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on all melee weapon attack rolls during that turn, but attack rolls against it have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) until the start of its next turn."
     "name": "Reckless"
-  - "desc": "The marauder and all allied creatures within 30 ft. of it that can hear its war cry have advantage on initiative rolls."
+  - "desc": "The marauder and all allied creatures within 30 ft. of it that can hear its war cry have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "War Cry"
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."

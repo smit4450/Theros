@@ -38,8 +38,8 @@ Introduced to Theros from Zendikar.
 "saves":
   - "charisma": !!int "5"
 "damage_immunities": "bludgeoning, piercing, and slashing from nonmagical attacks"
-"condition_immunities": "frightened"
-"senses": "truesight 120 ft., passive Perception 10"
+"condition_immunities": "[frightened](Compendium/rules/conditions.md#Frightened)"
+"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception 10"
 "languages": ""
 "cr": "28"
 "traits":
@@ -50,11 +50,11 @@ Introduced to Theros from Zendikar.
   - "desc": "While out of water, the kraken can hold its breath for 1 hour."
     "name": "Hold Breath"
 "actions":
-  - "desc": "Melee Weapon Attack: +16 to hit, reach 5 ft., one target. Hit: 50 (9d8 + 9) piercing damage. If the target is a Large or smaller creature grappled by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 31 (9d6) acid damage at the start of each of the kraken's turns. If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 24 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone."
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 5 ft., one target. Hit: 50 (9d8 + 9) piercing damage. If the target is a Large or smaller creature [grappled](Compendium/rules/conditions.md#Grappled) by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is [blinded](Compendium/rules/conditions.md#Blinded) and [restrained](Compendium/rules/conditions.md#Restrained), it has total cover against attacks and other effects outside the kraken, and it takes 31 (9d6) acid damage at the start of each of the kraken's turns. If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 24 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](Compendium/rules/conditions.md#Prone) in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer [restrained](Compendium/rules/conditions.md#Restrained) by it and can escape from the corpse using 15 feet of movement, exiting [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 30 ft., one target. Hit: 40 (9d6 + 9) bludgeoning damage, and the target is grappled (escape DC 24). Until this grapple ends, the target is restrained. The kraken has twelve arms, each of which can grapple one target."
+  - "desc": "Melee Weapon Attack: +11 to hit, reach 30 ft., one target. Hit: 40 (9d6 + 9) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 24). Until this grapple ends, the target is [restrained](Compendium/rules/conditions.md#Restrained). The kraken has twelve arms, each of which can grapple one target."
     "name": "Arm"
-  - "desc": "One Large or smaller object held or creature grappled by the kraken's arm is thrown up to 60 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 24 Dexterity saving throw or take the same damage and be knocked prone."
+  - "desc": "One Large or smaller object held or creature [grappled](Compendium/rules/conditions.md#Grappled) by the kraken's arm is thrown up to 60 feet in a random direction and knocked [prone](Compendium/rules/conditions.md#Prone). If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 24 Dexterity saving throw or take the same damage and be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Fling"
 "legendary_actions":
   - "desc": "The kraken makes one arm attack or uses its Fling."

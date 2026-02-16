@@ -44,7 +44,7 @@ aliases: ["Gnarled Scarhide"]
 "traits":
   - "desc": "The minotaur can't make opportunity attacks."
     "name": "Gnarled"
-  - "desc": "The minotaur has advantage on saving throws against spells and other magical effects."
+  - "desc": "The minotaur has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The minotaur's weapon attacks are magical."
     "name": "Magic Weapons"

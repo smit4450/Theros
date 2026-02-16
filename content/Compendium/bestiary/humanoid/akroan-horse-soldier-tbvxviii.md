@@ -47,7 +47,7 @@ aliases: ["Akroan Horse Soldier"]
 "languages": "Common"
 "cr": "2"
 "traits":
-  - "desc": "The soldier has advantage on saving throws against being charmed, frightened, grappled, or restrained while it is within 5 feet of at least one ally."
+  - "desc": "The soldier has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled), or [restrained](Compendium/rules/conditions.md#Restrained) while it is within 5 feet of at least one ally."
     "name": "Formation Tactics"
   - "desc": "While in dim light or darkness, the soldier can take the Hide action as a bonus action."
     "name": "Shadow Stealth"

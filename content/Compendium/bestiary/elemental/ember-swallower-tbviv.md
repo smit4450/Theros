@@ -36,7 +36,7 @@ A molten rock elemental in the shape of a manticore poses a serious threat.
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks"
 "damage_immunities": "fire"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "6"
 "traits":
@@ -44,7 +44,7 @@ A molten rock elemental in the shape of a manticore poses a serious threat.
     "name": "Fire Aura"
   - "desc": "For every 5 feet the ember swallower moves in water, or for every gallon of water splashed on it, it takes 1 cold damage."
     "name": "Water Susceptibility"
-  - "desc": "When the ember swallower is reduced to 0 hit points, it doesn’t die or fall unconscious. Instead, the damage creates cracks in its carapace, revealing its hearts. The ember swallower has three hearts in its chest. A heart has an AC of 14 and 20 hit points. It is immune to bludgeoning, piercing, and slashing damage from nonmagical attacks and to fire, and it is immune to all conditions. If it is forced to make a saving throw, treat its ability scores as 10 (+0). If it finishes a short or long rest, the carapace heals, any destroyed hearts regenerate, and the hearts are covered again. The ember swallower dies when all the hearts are destroyed."
+  - "desc": "When the ember swallower is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it doesn’t die or fall [unconscious](Compendium/rules/conditions.md#Unconscious). Instead, the damage creates cracks in its carapace, revealing its hearts. The ember swallower has three hearts in its chest. A heart has an AC of 14 and 20 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). It is immune to bludgeoning, piercing, and slashing damage from nonmagical attacks and to fire, and it is immune to all conditions. If it is forced to make a saving throw, treat its ability scores as 10 (+0). If it finishes a short or long rest, the carapace heals, any destroyed hearts regenerate, and the hearts are covered again. The ember swallower dies when all the hearts are destroyed."
     "name": "Hearts of the Beast (Mythic Trait; Recharges after a Short or Long Rest)"
 "actions":
   - "desc": "The ember swallower makes four attacks: one with its bite, one with its sting, and two with its claws."

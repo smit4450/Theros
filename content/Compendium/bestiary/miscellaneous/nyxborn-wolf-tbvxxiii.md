@@ -43,11 +43,11 @@ aliases: ["Nyxborn Wolf"]
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+  - "desc": "The wolf has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The wolf's weapon attacks are magical."
     "name": "Magic Weapons"
-  - "desc": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated."
+  - "desc": "The wolf has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "In addition to being a creature, the wolf is a 3rd-level divine transmutation spell with no target."
     "name": "Spell Nature"
@@ -56,7 +56,7 @@ aliases: ["Nyxborn Wolf"]
   - "desc": "While the wolf is in any of Theros's three realms, it can magically convey what it senses to Nylea."
     "name": "Telepathic Bond"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Bite"
 "source":
   - "TBVXXIII"

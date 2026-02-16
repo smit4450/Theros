@@ -39,14 +39,14 @@ aliases: ["Cruel Centaur Feeder"]
     "desc": "+2"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
 "senses": "passive Perception 10"
 "languages": "Sylvan, Common"
 "cr": "1"
 "traits":
   - "desc": "The centaur counts as one size larger when determining its carrying capacity and the weight it can push or drag. In addition, any climb that requires hands and feet is especially difficult for it because of its equine legs. When it makes such a climb, each foot of movement costs it 4 extra feet instead of the normal 1 extra foot."
     "name": "Equine Build"
-  - "desc": "The centaur doesn't suffer exhaustion from lack of food, drink, or sleep. It has disadvantage on ability checks, attack rolls, and saving throws."
+  - "desc": "The centaur doesn't suffer [exhaustion](Compendium/rules/conditions.md#Exhaustion) from lack of food, drink, or sleep. It has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on ability checks, attack rolls, and saving throws."
     "name": "Exhausted and Afraid"
 "actions":
   - "desc": "The centaur makes three attacks: one with its hooves and two with its feed attack."

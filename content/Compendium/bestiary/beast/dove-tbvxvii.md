@@ -37,11 +37,11 @@ aliases: ["Dove"]
 "skillsaves":
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "blindsight 60 ft., passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The dove can innately find its way to a specific fixed location that it is familiar with on the same plane of existence. As long as the dove is on the same plane of existence as the destination, it knows how far the destination is and in what direction it lies. It cannot innately navigate obstacles, however, such as a maze."
+  - "desc": "The dove can innately find its way to a specific fixed location that it is familiar with on the same plane of existence. As long as the dove is on the same plane of existence as the destination, it knows how far the destination is and in what direction it lies. It cannot innately navigate obstacles, however, such as a [Maze](Compendium/spells/maze-xphb.md)."
     "name": "Innate Sense of Direction"
 "actions":
   - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 piercing damage."

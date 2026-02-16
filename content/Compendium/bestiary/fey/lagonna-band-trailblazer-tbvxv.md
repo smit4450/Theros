@@ -65,7 +65,7 @@ aliases: ["Lagonna-Band Trailblazer"]
   - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4 + 0) bludgeoning damage."
     "name": "Hooves"
 "reactions":
-  - "desc": "Whenever the centaur becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the centaur gains a +1 bonus to damage rolls and Strength and Dexterity checks, and it gains 4 (1d8) temporary hit points."
+  - "desc": "Whenever the centaur becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the centaur gains a +1 bonus to damage rolls and Strength and Dexterity checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Heroic"
 "source":
   - "TBVXV"

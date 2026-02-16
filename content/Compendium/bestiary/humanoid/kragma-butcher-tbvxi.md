@@ -50,13 +50,13 @@ aliases: ["Kragma Butcher"]
 "languages": "Common, Minotaur, any one language"
 "cr": "2"
 "traits":
-  - "desc": "The butcher has advantage on initiative rolls."
+  - "desc": "The butcher has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "Immediately after the butcher uses the Dash action on its turn and moves at least 20 feet, it can make one melee attack with its horns as a bonus action."
     "name": "Goring Rush"
   - "desc": "The butcher's attack rolls score a critical hit on a roll of 19 or 20 on the d20."
     "name": "Improved Critical"
-  - "desc": "The butcher starves itself prior to battle. If it kills a creature, there is a 50% chance it will stop fighting to eat the corpse. If the butcher eats, each hostile creature that can see it must succeed on a DC 11 Wisdom saving throw or be frightened of the butcher until the end of the butcher's next turn. If a hungry butcher does not eat after a kill, it gets a +2 bonus to damage rolls and Strength and Dexterity checks until the end of its next turn."
+  - "desc": "The butcher starves itself prior to battle. If it kills a creature, there is a 50% chance it will stop fighting to eat the corpse. If the butcher eats, each hostile creature that can see it must succeed on a DC 11 Wisdom saving throw or be [frightened](Compendium/rules/conditions.md#Frightened) of the butcher until the end of the butcher's next turn. If a hungry butcher does not eat after a kill, it gets a +2 bonus to damage rolls and Strength and Dexterity checks until the end of its next turn."
     "name": "Insatiable Ragegore Hunger"
 "actions":
   - "desc": "The butcher can attack twice, instead of once, whenever it takes the Attack action on its turn."

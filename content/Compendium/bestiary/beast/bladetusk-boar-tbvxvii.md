@@ -39,11 +39,11 @@ aliases: ["Bladetusk Boar"]
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "If the boar moves at least 20 ft. straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+  - "desc": "If the boar moves at least 20 ft. straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Charge"
-  - "desc": "The boar can use its action to frighten someone with its menacing presence. When it does so, it chooses one creature that it can see within 30 feet of itself. If the target can see or hear the boar, the target must succeed on a DC 14 Wisdom saving throw or be frightened of the boar until the end of the boar's next turn. On subsequent turns, the boar can use its action to extend the duration of this effect on the frightened target until the end of the boar's next turn. This effect ends if the target ends its turn out of line of sight or more than 60 feet away from the boar.If the target succeeds on its saving throw, the boar can't use this feature on that target again for 24 hours."
+  - "desc": "The boar can use its action to frighten someone with its menacing presence. When it does so, it chooses one creature that it can see within 30 feet of itself. If the target can see or hear the boar, the target must succeed on a DC 14 Wisdom saving throw or be [frightened](Compendium/rules/conditions.md#Frightened) of the boar until the end of the boar's next turn. On subsequent turns, the boar can use its action to extend the duration of this effect on the [frightened](Compendium/rules/conditions.md#Frightened) target until the end of the boar's next turn. This effect ends if the target ends its turn out of line of sight or more than 60 feet away from the boar.If the target succeeds on its saving throw, the boar can't use this feature on that target again for 24 hours."
     "name": "Intimidating Presence"
-  - "desc": "If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."
+  - "desc": "If the boar takes 10 damage or less that would reduce it to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it is reduced to 1 hit point instead."
     "name": "Relentless (Recharges after a Short or Long Rest)"
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."

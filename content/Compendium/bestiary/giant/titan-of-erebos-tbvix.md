@@ -40,7 +40,7 @@ When someone escapes from the underworld, Erebos sometimes chooses to release th
   - "strength": !!int "13"
   - "dexterity": !!int "13"
 "damage_immunities": "necrotic"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Titan"
 "cr": "20"
 "traits":

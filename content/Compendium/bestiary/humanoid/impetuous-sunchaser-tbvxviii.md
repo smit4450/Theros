@@ -45,9 +45,9 @@ aliases: ["Impetuous Sunchaser"]
 "languages": "Common, any language"
 "cr": "1"
 "traits":
-  - "desc": "The creature has advantage on initiative rolls."
+  - "desc": "The creature has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
-  - "desc": "The sunchaser is outfitted with animated canvas wings (AC 10; 20 hit points; vulnerability to radiant, lightning, fire, slashing, piercing; immunity to cold, psychic; can't become blinded, charmed, deafened, exhausted, frightened, paralyzed, petrified, poisoned, prone, stunned, or unconscious). As long as the sunchaser has wings, it can fly. If the wings are destroyed while the sunchaser is flying, the sunchaser falls."
+  - "desc": "The sunchaser is outfitted with animated canvas wings (AC 10; 20 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md); vulnerability to radiant, lightning, fire, slashing, piercing; immunity to cold, psychic; can't become [blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened), exhausted, [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned), [prone](Compendium/rules/conditions.md#Prone), [stunned](Compendium/rules/conditions.md#Stunned), or [unconscious](Compendium/rules/conditions.md#Unconscious)). As long as the sunchaser has wings, it can fly. If the wings are destroyed while the sunchaser is flying, the sunchaser falls."
     "name": "Wings"
 "actions":
   - "desc": "The sunchaser makes two unarmed strikes."

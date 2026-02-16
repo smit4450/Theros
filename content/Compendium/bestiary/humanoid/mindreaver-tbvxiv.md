@@ -52,7 +52,7 @@ aliases: ["Mindreaver"]
 "languages": "Common, Giant, Leonin, Primordial, Minotaur, Sylvan"
 "cr": "5"
 "traits":
-  - "desc": "The mindreaver's spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components: At will: encode thoughts, friends 3/day each: phantasmal force, detect thoughts, dissonant whispers, sleep, suggestion 1/day each: feeblemind, mind blank, scrying, weird"
+  - "desc": "The mindreaver's spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components: At will: encode thoughts, friends 3/day each: phantasmal force, [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md), dissonant whispers, [Sleep](Compendium/spells/sleep-xphb.md), [Suggestion](Compendium/spells/suggestion-xphb.md) 1/day each: [Feeblemind](Compendium/spells/feeblemind-xphb.md), [Mind Blank](Compendium/spells/mind-blank-xphb.md), [Scrying](Compendium/spells/scrying-xphb.md), weird"
     "name": "Innate Spellcasting (Psionics)"
 "actions":
   - "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."

@@ -51,7 +51,7 @@ aliases: ["Heliod's Pilgrim"]
     "name": "Blessed Assurance"
   - "desc": "As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st."
     "name": "Divine Eminence"
-  - "desc": "The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). The priest has the following cleric spells prepared: • Cantrips (at will): light, sacred flame, thaumaturgy • 1st level (4 slots): cure wounds, guiding bolt, sanctuary • 2nd level (3 slots): lesser restoration, spiritual weapon • 3rd level (2 slots): dispel magic, spirit guardians"
+  - "desc": "The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). The priest has the following cleric spells prepared: • Cantrips (at will): [Light](Compendium/spells/light-xphb.md), [Sacred Flame](Compendium/spells/sacred-flame-xphb.md), thaumaturgy • 1st level (4 slots): [Cure Wounds](Compendium/spells/cure-wounds-xphb.md), [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md), sanctuary • 2nd level (3 slots): [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md), spiritual weapon • 3rd level (2 slots): [Dispel Magic](Compendium/spells/dispel-magic-xphb.md), spirit guardians"
     "name": "Spellcasting"
 "actions":
   - "desc": "The pilgrim makes two quarterstaff attacks."

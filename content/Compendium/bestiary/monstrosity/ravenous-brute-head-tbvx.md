@@ -37,7 +37,7 @@ The hydra is a reptilian horror with a crocodilian body and multiple heads on lo
 "skillsaves":
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "3"
 "traits":

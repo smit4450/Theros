@@ -49,18 +49,18 @@ aliases: ["War Priest of Heliod"]
 "traits":
   - "desc": "The priest's weapon attacks are magical."
     "name": "Magic Weapons"
-  - "desc": "The priest is a 9th-level spellcaster. The priest's spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). The priest has the following cleric spells prepared: Cantrip (at will): _light_, _mending_, _sacred flame_, _spare the dying_ 1st level (4 slots): _divine favor_, _guiding bolt_, _healing word_, _shield of faith_ 2nd level (3 slots): _lesser restoration_, _magic weapon_, _prayer of healing_, _silence_, _spiritual weapon_ 3rd level (3 slots): _beacon of hope_, _crusader's mantle_, _dispel magic_, _revivify_, _spirit guardians_, _water walk_ 4th level (3 slots): _banishment_, _freedom of movement_, _guardian of faith_, _stoneskin_ 5th level (1 slots): _flame strike_, _mass cure wounds_, _hold monster_"
+  - "desc": "The priest is a 9th-level spellcaster. The priest's spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). The priest has the following cleric spells prepared: Cantrip (at will): [Light](Compendium/spells/light-xphb.md), [Mending](Compendium/spells/mending-xphb.md), [Sacred Flame](Compendium/spells/sacred-flame-xphb.md), [Spare The Dying](Compendium/spells/spare-the-dying-xphb.md) 1st level (4 slots): [Divine Favor](Compendium/spells/divine-favor-xphb.md), [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md), [Healing Word](Compendium/spells/healing-word-xphb.md), [Shield Of Faith](Compendium/spells/shield-of-faith-xphb.md) 2nd level (3 slots): [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md), [Magic Weapon](Compendium/spells/magic-weapon-xphb.md), [Prayer Of Healing](Compendium/spells/prayer-of-healing-xphb.md), [Silence](Compendium/spells/silence-xphb.md), [Spiritual Weapon](Compendium/spells/spiritual-weapon-xphb.md) 3rd level (3 slots): [Beacon Of Hope](Compendium/spells/beacon-of-hope-xphb.md), _crusader's mantle_, [Dispel Magic](Compendium/spells/dispel-magic-xphb.md), [Revivify](Compendium/spells/revivify-xphb.md), [Spirit Guardians](Compendium/spells/spirit-guardians-xphb.md), [Water Walk](Compendium/spells/water-walk-xphb.md) 4th level (3 slots): [Banishment](Compendium/spells/banishment-xphb.md), [Freedom Of Movement](Compendium/spells/freedom-of-movement-xphb.md), [Guardian Of Faith](Compendium/spells/guardian-of-faith-xphb.md), [Stoneskin](Compendium/spells/stoneskin-xphb.md) 5th level (1 slots): [Flame Strike](Compendium/spells/flame-strike-xphb.md), [Mass Cure Wounds](Compendium/spells/mass-cure-wounds-xphb.md), [Hold Monster](Compendium/spells/hold-monster-xphb.md)"
     "name": "Spellcasting"
   - "desc": "The priest glows with the soft light of the night sky, shedding dim light in a 15-foot radius."
     "name": "Starlight Form"
   - "desc": "While the priest is in any of Theros's three realms, it can magically convey what it senses to Heliod."
     "name": "Telepathic Bond"
 "actions":
-  - "desc": "The priest makes three weapon attacks. It can replace one weapon attack with _sacred flame_."
+  - "desc": "The priest makes three weapon attacks. It can replace one weapon attack with [Sacred Flame](Compendium/spells/sacred-flame-xphb.md)."
     "name": "Multiattack"
   - "desc": "_Melee or Ranged Weapon Attack_: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "_Melee Weapon Attack_: +5 to hit, reach 5 ft., one creature. _Hit_: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+  - "desc": "_Melee Weapon Attack_: +5 to hit, reach 5 ft., one creature. _Hit_: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Shield Bash"
 "reactions":
   - "desc": "The priest grants a +10 bonus to an attack roll made by itself or another creature within 30 feet of it. The priest can make this choice after the roll is made but before it hits or misses."

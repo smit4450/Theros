@@ -53,7 +53,7 @@ aliases: ["Nessian Courser"]
 "languages": "Common, Sylvan"
 "cr": "3"
 "traits":
-  - "desc": "The courser has advantage on initiative rolls."
+  - "desc": "The courser has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "If the courser moves at least 30 feet straight toward a target and then hits it with a melee attack on the same turn, it can immediately follow that attack with a bonus action, making one attack against the target with its hooves."
     "name": "Charge"

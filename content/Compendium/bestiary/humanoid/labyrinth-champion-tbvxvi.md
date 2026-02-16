@@ -49,7 +49,7 @@ aliases: ["Labyrinth Champion"]
 "languages": "Common, any two languages"
 "cr": "4"
 "traits":
-  - "desc": "The champion has advantage on initiative rolls."
+  - "desc": "The champion has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "The champion's attack rolls score a critical hit on a roll of 19 or 20 on the d20."
     "name": "Improved Critical"

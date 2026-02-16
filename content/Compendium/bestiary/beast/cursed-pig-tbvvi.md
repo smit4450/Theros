@@ -35,7 +35,7 @@ aliases: ["Cursed Pig"]
   - !!int "10"
   - !!int "10"
 "speed": "20 ft."
-"senses": "blindsight 30 ft. (can't see beyond this radius), passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft. (can't see beyond this radius), passive Perception 10"
 "languages": "Understands all languages it knew in its normal form but can't speak"
 "cr": "0"
 "actions":

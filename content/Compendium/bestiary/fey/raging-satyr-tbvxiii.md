@@ -46,9 +46,9 @@ aliases: ["Raging Satyr"]
 "languages": "Sylvan, Common"
 "cr": "0"
 "traits":
-  - "desc": "The satyr has advantage on initiative rolls."
+  - "desc": "The satyr has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
     "name": "Battle Readiness"
-  - "desc": "The satyr has advantage on saving throws against spells and other magical effects."
+  - "desc": "The satyr has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Whenever the satyr makes a long or high jump, it can cover an additional 1d8 feet, even when making a standing jump. This extra distance costs movement as normal."
     "name": "Mirthful Leaps"

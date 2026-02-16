@@ -48,8 +48,8 @@ aliases: ["Abhorrent Overlord"]
     "desc": "+6"
 "damage_resistances": "cold, necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "Abyssal, Common, Infernal"
 "cr": "9"
 "traits":
@@ -61,7 +61,7 @@ aliases: ["Abhorrent Overlord"]
     "name": "Insatiable Greed"
   - "desc": "The demon doesn’t require food, drink, or sleep."
     "name": "Immortal Nature"
-  - "desc": "The demon has advantage on saving throws against spells and other magical effects."
+  - "desc": "The demon has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The demon makes two attacks with its claws."

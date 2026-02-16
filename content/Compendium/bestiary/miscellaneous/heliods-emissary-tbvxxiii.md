@@ -41,7 +41,7 @@ A nyxborn white stag provides Heliod with a view from within the mortal realm.
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "If the emissary moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+  - "desc": "If the emissary moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The emissary's weapon attacks are magical."
     "name": "Magic Weapons"
@@ -54,7 +54,7 @@ A nyxborn white stag provides Heliod with a view from within the mortal realm.
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage."
     "name": "Ram"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one prone creature. Hit: 8 (2d4 + 3) bludgeoning damage."
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one [prone](Compendium/rules/conditions.md#Prone) creature. Hit: 8 (2d4 + 3) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "TBVXXIII"

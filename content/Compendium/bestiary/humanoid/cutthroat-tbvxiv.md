@@ -46,7 +46,7 @@ aliases: ["Cutthroat"]
     "name": "Whip"
   - "desc": "_Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 3 (1d4 + 1) piercing damage in melee, or 3 (1d4 + 1) piercing damage at range."
     "name": "Dagger"
-  - "desc": "Until the beginning of the cutthroat's next turn, the next time an allied creature would attack a creature the cutthroat could attack, the cutthroat uses a bonus action to make one weapon attack against the defending creature. The cutthroat and its ally each deal an extra 1 damage of the same type dealt. Both attacks are simultaneous, and all the damage is dealt at once. The cutthroat and the ally both gain 4 (1d8) temporary hit points until the beginning of the cutthroat's next turn."
+  - "desc": "Until the beginning of the cutthroat's next turn, the next time an allied creature would attack a creature the cutthroat could attack, the cutthroat uses a bonus action to make one weapon attack against the defending creature. The cutthroat and its ally each deal an extra 1 damage of the same type dealt. Both attacks are simultaneous, and all the damage is dealt at once. The cutthroat and the ally both gain 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) until the beginning of the cutthroat's next turn."
     "name": "Cutthroat Maneuver"
 "source":
   - "TBVXIV"

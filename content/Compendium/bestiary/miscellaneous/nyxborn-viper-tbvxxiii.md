@@ -37,7 +37,7 @@ A nyxborn poisonous snake serves as another body that can administer experiments
 "skillsaves":
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "blindsight 10 ft., passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":

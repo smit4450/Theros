@@ -54,15 +54,15 @@ aliases: ["Dawnbringer Charioteer"]
 "languages": "Common"
 "cr": "2"
 "traits":
-  - "desc": "The Meletian charioteer is a 3rd-level spellcaster. The Meletian charioteer's spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The Meletian charioteer has the following wizard spells prepared: Cantrips (at will): _mage hand_, _minor illusion_, _ray of frost_ 1st level (4 slots): _color spray_, _expeditious retreat_, _sleep_ 2nd level (2 slots): _blur_, _cloud of daggers_, _invisibility_"
+  - "desc": "The Meletian charioteer is a 3rd-level spellcaster. The Meletian charioteer's spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The Meletian charioteer has the following wizard spells prepared: Cantrips (at will): [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md), [Ray Of Frost](Compendium/spells/ray-of-frost-xphb.md) 1st level (4 slots): [Color Spray](Compendium/spells/color-spray-xphb.md), [Expeditious Retreat](Compendium/spells/expeditious-retreat-xphb.md), [Sleep](Compendium/spells/sleep-xphb.md) 2nd level (2 slots): [Blur](Compendium/spells/blur-xphb.md), _cloud of daggers_, [Invisibility](Compendium/spells/invisibility-xphb.md)"
     "name": "Spellcasting"
 "actions":
-  - "desc": "_Melee Weapon Attack_: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage. It regains that many hit points."
+  - "desc": "_Melee Weapon Attack_: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage. It regains that many [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Spear"
-  - "desc": "_Ranged Spell Attack_: +5 to hit, range 60 ft., one creature. _Hit_: 4 (1d8) cold damage, and the target’s speed is reduced by 10 feet until the start of the charioteer’s next turn. The charioteer regains 4 hit points."
+  - "desc": "_Ranged Spell Attack_: +5 to hit, range 60 ft., one creature. _Hit_: 4 (1d8) cold damage, and the target’s speed is reduced by 10 feet until the start of the charioteer’s next turn. The charioteer regains 4 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Ray of Frost (Cantrip)"
 "reactions":
-  - "desc": "Whenever the charioteer becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the charioteer gains a +1 bonus to damage rolls and Strength checks, and it gains 4 (1d8) temporary hit points."
+  - "desc": "Whenever the charioteer becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the charioteer gains a +1 bonus to damage rolls and Strength checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
     "name": "Heroic"
 "source":
   - "TBVXVIII"

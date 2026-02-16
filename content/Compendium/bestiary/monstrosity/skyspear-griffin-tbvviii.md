@@ -37,13 +37,13 @@ aliases: ["Skyspear Griffin"]
 "skillsaves":
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The griffin has advantage on Wisdom (Perception) checks that rely on sight."
+  - "desc": "The griffin has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on sight."
     "name": "Keen Sight"
-  - "desc": "At the beginning of every creature's turn that the griffin can see a Setessan creature, it gains 20 temporary hit points for the duration of that turn and its attacks deal 50% more damage, rounded up."
+  - "desc": "At the beginning of every creature's turn that the griffin can see a Setessan creature, it gains 20 temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) for the duration of that turn and its attacks deal 50% more damage, rounded up."
     "name": "Eager Servitor"
 "actions":
   - "desc": "The griffin makes two attacks: one with its beak and one with its claws."
