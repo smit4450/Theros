@@ -48,31 +48,31 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, cold, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Stunned|stunned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
+  \ by magical [[darkness-xphb|Darkness]]), passive\
   \ Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "If the swarm dies in the Nine Hells, it revives with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ in 1d10 days unless it is killed by a creature under the effects of a [Bless](Compendium/spells/bless-xphb.md)\
+  - "desc": "If the swarm dies in the Nine Hells, it revives with all its [[hit-points-xphb|Hit Points]]\
+      \ in 1d10 days unless it is killed by a creature under the effects of a [[bless-xphb|Bless]]\
       \ spell or its remains are sprinkled with Holy Water."
     "name": "Hellish Restoration"
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through an opening large enough for a Medium creature. The\
-      \ swarm can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+      \ swarm can't regain [[hit-points-xphb|Hit Points]]\
+      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "The swarm makes two Vile Slime attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Poison damage,\
-      \ or 9 (2d6 + 2) Poison damage if the swarm is [Bloodied](Compendium/rules/conditions.md#Bloodied)."
+      \ or 9 (2d6 + 2) Poison damage if the swarm is [[conditions#Bloodied|Bloodied]]."
     "name": "Vile Slime"
 "source":
   - "XMM"

@@ -44,7 +44,7 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
   - !!int "8"
 "speed": "30 ft., 40 ft. (boar form only)"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common (can't speak in boar form)"
@@ -56,8 +56,8 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 12 (2d8 + 3) Piercing\
       \ damage. If the target is a Humanoid, it is subjected to the following effect.\
       \ *Constitution Saving Throw:* DC 12. *Failure:* The target is cursed. If the\
-      \ cursed target drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Wereboar under the DM's control and has 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ cursed target drops to 0 [[hit-points-xphb|Hit Points]],\
+      \ it instead becomes a Wereboar under the DM's control and has 10 [[hit-points-xphb|Hit Points]].\
       \ *Success:* The target is immune to this wereboar's curse for 24 hours."
     "name": "Gore (Boar or Hybrid Form Only)"
   - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 30/120 ft.\
@@ -66,7 +66,7 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Piercing\
       \ damage. If the target is a Medium or smaller creature and the wereboar moved\
       \ 20+ feet straight toward it immediately before the hit, the target takes an\
-      \ extra 7 (2d6) Piercing damage and has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ extra 7 (2d6) Piercing damage and has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Tusk (Boar or Hybrid Form Only)"
 "bonus_actions":

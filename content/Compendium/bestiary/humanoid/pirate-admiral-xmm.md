@@ -22,7 +22,7 @@ Pirate admirals command whole pirate fleets. They undertake audacious ventures, 
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** Individual, [[random-magic-items-implements|Implements]]  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -70,11 +70,11 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+10"
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+6"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common plus one other language"
@@ -84,9 +84,9 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 16 (3d6 + 6) Slashing\
       \ damage plus 7 (2d6) Poison damage, and the target suffers one of the following\
-      \ effects of the pirate's choice:\n\n- **Awestruck.** The target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ effects of the pirate's choice:\n\n- **Awestruck.** The target has the [[conditions#Charmed|Charmed]]\
       \ condition until the start of the pirate's next turn.  \n- **Poison.** The\
-      \ target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
+      \ target has the [[conditions#Poisoned|Poisoned]] condition\
       \ until the start of the pirate's next turn.  "
     "name": "Scimitar"
   - "desc": "*Ranged Attack Roll:* +10, range 30/90 ft. *Hit:* 28 (4d10 + 6) Piercing\
@@ -94,7 +94,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     "name": "Pistol"
 "bonus_actions":
   - "desc": "The pirate chooses up to three other creatures it can see within 30 feet.\
-      \ Until the start of the pirate's next turn, the targets have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ Until the start of the pirate's next turn, the targets have [[advantage-xphb|Advantage]]\
       \ on attack rolls and saving throws."
     "name": "Rally (1/Day)"
 "reactions":

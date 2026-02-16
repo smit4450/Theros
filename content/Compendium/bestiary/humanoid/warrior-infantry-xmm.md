@@ -22,7 +22,7 @@ Warrior infantry might be trainees or rank-and-file troops. They are skilled at 
 *Soldiers and Scrappers*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Warriors are professionals who make a living through their prowess in battle. They might be skilled in using a variety of tactics or trained to take advantage of unusual battlefields. Warriors often work together, whether in armies or in teams with deliberate goals.
 
@@ -71,9 +71,9 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 "languages": "Common"
 "cr": "1/8"
 "traits":
-  - "desc": "The warrior has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The warrior has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the warrior's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":

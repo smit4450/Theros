@@ -20,7 +20,7 @@ aliases: ["Flesh Golem"]
 *Dead Flesh Given New Life*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Flesh golems are roughly human-shaped collections of body parts bound together by misused magic or strange science. They serve their reckless creators, but many possess disjointed memories and instincts from their component parts. If wounded, these golems might go berserk and vent their confusion on anything in their sight, including their creators.
 
@@ -60,35 +60,35 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
   - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "5"
 "traits":
-  - "desc": "If the golem takes Fire damage, it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "If the golem takes Fire damage, it has [[disadvantage-xphb|Disadvantage]]\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Aversion to Fire"
-  - "desc": "Whenever the golem starts its turn [Bloodied](Compendium/rules/conditions.md#Bloodied),\
+  - "desc": "Whenever the golem starts its turn [[conditions#Bloodied|Bloodied]],\
       \ roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk,\
       \ the golem attacks the nearest creature it can see. If no creature is near\
       \ enough to move to and attack, the golem attacks an object. Once the golem\
-      \ goes berserk, it remains so until it is destroyed or it is no longer [Bloodied](Compendium/rules/conditions.md#Bloodied).\n\
+      \ goes berserk, it remains so until it is destroyed or it is no longer [[conditions#Bloodied|Bloodied]].\n\
       \nThe golem's creator, if within 60 feet of the berserk golem, can try to calm\
-      \ it by taking an action to make a DC 15 Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion))\
+      \ it by taking an action to make a DC 15 Charisma ([[skills#Persuasion|Persuasion]])\
       \ check; the golem must be able to hear its creator. If this check succeeds,\
       \ the golem ceases being berserk until the start of its next turn, at which\
-      \ point it resumes rolling for the Berserk trait again if it is still [Bloodied](Compendium/rules/conditions.md#Bloodied)."
+      \ point it resumes rolling for the Berserk trait again if it is still [[conditions#Bloodied|Bloodied]]."
     "name": "Berserk"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
   - "desc": "Whenever the golem is subjected to Lightning damage, it regains a number\
-      \ of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to\
+      \ of [[hit-points-xphb|Hit Points]] equal to\
       \ the Lightning damage dealt."
     "name": "Lightning Absorption"
-  - "desc": "The golem has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The golem has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

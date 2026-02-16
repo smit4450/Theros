@@ -29,7 +29,7 @@ Hobgoblin warriors might hunt and raid alone or with trained mastiffs, worgs, go
 *Conquerors of Every Horizon*
 
 - **Habitat.** Desert, Forest, Grassland, Hill, Mountain, Planar (Acheron), Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Hobgoblins embody the primal urge to grow and spread, expressing such drives by bending the world to their whims. Lone hobgoblins claim woodland territories and plunder the wilds. In groups, they form hierarchical, martial societies bent on conquering lands and stripping them of resources to serve their expansionist zeal.
 
@@ -73,14 +73,14 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
   - !!int "10"
   - !!int "9"
 "speed": "30 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common, Goblin"
 "cr": "1/2"
 "traits":
-  - "desc": "The hobgoblin has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The hobgoblin has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the hobgoblin's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":

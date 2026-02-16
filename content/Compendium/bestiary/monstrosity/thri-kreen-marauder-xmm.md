@@ -23,7 +23,7 @@ Thri-kreen marauders employ weapons made of stone and bone, such as the spear-li
 *Mantid Psychics and Scavengers*
 
 - **Habitat.** Desert, Grassland  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Thri-kreen are mantis-like wanderers who harness their innate camouflage and psychic abilities to survive. Different groups of thri-kreen have distinct carapaces, from the rocky shades of desert dwellers to the vibrant hues of those living in verdant lands. While their language has a distinctly insectile quality, thri-kreen often use telepathy to communicate, and groups can rapidly share a wealth of detailed information without making a sound.
 
@@ -51,13 +51,13 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+3"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": "Thri-kreen; telepathy 60 ft."
 "cr": "1"

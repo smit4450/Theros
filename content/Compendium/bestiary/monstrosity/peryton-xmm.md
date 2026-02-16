@@ -21,7 +21,7 @@ aliases: ["Peryton"]
 *Winged Heart Hunter*
 
 - **Habitat.** Hill, Mountain  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Perytons are monstrous predators that hunt people—particularly humans and elves—in favor of all other prey. With the bodies of mighty avian scavengers and fanged, stag-like heads, perytons use ambush tactics to dive-bomb travelers. Strangely, the shadows they cast resemble humanoid silhouettes. This supernatural oddity lends credence to stories that perytons are cursed humans or elves, or that they arise from carrion birds that feed on the corpses of villains.
 
@@ -54,9 +54,9 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
   - !!int "10"
 "speed": "20 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "senses": "passive Perception 15"
 "languages": "understands Common and Elvish but can't speak"
@@ -73,7 +73,7 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
       \ before the hit, the target takes an extra 9 (2d8) Piercing damage."
     "name": "Gore"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (2d4 + 3) Piercing\
-      \ damage. If the attack reduces a Humanoid target to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+      \ damage. If the attack reduces a Humanoid target to 0 [[hit-points-xphb|Hit Points]],\
       \ the peryton kills the target by removing its heart."
     "name": "Talons"
 "source":

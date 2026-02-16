@@ -21,7 +21,7 @@ aliases: ["Frost Giant"]
 *Giant of the Ice and Snow*
 
 - **Habitat.** Arctic, Mountain  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 From glacial mountain heights and vast tundras rise the homes of frost giants. These giants have skin and hair of icy hues. Their natural immunity to cold allows them to flourish in places inhospitable to most other creatures. They use this resilience to aid them when hunting and in combat, bolstering their allies with chilling war cries.
 
@@ -53,9 +53,9 @@ Frost giants often travel far to find food and goods. This leads many to become 
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "damage_immunities": "cold"
 "senses": "passive Perception 13"
@@ -68,13 +68,13 @@ Frost giants often travel far to find food and goods. This leads many to become 
       \ damage plus 9 (2d8) Cold damage."
     "name": "Frost Axe"
   - "desc": "*Ranged Attack Roll:* +9, range 150/600 ft. *Hit:* 17 (2d10 + 6)\
-      \ Piercing damage plus 7 (2d6) Cold damage, and the target's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ Piercing damage plus 7 (2d6) Cold damage, and the target's [[speed-xphb|Speed]]\
       \ decreases by 10 feet until the end of its next turn."
     "name": "Great Bow"
 "bonus_actions":
   - "desc": "The giant or one creature of its choice that can see or hear it gains\
-      \ 16 (2d10 + 5) [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ and has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack\
+      \ 16 (2d10 + 5) [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ and has [[advantage-xphb|Advantage]] on attack\
       \ rolls until the start of the giant's next turn."
     "name": "War Cry (Recharge 5-6)"
 "source":

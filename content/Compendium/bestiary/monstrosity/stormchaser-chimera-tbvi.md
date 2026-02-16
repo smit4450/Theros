@@ -36,7 +36,7 @@ The stormchaser chimera has the body of a hound, the heads of a bull and an eagl
   - !!int "7"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_immunities": "lightning"
 "senses": "passive Perception 10"
@@ -45,9 +45,9 @@ The stormchaser chimera has the body of a hound, the heads of a bull and an eagl
 "traits":
   - "desc": "If the chimera moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage."
     "name": "Charge"
-  - "desc": "The chimera has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (perception) checks that rely on sight."
+  - "desc": "The chimera has [[advantage-xphb|Advantage]] on Wisdom (perception) checks that rely on sight."
     "name": "Keen Sight"
-  - "desc": "The chimera can’t be surprised, and it has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being knocked [unconscious](Compendium/rules/conditions.md#Unconscious)."
+  - "desc": "The chimera can’t be surprised, and it has [[advantage-xphb|Advantage]] on saving throws against being knocked [[conditions#Unconscious|unconscious]]."
     "name": "Multiheaded"
 "actions":
   - "desc": "The chimera makes two attacks: one with its gore attack and one with its beak."

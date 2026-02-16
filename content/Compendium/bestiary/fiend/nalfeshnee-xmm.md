@@ -21,7 +21,7 @@ aliases: ["Nalfeshnee"]
 *Demon of Intimidation and Hopelessness*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Nalfeshnees seek to dominate all they encounter. Hulking and grotesque, these demons combine misshapen, bestial features with ogre-like frames. Through both brute force and cunning, nalfeshnees compel cultists and weaker demons to serve them in the endless conflicts of the Abyss or in plots on the Material Plane.
 
@@ -56,18 +56,18 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
   - "charisma": !!int "7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "13"
 "traits":
   - "desc": "If the nalfeshnee dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The nalfeshnee has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The nalfeshnee has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -80,9 +80,9 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
       \ see."
     "name": "Teleport"
 "bonus_actions":
-  - "desc": "*Wisdom Saving Throw:* DC 15, each creature in a 15-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 15, each creature in a 15-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the nalfeshnee. *Failure:* 28 (8d6) Psychic damage, and\
-      \ the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ the target has the [[conditions#Frightened|Frightened]]\
       \ condition for 1 minute, until it takes damage, or until it ends its turn with\
       \ the nalfeshnee out of line of sight. *Success:* The target is immune to this\
       \ nalfeshnee's Horror Nimbus for 24 hours."

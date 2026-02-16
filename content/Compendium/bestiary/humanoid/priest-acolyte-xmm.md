@@ -22,7 +22,7 @@ Priest acolytes have great faith but modest magical skill. Some might be trainee
 *Arbiters of the Mortal and the Divine*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
 
 Priests harness the power of faith to work miracles. These religious adherents are as diverse as the faiths they follow. Some obey gods and their servants, while others live by age-old creeds. Belief guides priests' actions and their magic, which they use to shape the world in line with their ideologies.
 
@@ -70,9 +70,9 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](Compendium/rules/skills.md#Medicine)"
+  - "name": "[[skills#Medicine|Medicine]]"
     "desc": "+4"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common"
@@ -84,11 +84,11 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - "desc": "*Ranged Attack Roll:* +4, range 60 ft. *Hit:* 7 (2d6) Radiant damage."
     "name": "Radiant Flame"
   - "desc": "The priest casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability:\n\n**At will:** [Light](Compendium/spells/light-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)"
+      \ ability:\n\n**At will:** [[light-xphb|Light]], [[thaumaturgy-xphb|Thaumaturgy]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The priest casts [Bless](Compendium/spells/bless-xphb.md), [Healing Word](Compendium/spells/healing-word-xphb.md),\
-      \ or [Sanctuary](Compendium/spells/sanctuary-xphb.md), using the same spellcasting\
+  - "desc": "The priest casts [[bless-xphb|Bless]], [[healing-word-xphb|Healing Word]],\
+      \ or [[sanctuary-xphb|Sanctuary]], using the same spellcasting\
       \ ability as Spellcasting.\n"
     "name": "Divine Aid (1/Day)"
 "source":

@@ -65,29 +65,29 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 "speed": "50 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
-  \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Primordial (Ignan)"
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the elemental's turns, each creature in a 10-foot\
-      \ [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the elemental takes 5 (1d10) Fire damage. Creatures and\
-      \ flammable objects in the [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ start [burning](Compendium/traps-hazards/burning-xphb.md)."
+      \ flammable objects in the [[emanation-area-of-effect-xphb|Emanation]]\
+      \ start [[burning-xphb|burning]]."
     "name": "Fire Aura"
   - "desc": "The elemental can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so, and it can enter a creature's space and stop there.\
       \ The first time it enters a creature's space on a turn, that creature takes\
       \ 5 (1d10) Fire damage."
     "name": "Fire Form"
-  - "desc": "The elemental sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 30-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+  - "desc": "The elemental sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 30-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 30 feet."
     "name": "Illumination"
   - "desc": "The elemental takes 3 (1d6) Cold damage for every 5 feet the elemental\
@@ -97,7 +97,7 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
   - "desc": "The elemental makes two Burn attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 10 (2d6 + 3) Fire damage.\
-      \ If the target is a creature or a flammable object, it starts [burning](Compendium/traps-hazards/burning-xphb.md)."
+      \ If the target is a creature or a flammable object, it starts [[burning-xphb|burning]]."
     "name": "Burn"
 "source":
   - "XMM"

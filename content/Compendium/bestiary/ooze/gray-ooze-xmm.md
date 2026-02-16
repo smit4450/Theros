@@ -45,14 +45,14 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
   - !!int "2"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "damage_resistances": "acid, cold, fire"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 8"
 "languages": ""
 "cr": "1/2"
@@ -64,7 +64,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
       \ and dealing any damage. Any nonmagical weapon takes a cumulative -1 penalty\
       \ to attack rolls immediately after dealing damage to the ooze and coming into\
       \ contact with it. The weapon is destroyed if the penalty reaches -5. The penalty\
-      \ can be removed by casting the [Mending](Compendium/spells/mending-xphb.md)\
+      \ can be removed by casting the [[mending-xphb|Mending]]\
       \ spell on the weapon.\n\nThe ooze can eat through 2-inch-thick, nonmagical\
       \ metal or wood in 1 round."
     "name": "Corrosive Form"
@@ -72,7 +72,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
   - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 10 (2d8 + 1) Acid damage.\
       \ Nonmagical armor worn by the target takes a -1 penalty to the AC it offers.\
       \ The armor is destroyed if the penalty reduces its AC to 10. The penalty can\
-      \ be removed by casting the [Mending](Compendium/spells/mending-xphb.md) spell\
+      \ be removed by casting the [[mending-xphb|Mending]] spell\
       \ on the armor."
     "name": "Pseudopod"
 "source":

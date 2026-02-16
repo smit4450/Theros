@@ -35,15 +35,15 @@ Feared by the living and the dead, cerberi patrol both banks of the Tartyx River
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "fire, necrotic"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [stunned](Compendium/rules/conditions.md#Stunned)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]]"
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": ""
 "cr": "2"
@@ -51,12 +51,12 @@ Feared by the living and the dead, cerberi patrol both banks of the Tartyx River
   - "desc": "As a bonus action, the cerberus can move up to its speed toward a hostile\
       \ creature that it can see."
     "name": "Aggressive"
-  - "desc": "The cerberus can't be [surprised](Compendium/rules/conditions.md#Surprised),\
-      \ and it has advantage on saving throws against being knocked [unconscious](Compendium/rules/conditions.md#Unconscious)."
+  - "desc": "The cerberus can't be [[conditions#Surprised|surprised]],\
+      \ and it has advantage on saving throws against being knocked [[conditions#Unconscious|unconscious]]."
     "name": "Multiheaded"
   - "desc": "The cerberus has advantage on an attack roll against a creature if at\
       \ least one of the cerberus's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+      \ ally isn't [[conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The cerberus makes two bite attacks."
@@ -67,8 +67,8 @@ Feared by the living and the dead, cerberi patrol both banks of the Tartyx River
   - "desc": "The cerberus exhales a 15-foot cone of molten rock. Each creature in\
       \ the cone must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire\
       \ damage on a failed save, or half as much damage on a successful one. On a\
-      \ failed save, a creature is also [restrained](Compendium/rules/conditions.md#Restrained)\
-      \ by the hardening rock. A creature can make a DC 12 Strength ([Athletics](Compendium/rules/skills.md#Athletics))\
+      \ failed save, a creature is also [[conditions#Restrained|restrained]]\
+      \ by the hardening rock. A creature can make a DC 12 Strength ([[skills#Athletics|Athletics]])\
       \ check as an action, freeing itself or a creature within reach from the rock\
       \ on a success. The rock has AC 17 and 10 hit points, and it is immune to fire,\
       \ poison, and psychic damage."

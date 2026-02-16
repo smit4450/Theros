@@ -45,9 +45,9 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
 "saves":
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 15"
 "languages": "Hook Horror"
 "cr": "3"

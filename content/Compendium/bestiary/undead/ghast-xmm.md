@@ -50,16 +50,16 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
   - "wisdom": !!int "2"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common"
 "cr": "2"
 "traits":
   - "desc": "*Constitution Saving Throw:* DC 10, any creature that starts its turn\
-      \ in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the ghast. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the ghast. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn. *Success:* The target is immune\
       \ to this ghast's Stench for 24 hours."
     "name": "Stench"
@@ -70,7 +70,7 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing\
       \ damage. If the target is a non-Undead creature, it is subjected to the following\
       \ effect. *Constitution Saving Throw:* DC 10. *Failure:* The target has the\
-      \ [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition until the\
+      \ [[conditions#Paralyzed|Paralyzed]] condition until the\
       \ end of its next turn."
     "name": "Claw"
 "source":

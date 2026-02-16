@@ -48,9 +48,9 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
   - !!int "3"
 "speed": "5 ft., climb 15 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"

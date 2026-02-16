@@ -17,7 +17,7 @@ aliases: ["Gorgon"]
 *Source: Monster Manual (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/construct/img/gorgons.webp#right|850)  
-Most gorgons are iron bulls wreathed in clouds of petrifying gas. Their metal plates vary in sheen and color, from sleek silver to pitted black. The oldest gorgons might be covered in rust, but this rarely impedes their abilities. These gorgons' stomping grounds are littered with the shattered remains of [petrified](Compendium/rules/conditions.md#Petrified) foes. Many gorgons outlive their creators by centuries, misleading some to believe these creations have natural origins and territories. Most such gorgons continue to follow age-old commands, guarding sites long fallen to ruin.
+Most gorgons are iron bulls wreathed in clouds of petrifying gas. Their metal plates vary in sheen and color, from sleek silver to pitted black. The oldest gorgons might be covered in rust, but this rarely impedes their abilities. These gorgons' stomping grounds are littered with the shattered remains of [[conditions#Petrified|petrified]] foes. Many gorgons outlive their creators by centuries, misleading some to believe these creations have natural origins and territories. Most such gorgons continue to follow age-old commands, guarding sites long fallen to ruin.
 
 ## Gorgons
 
@@ -32,7 +32,7 @@ Gorgons are created by magic-users to serve as guardians. The process for creati
 
 When magic-users create gorgons, they often enchant them to ignore those who confront the creature with a specific command key, usually a password or a specific signal. Once a gorgon is set to guard an area, it attacks any who enter until they flee or are destroyed. Should someone provide the command key, the monster ignores that intruder so long as the intruder remains in its sight. But if the intruder ventures out of sight and then returns without again presenting the command key, the gorgon attacks. Those in a gorgon's territory must remain vigilant and aware of the monster's exact position, or they risk being attacked by a gorgon they thought was no longer a threat.
 
-Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [petrified](Compendium/rules/conditions.md#Petrified) trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
+Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [[conditions#Petrified|petrified]] trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
 
 **Gorgon Command Keys**
 
@@ -70,11 +70,11 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Petrified|petrified]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 17"
 "languages": ""
 "cr": "5"
@@ -82,19 +82,19 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
   - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 18 (2d12 + 5) Piercing\
       \ damage. If the target is a Large or smaller creature and the gorgon moved\
       \ 20+ feet straight toward it immediately before the hit, the target has the\
-      \ [Prone](Compendium/rules/conditions.md#Prone) condition."
+      \ [[conditions#Prone|Prone]] condition."
     "name": "Gore"
-  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *1St Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *1St Failure:* The target has the [[conditions#Restrained|Restrained]]\
       \ condition and repeats the save at the end of its next turn if it is still\
-      \ [Restrained](Compendium/rules/conditions.md#Restrained), ending the effect\
-      \ on itself on a success. *2Nd Failure:* The target has the [Petrified](Compendium/rules/conditions.md#Petrified)\
-      \ condition instead of the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ [[conditions#Restrained|Restrained]], ending the effect\
+      \ on itself on a success. *2Nd Failure:* The target has the [[conditions#Petrified|Petrified]]\
+      \ condition instead of the [[conditions#Restrained|Restrained]]\
       \ condition."
     "name": "Petrifying Breath (Recharge 5-6)"
 "bonus_actions":
   - "desc": "*Dexterity Saving Throw:* DC 16, one creature within 5 feet that has\
-      \ the [Prone](Compendium/rules/conditions.md#Prone) condition. *Failure:* 16\
+      \ the [[conditions#Prone|Prone]] condition. *Failure:* 16\
       \ (2d10 + 5) Bludgeoning damage. *Success:* Half damage."
     "name": "Trample"
 "source":

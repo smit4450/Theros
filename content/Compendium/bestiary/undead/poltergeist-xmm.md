@@ -60,18 +60,18 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
-  \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common plus one other language"
 "cr": "2"
 "traits":
   - "desc": "The poltergeist can move through other creatures and objects as if they\
-      \ were [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ were [[difficult-terrain-xphb|Difficult Terrain]].\
       \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -85,7 +85,7 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
       \ up to 30 feet straight away from the poltergeist."
     "name": "Telekinetic Thrust"
 "bonus_actions":
-  - "desc": "The poltergeist gives itself the [Invisible](Compendium/rules/conditions.md#Invisible)\
+  - "desc": "The poltergeist gives itself the [[conditions#Invisible|Invisible]]\
       \ condition or ends that condition on itself."
     "name": "Vanish"
 "source":

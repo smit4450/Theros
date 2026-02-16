@@ -65,24 +65,24 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 120 ft., passive Perception\
   \ 19"
 "languages": ""
 "cr": "30"
 "traits":
   - "desc": "If the tarrasque fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (6/Day)"
-  - "desc": "The tarrasque has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The tarrasque has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "If the tarrasque is targeted by a [Magic Missile](Compendium/spells/magic-missile-xphb.md)\
+  - "desc": "If the tarrasque is targeted by a [[magic-missile-xphb|Magic Missile]]\
       \ spell or a spell that requires a ranged attack roll, roll 1d6. On a 1-5,\
       \ the tarrasque is unaffected. On a 6, the tarrasque is unaffected and reflects\
       \ the spell, turning the caster into the target."
@@ -94,52 +94,52 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
       \ or Tail in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +19, reach 15 ft. *Hit:* 36 (4d12 + 10) Piercing\
-      \ damage, and the target has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ condition (escape DC 20). Until the grapple ends, the target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ damage, and the target has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 20). Until the grapple ends, the target has the [[conditions#Restrained|Restrained]]\
       \ condition and can't teleport."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +19, reach 15 ft. *Hit:* 28 (4d8 + 10) Slashing\
       \ damage."
     "name": "Claw"
   - "desc": "*Melee Attack Roll:* +19, reach 30 ft. *Hit:* 23 (3d8 + 10) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Tail"
   - "desc": "*Constitution Saving Throw:* DC 27, each creature and each object that\
-      \ isn't being worn or carried in a 150-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* 78 (12d12) Thunder damage, and the target has the [Deafened](Compendium/rules/conditions.md#Deafened)\
-      \ and [Frightened](Compendium/rules/conditions.md#Frightened) conditions until\
+      \ isn't being worn or carried in a 150-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *Failure:* 78 (12d12) Thunder damage, and the target has the [[conditions#Deafened|Deafened]]\
+      \ and [[conditions#Frightened|Frightened]] conditions until\
       \ the end of its next turn. *Success:* Half damage only."
     "name": "Thunderous Bellow (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "*Strength Saving Throw:* DC 27, one Large or smaller creature [Grappled](Compendium/rules/conditions.md#Grappled)\
+  - "desc": "*Strength Saving Throw:* DC 27, one Large or smaller creature [[conditions#Grappled|Grappled]]\
       \ by the tarrasque (it can have up to six creatures swallowed at a time). *Failure:*\
-      \ The target is swallowed, and the [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ condition ends. A swallowed creature has the [Blinded](Compendium/rules/conditions.md#Blinded)\
-      \ and [Restrained](Compendium/rules/conditions.md#Restrained) conditions and\
-      \ can't teleport, it has [Total Cover](Compendium/rules/variant-rules/cover-xphb.md)\
+      \ The target is swallowed, and the [[conditions#Grappled|Grappled]]\
+      \ condition ends. A swallowed creature has the [[conditions#Blinded|Blinded]]\
+      \ and [[conditions#Restrained|Restrained]] conditions and\
+      \ can't teleport, it has [[cover-xphb|Total Cover]]\
       \ against attacks and other effects outside the tarrasque, and it takes 56 (16d6)\
       \ Acid damage at the start of each of the tarrasque's turns.\n\nIf the tarrasque\
       \ takes 60 damage or more on a single turn from a creature inside it, the tarrasque\
       \ must succeed on a DC 20 Constitution saving throw at the end of that turn\
       \ or regurgitate all swallowed creatures, each of which falls in a space within\
-      \ 10 feet of the tarrasque and has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ 10 feet of the tarrasque and has the [[conditions#Prone|Prone]]\
       \ condition. If the tarrasque dies, any swallowed creature no longer has the\
-      \ [Restrained](Compendium/rules/conditions.md#Restrained) condition and can\
-      \ escape from the corpse using 20 feet of movement, exiting [Prone](Compendium/rules/conditions.md#Prone)."
+      \ [[conditions#Restrained|Restrained]] condition and can\
+      \ escape from the corpse using 20 feet of movement, exiting [[conditions#Prone|Prone]]."
     "name": "Swallow"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the tarrasque can expend a use to take one of the following actions. The\
   \ tarrasque regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The tarrasque moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "The tarrasque moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Claw or Tail attack."
     "name": "Onslaught"
-  - "desc": "The tarrasque moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md).\
+  - "desc": "The tarrasque moves up to its [[speed-xphb|Speed]].\
       \ At the end of this movement, the tarrasque creates an instantaneous shock\
-      \ wave in a 60-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from itself. Creatures in that area lose [Concentration](Compendium/rules/conditions.md#Concentration)\
-      \ and, if Medium or smaller, have the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ wave in a 60-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from itself. Creatures in that area lose [[conditions#Concentration|Concentration]]\
+      \ and, if Medium or smaller, have the [[conditions#Prone|Prone]]\
       \ condition. The tarrasque can't take this action again until the start of its\
       \ next turn."
     "name": "World-Shaking Movement"

@@ -22,7 +22,7 @@ Guards are perceptive, but most have little martial training. They might be boun
 *Sentries and Watch Members*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Guards protect people, places, and things, either for pay or from a sense of duty. They might perform their duties vigilantly or distractedly. Some raise alarms at the first sign of danger and defend their charges with their lives. Others flee outright if their compensation doesn't match the danger they face.
 
@@ -50,7 +50,7 @@ Guards protect people, places, and things, either for pay or from a sense of dut
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common"

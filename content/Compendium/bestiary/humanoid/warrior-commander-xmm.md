@@ -22,7 +22,7 @@ Skilled in both combat and leadership, warrior commanders overcome challenges th
 *Soldiers and Scrappers*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Warriors are professionals who make a living through their prowess in battle. They might be skilled in using a variety of tactics or trained to take advantage of unusual battlefields. Warriors often work together, whether in armies or in teams with deliberate goals.
 
@@ -73,11 +73,11 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
   - "constitution": !!int "8"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+9"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "senses": "passive Perception 17"
 "languages": "Common plus one other language"
@@ -87,20 +87,20 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 19 (4d6 + 5) Slashing\
       \ damage. The warrior also creates one of the following effects:\n\n- **Sap.**\
-      \ The target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ The target has [[disadvantage-xphb|Disadvantage]]\
       \ on its next attack roll before the start of the warrior's next turn.  \n-\
-      \ **Maneuver.** One ally who can see or hear the warrior can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
-      \ to move up to half the ally's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).\
+      \ **Maneuver.** One ally who can see or hear the warrior can take a [[reaction-xphb|Reaction]]\
+      \ to move up to half the ally's [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
       \  "
     "name": "Greatsword"
   - "desc": "*Ranged Attack Roll:* +9, range 150/600 ft. *Hit:* 18 (3d8 + 5) Piercing\
-      \ damage, and the target's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ damage, and the target's [[speed-xphb|Speed]]\
       \ decreases by 10 feet until the end of the target's next turn."
     "name": "Longbow"
 "bonus_actions":
-  - "desc": "The warrior moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ straight toward an enemy it can see without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+  - "desc": "The warrior moves up to half its [[speed-xphb|Speed]]\
+      \ straight toward an enemy it can see without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Tactical Charge"
 "reactions":
   - "desc": "Trigger: The warrior is hit by an attack roll. _Response:_ The warrior\

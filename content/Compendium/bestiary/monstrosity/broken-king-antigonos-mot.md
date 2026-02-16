@@ -35,9 +35,9 @@ He claims that he was a great king who was cursed by Mogis after he defied his w
   - !!int "9"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 17"
 "languages": "Abyssal"
 "cr": "3"
@@ -45,7 +45,7 @@ He claims that he was a great king who was cursed by Mogis after he defied his w
   - "desc": "If Antigonos moves at least 10 feet straight toward a target and then\
       \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
       \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-      \ saving throw or be pushed up to 10 feet away and knocked [prone](Compendium/rules/conditions.md#Prone)."
+      \ saving throw or be pushed up to 10 feet away and knocked [[conditions#Prone|prone]]."
     "name": "Charge"
   - "desc": "Antigonos can perfectly recall any path he has traveled."
     "name": "Labyrinthine Recall"
@@ -64,9 +64,9 @@ He claims that he was a great king who was cursed by Mogis after he defied his w
     "name": "Gore"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one Medium or smaller\
       \ creature. *Hit:* 8 (1d8 + 4) bludgeoning damage. If there is not already\
-      \ a creature inside the amphora, the target is [restrained](Compendium/rules/conditions.md#Restrained)\
-      \ inside. As an action, the [restrained](Compendium/rules/conditions.md#Restrained)\
-      \ creature can make a DC 14 Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics))\
+      \ a creature inside the amphora, the target is [[conditions#Restrained|restrained]]\
+      \ inside. As an action, the [[conditions#Restrained|restrained]]\
+      \ creature can make a DC 14 Dexterity ([[skills#Acrobatics|Acrobatics]])\
       \ check, escaping from the amphora on a success. The effect also ends if the\
       \ amphora is destroyed. The amphora has AC 8, 20 hit points, and immunity to\
       \ poison and psychic damage."

@@ -22,7 +22,7 @@ Along with being competent warriors, pirates are accomplished seafarers who know
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** Individual, [[random-magic-items-implements|Implements]]  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -79,7 +79,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
       \ *Hit:* 5 (1d4 + 3) Piercing damage."
     "name": "Dagger"
   - "desc": "*Wisdom Saving Throw:* DC 12, one creature the pirate can see within\
-      \ 30 feet. *Failure:* The target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ 30 feet. *Failure:* The target has the [[conditions#Charmed|Charmed]]\
       \ condition until the start of the pirate's next turn."
     "name": "Enthralling Panache"
 "source":

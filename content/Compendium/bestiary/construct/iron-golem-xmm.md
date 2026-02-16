@@ -53,21 +53,21 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
   - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "fire, poison, psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 10"
 "languages": "understands Common plus two other languages but can't speak"
 "cr": "16"
 "traits":
   - "desc": "Whenever the golem is subjected to Fire damage, it regains a number of\
-      \ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to the\
+      \ [[hit-points-xphb|Hit Points]] equal to the\
       \ Fire damage dealt."
     "name": "Fire Absorption"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The golem has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -78,7 +78,7 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
     "name": "Bladed Arm"
   - "desc": "*Ranged Attack Roll:* +10, range 120 ft. *Hit:* 36 (8d8) Fire damage."
     "name": "Fiery Bolt"
-  - "desc": "*Constitution Saving Throw:* DC 18, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Constitution Saving Throw:* DC 18, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 55 (10d10) Poison damage. *Success:* Half damage."
     "name": "Poison Breath (Recharge 6)"
 "source":

@@ -63,17 +63,17 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "speed": "30 ft., swim 90 ft."
 "damage_resistances": "acid, fire"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
-  \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Primordial (Aquan)"
 "cr": "5"
 "traits":
-  - "desc": "If the elemental takes Cold damage, its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "If the elemental takes Cold damage, its [[speed-xphb|Speed]]\
       \ decreases by 20 feet until the end of its next turn."
     "name": "Freeze"
   - "desc": "The elemental can enter an enemy's space and stop there. It can move\
@@ -84,18 +84,18 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
   - "desc": "The elemental makes two Slam attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Bludgeoning\
-      \ damage. If the target is a Medium or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Slam"
   - "desc": "*Strength Saving Throw:* DC 15, each creature in the elemental's space.\
       \ *Failure:* 22 (4d8 + 4) Bludgeoning damage. If the target is a Large or\
-      \ smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14). Until the grapple ends, the target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ smaller creature, it has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 14). Until the grapple ends, the target has the [[conditions#Restrained|Restrained]]\
       \ condition, is suffocating unless it can breathe water, and takes 9 (2d8)\
       \ Bludgeoning damage at the start of each of the elemental's turns. The elemental\
       \ can grapple one Large creature or up to two Medium or smaller creatures at\
       \ a time with Whelm. As an action, a creature within 5 feet of the elemental\
-      \ can pull a creature out of it by succeeding on a DC 14 Strength ([Athletics](Compendium/rules/skills.md#Athletics))\
+      \ can pull a creature out of it by succeeding on a DC 14 Strength ([[skills#Athletics|Athletics]])\
       \ check. *Success:* Half damage only."
     "name": "Whelm (Recharge 4-6)"
 "source":

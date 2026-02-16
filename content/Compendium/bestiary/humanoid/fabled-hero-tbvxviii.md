@@ -37,25 +37,25 @@ aliases: ["Fabled Hero"]
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+3"
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+4"
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "5"
 "traits":
-  - "desc": "When the hero is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) but not killed outright, it can drop to 1 hit point instead."
+  - "desc": "When the hero is reduced to 0 [[hit-points-xphb|Hit Points]] but not killed outright, it can drop to 1 hit point instead."
     "name": "Hard to Kill (Recharges After a Long Rest)"
 "actions":
   - "desc": "The hero has two chains. It makes one chain attack for each of its chains that aren't already grappling a target."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (2d6 + 2) slashing damage. The target is [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 14) if the hero isn't already grappling a creature. Until this grapple ends, the target is [restrained](Compendium/rules/conditions.md#Restrained) and takes 7 (2d6) piercing damage at the start of each of its turns."
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (2d6 + 2) slashing damage. The target is [[conditions#Grappled|grappled]] (escape DC 14) if the hero isn't already grappling a creature. Until this grapple ends, the target is [[conditions#Restrained|restrained]] and takes 7 (2d6) piercing damage at the start of each of its turns."
     "name": "Chain"
 "reactions":
-  - "desc": "Whenever the hero is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the hero gains a +1 bonus to damage rolls and Dexterity checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "Whenever the hero is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the hero gains a +1 bonus to damage rolls and Dexterity checks, and it gains 4 (1d8) temporary [[hit-points-xphb|Hit Points]]."
     "name": "Heroic"
 "source":
   - "TBVXVIII"

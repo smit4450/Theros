@@ -21,7 +21,7 @@ aliases: ["Ultroloth"]
 *Yugoloth of Conspiracy and Control*
 
 - **Habitat.** Planar (Lower Planes)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 With uncanny patience and fiendish cunning, ultroloths manipulate mortals and their fellow yugoloths alike, seeking to hoard power and spread suffering. These sinister masterminds often work with other yugoloths, but they might compel nearly any creature into their service. If coercion doesn't work, ultroloths use their eerie eyes and innate magic to hypnotize or charm targets.
 
@@ -57,26 +57,26 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
   - !!int "18"
 "speed": "30 ft., fly 60 ft. (hover)"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 17"
 "languages": "Abyssal, Infernal; telepathy 120 ft."
 "cr": "13"
 "traits":
   - "desc": "If the ultroloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in Gehenna."
     "name": "Fiendish Restoration"
-  - "desc": "The ultroloth has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The ultroloth has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -86,23 +86,23 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
       \ and the ultroloth can teleport the target up to 10 feet to an unoccupied space\
       \ the ultroloth can see that isn't in the air."
     "name": "Mercurial Whip"
-  - "desc": "*Wisdom Saving Throw:* DC 17, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* 10 (3d6) Psychic damage, and the target has the [Stunned](Compendium/rules/conditions.md#Stunned)\
+  - "desc": "*Wisdom Saving Throw:* DC 17, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *Failure:* 10 (3d6) Psychic damage, and the target has the [[conditions#Stunned|Stunned]]\
       \ condition until the start of the ultroloth's next turn. *Success:* The target\
       \ is immune to this ultroloth's Hypnotic Gaze for 24 hours."
     "name": "Hypnotic Gaze"
   - "desc": "The ultroloth casts one of the following spells, requiring no Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\n**At will:** [Alter Self](Compendium/spells/alter-self-xphb.md),\
-      \ [Clairvoyance](Compendium/spells/clairvoyance-xphb.md), [Detect Magic](Compendium/spells/detect-magic-xphb.md)\n\
-      \n**1/day each:** [Dimension Door](Compendium/spells/dimension-door-xphb.md),\
-      \ [Fireball](Compendium/spells/fireball-xphb.md) (level 5 version), [Wall of\
-      \ Fire](Compendium/spells/wall-of-fire-xphb.md)"
+      \ DC 17):\n\n**At will:** [[alter-self-xphb|Alter Self]],\
+      \ [[clairvoyance-xphb|Clairvoyance]], [[detect-magic-xphb|Detect Magic]]\n\
+      \n**1/day each:** [[dimension-door-xphb|Dimension Door]],\
+      \ [[fireball-xphb|Fireball]] (level 5 version), [[wall-of-fire-xphb|Wall of\
+      \ Fire]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The ultroloth casts [Dispel Magic](Compendium/spells/dispel-magic-xphb.md),\
-      \ [Invisibility](Compendium/spells/invisibility-xphb.md) (self only), [Misty\
-      \ Step](Compendium/spells/misty-step-xphb.md), or [Suggestion](Compendium/spells/suggestion-xphb.md),\
+  - "desc": "The ultroloth casts [[dispel-magic-xphb|Dispel Magic]],\
+      \ [[invisibility-xphb|Invisibility]] (self only), [[misty-step-xphb|Misty\
+      \ Step]], or [[suggestion-xphb|Suggestion]],\
       \ requiring no Material components and using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Fiendish Guile (Recharge 4-6)"

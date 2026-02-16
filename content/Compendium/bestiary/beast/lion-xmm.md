@@ -20,7 +20,7 @@ aliases: ["Lion"]
 ![](Compendium/bestiary/beast/img/lion.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -42,21 +42,21 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The lion has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The lion has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the lion's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
-  - "desc": "With a 10-foot running start, the lion can [Long Jump](Compendium/rules/variant-rules/long-jump-xphb.md)\
+  - "desc": "With a 10-foot running start, the lion can [[long-jump-xphb|Long Jump]]\
       \ up to 25 feet."
     "name": "Running Leap"
 "actions":
@@ -67,7 +67,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
       \ damage."
     "name": "Rend"
   - "desc": "*Wisdom Saving Throw:* DC 11, one creature within 15 feet. *Failure:*\
-      \ The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ The target has the [[conditions#Frightened|Frightened]]\
       \ condition until the start of the lion's next turn."
     "name": "Roar"
 "source":

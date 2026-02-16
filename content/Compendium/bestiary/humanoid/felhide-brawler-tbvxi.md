@@ -37,7 +37,7 @@ aliases: ["Felhide Brawler"]
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+3"
 "senses": "passive Perception 10"
 "languages": "Common, Minotaur"

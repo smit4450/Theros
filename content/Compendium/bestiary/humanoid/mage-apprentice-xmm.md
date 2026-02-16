@@ -22,7 +22,7 @@ Mage apprentices are spellcasters of humble skill. Some are students of accompli
 *Magical Scholars and Spellcasters*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [[random-magic-items-arcana|Arcana]], Individual  
 
 Mages are magical wonder-workers, ranging from spellcasting overlords to reclusive witches. They study mystical secrets and possess insight into monsters, legends, omens, and other lore. Mages often gather allies or hire assistants to aid them in their research or to attain magical might.
 
@@ -73,9 +73,9 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   - "intelligence": !!int "5"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "Common plus one other language"
@@ -86,10 +86,10 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
     "name": "Arcane Burst"
   - "desc": "The mage casts one of the following spells, using Intelligence as the\
       \ spellcasting ability (spell save DC 13, +5 to hit with spell attacks):\n\
-      \n**At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
-      \n**1/day each:** [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
-      \ [Ice Knife](Compendium/spells/ice-knife-xphb.md), [Mage Armor](Compendium/spells/mage-armor-xphb.md)\
-      \ (included in AC), [Thunderwave](Compendium/spells/thunderwave-xphb.md)"
+      \n**At will:** [[mage-hand-xphb|Mage Hand]], [[prestidigitation-xphb|Prestidigitation]]\n\
+      \n**1/day each:** [[disguise-self-xphb|Disguise Self]],\
+      \ [[ice-knife-xphb|Ice Knife]], [[mage-armor-xphb|Mage Armor]]\
+      \ (included in AC), [[thunderwave-xphb|Thunderwave]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

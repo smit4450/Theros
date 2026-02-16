@@ -58,12 +58,12 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "damage_immunities": "fire"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "4"
@@ -73,7 +73,7 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (1d10 + 4) Slashing\
       \ damage plus 3 (1d6) Fire damage."
     "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 24 (7d6) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":

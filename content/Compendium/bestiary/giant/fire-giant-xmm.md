@@ -21,7 +21,7 @@ aliases: ["Fire Giant"]
 *Giant of the Smoldering Depths*
 
 - **Habitat.** Mountain, Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Fire giants inhabit the hollow vaults and molten rivers of mountainous depths. There, they use subterranean heat and riches to craft wonders, from titanic weapons of war to delicate works of art.
 
@@ -50,9 +50,9 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
   - "constitution": !!int "10"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+11"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "damage_immunities": "fire"
 "senses": "passive Perception 16"
@@ -67,7 +67,7 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
     "name": "Flame Sword"
   - "desc": "*Ranged Attack Roll:* +11, range 60/240 ft. *Hit:* 23 (3d10 + 7)\
       \ Bludgeoning damage plus 4 (1d8) Fire damage, and the target is pushed up\
-      \ to 15 feet straight away from the giant and has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ to 15 feet straight away from the giant and has [[disadvantage-xphb|Disadvantage]]\
       \ on the next attack roll it makes before the end of its next turn."
     "name": "Hammer Throw"
 "source":

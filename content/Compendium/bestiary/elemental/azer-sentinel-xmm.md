@@ -24,7 +24,7 @@ Azer sentinels defend their communities' smiths and channel their flames through
 *Fiery Smiths of Living Metal*
 
 - **Habitat.** Mountain, Planar (Elemental Plane of Fire)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Azers are living bronze folk who work the primal elements of creation to craft weapons and magical wonders among the multiverse's mightiest infernos.
 ## Statblock
@@ -49,18 +49,18 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 "saves":
   - "constitution": !!int "4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "Primordial (Ignan)"
 "cr": "2"
 "traits":
   - "desc": "At the end of each of the azer's turns, each creature of the azer's choice\
-      \ in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the azer takes 5 (1d10) Fire damage unless the azer has\
-      \ the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition."
+      \ the [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Fire Aura"
-  - "desc": "The azer sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+  - "desc": "The azer sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":

@@ -39,9 +39,9 @@ aliases: ["Underworld Coinsmith"]
 "saves":
   - "dexterity": !!int "4"
 "skillsaves":
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common"

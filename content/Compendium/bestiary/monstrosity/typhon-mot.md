@@ -36,12 +36,12 @@ Titanic horrors of writhing flesh and gnashing maws, typhons slither through the
 "saves":
   - "constitution": !!int "10"
 "damage_immunities": "acid, necrotic"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "Common"
 "cr": "15"
 "traits":
-  - "desc": "The typhon has advantage on Wisdom ([Perception](Compendium/rules/skills.md#Perception))\
+  - "desc": "The typhon has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The typhon regains 20 hit points at the start of its turn. If it takes\
@@ -56,8 +56,8 @@ Titanic horrors of writhing flesh and gnashing maws, typhons slither through the
       \ 35 (8d6 + 7) piercing damage."
     "name": "Flurry of Bites"
   - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one Large or smaller\
-      \ creature. *Hit:* 17 (3d6 + 7) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled)\
-      \ (escape DC 19). Until this grapple ends, the target is [restrained](Compendium/rules/conditions.md#Restrained)\
+      \ creature. *Hit:* 17 (3d6 + 7) bludgeoning damage, and the target is [[conditions#Grappled|grappled]]\
+      \ (escape DC 19). Until this grapple ends, the target is [[conditions#Restrained|restrained]]\
       \ and takes 17 (3d6 + 7) bludgeoning damage at the start of each of its turns.\
       \ The typhon can have up to two creatures constricted."
     "name": "Constrict"

@@ -33,17 +33,17 @@ aliases: ["Domestic Wonder"]
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "If damage reduces the wonder to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+  - "desc": "If damage reduces the wonder to 0 [[hit-points-xphb|Hit Points]],\
       \ it makes a Constitution saving throw with a DC of 5 plus the damage taken\
-      \ unless the damage is Lightning or from a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md).\
-      \ On a successful save, the wonder drops to 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ unless the damage is Lightning or from a [[critical-hit-xphb|Critical Hit]].\
+      \ On a successful save, the wonder drops to 1 [[hit-points-xphb|Hit Point]]\
       \ instead."
     "name": "Mechanical Determination"
-  - "desc": "The wonder has the [Unconscious](Compendium/rules/conditions.md#Unconscious)\
+  - "desc": "The wonder has the [[conditions#Unconscious|Unconscious]]\
       \ condition until another creature winds it with the wonder's unique key for\
       \ 1 minute. Once wound, the wonder operates for 10 days or until a creature\
-      \ touches the wonder with its key as a [Utilize](Compendium/rules/actions.md#Utilize)\
-      \ action to deactivate it, after which the wonder has the [Unconscious](Compendium/rules/conditions.md#Unconscious)\
+      \ touches the wonder with its key as a [[actions#Utilize|Utilize]]\
+      \ action to deactivate it, after which the wonder has the [[conditions#Unconscious|Unconscious]]\
       \ condition until it is wound again."
     "name": "Wind-Up Operation"
 "source":

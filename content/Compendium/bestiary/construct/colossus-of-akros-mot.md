@@ -37,17 +37,17 @@ An enormous golem of bronze and iron overlooks the path leading to the polis of 
   - "strength": !!int "16"
   - "constitution": !!int "14"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+16"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "damage_immunities": "fire; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 17"
 "languages": "understands Common and Celestial but can't speak"
 "cr": "23"

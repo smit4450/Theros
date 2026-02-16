@@ -22,7 +22,7 @@ Scout captains are experienced explorers and sharpshooters. They might lead band
 *Watchers and Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
 
 Scouts are warriors of the wilderness, trained in hunting and tracking. They might be explorers or trappers, or they could perform more martial roles as archers, bounty hunters, or outriders.
 ## Statblock
@@ -48,11 +48,11 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
   - "dexterity": !!int "5"
   - "intelligence": !!int "4"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common plus one other language"
@@ -61,13 +61,13 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
   - "desc": "The scout makes two attacks, using Shortsword or Longbow in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing\
-      \ damage, plus 10 (3d6) Piercing damage if the attack was made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+      \ damage, plus 10 (3d6) Piercing damage if the attack was made with [[advantage-xphb|Advantage]]."
     "name": "Shortsword"
   - "desc": "*Ranged Attack Roll:* +5, range 150/600 ft. *Hit:* 7 (1d8 + 3) Piercing\
-      \ damage, plus 10 (3d6) Piercing damage if the attack was made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+      \ damage, plus 10 (3d6) Piercing damage if the attack was made with [[advantage-xphb|Advantage]]."
     "name": "Longbow"
 "bonus_actions":
-  - "desc": "The scout has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The scout has [[advantage-xphb|Advantage]]\
       \ on the next attack roll it makes during the current turn."
     "name": "Aim"
 "reactions":

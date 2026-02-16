@@ -31,7 +31,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 | 1 | An acres-large clonal colony—a stand of identical, interconnected trees. |
 | 2 | A fortress-like tree, like a baobab or sequoia. |
 | 3 | A living lock—a plant that seals evil below or blocks the path to a dungeon. |
-| 4 | A lonely tree that stands atop a windswept mountain or amid a [petrified](Compendium/rules/conditions.md#Petrified) forest. |
+| 4 | A lonely tree that stands atop a windswept mountain or amid a [[conditions#Petrified|petrified]] forest. |
 | 5 | A plant with magic fruit or remarkable seeds. |
 | 6 | A shambling mound or treant that the dryad lives in or around as a Fey symbiote. |
 ^dryad-sanctuaries
@@ -53,16 +53,16 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Elvish, Sylvan"
 "cr": "1"
 "traits":
-  - "desc": "The dryad has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The dryad has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The dryad can communicate with Beasts and Plants as if they shared a\
@@ -70,7 +70,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Speak with Beasts and Plants"
 "actions":
   - "desc": "The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting\
-      \ to cast [Charm Monster](Compendium/spells/charm-monster-xphb.md)."
+      \ to cast [[charm-monster-xphb|Charm Monster]]."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 8 (1d8 + 4) Slashing\
       \ damage."
@@ -80,11 +80,11 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Thorn Burst"
   - "desc": "The dryad casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 14):\n\n**At\
-      \ will:** [Animal Friendship](Compendium/spells/animal-friendship-xphb.md),\
-      \ [Charm Monster](Compendium/spells/charm-monster-xphb.md) (lasts 24 hours;\
-      \ ends early if the dryad casts the spell again), [Druidcraft](Compendium/spells/druidcraft-xphb.md)\n\
-      \n**1/day each:** [Entangle](Compendium/spells/entangle-xphb.md), [Pass without\
-      \ Trace](Compendium/spells/pass-without-trace-xphb.md)"
+      \ will:** [[animal-friendship-xphb|Animal Friendship]],\
+      \ [[charm-monster-xphb|Charm Monster]] (lasts 24 hours;\
+      \ ends early if the dryad casts the spell again), [[druidcraft-xphb|Druidcraft]]\n\
+      \n**1/day each:** [[entangle-xphb|Entangle]], [[pass-without-trace-xphb|Pass without\
+      \ Trace]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "If within 5 feet of a Large or bigger tree, the dryad teleports to an\

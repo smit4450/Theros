@@ -28,8 +28,8 @@ aliases: ["Fey Spirit (Mirthful)"]
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":
@@ -42,7 +42,7 @@ aliases: ["Fey Spirit (Mirthful)"]
 "bonus_actions":
   - "desc": "The spirit magically teleports up to 30 feet to an unoccupied space it\
       \ can see. *Wisdom Saving Throw:* DC equals your spell save DC, one creature\
-      \ the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ the spirit can see within 10 feet of itself. *Failure:* The target is [[conditions#Charmed|Charmed]]\
       \ by you and the spirit for 1 minute or until the target takes any damage."
     "name": "Fey Step"
 "source":

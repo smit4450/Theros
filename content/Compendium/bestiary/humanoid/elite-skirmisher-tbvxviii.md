@@ -48,7 +48,7 @@ aliases: ["Elite Skirmisher"]
   - "desc": "_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) bludgeoning damage."
     "name": "Unarmed Strike"
 "reactions":
-  - "desc": "Whenever a spell targets the hoplite, that spell's caster chooses whether the following happens: - The skirmisher lets out an especially menacing roar. Creatures it chooses within 10 feet of itself that can hear it must succeed on a DC 10 Wisdom saving throw or become [frightened](Compendium/rules/conditions.md#Frightened) of it until the end of your next turn."
+  - "desc": "Whenever a spell targets the hoplite, that spell's caster chooses whether the following happens: - The skirmisher lets out an especially menacing roar. Creatures it chooses within 10 feet of itself that can hear it must succeed on a DC 10 Wisdom saving throw or become [[conditions#Frightened|frightened]] of it until the end of your next turn."
     "name": "Heroic"
 "source":
   - "TBVXVIII"

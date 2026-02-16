@@ -35,13 +35,13 @@ The nighthowler is a merging of several undead spirits into one. Its form is a c
   - !!int "6"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_resistances": "necrotic"
 "damage_immunities": "fire"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
@@ -51,12 +51,12 @@ The nighthowler is a merging of several undead spirits into one. Its form is a c
     "name": "Spell Nature"
   - "desc": "The nighthowler glows with the soft light of the night sky, shedding dim light in a 15-foot radius."
     "name": "Starlight Form"
-  - "desc": "While in sunlight, the nighthowler has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+  - "desc": "While in sunlight, the nighthowler has [[disadvantage-xphb|Disadvantage]] on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 7 (2d6) necrotic damage."
     "name": "Bite"
-  - "desc": "The nighthowler exhales shadowy fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) by this damage dies, and that creature's spirit leaves its body and becomes part of the nighthowler. The nighthowler's Strength is increased by 1, and its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) and maximum [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) are increased by 4 (1d8)."
+  - "desc": "The nighthowler exhales shadowy fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 [[hit-points-xphb|Hit Points]] by this damage dies, and that creature's spirit leaves its body and becomes part of the nighthowler. The nighthowler's Strength is increased by 1, and its [[hit-points-xphb|Hit Points]] and maximum [[hit-points-xphb|Hit Points]] are increased by 4 (1d8)."
     "name": "Shadow Breath (Recharge 5-6)"
 "source":
   - "TBVXXIII"

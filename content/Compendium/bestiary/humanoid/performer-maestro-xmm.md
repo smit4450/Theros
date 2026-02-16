@@ -22,7 +22,7 @@ Maestros are headlining performers who enjoy considerable renown. They might be 
 *Artists and Entertainers*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
 
 From royal courts to village squares, skilled entertainers hone their talents and delight audiences. Some travel far, sharing tales and demonstrating mysterious arts. Others serve in the courts and theaters of great nations, cultivating celebrity and navigating the whims of patrons. Many hone professional secrets and magical flourishes, striving to make their performances truly unforgettable.
 
@@ -115,15 +115,15 @@ Wrestler
   - "dexterity": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+10"
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+4"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+10"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "senses": "passive Perception 15"
 "languages": "Common plus one other language"
@@ -134,15 +134,15 @@ Wrestler
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 8 (1d8 + 4) Piercing\
       \ damage plus 7 (2d6) Psychic damage."
     "name": "Rapier"
-  - "desc": "*Wisdom Saving Throw:* DC 15, each creature in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 15, each creature in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point within 120 feet. *Failure:* 20 (3d10 + 4) Psychic damage,\
-      \ and the target has the [Charmed](Compendium/rules/conditions.md#Charmed) condition\
+      \ and the target has the [[conditions#Charmed|Charmed]] condition\
       \ until the end of the performer's next turn. *Success:* Half damage only."
     "name": "Beguiling Song"
   - "desc": "The performer casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-      \n**At will:** [Minor Illusion](Compendium/spells/minor-illusion-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
-      \n**1/day:** [Tasha's Hideous Laughter](Compendium/spells/tashas-hideous-laughter-xphb.md)\
+      \n**At will:** [[minor-illusion-xphb|Minor Illusion]], [[prestidigitation-xphb|Prestidigitation]]\n\
+      \n**1/day:** [[tashas-hideous-laughter-xphb|Tasha's Hideous Laughter]]\
       \ (level 3 version)"
     "name": "Spellcasting"
 "source":

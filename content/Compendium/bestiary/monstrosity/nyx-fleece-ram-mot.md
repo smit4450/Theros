@@ -40,13 +40,13 @@ Touched by the gods, Nyx-fleece rams grow remarkable magical wool. This makes th
   - "desc": "If the ram moves at least 20 feet straight toward a target and then hits\
       \ it with a ram attack on the same turn, the target takes an extra 5 (2d4)\
       \ bludgeoning damage. If the target is a creature, it must succeed on a DC 13\
-      \ Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
+      \ Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Charge"
   - "desc": "The ram has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
   - "desc": "The ram has advantage on Strength and Dexterity saving throws against\
-      \ effects that would knock it [prone](Compendium/rules/conditions.md#Prone)."
+      \ effects that would knock it [[conditions#Prone|prone]]."
     "name": "Sure-Footed"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\

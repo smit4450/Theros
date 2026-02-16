@@ -21,7 +21,7 @@ aliases: ["Horned Devil"]
 *Devil of Hatred and Subjugation*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Horned devils, also known as cornugons or malebranche, are infernal warriors that exact the will of diabolical generals and lead other devils in battle. Their bodies and weapons are forged in the Nine Hells, and they torment their foes with diabolical flames and pernicious wounds.
 ```statblock
@@ -48,18 +48,18 @@ Horned devils, also known as cornugons or malebranche, are infernal warriors tha
   - "wisdom": !!int "7"
   - "charisma": !!int "8"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 150 ft. (unimpeded\
-  \ by magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 150 ft. (unimpeded\
+  \ by magical [[darkness-xphb|Darkness]]), passive\
   \ Perception 13"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "11"
 "traits":
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ smoke, and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -71,16 +71,16 @@ Horned devils, also known as cornugons or malebranche, are infernal warriors tha
     "name": "Searing Fork"
   - "desc": "*Ranged Attack Roll:* +8, range 150 ft. *Hit:* 26 (5d8 + 4) Fire\
       \ damage. If the target is a flammable object that isn't being worn or carried,\
-      \ it starts [burning](Compendium/traps-hazards/burning-xphb.md)."
+      \ it starts [[burning-xphb|burning]]."
     "name": "Hurl Flame"
   - "desc": "*Dexterity Saving Throw:* DC 17, one creature the devil can see within\
       \ 10 feet. *Failure:* 10 (1d8 + 6) Necrotic damage, and the target receives\
       \ an infernal wound if it doesn't have one. While wounded, the target loses\
-      \ 10 (3d6) [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ 10 (3d6) [[hit-points-xphb|Hit Points]]\
       \ at the start of each of its turns. The wound closes after 1 minute, after\
-      \ a spell restores [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ a spell restores [[hit-points-xphb|Hit Points]]\
       \ to the target, or after the target or a creature within 5 feet of it takes\
-      \ an action to stanch the wound, doing so by succeeding on a DC 17 Wisdom ([Medicine](Compendium/rules/skills.md#Medicine))\
+      \ an action to stanch the wound, doing so by succeeding on a DC 17 Wisdom ([[skills#Medicine|Medicine]])\
       \ check."
     "name": "Infernal Tail"
 "source":

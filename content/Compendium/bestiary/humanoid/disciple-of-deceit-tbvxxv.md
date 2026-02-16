@@ -38,17 +38,17 @@ aliases: ["Disciple of Deceit"]
 "saves":
   - "dexterity": !!int "2"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+3"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common, Any one language"
 "cr": "0"
 "traits":
-  - "desc": "The disciple's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [Light](Compendium/spells/light-xphb.md), [Sacred Flame](Compendium/spells/sacred-flame-xphb.md) 3/day: [Bless](Compendium/spells/bless-xphb.md), [Cure Wounds](Compendium/spells/cure-wounds-xphb.md), [Sanctuary](Compendium/spells/sanctuary-xphb.md)"
+  - "desc": "The disciple's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [[light-xphb|Light]], [[sacred-flame-xphb|Sacred Flame]] 3/day: [[bless-xphb|Bless]], [[cure-wounds-xphb|Cure Wounds]], [[sanctuary-xphb|Sanctuary]]"
     "name": "Innate Spellcasting"
   - "desc": "At the beginning of the disciple's turn, if Phenax saw it bowing to him or his image at any point since the disciple's last turn, the disciple may use an action to cast the following spell: **Exchange Secrets** _2nd-level divination_ **Casting Time:** 1 action **Range:** Touch **Components:** V, S, M (a Returned mask) **Duration:** Concentration, up to 1 minute You and one willing creature both touch a Returned mask of that creature's choice. That creature speaks a secret to you. The revealed secret is erased entirely from the creature's memory and encoded into the Returned mask. You speak an equally valuable secret to the creature that would have been known by the soul who wore that mask before it lost its memories escaping the Underworld."
     "name": "Inspired"

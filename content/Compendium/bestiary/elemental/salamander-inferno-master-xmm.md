@@ -24,7 +24,7 @@ Salamander inferno masters are ancient connoisseurs of flames and often inhabit 
 *Serpentine Artists of the Inferno*
 
 - **Habitat.** Planar (Elemental Plane of Fire), Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Salamanders are serpentine denizens of the Elemental Plane of Fire. They believe that flames expose the purest forms of all things and delight in burning and melting things, seeing fleeting beauty and striking nuances in blazes consuming different fuels—ancient forests, artistic masterpieces, or living creatures. To salamanders, those that can't endure their flames are nothing but ashes in disguise. They harbor malice toward few creatures, but they consider creating remarkable flames more important than the pain and loss their fires cause.
 
@@ -59,16 +59,16 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
   - "wisdom": !!int "5"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 10"
 "languages": "Primordial (Ignan)"
 "cr": "15"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ choice in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the salamander takes 10 (3d6) Fire damage."
     "name": "Fire Aura"
-  - "desc": "The salamander has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The salamander has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -79,20 +79,20 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
       \ Miss:* The trident magically returns to the salamander's hand immediately\
       \ after a ranged attack."
     "name": "Flame Trident"
-  - "desc": "*Dexterity Saving Throw:* DC 18, each creature in a 30-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+  - "desc": "*Dexterity Saving Throw:* DC 18, each creature in a 30-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point the salamander can see within 120 feet. *Failure:* 35\
-      \ (10d6) Fire damage, and the target starts [burning](Compendium/traps-hazards/burning-xphb.md),\
+      \ (10d6) Fire damage, and the target starts [[burning-xphb|burning]],\
       \ taking 5 (1d10) Fire damage at the start of each of its turns instead of\
-      \ the normal [burning](Compendium/traps-hazards/burning-xphb.md) damage. The\
-      \ target gains 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level\
-      \ whenever it takes this [burning](Compendium/traps-hazards/burning-xphb.md)\
+      \ the normal [[burning-xphb|burning]] damage. The\
+      \ target gains 1 [[conditions#Exhaustion|Exhaustion]] level\
+      \ whenever it takes this [[burning-xphb|burning]]\
       \ damage. *Success:* Half damage only."
     "name": "Inferno Blast (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "The salamander moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).\
-      \ During this movement, fire fills a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the salamander. When the [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "The salamander moves up to its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
+      \ During this movement, fire fills a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the salamander. When the [[emanation-area-of-effect-xphb|Emanation]]\
       \ enters a creature's space, that creature takes 7 (2d6) Fire damage. A creature\
       \ can take this damage only once per turn."
     "name": "Blazing Movement"

@@ -23,7 +23,7 @@ Blackguards are paladins who broke their sacred oaths and now indulge their own 
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "18"
-"ac_class": "[plate armor](Compendium/items/plate-armor-xphb.md)"
+"ac_class": "[[plate-armor-xphb|plate armor]]"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
 "modifier": !!int "0"
@@ -39,11 +39,11 @@ Blackguards are paladins who broke their sacred oaths and now indulge their own 
   - "wisdom": !!int "5"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+7"
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+5"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
@@ -51,12 +51,12 @@ Blackguards are paladins who broke their sacred oaths and now indulge their own 
 "traits":
   - "desc": "The blackguard is a 10th-level spellcaster. Its spellcasting ability\
       \ is Charisma (spell save DC 13, +5 to hit with spell attacks). It has the\
-      \ following paladin spells prepared:\n\n**1st level (4 slots):** [command](Compendium/spells/command-xphb.md),\
-      \ [protection from evil and good](Compendium/spells/protection-from-evil-and-good-xphb.md),\
-      \ [thunderous smite](Compendium/spells/thunderous-smite-xphb.md)\n\n**2nd level\
-      \ (3 slots):** [branding smite](Compendium/spells/shining-smite-xphb.md), [find\
-      \ steed](Compendium/spells/find-steed-xphb.md)\n\n**3rd level (2 slots):** [blinding\
-      \ smite](Compendium/spells/blinding-smite-xphb.md), [dispel magic](Compendium/spells/dispel-magic-xphb.md)"
+      \ following paladin spells prepared:\n\n**1st level (4 slots):** [[command-xphb|command]],\
+      \ [[protection-from-evil-and-good-xphb|protection from evil and good]],\
+      \ [[thunderous-smite-xphb|thunderous smite]]\n\n**2nd level\
+      \ (3 slots):** [[shining-smite-xphb|branding smite]], [[find-steed-xphb|find\
+      \ steed]]\n\n**3rd level (2 slots):** [[blinding-smite-xphb|blinding\
+      \ smite]], [[dispel-magic-xphb|dispel magic]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "The blackguard makes three attacks with its glaive or its shortbow."
@@ -68,8 +68,8 @@ Blackguards are paladins who broke their sacred oaths and now indulge their own 
       \ 5 (1d6 + 2) piercing damage."
     "name": "Shortbow"
   - "desc": "The blackguard exudes magical menace. Each enemy within 30 feet of the\
-      \ blackguard must succeed on a DC 13 Wisdom saving throw or be [frightened](Compendium/rules/conditions.md#Frightened)\
-      \ for 1 minute. If a [frightened](Compendium/rules/conditions.md#Frightened)\
+      \ blackguard must succeed on a DC 13 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
+      \ for 1 minute. If a [[conditions#Frightened|frightened]]\
       \ target ends its turn more than 30 feet away from the blackguard, the target\
       \ can repeat the saving throw, ending the effect on itself on a success."
     "name": "Dreadful Aspect (Recharges after a Short or Long Rest)"

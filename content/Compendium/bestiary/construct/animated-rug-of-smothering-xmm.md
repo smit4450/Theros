@@ -67,20 +67,20 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
   - !!int "1"
 "speed": "10 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened),\
-  \ [exhaustion](Compendium/rules/conditions.md#Exhaustion), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 6"
 "languages": ""
 "cr": "2"
 "actions":
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Bludgeoning\
       \ damage. If the target is a Medium or smaller creature, the rug can give it\
-      \ the [Grappled](Compendium/rules/conditions.md#Grappled) condition (escape\
+      \ the [[conditions#Grappled|Grappled]] condition (escape\
       \ DC 13) instead of dealing damage. Until the grapple ends, the target has the\
-      \ [Blinded](Compendium/rules/conditions.md#Blinded) and [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ [[conditions#Blinded|Blinded]] and [[conditions#Restrained|Restrained]]\
       \ conditions, is suffocating, and takes 10 (2d6 + 3) Bludgeoning damage at\
       \ the start of each of its turns. The rug can smother only one creature at a\
       \ time.\n\nWhile grappling the target, the rug can't take this action, the rug\

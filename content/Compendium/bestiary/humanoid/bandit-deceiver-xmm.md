@@ -66,11 +66,11 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   - "dexterity": !!int "6"
   - "intelligence": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+6"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+9"
 "senses": "passive Perception 14"
 "languages": "Common, Thieves' cant"
@@ -82,18 +82,18 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
       \ *Hit:* 8 (2d4 + 3) Piercing damage plus 10 (3d6) Poison damage."
     "name": "Dagger"
   - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 10-foot-radius\
-      \ [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered\
+      \ [[sphere-area-of-effect-xphb|Sphere]] centered\
       \ on a point the bandit can see within 120 feet. *Failure:* 13 (3d6 + 3) Radiant\
-      \ damage, and the target has the [Blinded](Compendium/rules/conditions.md#Blinded)\
+      \ damage, and the target has the [[conditions#Blinded|Blinded]]\
       \ condition until the start of the bandit's next turn. *Success:* Half damage\
       \ only."
     "name": "Blinding Flash (Recharge 4-6)"
   - "desc": "The bandit casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 14):\n\n**At will:** [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
-      \ [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)\n\
-      \n**1/day each:** [Hold Person](Compendium/spells/hold-person-xphb.md) (level\
-      \ 4 version), [Mage Armor](Compendium/spells/mage-armor-xphb.md) (included in\
-      \ AC), [Major Image](Compendium/spells/major-image-xphb.md)"
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [[disguise-self-xphb|Disguise Self]],\
+      \ [[mage-hand-xphb|Mage Hand]], [[minor-illusion-xphb|Minor Illusion]]\n\
+      \n**1/day each:** [[hold-person-xphb|Hold Person]] (level\
+      \ 4 version), [[mage-armor-xphb|Mage Armor]] (included in\
+      \ AC), [[major-image-xphb|Major Image]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

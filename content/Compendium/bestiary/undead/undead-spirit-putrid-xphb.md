@@ -29,16 +29,16 @@ aliases: ["Undead Spirit (Putrid)"]
   - !!int "9"
 "speed": "30 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "*Constitution Saving Throw:* DC equals your spell save DC, any creature\
       \ (other than you) that starts its turn within a 5-foot Emanation originating\
-      \ from the spirit. *Failure:* The creature has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ from the spirit. *Failure:* The creature has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn."
     "name": "Festering Aura"
 "actions":
@@ -47,8 +47,8 @@ aliases: ["Undead Spirit (Putrid)"]
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
       \ ft. *Hit:* 1d6 + 3 + the spell's level Slashing damage. If the target has\
-      \ the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition, it has\
-      \ the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition until\
+      \ the [[conditions#Poisoned|Poisoned]] condition, it has\
+      \ the [[conditions#Paralyzed|Paralyzed]] condition until\
       \ the end of its next turn."
     "name": "Rotting Claw"
 "source":

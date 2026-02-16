@@ -63,23 +63,23 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
   - !!int "13"
   - !!int "6"
 "speed": "30 ft., burrow 10 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., Tremorsense\
   \ 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The ankheg can burrow through solid rock at half its [Burrow Speed](Compendium/rules/variant-rules/burrow-speed-xphb.md)\
+  - "desc": "The ankheg can burrow through solid rock at half its [[burrow-speed-xphb|Burrow Speed]]\
       \ and leaves a 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](Compendium/rules/conditions.md#Grappled) by the\
+  - "desc": "*Melee Attack Roll:* +5 (with [[advantage-xphb|Advantage]]\
+      \ if the target is [[conditions#Grappled|Grappled]] by the\
       \ ankheg), reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing damage plus 3 (1d6)\
-      \ Acid damage. If the target is a Large or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ Acid damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 13)."
     "name": "Bite"
   - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 30-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 14 (4d6) Acid damage. *Success:* Half damage."
     "name": "Acid Spray (Recharge 6)"
 "source":

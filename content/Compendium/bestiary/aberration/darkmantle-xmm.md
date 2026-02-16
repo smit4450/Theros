@@ -48,30 +48,30 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
   - !!int "5"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 10"
 "languages": ""
 "cr": "1/2"
 "actions":
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning\
       \ damage, and the darkmantle attaches to the target. If the target is a Medium\
-      \ or smaller creature and the darkmantle had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ on the attack roll, it covers the target, which has the [Blinded](Compendium/rules/conditions.md#Blinded)\
+      \ or smaller creature and the darkmantle had [[advantage-xphb|Advantage]]\
+      \ on the attack roll, it covers the target, which has the [[conditions#Blinded|Blinded]]\
       \ condition and is suffocating while the darkmantle is attached in this way.\n\
       \nWhile attached to a target, the darkmantle can attack only the target but\
-      \ has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on its attack\
-      \ rolls. Its [Speed](Compendium/rules/variant-rules/speed-xphb.md) becomes 0,\
-      \ it can't benefit from any bonus to its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+      \ has [[advantage-xphb|Advantage]] on its attack\
+      \ rolls. Its [[speed-xphb|Speed]] becomes 0,\
+      \ it can't benefit from any bonus to its [[speed-xphb|Speed]],\
       \ and it moves with the target.\n\nA creature can take an action to try to detach\
-      \ the darkmantle from itself, doing so with a successful DC 13 Strength ([Athletics](Compendium/rules/skills.md#Athletics))\
+      \ the darkmantle from itself, doing so with a successful DC 13 Strength ([[skills#Athletics|Athletics]])\
       \ check. On its turn, the darkmantle can detach itself by using 5 feet of movement."
     "name": "Crush"
-  - "desc": "Magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md) fills\
-      \ a 15-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "Magical [[darkness-xphb|Darkness]] fills\
+      \ a 15-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the darkmantle. This effect lasts while the darkmantle maintains\
-      \ [Concentration](Compendium/rules/conditions.md#Concentration) on it, up to\
+      \ [[conditions#Concentration|Concentration]] on it, up to\
       \ 10 minutes. Darkvision can't penetrate this area, and no light can illuminate\
       \ it."
     "name": "Darkness Aura (1/Day)"

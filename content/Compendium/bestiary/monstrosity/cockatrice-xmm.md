@@ -44,19 +44,19 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
   - !!int "13"
   - !!int "5"
 "speed": "20 ft., fly 40 ft."
-"condition_immunities": "[petrified](Compendium/rules/conditions.md#Petrified)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Petrified|petrified]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": ""
 "cr": "1/2"
 "actions":
   - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 3 (1d4 + 1) Piercing\
       \ damage. If the target is a creature, it is subjected to the following effect.\
-      \ *Constitution Saving Throw:* DC 11. *1St Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ *Constitution Saving Throw:* DC 11. *1St Failure:* The target has the [[conditions#Restrained|Restrained]]\
       \ condition. The target repeats the save at the end of its next turn if it is\
-      \ still [Restrained](Compendium/rules/conditions.md#Restrained), ending the\
-      \ effect on itself on a success. *2Nd Failure:* The target has the [Petrified](Compendium/rules/conditions.md#Petrified)\
-      \ condition, instead of the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ still [[conditions#Restrained|Restrained]], ending the\
+      \ effect on itself on a success. *2Nd Failure:* The target has the [[conditions#Petrified|Petrified]]\
+      \ condition, instead of the [[conditions#Restrained|Restrained]]\
       \ condition, for 24 hours."
     "name": "Petrifying Bite"
 "source":

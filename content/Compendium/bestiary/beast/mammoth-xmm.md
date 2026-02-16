@@ -17,7 +17,7 @@ aliases: ["Mammoth"]
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
 ```statblock
@@ -49,11 +49,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "*Melee Attack Roll:* +10, reach 10 ft. *Hit:* 18 (2d10 + 7) Piercing\
       \ damage. If the target is a Huge or smaller creature and the mammoth moved\
       \ 20+ feet straight toward it immediately before the hit, the target has the\
-      \ [Prone](Compendium/rules/conditions.md#Prone) condition."
+      \ [[conditions#Prone|Prone]] condition."
     "name": "Gore"
 "bonus_actions":
   - "desc": "*Dexterity Saving Throw:* DC 18, one creature within 5 feet that has\
-      \ the [Prone](Compendium/rules/conditions.md#Prone) condition. *Failure:* 29\
+      \ the [[conditions#Prone|Prone]] condition. *Failure:* 29\
       \ (4d10 + 7) Bludgeoning damage. *Success:* Half damage."
     "name": "Trample"
 "source":

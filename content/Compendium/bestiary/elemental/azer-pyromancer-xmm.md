@@ -24,7 +24,7 @@ Azer pyromancers conjure flames from the Elemental Plane of Fire to defend thems
 *Fiery Smiths of Living Metal*
 
 - **Habitat.** Mountain, Planar (Elemental Plane of Fire)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Azers are living bronze folk who work the primal elements of creation to craft weapons and magical wonders among the multiverse's mightiest infernos.
 ## Statblock
@@ -50,23 +50,23 @@ Azers are living bronze folk who work the primal elements of creation to craft w
   - "constitution": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+4"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 17"
 "languages": "Primordial (Ignan)"
 "cr": "6"
 "traits":
   - "desc": "At the end of each of the azer's turns, each creature of the azer's choice\
-      \ in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the azer takes 11 (2d10) Fire damage unless the azer has\
-      \ the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition."
+      \ the [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Fire Aura"
-  - "desc": "The azer sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+  - "desc": "The azer sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":
@@ -77,11 +77,11 @@ Azers are living bronze folk who work the primal elements of creation to craft w
     "name": "Flame Burst"
   - "desc": "The azer casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\n**At will:**\
-      \ [Elementalism](Compendium/spells/elementalism-xphb.md), [Mage Hand](Compendium/spells/mage-hand-xphb.md)\n\
-      \n**1/day:** [Fireball](Compendium/spells/fireball-xphb.md)"
+      \ [[elementalism-xphb|Elementalism]], [[mage-hand-xphb|Mage Hand]]\n\
+      \n**1/day:** [[fireball-xphb|Fireball]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The azer casts [Hellish Rebuke](Compendium/spells/hellish-rebuke-xphb.md)\
+  - "desc": "The azer casts [[hellish-rebuke-xphb|Hellish Rebuke]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Hellish Rebuke (2/Day)"

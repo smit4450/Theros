@@ -31,8 +31,8 @@ aliases: ["Fiendish Spirit"]
 "speed": "40 ft., climb 40 ft. (Demon only), fly 60 ft. (Devil only)"
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Abyssal, Infernal, Telepathy 60 ft."
 "traits":

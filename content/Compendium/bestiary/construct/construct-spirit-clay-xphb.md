@@ -29,10 +29,10 @@ aliases: ["Construct Spirit (Clay)"]
   - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Understands the languages you know"
 "actions":
@@ -45,7 +45,7 @@ aliases: ["Construct Spirit (Clay)"]
 "reactions":
   - "desc": "Trigger: The spirit takes damage from a creature. _Response:_ The spirit\
       \ makes a Slam attack against that creature if possible, or the spirit moves\
-      \ up to half its Speed toward that creature without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+      \ up to half its Speed toward that creature without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Berserk Lashing"
 "source":
   - "XPHB"

@@ -40,14 +40,14 @@ aliases: ["Dakra Mystic"]
   - "wisdom": !!int "5"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+5"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+3"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+5"
 "damage_resistances": "cold"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": "Celestial, Common, Primordial"
 "cr": "1"
 "traits":
@@ -59,7 +59,7 @@ aliases: ["Dakra Mystic"]
     "name": "Divine Influence"
   - "desc": "The mystic can communicate simple ideas with beasts that can breathe water. They can understand its words, though it has no special ability to understand them in return."
     "name": "Emissary of the Sea"
-  - "desc": "The mystic's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day: [Fog Cloud](Compendium/spells/fog-cloud-xphb.md), [Gust Of Wind](Compendium/spells/gust-of-wind-xphb.md), _wall of water_"
+  - "desc": "The mystic's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day: [[fog-cloud-xphb|Fog Cloud]], [[gust-of-wind-xphb|Gust Of Wind]], _wall of water_"
     "name": "Innate Spellcasting"
   - "desc": "The mystic possesses unparalleled experience in divining godly whims from cryptic visions and mundane forces."
     "name": "Interpreter of Signs"
@@ -69,7 +69,7 @@ aliases: ["Dakra Mystic"]
   - "desc": "Melee Spell Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) force damage."
     "name": "Eldritch Touch"
 "reactions":
-  - "desc": "When the mystic or a creature it can see makes an attack roll, a saving throw, or an ability check, the mystic can cause the roll to be made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
+  - "desc": "When the mystic or a creature it can see makes an attack roll, a saving throw, or an ability check, the mystic can cause the roll to be made with [[advantage-xphb|Advantage]] or [[disadvantage-xphb|Disadvantage]]."
     "name": "Divine Insight (3/Day)"
 "source":
   - "TBVXX"

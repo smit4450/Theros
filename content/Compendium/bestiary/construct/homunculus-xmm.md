@@ -60,8 +60,8 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
   - "wisdom": !!int "2"
   - "charisma": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"
@@ -72,11 +72,11 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage, and\
       \ the target is subjected to the following effect. *Constitution Saving Throw:*\
-      \ DC 12. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ DC 12. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the end of the homunculus's next turn. *By 5Th Failure:* The\
-      \ target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
-      \ for 1 minute. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the\
-      \ target has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition,\
+      \ target has the [[conditions#Poisoned|Poisoned]] condition\
+      \ for 1 minute. While [[conditions#Poisoned|Poisoned]], the\
+      \ target has the [[conditions#Unconscious|Unconscious]] condition,\
       \ which ends early if the target takes any damage."
     "name": "Bite"
 "source":

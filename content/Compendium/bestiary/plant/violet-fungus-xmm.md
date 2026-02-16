@@ -44,9 +44,9 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "3"
   - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., passive Perception\
   \ 6"
 "languages": ""
 "cr": "1/4"

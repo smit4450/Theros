@@ -47,24 +47,24 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 11"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "While [Bloodied](Compendium/rules/conditions.md#Bloodied), the quaggoth\
-      \ has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack\
+  - "desc": "While [[conditions#Bloodied|Bloodied]], the quaggoth\
+      \ has [[advantage-xphb|Advantage]] on attack\
       \ rolls."
     "name": "Bloodied Fury"
 "actions":
   - "desc": "The quaggoth makes two Claw attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing\
-      \ damage, or 13 (3d6 + 3) Slashing damage if the quaggoth is [Bloodied](Compendium/rules/conditions.md#Bloodied)."
+      \ damage, or 13 (3d6 + 3) Slashing damage if the quaggoth is [[conditions#Bloodied|Bloodied]]."
     "name": "Claw"
 "source":
   - "XMM"

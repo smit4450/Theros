@@ -39,7 +39,7 @@ A DM using this creature should keep in mind that this creature is capable of a 
 "speed": "120 ft."
 "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks"
 "damage_immunities": "fire"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": "Titan"
 "cr": "27"
 "traits":
@@ -49,7 +49,7 @@ A DM using this creature should keep in mind that this creature is capable of a 
     "name": "Fire Aura"
   - "desc": "The titan deals double damage to objects and structures."
     "name": "Siege Monster"
-  - "desc": "The titan has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity (Stealth) checks made to hide in rocky terrain."
+  - "desc": "The titan has [[advantage-xphb|Advantage]] on Dexterity (Stealth) checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
   - "desc": "Unless provoked, the giant ignores all nonflying things that are Huge or smaller and all flying things that are Large or smaller."
     "name": "Titanic Nature"

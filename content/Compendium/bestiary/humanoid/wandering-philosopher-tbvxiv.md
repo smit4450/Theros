@@ -40,17 +40,17 @@ aliases: ["Wandering Philosopher"]
 "saves":
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+3"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+3"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+3"
 "senses": "passive Perception 10"
 "languages": "Common, Sylvan"
 "cr": "1/4"
 "traits":
-  - "desc": "The philosopher's innate spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [Suggestion](Compendium/spells/suggestion-xphb.md), [Confusion](Compendium/spells/confusion-xphb.md)"
+  - "desc": "The philosopher's innate spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [[suggestion-xphb|Suggestion]], [[confusion-xphb|Confusion]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "_Melee Weapon Attack:_ +3 to hit: one target, reach 5 ft., 1 bludgeoning damage."

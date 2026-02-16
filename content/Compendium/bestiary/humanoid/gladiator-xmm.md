@@ -20,7 +20,7 @@ aliases: ["Gladiator"]
 *Competitor and Prizefighter*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Gladiators are professional fighters who pit themselves against one another, monsters, and other challenges to entertain audiences. While some compete merely to survive, others love the thrill of performing—and all gladiators know the importance of theatrics in keeping audiences excited. Roll on or choose an option from the Gladiator Theatrics table to inspire the unique flourishes a gladiator uses when competing.
 
@@ -58,9 +58,9 @@ Gladiators are professional fighters who pit themselves against one another, mon
   - "constitution": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+10"
-  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+5"
 "senses": "passive Perception 11"
 "languages": "Common"
@@ -74,7 +74,7 @@ Gladiators are professional fighters who pit themselves against one another, mon
     "name": "Spear"
   - "desc": "*Strength Saving Throw:* DC 15, one creature within 5 feet that the gladiator\
       \ can see. *Failure:* 9 (2d4 + 4) Bludgeoning damage. If the target is a Medium\
-      \ or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Shield Bash"
 "reactions":

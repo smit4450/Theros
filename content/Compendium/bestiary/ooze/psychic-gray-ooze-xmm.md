@@ -45,14 +45,14 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
   - !!int "2"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_resistances": "acid, cold, fire, psychic"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 8"
 "languages": ""
 "cr": "1"
@@ -62,7 +62,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
     "name": "Amorphous"
 "actions":
   - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 11 (3d6 + 1) Acid damage,\
-      \ and the target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ and the target has [[disadvantage-xphb|Disadvantage]]\
       \ on Intelligence saving throws until the end of the ooze's next turn."
     "name": "Pseudopod"
   - "desc": "*Intelligence Saving Throw:* DC 10, one creature the ooze can see within\

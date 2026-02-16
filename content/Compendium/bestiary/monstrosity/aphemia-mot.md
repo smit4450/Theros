@@ -39,15 +39,15 @@ Cruel, corpse-eating creatures, harpies endlessly seek their next meal, careless
   - "dexterity": !!int "6"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+4"
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+6"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "necrotic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 15"
 "languages": "Common"
 "cr": "5"
@@ -67,23 +67,23 @@ Cruel, corpse-eating creatures, harpies endlessly seek their next meal, careless
       \ (2d6 + 3) slashing damage."
     "name": "Claws"
   - "desc": "Aphemia shrieks a cacophony of magical sounds. Each humanoid within 120\
-      \ feet of her must succeed on a DC 14 Wisdom saving throw or be [frightened](Compendium/rules/conditions.md#Frightened)\
-      \ of her until the song ends. A [frightened](Compendium/rules/conditions.md#Frightened)\
+      \ feet of her must succeed on a DC 14 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
+      \ of her until the song ends. A [[conditions#Frightened|frightened]]\
       \ creature takes 7 (2d6) psychic damage at the start of its turn while Aphemia\
-      \ is singing. A [frightened](Compendium/rules/conditions.md#Frightened) creature\
+      \ is singing. A [[conditions#Frightened|frightened]] creature\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a success. If a creature's saving throw is successful or the\
       \ effect ends for it, the creature is immune to Aphemia's Discordant Song for\
       \ the next 24 hours. Aphemia must take a bonus action on her subsequent turns\
       \ to continue singing. She can stop singing at any time. The song ends if Aphemia\
-      \ is [incapacitated](Compendium/rules/conditions.md#Incapacitated) or dies."
+      \ is [[conditions#Incapacitated|incapacitated]] or dies."
     "name": "Discordant Song"
   - "desc": "Aphemia intones a low, growling magical melody. Every undead within 300\
       \ feet of her must succeed on a DC 14 Wisdom saving throw or fall under her\
       \ control until the song ends. Aphemia must take a bonus action on her subsequent\
       \ turns to continue singing, and she can mentally command the undead under her\
       \ control as part of the same bonus action. She can stop singing at any time.\
-      \ The song ends if Aphemia is [incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ The song ends if Aphemia is [[conditions#Incapacitated|incapacitated]]\
       \ or dies."
     "name": "Grave Calling Song"
 "source":

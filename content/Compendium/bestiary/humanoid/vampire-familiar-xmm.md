@@ -74,16 +74,16 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_resistances": "necrotic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed) (except\
+"condition_immunities": "[[conditions#Charmed|charmed]] (except\
   \ from its vampire master)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Common plus one other language"
 "cr": "3"
@@ -97,11 +97,11 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft.\
       \ *Hit:* 5 (1d4 + 3) Piercing damage plus 7 (3d4) Necrotic damage. If the\
-      \ target is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ by this attack, the target becomes [Stable](Compendium/rules/variant-rules/stable-xphb.md)\
-      \ but has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
-      \ for 1 hour. While it has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ condition, the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
+      \ target is reduced to 0 [[hit-points-xphb|Hit Points]]\
+      \ by this attack, the target becomes [[stable-xphb|Stable]]\
+      \ but has the [[conditions#Poisoned|Poisoned]] condition\
+      \ for 1 hour. While it has the [[conditions#Poisoned|Poisoned]]\
+      \ condition, the target has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition."
     "name": "Umbral Dagger"
 "bonus_actions":

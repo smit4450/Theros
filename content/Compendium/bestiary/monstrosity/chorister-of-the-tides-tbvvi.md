@@ -35,7 +35,7 @@ aliases: ["Chorister of the Tides"]
   - !!int "10"
   - !!int "13"
 "speed": "20 ft., fly 40 ft."
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
+"condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1"
@@ -49,7 +49,7 @@ aliases: ["Chorister of the Tides"]
     "name": "Claws"
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage."
     "name": "Club"
-  - "desc": "The siren sings a magical melody. Every humanoid and giant within 300 ft. of the siren that can hear the song must succeed on a DC 11 Wisdom saving throw or be [charmed](Compendium/rules/conditions.md#Charmed) until the song ends. The siren must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the siren is [incapacitated](Compendium/rules/conditions.md#Incapacitated). While [charmed](Compendium/rules/conditions.md#Charmed) by the siren, a target is [incapacitated](Compendium/rules/conditions.md#Incapacitated) and ignores the songs of other sirens. If the [charmed](Compendium/rules/conditions.md#Charmed) target is more than 5 ft. away from the siren, the must move on its turn toward the siren by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the siren, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it. A target that successfully saves is immune to this siren's song for the next 24 hours."
+  - "desc": "The siren sings a magical melody. Every humanoid and giant within 300 ft. of the siren that can hear the song must succeed on a DC 11 Wisdom saving throw or be [[conditions#Charmed|charmed]] until the song ends. The siren must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the siren is [[conditions#Incapacitated|incapacitated]]. While [[conditions#Charmed|charmed]] by the siren, a target is [[conditions#Incapacitated|incapacitated]] and ignores the songs of other sirens. If the [[conditions#Charmed|charmed]] target is more than 5 ft. away from the siren, the must move on its turn toward the siren by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the siren, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it. A target that successfully saves is immune to this siren's song for the next 24 hours."
     "name": "Luring Song"
 "source":
   - "TBVVI"

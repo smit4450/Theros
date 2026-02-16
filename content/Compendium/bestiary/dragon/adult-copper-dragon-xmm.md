@@ -22,7 +22,7 @@ Adult copper dragons use their influence to better the world. With broad circles
 *Dragons of Curiosity and Community*
 
 - **Habitat.** Hill  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Relentlessly friendly and curious, most copper dragons view the world as a place of endless wonder and possibility. These gregarious dragons are fonts of patience, hospitality, and humor, and they seek to improve the lives—or, at least, the mood—of those they interact with. If forced to fight to defend themselves or their friends, these dragons favor using their slowing breath and physical attacks to subdue antagonists. Only in cases of extreme peril or emotion do they use their deadly acid breath.
 
@@ -55,14 +55,14 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - "dexterity": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+12"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "acid"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 22"
 "languages": "Common, Draconic"
 "cr": "14"
@@ -71,30 +71,30 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of (A) Slowing Breath or (B) Spellcasting to cast [Mind Spike](Compendium/spells/mind-spike-xphb.md)\
+      \ use of (A) Slowing Breath or (B) Spellcasting to cast [[mind-spike-xphb|Mind Spike]]\
       \ (level 4 version)."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +11, reach 10 ft. *Hit:* 17 (2d10 + 6) Slashing\
       \ damage plus 4 (1d8) Acid damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 18, each creature in an 60-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 54 (12d8) Acid damage. *Success:* Half damage."
     "name": "Acid Breath (Recharge 5-6)"
-  - "desc": "*Constitution Saving Throw:* DC 18, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target can't take Reactions; its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ is halved; and it can take either an action or a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md)\
+  - "desc": "*Constitution Saving Throw:* DC 18, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *Failure:* The target can't take Reactions; its [[speed-xphb|Speed]]\
+      \ is halved; and it can take either an action or a [[bonus-action-xphb|Bonus Action]]\
       \ on its turn, not both. This effect lasts until the end of its next turn."
     "name": "Slowing Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\n**At\
-      \ will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Mind Spike](Compendium/spells/mind-spike-xphb.md)\
-      \ (level 4 version), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md),\
-      \ [Shapechange](Compendium/spells/shapechange-xphb.md) (Beast or Humanoid form\
-      \ only, no [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ gained from the spell, and no Concentration or [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ required to maintain the spell)\n\n**1/day each:** [Greater Restoration](Compendium/spells/greater-restoration-xphb.md),\
-      \ [Major Image](Compendium/spells/major-image-xphb.md)"
+      \ will:** [[detect-magic-xphb|Detect Magic]], [[mind-spike-xphb|Mind Spike]]\
+      \ (level 4 version), [[minor-illusion-xphb|Minor Illusion]],\
+      \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid form\
+      \ only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ required to maintain the spell)\n\n**1/day each:** [[greater-restoration-xphb|Greater Restoration]],\
+      \ [[major-image-xphb|Major Image]]"
     "name": "Spellcasting"
 "regional_effects":
   - "desc": "The region containing an adult or ancient copper dragon's lair is changed\
@@ -102,8 +102,8 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
       \ Tiny Beasts magically gain the ability to speak and understand Draconic while\
       \ within 6 miles of the lair.  \n- **Giggle Fits.** Whenever a creature other\
       \ than the dragon and its allies is within 1 mile of the lair and rolls a 1\
-      \ on a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md), it must\
-      \ succeed on a DC 15 Wisdom saving throw or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ on a [[d20-test-xphb|D20 Test]], it must\
+      \ succeed on a DC 15 Wisdom saving throw or have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, as it is wracked with laughter.\
       \  \n\nIf the dragon dies or moves its lair elsewhere, these effects end immediately."
     "name": ""
@@ -114,15 +114,15 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - "desc": "*Charisma Saving Throw:* DC 17, one creature the dragon can see within\
       \ 90 feet. *Failure:* 24 (7d6) Psychic damage. Until the end of its next turn,\
       \ the target rolls 1d6 whenever it makes an ability check or attack roll and\
-      \ subtracts the number rolled from the [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md).\
+      \ subtracts the number rolled from the [[d20-test-xphb|D20 Test]].\
       \ *Failure or Success:* The dragon can't take this action again until the start\
       \ of its next turn."
     "name": "Giggling Magic"
-  - "desc": "The dragon uses Spellcasting to cast [Mind Spike](Compendium/spells/mind-spike-xphb.md)\
+  - "desc": "The dragon uses Spellcasting to cast [[mind-spike-xphb|Mind Spike]]\
       \ (level 4 version). The dragon can't take this action again until the start\
       \ of its next turn."
     "name": "Mind Jolt"
-  - "desc": "The dragon moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "source":

@@ -36,10 +36,10 @@ What krakens are to the sea and dragons are to the sky, hydras are to the lands 
   - !!int "7"
 "speed": "40 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
 "damage_immunities": "acid"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 18"
 "languages": ""
 "cr": "12"
@@ -50,10 +50,10 @@ What krakens are to the sea and dragons are to the sky, hydras are to the lands 
   - "desc": "The hydra can hold its breath for 1 hour."
     "name": "Hold Breath"
   - "desc": "The hydra has five heads. While it has more than one head, the hydra\
-      \ has advantage on saving throws against being [blinded](Compendium/rules/conditions.md#Blinded),\
-      \ [charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened),\
-      \ [frightened](Compendium/rules/conditions.md#Frightened), [stunned](Compendium/rules/conditions.md#Stunned),\
-      \ or knocked [unconscious](Compendium/rules/conditions.md#Unconscious). Whenever\
+      \ has advantage on saving throws against being [[conditions#Blinded|blinded]],\
+      \ [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+      \ [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]],\
+      \ or knocked [[conditions#Unconscious|unconscious]]. Whenever\
       \ the hydra takes 35 or more damage in a single turn, one of its heads dies.\
       \ If all its heads die, the hydra dies. At the end of its turn, it grows two\
       \ heads for each of its heads that died since its last turn, unless it has taken\

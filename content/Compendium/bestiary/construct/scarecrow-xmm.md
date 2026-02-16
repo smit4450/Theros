@@ -58,23 +58,23 @@ Although scarecrows take their name from rural effigies, they might take varied 
 "speed": "30 ft."
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common plus one other language"
 "cr": "1"
 "actions":
   - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Slashing\
-      \ damage, and the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
       \ condition until the end of the scarecrow's next turn."
     "name": "Fearsome Claw"
   - "desc": "*Wisdom Saving Throw:* DC 11, one creature the scarecrow can see within\
-      \ 30 feet. *Failure:* The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
-      \ condition until the end of the scarecrow's next turn. While [Frightened](Compendium/rules/conditions.md#Frightened),\
-      \ the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition."
+      \ 30 feet. *Failure:* The target has the [[conditions#Frightened|Frightened]]\
+      \ condition until the end of the scarecrow's next turn. While [[conditions#Frightened|Frightened]],\
+      \ the target has the [[conditions#Paralyzed|Paralyzed]] condition."
     "name": "Terrifying Glare"
 "source":
   - "XMM"

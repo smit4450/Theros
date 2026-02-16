@@ -39,10 +39,10 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
   - !!int "1"
 "speed": "50 ft."
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 12"
 "languages": "understands one language of its creator but can't speak"
 "cr": "2"
@@ -50,13 +50,13 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
   - "desc": "If the hart moves at least 20 feet straight toward a target and then\
       \ hits it with an antlers attack on the same turn, the target takes an extra\
       \ 7 (2d6) fire damage. If the target is a creature, it must succeed on a DC\
-      \ 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
+      \ 13 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Charge"
   - "desc": "A creature that touches the hart or hits it with a melee attack while\
       \ within 5 feet of it takes 5 (1d10) fire damage."
     "name": "Heated Body"
   - "desc": "The hart has advantage on Strength and Dexterity saving throws made against\
-      \ effects that would knock it [prone](Compendium/rules/conditions.md#Prone)."
+      \ effects that would knock it [[conditions#Prone|prone]]."
     "name": "Sure-Footed"
 "actions":
   - "desc": "The hart makes two attacks: one with its antlers and one with its hooves."

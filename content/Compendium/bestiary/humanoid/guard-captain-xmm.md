@@ -22,7 +22,7 @@ Guard captains often have ample professional experience. They might be accomplis
 *Sentries and Watch Members*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Guards protect people, places, and things, either for pay or from a sense of duty. They might perform their duties vigilantly or distractedly. Some raise alarms at the first sign of danger and defend their charges with their lives. Others flee outright if their compensation doesn't match the danger they face.
 
@@ -50,9 +50,9 @@ Guards protect people, places, and things, either for pay or from a sense of dut
   - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+6"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Common"

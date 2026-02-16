@@ -65,19 +65,19 @@ An annis hag that is part of a coven (see the "Hag Covens" sidebar in the Monste
 "saves":
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": "Common, Giant, Sylvan"
 "cr": "6"
 "traits":
   - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 13).\
-      \ She can innately cast the following spells:\n\n**3/day each:** [disguise self](Compendium/spells/disguise-self-xphb.md)\
-      \ (including the form of a Medium humanoid), [fog cloud](Compendium/spells/fog-cloud-xphb.md)"
+      \ She can innately cast the following spells:\n\n**3/day each:** [[disguise-self-xphb|disguise self]]\
+      \ (including the form of a Medium humanoid), [[fog-cloud-xphb|fog cloud]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The annis makes three attacks: one with her bite and two with her claws."
@@ -89,7 +89,7 @@ An annis hag that is part of a coven (see the "Hag Covens" sidebar in the Monste
       \ (3d6 + 5) slashing damage."
     "name": "Claw"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 36\
-      \ (9d6 + 5) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled)\
+      \ (9d6 + 5) bludgeoning damage, and the target is [[conditions#Grappled|grappled]]\
       \ (escape DC 15) if it is a Large or smaller creature. Until the grapple ends,\
       \ the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of\
       \ the hag's turns. The hag can't make attacks while grappling a creature in\

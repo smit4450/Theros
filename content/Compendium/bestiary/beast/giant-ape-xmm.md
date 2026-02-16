@@ -17,7 +17,7 @@ aliases: ["Giant Ape"]
 ![](Compendium/bestiary/beast/img/giant-ape-and-giant-bat.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -39,11 +39,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
@@ -55,9 +55,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
       \ damage."
     "name": "Fist"
   - "desc": "The ape hurls a boulder at a point it can see within 90 feet. *Dexterity\
-      \ Saving Throw:* DC 17, each creature in a 5-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ Saving Throw:* DC 17, each creature in a 5-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on that point. *Failure:* 24 (7d6) Bludgeoning damage. If the target\
-      \ is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition. *Success:* Half damage only."
     "name": "Boulder Toss (Recharge 6)"
 "bonus_actions":

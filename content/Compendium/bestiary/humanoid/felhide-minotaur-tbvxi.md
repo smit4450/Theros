@@ -37,7 +37,7 @@ aliases: ["Felhide Minotaur"]
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common, Minotaur"

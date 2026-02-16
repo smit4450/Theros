@@ -22,7 +22,7 @@ aliases: ["Efreeti"]
 *Genie of Fire*
 
 - **Habitat.** Desert, Planar (Elemental Plane of Fire)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Efreet burn with the energy and unpredictability of fire. Their innate magic allows them to conjure flames from nothing and shape treasures within magical infernos. Many efreet have wicked reputations, as their fickle natures and love for dramatic conflagrations can be destructive. Other efreet delight in fire's beauty, be it the delicacy of a candle flame or the shared wonder of fireworks. These genies might aid mortals in exchange for treasures or the liberation of captive Elementals.
 
@@ -54,20 +54,20 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "damage_immunities": "fire"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 12"
 "languages": "Primordial (Ignan)"
 "cr": "11"
 "traits":
   - "desc": "If the efreeti dies outside the Elemental Plane of Fire, its body dissolves\
-      \ into ash, and it gains a new body in 1d4 days, reviving with all its [Hit\
-      \ Points](Compendium/rules/variant-rules/hit-points-xphb.md) somewhere on the\
+      \ into ash, and it gains a new body in 1d4 days, reviving with all its [[hit-points-xphb|Hit\
+      \ Points]] somewhere on the\
       \ Plane of Fire."
     "name": "Elemental Restoration"
-  - "desc": "The efreeti has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The efreeti has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The efreeti has a 30 percent chance of knowing the [Wish](Compendium/spells/wish-xphb.md)\
+  - "desc": "The efreeti has a 30 percent chance of knowing the [[wish-xphb|Wish]]\
       \ spell. If the efreeti knows it, the efreeti can cast it only on behalf of\
       \ a non-genie creature who communicates a wish in a way the efreeti can understand.\
       \ If the efreeti casts the spell for the creature, the efreeti suffers none\
@@ -85,10 +85,10 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
     "name": "Hurl Flame"
   - "desc": "The efreeti casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Elementalism](Compendium/spells/elementalism-xphb.md)\n\
-      \n**1/day each:** [Gaseous Form](Compendium/spells/gaseous-form-xphb.md), [Invisibility](Compendium/spells/invisibility-xphb.md),\
-      \ [Major Image](Compendium/spells/major-image-xphb.md), [Plane Shift](Compendium/spells/plane-shift-xphb.md),\
-      \ [Tongues](Compendium/spells/tongues-xphb.md), [Wall of Fire](Compendium/spells/wall-of-fire-xphb.md)\
+      \n**At will:** [[detect-magic-xphb|Detect Magic]], [[elementalism-xphb|Elementalism]]\n\
+      \n**1/day each:** [[gaseous-form-xphb|Gaseous Form]], [[invisibility-xphb|Invisibility]],\
+      \ [[major-image-xphb|Major Image]], [[plane-shift-xphb|Plane Shift]],\
+      \ [[tongues-xphb|Tongues]], [[wall-of-fire-xphb|Wall of Fire]]\
       \ (level 7 version)"
     "name": "Spellcasting"
 "source":

@@ -36,9 +36,9 @@ aliases: ["Reverent Hunter"]
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+4"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "passive Perception 10"
 "languages": "Common, any one language"
@@ -52,7 +52,7 @@ aliases: ["Reverent Hunter"]
   - "desc": "_Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage."
     "name": "Longbow"
 "reactions":
-  - "desc": "When the hunter rolls initiative, it gains a permanent +X bonus on attack rolls and Dexterity and Strength checks, and its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) and maximum [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) increase by Xd8, where X is the number of allied humans within 5 feet of the hunter."
+  - "desc": "When the hunter rolls initiative, it gains a permanent +X bonus on attack rolls and Dexterity and Strength checks, and its [[hit-points-xphb|Hit Points]] and maximum [[hit-points-xphb|Hit Points]] increase by Xd8, where X is the number of allied humans within 5 feet of the hunter."
     "name": "Nylea's Blessing"
 "source":
   - "TBVXXV"

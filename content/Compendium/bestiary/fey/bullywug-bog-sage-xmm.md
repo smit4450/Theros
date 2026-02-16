@@ -22,7 +22,7 @@ Bullywug bog sages channel the magic of the swamp to sicken foes and speak with 
 *Amphibious Appreciators of Marsh and Muck*
 
 - **Habitat.** Swamp  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
 
 Fey embodiments of swamplands, bullywugs protect the murky wilds and consider themselves cosmically favored for that role. These human-size, toad- or frog-like creatures have close relationships with the creatures of the swamp.
 ## Statblock
@@ -49,9 +49,9 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   - "wisdom": !!int "5"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "passive Perception 13"
 "languages": "Bullywug, Common"
@@ -64,17 +64,17 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
     "name": "Speak with Frogs and Toads"
 "actions":
   - "desc": "The bullywug makes two Bog Staff attacks. It can replace any attack with\
-      \ a use of Spellcasting to cast [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md)."
+      \ a use of Spellcasting to cast [[ray-of-sickness-xphb|Ray of Sickness]]."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning\
       \ damage plus 10 (3d6) Poison damage."
     "name": "Bog Staff"
   - "desc": "The bullywug casts one of the following spells, using Wisdom as the spellcasting\
       \ ability (spell save DC 13, +5 to hit with spell attacks):\n\n**At will:**\
-      \ [Dancing Lights](Compendium/spells/dancing-lights-xphb.md), [Druidcraft](Compendium/spells/druidcraft-xphb.md),\
-      \ [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md)\n\n**1/day each:**\
-      \ [Speak with Plants](Compendium/spells/speak-with-plants-xphb.md), [Vitriolic\
-      \ Sphere](Compendium/spells/vitriolic-sphere-xphb.md)"
+      \ [[dancing-lights-xphb|Dancing Lights]], [[druidcraft-xphb|Druidcraft]],\
+      \ [[ray-of-sickness-xphb|Ray of Sickness]]\n\n**1/day each:**\
+      \ [[speak-with-plants-xphb|Speak with Plants]], [[vitriolic-sphere-xphb|Vitriolic\
+      \ Sphere]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The bullywug can jump up to 30 feet by spending 10 feet of movement."

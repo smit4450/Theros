@@ -22,7 +22,7 @@ Green dragon wyrmlings often serve as pawns in older dragons' schemes. By spying
 *Dragons of Deceit and Derision*
 
 - **Habitat.** Forest  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 From forbidden forest depths, green dragons whisper evils into the world and manipulate the lives of those who listen. Elusive, conniving, and egotistical, these chromatic dragons patiently prey on the fears of shorter-lived beings, corrupting and isolating them. Green dragons might lurk amid labyrinthine wildernesses for centuries without revealing themselves; even their most devoted followers might know them only as the voice of the woodlands or a whisper in their dreams.
 
@@ -55,13 +55,13 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "dexterity": !!int "3"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
@@ -74,7 +74,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (1d10 + 2) Slashing\
       \ damage plus 3 (1d6) Poison damage."
     "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 11, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Constitution Saving Throw:* DC 11, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 21 (6d6) Poison damage. *Success:* Half damage."
     "name": "Poison Breath (Recharge 5-6)"
 "source":

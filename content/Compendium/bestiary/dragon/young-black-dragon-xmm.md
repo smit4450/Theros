@@ -22,7 +22,7 @@ Most young black dragons claim a hidden lair—typically a dismal place accessib
 *Dragons of Decay and Despair*
 
 - **Habitat.** Swamp  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 
@@ -57,12 +57,12 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   - "dexterity": !!int "5"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "acid"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "7"
@@ -76,7 +76,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
       \ damage plus 3 (1d6) Acid damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 14, each creature in a 30-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 49 (14d6) Acid damage. *Success:* Half damage."
     "name": "Acid Breath (Recharge 5-6)"
 "source":

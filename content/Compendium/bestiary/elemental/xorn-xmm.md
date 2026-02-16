@@ -63,14 +63,14 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
   - !!int "11"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense\
+"condition_immunities": "[[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., Tremorsense\
   \ 60 ft., passive Perception 16"
 "languages": "Primordial (Terran)"
 "cr": "5"
@@ -91,8 +91,8 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
       \ damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "The xorn moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ or [Burrow Speed](Compendium/rules/variant-rules/burrow-speed-xphb.md) straight\
+  - "desc": "The xorn moves up to its [[speed-xphb|Speed]]\
+      \ or [[burrow-speed-xphb|Burrow Speed]] straight\
       \ toward an enemy it can sense."
     "name": "Charge"
 "source":

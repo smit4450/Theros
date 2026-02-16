@@ -40,11 +40,11 @@ aliases: ["Omenspeaker"]
   - "wisdom": !!int "5"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+5"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+5"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+5"
 "senses": "passive Perception 10"
 "languages": "Celestial, Common, any one language"
@@ -52,7 +52,7 @@ aliases: ["Omenspeaker"]
 "traits":
   - "desc": "While the omenspeaker is wearing no armor and wielding no shield, its AC includes its Wisdom modifier. In addition, a creature that hits the omenspeaker with a melee attack while within 5 feet of it takes 9 (2d8) force damage."
     "name": "Blessings of the Gods"
-  - "desc": "The omenspeaker's innate spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [Light](Compendium/spells/light-xphb.md), [True Strike](Compendium/spells/true-strike-xphb.md) 3/day: [Augury](Compendium/spells/augury-xphb.md), [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md), [Identify](Compendium/spells/identify-xphb.md) 1/day: _commune_, [Divination](Compendium/spells/divination-xphb.md), [Scrying](Compendium/spells/scrying-xphb.md)"
+  - "desc": "The omenspeaker's innate spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [[light-xphb|Light]], [[true-strike-xphb|True Strike]] 3/day: [[augury-xphb|Augury]], [[detect-thoughts-xphb|Detect Thoughts]], [[identify-xphb|Identify]] 1/day: _commune_, [[divination-xphb|Divination]], [[scrying-xphb|Scrying]]"
     "name": "Innate Spellcasting"
   - "desc": "Just the omenspeaker seeks insights from interpreting the divine, so too do the gods occasionally seek to manipulate the world through the omenspeaker. Sometimes the gods might speak directly, be it with dramatic manifestations or direct possession of the omenspeaker. Although the gods' words might be steeped in metaphors, should they wish to make their intentions clear, they often finds dramatic ways to make their thoughts known."
     "name": "Divine Influence"
@@ -62,7 +62,7 @@ aliases: ["Omenspeaker"]
   - "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 1) force damage."
     "name": "Eldritch Touch"
 "reactions":
-  - "desc": "When the omenspeaker or a creature it can see makes an attack roll, a saving throw, or an ability check, the omenspeaker can cause the roll to be made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
+  - "desc": "When the omenspeaker or a creature it can see makes an attack roll, a saving throw, or an ability check, the omenspeaker can cause the roll to be made with [[advantage-xphb|Advantage]] or [[disadvantage-xphb|Disadvantage]]."
     "name": "Divine Insight (3/Day)"
 "source":
   - "TBVXX"

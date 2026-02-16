@@ -53,21 +53,21 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Primordial (Auran, Ignan)"
 "cr": "1/4"
 "traits":
   - "desc": "The mephit explodes when it dies. *Constitution Saving Throw:* DC 11,\
-      \ each creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the mephit. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ each creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the mephit. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the end of its next turn."
     "name": "Death Burst"
 "actions":
@@ -75,7 +75,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
       \ damage."
     "name": "Claw"
   - "desc": "*Dexterity Saving Throw:* DC 11, one creature the mephit can see within\
-      \ 15 feet. *Failure:* The target has the [Blinded](Compendium/rules/conditions.md#Blinded)\
+      \ 15 feet. *Failure:* The target has the [[conditions#Blinded|Blinded]]\
       \ condition until the end of the mephit's next turn."
     "name": "Cinder Breath (Recharge 6)"
 "source":

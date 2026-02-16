@@ -22,7 +22,7 @@ Bronze dragon wyrmlings believe they can solve any problems, and they seek to pr
 *Dragons of Potential and Preservation*
 
 - **Habitat.** Coastal  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** [[random-magic-items-implements|Implements]]  
 
 Where bronze dragons dwell, wonders flourish. Imaginative yet mindful, these metallic dragons work toward greatness and help others achieve all they can. They strive to preserve innovations, from the works of past civilizations to new discoveries, and they share such works widely. When dealing with shorter-lived beings, bronze dragons prefer to win them over through conversation and cultivation, but they don't shy from battle when villains keep others from achieving their potential.
 
@@ -55,12 +55,12 @@ Bronze dragons usually make their homes near or under the sea.
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "damage_immunities": "lightning"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
@@ -74,12 +74,12 @@ Bronze dragons usually make their homes near or under the sea.
       \ damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 40-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 16 (3d10) Lightning damage. *Success:* Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "*Strength Saving Throw:* DC 12, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Strength Saving Throw:* DC 12, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* The target is pushed up to 30 feet straight away from the dragon\
-      \ and has the [Prone](Compendium/rules/conditions.md#Prone) condition."
+      \ and has the [[conditions#Prone|Prone]] condition."
     "name": "Repulsion Breath"
 "source":
   - "XMM"

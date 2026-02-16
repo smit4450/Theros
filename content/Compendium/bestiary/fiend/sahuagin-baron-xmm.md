@@ -57,16 +57,16 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - "constitution": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "damage_resistances": "acid, cold"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 17"
 "languages": "Sahuagin"
 "cr": "5"
 "traits":
-  - "desc": "The sahuagin has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ on attack rolls against any creature that doesn't have all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "The sahuagin has [[advantage-xphb|Advantage]]\
+      \ on attack rolls against any creature that doesn't have all its [[hit-points-xphb|Hit Points]]."
     "name": "Blood Frenzy"
   - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
       \ once every 4 hours to avoid suffocating outside water."
@@ -82,12 +82,12 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
     "name": "Trident"
 "reactions":
   - "desc": "Trigger: The sahuagin takes Piercing or Slashing damage. _Response—_*Constitution\
-      \ Saving Throw:* DC 14, each creature of the sahuagin's choice in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ Saving Throw:* DC 14, each creature of the sahuagin's choice in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the sahuagin. *Failure:* 10 (3d6) Acid damage, and the\
-      \ target is cursed until it finishes a [Short](Compendium/rules/variant-rules/short-rest-xphb.md)\
-      \ or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). While cursed,\
-      \ the target can't benefit from the [Invisible](Compendium/rules/conditions.md#Invisible)\
-      \ condition, its [Speed](Compendium/rules/variant-rules/speed-xphb.md) decreases\
+      \ target is cursed until it finishes a [[short-rest-xphb|Short]]\
+      \ or [[long-rest-xphb|Long Rest]]. While cursed,\
+      \ the target can't benefit from the [[conditions#Invisible|Invisible]]\
+      \ condition, its [[speed-xphb|Speed]] decreases\
       \ by 10 feet, and all Fiends within 120 feet of the target can sense its location\
       \ regardless of interposing obstacles."
     "name": "Fiendish Blood"

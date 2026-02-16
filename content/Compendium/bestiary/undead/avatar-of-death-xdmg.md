@@ -29,11 +29,11 @@ aliases: ["Avatar of Death"]
   - !!int "16"
 "speed": "60 ft., fly 60 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Truesight|Truesight]] 60 ft., passive Perception\
   \ 13"
 "languages": "all languages known to its summoner"
 "traits":

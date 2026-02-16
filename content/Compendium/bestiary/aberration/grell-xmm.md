@@ -62,13 +62,13 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
   - !!int "9"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "lightning"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [prone](Compendium/rules/conditions.md#Prone)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Prone|prone]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 14"
 "languages": "Deep Speech"
 "cr": "3"
@@ -82,13 +82,13 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
       \ damage."
     "name": "Beak"
   - "desc": "*Melee Attack Roll:* +4, reach 10 ft. *Hit:* 7 (1d10 + 2) Piercing\
-      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 12) from two of ten tentacles. The target is also subjected\
       \ to the following effect. *Constitution Saving Throw:* DC 11. *Failure:* The\
-      \ target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
+      \ target has the [[conditions#Poisoned|Poisoned]] condition\
       \ and repeats the save at the end of each of its turns, ending the effect on\
-      \ itself on a success. After 1 minute, it succeeds automatically. While [Poisoned](Compendium/rules/conditions.md#Poisoned),\
-      \ the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition."
+      \ itself on a success. After 1 minute, it succeeds automatically. While [[conditions#Poisoned|Poisoned]],\
+      \ the target has the [[conditions#Paralyzed|Paralyzed]] condition."
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"

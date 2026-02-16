@@ -21,7 +21,7 @@ aliases: ["Drider"]
 *Spiderlike Underdark Hunter*
 
 - **Habitat.** Forest, Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Driders combine the features of drow and giant spiders. The wicked god Lolth is fond of transforming her drow worshipers into driders, as either a blessing or a curse. These driders often become fanatical servants of their god, or they are overwhelmed by their transformation and live only to indulge their predatory arachnid instincts.
 
@@ -56,11 +56,11 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+10"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 16"
 "languages": "Elvish, Undercommon"
 "cr": "6"
@@ -68,7 +68,7 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - "desc": "The drider can climb difficult surfaces, including along ceilings, without\
       \ needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "While in sunlight, the drider has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the drider has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
   - "desc": "The drider ignores movement restrictions caused by webs, and the drider\
@@ -85,8 +85,8 @@ Driders also appear when whole communities are transformed by a wicked god's wra
       \ damage."
     "name": "Poison Burst"
 "bonus_actions":
-  - "desc": "The drider casts [Darkness](Compendium/spells/darkness-xphb.md), [Faerie\
-      \ Fire](Compendium/spells/faerie-fire-xphb.md), or [Web](Compendium/spells/web-xphb.md),\
+  - "desc": "The drider casts [[darkness-xphb|Darkness]], [[faerie-fire-xphb|Faerie\
+      \ Fire]], or [[web-xphb|Web]],\
       \ requiring no Material components and using Wisdom as the spellcasting ability\
       \ (spell save DC 14).\n"
     "name": "Magic of the Spider Queen (Recharge 5-6)"

@@ -52,16 +52,16 @@ A leucrotta's stench would normally warn away prey long before the creature coul
   - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+2"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": "Abyssal, Gnoll"
 "cr": "3"
 "traits":
-  - "desc": "The leucrotta has advantage on Wisdom ([Perception](Compendium/rules/skills.md#Perception))\
+  - "desc": "The leucrotta has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "If the leucrotta attacks with its hooves, it can take the Disengage action\
@@ -69,7 +69,7 @@ A leucrotta's stench would normally warn away prey long before the creature coul
     "name": "Kicking Retreat"
   - "desc": "The leucrotta can mimic animal sounds and humanoid voices. A creature\
       \ that hears the sounds can tell they are imitations with a successful DC 14\
-      \ Wisdom ([Insight](Compendium/rules/skills.md#Insight)) check."
+      \ Wisdom ([[skills#Insight|Insight]]) check."
     "name": "Mimicry"
   - "desc": "When the leucrotta reduces a creature to 0 hit points with a melee attack\
       \ on its turn, it can take a bonus action to move up to half its speed and make\

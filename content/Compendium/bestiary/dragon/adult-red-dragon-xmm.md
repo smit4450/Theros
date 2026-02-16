@@ -58,12 +58,12 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "dexterity": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+13"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "fire"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 23"
 "languages": "Common, Draconic"
 "cr": "17"
@@ -72,45 +72,45 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [Scorching Ray](Compendium/spells/scorching-ray-xphb.md)."
+      \ use of Spellcasting to cast [[scorching-ray-xphb|Scorching Ray]]."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +14, reach 10 ft. *Hit:* 13 (1d10 + 8) Slashing\
       \ damage plus 5 (2d4) Fire damage."
     "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 21, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 21, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 59 (17d6) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 20, +12 to\
-      \ hit with spell attacks):\n\n**At will:** [Command](Compendium/spells/command-xphb.md)\
-      \ (level 2 version), [Detect Magic](Compendium/spells/detect-magic-xphb.md),\
-      \ [Scorching Ray](Compendium/spells/scorching-ray-xphb.md)\n\n**1/day:** [Fireball](Compendium/spells/fireball-xphb.md)"
+      \ hit with spell attacks):\n\n**At will:** [[command-xphb|Command]]\
+      \ (level 2 version), [[detect-magic-xphb|Detect Magic]],\
+      \ [[scorching-ray-xphb|Scorching Ray]]\n\n**1/day:** [[fireball-xphb|Fireball]]"
     "name": "Spellcasting"
 "regional_effects":
   - "desc": "The region containing an adult or ancient red dragon's lair is warped\
       \ by its presence, creating the following effects:\n\n- **Burning Heat.** The\
       \ area within 1 mile of the lair is an area of extreme heat. A burning creature\
       \ or object takes an additional 1d4 Fire damage at the start of each of its\
-      \ turns.  \n- **Smoldering Haze.** The area within 1 mile of the lair is [Lightly\
-      \ Obscured](Compendium/rules/variant-rules/lightly-obscured-xphb.md) with clouds\
+      \ turns.  \n- **Smoldering Haze.** The area within 1 mile of the lair is [[lightly-obscured-xphb|Lightly\
+      \ Obscured]] with clouds\
       \ of ash. Whenever a creature other than the dragon or one of its allies finishes\
-      \ a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) in that area,\
+      \ a [[long-rest-xphb|Long Rest]] in that area,\
       \ that creature must succeed on a DC 15 Constitution saving throw or have the\
-      \ [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour.\
+      \ [[conditions#Poisoned|Poisoned]] condition for 1 hour.\
       \  \n\nIf the dragon dies or moves its lair elsewhere, these effects end immediately."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3 (4 in Lair). Immediately after\
   \ another creature's turn, the dragon can expend a use to take one of the following\
   \ actions. The dragon regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [Command](Compendium/spells/command-xphb.md)\
+  - "desc": "The dragon uses Spellcasting to cast [[command-xphb|Command]]\
       \ (level 2 version). The dragon can't take this action again until the start\
       \ of its next turn."
     "name": "Commanding Presence"
-  - "desc": "The dragon uses Spellcasting to cast [Scorching Ray](Compendium/spells/scorching-ray-xphb.md).\
+  - "desc": "The dragon uses Spellcasting to cast [[scorching-ray-xphb|Scorching Ray]].\
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Fiery Rays"
-  - "desc": "The dragon moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "source":

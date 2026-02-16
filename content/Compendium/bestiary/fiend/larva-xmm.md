@@ -47,7 +47,7 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
   - !!int "10"
   - !!int "2"
 "speed": "20 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"

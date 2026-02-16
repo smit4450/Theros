@@ -34,7 +34,7 @@ Noble steeds of the sea, hippocamps feature in countless tales as guides and mou
   - !!int "6"
 "speed": "20 ft., swim 50 ft."
 "damage_resistances": "cold"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 10"
 "languages": ""
 "cr": "1/2"
@@ -44,7 +44,7 @@ Noble steeds of the sea, hippocamps feature in countless tales as guides and mou
   - "desc": "If the hippocamp moves at least 20 feet straight toward a target and\
       \ then hits it with a ram attack on the same turn, the target takes an extra\
       \ 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 12 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
+      \ on a DC 12 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9\

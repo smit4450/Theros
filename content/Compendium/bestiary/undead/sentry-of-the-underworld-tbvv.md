@@ -36,16 +36,16 @@ aliases: ["Sentry of the Underworld"]
   - !!int "8"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The sentry has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on sight."
+  - "desc": "The sentry has [[advantage-xphb|Advantage]] on Wisdom (Perception) checks that rely on sight."
     "name": "Keen Sight"
 "actions":
   - "desc": "The sentry makes two attacks: one with its beak and one with its claws."

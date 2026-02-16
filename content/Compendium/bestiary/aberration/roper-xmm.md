@@ -32,7 +32,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 |-----------|---------------------------------|
 | 1 | Areas that trigger traps. |
 | 2 | Caverns filled with smoke or gas. |
-| 3 | "dead magic zone" or [Wild Magic zones](Compendium/traps-hazards/wild-magic-zone-xdmg.md). |
+| 3 | "dead magic zone" or [[wild-magic-zone-xdmg|Wild Magic zones]]. |
 | 4 | The lair of a creature it is trying to bait out. |
 | 5 | A nest of rats, insects, or other vermin. |
 | 6 | Patches of brown mold* or green slime*. |
@@ -62,11 +62,11 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
   - !!int "6"
 "speed": "10 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 16"
 "languages": ""
 "cr": "5"
@@ -80,15 +80,15 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 17 (3d8 + 4) Piercing\
       \ damage."
     "name": "Bite"
-  - "desc": "*Melee Attack Roll:* +7, reach 60 ft. *Hit:* The target has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+  - "desc": "*Melee Attack Roll:* +7, reach 60 ft. *Hit:* The target has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 14) from one of six tentacles, and the target has the\
-      \ [Poisoned](Compendium/rules/conditions.md#Poisoned) condition until the grapple\
-      \ ends.\n\nThe tentacle can be damaged, freeing a creature it has [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ when destroyed (AC 20, HP 10, [Immunity](Compendium/rules/variant-rules/immunity-xphb.md)\
+      \ [[conditions#Poisoned|Poisoned]] condition until the grapple\
+      \ ends.\n\nThe tentacle can be damaged, freeing a creature it has [[conditions#Grappled|Grappled]]\
+      \ when destroyed (AC 20, HP 10, [[immunity-xphb|Immunity]]\
       \ to Poison and Psychic damage). Damaging the tentacle deals no damage to the\
       \ roper, and a destroyed tentacle regrows at the start of the roper's next turn."
     "name": "Tentacle"
-  - "desc": "The roper pulls each creature [Grappled](Compendium/rules/conditions.md#Grappled)\
+  - "desc": "The roper pulls each creature [[conditions#Grappled|Grappled]]\
       \ by it up to 30 feet straight toward it."
     "name": "Reel"
 "source":

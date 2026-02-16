@@ -39,25 +39,25 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+6"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": "Common, Primordial, Any two other languages"
 "cr": "7"
 "traits":
   - "desc": "The triton can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The triton wizard's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day each: [Fog Cloud](Compendium/spells/fog-cloud-xphb.md), [Gust Of Wind](Compendium/spells/gust-of-wind-xphb.md), _wall of water_"
+  - "desc": "The triton wizard's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day each: [[fog-cloud-xphb|Fog Cloud]], [[gust-of-wind-xphb|Gust Of Wind]], _wall of water_"
     "name": "Innate Spellcasting"
-  - "desc": "The triton is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The triton has the following wizard spells prepared: • Cantrips (at will): [Fire Bolt](Compendium/spells/fire-bolt-xphb.md), [Light](Compendium/spells/light-xphb.md), [Mage Hand](Compendium/spells/mage-hand-xphb.md), prestidigitation • 1st level (4 slots): [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Mage Armor](Compendium/spells/mage-armor-xphb.md), [Magic Missile](Compendium/spells/magic-missile-xphb.md), shield • 2nd level (3 slots): [Misty Step](Compendium/spells/misty-step-xphb.md), suggestion • 3rd level (3 slots): [Counterspell](Compendium/spells/counterspell-xphb.md), [Fireball](Compendium/spells/fireball-xphb.md), fly • 4th level (3 slots): [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md), ice storm • 5th level (1 slot): cone of cold"
+  - "desc": "The triton is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The triton has the following wizard spells prepared: • Cantrips (at will): [[fire-bolt-xphb|Fire Bolt]], [[light-xphb|Light]], [[mage-hand-xphb|Mage Hand]], prestidigitation • 1st level (4 slots): [[detect-magic-xphb|Detect Magic]], [[mage-armor-xphb|Mage Armor]], [[magic-missile-xphb|Magic Missile]], shield • 2nd level (3 slots): [[misty-step-xphb|Misty Step]], suggestion • 3rd level (3 slots): [[counterspell-xphb|Counterspell]], [[fireball-xphb|Fireball]], fly • 4th level (3 slots): [[greater-invisibility-xphb|Greater Invisibility]], ice storm • 5th level (1 slot): cone of cold"
     "name": "Spellcasting"
 "actions":
   - "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
 "reactions":
-  - "desc": "Whenever the triton becomes targeted by a spell, that spell's caster decides whether the triton may innately cast [Tsunami](Compendium/spells/tsunami-xphb.md) as a bonus action."
+  - "desc": "Whenever the triton becomes targeted by a spell, that spell's caster decides whether the triton may innately cast [[tsunami-xphb|Tsunami]] as a bonus action."
     "name": "Heroic"
 "source":
   - "TBVVII"

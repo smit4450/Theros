@@ -22,7 +22,7 @@ Fiend cultists worship fiends or evil deities. They often work to bring ruin to 
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -94,12 +94,12 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "constitution": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 90 ft. (unimpeded by\
-  \ magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+"senses": "[[senses#Darkvision|Darkvision]] 90 ft. (unimpeded by\
+  \ magical [[darkness-xphb|Darkness]]), passive\
   \ Perception 17"
 "languages": "Abyssal, Common, Infernal"
 "cr": "8"
@@ -111,12 +111,12 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Pact Axe"
   - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
       \ ability (spell save DC 15, +7 to hit with spell attacks):\n\n**At will:**\
-      \ [Scorching Ray](Compendium/spells/scorching-ray-xphb.md) (level 5 version),\
-      \ [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\n**2/day:** [Fireball](Compendium/spells/fireball-xphb.md)\
+      \ [[scorching-ray-xphb|Scorching Ray]] (level 5 version),\
+      \ [[thaumaturgy-xphb|Thaumaturgy]]\n\n**2/day:** [[fireball-xphb|Fireball]]\
       \ (level 6 version)"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The cultist casts [Hellish Rebuke](Compendium/spells/hellish-rebuke-xphb.md)\
+  - "desc": "The cultist casts [[hellish-rebuke-xphb|Hellish Rebuke]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Hellish Rebuke"

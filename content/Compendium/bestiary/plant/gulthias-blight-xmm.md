@@ -50,22 +50,22 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "12"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
 "damage_resistances": "fire, necrotic"
-"condition_immunities": "[deafened](Compendium/rules/conditions.md#Deafened)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Deafened|deafened]]"
+"senses": "[[senses#Blindsight|Blindsight]] 120 ft., passive Perception\
   \ 19"
 "languages": "Common, Druidic"
 "cr": "16"
 "traits":
-  - "desc": "When it finishes a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
+  - "desc": "When it finishes a [[long-rest-xphb|Long Rest]],\
       \ the blight expels 1d6 seeds into unoccupied spaces on the ground within\
       \ 30 feet of itself. After 24 hours, the seeds become creatures under the blight's\
       \ control. Roll 1d8 for each seed to determine the creature it becomes: on\
-      \ 1-4, [Twig Blight](Compendium/bestiary/plant/twig-blight-xmm.md); on 5-6,\
-      \ [Needle Blight](Compendium/bestiary/plant/needle-blight-xmm.md); on 7-8, [Vine\
-      \ Blight](Compendium/bestiary/plant/vine-blight-xmm.md)."
+      \ 1-4, [[twig-blight-xmm|Twig Blight]]; on 5-6,\
+      \ [[needle-blight-xmm|Needle Blight]]; on 7-8, [[vine-blight-xmm|Vine\
+      \ Blight]]."
     "name": "Blight Seeds"
 "actions":
   - "desc": "The blight makes two attacks, using Slam or Thorn Volley in any combination.\
@@ -79,13 +79,13 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
     "name": "Thorn Volley"
   - "desc": "*Constitution Saving Throw:* DC 20, one Huge or smaller creature the\
       \ blight can see within 30 feet. *Failure:* 14 (2d6 + 7) Necrotic damage,\
-      \ and the target has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ and the target has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 17) from one of six roots. Until the grapple ends, the\
-      \ target has the [Restrained](Compendium/rules/conditions.md#Restrained) condition\
+      \ target has the [[conditions#Restrained|Restrained]] condition\
       \ and takes 14 (4d6) Necrotic damage at the start of each of its turns. The\
-      \ target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
+      \ target's [[hit-points-xphb|Hit Point]] maximum\
       \ decreases by an amount equal to the Necrotic damage taken, and the blight\
-      \ regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal\
+      \ regains [[hit-points-xphb|Hit Points]] equal\
       \ to that amount."
     "name": "Life-Draining Root"
 "source":

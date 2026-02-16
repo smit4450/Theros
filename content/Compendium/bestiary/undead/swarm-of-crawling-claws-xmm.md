@@ -51,26 +51,26 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled),\
-  \ [incapacitated](Compendium/rules/conditions.md#Incapacitated), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Incapacitated|incapacitated]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Stunned|stunned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., passive Perception\
   \ 10"
 "languages": "understands Common but can't speak"
 "cr": "3"
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny creature. The swarm\
-      \ can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+      \ can't regain [[hit-points-xphb|Hit Points]]\
+      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 20 (4d8 + 2) Necrotic\
-      \ damage, or 11 (2d8 + 2) Necrotic damage if the swarm is [Bloodied](Compendium/rules/conditions.md#Bloodied).\
-      \ If the target is a Medium or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage, or 11 (2d8 + 2) Necrotic damage if the swarm is [[conditions#Bloodied|Bloodied]].\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Swarm of Grasping Hands"
 "source":

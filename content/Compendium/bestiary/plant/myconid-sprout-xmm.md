@@ -44,20 +44,20 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
   - !!int "11"
   - !!int "5"
 "speed": "10 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 10"
 "languages": "telepathy 240 ft."
 "cr": "0"
 "traits":
-  - "desc": "While in sunlight, the myconid has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md). The myconid\
+  - "desc": "While in sunlight, the myconid has [[disadvantage-xphb|Disadvantage]]\
+      \ on [[d20-test-xphb|D20 Tests]]. The myconid\
       \ dies if it spends more than 1 hour in sunlight."
     "name": "Sun Sickness"
 "actions":
   - "desc": "*Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 (1d4 - 1) Bludgeoning\
       \ damage plus 2 (1d4) Poison damage."
     "name": "Slam"
-  - "desc": "The myconid expels spores in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "The myconid expels spores in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from itself. Creatures in that area with an Intelligence score\
       \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
       \ with a range of 30 feet for 1 hour."

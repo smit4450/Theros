@@ -23,7 +23,7 @@ One of Gith's last deeds was to forge an alliance between the githyanki and the 
 *Invaders from the Astral Plane*
 
 - **Habitat.** Planar (Astral Plane)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Githyanki were once an ordinary people, but the deeds of a vile mind flayer empire etched conflict on their being. Gaunt, humanlike creatures, githyanki have serrated ears and speckled skin ranging through shades of yellow, green, and brown. While some githyanki follow their own paths, many are influenced by a past that forever altered their fates.
 
@@ -60,11 +60,11 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
   - "intelligence": !!int "10"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+10"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., passive Perception\
   \ 18"
 "languages": "Common, Draconic, Gith"
 "cr": "16"
@@ -73,21 +73,21 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Attack Roll:* +10, reach 10 ft. or range 120 ft.\
       \ *Hit:* 12 (2d6 + 5) Slashing damage plus 17 (5d6) Fire damage, and the\
-      \ target has the [Frightened](Compendium/rules/conditions.md#Frightened) condition\
+      \ target has the [[conditions#Frightened|Frightened]] condition\
       \ until the start of the githyanki's next turn."
     "name": "Draconic Strike"
-  - "desc": "*Dexterity Saving Throw:* DC 18, each creature in a 90-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 18, each creature in a 90-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 27 (6d8) Fire damage plus 27 (6d8) Force damage. *Success:*\
       \ Half damage."
     "name": "Conjured Dragon's Breath (Recharge 5-6)"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 18, +10\
-      \ to hit with spell attacks):\n\n**At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md)\
-      \ (the hand is Invisible)\n\n**2/day each:** [Nondetection](Compendium/spells/nondetection-xphb.md)\
-      \ (self only), [Plane Shift](Compendium/spells/plane-shift-xphb.md), [Tongues](Compendium/spells/tongues-xphb.md)"
+      \ to hit with spell attacks):\n\n**At will:** [[mage-hand-xphb|Mage Hand]]\
+      \ (the hand is Invisible)\n\n**2/day each:** [[nondetection-xphb|Nondetection]]\
+      \ (self only), [[plane-shift-xphb|Plane Shift]], [[tongues-xphb|Tongues]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githyanki casts [Misty Step](Compendium/spells/misty-step-xphb.md),\
+  - "desc": "The githyanki casts [[misty-step-xphb|Misty Step]],\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (3/Day)"
 "source":

@@ -43,11 +43,11 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Common (can't speak in rat form)"
 "cr": "2"
@@ -58,8 +58,8 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (2d4 + 3) Piercing\
       \ damage. If the target is a Humanoid, it is subjected to the following effect.\
       \ *Constitution Saving Throw:* DC 11. *Failure:* The target is cursed. If the\
-      \ cursed target drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Wererat under the DM's control and has 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ cursed target drops to 0 [[hit-points-xphb|Hit Points]],\
+      \ it instead becomes a Wererat under the DM's control and has 10 [[hit-points-xphb|Hit Points]].\
       \ *Success:* The target is immune to this wererat's curse for 24 hours."
     "name": "Bite (Rat or Hybrid Form Only)"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing\

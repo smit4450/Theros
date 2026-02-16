@@ -30,7 +30,7 @@ aliases: ["Giant Fly"]
   - !!int "10"
   - !!int "3"
 "speed": "30 ft., fly 60 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": ""
 "cr": "0"

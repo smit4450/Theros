@@ -22,7 +22,7 @@ Questing knights travel in pursuit of a cause, such as slaying a villain, defeat
 *Battle Masters and Heroic Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Knights are skilled warriors trained for war and tested in battle. Many serve the rulers of a realm, a religion, or an order devoted to a cause.
 ## Statblock
@@ -50,20 +50,20 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
   - "wisdom": !!int "5"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+8"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened)"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
 "senses": "passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "12"
 "traits":
-  - "desc": "Creatures of the knight's choice in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from it have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md)\
-      \ to the [Charmed](Compendium/rules/conditions.md#Charmed) and [Frightened](Compendium/rules/conditions.md#Frightened)\
+  - "desc": "Creatures of the knight's choice in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from it have [[immunity-xphb|Immunity]]\
+      \ to the [[conditions#Charmed|Charmed]] and [[conditions#Frightened|Frightened]]\
       \ conditions while there."
     "name": "Aura of Bravery"
 "actions":
@@ -76,9 +76,9 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
       \ damage plus 22 (5d8) Radiant damage."
     "name": "Longbow"
   - "desc": "The knight casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 16):\n\n**1/day each:** [Daylight](Compendium/spells/daylight-xphb.md),\
-      \ [Dispel Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md), [Greater\
-      \ Restoration](Compendium/spells/greater-restoration-xphb.md), [Phantom Steed](Compendium/spells/phantom-steed-xphb.md)"
+      \ ability (spell save DC 16):\n\n**1/day each:** [[daylight-xphb|Daylight]],\
+      \ [[dispel-evil-and-good-xphb|Dispel Evil and Good]], [[greater-restoration-xphb|Greater\
+      \ Restoration]], [[phantom-steed-xphb|Phantom Steed]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

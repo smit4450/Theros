@@ -37,7 +37,7 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 | 1 | An angry family member or authority figure. |
 | 2 | Being chased through the wilderness. |
 | 3 | Being devoured by animals or monsters. |
-| 4 | [Falling](Compendium/traps-hazards/falling-xphb.md), drowning, or suffocating. |
+| 4 | [[falling-xphb|Falling]], drowning, or suffocating. |
 | 5 | A ruinous public embarrassment. |
 | 6 | A shadowy intruder or monstrous silhouette. |
 | 7 | A traumatic past event. |
@@ -61,24 +61,24 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
   - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+9"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+9"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_resistances": "cold, fire, poison, psychic"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": "Abyssal, Common, Infernal; telepathy 60 ft."
 "cr": "4"
 "traits":
-  - "desc": "When the incubus finishes a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
-      \ it can shape-shift into a [Succubus](Compendium/bestiary/fiend/succubus-xmm.md),\
+  - "desc": "When the incubus finishes a [[long-rest-xphb|Long Rest]],\
+      \ it can shape-shift into a [[succubus-xmm|Succubus]],\
       \ using that stat block instead of this one. Any equipment it's wearing or carrying\
       \ isn't transformed."
     "name": "Succubus Form"
@@ -91,13 +91,13 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
     "name": "Restless Touch"
   - "desc": "The incubus casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-      \n**At will:** [Disguise Self](Compendium/spells/disguise-self-xphb.md), [Etherealness](Compendium/spells/etherealness-xphb.md)\n\
-      \n**1/day each:** [Dream](Compendium/spells/dream-xphb.md), [Hypnotic Pattern](Compendium/spells/hypnotic-pattern-xphb.md)"
+      \n**At will:** [[disguise-self-xphb|Disguise Self]], [[etherealness-xphb|Etherealness]]\n\
+      \n**1/day each:** [[dream-xphb|Dream]], [[hypnotic-pattern-xphb|Hypnotic Pattern]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "*Wisdom Saving Throw:* DC 15, one creature the incubus can see within\
-      \ 60 feet. *Failure:* If the target has 20 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ or fewer, it has the [Unconscious](Compendium/rules/conditions.md#Unconscious)\
+      \ 60 feet. *Failure:* If the target has 20 [[hit-points-xphb|Hit Points]]\
+      \ or fewer, it has the [[conditions#Unconscious|Unconscious]]\
       \ condition for 1 hour, until it takes damage, or until a creature within 5\
       \ feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8)\
       \ Psychic damage."

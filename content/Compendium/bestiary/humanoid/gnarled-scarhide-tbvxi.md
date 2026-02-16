@@ -36,7 +36,7 @@ aliases: ["Gnarled Scarhide"]
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common, Minotaur"
@@ -44,7 +44,7 @@ aliases: ["Gnarled Scarhide"]
 "traits":
   - "desc": "The minotaur can't make opportunity attacks."
     "name": "Gnarled"
-  - "desc": "The minotaur has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
+  - "desc": "The minotaur has [[advantage-xphb|Advantage]] on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The minotaur's weapon attacks are magical."
     "name": "Magic Weapons"

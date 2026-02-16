@@ -53,18 +53,18 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+3"
 "damage_resistances": "acid, cold"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 16"
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
-  - "desc": "The sahuagin has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ on attack rolls against any creature that doesn't have all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "The sahuagin has [[advantage-xphb|Advantage]]\
+      \ on attack rolls against any creature that doesn't have all its [[hit-points-xphb|Hit Points]]."
     "name": "Blood Frenzy"
   - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
       \ once every 4 hours to avoid suffocating outside water."
@@ -80,12 +80,12 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
     "name": "Spectral Jaws"
   - "desc": "The sahuagin casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \n**At will:** [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\n**2/day\
-      \ each:** [Hold Person](Compendium/spells/hold-person-xphb.md), [Tongues](Compendium/spells/tongues-xphb.md)"
+      \n**At will:** [[thaumaturgy-xphb|Thaumaturgy]]\n\n**2/day\
+      \ each:** [[hold-person-xphb|Hold Person]], [[tongues-xphb|Tongues]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The sahuagin casts [Bless](Compendium/spells/bless-xphb.md) or [Healing\
-      \ Word](Compendium/spells/healing-word-xphb.md), using the same spellcasting\
+  - "desc": "The sahuagin casts [[bless-xphb|Bless]] or [[healing-word-xphb|Healing\
+      \ Word]], using the same spellcasting\
       \ ability as Spellcasting.\n"
     "name": "Fiendish Aid (2/Day)"
 "source":

@@ -64,9 +64,9 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
   - !!int "8"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": ""
 "cr": "2"
@@ -74,7 +74,7 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
   - "desc": "The griffon makes two Rend attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d8 + 4) Piercing\
-      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 14) from both of the griffon's front claws."
     "name": "Rend"
 "source":

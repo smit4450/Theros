@@ -58,11 +58,11 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 "speed": "20 ft., climb 20 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened),\
-  \ [exhaustion](Compendium/rules/conditions.md#Exhaustion), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [prone](Compendium/rules/conditions.md#Prone),\
-  \ [restrained](Compendium/rules/conditions.md#Restrained)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 8"
 "languages": ""
 "cr": "2"
@@ -77,12 +77,12 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 12 (3d6 + 2) Acid damage."
     "name": "Pseudopod"
 "reactions":
-  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-      \ it becomes [Bloodied](Compendium/rules/conditions.md#Bloodied) or is subjected\
+  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [[hit-points-xphb|Hit Points]],\
+      \ it becomes [[conditions#Bloodied|Bloodied]] or is subjected\
       \ to Lightning or Slashing damage. _Response:_ The jelly splits into two new\
       \ Ochre Jellies. Each new jelly is one size smaller than the original jelly\
-      \ and acts on its [Initiative](Compendium/rules/variant-rules/initiative-xphb.md).\
-      \ The original jelly's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and acts on its [[initiative-xphb|Initiative]].\
+      \ The original jelly's [[hit-points-xphb|Hit Points]]\
       \ are divided evenly between the new jellies (round down)."
     "name": "Split"
 "source":

@@ -44,22 +44,22 @@ A nymph doesn't require food, drink, or sleep.
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+6"
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+6"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "Common, Sylvan"
 "cr": "3"
 "traits":
   - "desc": "The lampad's spellcasting ability is Charisma (+6 to hit with spell\
       \ attacks). It can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [chill touch](Compendium/spells/chill-touch-xphb.md)\
-      \ (see \"Actions\" below), [gentle repose](Compendium/spells/gentle-repose-xphb.md)"
+      \ components:\n\n**At will:** [[chill-touch-xphb|chill touch]]\
+      \ (see \"Actions\" below), [[gentle-repose-xphb|gentle repose]]"
     "name": "Innate Spellcasting"
   - "desc": "Once on its turn, the lampad can use 10 feet of its movement to step\
       \ magically into one creature's corpse within its reach and emerge from a second\

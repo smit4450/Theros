@@ -40,13 +40,13 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
   - !!int "10"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 16"
 "languages": "understands one language of its creator but can't speak"
 "cr": "5"
@@ -54,7 +54,7 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
   - "desc": "If the sentinel moves at least 20 feet straight toward a target and then\
       \ hits it with a ram attack on the same turn, the target takes an extra 10 (3d6)\
       \ bludgeoning damage. If the target is a creature, it must succeed on a DC 15\
-      \ Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
+      \ Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Charge"
   - "desc": "The sentinel has advantage on saving throws against any spell that targets\
       \ only the sentinel (not an area). If the sentinel's saving throw succeeds and\

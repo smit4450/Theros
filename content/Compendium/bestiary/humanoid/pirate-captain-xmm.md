@@ -22,7 +22,7 @@ Pirate captains command crews of pirates, dictating their destinations and targe
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** Individual, [[random-magic-items-implements|Implements]]  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -70,9 +70,9 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Common plus one other language"
@@ -81,7 +81,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   - "desc": "The pirate makes three attacks, using Rapier or Pistol in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing\
-      \ damage, and the pirate has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ damage, and the pirate has [[advantage-xphb|Advantage]]\
       \ on the next attack roll it makes before the end of this turn."
     "name": "Rapier"
   - "desc": "*Ranged Attack Roll:* +7, range 30/90 ft. *Hit:* 15 (2d10 + 4) Piercing\
@@ -89,7 +89,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     "name": "Pistol"
 "bonus_actions":
   - "desc": "*Wisdom Saving Throw:* DC 14, one creature the pirate can see within\
-      \ 30 feet. *Failure:* The target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ 30 feet. *Failure:* The target has the [[conditions#Charmed|Charmed]]\
       \ condition until the start of the pirate's next turn."
     "name": "Captain's Charm"
 "reactions":

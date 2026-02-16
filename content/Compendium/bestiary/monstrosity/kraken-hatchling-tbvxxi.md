@@ -37,7 +37,7 @@ aliases: ["Kraken Hatchling"]
 "speed": "15 ft., swim 60 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft. (can't see beyond this radius), passive Perception 10"
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft. (can't see beyond this radius), passive Perception 10"
 "languages": ""
 "cr": "13"
 "actions":

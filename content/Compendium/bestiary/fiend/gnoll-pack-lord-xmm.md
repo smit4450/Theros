@@ -25,7 +25,7 @@ Rising above other gnolls with their viciousness and physical prowess, gnoll pac
 *Fiends in Feral Flesh*
 
 - **Habitat.** Desert, Forest, Grassland, Hill  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their corruption and violence delighted the demon lord Yeenoghu, who encouraged their numbers and spread them across the multiverse. Ever since, gnolls have been the cackling servants of Yeenoghu, existing to cause ruin and to feast on what remains.
 
@@ -52,7 +52,7 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - !!int "11"
   - !!int "9"
 "speed": "30 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Gnoll"
 "cr": "2"
@@ -67,13 +67,13 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ damage."
     "name": "Bone Javelin"
   - "desc": "The gnoll targets another creature it can see within 60 feet of itself\
-      \ that has the Rampage [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md).\
-      \ The target can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
+      \ that has the Rampage [[bonus-action-xphb|Bonus Action]].\
+      \ The target can take a [[reaction-xphb|Reaction]]\
       \ to make one melee attack."
     "name": "Incite Rampage (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](Compendium/rules/conditions.md#Bloodied),\
-      \ the gnoll moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "Immediately after dealing damage to a creature that is already [[conditions#Bloodied|Bloodied]],\
+      \ the gnoll moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Bone Whip attack."
     "name": "Rampage (2/Day)"
 "source":

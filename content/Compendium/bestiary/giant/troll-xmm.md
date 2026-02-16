@@ -48,24 +48,24 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": "Giant"
 "cr": "5"
 "traits":
-  - "desc": "If the troll ends any turn [Bloodied](Compendium/rules/conditions.md#Bloodied)\
+  - "desc": "If the troll ends any turn [[conditions#Bloodied|Bloodied]]\
       \ and took 15+ Slashing damage during that turn, one of the troll's limbs is\
-      \ severed, falls into the troll's space, and becomes a [Troll Limb](Compendium/bestiary/giant/troll-limb-xmm.md).\
-      \ The limb acts immediately after the troll's turn. The troll has 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion)\
+      \ severed, falls into the troll's space, and becomes a [[troll-limb-xmm|Troll Limb]].\
+      \ The limb acts immediately after the troll's turn. The troll has 1 [[conditions#Exhaustion|Exhaustion]]\
       \ level for each missing limb, and it grows replacement limbs the next time\
-      \ it regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+      \ it regains [[hit-points-xphb|Hit Points]]."
     "name": "Loathsome Limbs (4/Day)"
-  - "desc": "The troll regains 15 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+  - "desc": "The troll regains 15 [[hit-points-xphb|Hit Points]]\
       \ at the start of each of its turns. If the troll takes Acid or Fire damage,\
       \ this trait doesn't function on the troll's next turn. The troll dies only\
-      \ if it starts its turn with 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ if it starts its turn with 0 [[hit-points-xphb|Hit Points]]\
       \ and doesn't regenerate."
     "name": "Regeneration"
 "actions":
@@ -75,7 +75,7 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
       \ damage."
     "name": "Rend"
 "bonus_actions":
-  - "desc": "The troll moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "The troll moves up to half its [[speed-xphb|Speed]]\
       \ straight toward an enemy it can see."
     "name": "Charge"
 "source":

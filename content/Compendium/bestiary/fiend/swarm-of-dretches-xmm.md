@@ -53,34 +53,34 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, cold, fire, lightning, piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Stunned|stunned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand\
   \ Abyssal)"
 "cr": "4"
 "traits":
   - "desc": "*Constitution Saving Throw:* DC 12, any creature that starts its turn\
-      \ in a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the swarm. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ condition until the start of its next turn. While [Poisoned](Compendium/rules/conditions.md#Poisoned),\
-      \ the target can take either an action or a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md)\
+      \ in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the swarm. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition until the start of its next turn. While [[conditions#Poisoned|Poisoned]],\
+      \ the target can take either an action or a [[bonus-action-xphb|Bonus Action]]\
       \ on its turn, not both, and it can't take Reactions."
     "name": "Fetid Aura"
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Small creature. The\
-      \ swarm can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+      \ swarm can't regain [[hit-points-xphb|Hit Points]]\
+      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "The swarm makes two Rend attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 12 (3d6 + 2) Slashing\
-      \ damage, or 9 (3d4 + 2) Slashing damage if the swarm is [Bloodied](Compendium/rules/conditions.md#Bloodied)."
+      \ damage, or 9 (3d4 + 2) Slashing damage if the swarm is [[conditions#Bloodied|Bloodied]]."
     "name": "Rend"
 "source":
   - "XMM"

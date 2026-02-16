@@ -68,12 +68,12 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Giant"
 "cr": "4"
@@ -81,11 +81,11 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
   - "desc": "The ettin makes one Battleaxe attack and one Morningstar attack."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Slashing\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Battleaxe"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing\
-      \ damage, and the target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ damage, and the target has [[disadvantage-xphb|Disadvantage]]\
       \ on the next attack roll it makes before the end of its next turn."
     "name": "Morningstar"
 "source":

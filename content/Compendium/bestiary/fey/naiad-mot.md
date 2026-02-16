@@ -52,27 +52,27 @@ A nymph doesn't require food, drink, or sleep.
   - !!int "18"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+6"
-  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+5"
 "damage_resistances": "psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 10"
 "languages": "Common, Sylvan"
 "cr": "2"
 "traits":
   - "desc": "The naiad's spellcasting ability is Charisma (spell save DC 14). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [minor illusion](Compendium/spells/minor-illusion-xphb.md)\n\n\
-      **3/day:** [phantasmal force](Compendium/spells/phantasmal-force-xphb.md)\n\n\
-      **1/day each:** [fly](Compendium/spells/fly-xphb.md), [hypnotic pattern](Compendium/spells/hypnotic-pattern-xphb.md)"
+      **At will:** [[minor-illusion-xphb|minor illusion]]\n\n\
+      **3/day:** [[phantasmal-force-xphb|phantasmal force]]\n\n\
+      **1/day each:** [[fly-xphb|fly]], [[hypnotic-pattern-xphb|hypnotic pattern]]"
     "name": "Innate Spellcasting"
   - "desc": "The naiad can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The naiad is [invisible](Compendium/rules/conditions.md#Invisible) while\
+  - "desc": "The naiad is [[conditions#Invisible|invisible]] while\
       \ fully immersed in water."
     "name": "Invisible in Water"
   - "desc": "The naiad has advantage on saving throws against spells and other magical\

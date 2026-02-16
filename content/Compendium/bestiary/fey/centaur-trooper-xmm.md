@@ -25,7 +25,7 @@ Centaur troopers are knight-like guardians. Many are suspicious of non-Fey creat
 *Defenders of the Feywild*
 
 - **Habitat.** Forest, Grassland, Planar (Feywild)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Centaurs are defenders of forests, plains, and sites of primeval power. With upper bodies like humans' and the lower bodies of horses, centaurs charge into battle against those who would harm their allies.
 ## Statblock
@@ -48,9 +48,9 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
   - !!int "11"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+6"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "Elvish, Sylvan"
@@ -65,12 +65,12 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
       \ damage."
     "name": "Longbow"
 "bonus_actions":
-  - "desc": "The centaur moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The centaur moves up to its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ and can move through the spaces of Medium or smaller creatures. Each creature\
       \ whose space the centaur enters is targeted once by the following effect. *Strength\
       \ Saving Throw:* DC 14. *Failure:* 7 (1d6 + 4) Bludgeoning damage, and the\
-      \ target has the [Prone](Compendium/rules/conditions.md#Prone) condition."
+      \ target has the [[conditions#Prone|Prone]] condition."
     "name": "Trampling Charge (Recharge 5-6)"
 "source":
   - "XMM"

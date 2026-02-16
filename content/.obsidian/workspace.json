@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/bestiary/aberration/fleshmad-steed-tbvviii.md",
-                "mode": "source",
+                "file": "Compendium/bestiary/dragon/stormbreath-dragon-tbvvi.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fleshmad-steed-tbvviii"
+              "title": "stormbreath-dragon-tbvvi"
             }
           }
         ]
@@ -267,6 +267,13 @@
   },
   "active": "a507a16ea995846f",
   "lastOpenFiles": [
+    "Compendium/bestiary/dragon/forgestoker-dragon-tbvvi.md",
+    "Compendium/bestiary/construct/huge-anvilwrought-raptor-tbvii.md",
+    "Compendium/bestiary/celestial/soul-of-theros-tbvvi.md",
+    "Compendium/bestiary/celestial/ornitharch-tbvvi.md",
+    "Compendium/bestiary/celestial/opaline-unicorn-tbvii.md",
+    "Compendium/bestiary/aberration/fleshmad-steed-tbvviii.md",
+    "Compendium/bestiary/aberration/aberration.md",
     "Compendium/crafting/index.md",
     "Compendium/crafting/The Arcane Forge.md",
     "Compendium/crafting/enchantments/weapon/index.md",
@@ -286,13 +293,6 @@
     "Compendium/crafting/forging/silver.md",
     "Compendium/crafting/forging/orichalcum.md",
     "Compendium/crafting/forging/mithral.md",
-    "Compendium/crafting/forging/masterwork.md",
-    "Compendium/crafting/forging/imixium.md",
-    "Compendium/crafting/forging/cold-iron.md",
-    "Compendium/crafting/forging/bloodmetal.md",
-    "Compendium/crafting/forging/blacksteel.md",
-    "Compendium/crafting/enchantments/universal/true-seeing.md",
-    "Compendium/crafting/enchantments/universal/spell-resistance.md",
     "Compendium/crafting/forging",
     "Compendium/crafting",
     "Compendium/crafting/enchantments/armor",

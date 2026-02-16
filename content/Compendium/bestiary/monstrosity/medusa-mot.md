@@ -33,30 +33,30 @@ Medusas (often called gorgons on Theros) are closely associated with Pharika, th
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+4"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Common"
 "cr": "6"
 "traits":
   - "desc": "When a creature that can see the medusa's eyes starts its turn within\
       \ 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution\
-      \ saving throw if the medusa isn't [incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ saving throw if the medusa isn't [[conditions#Incapacitated|incapacitated]]\
       \ and can see the creature. If the saving throw fails by 5 or more, the creature\
-      \ is instantly [petrified](Compendium/rules/conditions.md#Petrified). Otherwise,\
-      \ a creature that fails the save begins to turn to stone and is [restrained](Compendium/rules/conditions.md#Restrained).\
-      \ The [restrained](Compendium/rules/conditions.md#Restrained) creature must\
-      \ repeat the saving throw at the end of its next turn, becoming [petrified](Compendium/rules/conditions.md#Petrified)\
+      \ is instantly [[conditions#Petrified|petrified]]. Otherwise,\
+      \ a creature that fails the save begins to turn to stone and is [[conditions#Restrained|restrained]].\
+      \ The [[conditions#Restrained|restrained]] creature must\
+      \ repeat the saving throw at the end of its next turn, becoming [[conditions#Petrified|petrified]]\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by the  [greater restoration](Compendium/spells/greater-restoration-xphb.md)\
-      \ spell or other magic.\n\nUnless [surprised](Compendium/rules/conditions.md#Surprised),\
+      \ the creature is freed by the  [[greater-restoration-xphb|greater restoration]]\
+      \ spell or other magic.\n\nUnless [[conditions#Surprised|surprised]],\
       \ a creature can avert its eyes to avoid the saving throw at the start of its\
       \ turn. If the creature does so, it can't see the medusa until the start of\
       \ its next turn, when it can avert its eyes again. If the creature looks at\
@@ -80,8 +80,8 @@ Medusas (often called gorgons on Theros) are closely associated with Pharika, th
       \ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage."
     "name": "Longbow"
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 10 ft., one target. *Hit:*\
-      \ 7 (2d6) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled)\
-      \ (escape DC 11). Until this grapple ends, the target is [restrained](Compendium/rules/conditions.md#Restrained),\
+      \ 7 (2d6) bludgeoning damage, and the target is [[conditions#Grappled|grappled]]\
+      \ (escape DC 11). Until this grapple ends, the target is [[conditions#Restrained|restrained]],\
       \ and the medusa can't constrict another target."
     "name": "Constrict"
 "source":

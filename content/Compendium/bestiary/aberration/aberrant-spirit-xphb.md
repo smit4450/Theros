@@ -30,7 +30,7 @@ aliases: ["Aberrant Spirit"]
   - !!int "6"
 "speed": "30 ft., fly 30 ft. (hover; Beholderkin only)"
 "damage_immunities": "psychic"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Deep Speech, understands the languages you know"
 "traits":
@@ -38,7 +38,7 @@ aliases: ["Aberrant Spirit"]
       \ least 1 Hit Point."
     "name": "Regeneration (Slaad Only)"
   - "desc": "At the start of each of the spirit's turns, the spirit emits psionic\
-      \ energy if it doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ energy if it doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. *Wisdom Saving Throw:* DC equals your spell save DC, each creature\
       \ (other than you) within 5 feet of the spirit. *Failure:* 2d6 Psychic damage."
     "name": "Whispering Aura (Mind Flayer Only)"

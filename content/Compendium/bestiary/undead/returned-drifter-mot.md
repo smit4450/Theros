@@ -25,7 +25,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "type": "undead"
 "alignment": "Lawful Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](Compendium/items/leather-armor-xphb.md)"
+"ac_class": "[[leather-armor-xphb|leather armor]]"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "2"
@@ -39,7 +39,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "speed": "30 ft."
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "1/4"
@@ -48,7 +48,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
       \ undead."
     "name": "Turn Resistance"
   - "desc": "The Returned is immune to any effect that would sense its emotions or\
-      \ read its thoughts. Wisdom ([Insight](Compendium/rules/skills.md#Insight))\
+      \ read its thoughts. Wisdom ([[skills#Insight|Insight]])\
       \ checks to ascertain the Returned's intentions or sincerity are made with disadvantage."
     "name": "Unreadable Face"
 "actions":

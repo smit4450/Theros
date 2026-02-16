@@ -29,7 +29,7 @@ aliases: ["Beast of the Sea"]
   - !!int "14"
   - !!int "11"
 "speed": "5 ft., swim 60 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 90 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 90 ft., passive Perception\
   \ 12"
 "languages": "understands the languages you know"
 "traits":
@@ -41,7 +41,7 @@ aliases: ["Beast of the Sea"]
 "actions":
   - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
       \ ft. *Hit:* 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage\
-      \ (your choice when you summon the beast), and the target has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ (your choice when you summon the beast), and the target has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC equals your spell save DC)."
     "name": "Beast's Strike"
 "source":

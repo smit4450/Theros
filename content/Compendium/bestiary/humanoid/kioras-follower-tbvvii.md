@@ -36,10 +36,10 @@ aliases: ["Kiora's Follower"]
   - !!int "12"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
 "damage_resistances": "cold"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": "Common, Primordial"
 "cr": "0"
 "traits":
@@ -47,7 +47,7 @@ aliases: ["Kiora's Follower"]
     "name": "Amphibious"
   - "desc": "The triton can communicate simple ideas with beasts that can breathe water. They can understand its words, though it has no special ability to understand them in return."
     "name": "Emissary of the Sea"
-  - "desc": "The kiora's follower's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 3/day: [Fog Cloud](Compendium/spells/fog-cloud-xphb.md)"
+  - "desc": "The kiora's follower's innate spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 3/day: [[fog-cloud-xphb|Fog Cloud]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The triton makes two trident attacks."

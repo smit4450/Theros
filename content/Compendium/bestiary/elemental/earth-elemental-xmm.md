@@ -66,10 +66,10 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., Tremorsense\
   \ 60 ft., passive Perception 10"
 "languages": "Primordial (Terran)"
 "cr": "5"
@@ -86,7 +86,7 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
       \ damage."
     "name": "Slam"
   - "desc": "*Ranged Attack Roll:* +8, range 60 ft. *Hit:* 8 (1d6 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Rock Launch"
 "source":

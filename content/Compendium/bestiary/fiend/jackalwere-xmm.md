@@ -21,7 +21,7 @@ aliases: ["Jackalwere"]
 *Shape-Shifting Trickster of the Wilds*
 
 - **Habitat.** Desert, Grassland  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** [[random-magic-items-implements|Implements]]  
 
 Indistinguishable from jackals in their natural form, jackalweres shape-shift to deceive others. These shape-shifters can take three forms: a jackal, a human, or a monstrous hybrid of the two. Jackalweres are easily mistaken for werewolves, but jackalweres aren't supernaturally afflicted—their jackal forms are their natural state. Jackalweres also possess magical gazes capable of putting foes to sleep, allowing jackalweres to play their tricks unimpeded or get the upper hand over threats.
 
@@ -54,20 +54,20 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+4"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 90 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 90 ft., passive Perception\
   \ 14"
 "languages": "Common"
 "cr": "1/2"
 "traits":
-  - "desc": "The jackalwere has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The jackalwere has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the jackalwere's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":
@@ -81,7 +81,7 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
     "name": "Slam (Human or Hybrid Form Only)"
   - "desc": "*Wisdom Saving Throw:* DC 10, one creature the jackalwere can see within\
       \ 30 feet (Constructs and Undead succeed automatically). *Failure:* The target\
-      \ has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition\
+      \ has the [[conditions#Unconscious|Unconscious]] condition\
       \ for 10 minutes or until it takes damage or a creature within 5 feet of it\
       \ takes an action to wake it. *Success:* The target is immune to this jackalwere's\
       \ Sleep Gaze for 24 hours."

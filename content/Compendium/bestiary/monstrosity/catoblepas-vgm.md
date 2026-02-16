@@ -54,24 +54,24 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
   - !!int "14"
   - !!int "8"
 "speed": "30 ft."
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": ""
 "cr": "5"
 "traits":
-  - "desc": "The catoblepas has advantage on Wisdom ([Perception](Compendium/rules/skills.md#Perception))\
+  - "desc": "The catoblepas has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "Any creature other than a catoblepas that starts its turn within 10 feet\
       \ of the catoblepas must succeed on a DC 16 Constitution saving throw or be\
-      \ [poisoned](Compendium/rules/conditions.md#Poisoned) until the start of the\
+      \ [[conditions#Poisoned|poisoned]] until the start of the\
       \ creature's next turn. On a successful saving throw, the creature is immune\
       \ to the stench of any catoblepas for 1 hour."
     "name": "Stench"
 "actions":
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
       \ 21 (5d6 + 4) bludgeoning damage, and the target must succeed on a DC 16\
-      \ Constitution saving throw or be [stunned](Compendium/rules/conditions.md#Stunned)\
+      \ Constitution saving throw or be [[conditions#Stunned|stunned]]\
       \ until the start of the catoblepas's next turn."
     "name": "Tail"
   - "desc": "The catoblepas targets a creature that it can see within 30 feet of it.\

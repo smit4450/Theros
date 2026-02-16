@@ -45,27 +45,27 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "1"
 "speed": "5 ft., fly 10 ft. (hover)"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [prone](Compendium/rules/conditions.md#Prone)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]]"
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., passive Perception\
   \ 5"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The gas spore bursts when it dies. *Constitution Saving Throw:* DC 10,\
-      \ each creature in a 20-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ each creature in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the gas spore. *Failure:* The target takes 10 (3d6) Poison\
-      \ damage and has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
-      \ for 1d12 hours. Unless the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ damage and has the [[conditions#Poisoned|Poisoned]] condition\
+      \ for 1d12 hours. Unless the [[conditions#Poisoned|Poisoned]]\
       \ condition is removed, the target dies at the end of that time and sprouts\
-      \ 2d4 Tiny Gas Spore Fungi (each with 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)).\
-      \ After 2d6 days, they become Large and have 13 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+      \ 2d4 Tiny Gas Spore Fungi (each with 1 [[hit-points-xphb|Hit Point]]).\
+      \ After 2d6 days, they become Large and have 13 [[hit-points-xphb|Hit Points]]."
     "name": "Death Burst"
 "actions":
   - "desc": "*Melee Attack Roll:* +0, reach 5 ft. *Hit:* 3 (1d6) Poison damage,\
-      \ and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the end of its next turn."
     "name": "Tendril"
 "source":

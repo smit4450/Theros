@@ -40,15 +40,15 @@ aliases: ["Stonewise Fortifier"]
   - "intelligence": !!int "5"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+6"
 "senses": "passive Perception 10"
 "languages": "Common, any seven languages"
 "cr": "1"
 "traits":
-  - "desc": "The stonewise fortifier's innate spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 3/day: [Fabricate](Compendium/spells/fabricate-xphb.md), [Stone Shape](Compendium/spells/stone-shape-xphb.md), [Creation](Compendium/spells/creation-xphb.md), [Wall Of Stone](Compendium/spells/wall-of-stone-xphb.md)"
+  - "desc": "The stonewise fortifier's innate spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 3/day: [[fabricate-xphb|Fabricate]], [[stone-shape-xphb|Stone Shape]], [[creation-xphb|Creation]], [[wall-of-stone-xphb|Wall Of Stone]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "_Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage."

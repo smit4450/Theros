@@ -53,8 +53,8 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand\
   \ Abyssal)"
@@ -63,10 +63,10 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
   - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing\
       \ damage."
     "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 11, each creature in a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the dretch. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ condition until the end of its next turn. While [Poisoned](Compendium/rules/conditions.md#Poisoned),\
-      \ the creature can take either an action or a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md)\
+  - "desc": "*Constitution Saving Throw:* DC 11, each creature in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the dretch. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition until the end of its next turn. While [[conditions#Poisoned|Poisoned]],\
+      \ the creature can take either an action or a [[bonus-action-xphb|Bonus Action]]\
       \ on its turn, not both, and it can't take Reactions."
     "name": "Fetid Cloud (1/Day)"
 "source":

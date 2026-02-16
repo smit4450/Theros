@@ -37,7 +37,7 @@ aliases: ["Scourge of Fleets"]
   - !!int "17"
 "speed": "40 ft., swim 120 ft."
 "damage_immunities": "bludgeoning, piercing, and slashing from nonmagical attacks"
-"condition_immunities": "[frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed)"
+"condition_immunities": "[[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]]"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "21"
@@ -51,11 +51,11 @@ aliases: ["Scourge of Fleets"]
 "actions":
   - "desc": "The kraken makes two arm attacks, each of which it can replace with one use of Fling."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 60 (12d8 + 6) piercing damage. If the target is a Large or smaller creature [grappled](Compendium/rules/conditions.md#Grappled) by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is [blinded](Compendium/rules/conditions.md#Blinded) and [restrained](Compendium/rules/conditions.md#Restrained), it has total cover against attacks and other effects outside the kraken, and it takes 42 (12d6) acid damage at the start of each of the kraken's turns. If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](Compendium/rules/conditions.md#Prone) in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer [restrained](Compendium/rules/conditions.md#Restrained) by it and can escape from the corpse using 15 feet of movement, exiting [prone](Compendium/rules/conditions.md#Prone)."
+  - "desc": "Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 60 (12d8 + 6) piercing damage. If the target is a Large or smaller creature [[conditions#Grappled|grappled]] by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is [[conditions#Blinded|blinded]] and [[conditions#Restrained|restrained]], it has total cover against attacks and other effects outside the kraken, and it takes 42 (12d6) acid damage at the start of each of the kraken's turns. If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [[conditions#Prone|prone]] in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer [[conditions#Restrained|restrained]] by it and can escape from the corpse using 15 feet of movement, exiting [[conditions#Prone|prone]]."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 27 (6d6 + 6) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 15). The kraken has two arms. Until this grapple ends, the target is [restrained](Compendium/rules/conditions.md#Restrained) and the kraken cannot make attacks with that arm."
+  - "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 27 (6d6 + 6) bludgeoning damage, and the target is [[conditions#Grappled|grappled]] (escape DC 15). The kraken has two arms. Until this grapple ends, the target is [[conditions#Restrained|restrained]] and the kraken cannot make attacks with that arm."
     "name": "Arm"
-  - "desc": "One Large or smaller object held or creature [grappled](Compendium/rules/conditions.md#Grappled) by the kraken's arm is thrown up to 60 feet in a random direction and knocked [prone](Compendium/rules/conditions.md#Prone). If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 16 Dexterity saving throw or take the same damage and be knocked [prone](Compendium/rules/conditions.md#Prone)."
+  - "desc": "One Large or smaller object held or creature [[conditions#Grappled|grappled]] by the kraken's arm is thrown up to 60 feet in a random direction and knocked [[conditions#Prone|prone]]. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 16 Dexterity saving throw or take the same damage and be knocked [[conditions#Prone|prone]]."
     "name": "Fling"
 "source":
   - "TBVXXI"

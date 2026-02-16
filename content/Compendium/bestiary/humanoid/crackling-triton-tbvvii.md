@@ -41,15 +41,15 @@ aliases: ["Crackling Triton"]
   - "intelligence": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
-  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+6"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
 "damage_resistances": "cold"
 "damage_immunities": "fire"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": "Common, Primordial"
 "cr": "3"
 "traits":
@@ -57,7 +57,7 @@ aliases: ["Crackling Triton"]
     "name": "Amphibious"
   - "desc": "Aquatic beasts have an extraordinary affinity with tritons. Tritons can communicate simple ideas with beasts that can breathe water. Those beasts can understand the triton's words, though the triton has no special ability to understand the beasts in return."
     "name": "Emissary of the Sea"
-  - "desc": "The crackling triton's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day each: [Fog Cloud](Compendium/spells/fog-cloud-xphb.md), [Gust Of Wind](Compendium/spells/gust-of-wind-xphb.md), _wall of water_"
+  - "desc": "The crackling triton's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day each: [[fog-cloud-xphb|Fog Cloud]], [[gust-of-wind-xphb|Gust Of Wind]], _wall of water_"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one creature. Hit: 13 (3d8) bludgeoning damage."

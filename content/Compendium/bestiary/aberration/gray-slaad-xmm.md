@@ -31,9 +31,9 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 > 
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [Charmed](Compendium/rules/conditions.md#Charmed) condition and obeys the gem's bearer. The slaad ceases to be [Charmed](Compendium/rules/conditions.md#Charmed) if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [Greater Restoration](Compendium/spells/greater-restoration-xphb.md) spell cast on a slaad destroys the gem, and the slaad ceases to be [Charmed](Compendium/rules/conditions.md#Charmed).
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
 > 
-> One can obtain a slaad's control gem using a [Wish](Compendium/spells/wish-xphb.md) or [Imprisonment](Compendium/spells/imprisonment-xphb.md) spell. If the slaad fails its saving throw against [Imprisonment](Compendium/spells/imprisonment-xphb.md), the caster gains the gem, and the slaad isn't imprisoned. An [Incapacitated](Compendium/rules/conditions.md#Incapacitated) slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([Medicine](Compendium/rules/skills.md#Medicine)) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> One can obtain a slaad's control gem using a [[wish-xphb|Wish]] or [[imprisonment-xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment-xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
@@ -60,38 +60,38 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
   - !!int "18"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 17"
 "languages": "Common, Slaad; telepathy 60 ft."
 "cr": "9"
 "traits":
-  - "desc": "The slaad has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The slaad has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The slaad regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ at the start of each of its turns if it has at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "The slaad regains 10 [[hit-points-xphb|Hit Points]]\
+      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb|Hit Point]]."
     "name": "Regeneration"
 "actions":
   - "desc": "The slaad makes two Chaos Claw attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 9 (1d10 + 4) Slashing\
       \ damage plus 11 (2d10) Necrotic damage. Until the start of the slaad's next\
-      \ turn, the target has a condition determined by rolling 1d4: on a 1, [Charmed](Compendium/rules/conditions.md#Charmed);\
-      \ on a 2, [Frightened](Compendium/rules/conditions.md#Frightened); on a 3, [Poisoned](Compendium/rules/conditions.md#Poisoned);\
-      \ or on a 4, [Incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+      \ turn, the target has a condition determined by rolling 1d4: on a 1, [[conditions#Charmed|Charmed]];\
+      \ on a 2, [[conditions#Frightened|Frightened]]; on a 3, [[conditions#Poisoned|Poisoned]];\
+      \ or on a 4, [[conditions#Incapacitated|Incapacitated]]."
     "name": "Chaos Claw"
   - "desc": "The slaad casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\n**At\
-      \ will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md),\
-      \ [Invisibility](Compendium/spells/invisibility-xphb.md) (self only), [Mage\
-      \ Hand](Compendium/spells/mage-hand-xphb.md), [Major Image](Compendium/spells/major-image-xphb.md)\n\
-      \n**1/day each:** [Cloudkill](Compendium/spells/cloudkill-xphb.md), [Fly](Compendium/spells/fly-xphb.md),\
-      \ [Plane Shift](Compendium/spells/plane-shift-xphb.md) (self only), [Tongues](Compendium/spells/tongues-xphb.md)"
+      \ will:** [[detect-magic-xphb|Detect Magic]], [[detect-thoughts-xphb|Detect Thoughts]],\
+      \ [[invisibility-xphb|Invisibility]] (self only), [[mage-hand-xphb|Mage\
+      \ Hand]], [[major-image-xphb|Major Image]]\n\
+      \n**1/day each:** [[cloudkill-xphb|Cloudkill]], [[fly-xphb|Fly]],\
+      \ [[plane-shift-xphb|Plane Shift]] (self only), [[tongues-xphb|Tongues]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The slaad shape-shifts into a Small or Medium Humanoid, or it returns\

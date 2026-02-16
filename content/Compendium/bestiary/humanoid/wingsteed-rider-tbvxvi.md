@@ -43,7 +43,7 @@ aliases: ["Wingsteed Rider"]
 "languages": "Common, any one language"
 "cr": "2"
 "traits":
-  - "desc": "The knight has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [frightened](Compendium/rules/conditions.md#Frightened)."
+  - "desc": "The knight has [[advantage-xphb|Advantage]] on saving throws against being [[conditions#Frightened|frightened]]."
     "name": "Brave"
 "actions":
   - "desc": "The knight makes two melee attacks."
@@ -51,7 +51,7 @@ aliases: ["Wingsteed Rider"]
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
     "name": "Greatsword"
 "reactions":
-  - "desc": "Whenever the knight becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the knight gains a +1 bonus to damage rolls and Strength checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "Whenever the knight becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the knight gains a +1 bonus to damage rolls and Strength checks, and it gains 4 (1d8) temporary [[hit-points-xphb|Hit Points]]."
     "name": "Heroic"
 "source":
   - "TBVXVI"

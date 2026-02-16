@@ -22,7 +22,7 @@ Cultists devote themselves to their faith's leaders and otherworldly masters. Wh
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -92,9 +92,9 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "saves":
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+2"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common"

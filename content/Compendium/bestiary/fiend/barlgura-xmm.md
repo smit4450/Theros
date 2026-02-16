@@ -50,20 +50,20 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
   - "dexterity": !!int "5"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 15"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "5"
 "traits":
   - "desc": "If the barlgura dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
 "actions":
@@ -73,14 +73,14 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
       \ damage plus 13 (2d12) Psychic damage."
     "name": "Tormenting Bite"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 9 (1d10 + 4) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Thrash"
   - "desc": "The barlgura casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n**2/day each:** [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
-      \ [Invisibility](Compendium/spells/invisibility-xphb.md) (self only)\n\n**1/day\
-      \ each:** [Entangle](Compendium/spells/entangle-xphb.md), [Phantasmal Killer](Compendium/spells/phantasmal-killer-xphb.md)\
+      \n**2/day each:** [[disguise-self-xphb|Disguise Self]],\
+      \ [[invisibility-xphb|Invisibility]] (self only)\n\n**1/day\
+      \ each:** [[entangle-xphb|Entangle]], [[phantasmal-killer-xphb|Phantasmal Killer]]\
       \ (level 6 version)"
     "name": "Spellcasting"
 "bonus_actions":

@@ -42,27 +42,27 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
   - "constitution": !!int "13"
   - "wisdom": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+9"
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+10"
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+10"
-  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+13"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+10"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [darkvision](Compendium/rules/senses.md#Darkvision)\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|blindsight]] 60 ft., [[senses#Darkvision|darkvision]]\
   \ 120 ft., passive Perception 23"
 "languages": "Celestial, Common, Sylvan"
 "cr": "21"
 "traits":
-  - "desc": "If Arasta is reduced to 0 hit points, she doesn't die or fall [unconscious](Compendium/rules/conditions.md#Unconscious).\
+  - "desc": "If Arasta is reduced to 0 hit points, she doesn't die or fall [[conditions#Unconscious|unconscious]].\
       \ Instead, she regains 200 hit points. In addition, Arasta's children immediately\
       \ swarm over her body to protect her, granting her 100 temporary hit points."
     "name": "Armor of Spiders (Mythic Trait; Recharges after a Short or Long Rest)"
@@ -83,9 +83,9 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
       \ 20 (3d8 + 7) piercing damage, and the target must make a DC 21 Constitution\
       \ saving throw, taking 32 (5d12) poison damage on a failed save, or half as\
       \ much damage on a successful one. If the damage reduces the target to 0 hit\
-      \ points, the target is stable but [poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ for 1 hour, even after regaining hit points, and is [paralyzed](Compendium/rules/conditions.md#Paralyzed)\
-      \ while [poisoned](Compendium/rules/conditions.md#Poisoned) in this way."
+      \ points, the target is stable but [[conditions#Poisoned|poisoned]]\
+      \ for 1 hour, even after regaining hit points, and is [[conditions#Paralyzed|paralyzed]]\
+      \ while [[conditions#Poisoned|poisoned]] in this way."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:*\
       \ 17 (3d6 + 7) slashing damage."
@@ -94,9 +94,9 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
       \ cube next to her. The web is difficult terrain, its area is lightly obscured,\
       \ and it lasts for 1 minute. Any creature that moves into the web or that starts\
       \ its turn there must make a DC 21 Dexterity saving throw. On a failed save,\
-      \ the creature is [restrained](Compendium/rules/conditions.md#Restrained) while\
+      \ the creature is [[conditions#Restrained|restrained]] while\
       \ in the web. A creature can use an action to make a DC 21 Strength check. On\
-      \ a success, it can free itself or a creature within 5 feet of it that is [restrained](Compendium/rules/conditions.md#Restrained)\
+      \ a success, it can free itself or a creature within 5 feet of it that is [[conditions#Restrained|restrained]]\
       \ by the web. This webbing is immune to all damage except magical fire. A 5-foot\
       \ cube of the web is destroyed if it takes at least 20 fire damage from a spell\
       \ or other magical source on a single turn."
@@ -105,11 +105,11 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
   - "desc": "On initiative count 20 (losing initiative ties), Arasta can take a lair\
       \ action to cause one of the following effects. She can't use the same effect\
       \ two rounds in a row.\n\n- Arasta learns about any creature touching her webs.\
-      \ Each creature [restrained](Compendium/rules/conditions.md#Restrained) by a\
+      \ Each creature [[conditions#Restrained|restrained]] by a\
       \ web or Arasta's Web of Hair must make a DC 21 Intelligence saving throw. On\
       \ a failed save, Arasta gains knowledge of a creature's name, race, where they\
-      \ consider home, and what brought them to her web.  \n- Arasta casts the [giant\
-      \ insect](Compendium/spells/giant-insect-xphb.md) spell (spiders only). It lasts\
+      \ consider home, and what brought them to her web.  \n- Arasta casts the [[giant-insect-xphb|giant\
+      \ insect]] spell (spiders only). It lasts\
       \ until she uses this lair action again or until she dies.  "
     "name": ""
 "regional_effects":
@@ -130,10 +130,10 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
 "legendary_actions":
   - "desc": "Arasta makes one attack with her claws."
     "name": "Claws"
-  - "desc": "Arasta causes two [swarms of spiders](Compendium/bestiary/beast/swarm-of-insects-xmm.md)\
+  - "desc": "Arasta causes two [[swarm-of-insects-xmm|swarms of spiders]]\
       \ to appear in unoccupied spaces within 5 feet of her."
     "name": "Swarm (Costs 2 Actions)"
-  - "desc": "Each creature [restrained](Compendium/rules/conditions.md#Restrained)\
+  - "desc": "Each creature [[conditions#Restrained|restrained]]\
       \ by Arasta's Web of Hair takes 18 (4d8) poison damage."
     "name": "Toxic Web (Costs 3 Actions)"
 "mythic_description": "If Arasta's mythic trait is active, she can use the options\
@@ -144,7 +144,7 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
     "name": "Swipe"
   - "desc": "Arasta recharges Web of Hair and uses it."
     "name": "Web of Hair (Costs 2 Actions)"
-  - "desc": "Each creature [restrained](Compendium/rules/conditions.md#Restrained)\
+  - "desc": "Each creature [[conditions#Restrained|restrained]]\
       \ by Arasta's Web of Hair must succeed on a DC 21 Constitution saving throw,\
       \ or the creature takes 26 (4d12) force damage and any spell of 6th level\
       \ or lower on it ends."

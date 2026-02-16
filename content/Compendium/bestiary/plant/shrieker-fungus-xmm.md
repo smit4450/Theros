@@ -44,14 +44,14 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "3"
   - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., passive Perception\
   \ 6"
 "languages": ""
 "cr": "0"
 "reactions":
-  - "desc": "Trigger: A creature or a source of [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
+  - "desc": "Trigger: A creature or a source of [[bright-light-xphb|Bright Light]]\
       \ moves within 30 feet of the shrieker. _Response:_ The shrieker emits a shriek\
       \ audible within 300 feet of itself for 1 minute or until the shrieker dies."
     "name": "Shriek"

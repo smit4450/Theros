@@ -21,7 +21,7 @@ aliases: ["Nycaloth"]
 *Yugoloth of Strategy and Strife*
 
 - **Habitat.** Planar (Gehenna)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Fiendish warmongers, nycaloths relish combat and conquest. These tremendous winged yugoloths teleport around battlefields and into the air to bewilder their foes and attack with constantly shifting, Gehenna-forged axes—mercurial weapons similar to those favored by many yugoloths.
 
@@ -57,23 +57,23 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
   - !!int "15"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 14"
 "languages": "Abyssal, Infernal; telepathy 60 ft."
 "cr": "9"
 "traits":
   - "desc": "If the nycaloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in Gehenna."
     "name": "Fiendish Restoration"
-  - "desc": "The nycaloth has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The nycaloth has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -85,7 +85,7 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
       \ a ranged attack."
     "name": "Mercurial Axe"
 "bonus_actions":
-  - "desc": "The nycaloth has the [Invisible](Compendium/rules/conditions.md#Invisible)\
+  - "desc": "The nycaloth has the [[conditions#Invisible|Invisible]]\
       \ condition for 1 minute, and it teleports up to 30 feet to an unoccupied space\
       \ it can see. The condition ends early immediately after it deals damage."
     "name": "Shadowy Teleport"

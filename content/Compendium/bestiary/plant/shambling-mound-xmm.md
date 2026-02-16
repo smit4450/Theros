@@ -56,18 +56,18 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
   - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
-"condition_immunities": "[deafened](Compendium/rules/conditions.md#Deafened), [exhaustion](Compendium/rules/conditions.md#Exhaustion)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 10"
 "languages": ""
 "cr": "5"
 "traits":
   - "desc": "Whenever the shambling mound is subjected to Lightning damage, it regains\
-      \ a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ a number of [[hit-points-xphb|Hit Points]]\
       \ equal to the Lightning damage dealt."
     "name": "Lightning Absorption"
 "actions":
@@ -80,13 +80,13 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
     "name": "Charged Tendril"
   - "desc": "*Strength Saving Throw:* DC 15, one Medium or smaller creature within\
       \ 5 feet. *Failure:* The target is pulled into the shambling mound's space and\
-      \ has the [Grappled](Compendium/rules/conditions.md#Grappled) condition (escape\
-      \ DC 14). Until the grapple ends, the target has the [Blinded](Compendium/rules/conditions.md#Blinded)\
-      \ and [Restrained](Compendium/rules/conditions.md#Restrained) conditions, and\
+      \ has the [[conditions#Grappled|Grappled]] condition (escape\
+      \ DC 14). Until the grapple ends, the target has the [[conditions#Blinded|Blinded]]\
+      \ and [[conditions#Restrained|Restrained]] conditions, and\
       \ it takes 10 (3d6) Lightning damage at the start of each of its turns. When\
-      \ the shambling mound moves, the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ the shambling mound moves, the [[conditions#Grappled|Grappled]]\
       \ target moves with it, costing it no extra movement. The shambling mound can\
-      \ have only one creature [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ have only one creature [[conditions#Grappled|Grappled]]\
       \ by this action at a time."
     "name": "Engulf"
 "source":

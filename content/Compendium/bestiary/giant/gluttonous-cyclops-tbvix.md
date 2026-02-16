@@ -39,9 +39,9 @@ aliases: ["Gluttonous Cyclops"]
 "languages": "Giant"
 "cr": "23"
 "traits":
-  - "desc": "The cyclops has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on any attack roll against a target more than 30 feet away."
+  - "desc": "The cyclops has [[disadvantage-xphb|Disadvantage]] on any attack roll against a target more than 30 feet away."
     "name": "Poor Depth Perception"
-  - "desc": "When the cyclops is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it doesn’t die or fall [unconscious](Compendium/rules/conditions.md#Unconscious). Instead, the damage creates tears in its skin, revealing its hearts. The cyclops has three hearts in its chest. A heart has an AC of 14 and 145 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). It is immune to all conditions. If it is forced to make a saving throw, treat its ability scores as 10 (+0). The cyclops dies when all the hearts are destroyed."
+  - "desc": "When the cyclops is reduced to 0 [[hit-points-xphb|Hit Points]], it doesn’t die or fall [[conditions#Unconscious|unconscious]]. Instead, the damage creates tears in its skin, revealing its hearts. The cyclops has three hearts in its chest. A heart has an AC of 14 and 145 [[hit-points-xphb|Hit Points]]. It is immune to all conditions. If it is forced to make a saving throw, treat its ability scores as 10 (+0). The cyclops dies when all the hearts are destroyed."
     "name": "Hearts of the Cyclops (Mythic Trait; Recharges after a Short or Long Rest)"
 "actions":
   - "desc": "The cyclops makes two greatclub attacks."

@@ -52,27 +52,27 @@ A nymph doesn't require food, drink, or sleep.
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+4"
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+4"
-  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+6"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "Common, Sylvan"
 "cr": "4"
 "traits":
   - "desc": "The oread's spellcasting ability is Charisma (spell save DC 14, +6\
       \ to hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [fire bolt](Compendium/spells/fire-bolt-xphb.md)\
-      \ (see \"Actions\" below)\n\n**3/day:** [burning hands](Compendium/spells/burning-hands-xphb.md)\n\
-      \n**1/day each:** [hellish rebuke](Compendium/spells/hellish-rebuke-xphb.md)\
-      \ (see \"Reactions\" below), [scorching ray](Compendium/spells/scorching-ray-xphb.md)"
+      \ no material components:\n\n**At will:** [[fire-bolt-xphb|fire bolt]]\
+      \ (see \"Actions\" below)\n\n**3/day:** [[burning-hands-xphb|burning hands]]\n\
+      \n**1/day each:** [[hellish-rebuke-xphb|hellish rebuke]]\
+      \ (see \"Reactions\" below), [[scorching-ray-xphb|scorching ray]]"
     "name": "Innate Spellcasting"
-  - "desc": "The oread is [invisible](Compendium/rules/conditions.md#Invisible) while\
+  - "desc": "The oread is [[conditions#Invisible|invisible]] while\
       \ fully immersed in fire."
     "name": "Invisible in Fire"
   - "desc": "The oread has advantage on saving throws against spells and other magical\

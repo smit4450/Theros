@@ -22,7 +22,7 @@ Knights frequently lead troops in combat or work in units that dominate the batt
 *Battle Masters and Heroic Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Knights are skilled warriors trained for war and tested in battle. Many serve the rulers of a realm, a religion, or an order devoted to a cause.
 ## Statblock
@@ -47,7 +47,7 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
 "saves":
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
-"condition_immunities": "[frightened](Compendium/rules/conditions.md#Frightened)"
+"condition_immunities": "[[conditions#Frightened|frightened]]"
 "senses": "passive Perception 10"
 "languages": "Common plus one other language"
 "cr": "3"

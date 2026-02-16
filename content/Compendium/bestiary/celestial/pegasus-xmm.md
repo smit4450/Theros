@@ -67,7 +67,7 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
   - "wisdom": !!int "4"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"

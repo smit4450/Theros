@@ -67,11 +67,11 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   - "dexterity": !!int "9"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+10"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+13"
 "senses": "passive Perception 20"
 "languages": "Common, Thieves' cant"
@@ -80,7 +80,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   - "desc": "If the bandit is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, the bandit instead takes no damage\
       \ if it succeeds on the save and only half damage if it fails. It can't use\
-      \ this trait if it has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ this trait if it has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Evasion"
 "actions":
@@ -93,7 +93,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
       \ damage plus 14 (4d6) Poison damage."
     "name": "Pistol"
 "bonus_actions":
-  - "desc": "The bandit gives itself [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The bandit gives itself [[advantage-xphb|Advantage]]\
       \ on the next attack roll it makes during the current turn. If that attack hits,\
       \ the target takes an extra 28 (8d6) Poison damage."
     "name": "Deadly Aim"

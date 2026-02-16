@@ -22,7 +22,7 @@ Cultist hierophants are leaders who oversee the lives of their underlings, dicta
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -94,11 +94,11 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+9"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+5"
 "senses": "passive Perception 17"
 "languages": "Celestial, Common"
@@ -114,9 +114,9 @@ Cults can organize around any mystical tradition, but many serve supernatural be
       \ damage."
     "name": "Radiant Ray"
   - "desc": "The cultist casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 17):\n\n**At will:** [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-      \n**1/day each:** [Jallarzi's Storm of Radiance](Compendium/spells/jallarzis-storm-of-radiance-xphb.md)\
-      \ (level 7 version), [Mass Suggestion](Compendium/spells/mass-suggestion-xphb.md)"
+      \ spellcasting ability (spell save DC 17):\n\n**At will:** [[thaumaturgy-xphb|Thaumaturgy]]\n\
+      \n**1/day each:** [[jallarzis-storm-of-radiance-xphb|Jallarzi's Storm of Radiance]]\
+      \ (level 7 version), [[mass-suggestion-xphb|Mass Suggestion]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

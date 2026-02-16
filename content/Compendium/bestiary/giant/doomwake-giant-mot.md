@@ -41,14 +41,14 @@ Beyond these primal giants, though, other giants fill the tales of Theros.
   - "constitution": !!int "10"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 16"
 "languages": "Giant"
 "cr": "11"
@@ -71,9 +71,9 @@ Beyond these primal giants, though, other giants fill the tales of Theros.
   - "desc": "The giant exhales a mighty gust that creates a blast of deadly mist in\
       \ a 60-foot line that is 10 feet wide. Each creature in that line must make\
       \ a DC 18 Constitution saving throw. On a failed save, the creature takes 36\
-      \ (8d8) necrotic damage and is knocked [prone](Compendium/rules/conditions.md#Prone).\
+      \ (8d8) necrotic damage and is knocked [[conditions#Prone|prone]].\
       \ On a successful save, a creature takes half as much damage and isn't knocked\
-      \ [prone](Compendium/rules/conditions.md#Prone)."
+      \ [[conditions#Prone|prone]]."
     "name": "Noxious Gust (Recharge 5-6)"
 "source":
   - "MOT"

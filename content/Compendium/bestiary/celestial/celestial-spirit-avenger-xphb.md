@@ -29,8 +29,8 @@ aliases: ["Celestial Spirit (Avenger)"]
   - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Celestial, understands the languages you know"
 "actions":

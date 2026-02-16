@@ -72,37 +72,37 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "dexterity": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_immunities": "cold, necrotic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 15"
 "languages": "Common plus one other language"
 "cr": "8"
 "traits":
   - "desc": "The vampire takes 10 Radiant damage if it starts its turn in sunlight.\
-      \ While in sunlight, it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ While in sunlight, it has [[disadvantage-xphb|Disadvantage]]\
       \ on attack rolls and ability checks."
     "name": "Sunlight Hypersensitivity"
 "actions":
   - "desc": "The vampire makes one Bite attack and one Shadow Strike attack."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Piercing\
-      \ damage plus 10 (3d6) Necrotic damage. The target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ damage plus 10 (3d6) Necrotic damage. The target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
-      \ vampire regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ vampire regains [[hit-points-xphb|Hit Points]]\
       \ equal to that amount."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Slashing\
       \ damage plus 14 (4d6) Cold damage."
     "name": "Shadow Strike"
 "bonus_actions":
-  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the vampire\
+  - "desc": "While in [[dim-light-xphb|Dim Light]]\
+      \ or [[darkness-xphb|Darkness]], the vampire\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

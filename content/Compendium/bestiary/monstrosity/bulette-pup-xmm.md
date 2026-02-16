@@ -47,9 +47,9 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - !!int "4"
 "speed": "30 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 30 ft., Tremorsense\
+"senses": "[[senses#Darkvision|Darkvision]] 30 ft., Tremorsense\
   \ 60 ft., passive Perception 14"
 "languages": ""
 "cr": "2"

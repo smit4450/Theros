@@ -22,7 +22,7 @@ Aberrant cultists pursue mind-bending powers from alien forces. Aberrant cultist
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -95,13 +95,13 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "intelligence": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+6"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 90 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 90 ft., passive Perception\
   \ 17"
 "languages": "Common, Deep Speech; telepathy 30 ft."
 "cr": "8"
@@ -111,21 +111,21 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 7 (1d6 + 4) Slashing\
       \ damage plus 14 (4d6) Psychic damage. If the target is a Large or smaller\
-      \ creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled) condition\
-      \ (escape DC 14) from one of two tentacles, and it has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ creature, it has the [[conditions#Grappled|Grappled]] condition\
+      \ (escape DC 14) from one of two tentacles, and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Tentacle Lash"
   - "desc": "*Wisdom Saving Throw:* DC 15, one creature the cultist can see within\
-      \ 90 feet. *Failure:* 27 (6d8) Psychic damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ 90 feet. *Failure:* 27 (6d8) Psychic damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the cultist's next turn. *Success:* Half damage\
       \ only."
     "name": "Mind Rot"
   - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md),\
-      \ [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)"
+      \ ability (spell save DC 15):\n\n**At will:** [[detect-thoughts-xphb|Detect Thoughts]],\
+      \ [[minor-illusion-xphb|Minor Illusion]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The cultist casts [Counterspell](Compendium/spells/counterspell-xphb.md)\
+  - "desc": "The cultist casts [[counterspell-xphb|Counterspell]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Counterspell (2/Day)"

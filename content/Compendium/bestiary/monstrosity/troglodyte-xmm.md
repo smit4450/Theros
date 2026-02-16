@@ -20,7 +20,7 @@ aliases: ["Troglodyte"]
 *Reeking Subterranean Hunter*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 With features similar to those of pale cave lizards, troglodytes stalk the Underdark in an endless hunt for food. Troglodytes consume almost anything, including bones, giant insects, and other subterranean dwellers. They prey on subterranean communities and those near entrances to the Underdark, stealing livestock and kidnapping residents.
 
@@ -48,20 +48,20 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Troglodyte"
 "cr": "1/4"
 "traits":
   - "desc": "*Constitution Saving Throw:* DC 12, any creature (other than a troglodyte)\
-      \ that starts its turn in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the troglodyte. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ that starts its turn in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the troglodyte. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn. *Success:* The target is immune\
       \ to the Stench of all troglodytes for 1 hour."
     "name": "Stench"
-  - "desc": "While in sunlight, the troglodyte has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the troglodyte has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":

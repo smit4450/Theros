@@ -20,7 +20,7 @@ aliases: ["Half-Dragon"]
 *Warrior Created by Dragons*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Born through magical rites involving the essences of dragons, half-dragons serve their creators and their own draconic whims. Most half-dragons are created by chromatic dragons who desire servants with some trace of their own might and grandeur. Half-dragons frequently command other servants of a villainous dragon or act as agents in lands where their draconic master would attract unwanted attention.
 
@@ -51,14 +51,14 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "Damage type chosen for the Draconic Origin trait below"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 15"
 "languages": "Common, Draconic"
 "cr": "5"
@@ -73,7 +73,7 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
   - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 6 (1d4 + 4) Slashing\
       \ damage plus 7 (2d6) damage of the type chosen for the Draconic Origin trait."
     "name": "Claw"
-  - "desc": "*Dexterity Saving Throw:* DC 14, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 14, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 28 (8d6) damage of the type chosen for the Draconic Origin trait.\
       \ *Success:* Half damage."
     "name": "Dragon's Breath (Recharge 5-6)"

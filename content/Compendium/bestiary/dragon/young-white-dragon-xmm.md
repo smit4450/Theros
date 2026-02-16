@@ -22,7 +22,7 @@ Young white dragons defend their hunting grounds from rivals. In some cases, kob
 *Dragons of Cold and Cruelty*
 
 - **Habitat.** Arctic  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Among the most primal chromatic dragons, white dragons prioritize survival over all. Life is harsh and uncertain in the arctic expanses, glacial heights, and frozen seas where these dragons dwell. White dragons fiercely protect their territories, scouring the frigid regions for food and evidence of trespassers. Most white dragons ignore the plots of smaller creatures and other dragons, concerning themselves only with their own survival.
 
@@ -55,18 +55,18 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "dexterity": !!int "3"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_immunities": "cold"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "6"
 "traits":
   - "desc": "The dragon can move across and climb icy surfaces without needing to\
-      \ make an ability check. Additionally, [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md)\
+      \ make an ability check. Additionally, [[difficult-terrain-xphb|Difficult Terrain]]\
       \ composed of ice or snow doesn't cost it extra movement."
     "name": "Ice Walk"
 "actions":
@@ -75,7 +75,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 9 (2d4 + 4) Slashing\
       \ damage plus 2 (1d4) Cold damage."
     "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 40 (9d8) Cold damage. *Success:* Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "source":

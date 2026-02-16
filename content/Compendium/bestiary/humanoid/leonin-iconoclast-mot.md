@@ -42,30 +42,30 @@ Most leonin hunters are tribal warriors, but those who hunt the servants of the 
   - "dexterity": !!int "7"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+4"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+6"
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+3"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+6"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": "Common, Leonin"
 "cr": "5"
 "traits":
   - "desc": "The leonin's spellcasting ability is Wisdom (spell save DC 14). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **1/day each:** [banishment](Compendium/spells/banishment-xphb.md), [detect\
-      \ evil and good](Compendium/spells/detect-evil-and-good-xphb.md)"
+      **1/day each:** [[banishment-xphb|banishment]], [[detect-evil-and-good-xphb|detect\
+      \ evil and good]]"
     "name": "Innate Spellcasting"
   - "desc": "If the leonin is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, it instead takes no damage if it succeeds\
       \ on the saving throw, and only half damage if it fails. It can't use this trait\
-      \ if it's [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+      \ if it's [[conditions#Incapacitated|incapacitated]]."
     "name": "Evasion"
   - "desc": "While the leonin is wearing no armor and wielding no shield, its AC includes\
       \ its Wisdom modifier."

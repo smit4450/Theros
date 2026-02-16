@@ -24,7 +24,7 @@ Sphinxes of valor guard world-changing or dangerous secrets—evidence of weird 
 *Collectors and Keepers of Secrets*
 
 - **Habitat.** Desert, Planar (Upper Planes)  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Sphinxes protect the secrets of the multiverse. Formed from the spirits of sages and explorers, sphinxes know the power of truth and the importance of preserving it. They share their wisdom only with those who prove themselves wise or overcome tests of worthiness, such as riddles or battles with dangerous beasts. Through their existences, sphinxes might change form as they gain more nuanced understanding of cosmic enigmas.
 
@@ -70,23 +70,23 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - "intelligence": !!int "9"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+12"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+15"
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 22"
 "languages": "Celestial, Common"
 "cr": "17"
 "traits":
   - "desc": "No magic can observe the sphinx remotely or detect its thoughts without\
-      \ its permission. Wisdom ([Insight](Compendium/rules/skills.md#Insight)) checks\
-      \ made to ascertain its intentions or sincerity are made with [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
+      \ its permission. Wisdom ([[skills#Insight|Insight]]) checks\
+      \ made to ascertain its intentions or sincerity are made with [[disadvantage-xphb|Disadvantage]]."
     "name": "Inscrutable"
   - "desc": "If the sphinx fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
@@ -97,35 +97,35 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
       \ damage."
     "name": "Claw"
   - "desc": "The sphinx emits a magical roar. Whenever it roars, the roar has a different\
-      \ effect, as detailed below (the sequence resets when it takes a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md)):\n\
-      \n- **First Roar.** *Wisdom Saving Throw:* DC 20, each enemy in a 500-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the sphinx. *Failure:* The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ effect, as detailed below (the sequence resets when it takes a [[long-rest-xphb|Long Rest]]):\n\
+      \n- **First Roar.** *Wisdom Saving Throw:* DC 20, each enemy in a 500-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the sphinx. *Failure:* The target has the [[conditions#Frightened|Frightened]]\
       \ condition for 1 minute.  \n- **Second Roar.** *Wisdom Saving Throw:* DC 20,\
-      \ each enemy in a 500-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the sphinx. *Failure:* The target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
+      \ each enemy in a 500-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the sphinx. *Failure:* The target has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition, and it repeats the save at the end of each of its turns, ending\
       \ the effect on itself on a success. After 1 minute, it succeeds automatically.\
       \  \n- **Third Roar.** *Constitution Saving Throw:* DC 20, each enemy in a 500-foot\
-      \ [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the sphinx. *Failure:* 44 (8d10) Thunder damage, and the\
-      \ target has the [Prone](Compendium/rules/conditions.md#Prone) condition. *Success:*\
+      \ target has the [[conditions#Prone|Prone]] condition. *Success:*\
       \ Half damage only.  "
     "name": "Roar (3/Day)"
   - "desc": "The sphinx casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\n**At will:**\
-      \ [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-      \n**1/day each:** [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Dispel\
-      \ Magic](Compendium/spells/dispel-magic-xphb.md), [Greater Restoration](Compendium/spells/greater-restoration-xphb.md),\
-      \ [Heroes' Feast](Compendium/spells/heroes-feast-xphb.md), [Zone of Truth](Compendium/spells/zone-of-truth-xphb.md)"
+      \ [[detect-evil-and-good-xphb|Detect Evil and Good]], [[thaumaturgy-xphb|Thaumaturgy]]\n\
+      \n**1/day each:** [[detect-magic-xphb|Detect Magic]], [[dispel-magic-xphb|Dispel\
+      \ Magic]], [[greater-restoration-xphb|Greater Restoration]],\
+      \ [[heroes-feast-xphb|Heroes' Feast]], [[zone-of-truth-xphb|Zone of Truth]]"
     "name": "Spellcasting"
 "regional_effects":
   - "desc": "The region containing a sphinx of lore's or sphinx of valor's lair is\
       \ altered by its presence, creating the following effects:\n\n- **Distant Sight.**\
-      \ While in its lair, the sphinx can cast [Clairvoyance](Compendium/spells/clairvoyance-xphb.md),\
+      \ While in its lair, the sphinx can cast [[clairvoyance-xphb|Clairvoyance]],\
       \ requiring no spell components and using the same spellcasting ability as its\
       \ Spellcasting action. When cast this way, the spell's range is 1 mile.  \n\
       - **Infusion of Knowledge.** Whenever the sphinx or one of its allies takes\
-      \ a [Study](Compendium/rules/actions.md#Study) action while within 1 mile of\
+      \ a [[actions#Study|Study]] action while within 1 mile of\
       \ the lair, it adds 1d6 to any ability check it makes for that action.  \n\
       \nIf the sphinx dies or moves its lair elsewhere, these effects end immediately."
     "name": ""
@@ -138,8 +138,8 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
       \ and it makes one Claw attack."
     "name": "Arcane Prowl"
   - "desc": "*Constitution Saving Throw:* DC 16, one creature the sphinx can see within\
-      \ 120 feet. *Failure:* The target gains 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion)\
-      \ level. While the target has any [Exhaustion](Compendium/rules/conditions.md#Exhaustion)\
+      \ 120 feet. *Failure:* The target gains 1 [[conditions#Exhaustion|Exhaustion]]\
+      \ level. While the target has any [[conditions#Exhaustion|Exhaustion]]\
       \ levels, it appears 3d10 years older. *Failure or Success:* The sphinx can't\
       \ take this action again until the start of its next turn."
     "name": "Weight of Years"

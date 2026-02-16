@@ -37,7 +37,7 @@ aliases: ["Felhide Spiritbinder"]
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+5"
 "senses": "passive Perception 10"
 "languages": "Common, Minotaur"

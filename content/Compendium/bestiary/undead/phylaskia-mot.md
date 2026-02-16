@@ -21,7 +21,7 @@ These armored skeletal spirits guard the borders of the Underworld and its vario
 "type": "undead"
 "alignment": "Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](Compendium/items/plate-armor-xphb.md)"
+"ac_class": "[[plate-armor-xphb|plate]]"
 "hp": !!int "104"
 "hit_dice": "11d10 + 44"
 "modifier": !!int "2"
@@ -37,15 +37,15 @@ These armored skeletal spirits guard the borders of the Underworld and its vario
   - "constitution": !!int "8"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Truesight|truesight]] 120 ft., passive Perception\
   \ 17"
 "languages": "all"
 "cr": "9"
@@ -60,7 +60,7 @@ These armored skeletal spirits guard the borders of the Underworld and its vario
       \ radiant or from a critical hit. On a success, the phylaskia drops to 1 hit\
       \ point instead."
     "name": "Undead Fortitude"
-  - "desc": "The phylaskia can't be [surprised](Compendium/rules/conditions.md#Surprised)."
+  - "desc": "The phylaskia can't be [[conditions#Surprised|surprised]]."
     "name": "Vigilant"
 "actions":
   - "desc": "The phylaskia makes two longsword attacks and uses its Strength Drain\

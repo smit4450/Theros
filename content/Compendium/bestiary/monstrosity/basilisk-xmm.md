@@ -25,7 +25,7 @@ aliases: ["Basilisk"]
 
 Basilisks are ponderous predators with eight clawed legs, crystalline spines, and mighty jaws. Rather than chasing prey, they use their supernatural gaze to turn creatures to stone and then consume these victims at their leisure. While basilisks are most comfortable in subterranean lairs, many are captured and kept by unscrupulous folk seeking guardians for their treasures.
 
-The remains of [Petrified](Compendium/rules/conditions.md#Petrified) creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the [Petrified](Compendium/rules/conditions.md#Petrified) Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
+The remains of [[conditions#Petrified|Petrified]] creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the [[conditions#Petrified|Petrified]] Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
 
 > [!quote] A quote from X the Mystic's  
 > 
@@ -61,7 +61,7 @@ The remains of [Petrified](Compendium/rules/conditions.md#Petrified) creatures l
   - !!int "8"
   - !!int "7"
 "speed": "20 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": ""
 "cr": "3"
@@ -70,13 +70,13 @@ The remains of [Petrified](Compendium/rules/conditions.md#Petrified) creatures l
       \ damage plus 7 (2d6) Poison damage."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ If the basilisk sees its reflection within the [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md),\
-      \ the basilisk must make this save. *1St Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ If the basilisk sees its reflection within the [[cone-area-of-effect-xphb|Cone]],\
+      \ the basilisk must make this save. *1St Failure:* The target has the [[conditions#Restrained|Restrained]]\
       \ condition and repeats the save at the end of its next turn if it is still\
-      \ [Restrained](Compendium/rules/conditions.md#Restrained), ending the effect\
-      \ on itself on a success. *2Nd Failure:* The target has the [Petrified](Compendium/rules/conditions.md#Petrified)\
-      \ condition instead of the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ [[conditions#Restrained|Restrained]], ending the effect\
+      \ on itself on a success. *2Nd Failure:* The target has the [[conditions#Petrified|Petrified]]\
+      \ condition instead of the [[conditions#Restrained|Restrained]]\
       \ condition."
     "name": "Petrifying Gaze (Recharge 4-6)"
 "source":

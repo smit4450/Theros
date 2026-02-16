@@ -50,12 +50,12 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
   - !!int "12"
 "speed": "50 ft., climb 50 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_immunities": "lightning"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 90 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 90 ft., passive Perception\
   \ 16"
 "languages": "Draconic"
 "cr": "11"
@@ -67,28 +67,28 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
     "name": "Bite"
   - "desc": "*Strength Saving Throw:* DC 18, one Large or smaller creature the behir\
       \ can see within 5 feet. *Failure:* 28 (5d8 + 6) Bludgeoning damage. The target\
-      \ has the [Grappled](Compendium/rules/conditions.md#Grappled) condition (escape\
-      \ DC 16), and it has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ has the [[conditions#Grappled|Grappled]] condition (escape\
+      \ DC 16), and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Constrict"
   - "desc": "*Dexterity Saving Throw:* DC 16, each creature in a 90-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 66 (12d10) Lightning damage. *Success:* Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "*Dexterity Saving Throw:* DC 18, one Large or smaller creature [Grappled](Compendium/rules/conditions.md#Grappled)\
+  - "desc": "*Dexterity Saving Throw:* DC 18, one Large or smaller creature [[conditions#Grappled|Grappled]]\
       \ by the behir (the behir can have only one creature swallowed at a time). *Failure:*\
-      \ The behir swallows the target, which is no longer [Grappled](Compendium/rules/conditions.md#Grappled).\
-      \ While swallowed, a creature has the [Blinded](Compendium/rules/conditions.md#Blinded)\
-      \ and [Restrained](Compendium/rules/conditions.md#Restrained) conditions, has\
-      \ [Total Cover](Compendium/rules/variant-rules/cover-xphb.md) against attacks\
+      \ The behir swallows the target, which is no longer [[conditions#Grappled|Grappled]].\
+      \ While swallowed, a creature has the [[conditions#Blinded|Blinded]]\
+      \ and [[conditions#Restrained|Restrained]] conditions, has\
+      \ [[cover-xphb|Total Cover]] against attacks\
       \ and other effects outside the behir, and takes 21 (6d6) Acid damage at the\
       \ start of each of the behir's turns.\n\nIf the behir takes 30 damage or more\
       \ on a single turn from the swallowed creature, the behir must succeed on a\
       \ DC 14 Constitution saving throw at the end of that turn or regurgitate the\
-      \ creature, which falls in a space within 10 feet of the behir and has the [Prone](Compendium/rules/conditions.md#Prone)\
-      \ condition. If the behir dies, a swallowed creature is no longer [Restrained](Compendium/rules/conditions.md#Restrained)\
-      \ and can escape from the corpse by using 15 feet of movement, exiting [Prone](Compendium/rules/conditions.md#Prone)."
+      \ creature, which falls in a space within 10 feet of the behir and has the [[conditions#Prone|Prone]]\
+      \ condition. If the behir dies, a swallowed creature is no longer [[conditions#Restrained|Restrained]]\
+      \ and can escape from the corpse by using 15 feet of movement, exiting [[conditions#Prone|Prone]]."
     "name": "Swallow"
 "source":
   - "XMM"

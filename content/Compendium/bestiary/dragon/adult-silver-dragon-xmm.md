@@ -23,7 +23,7 @@ Adult silver dragons love to spend time among various peoples. Rather than manip
 *Dragons of Courage and Fairness*
 
 - **Habitat.** Mountain, Urban  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Silver dragons work to preserve peace and encourage greatness. They try to live as examples of decency while remaining watchful against evil.
 
@@ -58,14 +58,14 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   - "dexterity": !!int "5"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+8"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "cold"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
 "cr": "16"
@@ -74,37 +74,37 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of (A) Paralyzing Breath or (B) Spellcasting to cast [Ice Knife](Compendium/spells/ice-knife-xphb.md)."
+      \ use of (A) Paralyzing Breath or (B) Spellcasting to cast [[ice-knife-xphb|Ice Knife]]."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +13, reach 10 ft. *Hit:* 17 (2d8 + 8) Slashing\
       \ damage plus 4 (1d8) Cold damage."
     "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 20, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Constitution Saving Throw:* DC 20, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 54 (12d8) Cold damage. *Success:* Half damage."
     "name": "Cold Breath (Recharge 5-6)"
-  - "desc": "*Constitution Saving Throw:* DC 20, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *1St Failure:* The target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+  - "desc": "*Constitution Saving Throw:* DC 20, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *1St Failure:* The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, when it repeats the save. *2Nd Failure:*\
-      \ The target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition,\
+      \ The target has the [[conditions#Paralyzed|Paralyzed]] condition,\
       \ and it repeats the save at the end of each of its turns, ending the effect\
       \ on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Paralyzing Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 19, +11 to\
-      \ hit with spell attacks):\n\n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md),\
-      \ [Hold Monster](Compendium/spells/hold-monster-xphb.md), [Ice Knife](Compendium/spells/ice-knife-xphb.md),\
-      \ [Shapechange](Compendium/spells/shapechange-xphb.md) (Beast or Humanoid form\
-      \ only, no [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ gained from the spell, and no Concentration or [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ required to maintain the spell)\n\n**1/day each:** [Ice Storm](Compendium/spells/ice-storm-xphb.md)\
-      \ (level 5 version), [Zone of Truth](Compendium/spells/zone-of-truth-xphb.md)"
+      \ hit with spell attacks):\n\n**At will:** [[detect-magic-xphb|Detect Magic]],\
+      \ [[hold-monster-xphb|Hold Monster]], [[ice-knife-xphb|Ice Knife]],\
+      \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid form\
+      \ only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ required to maintain the spell)\n\n**1/day each:** [[ice-storm-xphb|Ice Storm]]\
+      \ (level 5 version), [[zone-of-truth-xphb|Zone of Truth]]"
     "name": "Spellcasting"
 "regional_effects":
   - "desc": "The region containing an adult or ancient silver dragon's lair is changed\
       \ by its magic, creating the following effects:\n\n- **Gentle Gusts.** Winds\
       \ buoy creatures that fall within 1 mile of the lair. Such creatures descend\
       \ at a rate of 60 feet per round and take no damage from falling.  \n- **Sun\
-      \ and Storms.** While in its lair, the dragon can cast [Control Weather](Compendium/spells/control-weather-xphb.md),\
+      \ and Storms.** While in its lair, the dragon can cast [[control-weather-xphb|Control Weather]],\
       \ requiring no Material components and using the same spellcasting ability as\
       \ its Spellcasting action.  \n\nIf the dragon dies or moves its lair elsewhere,\
       \ these effects end immediately."
@@ -113,16 +113,16 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   \ another creature's turn, the dragon can expend a use to take one of the following\
   \ actions. The dragon regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [Hold Monster](Compendium/spells/hold-monster-xphb.md).\
+  - "desc": "The dragon uses Spellcasting to cast [[hold-monster-xphb|Hold Monster]].\
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Chill"
   - "desc": "*Dexterity Saving Throw:* DC 19, each creature in a 60-foot-long, 10-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away\
       \ from the dragon. *Success:* Half damage only. *Failure or Success:* The dragon\
       \ can't take this action again until the start of its next turn."
     "name": "Cold Gale"
-  - "desc": "The dragon moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "source":

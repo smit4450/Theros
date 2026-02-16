@@ -40,23 +40,23 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
   - !!int "1"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 14"
 "languages": "understands one language of its creator but can't speak"
 "cr": "1/2"
 "traits":
-  - "desc": "The raptor has advantage on Wisdom ([Perception](Compendium/rules/skills.md#Perception))\
+  - "desc": "The raptor has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on sight."
     "name": "Keen Sight"
   - "desc": "The raptor can mimic any sound, including voices, it has heard in the\
       \ last 24 hours. A creature that hears the sounds can tell they are imitations\
-      \ with a successful DC 12 Wisdom ([Insight](Compendium/rules/skills.md#Insight))\
+      \ with a successful DC 12 Wisdom ([[skills#Insight|Insight]])\
       \ check."
     "name": "Recorded Mimicry"
 "actions":

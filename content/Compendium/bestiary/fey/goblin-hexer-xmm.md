@@ -28,7 +28,7 @@ Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical
 *Wild Tricksters and Troublemakers*
 
 - **Habitat.** Forest, Grassland, Hill, Planar (Acheron), Planar (Feywild), Underdark  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
 
 Goblins are Feywild embodiments of recklessness and ruin. They delight in wreckage—the louder, the more energetic, and the more convoluted, the better. Goblin raids are often as much opportunities to enjoy setting fires and tormenting livestock as they are parts of more disruptive plots.
 
@@ -61,11 +61,11 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common, Goblin"
 "cr": "3"
@@ -77,9 +77,9 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
       \ 12 (2d8 + 3) Psychic damage."
     "name": "Hex Stick"
   - "desc": "The goblin casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 13):\n\n**At will:** [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)\n\
-      \n**1/day each:** [Blindness/Deafness](Compendium/spells/blindness-deafness-xphb.md),\
-      \ [Faerie Fire](Compendium/spells/faerie-fire-xphb.md), [Grease](Compendium/spells/grease-xphb.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**At will:** [[minor-illusion-xphb|Minor Illusion]]\n\
+      \n**1/day each:** [[blindness-deafness-xphb|Blindness/Deafness]],\
+      \ [[faerie-fire-xphb|Faerie Fire]], [[grease-xphb|Grease]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: A creature the goblin can see hits it with an attack roll. _Response—\

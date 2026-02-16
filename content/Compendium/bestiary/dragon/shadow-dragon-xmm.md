@@ -59,25 +59,25 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
   - "dexterity": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+14"
 "damage_resistances": "See Living Shadow"
 "damage_immunities": "necrotic"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
 "cr": "13"
 "traits":
   - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the dragon\
-      \ has [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to damage\
+  - "desc": "While in [[dim-light-xphb|Dim Light]]\
+      \ or [[darkness-xphb|Darkness]], the dragon\
+      \ has [[resistance-xphb|Resistance]] to damage\
       \ that isn't Force, Psychic, or Radiant."
     "name": "Living Shadow"
-  - "desc": "While in sunlight, the dragon has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the dragon has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -86,29 +86,29 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
   - "desc": "*Melee Attack Roll:* +10, reach 10 ft. *Hit:* 12 (2d6 + 5) Slashing\
       \ damage plus 3 (1d6) Necrotic damage."
     "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 17, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 17, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 35 (10d6) Necrotic damage. *Success:* Half damage. *Failure or\
-      \ Success:* A Humanoid reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ by this damage dies, and a [Shadow](Compendium/bestiary/undead/shadow-xmm.md)\
+      \ Success:* A Humanoid reduced to 0 [[hit-points-xphb|Hit Points]]\
+      \ by this damage dies, and a [[shadow-xmm|Shadow]]\
       \ rises from the corpse. The shadow is under the dragon's control and shares\
-      \ the dragon's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md)\
+      \ the dragon's [[initiative-xphb|Initiative]]\
       \ count but acts immediately after the dragon."
     "name": "Shadow Breath (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the dragon\
+  - "desc": "While in [[dim-light-xphb|Dim Light]]\
+      \ or [[darkness-xphb|Darkness]], the dragon\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "regional_effects":
   - "desc": "The region around a shadow dragon's lair is twisted by its presence,\
       \ creating the following effects:\n\n- **Negative Energy Suffusion.** Whenever\
-      \ a creature within 1 mile of the lair regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ from a spell, it subtracts 1d10 from the number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ a creature within 1 mile of the lair regains [[hit-points-xphb|Hit Points]]\
+      \ from a spell, it subtracts 1d10 from the number of [[hit-points-xphb|Hit Points]]\
       \ regained.  \n- **Stifling Shadows.** Within 1 mile of the lair, effects that\
-      \ normally create [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-      \ instead create [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md),\
-      \ and creatures there have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.  \n\n\
+      \ normally create [[bright-light-xphb|Bright Light]]\
+      \ instead create [[dim-light-xphb|Dim Light]],\
+      \ and creatures there have [[advantage-xphb|Advantage]]\
+      \ on Dexterity ([[skills#Stealth|Stealth]]) checks.  \n\n\
       If the dragon dies or moves its lair elsewhere, these effects end immediately."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3 (4 in Lair). Immediately after\
@@ -116,7 +116,7 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
   \ following actions. The shadow dragon regains all expended uses at the start of\
   \ each of its turns."
 "legendary_actions":
-  - "desc": "The dragon moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
   - "desc": "The dragon uses Shadow Stealth, and one creature of its choice that it\

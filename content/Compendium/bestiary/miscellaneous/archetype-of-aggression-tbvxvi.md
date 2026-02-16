@@ -45,7 +45,7 @@ The archetype of aggression is a human warrior blessed by Purphoros. His blessin
     "name": "Magic Weapons"
   - "desc": "The archetype glows with the soft light of the night sky, shedding dim light in a 15-foot radius."
     "name": "Starlight Form"
-  - "desc": "The archetype can move in and out of a Medium or smaller creature's space. If it would, it uses a bonus action to attack that creature with its unarmed strike. That creature must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone). If the creature succeeds, the archetype can't enter that space and must end its turn immediately. If the archetype stops on top of that creature, that creature becomes [restrained](Compendium/rules/conditions.md#Restrained) until the archetype moves off it (escape DC 13)."
+  - "desc": "The archetype can move in and out of a Medium or smaller creature's space. If it would, it uses a bonus action to attack that creature with its unarmed strike. That creature must succeed on a DC 13 Strength saving throw or be knocked [[conditions#Prone|prone]]. If the creature succeeds, the archetype can't enter that space and must end its turn immediately. If the archetype stops on top of that creature, that creature becomes [[conditions#Restrained|restrained]] until the archetype moves off it (escape DC 13)."
     "name": "Trample"
 "actions":
   - "desc": "The archetype makes two unarmed strikes."

@@ -48,20 +48,20 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
   - !!int "9"
   - !!int "1"
 "speed": "20 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The limb regains 5 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+  - "desc": "The limb regains 5 [[hit-points-xphb|Hit Points]]\
       \ at the start of each of its turns. If the limb takes Acid or Fire damage,\
       \ this trait doesn't function on the limb's next turn. The limb dies only if\
-      \ it starts its turn with 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ it starts its turn with 0 [[hit-points-xphb|Hit Points]]\
       \ and doesn't regenerate."
     "name": "Regeneration"
   - "desc": "The limb uncannily has the same senses as a whole troll. If the limb\
       \ isn't destroyed within 24 hours, roll 1d12. On a 12, the limb turns into\
-      \ a [Troll](Compendium/bestiary/giant/troll-xmm.md). Otherwise, the limb withers\
+      \ a [[troll-xmm|Troll]]. Otherwise, the limb withers\
       \ away."
     "name": "Troll Spawn"
 "actions":

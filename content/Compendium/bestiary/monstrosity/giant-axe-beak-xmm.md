@@ -54,7 +54,7 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
   - !!int "5"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
@@ -67,7 +67,7 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
       \ 6 (1d12) Slashing damage."
     "name": "Sharpened Beak"
   - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Talons"
 "source":

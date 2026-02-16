@@ -25,7 +25,7 @@ Infiltrators can pass as human, their serpentine features limited to scaly skin,
 *Power-Hungry Serpentine Conspirators*
 
 - **Habitat.** Desert, Forest, Swamp, Urban  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Exploiting pacts with sinister supernatural forces, yuan-ti bargain away their humanity for the lethality and predatory deviousness of serpents. From hidden bastions, they manipulate rulers and the wealthy, seeking to control the world. Many yuan-ti possess venomous magic, which often manifests as fangs or striking serpents.
 
@@ -69,20 +69,20 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Abyssal, Common, Draconic"
 "cr": "1"
 "traits":
-  - "desc": "The yuan-ti has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The yuan-ti has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -96,8 +96,8 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
     "name": "Poison Ray"
   - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \n**At will:** [Animal Friendship](Compendium/spells/animal-friendship-xphb.md)\
-      \ (snakes only)\n\n**2/day:** [Suggestion](Compendium/spells/suggestion-xphb.md)"
+      \n**At will:** [[animal-friendship-xphb|Animal Friendship]]\
+      \ (snakes only)\n\n**2/day:** [[suggestion-xphb|Suggestion]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

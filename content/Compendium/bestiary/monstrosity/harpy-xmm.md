@@ -54,17 +54,17 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
   - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Slashing\
       \ damage."
     "name": "Claw"
-  - "desc": "The harpy sings a magical melody, which lasts until the harpy's [Concentration](Compendium/rules/conditions.md#Concentration)\
+  - "desc": "The harpy sings a magical melody, which lasts until the harpy's [[conditions#Concentration|Concentration]]\
       \ ends on it. *Wisdom Saving Throw:* DC 11, each Humanoid and Giant in a 300-foot\
-      \ [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the harpy when the song starts. *Failure:* The target has\
-      \ the [Charmed](Compendium/rules/conditions.md#Charmed) condition until the\
-      \ song ends and repeats the save at the end of each of its turns. While [Charmed](Compendium/rules/conditions.md#Charmed),\
-      \ the target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ the [[conditions#Charmed|Charmed]] condition until the\
+      \ song ends and repeats the save at the end of each of its turns. While [[conditions#Charmed|Charmed]],\
+      \ the target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition and ignores the Luring Song of other harpies. If the target is more\
       \ than 5 feet from the harpy, the target moves on its turn toward the harpy\
       \ by the most direct route, trying to get within 5 feet of the harpy. It doesn't\
-      \ avoid [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack);\
+      \ avoid [[actions#Opportunity%20Attack|Opportunity Attacks]];\
       \ however, before moving into damaging terrain (such as lava or a pit) and whenever\
       \ it takes damage from a source other than the harpy, the target repeats the\
       \ save. *Success:* The target is immune to this harpy's Luring Song for 24 hours."

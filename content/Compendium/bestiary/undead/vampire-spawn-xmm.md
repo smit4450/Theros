@@ -73,12 +73,12 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "dexterity": !!int "6"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "necrotic"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": "Common plus one other language"
 "cr": "5"
@@ -90,25 +90,25 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ enter a residence without an invitation from an occupant.  \n- **Running Water.**\
       \ The vampire takes 20 Acid damage if it ends its turn in running water.  \n\
       - **Stake to the Heart.** The vampire is destroyed if a weapon that deals Piercing\
-      \ damage is driven into the vampire's heart while the vampire has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ damage is driven into the vampire's heart while the vampire has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition.  \n- **Sunlight.** The vampire takes 20 Radiant damage if it starts\
-      \ its turn in sunlight. While in sunlight, it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ its turn in sunlight. While in sunlight, it has [[disadvantage-xphb|Disadvantage]]\
       \ on attack rolls and ability checks.  "
     "name": "Vampire Weakness"
 "actions":
   - "desc": "The vampire makes two Claw attacks and uses Bite."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (2d4 + 3) Slashing\
-      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 13) from one of two claws."
     "name": "Claw"
   - "desc": "*Constitution Saving Throw:* DC 14, one creature within 5 feet that is\
-      \ willing or that has the [Grappled](Compendium/rules/conditions.md#Grappled),\
-      \ [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ willing or that has the [[conditions#Grappled|Grappled]],\
+      \ [[conditions#Incapacitated|Incapacitated]], or [[conditions#Restrained|Restrained]]\
       \ condition. *Failure:* 5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic\
-      \ damage. The target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ damage. The target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
-      \ vampire regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ vampire regains [[hit-points-xphb|Hit Points]]\
       \ equal to that amount."
     "name": "Bite"
 "bonus_actions":

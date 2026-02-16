@@ -23,7 +23,7 @@ The servants of kuo-toa archpriests, kuo-toa whips—so named for their role in 
 *Fishlike Fanatics of the Deep*
 
 - **Habitat.** Coastal, Underdark  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Kuo-toa have slimy, humanoid bodies and the heads of goggle-eyed deep-sea fish. They claim they once dominated whole worlds, their empires spanning land and sea under the blessings of piscine gods. The kuo-toa can't say what disaster brought their glorious civilization to an end, but elves, humans, mind flayers, and the kuo-toan gods bear the brunt of their blame. From the lands and seas of the surface, the kuo-toa retreated into cavernous trenches and Underdark seas. In these hidden realms, kuo-toa brood over all they've lost and forgotten, nursing plots to avenge themselves for slights that might never have occurred.
 
@@ -95,30 +95,30 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+3"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., [Truesight](Compendium/rules/senses.md#Truesight)\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., [[senses#Truesight|Truesight]]\
   \ 30 ft., passive Perception 16"
 "languages": "Undercommon"
 "cr": "1"
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kuo-toa has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 10 ft. *Hit:* 9 (2d6 + 2) Piercing\
-      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 12). Until the grapple ends, the kuo-toa can't make Pincer\
       \ Staff attacks."
     "name": "Pincer Staff"
   - "desc": "*Ranged Attack Roll:* +4, range 60 ft. *Hit:* 9 (3d4 + 2) Acid damage."
     "name": "Conjure Slimy Glob"
 "bonus_actions":
-  - "desc": "The kuo-toa casts [Shield of Faith](Compendium/spells/shield-of-faith-xphb.md),\
+  - "desc": "The kuo-toa casts [[shield-of-faith-xphb|Shield of Faith]],\
       \ using Wisdom as the spellcasting ability.\n"
     "name": "Shield of Faith (2/Day)"
 "source":

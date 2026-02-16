@@ -46,9 +46,9 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
   - !!int "6"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 14"
 "languages": ""
 "cr": "6"
@@ -59,7 +59,7 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
       \ damage."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing\
-      \ damage plus 24 (7d6) Poison damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ damage plus 24 (7d6) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the wyvern's next turn."
     "name": "Sting"
 "source":

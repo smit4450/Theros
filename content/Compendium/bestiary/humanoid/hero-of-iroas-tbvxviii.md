@@ -36,17 +36,17 @@ aliases: ["Hero of Iroas"]
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+4"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1/4"
 "traits":
-  - "desc": "The hero has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
+  - "desc": "The hero has [[advantage-xphb|Advantage]] on initiative rolls."
     "name": "Battle Readiness"
-  - "desc": "The hero has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled), or [restrained](Compendium/rules/conditions.md#Restrained) while it is within 5 feet of at least one ally."
+  - "desc": "The hero has [[advantage-xphb|Advantage]] on saving throws against being [[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]], or [[conditions#Restrained|restrained]] while it is within 5 feet of at least one ally."
     "name": "Formation Tactics"
   - "desc": "Any creature that has not cast an enchantment from within 30 feet of the hero since that creature's last long rest may do so without expending a spell slot."
     "name": "Enchantment Incentive"
@@ -56,7 +56,7 @@ aliases: ["Hero of Iroas"]
   - "desc": "_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage."
     "name": "Brass Knuckles"
 "reactions":
-  - "desc": "Whenever the hero is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the hero gains a +1 bonus to damage rolls and Dexterity checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "Whenever the hero is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the hero gains a +1 bonus to damage rolls and Dexterity checks, and it gains 4 (1d8) temporary [[hit-points-xphb|Hit Points]]."
     "name": "Heroic"
 "source":
   - "TBVXVIII"

@@ -20,7 +20,7 @@ aliases: ["Lamia"]
 *Accursed Bargainer and Ruin Raider*
 
 - **Habitat.** Desert  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Legends say the first lamia was an ambitious ruler who made a sinister bargain with the demon lord Graz'zt for everlasting majesty. As a consequence, the ruler was transformed into a lamia, a monster with the body of a lion and an accursed touch.
 
@@ -55,13 +55,13 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
   - !!int "16"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+7"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Abyssal, Common"
 "cr": "4"
@@ -74,15 +74,15 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
     "name": "Claw"
   - "desc": "*Wisdom Saving Throw:* DC 13, one creature the lamia can see within 5\
       \ feet. *Failure:* 13 (3d8) Psychic damage, and the target is cursed for 1\
-      \ hour. Until the curse ends, the target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
-      \ and [Poisoned](Compendium/rules/conditions.md#Poisoned) conditions."
+      \ hour. Until the curse ends, the target has the [[conditions#Charmed|Charmed]]\
+      \ and [[conditions#Poisoned|Poisoned]] conditions."
     "name": "Corrupting Touch"
   - "desc": "The lamia casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
-      \ will:** [Disguise Self](Compendium/spells/disguise-self-xphb.md) (can appear\
-      \ as a Large or Medium biped), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)\n\
-      \n**1/day each:** [Geas](Compendium/spells/geas-xphb.md), [Major Image](Compendium/spells/major-image-xphb.md),\
-      \ [Scrying](Compendium/spells/scrying-xphb.md)"
+      \ will:** [[disguise-self-xphb|Disguise Self]] (can appear\
+      \ as a Large or Medium biped), [[minor-illusion-xphb|Minor Illusion]]\n\
+      \n**1/day each:** [[geas-xphb|Geas]], [[major-image-xphb|Major Image]],\
+      \ [[scrying-xphb|Scrying]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The lamia jumps up to 30 feet by spending 10 feet of movement."

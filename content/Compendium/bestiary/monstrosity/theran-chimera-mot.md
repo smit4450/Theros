@@ -87,9 +87,9 @@ The Theran chimera stat block presents one possible chimera configuration. You m
   - "constitution": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": "understands Draconic but can't speak"
 "cr": "7"

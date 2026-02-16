@@ -42,12 +42,12 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
   - !!int "10"
   - !!int "10"
 "speed": "30 ft., burrow 20 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., Tremorsense\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., Tremorsense\
   \ 60 ft., passive Perception 10"
 "languages": "Umber Hulk"
 "cr": "5"
 "traits":
-  - "desc": "The umber hulk can burrow through solid rock at half its [Burrow Speed](Compendium/rules/variant-rules/burrow-speed-xphb.md)\
+  - "desc": "The umber hulk can burrow through solid rock at half its [[burrow-speed-xphb|Burrow Speed]]\
       \ and leaves a 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
@@ -57,11 +57,11 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
       \ damage."
     "name": "Rend"
 "bonus_actions":
-  - "desc": "*Wisdom Saving Throw:* DC 14, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Wisdom Saving Throw:* DC 14, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* The target can't take Reactions until the start of the umber hulk's\
       \ next turn, and the target rolls 1d8 to determine what it does on its next\
       \ turn:\n\n- **1-4.** The target does nothing.  \n- **5-6.** The target takes\
-      \ no action or [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md)\
+      \ no action or [[bonus-action-xphb|Bonus Action]]\
       \ and uses all its movement to move in a random direction.  \n- **7-8.** The\
       \ target makes a melee attack against a random creature within its reach or\
       \ does nothing if it can't make such an attack.  "

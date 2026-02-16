@@ -37,8 +37,8 @@ Archons always ride into battle on fearsome winged mounts. Some legends suggest 
 "traits":
   - "desc": "If the lion moves at least 20 feet straight toward a creature and then\
       \ hits it with a claw attack on the same turn, that target must succeed on a\
-      \ DC 15 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone).\
-      \ If the target is [prone](Compendium/rules/conditions.md#Prone), the lion can\
+      \ DC 15 Strength saving throw or be knocked [[conditions#Prone|prone]].\
+      \ If the target is [[conditions#Prone|prone]], the lion can\
       \ make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":

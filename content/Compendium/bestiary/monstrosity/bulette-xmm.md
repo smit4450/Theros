@@ -47,9 +47,9 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - !!int "5"
 "speed": "40 ft., burrow 40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., Tremorsense\
   \ 120 ft., passive Perception 16"
 "languages": ""
 "cr": "5"
@@ -62,7 +62,7 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - "desc": "The bulette spends 5 feet of movement to jump to a space within 15 feet\
       \ that contains one or more Large or smaller creatures. *Dexterity Saving Throw:*\
       \ DC 15, each creature in the bulette's destination space. *Failure:* 19 (3d12)\
-      \ Bludgeoning damage, and the target has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ Bludgeoning damage, and the target has the [[conditions#Prone|Prone]]\
       \ condition. *Success:* Half damage, and the target is pushed 5 feet straight\
       \ away from the bulette."
     "name": "Deadly Leap"

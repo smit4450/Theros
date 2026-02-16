@@ -36,13 +36,13 @@ A gigantic 6-eyed snake with a mouth chock-full of fangs.
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., passive Perception 10"
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., passive Perception 10"
 "languages": ""
 "cr": "4"
 "traits":
-  - "desc": "If the nemesis is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it doesn’t die or fall [unconscious](Compendium/rules/conditions.md#Unconscious). Instead, it sheds its skin, regains 57 (5d20+5) [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), and moves up to its speed without provoking opportunity attacks."
+  - "desc": "If the nemesis is reduced to 0 [[hit-points-xphb|Hit Points]], it doesn’t die or fall [[conditions#Unconscious|unconscious]]. Instead, it sheds its skin, regains 57 (5d20+5) [[hit-points-xphb|Hit Points]], and moves up to its speed without provoking opportunity attacks."
     "name": "Shed Skin (Mythic Trait; Recharges after a Short or Long Rest)"
 "actions":
   - "desc": "Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 32 (5d10 + 5) piercing damage."

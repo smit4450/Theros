@@ -18,7 +18,7 @@ aliases: ["Frog"]
 ![](Compendium/bestiary/beast/img/frog.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -40,19 +40,19 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+1"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 30 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 30 ft., passive Perception\
   \ 11"
 "languages": ""
 "cr": "0"
 "traits":
   - "desc": "The frog can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The frog's [Long Jump](Compendium/rules/variant-rules/long-jump-xphb.md)\
-      \ is up to 10 feet and its [High Jump](Compendium/rules/variant-rules/high-jump-xphb.md)\
+  - "desc": "The frog's [[long-jump-xphb|Long Jump]]\
+      \ is up to 10 feet and its [[high-jump-xphb|High Jump]]\
       \ is up to 5 feet with or without a running start."
     "name": "Standing Leap"
 "actions":

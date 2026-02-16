@@ -35,7 +35,7 @@ Cruel, corpse-eating creatures, harpies endlessly seek their next meal, careless
   - !!int "13"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+3"
 "senses": "passive Perception 10"
 "languages": "Common"
@@ -44,8 +44,8 @@ Cruel, corpse-eating creatures, harpies endlessly seek their next meal, careless
   - "desc": "The harpy has advantage on melee attack rolls against any creature that\
       \ doesn't have all its hit points."
     "name": "Blood Frenzy"
-  - "desc": "The harpy has advantage on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed)\
-      \ or [frightened](Compendium/rules/conditions.md#Frightened)."
+  - "desc": "The harpy has advantage on saving throws against being [[conditions#Charmed|charmed]]\
+      \ or [[conditions#Frightened|frightened]]."
     "name": "Dark Devotion"
 "actions":
   - "desc": "The harpy makes two melee attacks: one with its bite and one with its\

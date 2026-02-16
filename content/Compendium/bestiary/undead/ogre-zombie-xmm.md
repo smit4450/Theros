@@ -57,17 +57,17 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 8"
 "languages": "understands Common and Giant but can't speak"
 "cr": "2"
 "traits":
-  - "desc": "If damage reduces the zombie to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+  - "desc": "If damage reduces the zombie to 0 [[hit-points-xphb|Hit Points]],\
       \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-      \ damage is Radiant or from a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md).\
-      \ On a successful save, the zombie drops to 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ damage is Radiant or from a [[critical-hit-xphb|Critical Hit]].\
+      \ On a successful save, the zombie drops to 1 [[hit-points-xphb|Hit Point]]\
       \ instead."
     "name": "Undead Fortitude"
 "actions":

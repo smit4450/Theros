@@ -116,31 +116,31 @@ Weapon rack
   - !!int "8"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "acid"
-"condition_immunities": "[prone](Compendium/rules/conditions.md#Prone)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Prone|prone]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": ""
 "cr": "2"
 "traits":
   - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-      \ adhered to the mimic has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ adhered to the mimic has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 13). Ability checks made to escape this grapple have\
-      \ [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
+      \ [[disadvantage-xphb|Disadvantage]]."
     "name": "Adhesive (Object Form Only)"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](Compendium/rules/conditions.md#Grappled) by the\
+  - "desc": "*Melee Attack Roll:* +5 (with [[advantage-xphb|Advantage]]\
+      \ if the target is [[conditions#Grappled|Grappled]] by the\
       \ mimic), reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3)\
-      \ Piercing damage if the target is [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ Piercing damage if the target is [[conditions#Grappled|Grappled]]\
       \ by the mimic—plus 4 (1d8) Acid damage."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning\
       \ damage plus 4 (1d8) Acid damage. If the target is a Large or smaller creature,\
-      \ it has the [Grappled](Compendium/rules/conditions.md#Grappled) condition (escape\
-      \ DC 13). Ability checks made to escape this grapple have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
+      \ it has the [[conditions#Grappled|Grappled]] condition (escape\
+      \ DC 13). Ability checks made to escape this grapple have [[disadvantage-xphb|Disadvantage]]."
     "name": "Pseudopod"
 "bonus_actions":
   - "desc": "The mimic shape-shifts to resemble a Medium or Small object while retaining\

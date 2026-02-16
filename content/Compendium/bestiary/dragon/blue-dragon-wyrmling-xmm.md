@@ -23,7 +23,7 @@ Blue dragon wyrmlings often serve other powerful creatures, learning the ways of
 *Dragons of Tyranny and Tempests*
 
 - **Habitat.** Desert  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Arrogant and imperious, blue dragons are chromatic dragons that crave control and collect followers like other dragons hoard treasure. They seek to transform their territories into empires, domains to be feared by nations.
 
@@ -58,12 +58,12 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "damage_immunities": "lightning"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "3"
@@ -74,7 +74,7 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
       \ damage plus 3 (1d6) Lightning damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 30-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 21 (6d6) Lightning damage. *Success:* Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
 "source":

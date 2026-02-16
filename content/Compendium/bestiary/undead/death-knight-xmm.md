@@ -22,7 +22,7 @@ Death knights are deadly combatants and domineering commanders with grim histori
 *Haunted Commanders of Unliving Legions*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Champions of evil, death knights are armor-clad, skeletal warlords. Combining devastating martial prowess and blasphemous magic, these undying tyrants lead unholy legions against the living or brood in cursed citadels. Every death knight is haunted by a legacy of tragedy and dishonor that drives it to commit greater evils.
 ## Statblock
@@ -48,26 +48,26 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   - "dexterity": !!int "6"
   - "wisdom": !!int "9"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 13"
 "languages": "Abyssal, Common"
 "cr": "17"
 "traits":
   - "desc": "If the death knight fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "The death knight has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The death knight has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Undead creatures of the death knight's choice (excluding itself) in a\
-      \ 60-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from it have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ on attack rolls and saving throws. It can't use this trait if it has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ 60-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from it have [[advantage-xphb|Advantage]]\
+      \ on attack rolls and saving throws. It can't use this trait if it has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Marshal Undead"
   - "desc": "If the death knight is destroyed before it atones for its evil, it gains\
-      \ a new body in 1d10 days, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ a new body in 1d10 days, reviving with all its [[hit-points-xphb|Hit Points]].\
       \ The new body appears in a location significant to the death knight."
     "name": "Undead Restoration"
 "actions":
@@ -76,15 +76,15 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   - "desc": "*Melee Attack Roll:* +11, reach 5 ft. *Hit:* 12 (2d6 + 5) Slashing\
       \ damage plus 13 (3d8) Necrotic damage."
     "name": "Dread Blade"
-  - "desc": "*Dexterity Saving Throw:* DC 18, each creature in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+  - "desc": "*Dexterity Saving Throw:* DC 18, each creature in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point the death knight can see within 120 feet. *Failure:* 35\
       \ (10d6) Fire damage plus 35 (10d6) Necrotic damage. *Success:* Half damage."
     "name": "Hellfire Orb (Recharge 5-6)"
   - "desc": "The death knight casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 18):\n\
-      \n**At will:** [Command](Compendium/spells/command-xphb.md), [Phantom Steed](Compendium/spells/phantom-steed-xphb.md)\n\
-      \n**2/day each:** [Destructive Wave](Compendium/spells/destructive-wave-xphb.md)\
-      \ (Necrotic), [Dispel Magic](Compendium/spells/dispel-magic-xphb.md)"
+      \n**At will:** [[command-xphb|Command]], [[phantom-steed-xphb|Phantom Steed]]\n\
+      \n**2/day each:** [[destructive-wave-xphb|Destructive Wave]]\
+      \ (Necrotic), [[dispel-magic-xphb|Dispel Magic]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: The death knight is hit by a melee attack roll while holding\
@@ -95,17 +95,17 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   \ turn, the death knight can expend a use to take one of the following actions.\
   \ The death knight regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The death knight uses Spellcasting to cast [Command](Compendium/spells/command-xphb.md).\
+  - "desc": "The death knight uses Spellcasting to cast [[command-xphb|Command]].\
       \ The death knight can't take this action again until the start of its next\
       \ turn."
     "name": "Dread Authority"
   - "desc": "*Constitution Saving Throw:* DC 18, one creature the death knight can\
       \ see within 120 feet. *Failure:* 17 (5d6) Necrotic damage, and the target's\
-      \ [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum decreases\
+      \ [[hit-points-xphb|Hit Point]] maximum decreases\
       \ by an amount equal to the damage taken. *Failure or Success:* The death knight\
       \ can't take this action again until the start of its next turn."
     "name": "Fell Word"
-  - "desc": "The death knight moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "The death knight moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Dread Blade attack."
     "name": "Lunge"
 "source":

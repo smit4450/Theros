@@ -28,11 +28,11 @@ aliases: ["Bestial Spirit (Air)"]
   - !!int "14"
   - !!int "5"
 "speed": "30 ft., fly 60 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The spirit doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The spirit doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
 "actions":

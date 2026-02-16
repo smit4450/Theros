@@ -20,7 +20,7 @@ aliases: ["Flumph"]
 *Strange Ally from a Strange Place*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Bizarre creatures with aberrant agendas inhabit the Underdark. Flumphs number among the few that are helpful to strangers.
 
@@ -79,14 +79,14 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
   - !!int "11"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+4"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+4"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+4"
 "damage_vulnerabilities": "psychic"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "understands Undercommon but can't speak; telepathy 60 ft."
 "cr": "1/8"
@@ -94,10 +94,10 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
   - "desc": "The flumph perceives the content of any telepathic communication within\
       \ 60 feet of it."
     "name": "Advanced Telepathy"
-  - "desc": "If the flumph receives the [Prone](Compendium/rules/conditions.md#Prone)\
-      \ condition, roll a die. On an odd number, it has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+  - "desc": "If the flumph receives the [[conditions#Prone|Prone]]\
+      \ condition, roll a die. On an odd number, it has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. At the end of each of its turns, the flumph makes a DC 10 Dexterity\
-      \ saving throw, ending the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ saving throw, ending the [[conditions#Incapacitated|Incapacitated]]\
       \ condition on a success."
     "name": "Prone Deficiency"
   - "desc": "The flumph's thoughts can't be read by any means, and magic can't detect\
@@ -108,12 +108,12 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
     "name": "Tentacle"
   - "desc": "*Dexterity Saving Throw:* DC 10, one creature the flumph can see within\
       \ 15 feet. *Failure:* The target is coated in a foul-smelling liquid, exudes\
-      \ a stench for 1d4 hours, and has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ condition while the stench lasts. Other creatures have the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ condition while in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ a stench for 1d4 hours, and has the [[conditions#Poisoned|Poisoned]]\
+      \ condition while the stench lasts. Other creatures have the [[conditions#Poisoned|Poisoned]]\
+      \ condition while in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the coated target. The target can remove the stench on itself\
-      \ if it bathes during a [Short](Compendium/rules/variant-rules/short-rest-xphb.md)\
-      \ or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md)."
+      \ if it bathes during a [[short-rest-xphb|Short]]\
+      \ or [[long-rest-xphb|Long Rest]]."
     "name": "Stench Spray (1/Day)"
 "source":
   - "XMM"

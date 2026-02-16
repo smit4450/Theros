@@ -37,15 +37,15 @@ Soldiers summoned by Elspeth are from Bant, across the Multiverse.
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+3"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1"
 "traits":
-  - "desc": "The soldier has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled), or [restrained](Compendium/rules/conditions.md#Restrained) while it is within 5 feet of at least one ally."
+  - "desc": "The soldier has [[advantage-xphb|Advantage]] on saving throws against being [[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]], or [[conditions#Restrained|restrained]] while it is within 5 feet of at least one ally."
     "name": "Formation Tactics"
 "actions":
   - "desc": "The soldier makes two melee spear attacks or two shortsword attacks."

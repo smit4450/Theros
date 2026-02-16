@@ -52,26 +52,26 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
   - "dexterity": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 21"
 "languages": "Goblin, Sylvan, Worg"
 "cr": "10"
 "traits":
-  - "desc": "The worg has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The worg has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The worg makes three Bite attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 15 (2d8 + 6) Piercing\
-      \ damage plus 7 (2d6) Poison damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ condition until the start of the worg's next turn. While [Poisoned](Compendium/rules/conditions.md#Poisoned),\
-      \ the target can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+      \ damage plus 7 (2d6) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition until the start of the worg's next turn. While [[conditions#Poisoned|Poisoned]],\
+      \ the target can't regain [[hit-points-xphb|Hit Points]]."
     "name": "Bite"
   - "desc": "*Wisdom Saving Throw:* DC 16, each creature within 30 feet that isn't\
-      \ a worg. *Failure:* 36 (8d8) Psychic damage, and the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ a worg. *Failure:* 36 (8d8) Psychic damage, and the target has the [[conditions#Frightened|Frightened]]\
       \ condition until the start of the worg's next turn. *Success:* Half damage\
       \ only."
     "name": "Dreadful Howl (Recharge 5-6)"

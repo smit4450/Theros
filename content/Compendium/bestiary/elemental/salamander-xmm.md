@@ -24,7 +24,7 @@ Most salamanders are arrogant yet curious, seeking to create artful blazes or bu
 *Serpentine Artists of the Inferno*
 
 - **Habitat.** Planar (Elemental Plane of Fire), Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Salamanders are serpentine denizens of the Elemental Plane of Fire. They believe that flames expose the purest forms of all things and delight in burning and melting things, seeing fleeting beauty and striking nuances in blazes consuming different fuels—ancient forests, artistic masterpieces, or living creatures. To salamanders, those that can't endure their flames are nothing but ashes in disguise. They harbor malice toward few creatures, but they consider creating remarkable flames more important than the pain and loss their fires cause.
 
@@ -56,13 +56,13 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "speed": "30 ft., climb 30 ft."
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Primordial (Ignan)"
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ choice in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the salamander takes 7 (2d6) Fire damage."
     "name": "Fire Aura"
 "actions":
@@ -76,8 +76,8 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
     "name": "Flame Spear"
   - "desc": "*Strength Saving Throw:* DC 15, one Large or smaller creature the salamander\
       \ can see within 10 feet. *Failure:* 11 (2d6 + 4) Bludgeoning damage plus\
-      \ 7 (2d6) Fire damage. The target has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14), and it has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ 7 (2d6) Fire damage. The target has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 14), and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Constrict"
 "source":

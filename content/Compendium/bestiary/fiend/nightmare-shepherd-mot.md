@@ -37,27 +37,27 @@ A nightmare shepherd is a gaunt, ashen fiend with leathery wings. It carries a s
   - "constitution": !!int "8"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+9"
 "damage_resistances": "cold, necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 17"
 "languages": "Abyssal, Common, Infernal"
 "cr": "11"
 "traits":
   - "desc": "The shepherd's spellcasting ability is Charisma (spell save DC 17). It\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**1/day each:** [confusion](Compendium/spells/confusion-xphb.md), [dispel\
-      \ magic](Compendium/spells/dispel-magic-xphb.md), [hold person](Compendium/spells/hold-person-xphb.md),\
-      \ [suggestion](Compendium/spells/suggestion-xphb.md)"
+      \n**1/day each:** [[confusion-xphb|confusion]], [[dispel-magic-xphb|dispel\
+      \ magic]], [[hold-person-xphb|hold person]],\
+      \ [[suggestion-xphb|suggestion]]"
     "name": "Innate Spellcasting"
   - "desc": "Undead creatures within 30 feet of the shepherd gain a +5 bonus to attack\
       \ and damage rolls. When any other creature that isn't undead or a construct\
@@ -77,7 +77,7 @@ A nightmare shepherd is a gaunt, ashen fiend with leathery wings. It carries a s
       \ (2d6 + 4) bludgeoning damage, or 13 (2d8 + 4) bludgeoning damage if used\
       \ with two hands, plus 26 (4d12) psychic damage."
     "name": "Staff"
-  - "desc": "The shepherd pulls twisted souls from the Underworld; 1d6 [shadows](Compendium/bestiary/undead/shadow-xmm.md)\
+  - "desc": "The shepherd pulls twisted souls from the Underworld; 1d6 [[shadow-xmm|shadows]]\
       \ (without Sunlight Weakness) arise in unoccupied spaces within 20 feet of the\
       \ shepherd. The shadows act right after the shepherd on the same initiative\
       \ count and fight until they're destroyed. They disappear when the shepherd\

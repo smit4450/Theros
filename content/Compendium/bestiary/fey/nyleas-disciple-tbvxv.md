@@ -37,11 +37,11 @@ aliases: ["Nylea's Disciple"]
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common, Sylvan"
@@ -63,7 +63,7 @@ aliases: ["Nylea's Disciple"]
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage."
     "name": "Hooves"
 "reactions":
-  - "desc": "When the disciple rolls for initiative, it gains temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to the number of allied centaurs within 5 feet of it."
+  - "desc": "When the disciple rolls for initiative, it gains temporary [[hit-points-xphb|Hit Points]] equal to the number of allied centaurs within 5 feet of it."
     "name": "Nylea's Blessing"
 "source":
   - "TBVXV"

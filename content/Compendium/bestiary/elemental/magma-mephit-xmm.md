@@ -53,19 +53,19 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Primordial (Ignan, Terran)"
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. *Dexterity Saving Throw:* DC 11, each\
-      \ creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the mephit. *Failure:* 7 (2d6) Fire damage. *Success:*\
       \ Half damage."
     "name": "Death Burst"
@@ -73,7 +73,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 3 (1d4 + 1) Slashing\
       \ damage plus 3 (1d6) Fire damage."
     "name": "Claw"
-  - "desc": "*Dexterity Saving Throw:* DC 11, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 11, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 7 (2d6) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 6)"
 "source":

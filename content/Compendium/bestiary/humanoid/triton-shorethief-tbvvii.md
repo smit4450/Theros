@@ -38,7 +38,7 @@ aliases: ["Triton Shorethief"]
   - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "damage_resistances": "cold"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": "Common, Primordial"
 "cr": "1/8"
 "traits":
@@ -46,7 +46,7 @@ aliases: ["Triton Shorethief"]
     "name": "Amphibious"
   - "desc": "Aquatic beasts have an extraordinary affinity with tritons. Tritons can communicate simple ideas with beasts that can breathe water. Those beasts can understand the triton's words, though the triton has no special ability to understand the beasts in return."
     "name": "Emissary of the Sea"
-  - "desc": "The triton shorethief's innate spellcasting ability is Charisma (spell save DC 10, +2 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day: [Fog Cloud](Compendium/spells/fog-cloud-xphb.md)"
+  - "desc": "The triton shorethief's innate spellcasting ability is Charisma (spell save DC 10, +2 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day: [[fog-cloud-xphb|Fog Cloud]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage."

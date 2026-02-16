@@ -16,14 +16,14 @@ aliases: ["Githyanki Knight"]
 *Source: Monster Manual (2024) p. 135*  
 
 ![](Compendium/bestiary/aberration/img/githyanki.webp#right|850)  
-Githyanki knights wield silver blades to slay magic-users who use the [Astral Projection](Compendium/spells/astral-projection-xphb.md) spell to intrude on githyanki territories on the Astral Plane. These silver blades are sacred to the githyanki. Non-githyanki who claim these weapons often find themselves hunted by wrathful githyanki knights.
+Githyanki knights wield silver blades to slay magic-users who use the [[astral-projection-xphb|Astral Projection]] spell to intrude on githyanki territories on the Astral Plane. These silver blades are sacred to the githyanki. Non-githyanki who claim these weapons often find themselves hunted by wrathful githyanki knights.
 
 ## Githyanki
 
 *Invaders from the Astral Plane*
 
 - **Habitat.** Planar (Astral Plane)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Githyanki were once an ordinary people, but the deeds of a vile mind flayer empire etched conflict on their being. Gaunt, humanlike creatures, githyanki have serrated ears and speckled skin ranging through shades of yellow, green, and brown. While some githyanki follow their own paths, many are influenced by a past that forever altered their fates.
 
@@ -63,24 +63,24 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
 "cr": "8"
 "actions":
   - "desc": "The githyanki makes three Silver Sword attacks. It can replace one attack\
-      \ with a use of Spellcasting to cast [Telekinesis](Compendium/spells/telekinesis-xphb.md)\
+      \ with a use of Spellcasting to cast [[telekinesis-xphb|Telekinesis]]\
       \ if available."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing\
       \ damage plus 14 (4d6) Psychic damage. Critical *Hit:* If the target is in\
-      \ an astral body (as with the [Astral Projection](Compendium/spells/astral-projection-xphb.md)\
+      \ an astral body (as with the [[astral-projection-xphb|Astral Projection]]\
       \ spell), the githyanki can cut the silvery cord that tethers the target to\
       \ its material body instead of dealing damage."
     "name": "Silver Sword"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      **At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
-      \n**2/day each:** [Nondetection](Compendium/spells/nondetection-xphb.md) (self\
-      \ only), [Tongues](Compendium/spells/tongues-xphb.md)\n\n**1/day each:** [Plane\
-      \ Shift](Compendium/spells/plane-shift-xphb.md), [Telekinesis](Compendium/spells/telekinesis-xphb.md)"
+      **At will:** [[mage-hand-xphb|Mage Hand]] (the hand is Invisible)\n\
+      \n**2/day each:** [[nondetection-xphb|Nondetection]] (self\
+      \ only), [[tongues-xphb|Tongues]]\n\n**1/day each:** [[plane-shift-xphb|Plane\
+      \ Shift]], [[telekinesis-xphb|Telekinesis]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githyanki casts [Misty Step](Compendium/spells/misty-step-xphb.md),\
+  - "desc": "The githyanki casts [[misty-step-xphb|Misty Step]],\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (2/Day)"
 "source":

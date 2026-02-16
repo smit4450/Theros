@@ -34,27 +34,27 @@ Of the various types of eidolons, flitterstep eidolons are the most common and w
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned), [restrained](Compendium/rules/conditions.md#Restrained)"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Restrained|restrained]]"
 "senses": "passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
   - "desc": "Attack rolls against the eidolon are made with disadvantage unless the\
-      \ eidolon is [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+      \ eidolon is [[conditions#Incapacitated|incapacitated]]."
     "name": "Blurred Form"
   - "desc": "If the eidolon is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, the eidolon instead takes no damage\
       \ if it succeeds on the saving throw, and only half damage if it fails. It can't\
-      \ use this trait if it's [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+      \ use this trait if it's [[conditions#Incapacitated|incapacitated]]."
     "name": "Evasion"
   - "desc": "The eidolon can move through other creatures and objects as if they were\
       \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\

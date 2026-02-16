@@ -43,10 +43,10 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
   - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"
@@ -58,8 +58,8 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
       \ wearer, half of any damage the wearer takes (round up) is transferred to the\
       \ guardian."
     "name": "Bound"
-  - "desc": "The guardian regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ at the start of each of its turns if it has at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "The guardian regains 10 [[hit-points-xphb|Hit Points]]\
+      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb|Hit Point]]."
     "name": "Regeneration"
   - "desc": "A spellcaster who wears the guardian's amulet can cause the guardian\
       \ to store one spell of level 4 or lower. To do so, the wearer must cast the\

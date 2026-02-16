@@ -19,7 +19,7 @@ aliases: ["Crocodile"]
 ![](Compendium/bestiary/beast/img/crocodile.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -43,7 +43,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "saves":
   - "constitution": !!int "3"
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": ""
@@ -53,9 +53,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Hold Breath"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing\
-      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ condition (escape DC 12). While [Grappled](Compendium/rules/conditions.md#Grappled),\
-      \ the target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 12). While [[conditions#Grappled|Grappled]],\
+      \ the target has the [[conditions#Restrained|Restrained]]\
       \ condition."
     "name": "Bite"
 "source":

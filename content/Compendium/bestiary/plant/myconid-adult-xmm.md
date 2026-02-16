@@ -44,13 +44,13 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
   - !!int "13"
   - !!int "7"
 "speed": "20 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 11"
 "languages": "telepathy 240 ft."
 "cr": "1/2"
 "traits":
-  - "desc": "While in sunlight, the myconid has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md). The myconid\
+  - "desc": "While in sunlight, the myconid has [[disadvantage-xphb|Disadvantage]]\
+      \ on [[d20-test-xphb|D20 Tests]]. The myconid\
       \ dies if it spends more than 1 hour in sunlight."
     "name": "Sun Sickness"
 "actions":
@@ -58,11 +58,11 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
       \ plus 3 (1d6) Poison damage."
     "name": "Slam"
   - "desc": "*Constitution Saving Throw:* DC 11, one creature the myconid can see\
-      \ within 10 feet. *Failure:* The target has the [Stunned](Compendium/rules/conditions.md#Stunned)\
+      \ within 10 feet. *Failure:* The target has the [[conditions#Stunned|Stunned]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Pacifying Spores (1/Day)"
-  - "desc": "The myconid expels spores in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "The myconid expels spores in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from itself. Creatures in that area with an Intelligence score\
       \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
       \ with a range of 30 feet for 1 hour."

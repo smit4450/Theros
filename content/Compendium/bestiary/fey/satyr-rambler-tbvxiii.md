@@ -37,19 +37,19 @@ aliases: ["Satyr Rambler"]
   - !!int "12"
 "speed": "35 ft."
 "skillsaves":
-  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+3"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+3"
 "senses": "passive Perception 10"
 "languages": "Sylvan, Common"
 "cr": "1/8"
 "traits":
-  - "desc": "The rambler has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
+  - "desc": "The rambler has [[advantage-xphb|Advantage]] on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Whenever the rambler makes a long or high jump, it can cover an additional 1d8 feet, even when making a standing jump. This extra distance costs movement as normal."
     "name": "Mirthful Leaps"
-  - "desc": "The rambler can move in and out of a Medium or smaller creature's space. If it would, it uses a bonus action to attack that creature with its ram attack. That creature must succeed on a DC 12 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone). If the creature succeeds, the rambler can't enter that space and must end its turn immediately. If the rambler stops on top of that creature, that creature becomes [restrained](Compendium/rules/conditions.md#Restrained) until the rambler moves off it (escape DC 12)."
+  - "desc": "The rambler can move in and out of a Medium or smaller creature's space. If it would, it uses a bonus action to attack that creature with its ram attack. That creature must succeed on a DC 12 Strength saving throw or be knocked [[conditions#Prone|prone]]. If the creature succeeds, the rambler can't enter that space and must end its turn immediately. If the rambler stops on top of that creature, that creature becomes [[conditions#Restrained|restrained]] until the rambler moves off it (escape DC 12)."
     "name": "Trample"
 "actions":
   - "desc": "_Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) slashing damage."

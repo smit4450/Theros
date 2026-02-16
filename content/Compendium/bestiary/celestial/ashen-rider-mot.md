@@ -25,7 +25,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
 "type": "celestial"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](Compendium/items/plate-armor-xphb.md)"
+"ac_class": "[[plate-armor-xphb|plate]]"
 "hp": !!int "178"
 "hit_dice": "21d8 + 84"
 "modifier": !!int "3"
@@ -43,38 +43,38 @@ Even though the age of archons is long past, many wonder if the few surviving ar
   - "wisdom": !!int "10"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+7"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+10"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+10"
 "damage_immunities": "thunder"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Truesight|truesight]] 120 ft., passive Perception\
   \ 20"
 "languages": "all"
 "cr": "16"
 "traits":
   - "desc": "The ashen rider's spellcasting ability is Wisdom (spell save DC 18).\
       \ The rider can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [command](Compendium/spells/command-xphb.md), [compelled duel](Compendium/spells/compelled-duel-xphb.md)\n\
-      \n**1/day each:** [banishment](Compendium/spells/banishment-xphb.md), [blade\
-      \ barrier](Compendium/spells/blade-barrier-xphb.md)"
+      \n**At will:** [[command-xphb|command]], [[compelled-duel-xphb|compelled duel]]\n\
+      \n**1/day each:** [[banishment-xphb|banishment]], [[blade-barrier-xphb|blade\
+      \ barrier]]"
     "name": "Innate Spellcasting"
   - "desc": "When a creature starts its turn within 30 feet of the ashen rider, the\
       \ rider can force that creature to make a DC 18 Wisdom saving throw if the rider\
       \ can see it. On a successful save, the creature is immune to this aura for\
-      \ the next 24 hours. On a failed save, the creature can't speak and is [deafened](Compendium/rules/conditions.md#Deafened)\
+      \ the next 24 hours. On a failed save, the creature can't speak and is [[conditions#Deafened|deafened]]\
       \ until the start of its next turn."
     "name": "Aura of Silence"
   - "desc": "If the ashen rider isn't mounted, it can use a bonus action to magically\
       \ teleport onto the creature serving as its mount, provided the ashen rider\
       \ and its mount are on the same plane of existence. When it teleports, the ashen\
       \ rider appears astride the mount along with any equipment it is wearing or\
-      \ carrying.\n\nWhile mounted and not [incapacitated](Compendium/rules/conditions.md#Incapacitated),\
-      \ the ashen rider can't be [surprised](Compendium/rules/conditions.md#Surprised),\
+      \ carrying.\n\nWhile mounted and not [[conditions#Incapacitated|incapacitated]],\
+      \ the ashen rider can't be [[conditions#Surprised|surprised]],\
       \ and both it and its mount have advantage on Dexterity saving throws. If the\
       \ ashen rider is reduced to 0 hit points while riding its mount, the mount is\
       \ reduced to 0 hit points as well."
@@ -106,7 +106,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
       \ a long rest. If the target's hit point maximum is reduced to 0, its body and\
       \ everything it is wearing and carrying, except for magic items, are reduced\
       \ to ash. A creature reduced to ash can't be revived by any means short of a\
-      \ [wish](Compendium/spells/wish-xphb.md) spell."
+      \ [[wish-xphb|wish]] spell."
     "name": "Reduce to Ash (Costs 3 Actions)"
 "source":
   - "MOT"

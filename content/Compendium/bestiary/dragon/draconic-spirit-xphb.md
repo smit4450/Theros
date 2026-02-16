@@ -30,9 +30,9 @@ aliases: ["Draconic Spirit"]
   - !!int "14"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "damage_resistances": "acid, cold, fire, lightning, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 12"
 "languages": "Draconic, understands the languages you know"
 "traits":

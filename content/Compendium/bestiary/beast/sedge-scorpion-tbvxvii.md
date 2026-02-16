@@ -39,16 +39,16 @@ Killed by a scorpion
   - !!int "8"
   - !!int "2"
 "speed": "10 ft."
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., passive Perception 10"
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "A creature [poisoned](Compendium/rules/conditions.md#Poisoned) by the scorpion takes 2 (1d4) poison damage each hour until cured of poison."
+  - "desc": "A creature [[conditions#Poisoned|poisoned]] by the scorpion takes 2 (1d4) poison damage each hour until cured of poison."
     "name": "Scorpion Venom"
-  - "desc": "If a creature below its race's maturity age or having a Constitution modifier of +1 or less becomes [poisoned](Compendium/rules/conditions.md#Poisoned) by the scorpion, roll a d10. On a 9 or less, the creature becomes diseased with acute pancreatitis for 5 (1d10) days or until cured of the disease. A creature with this disease must make a DC 11 Constitution saving throw every 24 hours; on a failed save, the it takes 1 acid damage."
+  - "desc": "If a creature below its race's maturity age or having a Constitution modifier of +1 or less becomes [[conditions#Poisoned|poisoned]] by the scorpion, roll a d10. On a 9 or less, the creature becomes diseased with acute pancreatitis for 5 (1d10) days or until cured of the disease. A creature with this disease must make a DC 11 Constitution saving throw every 24 hours; on a failed save, the it takes 1 acid damage."
     "name": "Dangerous to the Weak"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 20 Constitution saving throw or take 4 (1d8) poison damage and becomes [poisoned](Compendium/rules/conditions.md#Poisoned). If a target [poisoned](Compendium/rules/conditions.md#Poisoned) this way is not diseased, that target remains [poisoned](Compendium/rules/conditions.md#Poisoned) for no more than 8 hours; otherwise it remains [poisoned](Compendium/rules/conditions.md#Poisoned) until cured of poison."
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 20 Constitution saving throw or take 4 (1d8) poison damage and becomes [[conditions#Poisoned|poisoned]]. If a target [[conditions#Poisoned|poisoned]] this way is not diseased, that target remains [[conditions#Poisoned|poisoned]] for no more than 8 hours; otherwise it remains [[conditions#Poisoned|poisoned]] until cured of poison."
     "name": "Sting"
 "source":
   - "TBVXVII"

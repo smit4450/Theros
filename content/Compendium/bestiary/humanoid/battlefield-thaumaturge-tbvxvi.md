@@ -39,15 +39,15 @@ aliases: ["Battlefield Thaumaturge"]
   - "intelligence": !!int "6"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+6"
 "senses": "passive Perception 10"
 "languages": "Common, Any four languages"
 "cr": "7"
 "traits":
-  - "desc": "The thaumaturge is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following wizard spells prepared: • Cantrips (at will): [Fire Bolt](Compendium/spells/fire-bolt-xphb.md), [Light](Compendium/spells/light-xphb.md), [Mage Hand](Compendium/spells/mage-hand-xphb.md), prestidigitation • 1st level (4 slots): [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Mage Armor](Compendium/spells/mage-armor-xphb.md), [Magic Missile](Compendium/spells/magic-missile-xphb.md), shield • 2nd level (3 slots): [Misty Step](Compendium/spells/misty-step-xphb.md), suggestion • 3rd level (3 slots): [Counterspell](Compendium/spells/counterspell-xphb.md), [Fireball](Compendium/spells/fireball-xphb.md), fly • 4th level (3 slots): [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md), ice storm • 5th level (1 slot): cone of cold"
+  - "desc": "The thaumaturge is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following wizard spells prepared: • Cantrips (at will): [[fire-bolt-xphb|Fire Bolt]], [[light-xphb|Light]], [[mage-hand-xphb|Mage Hand]], prestidigitation • 1st level (4 slots): [[detect-magic-xphb|Detect Magic]], [[mage-armor-xphb|Mage Armor]], [[magic-missile-xphb|Magic Missile]], shield • 2nd level (3 slots): [[misty-step-xphb|Misty Step]], suggestion • 3rd level (3 slots): [[counterspell-xphb|Counterspell]], [[fireball-xphb|Fireball]], fly • 4th level (3 slots): [[greater-invisibility-xphb|Greater Invisibility]], ice storm • 5th level (1 slot): cone of cold"
     "name": "Spellcasting"
   - "desc": "For every creature targeted by a spell cast by a friendly creature within 30 feet of the thaumaturge (including the thaumaturge), there is a 25% chance of the caster regenerating that spell slot immediately."
     "name": "Mana-Generating Staff"
@@ -55,7 +55,7 @@ aliases: ["Battlefield Thaumaturge"]
   - "desc": "_Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning damage."
     "name": "Quarterstaff"
 "reactions":
-  - "desc": "Whenever the thaumaturge is the target of a spell, that spell's caster chooses whether following happens: - Until the beginning of the thaumaturge's next turn, the thaumaturge can't be affected or detected by spells of 6th level or lower unless it wishes to be, and it has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against all other spells and magical effects."
+  - "desc": "Whenever the thaumaturge is the target of a spell, that spell's caster chooses whether following happens: - Until the beginning of the thaumaturge's next turn, the thaumaturge can't be affected or detected by spells of 6th level or lower unless it wishes to be, and it has [[advantage-xphb|Advantage]] on saving throws against all other spells and magical effects."
     "name": "Heroic"
 "source":
   - "TBVXVI"

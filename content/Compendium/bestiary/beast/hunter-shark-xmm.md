@@ -17,7 +17,7 @@ aliases: ["Hunter Shark"]
 ![](Compendium/bestiary/beast/img/hunter-shark.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -39,9 +39,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "4"
 "speed": "5 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 12"
 "languages": ""
 "cr": "2"
@@ -49,8 +49,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The shark can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "*Melee Attack Roll:* +6 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ if the target doesn't have all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)),\
+  - "desc": "*Melee Attack Roll:* +6 (with [[advantage-xphb|Advantage]]\
+      \ if the target doesn't have all its [[hit-points-xphb|Hit Points]]),\
       \ reach 5 ft. *Hit:* 14 (3d6 + 4) Piercing damage."
     "name": "Bite"
 "source":

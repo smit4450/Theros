@@ -38,13 +38,13 @@ aliases: ["Great Hart"]
   - !!int "10"
 "speed": "60 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
+  - "desc": "If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Charge"
   - "desc": "While the hart is wearing no armor and wielding no shield, its AC includes its Wisdom modifier. In addition, a creature that hits the hart with a melee attack while within 5 feet of it takes 9 (2d8) force damage."
     "name": "Blessings of the Gods"
@@ -53,7 +53,7 @@ aliases: ["Great Hart"]
 "actions":
   - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage."
     "name": "Ram"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one [prone](Compendium/rules/conditions.md#Prone) creature. Hit: 22 (4d8 + 4) bludgeoning damage."
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one [[conditions#Prone|prone]] creature. Hit: 22 (4d8 + 4) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "TBVXVII"

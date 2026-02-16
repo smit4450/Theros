@@ -36,9 +36,9 @@ aliases: ["Strait Kraken"]
   - !!int "7"
 "speed": "0 ft., swim 120 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-"condition_immunities": "[paralyzed](Compendium/rules/conditions.md#Paralyzed), [stunned](Compendium/rules/conditions.md#Stunned)"
+"condition_immunities": "[[conditions#Paralyzed|paralyzed]], [[conditions#Stunned|stunned]]"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "14"
@@ -50,7 +50,7 @@ aliases: ["Strait Kraken"]
   - "desc": "If the kraken makes an attack action that fails against a target not fully underwater while the kraken has at least one tentacle above the surface, the kraken takes a bonus action to slap the surface of the water with that tentacle, dealing 4 (1d8) bludgeoning damage to the target. If the tentacle was grappling anything, it isn't anymore."
     "name": "Splash"
 "actions":
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (3d6 + 6) bludgeoning plus 7 (2d6) piercing damage and the target is [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 20 Strength). It can release a [grappled](Compendium/rules/conditions.md#Grappled) creature as a free action. If the kraken takes 100 or more damage to one tentacle in a single round, that tentacle falls off."
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (3d6 + 6) bludgeoning plus 7 (2d6) piercing damage and the target is [[conditions#Grappled|grappled]] (escape DC 20 Strength). It can release a [[conditions#Grappled|grappled]] creature as a free action. If the kraken takes 100 or more damage to one tentacle in a single round, that tentacle falls off."
     "name": "Tentacles"
   - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 37 (7d8 + 6) bludgeoning damage."
     "name": "Bite"

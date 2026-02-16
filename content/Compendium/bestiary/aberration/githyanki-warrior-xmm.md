@@ -23,7 +23,7 @@ Githyanki warriors use psionic abilities to augment their battle prowess.
 *Invaders from the Astral Plane*
 
 - **Habitat.** Planar (Astral Plane)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Githyanki were once an ordinary people, but the deeds of a vile mind flayer empire etched conflict on their being. Gaunt, humanlike creatures, githyanki have serrated ears and speckled skin ranging through shades of yellow, green, and brown. While some githyanki follow their own paths, many are influenced by a past that forever altered their fates.
 
@@ -68,12 +68,12 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
       \ damage plus 7 (2d6) Psychic damage."
     "name": "Psi Blade"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
-      \ and using Intelligence as the spellcasting ability:\n\n**At will:** [Mage\
-      \ Hand](Compendium/spells/mage-hand-xphb.md) (the hand is Invisible)\n\n**2/day:**\
-      \ [Nondetection](Compendium/spells/nondetection-xphb.md) (self only)"
+      \ and using Intelligence as the spellcasting ability:\n\n**At will:** [[mage-hand-xphb|Mage\
+      \ Hand]] (the hand is Invisible)\n\n**2/day:**\
+      \ [[nondetection-xphb|Nondetection]] (self only)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githyanki casts [Misty Step](Compendium/spells/misty-step-xphb.md),\
+  - "desc": "The githyanki casts [[misty-step-xphb|Misty Step]],\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (2/Day)"
 "source":

@@ -41,7 +41,7 @@ Players familiar with this monster may find the choice too simple. In order to a
   - !!int "9"
 "speed": "160 ft."
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+3"
 "damage_resistances": "fire"
 "senses": "passive Perception 10"
@@ -52,7 +52,7 @@ Players familiar with this monster may find the choice too simple. In order to a
     "name": "Goring Rush"
   - "desc": "The demolok deals double damage to objects and structures."
     "name": "Siege Monster"
-  - "desc": "If the demolok moves at least 50 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 20 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone). If the target is [prone](Compendium/rules/conditions.md#Prone), the demolok can make one stomp attack against it as a bonus action."
+  - "desc": "If the demolok moves at least 50 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 20 Strength saving throw or be knocked [[conditions#Prone|prone]]. If the target is [[conditions#Prone|prone]], the demolok can make one stomp attack against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
   - "desc": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 30 (10d4 + 5) slashing damage."
@@ -61,12 +61,12 @@ Players familiar with this monster may find the choice too simple. In order to a
     "name": "Horns"
   - "desc": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 30 (10d4 + 5) bludgeoning damage."
     "name": "Ram"
-  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one [prone](Compendium/rules/conditions.md#Prone) creature. Hit: 60 (10d10 + 5) bludgeoning damage."
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one [[conditions#Prone|prone]] creature. Hit: 60 (10d10 + 5) bludgeoning damage."
     "name": "Stomp"
   - "desc": "Melee Weapon Attack: +12 to hit, reach 20 ft., one target. Hit: 40 (10d6 + 5) bludgeoning damage."
     "name": "Tail"
 "reactions":
-  - "desc": "Immediately after initiative rolls in which the demolok participates, it demands tribute from a creature it can see. That creature may take a bonus action to present a child to the demolok. If tribute is paid: The demolok takes a bonus action to devour the child. The demolok gains a permanent +3 bonus to damage rolls and Strength and Dexterity checks, and its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) and maximum [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) are increased by 315 (30d20). If tribute isn't paid, the demolok takes a bonus action to move up to its speed and attack an object or structure."
+  - "desc": "Immediately after initiative rolls in which the demolok participates, it demands tribute from a creature it can see. That creature may take a bonus action to present a child to the demolok. If tribute is paid: The demolok takes a bonus action to devour the child. The demolok gains a permanent +3 bonus to damage rolls and Strength and Dexterity checks, and its [[hit-points-xphb|Hit Points]] and maximum [[hit-points-xphb|Hit Points]] are increased by 315 (30d20). If tribute isn't paid, the demolok takes a bonus action to move up to its speed and attack an object or structure."
     "name": "Demand Tribute"
 "source":
   - "TBVVI"

@@ -39,19 +39,19 @@ aliases: ["Pheres-Band Thunderhoof"]
 "saves":
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
-  - "name": "[Medicine](Compendium/rules/skills.md#Medicine)"
+  - "name": "[[skills#Medicine|Medicine]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Common, Sylvan"
 "cr": "2"
 "traits":
-  - "desc": "The centaur has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
+  - "desc": "The centaur has [[advantage-xphb|Advantage]] on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "If the centaur moves at least 30 feet straight toward a target and then hits it with a melee attack on the same turn, it can immediately follow that attack with a bonus action, making one attack against the target with its hooves."
     "name": "Charge"
@@ -69,7 +69,7 @@ aliases: ["Pheres-Band Thunderhoof"]
   - "desc": "Melee Weapon Attack: +7 to hit, one target. Hit: 5 (1d4 + 3) bludgeoning damage."
     "name": "Hooves"
 "reactions":
-  - "desc": "Whenever the centaur becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the centaur gains a +2 bonus to damage rolls and Strength checks, and it gains 9 (2d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "Whenever the centaur becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the centaur gains a +2 bonus to damage rolls and Strength checks, and it gains 9 (2d8) temporary [[hit-points-xphb|Hit Points]]."
     "name": "Heroic"
 "source":
   - "TBVXV"

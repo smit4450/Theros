@@ -21,7 +21,7 @@ aliases: ["Chain Devil"]
 *Devil of Pain and Control*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** [[random-magic-items-implements|Implements]]  
 
 Also known as kytons, chain devils consider themselves morbid artisans who use deception, menace, and vicious metal to coerce prisoners into betraying themselves. Many serve powerful devils, wrenching secrets from imprisoned souls using deadly, animate chains. Left to their own devices, chain devils encourage ruthless individuals to pursue forbidden magic, leading their pupils down paths to the Nine Hells.
 
@@ -59,31 +59,31 @@ Along with psychological threats and physical harm, a chain devil uses its unner
   - "wisdom": !!int "4"
 "damage_resistances": "bludgeoning, cold, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
+  \ by magical [[darkness-xphb|Darkness]]), passive\
   \ Perception 11"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "8"
 "traits":
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ smoke, and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The devil makes two Chain attacks and uses Conjure Infernal Chain."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 11 (2d6 + 4) Slashing\
-      \ damage. If the target is a Large or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14) from one of two chains, and it has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 14) from one of two chains, and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Chain"
   - "desc": "The devil conjures a fiery chain to bind a creature. *Dexterity Saving\
       \ Throw:* DC 15, one creature the devil can see within 60 feet. *Failure:* 9\
-      \ (2d4 + 4) Fire damage, and the target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ (2d4 + 4) Fire damage, and the target has the [[conditions#Restrained|Restrained]]\
       \ condition until the end of the devil's next turn, at which point the chain\
       \ disappears. If the target is Large or smaller, the devil moves the target\
       \ up to 30 feet straight toward itself. *Success:* The chain disappears."
@@ -91,7 +91,7 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 "reactions":
   - "desc": "Trigger: A creature the devil can see starts its turn within 30 feet\
       \ of the devil and can see the devil. _Response—_*Wisdom Saving Throw:* DC 15,\
-      \ the triggering creature. *Failure:* The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ the triggering creature. *Failure:* The target has the [[conditions#Frightened|Frightened]]\
       \ condition until the end of its turn. *Success:* The target is immune to this\
       \ devil's Unnerving Gaze for 24 hours."
     "name": "Unnerving Gaze"

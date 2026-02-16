@@ -22,7 +22,7 @@ Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and
 *Dragons of Decay and Despair*
 
 - **Habitat.** Swamp  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 
@@ -57,12 +57,12 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   - "dexterity": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "acid"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
@@ -76,7 +76,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
       \ damage plus 2 (1d4) Acid damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 11, each creature in a 15-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 22 (5d8) Acid damage. *Success:* Half damage."
     "name": "Acid Breath (Recharge 5-6)"
 "source":

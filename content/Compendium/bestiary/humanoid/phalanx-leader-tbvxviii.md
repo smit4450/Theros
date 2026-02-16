@@ -50,10 +50,10 @@ aliases: ["Phalanx Leader"]
     "name": "Multiattack"
   - "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft., or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Shield Bash"
 "reactions":
-  - "desc": "Whenever the phalanx leader becomes targeted by a spell, that spell's caster determines whether the following happens: - The phalanx leader speaks words of inspiration as a bonus action. It and its allies within 30 ft. of it that can hear it are affected. Until the end of combat, each gains a +1 bonus to damage rolls and Strength and Dexterity checks, and each gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "Whenever the phalanx leader becomes targeted by a spell, that spell's caster determines whether the following happens: - The phalanx leader speaks words of inspiration as a bonus action. It and its allies within 30 ft. of it that can hear it are affected. Until the end of combat, each gains a +1 bonus to damage rolls and Strength and Dexterity checks, and each gains 4 (1d8) temporary [[hit-points-xphb|Hit Points]]."
     "name": "Heroic"
 "source":
   - "TBVXVIII"

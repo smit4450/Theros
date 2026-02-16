@@ -28,7 +28,7 @@ Goblin warriors excel at causing mischief. Those in service to Maglubiyet have g
 *Wild Tricksters and Troublemakers*
 
 - **Habitat.** Forest, Grassland, Hill, Planar (Acheron), Planar (Feywild), Underdark  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
 
 Goblins are Feywild embodiments of recklessness and ruin. They delight in wreckage—the louder, the more energetic, and the more convoluted, the better. Goblin raids are often as much opportunities to enjoy setting fires and tormenting livestock as they are parts of more disruptive plots.
 
@@ -61,18 +61,18 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing\
-      \ damage, plus 2 (1d4) Slashing damage if the attack roll had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+      \ damage, plus 2 (1d4) Slashing damage if the attack roll had [[advantage-xphb|Advantage]]."
     "name": "Scimitar"
   - "desc": "*Ranged Attack Roll:* +4, range 80/320 ft. *Hit:* 5 (1d6 + 2) Piercing\
-      \ damage, plus 2 (1d4) Piercing damage if the attack roll had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+      \ damage, plus 2 (1d4) Piercing damage if the attack roll had [[advantage-xphb|Advantage]]."
     "name": "Shortbow"
 "bonus_actions":
   - "desc": "The goblin takes the Disengage or Hide action."

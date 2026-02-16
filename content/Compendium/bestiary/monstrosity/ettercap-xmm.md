@@ -20,7 +20,7 @@ aliases: ["Ettercap"]
 *Venomous Arachnid Abductor*
 
 - **Habitat.** Forest  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** [[random-magic-items-implements|Implements]]  
 
 Spiderlike hunters, ettercaps lurk in forested depths and seek prey to drag into their web-choked lairs. These vicious predators have arachnid features and hunched, bipedal frames, and they're notorious for their venomous bites and ability to shoot out webs to entrap their victims. Ettercaps often hunt in small groups alongside giant spiders and mundane spider swarms.
 
@@ -45,13 +45,13 @@ Ettercaps avoid fire, which can quickly burn through their webs and the dead tre
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+3"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": ""
 "cr": "2"
@@ -66,20 +66,20 @@ Ettercaps avoid fire, which can quickly burn through their webs and the dead tre
   - "desc": "The ettercap makes one Bite attack and one Claw attack."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing\
-      \ damage plus 2 (1d4) Poison damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ damage plus 2 (1d4) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the ettercap's next turn."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Slashing\
       \ damage."
     "name": "Claw"
   - "desc": "*Dexterity Saving Throw:* DC 12, one Large or smaller creature the ettercap\
-      \ can see within 30 feet. *Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-      \ condition until the web is destroyed (AC 10; HP 5; [Vulnerability](Compendium/rules/variant-rules/vulnerability-xphb.md)\
-      \ to Fire damage; [Immunity](Compendium/rules/variant-rules/immunity-xphb.md)\
+      \ can see within 30 feet. *Failure:* The target has the [[conditions#Restrained|Restrained]]\
+      \ condition until the web is destroyed (AC 10; HP 5; [[vulnerability-xphb|Vulnerability]]\
+      \ to Fire damage; [[immunity-xphb|Immunity]]\
       \ to Bludgeoning, Poison, and Psychic damage)."
     "name": "Web Strand (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "The ettercap pulls one creature within 30 feet of itself that is [Restrained](Compendium/rules/conditions.md#Restrained)\
+  - "desc": "The ettercap pulls one creature within 30 feet of itself that is [[conditions#Restrained|Restrained]]\
       \ by its Web Strand up to 25 feet straight toward itself."
     "name": "Reel"
 "source":

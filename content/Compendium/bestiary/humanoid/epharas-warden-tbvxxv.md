@@ -36,15 +36,15 @@ aliases: ["Ephara's Warden"]
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+4"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/4"
 "traits":
-  - "desc": "The warden is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The warden has the following cleric spells prepared: • 1st level (4 slots): [Protection From Evil And Good](Compendium/spells/protection-from-evil-and-good-xphb.md), [Sanctuary](Compendium/spells/sanctuary-xphb.md), shield of faith • 2nd level (3 slots): warding bond • 3rd level (3 slots): [Dispel Magic](Compendium/spells/dispel-magic-xphb.md), [Magic Circle](Compendium/spells/magic-circle-xphb.md), protection from energy"
+  - "desc": "The warden is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The warden has the following cleric spells prepared: • 1st level (4 slots): [[protection-from-evil-and-good-xphb|Protection From Evil And Good]], [[sanctuary-xphb|Sanctuary]], shield of faith • 2nd level (3 slots): warding bond • 3rd level (3 slots): [[dispel-magic-xphb|Dispel Magic]], [[magic-circle-xphb|Magic Circle]], protection from energy"
     "name": "Spellcasting"
 "actions":
   - "desc": "_Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 2 (1d4) piercing damage in melee, or 2 (1d4) piercing damage at range."

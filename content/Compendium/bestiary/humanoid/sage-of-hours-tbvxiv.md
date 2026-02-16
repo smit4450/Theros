@@ -39,9 +39,9 @@ aliases: ["Sage of Hours"]
   - "intelligence": !!int "3"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+7"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+7"
 "senses": "passive Perception 10"
 "languages": "Common, any seven languages"
@@ -51,10 +51,10 @@ aliases: ["Sage of Hours"]
     "name": "Extra Turn (1/Short or Long Rest)"
   - "desc": "When the sage attempts to learn or recall a piece of lore, if it does not know that information, it often knows where and from whom it can obtain that information. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature. The DM might rule that the knowledge the sage seeks is secreted away in an almost inaccessible place, or that the knowledge simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign."
     "name": "Researcher"
-  - "desc": "The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 11, +3 to hit with spell attacks). The mage has the following wizard spells prepared: • Cantrips (at will): [Fire Bolt](Compendium/spells/fire-bolt-xphb.md), [Light](Compendium/spells/light-xphb.md), [Mage Hand](Compendium/spells/mage-hand-xphb.md), prestidigitation • 1st level (4 slots): [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Mage Armor](Compendium/spells/mage-armor-xphb.md), [Magic Missile](Compendium/spells/magic-missile-xphb.md), shield • 2nd level (3 slots): [Misty Step](Compendium/spells/misty-step-xphb.md), suggestion • 3rd level (3 slots): [Counterspell](Compendium/spells/counterspell-xphb.md), [Fireball](Compendium/spells/fireball-xphb.md), fly • 4th level (3 slots): [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md), ice storm • 5th level (1 slot): cone of cold"
+  - "desc": "The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 11, +3 to hit with spell attacks). The mage has the following wizard spells prepared: • Cantrips (at will): [[fire-bolt-xphb|Fire Bolt]], [[light-xphb|Light]], [[mage-hand-xphb|Mage Hand]], prestidigitation • 1st level (4 slots): [[detect-magic-xphb|Detect Magic]], [[mage-armor-xphb|Mage Armor]], [[magic-missile-xphb|Magic Missile]], shield • 2nd level (3 slots): [[misty-step-xphb|Misty Step]], suggestion • 3rd level (3 slots): [[counterspell-xphb|Counterspell]], [[fireball-xphb|Fireball]], fly • 4th level (3 slots): [[greater-invisibility-xphb|Greater Invisibility]], ice storm • 5th level (1 slot): cone of cold"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "Whenever the sage becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the sage gains a +1 bonus to damage rolls and Intelligence checks, and it gains 4 (1d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). These bonuses are all lost if the sage uses its Extra Turn ability."
+  - "desc": "Whenever the sage becomes targeted by a spell, that spell's caster chooses whether the following happens: - Until the end of combat, the sage gains a +1 bonus to damage rolls and Intelligence checks, and it gains 4 (1d8) temporary [[hit-points-xphb|Hit Points]]. These bonuses are all lost if the sage uses its Extra Turn ability."
     "name": "Heroic"
 "source":
   - "TBVXIV"

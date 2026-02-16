@@ -21,7 +21,7 @@ aliases: ["Bone Devil"]
 *Devil of Dread and Obedience*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** [[random-magic-items-implements|Implements]]  
 
 Bone devils are gaunt, nightmarish Fiends with pallid skin stretched tight over frames that combine human and insectile features. Also known as osyluths, these Fiends command weaker devils and other beings aligned with infernal legions. Bone devils ensure that the commands of hellish sovereigns are exacted efficiently and that non-devils fulfill their commitments to the Nine Hells. They slay those who renege on infernal deals, sending treacherous mortal souls to face unspeakable punishments.
 
@@ -66,24 +66,24 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+7"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+6"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
+  \ by magical [[darkness-xphb|Darkness]]), passive\
   \ Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "9"
 "traits":
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ smoke, and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -93,9 +93,9 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
       \ damage."
     "name": "Claw"
   - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 15 (2d10 + 4) Piercing\
-      \ damage plus 18 (4d8) Poison damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ condition until the start of the devil's next turn. While [Poisoned](Compendium/rules/conditions.md#Poisoned),\
-      \ the target can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+      \ damage plus 18 (4d8) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition until the start of the devil's next turn. While [[conditions#Poisoned|Poisoned]],\
+      \ the target can't regain [[hit-points-xphb|Hit Points]]."
     "name": "Infernal Sting"
 "source":
   - "XMM"

@@ -56,9 +56,9 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 "speed": "20 ft., fly 40 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
+  \ by magical [[darkness-xphb|Darkness]]), passive\
   \ Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "2"
@@ -66,7 +66,7 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
   - "desc": "The devil doesn't provoke an Opportunity Attack when it flies out of\
       \ an enemy's reach."
     "name": "Flyby"
-  - "desc": "The devil has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

@@ -39,15 +39,15 @@ aliases: ["Ashiok's Adept"]
   - "intelligence": !!int "3"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+3"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+3"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic, Minotaur, Sylvan"
 "cr": "1"
 "traits":
-  - "desc": "The ashiok's adept is a 7th-level spellcaster. The ashiok's adept's spellcasting ability is Charisma (spell save DC 10, +2 to hit with spell attacks). The ashiok's adept has the following warlock spells prepared: 4th level (2 slots): [Fear](Compendium/spells/fear-xphb.md), _phantasmal force_"
+  - "desc": "The ashiok's adept is a 7th-level spellcaster. The ashiok's adept's spellcasting ability is Charisma (spell save DC 10, +2 to hit with spell attacks). The ashiok's adept has the following warlock spells prepared: 4th level (2 slots): [[fear-xphb|Fear]], _phantasmal force_"
     "name": "Spellcasting"
 "actions":
   - "desc": "_Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage in melee, or 4 (1d4 + 2) piercing damage at range."

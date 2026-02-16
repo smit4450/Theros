@@ -24,7 +24,7 @@ Juvenile salamanders emerge from burning hot, two-foot-diameter eggs. Called fir
 *Serpentine Artists of the Inferno*
 
 - **Habitat.** Planar (Elemental Plane of Fire), Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Salamanders are serpentine denizens of the Elemental Plane of Fire. They believe that flames expose the purest forms of all things and delight in burning and melting things, seeing fleeting beauty and striking nuances in blazes consuming different fuels—ancient forests, artistic masterpieces, or living creatures. To salamanders, those that can't endure their flames are nothing but ashes in disguise. They harbor malice toward few creatures, but they consider creating remarkable flames more important than the pain and loss their fires cause.
 
@@ -56,13 +56,13 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "speed": "30 ft., climb 30 ft."
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "understands Primordial but can't speak"
 "cr": "1"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ choice in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the salamander takes 3 (1d6) Fire damage."
     "name": "Fire Aura"
 "actions":

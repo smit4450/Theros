@@ -36,21 +36,21 @@ Clever, far-ranging people of the sea, tritons live rich lives unknown to most l
   - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+4"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "cold"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Common, Primordial"
 "cr": "2"
 "traits":
   - "desc": "The triton's spellcasting ability is Wisdom (spell save DC 12). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **1/day each:** [fog cloud](Compendium/spells/fog-cloud-xphb.md), [gust of wind](Compendium/spells/gust-of-wind-xphb.md)"
+      **1/day each:** [[fog-cloud-xphb|fog cloud]], [[gust-of-wind-xphb|gust of wind]]"
     "name": "Innate Spellcasting"
   - "desc": "The triton can breathe air and water."
     "name": "Amphibious"
@@ -62,9 +62,9 @@ Clever, far-ranging people of the sea, tritons live rich lives unknown to most l
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
       \ (1d6 + 3) piercing damage plus 10 (3d6) poison damage. If the damage reduces\
-      \ a creature to 0 hit points, that creature is stable but [poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ for 1 hour, even after regaining hit points, and is [paralyzed](Compendium/rules/conditions.md#Paralyzed)\
-      \ while [poisoned](Compendium/rules/conditions.md#Poisoned) in this way."
+      \ a creature to 0 hit points, that creature is stable but [[conditions#Poisoned|poisoned]]\
+      \ for 1 hour, even after regaining hit points, and is [[conditions#Paralyzed|paralyzed]]\
+      \ while [[conditions#Poisoned|poisoned]] in this way."
     "name": "Urchin-Spine Shortsword"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one target. *Hit:*\
       \ 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage."

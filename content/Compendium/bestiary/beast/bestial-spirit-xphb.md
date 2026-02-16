@@ -30,16 +30,16 @@ aliases: ["Bestial Spirit"]
   - !!int "5"
 "speed": "30 ft., climb 30 ft. (Land only), fly 60 ft. (Air only), swim 30 ft. (Water\
   \ only)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The spirit doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The spirit doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ when it flies out of an enemy's reach."
     "name": "Flyby (Air Only)"
   - "desc": "The spirit has Advantage on an attack roll against a creature if at least\
       \ one of the spirit's allies is within 5 feet of the creature and the ally doesn't\
-      \ have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition."
+      \ have the [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Pack Tactics (Land and Water Only)"
   - "desc": "The spirit can breathe only underwater."
     "name": "Water Breathing (Water Only)"

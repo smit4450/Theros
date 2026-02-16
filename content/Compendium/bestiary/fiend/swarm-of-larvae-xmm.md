@@ -48,23 +48,23 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
   - !!int "2"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [prone](Compendium/rules/conditions.md#Prone),\
-  \ [restrained](Compendium/rules/conditions.md#Restrained), [stunned](Compendium/rules/conditions.md#Stunned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "understands all but can't speak"
 "cr": "1"
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through an opening large enough for a Medium creature. The\
-      \ swarm can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+      \ swarm can't regain [[hit-points-xphb|Hit Points]]\
+      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 9 (2d6 + 2) Necrotic\
-      \ damage, or 7 (2d4 + 2) Necrotic damage if the swarm is [Bloodied](Compendium/rules/conditions.md#Bloodied)."
+      \ damage, or 7 (2d4 + 2) Necrotic damage if the swarm is [[conditions#Bloodied|Bloodied]]."
     "name": "Bites"
 "source":
   - "XMM"

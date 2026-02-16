@@ -48,17 +48,17 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 12"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-  - "desc": "While [Bloodied](Compendium/rules/conditions.md#Bloodied), the quaggoth\
-      \ has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack\
+  - "desc": "While [[conditions#Bloodied|Bloodied]], the quaggoth\
+      \ has [[advantage-xphb|Advantage]] on attack\
       \ rolls."
     "name": "Bloodied Fury"
 "actions":
@@ -69,13 +69,13 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
     "name": "Claw"
   - "desc": "The quaggoth casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\n**At will:**\
-      \ [Mage Hand](Compendium/spells/mage-hand-xphb.md) (the hand is Invisible),\
-      \ [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)\n\n**2/day:** [Mind\
-      \ Spike](Compendium/spells/mind-spike-xphb.md)"
+      \ [[mage-hand-xphb|Mage Hand]] (the hand is Invisible),\
+      \ [[minor-illusion-xphb|Minor Illusion]]\n\n**2/day:** [[mind-spike-xphb|Mind\
+      \ Spike]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The quaggoth casts [Feather Fall](Compendium/spells/feather-fall-xphb.md)\
-      \ or [Shield](Compendium/spells/shield-xphb.md) in response to the spell's trigger,\
+  - "desc": "The quaggoth casts [[feather-fall-xphb|Feather Fall]]\
+      \ or [[shield-xphb|Shield]] in response to the spell's trigger,\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psionic Defense (3/Day)"
 "source":

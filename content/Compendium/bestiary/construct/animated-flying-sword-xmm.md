@@ -69,11 +69,11 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "saves":
   - "dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened),\
-  \ [exhaustion](Compendium/rules/conditions.md#Exhaustion), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 7"
 "languages": ""
 "cr": "1/4"

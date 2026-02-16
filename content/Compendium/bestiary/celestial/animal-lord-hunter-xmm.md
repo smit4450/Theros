@@ -36,18 +36,18 @@ aliases: ["Animal Lord; Hunter"]
   - "constitution": !!int "11"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+13"
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+13"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+18"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+13"
 "damage_resistances": "cold, fire, necrotic, psychic, radiant"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Stunned|stunned]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 28"
 "languages": "all"
 "cr": "20"
@@ -58,11 +58,11 @@ aliases: ["Animal Lord; Hunter"]
   - "desc": "If the animal lord fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
   - "desc": "*Wisdom Saving Throw:* DC 20, any enemy that starts its turn in a 30-foot\
-      \ [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the animal lord. *Failure:* The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the animal lord. *Failure:* The target has the [[conditions#Frightened|Frightened]]\
       \ condition until the end of its next turn."
     "name": "Lordly Presence"
-  - "desc": "The animal lord has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The animal lord has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -78,18 +78,18 @@ aliases: ["Animal Lord; Hunter"]
   - "desc": "The animal lord conjures an animal spirit that strikes at a creature\
       \ and then disappears. *Dexterity Saving Throw:* DC 20, one creature the animal\
       \ lord can see within 120 feet. *Failure:* 28 (4d10 + 6) Radiant damage. *Success:*\
-      \ Half damage. *Failure or Success:* The animal lord has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ Half damage. *Failure or Success:* The animal lord has [[advantage-xphb|Advantage]]\
       \ on attack rolls against the target until the start of the animal lord's next\
       \ turn."
     "name": "Animal Spirit"
   - "desc": "The animal lord casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 20):\n\
-      \n**At will:** [Animal Friendship](Compendium/spells/animal-friendship-xphb.md),\
-      \ [Animal Messenger](Compendium/spells/animal-messenger-xphb.md), [Speak with\
-      \ Animals](Compendium/spells/speak-with-animals-xphb.md)\n\n**2/day each:**\
-      \ [Awaken](Compendium/spells/awaken-xphb.md), [Greater Restoration](Compendium/spells/greater-restoration-xphb.md)\n\
-      \n**1/day each:** [Animal Shapes](Compendium/spells/animal-shapes-xphb.md),\
-      \ [Sunburst](Compendium/spells/sunburst-xphb.md)"
+      \n**At will:** [[animal-friendship-xphb|Animal Friendship]],\
+      \ [[animal-messenger-xphb|Animal Messenger]], [[speak-with-animals-xphb|Speak with\
+      \ Animals]]\n\n**2/day each:**\
+      \ [[awaken-xphb|Awaken]], [[greater-restoration-xphb|Greater Restoration]]\n\
+      \n**1/day each:** [[animal-shapes-xphb|Animal Shapes]],\
+      \ [[sunburst-xphb|Sunburst]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The animal lord shape-shifts into a Huge or smaller version of the animal\
@@ -102,8 +102,8 @@ aliases: ["Animal Lord; Hunter"]
   \ The animal lord; hunter regains all expended uses at the start of each of its\
   \ turns."
 "legendary_actions":
-  - "desc": "The animal lord moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack),\
+  - "desc": "The animal lord moves up to its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and it makes one Rend attack."
     "name": "Feral Strike"
   - "desc": "The animal lord makes one Radiant Ray attack."

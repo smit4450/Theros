@@ -44,25 +44,25 @@ A nymph doesn't require food, drink, or sleep.
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+6"
 "damage_resistances": "radiant"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 12"
 "languages": "Common, Sylvan"
 "cr": "1"
 "traits":
   - "desc": "The alseid's spellcasting ability is Charisma (spell save DC 14). It\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**3/day each:** [cure wounds](Compendium/spells/cure-wounds-xphb.md), [charm\
-      \ person](Compendium/spells/charm-person-xphb.md), [sleep](Compendium/spells/sleep-xphb.md)\n\
-      \n**1/day each:** [calm emotions](Compendium/spells/calm-emotions-xphb.md),\
-      \ [lesser restoration](Compendium/spells/lesser-restoration-xphb.md), [plant\
-      \ growth](Compendium/spells/plant-growth-xphb.md)"
+      \n**3/day each:** [[cure-wounds-xphb|cure wounds]], [[charm-person-xphb|charm\
+      \ person]], [[sleep-xphb|sleep]]\n\
+      \n**1/day each:** [[calm-emotions-xphb|calm emotions]],\
+      \ [[lesser-restoration-xphb|lesser restoration]], [[plant-growth-xphb|plant\
+      \ growth]]"
     "name": "Innate Spellcasting"
-  - "desc": "The alseid has advantage on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth))\
+  - "desc": "The alseid has advantage on Dexterity ([[skills#Stealth|Stealth]])\
       \ checks made to hide while it is in grassland."
     "name": "Hide in Plain Sight"
   - "desc": "The alseid has advantage on saving throws against spells and other magical\

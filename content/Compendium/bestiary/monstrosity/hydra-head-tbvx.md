@@ -35,9 +35,9 @@ The hydra is a reptilian horror with a crocodilian body and multiple heads on lo
   - !!int "7"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "actions":

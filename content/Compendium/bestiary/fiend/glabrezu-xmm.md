@@ -21,7 +21,7 @@ aliases: ["Glabrezu"]
 *Demon of Delusion and Entrapment*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Glabrezus embody delusion and predatory guile. These cunning demons know the most effective traps are those that individuals devise for themselves. Despite having massive claws and overwhelming physicality, glabrezus excel at using flattery and misdirection to coerce victims into isolating themselves and harming others.
 
@@ -55,42 +55,42 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 17"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "9"
 "traits":
   - "desc": "If the glabrezu dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The glabrezu has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The glabrezu has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The glabrezu makes two Pincer attacks and uses Pummel or Spellcasting."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +9, reach 10 ft. *Hit:* 16 (2d10 + 5) Slashing\
-      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 15) from one of two pincers."
     "name": "Pincer"
-  - "desc": "*Dexterity Saving Throw:* DC 17, one creature [Grappled](Compendium/rules/conditions.md#Grappled)\
+  - "desc": "*Dexterity Saving Throw:* DC 17, one creature [[conditions#Grappled|Grappled]]\
       \ by the glabrezu. *Failure:* 15 (3d6 + 5) Bludgeoning damage. *Success:*\
       \ Half damage."
     "name": "Pummel"
   - "desc": "The glabrezu casts one of the following spells, requiring no Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\n**At will:** [Darkness](Compendium/spells/darkness-xphb.md), [Detect\
-      \ Magic](Compendium/spells/detect-magic-xphb.md), [Dispel Magic](Compendium/spells/dispel-magic-xphb.md)\n\
-      \n**1/day each:** [Confusion](Compendium/spells/confusion-xphb.md), [Fly](Compendium/spells/fly-xphb.md),\
-      \ [Power Word Stun](Compendium/spells/power-word-stun-xphb.md)"
+      \ DC 16):\n\n**At will:** [[darkness-xphb|Darkness]], [[detect-magic-xphb|Detect\
+      \ Magic]], [[dispel-magic-xphb|Dispel Magic]]\n\
+      \n**1/day each:** [[confusion-xphb|Confusion]], [[fly-xphb|Fly]],\
+      \ [[power-word-stun-xphb|Power Word Stun]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

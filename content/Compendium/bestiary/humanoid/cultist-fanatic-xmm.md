@@ -22,7 +22,7 @@ Cultist fanatics lead small cults or cells within larger cults. They're privy to
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -92,11 +92,11 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+3"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+3"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common"
@@ -107,12 +107,12 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Pact Blade"
   - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
       \ ability (spell save DC 12, +4 to hit with spell attacks):\n\n**At will:**\
-      \ [Light](Compendium/spells/light-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-      \n**2/day:** [Command](Compendium/spells/command-xphb.md)\n\n**1/day:** [Hold\
-      \ Person](Compendium/spells/hold-person-xphb.md)"
+      \ [[light-xphb|Light]], [[thaumaturgy-xphb|Thaumaturgy]]\n\
+      \n**2/day:** [[command-xphb|Command]]\n\n**1/day:** [[hold-person-xphb|Hold\
+      \ Person]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The cultist casts the [Spiritual Weapon](Compendium/spells/spiritual-weapon-xphb.md)\
+  - "desc": "The cultist casts the [[spiritual-weapon-xphb|Spiritual Weapon]]\
       \ spell, using the same spellcasting ability as Spellcasting.\n"
     "name": "Spiritual Weapon (2/Day)"
 "source":

@@ -28,7 +28,7 @@ aliases: ["Giant Insect (Wasp)"]
   - !!int "14"
   - !!int "3"
 "speed": "40 ft., climb 40 ft., fly 40 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "understands the languages you know"
 "traits":

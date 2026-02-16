@@ -38,17 +38,17 @@ Disciples of Phenax perform a ritual in which the name of a hated person is writ
 "saves":
   - "dexterity": !!int "2"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+3"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common, Any one language"
 "cr": "1/2"
 "traits":
-  - "desc": "The disciple's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [Light](Compendium/spells/light-xphb.md), [Sacred Flame](Compendium/spells/sacred-flame-xphb.md) 3/day: [Bless](Compendium/spells/bless-xphb.md), [Cure Wounds](Compendium/spells/cure-wounds-xphb.md), [Sanctuary](Compendium/spells/sanctuary-xphb.md)"
+  - "desc": "The disciple's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [[light-xphb|Light]], [[sacred-flame-xphb|Sacred Flame]] 3/day: [[bless-xphb|Bless]], [[cure-wounds-xphb|Cure Wounds]], [[sanctuary-xphb|Sanctuary]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "_Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage."

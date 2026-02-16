@@ -21,7 +21,7 @@ aliases: ["Aboleth"]
 *Ageless Alien Mastermind*
 
 - **Habitat.** Underdark, Underwater  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 In aquatic abysses, aboleths dream of dead empires and orchestrate plots that unfold across ages. These elusive, amphibious immortals physically and mentally overwhelm their victims and transform creatures with a slimy, aberrant infection, reshaping other beings to serve them beneath the waves.
 
@@ -71,11 +71,11 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
   - "intelligence": !!int "8"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+12"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+10"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 20"
 "languages": "Deep Speech; telepathy 120 ft."
 "cr": "10"
@@ -83,16 +83,16 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
   - "desc": "The aboleth can breathe air and water."
     "name": "Amphibious"
   - "desc": "If destroyed, the aboleth gains a new body in 5d10 days, reviving with\
-      \ all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) in\
+      \ all its [[hit-points-xphb|Hit Points]] in\
       \ the Far Realm or another location chosen by the DM."
     "name": "Eldritch Restoration"
   - "desc": "If the aboleth fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
   - "desc": "While underwater, the aboleth is surrounded by mucus. *Constitution Saving\
-      \ Throw:* DC 14, each creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ Throw:* DC 14, each creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the aboleth at the end of the aboleth's turn. *Failure:*\
       \ The target is cursed. Until the curse ends, the target's skin becomes slimy,\
-      \ the target can breathe air and water, and it can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ the target can breathe air and water, and it can't regain [[hit-points-xphb|Hit Points]]\
       \ unless it is underwater.\n\nWhile the cursed creature is outside a body of\
       \ water, the creature takes 6 (1d12) Acid damage at the end of every 10 minutes\
       \ unless moisture is applied to its skin before those minutes have passed."
@@ -105,20 +105,20 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
       \ or Dominate Mind if available."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +9, reach 15 ft. *Hit:* 12 (2d6 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 14) from one of four tentacles."
     "name": "Tentacle"
   - "desc": "*Intelligence Saving Throw:* DC 16, one creature within 30 feet that\
-      \ is [Charmed](Compendium/rules/conditions.md#Charmed) or [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ is [[conditions#Charmed|Charmed]] or [[conditions#Grappled|Grappled]]\
       \ by the aboleth. *Failure:* 10 (3d6) Psychic damage. *Success:* Half damage.\
       \ *Failure or Success:* The aboleth gains the target's memories if the target\
-      \ is a Humanoid and is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ is a Humanoid and is reduced to 0 [[hit-points-xphb|Hit Points]]\
       \ by this action."
     "name": "Consume Memories"
   - "desc": "*Wisdom Saving Throw:* DC 16, one creature the aboleth can see within\
-      \ 30 feet. *Failure:* The target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ 30 feet. *Failure:* The target has the [[conditions#Charmed|Charmed]]\
       \ condition until the aboleth dies or is on a different plane of existence from\
-      \ the target. While [Charmed](Compendium/rules/conditions.md#Charmed), the target\
+      \ the target. While [[conditions#Charmed|Charmed]], the target\
       \ acts as an ally to the aboleth and is under its control while within 60 feet\
       \ of it. In addition, the aboleth and the target can communicate telepathically\
       \ with each other over any distance.\n\nThe target repeats the save whenever\
@@ -130,9 +130,9 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
       \ following effects:\n\n- **Foul Water.** Water sources within 1 mile of the\
       \ lair are supernaturally fouled. Creatures other than the aboleth and its allies\
       \ that drink such water must succeed on a DC 15 Constitution saving throw or\
-      \ have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for\
+      \ have the [[conditions#Poisoned|Poisoned]] condition for\
       \ 1 hour.  \n- **Psionic Projection.** While in its lair, the aboleth can cast\
-      \ [Project Image](Compendium/spells/project-image-xphb.md), requiring no spell\
+      \ [[project-image-xphb|Project Image]], requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
       \ DC 16). When casting the spell this way, the spell's range is 1 mile, and\
       \ the aboleth can use its telepathy as if it were in the illusion's space. \
@@ -144,9 +144,9 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
 "legendary_actions":
   - "desc": "The aboleth makes one Tentacle attack."
     "name": "Lash"
-  - "desc": "If the aboleth has at least one creature [Charmed](Compendium/rules/conditions.md#Charmed)\
-      \ or [Grappled](Compendium/rules/conditions.md#Grappled), it uses Consume Memories\
-      \ and regains 5 (1d10) [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "If the aboleth has at least one creature [[conditions#Charmed|Charmed]]\
+      \ or [[conditions#Grappled|Grappled]], it uses Consume Memories\
+      \ and regains 5 (1d10) [[hit-points-xphb|Hit Points]]."
     "name": "Psychic Drain"
 "source":
   - "XMM"

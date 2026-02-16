@@ -62,7 +62,7 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
   - !!int "12"
   - !!int "8"
 "speed": "30 ft., fly 50 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "Common"
 "cr": "3"

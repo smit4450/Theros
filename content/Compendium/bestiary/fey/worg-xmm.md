@@ -49,16 +49,16 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
   - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Goblin, Worg"
 "cr": "1/2"
 "actions":
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing\
       \ damage, and the next attack roll made against the target before the start\
-      \ of the worg's next turn has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+      \ of the worg's next turn has [[advantage-xphb|Advantage]]."
     "name": "Bite"
 "source":
   - "XMM"

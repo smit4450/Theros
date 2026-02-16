@@ -26,7 +26,7 @@ Bugbear warriors serve those who offer them treasure, food, or the chance to hun
 *Lurking Goblinoid Brutes*
 
 - **Habitat.** Forest, Grassland, Planar (Feywild), Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Bugbears embody fear of the wilds and the menace of natural places. They're notoriously stealthy, and foes that venture into their territories often vanish without a trace.
 ## Statblock
@@ -50,11 +50,11 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+2"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common, Goblin"
 "cr": "1"
@@ -63,11 +63,11 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
     "name": "Abduct"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 10 ft. *Hit:* 9 (2d6 + 2) Bludgeoning\
-      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 12)."
     "name": "Grab"
-  - "desc": "*Melee  or Ranged Attack Roll:* +4 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](Compendium/rules/conditions.md#Grappled) by the\
+  - "desc": "*Melee  or Ranged Attack Roll:* +4 (with [[advantage-xphb|Advantage]]\
+      \ if the target is [[conditions#Grappled|Grappled]] by the\
       \ bugbear), reach 10 ft. or range 20/60 ft. *Hit:* 9 (3d4 + 2) Bludgeoning\
       \ damage."
     "name": "Light Hammer"

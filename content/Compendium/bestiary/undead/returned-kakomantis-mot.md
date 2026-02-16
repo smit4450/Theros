@@ -38,15 +38,15 @@ Returned reenter the world blank and undead. No longer possessing the ability to
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+5"
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+2"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "4"
@@ -58,7 +58,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
       \ undead."
     "name": "Turn Resistance"
   - "desc": "The Returned is immune to any effect that would sense its emotions or\
-      \ read its thoughts. Wisdom ([Insight](Compendium/rules/skills.md#Insight))\
+      \ read its thoughts. Wisdom ([[skills#Insight|Insight]])\
       \ checks to ascertain the Returned's intentions or sincerity are made with disadvantage."
     "name": "Unreadable Face"
 "actions":

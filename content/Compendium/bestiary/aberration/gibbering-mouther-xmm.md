@@ -59,35 +59,35 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
   - !!int "10"
   - !!int "6"
 "speed": "20 ft., swim 20 ft."
-"condition_immunities": "[prone](Compendium/rules/conditions.md#Prone)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Prone|prone]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The ground in a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the mouther is [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md)."
+  - "desc": "The ground in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the mouther is [[difficult-terrain-xphb|Difficult Terrain]]."
     "name": "Aberrant Ground"
-  - "desc": "The mouther babbles incoherently while it doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+  - "desc": "The mouther babbles incoherently while it doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. *Wisdom Saving Throw:* DC 10, any creature that starts its turn\
       \ within 20 feet of the mouther while it is babbling. *Failure:* The target\
       \ rolls 1d8 to determine what it does during the current turn:\n\n- **1-4.**\
-      \ The target does nothing.  \n- **5-6.** The target takes no action or [Bonus\
-      \ Action](Compendium/rules/variant-rules/bonus-action-xphb.md) and uses all\
+      \ The target does nothing.  \n- **5-6.** The target takes no action or [[bonus-action-xphb|Bonus\
+      \ Action]] and uses all\
       \ its movement to move in a random direction.  \n- **7-8.** The target makes\
       \ a melee attack against a randomly determined creature within its reach or\
       \ does nothing if it can't make such an attack.  "
     "name": "Gibbering"
 "actions":
   - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 7 (2d6) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
-      \ condition. The target dies if it is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ condition. The target dies if it is reduced to 0 [[hit-points-xphb|Hit Points]]\
       \ by this attack. Its body is then absorbed into the mouther, leaving only equipment\
       \ behind."
     "name": "Bite"
-  - "desc": "*Dexterity Saving Throw:* DC 10, each creature in a 10-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+  - "desc": "*Dexterity Saving Throw:* DC 10, each creature in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point within 30 feet. *Failure:* 7 (2d6) Radiant damage, and\
-      \ the target has the [Blinded](Compendium/rules/conditions.md#Blinded) condition\
+      \ the target has the [[conditions#Blinded|Blinded]] condition\
       \ until the end of the mouther's next turn."
     "name": "Blinding Spittle (Recharge 5-6)"
 "source":

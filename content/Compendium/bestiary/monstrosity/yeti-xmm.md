@@ -52,17 +52,17 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "cold"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": "Yeti"
 "cr": "3"
 "traits":
-  - "desc": "If the yeti takes Fire damage, it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "If the yeti takes Fire damage, it has [[disadvantage-xphb|Disadvantage]]\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Fear of Fire"
 "actions":
@@ -76,8 +76,8 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
       \ damage plus 2 (1d4) Cold damage."
     "name": "Ice Throw"
   - "desc": "*Constitution Saving Throw:* DC 13, one creature the yeti can see within\
-      \ 30 feet. *Failure:* 5 (2d4) Cold damage, and the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
-      \ condition until the start of the yeti's next turn unless the target has [Immunity](Compendium/rules/variant-rules/immunity-xphb.md)\
+      \ 30 feet. *Failure:* 5 (2d4) Cold damage, and the target has the [[conditions#Paralyzed|Paralyzed]]\
+      \ condition until the start of the yeti's next turn unless the target has [[immunity-xphb|Immunity]]\
       \ to Cold damage. *Success:* The target is immune to the Chilling Gaze of all\
       \ yetis (but not abominable yetis) for 1 hour."
     "name": "Chilling Gaze"

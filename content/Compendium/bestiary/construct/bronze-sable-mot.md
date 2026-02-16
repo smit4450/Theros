@@ -40,13 +40,13 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
   - !!int "1"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 12"
 "languages": "understands one language of its creator but can't speak"
 "cr": "1"
@@ -56,7 +56,7 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
     "name": "False Appearance"
   - "desc": "The sable has advantage on an attack roll against a creature if at least\
       \ one of the sable's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+      \ [[conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
   - "desc": "If the sable surprises a creature and hits it with an attack during the\
       \ first round of combat, the target takes an extra 10 (3d6) damage from the\

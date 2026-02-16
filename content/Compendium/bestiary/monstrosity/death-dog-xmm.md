@@ -24,7 +24,7 @@ aliases: ["Death Dog"]
 
 Death dogs are plagues on the arid lands they inhabit. These vicious, two-headed canines ambush creatures they perceive as weaker than themselves, favoring the wounded or infirm. They attack recklessly, infecting as many creatures as possible with their diseased jaws. If driven off, death dogs linger close to their victims, letting infection weaken their prey before they attack again.
 
-Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition from a death dog's Bite.
+Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [[conditions#Poisoned|Poisoned]] condition from a death dog's Bite.
 
 > [!quote] A quote from Tablet Fragment  
 > 
@@ -59,14 +59,14 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 15"
 "languages": ""
 "cr": "1"
@@ -75,13 +75,13 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing\
       \ damage. If the target is a creature, it is subjected to the following effect.\
-      \ *Constitution Saving Throw:* DC 12. *1St Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ condition. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the\
-      \ target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
-      \ doesn't return to normal when finishing a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
+      \ *Constitution Saving Throw:* DC 12. *1St Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition. While [[conditions#Poisoned|Poisoned]], the\
+      \ target's [[hit-points-xphb|Hit Point]] maximum\
+      \ doesn't return to normal when finishing a [[long-rest-xphb|Long Rest]],\
       \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
-      \ on a success. Subsequent Failures: The [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
+      \ on a success. Subsequent Failures: The [[conditions#Poisoned|Poisoned]]\
+      \ target's [[hit-points-xphb|Hit Point]] maximum\
       \ decreases by 5 (1d10)."
     "name": "Bite"
 "source":

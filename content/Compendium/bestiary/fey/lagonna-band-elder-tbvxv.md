@@ -39,13 +39,13 @@ aliases: ["Lagonna-Band Elder"]
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+2"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+4"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+3"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Sylvan, Common"
@@ -55,7 +55,7 @@ aliases: ["Lagonna-Band Elder"]
     "name": "Charge"
   - "desc": "The centaur counts as one size larger when determining its carrying capacity and the weight it can push or drag. In addition, any climb that requires hands and feet is especially difficult for it because of its equine legs. When it makes such a climb, each foot of movement costs it 4 extra feet instead of the normal 1 extra foot."
     "name": "Equine Build"
-  - "desc": "At the start of combat, if the centaur can detect a friendly spell within 30 feet of itself, it gains 3d8 temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) until the end of combat."
+  - "desc": "At the start of combat, if the centaur can detect a friendly spell within 30 feet of itself, it gains 3d8 temporary [[hit-points-xphb|Hit Points]] until the end of combat."
     "name": "Motivated by Magic"
 "actions":
   - "desc": "Melee Weapon Attack: one target. Hit: 5 (1d4 + 3) bludgeoning damage."

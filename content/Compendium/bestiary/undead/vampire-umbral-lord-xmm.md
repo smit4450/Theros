@@ -75,36 +75,36 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "wisdom": !!int "8"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+13"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+9"
 "damage_immunities": "cold, necrotic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]]"
+"senses": "[[senses#Blindsight|Blindsight]] 120 ft., passive Perception\
   \ 23"
 "languages": "Common plus three other languages"
 "cr": "15"
 "traits":
   - "desc": "If the vampire fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "If the vampire drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+  - "desc": "If the vampire drops to 0 [[hit-points-xphb|Hit Points]]\
       \ outside its resting place, it teleports into its resting place unless it is\
       \ in running water or sunlight. If it can't teleport, it is destroyed. Once\
-      \ inside its resting place, it has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
-      \ condition for 1 hour, after which it regains 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)."
+      \ inside its resting place, it has the [[conditions#Paralyzed|Paralyzed]]\
+      \ condition for 1 hour, after which it regains 1 [[hit-points-xphb|Hit Point]]."
     "name": "Shadow Escape"
   - "desc": "The vampire has these weaknesses:\n\n- **Forbiddance.** The vampire can't\
       \ enter a residence without an invitation from an occupant.  \n- **Running Water.**\
       \ The vampire takes 20 Acid damage if it ends its turn in running water.  \n\
       - **Stake to the Heart.** If a weapon that deals Piercing damage is driven into\
-      \ the vampire's heart while the vampire has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
-      \ condition in its resting place, the vampire has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
+      \ the vampire's heart while the vampire has the [[conditions#Incapacitated|Incapacitated]]\
+      \ condition in its resting place, the vampire has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition until the weapon is removed.  \n- **Sunlight.** The vampire takes\
       \ 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it\
-      \ has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on\
+      \ has [[disadvantage-xphb|Disadvantage]] on\
       \ attack rolls and ability checks.  "
     "name": "Vampire Weakness"
 "actions":
@@ -115,32 +115,32 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ damage plus 13 (3d8) Necrotic damage."
     "name": "Grave Strike"
   - "desc": "*Ranged Attack Roll:* +10, range 120 ft. *Hit:* 16 (2d10 + 5) Necrotic\
-      \ damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the vampire's next turn."
     "name": "Sickening Ray"
-  - "desc": "The vampire casts [Hunger of Hadar](Compendium/spells/hunger-of-hadar-xphb.md)\
+  - "desc": "The vampire casts [[hunger-of-hadar-xphb|Hunger of Hadar]]\
       \ (level 5 version), requiring no spell components and using Charisma as the\
       \ spellcasting ability (spell save DC 18).\n"
     "name": "Hunger of Hadar (Recharge 5-6)"
 "bonus_actions":
   - "desc": "*Constitution Saving Throw:* DC 18, one creature the vampire can see\
       \ within 30 feet that isn't a Construct or an Undead. *Failure:* 14 (4d6)\
-      \ Necrotic damage. The target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ Necrotic damage. The target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the damage taken, and the vampire\
-      \ regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal\
+      \ regains [[hit-points-xphb|Hit Points]] equal\
       \ to that amount."
     "name": "Sanguine Drain"
 "regional_effects":
   - "desc": "The region containing a vampire's lair is warped by its presence, creating\
       \ the following effects:\n\n- **Children of the Night.** The vampire exerts\
       \ influence over the animals in its domain. From dusk until dawn, Medium or\
-      \ smaller Beasts have the [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ smaller Beasts have the [[conditions#Charmed|Charmed]]\
       \ condition while within 1 mile of the lair.  \n- **Looming Shadows.** Shadows\
       \ within 1 mile of the lair seem to move as if alive. Any creature (excluding\
-      \ the vampire and its allies) that finishes a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md)\
+      \ the vampire and its allies) that finishes a [[short-rest-xphb|Short Rest]]\
       \ while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw\
       \ or gain no benefit from that rest.  \n- **Mists.** The area within 1 mile\
-      \ of the lair is [Lightly Obscured](Compendium/rules/variant-rules/lightly-obscured-xphb.md)\
+      \ of the lair is [[lightly-obscured-xphb|Lightly Obscured]]\
       \ by a persistent, creeping fog. The vampire and any creatures of its choice\
       \ are unaffected by the fog.  \n\nIf the vampire dies or moves its lair elsewhere,\
       \ these effects end immediately."
@@ -150,10 +150,10 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   \ of the following actions. The vampire umbral lord regains all expended uses at\
   \ the start of each of its turns."
 "legendary_actions":
-  - "desc": "The vampire moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "The vampire moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Grave Strike or Sickening Ray attack."
     "name": "Umbral Strike"
-  - "desc": "The vampire casts [Command](Compendium/spells/command-xphb.md), requiring\
+  - "desc": "The vampire casts [[command-xphb|Command]], requiring\
       \ no spell components and using Charisma as the spellcasting ability (spell\
       \ save DC 18). The vampire can't take this action again until the start of its\
       \ next turn.\n"

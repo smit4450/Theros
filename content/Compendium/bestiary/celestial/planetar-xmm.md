@@ -21,7 +21,7 @@ aliases: ["Planetar"]
 *Righteously Wrathful Angelic Warrior*
 
 - **Habitat.** Planar (Upper Planes)  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Planetars deliver the punishment of righteous gods. These angels innately know truth from lies, and they use magic and blessed weapons to protect the just and root out wickedness across the Multiverse.
 
@@ -62,12 +62,12 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "wisdom": !!int "11"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 21"
 "languages": "all; telepathy 120 ft."
 "cr": "16"
@@ -75,10 +75,10 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "desc": "The planetar knows if it hears a lie."
     "name": "Divine Awareness"
   - "desc": "If the planetar dies outside Mount Celestia, its body disappears, and\
-      \ it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in Mount Celestia."
     "name": "Exalted Restoration"
-  - "desc": "The planetar has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The planetar has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -87,21 +87,21 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "desc": "*Melee Attack Roll:* +12, reach 10 ft. *Hit:* 14 (2d6 + 7) Slashing\
       \ damage plus 18 (4d8) Radiant damage."
     "name": "Radiant Sword"
-  - "desc": "*Dexterity Saving Throw:* DC 20, each enemy in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+  - "desc": "*Dexterity Saving Throw:* DC 20, each enemy in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point the planetar can see within 120 feet. *Failure:* 24 (7d6)\
       \ Radiant damage. *Success:* Half damage."
     "name": "Holy Burst"
   - "desc": "The planetar casts one of the following spells, requiring no Material\
       \ components and using Charisma as spellcasting ability (spell save DC 20):\n\
-      \n**At will:** [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md)\n\
-      \n**1/day each:** [Commune](Compendium/spells/commune-xphb.md), [Control Weather](Compendium/spells/control-weather-xphb.md),\
-      \ [Dispel Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md), [Raise\
-      \ Dead](Compendium/spells/raise-dead-xphb.md)"
+      \n**At will:** [[detect-evil-and-good-xphb|Detect Evil and Good]]\n\
+      \n**1/day each:** [[commune-xphb|Commune]], [[control-weather-xphb|Control Weather]],\
+      \ [[dispel-evil-and-good-xphb|Dispel Evil and Good]], [[raise-dead-xphb|Raise\
+      \ Dead]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The planetar casts [Cure Wounds](Compendium/spells/cure-wounds-xphb.md),\
-      \ [Invisibility](Compendium/spells/invisibility-xphb.md), [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md),\
-      \ or [Remove Curse](Compendium/spells/remove-curse-xphb.md), using the same\
+  - "desc": "The planetar casts [[cure-wounds-xphb|Cure Wounds]],\
+      \ [[invisibility-xphb|Invisibility]], [[lesser-restoration-xphb|Lesser Restoration]],\
+      \ or [[remove-curse-xphb|Remove Curse]], using the same\
       \ spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":

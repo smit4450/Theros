@@ -22,7 +22,7 @@ Young copper dragons forge strong connections with a community or group of frien
 *Dragons of Curiosity and Community*
 
 - **Habitat.** Hill  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Relentlessly friendly and curious, most copper dragons view the world as a place of endless wonder and possibility. These gregarious dragons are fonts of patience, hospitality, and humor, and they seek to improve the lives—or, at least, the mood—of those they interact with. If forced to fight to defend themselves or their friends, these dragons favor using their slowing breath and physical attacks to subdue antagonists. Only in cases of extreme peril or emotion do they use their deadly acid breath.
 
@@ -55,14 +55,14 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "acid"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "7"
@@ -74,12 +74,12 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
       \ damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 14, each creature in a 40-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 40 (9d8) Acid damage. *Success:* Half damage."
     "name": "Acid Breath (Recharge 5-6)"
-  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target can't take Reactions; its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ is halved; and it can take either an action or a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md)\
+  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *Failure:* The target can't take Reactions; its [[speed-xphb|Speed]]\
+      \ is halved; and it can take either an action or a [[bonus-action-xphb|Bonus Action]]\
       \ on its turn, not both. This effect lasts until the end of its next turn."
     "name": "Slowing Breath"
 "source":

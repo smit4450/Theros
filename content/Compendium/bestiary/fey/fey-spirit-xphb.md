@@ -29,8 +29,8 @@ aliases: ["Fey Spirit"]
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":
@@ -46,7 +46,7 @@ aliases: ["Fey Spirit"]
       \ mood:\n\n- **Fuming.** The spirit has Advantage on the next attack roll it\
       \ makes before the end of this turn.  \n- **Mirthful.** *Wisdom Saving Throw:*\
       \ DC equals your spell save DC, one creature the spirit can see within 10 feet\
-      \ of itself. *Failure:* The target is [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ of itself. *Failure:* The target is [[conditions#Charmed|Charmed]]\
       \ by you and the spirit for 1 minute or until the target takes any damage. \
       \ \n- **Tricksy.** The spirit fills a 10-foot Cube within 5 feet of it with\
       \ magical Darkness, which lasts until the end of its next turn.  "

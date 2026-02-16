@@ -27,7 +27,7 @@ Hezrous compose the bulk of many demonic hordes. In croaking, reeking throngs, t
 
 Hezrous serve more powerful demons, such as nalfeshnees and mariliths. They take the abuse and intimidation of these deadlier demons and pass it on to droves of weaker dretches and manes. This predictable brutality makes hezrous useful links in the chaotic structure of a demonic horde.
 
-When on the Material Plane or otherwise left to their own devices, hezrous recklessly indulge in destructive, short-sighted rampages. Only magic and threats from more powerful masters can curb these demons' outrages and compel hezrous to pursue greater plots. Powerful spellcasters often use sinister coercions, spells like [Magic Circle](Compendium/spells/magic-circle-xphb.md) and [Planar Binding](Compendium/spells/planar-binding-xphb.md), or other magic to force hezrous to serve them. Roll on or choose a result from the Demonic Undertakings table to inspire how a magic-user might employ a hezrou or similar demon.
+When on the Material Plane or otherwise left to their own devices, hezrous recklessly indulge in destructive, short-sighted rampages. Only magic and threats from more powerful masters can curb these demons' outrages and compel hezrous to pursue greater plots. Powerful spellcasters often use sinister coercions, spells like [[magic-circle-xphb|Magic Circle]] and [[planar-binding-xphb|Planar Binding]], or other magic to force hezrous to serve them. Roll on or choose a result from the Demonic Undertakings table to inspire how a magic-user might employ a hezrou or similar demon.
 
 **Demonic Undertakings**
 
@@ -64,22 +64,22 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
   - "wisdom": !!int "4"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "8"
 "traits":
   - "desc": "If the hezrou dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The hezrou has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The hezrou has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "*Constitution Saving Throw:* DC 16, any creature that starts its turn\
-      \ in a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the hezrou. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the hezrou. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn."
     "name": "Stench"
 "actions":

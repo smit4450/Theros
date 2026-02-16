@@ -45,13 +45,13 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
   - !!int "4"
 "speed": "30 ft., burrow 20 ft."
 "damage_immunities": "cold, fire"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., Tremorsense\
   \ 60 ft., passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the remorhaz's turns, each creature in a 5-foot\
-      \ [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the remorhaz takes 11 (2d10) Fire damage."
     "name": "Heat Aura"
 "actions":

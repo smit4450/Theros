@@ -22,7 +22,7 @@ Performer legends are celebrities known across nations, continents, or worlds. T
 *Artists and Entertainers*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
 
 From royal courts to village squares, skilled entertainers hone their talents and delight audiences. Some travel far, sharing tales and demonstrating mysterious arts. Others serve in the courts and theaters of great nations, cultivating celebrity and navigating the whims of patrons. Many hone professional secrets and magical flourishes, striving to make their performances truly unforgettable.
 
@@ -117,15 +117,15 @@ Wrestler
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+13"
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+13"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+9"
 "senses": "passive Perception 17"
 "languages": "Common plus two other languages"
@@ -136,23 +136,23 @@ Wrestler
   - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 10 (2d4 + 5) Bludgeoning\
       \ damage plus 10 (3d6) Psychic damage."
     "name": "Bejeweled Baton"
-  - "desc": "*Wisdom Saving Throw:* DC 17, each creature in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 17, each creature in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point within 120 feet. *Failure:* 22 (4d8 + 4) Psychic damage,\
-      \ and the target has the [Charmed](Compendium/rules/conditions.md#Charmed) or\
-      \ [Frightened](Compendium/rules/conditions.md#Frightened) condition (performer's\
+      \ and the target has the [[conditions#Charmed|Charmed]] or\
+      \ [[conditions#Frightened|Frightened]] condition (performer's\
       \ choice) until the end of the performer's next turn. *Success:* Half damage\
       \ only."
     "name": "Majestic Song"
   - "desc": "The performer casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md),\
-      \ [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\n**1/day\
-      \ each:** [Major Image](Compendium/spells/major-image-xphb.md), [Project Image](Compendium/spells/project-image-xphb.md)"
+      \n**At will:** [[mage-hand-xphb|Mage Hand]], [[minor-illusion-xphb|Minor Illusion]],\
+      \ [[prestidigitation-xphb|Prestidigitation]]\n\n**1/day\
+      \ each:** [[major-image-xphb|Major Image]], [[project-image-xphb|Project Image]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: A creature hits the performer with an attack roll. _Response—\
       _*Wisdom Saving Throw:* DC 17, the triggering creature. *Failure:* The attack\
-      \ roll misses the performer, and the target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ roll misses the performer, and the target has the [[conditions#Charmed|Charmed]]\
       \ condition until the end of the performer's next turn."
     "name": "Warding Charm"
 "source":

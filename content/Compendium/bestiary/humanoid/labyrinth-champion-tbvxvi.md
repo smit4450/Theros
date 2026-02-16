@@ -39,17 +39,17 @@ aliases: ["Labyrinth Champion"]
 "saves":
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Common, any two languages"
 "cr": "4"
 "traits":
-  - "desc": "The champion has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
+  - "desc": "The champion has [[advantage-xphb|Advantage]] on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "The champion's attack rolls score a critical hit on a roll of 19 or 20 on the d20."
     "name": "Improved Critical"

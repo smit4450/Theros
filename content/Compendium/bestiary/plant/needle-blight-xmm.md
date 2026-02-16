@@ -49,8 +49,8 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "8"
   - !!int "3"
 "speed": "30 ft."
-"condition_immunities": "[deafened](Compendium/rules/conditions.md#Deafened)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Deafened|deafened]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 9"
 "languages": "understands Common but can't speak"
 "cr": "1/4"

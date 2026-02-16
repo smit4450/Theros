@@ -44,25 +44,25 @@ Magmins might be conjured by magic-users to harry foes or might escape the Eleme
   - !!int "10"
 "speed": "30 ft."
 "damage_immunities": "fire"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Primordial (Ignan)"
 "cr": "1/2"
 "traits":
   - "desc": "The magmin explodes when it dies. *Dexterity Saving Throw:* DC 11, each\
-      \ creature in a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ creature in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the magmin. *Failure:* 7 (2d6) Fire damage. *Success:*\
       \ Half damage."
     "name": "Death Burst"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Fire damage.\
       \ If the target is a creature or a flammable object that isn't being worn or\
-      \ carried, it starts [burning](Compendium/traps-hazards/burning-xphb.md)."
+      \ carried, it starts [[burning-xphb|burning]]."
     "name": "Touch"
 "bonus_actions":
   - "desc": "The magmin sets itself ablaze or extinguishes its flames. While ablaze,\
-      \ the magmin sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ the magmin sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Ignited Illumination"
 "source":

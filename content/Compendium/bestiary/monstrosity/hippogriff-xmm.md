@@ -57,7 +57,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
   - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": ""

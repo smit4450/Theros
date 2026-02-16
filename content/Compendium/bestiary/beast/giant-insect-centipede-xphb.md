@@ -28,7 +28,7 @@ aliases: ["Giant Insect (Centipede)"]
   - !!int "14"
   - !!int "3"
 "speed": "40 ft., climb 40 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "understands the languages you know"
 "traits":
@@ -45,7 +45,7 @@ aliases: ["Giant Insect (Centipede)"]
     "name": "Poison Jab"
 "bonus_actions":
   - "desc": "*Constitution Saving Throw:* Your spell save DC, one creature the insect\
-      \ can see within 10 feet. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ can see within 10 feet. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the insect's next turn."
     "name": "Venomous Spew (Centipede Only)"
 "source":

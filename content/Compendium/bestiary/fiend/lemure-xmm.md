@@ -48,16 +48,16 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "speed": "20 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
+  \ by magical [[darkness-xphb|Darkness]]), passive\
   \ Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "0"
 "traits":
-  - "desc": "If the lemure dies in the Nine Hells, it revives with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ in 1d10 days unless it is killed by a creature under the effects of a [Bless](Compendium/spells/bless-xphb.md)\
+  - "desc": "If the lemure dies in the Nine Hells, it revives with all its [[hit-points-xphb|Hit Points]]\
+      \ in 1d10 days unless it is killed by a creature under the effects of a [[bless-xphb|Bless]]\
       \ spell or its remains are sprinkled with Holy Water."
     "name": "Hellish Restoration"
 "actions":

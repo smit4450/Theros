@@ -21,7 +21,7 @@ aliases: ["Pit Fiend"]
 *Devil of Domination*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Masterminds of the Nine Hells and generals of infernal legions, pit fiends seek conquests across the planes of existence. More than warmongers, these diabolical tyrants concoct intricate plots that play out among fiendish battlefields, infernal politics, and mortal conspiracies.
 
@@ -50,33 +50,33 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
   - "dexterity": !!int "8"
   - "wisdom": !!int "10"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+10"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+19"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 20"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "20"
 "traits":
   - "desc": "If the pit fiend dies outside the Nine Hells, its body disappears in\
       \ sulfurous smoke, and it gains a new body instantly, reviving with all its\
-      \ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) somewhere\
+      \ [[hit-points-xphb|Hit Points]] somewhere\
       \ in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The pit fiend emanates an aura in a 20-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ while it doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+  - "desc": "The pit fiend emanates an aura in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ while it doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. *Wisdom Saving Throw:* DC 21, any enemy that starts its turn in\
-      \ the aura. *Failure:* The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ the aura. *Failure:* The target has the [[conditions#Frightened|Frightened]]\
       \ condition until the start of its next turn. *Success:* The target is immune\
       \ to this pit fiend's aura for 24 hours."
     "name": "Fear Aura"
   - "desc": "If the pit fiend fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The pit fiend has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The pit fiend has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -85,9 +85,9 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +14, reach 10 ft. *Hit:* 18 (3d6 + 8) Piercing\
       \ damage. If the target is a creature, it must make the following saving throw.\
-      \ *Constitution Saving Throw:* DC 21. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ condition. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the\
-      \ target can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ *Constitution Saving Throw:* DC 21. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition. While [[conditions#Poisoned|Poisoned]], the\
+      \ target can't regain [[hit-points-xphb|Hit Points]]\
       \ and takes 21 (6d6) Poison damage at the start of each of its turns, and\
       \ it repeats the save at the end of each of its turns, ending the effect on\
       \ itself on a success. After 1 minute, it succeeds automatically."
@@ -98,11 +98,11 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
   - "desc": "*Melee Attack Roll:* +14, reach 10 ft. *Hit:* 22 (4d6 + 8) Force\
       \ damage plus 21 (6d6) Fire damage."
     "name": "Fiery Mace"
-  - "desc": "The pit fiend casts [Fireball](Compendium/spells/fireball-xphb.md) (level\
+  - "desc": "The pit fiend casts [[fireball-xphb|Fireball]] (level\
       \ 5 version) twice, requiring no Material components and using Charisma as the\
-      \ spellcasting ability (spell save DC 21). It can replace one [Fireball](Compendium/spells/fireball-xphb.md)\
-      \ with [Hold Monster](Compendium/spells/hold-monster-xphb.md) (level 7 version)\
-      \ or [Wall of Fire](Compendium/spells/wall-of-fire-xphb.md).\n"
+      \ spellcasting ability (spell save DC 21). It can replace one [[fireball-xphb|Fireball]]\
+      \ with [[hold-monster-xphb|Hold Monster]] (level 7 version)\
+      \ or [[wall-of-fire-xphb|Wall of Fire]].\n"
     "name": "Hellfire Spellcasting (Recharge 4-6)"
 "source":
   - "XMM"

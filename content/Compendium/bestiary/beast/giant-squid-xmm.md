@@ -17,7 +17,7 @@ aliases: ["Giant Squid"]
 ![](Compendium/bestiary/beast/img/giant-squid.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -42,9 +42,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "strength": !!int "9"
   - "dexterity": !!int "5"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 16"
 "languages": ""
 "cr": "6"
@@ -58,16 +58,16 @@ Use these stat blocks to represent the creatures they're named for or other simi
       \ damage."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +9, reach 15 ft. *Hit:* 19 (3d8 + 6) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 16) from one of two tentacles, and the squid can pull\
       \ the target up to 10 feet straight toward itself."
     "name": "Tentacle"
 "reactions":
   - "desc": "Trigger: The squid takes damage while underwater. _Response:_ The squid\
-      \ releases ink that fills a 15-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)\
-      \ centered on itself, and the squid moves up to its [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md).\
-      \ The [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) is\
-      \ [Heavily Obscured](Compendium/rules/variant-rules/heavily-obscured-xphb.md)\
+      \ releases ink that fills a 15-foot [[cube-area-of-effect-xphb|Cube]]\
+      \ centered on itself, and the squid moves up to its [[swim-speed-xphb|Swim Speed]].\
+      \ The [[cube-area-of-effect-xphb|Cube]] is\
+      \ [[heavily-obscured-xphb|Heavily Obscured]]\
       \ for 1 minute or until a strong current or similar effect disperses the ink."
     "name": "Ink Cloud (1/Day)"
 "source":

@@ -38,11 +38,11 @@ aliases: ["Stormcaller of Keranos"]
 "saves":
   - "dexterity": !!int "2"
 "skillsaves":
-  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+4"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
-  - "name": "[Investigation](Compendium/rules/skills.md#Investigation)"
+  - "name": "[[skills#Investigation|Investigation]]"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common, Any one language"

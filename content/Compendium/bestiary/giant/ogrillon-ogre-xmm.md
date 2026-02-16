@@ -29,7 +29,7 @@ Ogrillons arise from Humanoids cursed by foul magic or the will of wrathful deit
 *Raging Hulks and Hoarders*
 
 - **Habitat.** Arctic, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural forces. From dismal ruins and bleak hinterlands, they raid vulnerable communities and ambush travelers. Ogres covet food and treasure, and they spitefully destroy art, books, clockwork devices, and other delicate or lovingly made things. Occasionally they kidnap victims to eat later or, more rarely, performers who catch their interest.
 
@@ -53,7 +53,7 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
   - !!int "9"
   - !!int "10"
 "speed": "30 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": "Common, Giant"
 "cr": "1"

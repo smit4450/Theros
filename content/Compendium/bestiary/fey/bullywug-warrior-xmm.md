@@ -22,7 +22,7 @@ Bullywug warriors are adept at moving through swamps and ambushing trespassers. 
 *Amphibious Appreciators of Marsh and Muck*
 
 - **Habitat.** Swamp  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
 
 Fey embodiments of swamplands, bullywugs protect the murky wilds and consider themselves cosmically favored for that role. These human-size, toad- or frog-like creatures have close relationships with the creatures of the swamp.
 ## Statblock
@@ -45,7 +45,7 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Bullywug, Common"

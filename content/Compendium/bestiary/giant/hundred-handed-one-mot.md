@@ -37,19 +37,19 @@ Extra pairs of arms magically orbit the bodies of the titanic, nearly forgotten 
   - "constitution": !!int "12"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+8"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
-"condition_immunities": "[frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Frightened|frightened]]"
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 18"
 "languages": "Giant"
 "cr": "15"
 "traits":
   - "desc": "The giant can take one reaction on every turn in a combat."
     "name": "Reactive"
-  - "desc": "The giant can't be [surprised](Compendium/rules/conditions.md#Surprised)."
+  - "desc": "The giant can't be [[conditions#Surprised|surprised]]."
     "name": "Vigilant"
 "actions":
   - "desc": "The giant makes four longsword attacks or two rock attacks."
@@ -59,7 +59,7 @@ Extra pairs of arms magically orbit the bodies of the titanic, nearly forgotten 
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +13 to hit, range 60/240 ft., one target. *Hit:*\
       \ 30 (4d10 + 8) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 21 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
+      \ on a DC 21 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Rock"
 "reactions":
   - "desc": "The giant adds 5 to its AC against one weapon attack that would hit it.\

@@ -35,18 +35,18 @@ aliases: ["Insatiable Harpy"]
   - !!int "14"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1/4"
 "traits":
-  - "desc": "The harpy has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed) or [frightened](Compendium/rules/conditions.md#Frightened)."
+  - "desc": "The harpy has [[advantage-xphb|Advantage]] on saving throws against being [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]]."
     "name": "Dark Devotion"
 "actions":
   - "desc": "The harpy makes two melee attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage. The harpy regains that many [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage. The harpy regains that many [[hit-points-xphb|Hit Points]]."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage."
     "name": "Claws"

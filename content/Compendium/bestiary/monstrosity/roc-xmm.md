@@ -62,7 +62,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": ""
@@ -75,14 +75,14 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
       \ damage."
     "name": "Beak"
   - "desc": "*Melee Attack Roll:* +13, reach 5 ft. *Hit:* 23 (4d6 + 9) Slashing\
-      \ damage. If the target is a Huge or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ condition (escape DC 19) from both talons, and it has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 19) from both talons, and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Talons"
 "bonus_actions":
-  - "desc": "If the roc has a creature [Grappled](Compendium/rules/conditions.md#Grappled),\
-      \ the roc flies up to half its [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+  - "desc": "If the roc has a creature [[conditions#Grappled|Grappled]],\
+      \ the roc flies up to half its [[fly-speed-xphb|Fly Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ and drops that creature."
     "name": "Swoop (Recharge 5-6)"
 "source":

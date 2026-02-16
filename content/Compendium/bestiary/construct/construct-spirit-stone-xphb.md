@@ -29,17 +29,17 @@ aliases: ["Construct Spirit (Stone)"]
   - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Understands the languages you know"
 "traits":
   - "desc": "When a creature starts its turn within 10 feet of the spirit, the spirit\
       \ can target it with magical energy if the spirit can see it. *Wisdom Saving\
       \ Throw:* DC equals your spell save DC, the target. *Failure:* Until the start\
-      \ of its next turn, the target can't make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack),\
+      \ of its next turn, the target can't make [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and its Speed is halved."
     "name": "Stony Lethargy"
 "actions":

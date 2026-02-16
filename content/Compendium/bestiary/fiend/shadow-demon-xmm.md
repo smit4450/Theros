@@ -57,31 +57,31 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
   - "dexterity": !!int "5"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "4"
 "traits":
   - "desc": "If the demon dies outside the Abyss, its body dissolves into ichor, and\
-      \ it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
   - "desc": "The demon can move through other creatures and objects as if they were\
-      \ [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ [[difficult-terrain-xphb|Difficult Terrain]].\
       \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "While in [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md),\
-      \ the demon has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in [[bright-light-xphb|Bright Light]],\
+      \ the demon has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Light Sensitivity"
 "actions":
@@ -89,8 +89,8 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
       \ damage."
     "name": "Umbral Claw"
 "bonus_actions":
-  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the demon\
+  - "desc": "While in [[dim-light-xphb|Dim Light]]\
+      \ or [[darkness-xphb|Darkness]], the demon\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

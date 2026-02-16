@@ -50,7 +50,7 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 | 1 | Burls and bark on a giant tree. |
 | 2 | Monuments in a graveyard or memorial. |
 | 3 | Outcroppings on a cliff or rock formation |
-| 4 | The [petrified](Compendium/rules/conditions.md#Petrified) victims of a basilisk or medusa. |
+| 4 | The [[conditions#Petrified|petrified]] victims of a basilisk or medusa. |
 | 5 | Reliefs on a sculpted gate or wall. |
 | 6 | Rubble in a ruin or junkyard. |
 | 7 | Stalactites or icicles on a cavern ceiling. |
@@ -79,12 +79,12 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
   - !!int "7"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Primordial (Terran)"
 "cr": "2"

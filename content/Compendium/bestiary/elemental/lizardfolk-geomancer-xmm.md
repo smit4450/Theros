@@ -46,11 +46,11 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
   - !!int "8"
 "speed": "30 ft., burrow 20 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+2"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Draconic, Primordial (Terran)"
@@ -62,16 +62,16 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
       \ 9 (2d6 + 2) Bludgeoning damage."
     "name": "Earth Burst"
   - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 20-foot-radius,\
-      \ 40-foot-high [Cylinder](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md)\
+      \ 40-foot-high [[cylinder-area-of-effect-xphb|Cylinder]]\
       \ centered on a point the lizardfolk can see within 60 feet. *Failure:* 15 (6d4)\
-      \ Bludgeoning damage, and the target has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ Bludgeoning damage, and the target has the [[conditions#Prone|Prone]]\
       \ condition. *Success:* Half damage only."
     "name": "Hail of Stone (Recharge 5-6)"
   - "desc": "The lizardfolk casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \n**At will:** [Elementalism](Compendium/spells/elementalism-xphb.md)\n\n**1/day\
-      \ each:** [Meld into Stone](Compendium/spells/meld-into-stone-xphb.md), [Speak\
-      \ with Plants](Compendium/spells/speak-with-plants-xphb.md), [Spike Growth](Compendium/spells/spike-growth-xphb.md)"
+      \n**At will:** [[elementalism-xphb|Elementalism]]\n\n**1/day\
+      \ each:** [[meld-into-stone-xphb|Meld into Stone]], [[speak-with-plants-xphb|Speak\
+      \ with Plants]], [[spike-growth-xphb|Spike Growth]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

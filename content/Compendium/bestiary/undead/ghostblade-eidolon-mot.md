@@ -35,24 +35,24 @@ Of the various types of eidolons, ghostblade eidolons typically arise from falle
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+5"
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+6"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned), [restrained](Compendium/rules/conditions.md#Restrained)"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Restrained|restrained]]"
 "senses": "passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
   - "desc": "Attack rolls against the eidolon are made with disadvantage unless the\
-      \ eidolon is [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+      \ eidolon is [[conditions#Incapacitated|incapacitated]]."
     "name": "Blurred Form"
   - "desc": "The eidolon can move through other creatures and objects as if they were\
       \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\

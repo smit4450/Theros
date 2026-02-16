@@ -21,7 +21,7 @@ Soldiers are found in many of Ravnica's guilds. The soldier stat block represent
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[chain mail](Compendium/items/chain-mail-xphb.md), [shield](Compendium/items/shield-xphb.md)"
+"ac_class": "[[chain-mail-xphb|chain mail]], [[shield-xphb|shield]]"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "1"
@@ -34,17 +34,17 @@ Soldiers are found in many of Ravnica's guilds. The soldier stat block represent
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+3"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-  - "desc": "The soldier has advantage on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed),\
-      \ [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled),\
-      \ or [restrained](Compendium/rules/conditions.md#Restrained) while it is within\
+  - "desc": "The soldier has advantage on saving throws against being [[conditions#Charmed|charmed]],\
+      \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+      \ or [[conditions#Restrained|restrained]] while it is within\
       \ 5 feet of at least one ally."
     "name": "Formation Tactics"
 "actions":

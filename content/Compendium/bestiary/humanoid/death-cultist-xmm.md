@@ -22,7 +22,7 @@ Death cultists revel in nihilistic forces, embracing them as paths to undeath, m
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -93,11 +93,11 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "constitution": !!int "7"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+6"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+4"
 "senses": "passive Perception 16"
 "languages": "Common"
@@ -107,21 +107,21 @@ Cults can organize around any mystical tradition, but many serve supernatural be
       \ any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 9 (1d10 + 4) Slashing\
-      \ damage plus 11 (2d10) Necrotic damage, and the target can't regain [Hit\
-      \ Points](Compendium/rules/variant-rules/hit-points-xphb.md) until the end of\
+      \ damage plus 11 (2d10) Necrotic damage, and the target can't regain [[hit-points-xphb|Hit\
+      \ Points]] until the end of\
       \ its next turn."
     "name": "Dread Scythe"
   - "desc": "*Ranged Attack Roll:* +6, range 120 ft. *Hit:* 22 (4d10) Necrotic\
       \ damage."
     "name": "Deathly Ray"
   - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 14):\n\n**At will:** [Speak with Dead](Compendium/spells/speak-with-dead-xphb.md),\
-      \ [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)"
+      \ ability (spell save DC 14):\n\n**At will:** [[speak-with-dead-xphb|Speak with Dead]],\
+      \ [[thaumaturgy-xphb|Thaumaturgy]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "*Wisdom Saving Throw:* DC 14, each creature in a 20-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 14, each creature in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the cultist. *Failure:* 14 (4d6) Psychic damage, and the\
-      \ target has the [Frightened](Compendium/rules/conditions.md#Frightened) condition\
+      \ target has the [[conditions#Frightened|Frightened]] condition\
       \ until the end of its next turn. *Success:* Half damage only."
     "name": "Spirit Wail (Recharge 5-6)"
 "source":

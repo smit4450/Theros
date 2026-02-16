@@ -43,35 +43,35 @@ Clever, far-ranging people of the sea, tritons live rich lives unknown to most l
   - "intelligence": !!int "3"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+6"
-  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+6"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
 "damage_resistances": "cold, fire"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "Common, Primordial"
 "cr": "8"
 "traits":
   - "desc": "The triton's spellcasting ability is Charisma (spell save DC 15, +7\
       \ to hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [ray of frost](Compendium/spells/ray-of-frost-xphb.md)\
-      \ (see \"Actions\" below)\n\n**2/day:** [cone of cold](Compendium/spells/cone-of-cold-xphb.md)\n\
-      \n**1/day each:** [fog cloud](Compendium/spells/fog-cloud-xphb.md), [gust of\
-      \ wind](Compendium/spells/gust-of-wind-xphb.md), [wind wall](Compendium/spells/wind-wall-xphb.md)"
+      \ no material components:\n\n**At will:** [[ray-of-frost-xphb|ray of frost]]\
+      \ (see \"Actions\" below)\n\n**2/day:** [[cone-of-cold-xphb|cone of cold]]\n\
+      \n**1/day each:** [[fog-cloud-xphb|fog cloud]], [[gust-of-wind-xphb|gust of\
+      \ wind]], [[wind-wall-xphb|wind wall]]"
     "name": "Innate Spellcasting"
   - "desc": "The triton can breathe air and water."
     "name": "Amphibious"
-  - "desc": "As a bonus action, the triton magically summons 1d4 [water weirds](Compendium/bestiary/elemental/water-weird-xmm.md).\
+  - "desc": "As a bonus action, the triton magically summons 1d4 [[water-weird-xmm|water weirds]].\
       \ The summoned weirds appear in unoccupied spaces in water within 60 feet of\
       \ the triton. The water weirds act immediately after the triton on the same\
       \ initiative count and fight until they're destroyed. They disappear if the\
       \ triton dies."
     "name": "Summon Water Weird (Recharges after a Short or Long Rest)"
 "actions":
-  - "desc": "The triton makes two attacks using Wave Touch and casts [ray of frost](Compendium/spells/ray-of-frost-xphb.md)."
+  - "desc": "The triton makes two attacks using Wave Touch and casts [[ray-of-frost-xphb|ray of frost]]."
     "name": "Multiattack"
   - "desc": "*Melee Spell Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 22\
       \ (4d10) cold damage."

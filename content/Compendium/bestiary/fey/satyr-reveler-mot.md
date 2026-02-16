@@ -35,11 +35,11 @@ While most satyrs are known for their high spirits, love of revels, and gregario
   - !!int "16"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+5"
-  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+7"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "passive Perception 10"
 "languages": "Common, Sylvan"
@@ -47,9 +47,9 @@ While most satyrs are known for their high spirits, love of revels, and gregario
 "traits":
   - "desc": "If the satyr performs for at least 1 minute, it chooses up to four humanoids\
       \ within 60 feet of it who watched or listened to the entire performance. Each\
-      \ target must succeed on a DC 13 Wisdom saving throw or be [charmed](Compendium/rules/conditions.md#Charmed).\
-      \ While [charmed](Compendium/rules/conditions.md#Charmed) in this way, the target\
-      \ idolizes the satyr and will take part in the satyr's revels. The [charmed](Compendium/rules/conditions.md#Charmed)\
+      \ target must succeed on a DC 13 Wisdom saving throw or be [[conditions#Charmed|charmed]].\
+      \ While [[conditions#Charmed|charmed]] in this way, the target\
+      \ idolizes the satyr and will take part in the satyr's revels. The [[conditions#Charmed|charmed]]\
       \ condition ends for the creature after 1 hour, if it takes any damage, if the\
       \ satyr attacks the target, or if the target witnesses the satyr attacking or\
       \ damaging any of the target's allies."

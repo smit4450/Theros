@@ -22,7 +22,7 @@ Mages are accomplished spellcasters whose lives have been shaped by magic. They 
 *Magical Scholars and Spellcasters*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [[random-magic-items-arcana|Arcana]], Individual  
 
 Mages are magical wonder-workers, ranging from spellcasting overlords to reclusive witches. They study mystical secrets and possess insight into monsters, legends, omens, and other lore. Mages often gather allies or hire assistants to aid them in their research or to attain magical might.
 
@@ -72,11 +72,11 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+6"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Common and any three languages"
@@ -88,20 +88,20 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
       \ 16 (3d8 + 3) Force damage."
     "name": "Arcane Burst"
   - "desc": "The mage casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 14):\n\n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md),\
-      \ [Light](Compendium/spells/light-xphb.md), [Mage Armor](Compendium/spells/mage-armor-xphb.md)\
-      \ (included in AC), [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
-      \n**2/day each:** [Fireball](Compendium/spells/fireball-xphb.md) (level 4 version),\
-      \ [Invisibility](Compendium/spells/invisibility-xphb.md)\n\n**1/day each:**\
-      \ [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md), [Fly](Compendium/spells/fly-xphb.md)"
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [[detect-magic-xphb|Detect Magic]],\
+      \ [[light-xphb|Light]], [[mage-armor-xphb|Mage Armor]]\
+      \ (included in AC), [[mage-hand-xphb|Mage Hand]], [[prestidigitation-xphb|Prestidigitation]]\n\
+      \n**2/day each:** [[fireball-xphb|Fireball]] (level 4 version),\
+      \ [[invisibility-xphb|Invisibility]]\n\n**1/day each:**\
+      \ [[cone-of-cold-xphb|Cone of Cold]], [[fly-xphb|Fly]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The mage casts [Misty Step](Compendium/spells/misty-step-xphb.md), using\
+  - "desc": "The mage casts [[misty-step-xphb|Misty Step]], using\
       \ the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (3/Day)"
 "reactions":
-  - "desc": "The mage casts [Counterspell](Compendium/spells/counterspell-xphb.md)\
-      \ or [Shield](Compendium/spells/shield-xphb.md) in response to the spell's trigger,\
+  - "desc": "The mage casts [[counterspell-xphb|Counterspell]]\
+      \ or [[shield-xphb|Shield]] in response to the spell's trigger,\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Protective Magic (3/Day)"
 "source":

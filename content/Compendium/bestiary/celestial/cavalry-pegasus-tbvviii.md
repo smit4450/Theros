@@ -38,7 +38,7 @@ aliases: ["Cavalry Pegasus"]
   - !!int "13"
 "speed": "60 ft., fly 90 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Understands simple commands from its rider"

@@ -58,23 +58,23 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 "saves":
   - "dexterity": !!int "4"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "See Living Shadow"
 "damage_immunities": "necrotic"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 14"
 "languages": "Common, Draconic"
 "cr": "4"
 "traits":
-  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the dragon\
-      \ has [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to damage\
+  - "desc": "While in [[dim-light-xphb|Dim Light]]\
+      \ or [[darkness-xphb|Darkness]], the dragon\
+      \ has [[resistance-xphb|Resistance]] to damage\
       \ that isn't Force, Psychic, or Radiant."
     "name": "Living Shadow"
-  - "desc": "While in sunlight, the dragon has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the dragon has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -83,17 +83,17 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
   - "desc": "*Melee Attack Roll:* +5, reach 10 ft. *Hit:* 7 (1d8 + 3) Slashing\
       \ damage plus 3 (1d6) Necrotic damage."
     "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 17 (5d6) Necrotic damage. *Success:* Half damage. *Failure or\
-      \ Success:* A Humanoid reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ by this damage dies, and a [Shadow](Compendium/bestiary/undead/shadow-xmm.md)\
+      \ Success:* A Humanoid reduced to 0 [[hit-points-xphb|Hit Points]]\
+      \ by this damage dies, and a [[shadow-xmm|Shadow]]\
       \ rises from its corpse. The shadow is under the dragon's control and shares\
-      \ the dragon's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md)\
+      \ the dragon's [[initiative-xphb|Initiative]]\
       \ count but acts immediately after the dragon."
     "name": "Shadow Breath (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the dragon\
+  - "desc": "While in [[dim-light-xphb|Dim Light]]\
+      \ or [[darkness-xphb|Darkness]], the dragon\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

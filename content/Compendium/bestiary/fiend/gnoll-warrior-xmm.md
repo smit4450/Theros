@@ -25,7 +25,7 @@ Gnoll warriors crave endless slaughter but quickly grow bored with the prey they
 *Fiends in Feral Flesh*
 
 - **Habitat.** Desert, Forest, Grassland, Hill  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their corruption and violence delighted the demon lord Yeenoghu, who encouraged their numbers and spread them across the multiverse. Ever since, gnolls have been the cackling servants of Yeenoghu, existing to cause ruin and to feast on what remains.
 
@@ -52,7 +52,7 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - !!int "10"
   - !!int "7"
 "speed": "30 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Gnoll"
 "cr": "1/2"
@@ -64,8 +64,8 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ damage."
     "name": "Bone Bow"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](Compendium/rules/conditions.md#Bloodied),\
-      \ the gnoll moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "Immediately after dealing damage to a creature that is already [[conditions#Bloodied|Bloodied]],\
+      \ the gnoll moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Rampage (1/Day)"
 "source":

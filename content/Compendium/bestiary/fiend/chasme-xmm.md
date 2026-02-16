@@ -21,7 +21,7 @@ aliases: ["Chasme"]
 *Demon of Betrayal and Sycophancy*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitate foes by producing a mind-numbing droning, then use their proboscises to drain victims of life. In the Abyss, most chasmes obsequiously serve more powerful demons and search for captives to press into demonic hordes.
 ```statblock
@@ -46,21 +46,21 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 15"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "6"
 "traits":
   - "desc": "If the chasme dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The chasme has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The chasme has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The chasme can climb difficult surfaces, including along ceilings, without\
@@ -68,14 +68,14 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
     "name": "Spider Climb"
 "actions":
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 16 (4d6 + 2) Piercing\
-      \ damage plus 21 (6d6) Necrotic damage. If the target is a creature, its [Hit\
-      \ Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum decreases\
+      \ damage plus 21 (6d6) Necrotic damage. If the target is a creature, its [[hit-points-xphb|Hit\
+      \ Point]] maximum decreases\
       \ by an amount equal to the Necrotic damage taken."
     "name": "Proboscis"
 "bonus_actions":
-  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the chasme (demons automatically succeed on this save). *Failure:*\
-      \ The target has the [Unconscious](Compendium/rules/conditions.md#Unconscious)\
+      \ The target has the [[conditions#Unconscious|Unconscious]]\
       \ condition and repeats the save at the end of each of its turns. The target\
       \ succeeds automatically after 10 minutes or if it takes damage or a creature\
       \ within 5 feet of it takes an action to empty a flask of Holy Water on it.\

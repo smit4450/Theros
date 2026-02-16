@@ -22,7 +22,7 @@ Faerie dragon youths are quick to use their euphoria-inducing breath on rude or 
 *Whimsical Draconic Tricksters*
 
 - **Habitat.** Forest  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** [[random-magic-items-implements|Implements]]  
 
 Faerie dragons are cat-size pranksters with draconic features, butterfly-like wings, and scales of warm hues as youths and cool hues as adults.
 ## Statblock
@@ -45,36 +45,36 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
   - !!int "14"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+3"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": "Draconic, Sylvan; telepathy 60 ft. (faerie dragons only)"
 "cr": "1"
 "traits":
-  - "desc": "The dragon has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The dragon has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Piercing\
       \ damage plus 2 (1d4) Psychic damage."
     "name": "Bite"
-  - "desc": "*Wisdom Saving Throw:* DC 12, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+  - "desc": "*Wisdom Saving Throw:* DC 12, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *Failure:* The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn and uses all its movement on its\
       \ turn to move in a random direction."
     "name": "Euphoria Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\n**At\
-      \ will:** [Dancing Lights](Compendium/spells/dancing-lights-xphb.md), [Mage\
-      \ Hand](Compendium/spells/mage-hand-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)"
+      \ will:** [[dancing-lights-xphb|Dancing Lights]], [[mage-hand-xphb|Mage\
+      \ Hand]], [[minor-illusion-xphb|Minor Illusion]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The dragon casts [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md)\
+  - "desc": "The dragon casts [[greater-invisibility-xphb|Greater Invisibility]]\
       \ on itself, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Superior Invisibility"

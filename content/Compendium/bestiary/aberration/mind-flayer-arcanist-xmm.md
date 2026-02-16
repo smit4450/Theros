@@ -22,7 +22,7 @@ Mind flayer arcanists enhance their psionic abilities with magic. Other mind fla
 *Brain-Eating Underdark Tyrants*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Scattered survivors of a world-ruining, multiversal empire, mind flayers lurk in secret conclaves hidden deep within Material Plane worlds. Within their alien sanctuaries, these wicked masterminds—also known as illithids—reshape the Underdark and its inhabitants to serve their unfathomable whims. Mind flayers are feared for their psionic powers, which allow them to stun and control other creatures, and for their horrific method of feeding: using their four slimy tentacles to extract the brains of their victims.
 
@@ -68,22 +68,22 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+13"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 17"
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "11"
 "traits":
-  - "desc": "The mind flayer has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The mind flayer has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -93,27 +93,27 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
       \ 27 (4d10 + 5) Psychic damage, and the mind flayer can teleport the target\
       \ up to 30 feet to an unoccupied space the mind flayer can see on a surface\
       \ or liquid large enough to support the target. If this damage reduces the target\
-      \ to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), the\
+      \ to 0 [[hit-points-xphb|Hit Points]], the\
       \ mind flayer kills it and magically devours its brain."
     "name": "Arcane Tentacles"
-  - "desc": "*Intelligence Saving Throw:* DC 17, each creature in a 40-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Intelligence Saving Throw:* DC 17, each creature in a 40-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the mind flayer. *Failure:* 41 (8d8 + 5) Psychic damage,\
-      \ and the target has the [Stunned](Compendium/rules/conditions.md#Stunned) condition\
+      \ and the target has the [[conditions#Stunned|Stunned]] condition\
       \ until the end of the mind flayer's next turn. *Success:* Half damage only."
     "name": "Mind Burst (Recharge 5-6)"
   - "desc": "The mind flayer casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md),\
-      \ [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md), [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
-      \ [Mage Hand](Compendium/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
-      \n**1/day each:** [Clairvoyance](Compendium/spells/clairvoyance-xphb.md), [Dimension\
-      \ Door](Compendium/spells/dimension-door-xphb.md), [Fireball](Compendium/spells/fireball-xphb.md)\
-      \ (level 5 version), [Lightning Bolt](Compendium/spells/lightning-bolt-xphb.md)\
-      \ (level 5 version), [Plane Shift](Compendium/spells/plane-shift-xphb.md) (self\
-      \ only), [Sending](Compendium/spells/sending-xphb.md)"
+      \ DC 17):\n\n**At will:** [[detect-magic-xphb|Detect Magic]],\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[disguise-self-xphb|Disguise Self]],\
+      \ [[mage-hand-xphb|Mage Hand]] (the hand is Invisible)\n\
+      \n**1/day each:** [[clairvoyance-xphb|Clairvoyance]], [[dimension-door-xphb|Dimension\
+      \ Door]], [[fireball-xphb|Fireball]]\
+      \ (level 5 version), [[lightning-bolt-xphb|Lightning Bolt]]\
+      \ (level 5 version), [[plane-shift-xphb|Plane Shift]] (self\
+      \ only), [[sending-xphb|Sending]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The mind flayer casts [Shield](Compendium/spells/shield-xphb.md) in response\
+  - "desc": "The mind flayer casts [[shield-xphb|Shield]] in response\
       \ to that spell's trigger, using the same spellcasting ability as Spellcasting.\n"
     "name": "Shield (2/Day)"
 "source":

@@ -22,7 +22,7 @@ aliases: ["Chuul"]
 *Chitinous Servant of Primeval Powers*
 
 - **Habitat.** Coastal, Swamp, Underdark  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Chuuls originated in forgotten ages when aboleths and stranger beings ruled alien empires beneath the waves. The aboleths transformed numerous deep-sea predators into servants that could venture beyond the seas to claim more magic and creatures to exploit. Chuuls are the most enduring of these bizarre servants.
 
@@ -47,11 +47,11 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
   - !!int "5"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "understands Deep Speech but can't speak"
 "cr": "4"
@@ -59,22 +59,22 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
   - "desc": "The chuul can breathe air and water."
     "name": "Amphibious"
   - "desc": "The chuul senses magic within 120 feet of itself. This trait otherwise\
-      \ works like the [Detect Magic](Compendium/spells/detect-magic-xphb.md) spell\
+      \ works like the [[detect-magic-xphb|Detect Magic]] spell\
       \ but isn't itself magical."
     "name": "Sense Magic"
 "actions":
   - "desc": "The chuul makes two Pincer attacks and uses Paralyzing Tentacles."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 9 (1d10 + 4) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 14) from one of two pincers."
     "name": "Pincer"
-  - "desc": "*Constitution Saving Throw:* DC 13, one creature [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ by the chuul. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+  - "desc": "*Constitution Saving Throw:* DC 13, one creature [[conditions#Grappled|Grappled]]\
+      \ by the chuul. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
-      \ While [Poisoned](Compendium/rules/conditions.md#Poisoned), the target has\
-      \ the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition."
+      \ While [[conditions#Poisoned|Poisoned]], the target has\
+      \ the [[conditions#Paralyzed|Paralyzed]] condition."
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"

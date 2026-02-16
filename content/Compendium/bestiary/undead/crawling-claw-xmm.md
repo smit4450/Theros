@@ -50,10 +50,10 @@ Crawling claws are severed hands that move and act of their own murderous accord
   - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [incapacitated](Compendium/rules/conditions.md#Incapacitated),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Incapacitated|incapacitated]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., passive Perception\
   \ 10"
 "languages": "understands Common but can't speak"
 "cr": "0"

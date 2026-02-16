@@ -50,26 +50,26 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
   - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "cold"
 "senses": "passive Perception 15"
 "languages": "Common, Giant"
 "cr": "3"
 "traits":
-  - "desc": "The wolf has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The wolf has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the wolf's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Bite"
-  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 18 (4d8) Cold damage. *Success:* Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "source":

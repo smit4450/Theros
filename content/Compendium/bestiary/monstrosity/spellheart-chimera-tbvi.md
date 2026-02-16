@@ -41,7 +41,7 @@ The spellheart chimera has the front half of a ram and the hindquarters of a lio
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The chimera can move in and out of a large or smaller creature's space. If it would, it uses a bonus action to attack that creature with its hooves. That creature must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone). If the creature succeeds, the chimera can't enter that space and must end its turn immediately. If the chimera stops on top of that creature, that creature becomes [restrained](Compendium/rules/conditions.md#Restrained) until the chimera moves off it (escape DC 13)."
+  - "desc": "The chimera can move in and out of a large or smaller creature's space. If it would, it uses a bonus action to attack that creature with its hooves. That creature must succeed on a DC 13 Strength saving throw or be knocked [[conditions#Prone|prone]]. If the creature succeeds, the chimera can't enter that space and must end its turn immediately. If the chimera stops on top of that creature, that creature becomes [[conditions#Restrained|restrained]] until the chimera moves off it (escape DC 13)."
     "name": "Trample"
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage."

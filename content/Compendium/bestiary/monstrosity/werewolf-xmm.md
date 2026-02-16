@@ -43,18 +43,18 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
   - !!int "10"
 "speed": "30 ft., 40 ft. (wolf form only)"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Common (can't speak in wolf form)"
 "cr": "3"
 "traits":
-  - "desc": "The werewolf has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The werewolf has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the werewolf's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":
@@ -64,8 +64,8 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 12 (2d8 + 3) Piercing\
       \ damage. If the target is a Humanoid, it is subjected to the following effect.\
       \ *Constitution Saving Throw:* DC 12. *Failure:* The target is cursed. If the\
-      \ cursed target drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Werewolf under the DM's control and has 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ cursed target drops to 0 [[hit-points-xphb|Hit Points]],\
+      \ it instead becomes a Werewolf under the DM's control and has 10 [[hit-points-xphb|Hit Points]].\
       \ *Success:* The target is immune to this werewolf's curse for 24 hours."
     "name": "Bite (Wolf or Hybrid Form Only)"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing\

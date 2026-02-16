@@ -55,9 +55,9 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": ""
 "cr": "3"
@@ -76,11 +76,11 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Piercing\
       \ damage plus 9 (2d8) Poison damage. If this damage reduces the target to\
-      \ 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), the target\
-      \ becomes [Stable](Compendium/rules/variant-rules/stable-xphb.md), and it has\
-      \ the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour.\
-      \ While [Poisoned](Compendium/rules/conditions.md#Poisoned), the target also\
-      \ has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition."
+      \ 0 [[hit-points-xphb|Hit Points]], the target\
+      \ becomes [[stable-xphb|Stable]], and it has\
+      \ the [[conditions#Poisoned|Poisoned]] condition for 1 hour.\
+      \ While [[conditions#Poisoned|Poisoned]], the target also\
+      \ has the [[conditions#Paralyzed|Paralyzed]] condition."
     "name": "Bite"
 "bonus_actions":
   - "desc": "The spider teleports from the Material Plane to the Ethereal Plane or\

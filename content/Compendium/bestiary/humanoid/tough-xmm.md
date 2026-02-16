@@ -22,7 +22,7 @@ Toughs might work in groups at the direction of a leader, or individual toughs m
 *Brawlers and Bullies*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Bodyguards, belligerents, and laborers, toughs rely on their physical strength to intimidate foes. They might be brawny criminals, rowdy tavern goers, seasoned workers, or anyone who uses their muscle to get what they want.
 
@@ -53,9 +53,9 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 "languages": "Common"
 "cr": "1/2"
 "traits":
-  - "desc": "The tough has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The tough has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the tough's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":

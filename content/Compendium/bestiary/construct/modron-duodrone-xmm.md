@@ -74,8 +74,8 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "10"
   - !!int "7"
 "speed": "30 ft."
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 10"
 "languages": "Modron"
 "cr": "1/4"

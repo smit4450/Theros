@@ -23,7 +23,7 @@ Master thieves are known for perpetrating daring heists. They tend to develop a 
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather](Compendium/items/studded-leather-armor-xphb.md)"
+"ac_class": "[[studded-leather-armor-xphb|studded leather]]"
 "hp": !!int "83"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "4"
@@ -39,15 +39,15 @@ Master thieves are known for perpetrating daring heists. They tend to develop a 
   - "dexterity": !!int "7"
   - "intelligence": !!int "3"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+7"
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+3"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+7"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common) plus Thieves' cant"
@@ -62,7 +62,7 @@ Master thieves are known for perpetrating daring heists. They tend to develop a 
     "name": "Evasion"
   - "desc": "The thief deals an extra 14 (4d6) damage when it hits a target with\
       \ a weapon attack and has advantage on the attack roll, or when the target is\
-      \ within 5 feet of an ally of the thief that isn't [incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ within 5 feet of an ally of the thief that isn't [[conditions#Incapacitated|incapacitated]]\
       \ and the thief doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":

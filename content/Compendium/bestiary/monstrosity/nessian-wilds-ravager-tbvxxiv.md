@@ -43,10 +43,10 @@ For a more interactive version of this creature, see the "Face the Hydra" bestia
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
 "damage_immunities": "fire, poison, acid"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": ""
 "cr": "20"
 "traits":
@@ -56,7 +56,7 @@ For a more interactive version of this creature, see the "Face the Hydra" bestia
     "name": "Acidic Blood"
   - "desc": "The hydra can hold its breath for 1 hour."
     "name": "Hold Breath"
-  - "desc": "The hydra has ten heads. While it has more than one head, the hydra has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being [blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened), [stunned](Compendium/rules/conditions.md#Stunned), and knocked [unconscious](Compendium/rules/conditions.md#Unconscious). Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies. At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) for each head regrown in this way."
+  - "desc": "The hydra has ten heads. While it has more than one head, the hydra has [[advantage-xphb|Advantage]] on saving throws against being [[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]], and knocked [[conditions#Unconscious|unconscious]]. Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies. At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 [[hit-points-xphb|Hit Points]] for each head regrown in this way."
     "name": "Multiple Heads"
   - "desc": "For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks."
     "name": "Reactive Heads"

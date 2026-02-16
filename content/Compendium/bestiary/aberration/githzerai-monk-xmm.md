@@ -23,7 +23,7 @@ Githzerai monks pursue control of their minds by honing their physical and psion
 *Explorers at Reality's Extremes*
 
 - **Habitat.** Planar (Limbo)  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [[random-magic-items-arcana|Arcana]], Individual  
 
 Githzerai are gaunt, humanlike beings, physically identical to githyanki. They share a history with githyanki as creatures physically and psychically transformed by mind flayers (see the "Githyanki" section). Githzerai know that in body and mind, their species was manipulated by their former illithid oppressors. Rather than giving in to this programming, githzerai follow the teachings of their first leader, Zerthimon, and reshape their minds and bodies to find peace.
 
@@ -77,9 +77,9 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "intelligence": !!int "3"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+4"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Common, Gith"
@@ -91,16 +91,16 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
       \ damage plus 9 (2d8) Psychic damage."
     "name": "Psi Strike"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
-      \ and using Wisdom as the spellcasting ability:\n\n**At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md)\
-      \ (the hand is Invisible)\n\n**1/day:** [See Invisibility](Compendium/spells/see-invisibility-xphb.md)"
+      \ and using Wisdom as the spellcasting ability:\n\n**At will:** [[mage-hand-xphb|Mage Hand]]\
+      \ (the hand is Invisible)\n\n**1/day:** [[see-invisibility-xphb|See Invisibility]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githzerai casts [Jump](Compendium/spells/jump-xphb.md), requiring\
+  - "desc": "The githzerai casts [[jump-xphb|Jump]], requiring\
       \ no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psi-Powered Leap (2/Day)"
 "reactions":
-  - "desc": "The githzerai casts [Feather Fall](Compendium/spells/feather-fall-xphb.md)\
-      \ or [Shield](Compendium/spells/shield-xphb.md) in response to the spell's trigger,\
+  - "desc": "The githzerai casts [[feather-fall-xphb|Feather Fall]]\
+      \ or [[shield-xphb|Shield]] in response to the spell's trigger,\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psionic Defense (2/Day)"
 "source":

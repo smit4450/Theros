@@ -21,7 +21,7 @@ aliases: ["Marilith"]
 *Demon of Cruelty and Viciousness*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged blades. With these cursed weapons and experience from countless battles, they lead other demons to slaughter virtuous souls. They often command droves of weaker demons.
 ```statblock
@@ -48,24 +48,24 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
   - "wisdom": !!int "8"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 18"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "16"
 "traits":
   - "desc": "If the marilith dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The marilith has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The marilith has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The marilith can take one [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
+  - "desc": "The marilith can take one [[reaction-xphb|Reaction]]\
       \ on every turn of combat."
     "name": "Reactive"
 "actions":
@@ -76,8 +76,8 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
     "name": "Pact Blade"
   - "desc": "*Strength Saving Throw:* DC 17, one Medium or smaller creature the marilith\
       \ can see within 5 feet. *Failure:* 15 (2d10 + 4) Bludgeoning damage. The\
-      \ target has the [Grappled](Compendium/rules/conditions.md#Grappled) condition\
-      \ (escape DC 14), and it has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ target has the [[conditions#Grappled|Grappled]] condition\
+      \ (escape DC 14), and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Constrict"
 "bonus_actions":

@@ -21,7 +21,7 @@ aliases: ["Oni"]
 *Wickedness Drawn to the Wicked*
 
 - **Habitat.** Forest, Urban  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Oni are elusive entities that inhabit dark forests and other wildernesses. By shape-shifting into the form of an innocent or moving invisibly, oni encroach on communities and lonely roads. They frequently harass people of faith, testing the limits of their piousness, or torment selfish people, punishing them for their wickedness. Wise communities often have guardian statues, annual rituals, or local superstitions meant to keep oni at bay. In rare cases, an oni might gradually befriend such communities and protect them from other threats for generations.
 
@@ -59,20 +59,20 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
   - "wisdom": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+8"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "cold"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Common, Giant"
 "cr": "7"
 "traits":
-  - "desc": "The oni regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ at the start of each of its turns if it has at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "The oni regains 10 [[hit-points-xphb|Hit Points]]\
+      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb|Hit Point]]."
     "name": "Regeneration"
 "actions":
   - "desc": "The oni makes two Claw or Nightmare Ray attacks. It can replace one attack\
@@ -82,7 +82,7 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
       \ damage plus 9 (2d8) Necrotic damage."
     "name": "Claw"
   - "desc": "*Ranged Attack Roll:* +5, range 60 ft. *Hit:* 9 (2d6 + 2) Psychic\
-      \ damage, and the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
       \ condition until the start of the oni's next turn."
     "name": "Nightmare Ray"
   - "desc": "The oni shape-shifts into a Small or Medium Humanoid or a Large Giant,\
@@ -91,12 +91,12 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
     "name": "Shape-Shift"
   - "desc": "The oni casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**1/day\
-      \ each:** [Charm Person](Compendium/spells/charm-person-xphb.md) (level 2 version),\
-      \ [Darkness](Compendium/spells/darkness-xphb.md), [Gaseous Form](Compendium/spells/gaseous-form-xphb.md),\
-      \ [Sleep](Compendium/spells/sleep-xphb.md)"
+      \ each:** [[charm-person-xphb|Charm Person]] (level 2 version),\
+      \ [[darkness-xphb|Darkness]], [[gaseous-form-xphb|Gaseous Form]],\
+      \ [[sleep-xphb|Sleep]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The oni casts [Invisibility](Compendium/spells/invisibility-xphb.md)\
+  - "desc": "The oni casts [[invisibility-xphb|Invisibility]]\
       \ on itself, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Invisibility"

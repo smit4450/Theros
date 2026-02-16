@@ -37,19 +37,19 @@ aliases: ["Satyr Hedonist"]
   - !!int "12"
 "speed": "35 ft."
 "skillsaves":
-  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+3"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+3"
 "senses": "passive Perception 10"
 "languages": "Sylvan, Common"
 "cr": "1/2"
 "traits":
-  - "desc": "The hedonist has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
+  - "desc": "The hedonist has [[advantage-xphb|Advantage]] on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Whenever the hedonist makes a long or high jump, it can cover an additional 1d8 feet, even when making a standing jump. This extra distance costs movement as normal."
     "name": "Mirthful Leaps"
-  - "desc": "As a bonus action, the hedonist can ignite itself. Any objects within 5 feet also ignite, and the hedonist drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "As a bonus action, the hedonist can ignite itself. Any objects within 5 feet also ignite, and the hedonist drops to 0 [[hit-points-xphb|Hit Points]]."
     "name": "Hedonism"
 "actions":
   - "desc": "_Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage."

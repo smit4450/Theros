@@ -31,7 +31,7 @@ Stone golems are typically created to protect places of significance to a group,
 | dice: 1d6 | The Stone Golem Follows Orders To... |
 |-----------|--------------------------------------|
 | 1 | Allow only those wearing ritual garb to pass. |
-| 2 | Cast [Slow](Compendium/spells/slow-xphb.md) on and aid in apprehending anyone who touches a city's prized relic. |
+| 2 | Cast [[slow-xphb|Slow]] on and aid in apprehending anyone who touches a city's prized relic. |
 | 3 | Destroy a dam or bridge at the command of one bearing a ruler's medallion of office. |
 | 4 | Obey whoever places a missing crest in its chest, then deactivate for a year. |
 | 5 | Reveal a hidden passage to those who recite a leader's final words. |
@@ -60,17 +60,17 @@ Stone golems are typically created to protect places of significance to a group,
   - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 10"
 "languages": "understands Common plus two other languages but can't speak"
 "cr": "10"
 "traits":
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The golem has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -82,7 +82,7 @@ Stone golems are typically created to protect places of significance to a group,
   - "desc": "*Ranged Attack Roll:* +9, range 120 ft. *Hit:* 22 (4d10) Force damage."
     "name": "Force Bolt"
 "bonus_actions":
-  - "desc": "The golem casts the [Slow](Compendium/spells/slow-xphb.md) spell, requiring\
+  - "desc": "The golem casts the [[slow-xphb|Slow]] spell, requiring\
       \ no spell components and using Constitution as the spellcasting ability (spell\
       \ save DC 17).\n"
     "name": "Slow (Recharge 5-6)"

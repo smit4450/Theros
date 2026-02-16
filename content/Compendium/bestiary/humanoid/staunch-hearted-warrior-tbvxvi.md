@@ -38,17 +38,17 @@ aliases: ["Staunch-Hearted Warrior"]
 "saves":
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Common, any two languages"
 "cr": "4"
 "traits":
-  - "desc": "The warrior has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
+  - "desc": "The warrior has [[advantage-xphb|Advantage]] on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "The warrior's attack rolls score a critical hit on a roll of 19 or 20 on the d20."
     "name": "Improved Critical"
@@ -58,7 +58,7 @@ aliases: ["Staunch-Hearted Warrior"]
   - "desc": "_Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage, or 6 (1d8 + 2) slashing damage if used with two hands to make a melee attack."
     "name": "Scimitar"
 "reactions":
-  - "desc": "Whenever the hero is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the hero gains a +2 bonus to damage rolls and Strength checks, and it gains 9 (2d8) temporary [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "Whenever the hero is the target of a spell, that spell's caster chooses whether following happens: - Until the end of combat, the hero gains a +2 bonus to damage rolls and Strength checks, and it gains 9 (2d8) temporary [[hit-points-xphb|Hit Points]]."
     "name": "Heroic"
 "source":
   - "TBVXVI"

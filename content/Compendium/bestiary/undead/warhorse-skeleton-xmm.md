@@ -61,9 +61,9 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "60 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": ""
 "cr": "1/2"
@@ -71,7 +71,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 7 (1d6 + 4) Bludgeoning\
       \ damage. If the target is a Large or smaller creature and the skeleton moved\
       \ 20+ feet straight toward it immediately before the hit, the target has the\
-      \ [Prone](Compendium/rules/conditions.md#Prone) condition."
+      \ [[conditions#Prone|Prone]] condition."
     "name": "Hooves"
 "source":
   - "XMM"

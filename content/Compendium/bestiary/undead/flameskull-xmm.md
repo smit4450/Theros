@@ -20,7 +20,7 @@ aliases: ["Flameskull"]
 *Skull Smoldering with Magical Obsession*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Flameskulls are flying skulls that blaze with magical fire and the half-remembered arcana of dead spellcasters. They rise from the remains of dead magic-users who were reanimated by sinister necromancers or whose magical pursuits drive them beyond death. Flameskulls might serve as guardians for their creators or pursue ambitions left unfulfilled in life. They lash out at foes with destructive spells and bursts of fire, wielding magic without the need for most components.
 
@@ -60,29 +60,29 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
   - !!int "11"
 "speed": "5 ft., fly 40 ft. (hover)"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "damage_immunities": "fire, necrotic, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned), [prone](Compendium/rules/conditions.md#Prone)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Common plus two other languages"
 "cr": "4"
 "traits":
-  - "desc": "The flameskull sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 15-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+  - "desc": "The flameskull sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 15-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 15 feet."
     "name": "Illumination"
-  - "desc": "The flameskull has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The flameskull has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "If the flameskull is destroyed, it regains all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ in 1 hour unless Holy Water is sprinkled on its remains or the [Dispel Evil\
-      \ and Good](Compendium/spells/dispel-evil-and-good-xphb.md) spell is cast on\
+  - "desc": "If the flameskull is destroyed, it regains all its [[hit-points-xphb|Hit Points]]\
+      \ in 1 hour unless Holy Water is sprinkled on its remains or the [[dispel-evil-and-good-xphb|Dispel Evil\
+      \ and Good]] spell is cast on\
       \ them."
     "name": "Undead Restoration"
 "actions":
@@ -93,9 +93,9 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
     "name": "Fire Ray"
   - "desc": "The flameskull casts one of the following spells, requiring no Somatic\
       \ or Material components and using Intelligence as the spellcasting ability\
-      \ (spell save DC 13):\n\n**At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md)\n\
-      \n**2/day:** [Magic Missile](Compendium/spells/magic-missile-xphb.md) (level\
-      \ 2 version)\n\n**1/day:** [Fireball](Compendium/spells/fireball-xphb.md)"
+      \ (spell save DC 13):\n\n**At will:** [[mage-hand-xphb|Mage Hand]]\n\
+      \n**2/day:** [[magic-missile-xphb|Magic Missile]] (level\
+      \ 2 version)\n\n**1/day:** [[fireball-xphb|Fireball]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

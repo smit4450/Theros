@@ -36,9 +36,9 @@ A nyxborn giant crab provides Thassa with a view from the land.
   - !!int "3"
 "speed": "20 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception 10"
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
@@ -55,7 +55,7 @@ A nyxborn giant crab provides Thassa with a view from the land.
 "actions":
   - "desc": "The emissary makes two attacks with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 20 (3d6 + 4) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 15). The emissary has two claws, each of which can grapple only one target."
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 20 (3d6 + 4) bludgeoning damage, and the target is [[conditions#Grappled|grappled]] (escape DC 15). The emissary has two claws, each of which can grapple only one target."
     "name": "Claw"
 "source":
   - "TBVXXIII"

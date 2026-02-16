@@ -66,14 +66,14 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
   - "wisdom": !!int "9"
   - "charisma": !!int "6"
 "damage_immunities": "acid, cold, fire, lightning, poison, thunder"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned), [prone](Compendium/rules/conditions.md#Prone),\
-  \ [restrained](Compendium/rules/conditions.md#Restrained), [stunned](Compendium/rules/conditions.md#Stunned),\
-  \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 150 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]],\
+  \ [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Truesight|Truesight]] 150 ft., passive Perception\
   \ 12"
 "languages": "Primordial"
 "cr": "22"
@@ -94,35 +94,35 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
     "name": "Elemental Burst"
   - "desc": "The cataclysm creates one of the following effects at random (roll 1d4):\n\
       \n- **1 Clinging Flames.** *Dexterity Saving Throw:* DC 23, each creature in\
-      \ a 60-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ a 60-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point the cataclysm can see within 150 feet. *Failure:* 45 (13d6)\
       \ Fire damage. *Success:* Half damage. *Failure or Success:* The target starts\
-      \ [burning](Compendium/traps-hazards/burning-xphb.md).  \n- **2 Freezing Waves.**\
-      \ *Strength Saving Throw:* DC 23, each creature in a 90-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ [[burning-xphb|burning]].  \n- **2 Freezing Waves.**\
+      \ *Strength Saving Throw:* DC 23, each creature in a 90-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 22 (5d8) Bludgeoning damage plus 22 (5d8) Cold damage, and\
-      \ the target has the [Prone](Compendium/rules/conditions.md#Prone) condition.\
-      \ *Success:* Half damage only. *Failure or Success:* The target's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ the target has the [[conditions#Prone|Prone]] condition.\
+      \ *Success:* Half damage only. *Failure or Success:* The target's [[speed-xphb|Speed]]\
       \ is reduced to 0 until the end of its next turn.  \n- **3 Raging Storm.** A\
-      \ storm cloud fills a 60-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ storm cloud fills a 60-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point the cataclysm can see within 150 feet. The cloud lasts\
       \ for 1 minute or until the cataclysm uses Cataclysmic Event again. Creatures\
-      \ entirely in the cloud have the [Blinded](Compendium/rules/conditions.md#Blinded)\
-      \ and [Deafened](Compendium/rules/conditions.md#Deafened) conditions and can't\
+      \ entirely in the cloud have the [[conditions#Blinded|Blinded]]\
+      \ and [[conditions#Deafened|Deafened]] conditions and can't\
       \ cast spells with a Verbal component. *Dexterity Saving Throw:* DC 23, each\
       \ creature that enters the cloud for the first time on a turn or starts its\
       \ turn there. *Failure:* 18 (4d8) Lightning damage plus 18 (4d8) Thunder\
       \ damage. *Success:* Half damage.  \n- **4 Swallowing Earth.** *Strength Saving\
-      \ Throw:* DC 23, each creature in a 90-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)\
+      \ Throw:* DC 23, each creature in a 90-foot [[cube-area-of-effect-xphb|Cube]]\
       \ originating from a point on the ground within 150 feet. *Failure:* 18 (4d8)\
-      \ Bludgeoning damage plus 18 (4d8) Acid damage, and the target has the [Prone](Compendium/rules/conditions.md#Prone)\
-      \ condition and is buried under rubble. A buried target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-      \ condition, has [Total Cover](Compendium/rules/variant-rules/cover-xphb.md),\
+      \ Bludgeoning damage plus 18 (4d8) Acid damage, and the target has the [[conditions#Prone|Prone]]\
+      \ condition and is buried under rubble. A buried target has the [[conditions#Restrained|Restrained]]\
+      \ condition, has [[cover-xphb|Total Cover]],\
       \ and is suffocating. As an action, a buried creature or another creature within\
-      \ 5 feet of it can make a DC 18 Strength ([Athletics](Compendium/rules/skills.md#Athletics))\
+      \ 5 feet of it can make a DC 18 Strength ([[skills#Athletics|Athletics]])\
       \ check. On a successful check, the creature is no longer buried. *Success:*\
       \ Half damage only.  "
     "name": "Cataclysmic Event (Recharge 4-6)"
-  - "desc": "The cataclysm casts the [Control Weather](Compendium/spells/control-weather-xphb.md)\
+  - "desc": "The cataclysm casts the [[control-weather-xphb|Control Weather]]\
       \ spell, requiring no spell components and using Constitution as the spellcasting\
       \ ability.\n"
     "name": "Control Weather"
@@ -133,12 +133,12 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 "legendary_actions":
   - "desc": "The cataclysm makes one Elemental Burst attack."
     "name": "Eruption"
-  - "desc": "The cataclysm moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
-      \ [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md), or [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).\
+  - "desc": "The cataclysm moves up to its [[speed-xphb|Speed]],\
+      \ [[fly-speed-xphb|Fly Speed]], or [[swim-speed-xphb|Swim Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
       \ Each creature within 5 feet of the cataclysm as it moves is targeted once\
       \ by the following effect. *Constitution Saving Throw:* DC 23. *Failure:* The\
-      \ target has the [Prone](Compendium/rules/conditions.md#Prone) condition. *Failure\
+      \ target has the [[conditions#Prone|Prone]] condition. *Failure\
       \ or Success:* The cataclysm can't take this action again until the start of\
       \ its next turn."
     "name": "Rumbling Movement"

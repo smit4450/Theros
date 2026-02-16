@@ -23,7 +23,7 @@ These powerful psions oversee githzerai sanctuaries, study enigmatic planar even
 *Explorers at Reality's Extremes*
 
 - **Habitat.** Planar (Limbo)  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [[random-magic-items-arcana|Arcana]], Individual  
 
 Githzerai are gaunt, humanlike beings, physically identical to githyanki. They share a history with githyanki as creatures physically and psychically transformed by mind flayers (see the "Githyanki" section). Githzerai know that in body and mind, their species was manipulated by their former illithid oppressors. Rather than giving in to this programming, githzerai follow the teachings of their first leader, Zerthimon, and reshape their minds and bodies to find peace.
 
@@ -77,11 +77,11 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "intelligence": !!int "8"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+8"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+8"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": "Common, Gith"
@@ -91,19 +91,19 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Attack Roll:* +8, reach 5 ft. or range 120 ft. *Hit:*\
       \ 26 (4d10 + 4) Psychic damage, and the target has the githzerai's choice\
-      \ of (A) the [Charmed](Compendium/rules/conditions.md#Charmed) condition until\
-      \ the start of the githzerai's next turn or (B) the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ of (A) the [[conditions#Charmed|Charmed]] condition until\
+      \ the start of the githzerai's next turn or (B) the [[conditions#Prone|Prone]]\
       \ condition, provided the target is a Large or smaller creature."
     "name": "Psychic Warp"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
-      \n**1/day each:** [Plane Shift](Compendium/spells/plane-shift-xphb.md), [See\
-      \ Invisibility](Compendium/spells/see-invisibility-xphb.md)"
+      **At will:** [[mage-hand-xphb|Mage Hand]] (the hand is Invisible)\n\
+      \n**1/day each:** [[plane-shift-xphb|Plane Shift]], [[see-invisibility-xphb|See\
+      \ Invisibility]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The githzerai casts [Feather Fall](Compendium/spells/feather-fall-xphb.md)\
-      \ or [Shield](Compendium/spells/shield-xphb.md) in response to the spell's trigger,\
+  - "desc": "The githzerai casts [[feather-fall-xphb|Feather Fall]]\
+      \ or [[shield-xphb|Shield]] in response to the spell's trigger,\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psionic Defense"
 "source":

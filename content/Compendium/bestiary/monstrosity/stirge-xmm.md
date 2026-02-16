@@ -61,7 +61,7 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
   - !!int "8"
   - !!int "6"
 "speed": "10 ft., fly 40 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": ""
 "cr": "1/8"

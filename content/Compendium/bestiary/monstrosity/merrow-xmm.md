@@ -48,7 +48,7 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
   - !!int "10"
   - !!int "9"
 "speed": "10 ft., swim 40 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Abyssal, Primordial (Aquan)"
 "cr": "2"
@@ -59,7 +59,7 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
   - "desc": "The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 6 (1d4 + 4) Piercing\
-      \ damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the end of the merrow's next turn."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing\

@@ -60,11 +60,11 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 "languages": "understands Abyssal, Common, and Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "The nightmare can grant [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
+  - "desc": "The nightmare can grant [[resistance-xphb|Resistance]]\
       \ to Fire damage to a rider while it is on the nightmare."
     "name": "Confer Fire Resistance"
-  - "desc": "The nightmare sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+  - "desc": "The nightmare sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":

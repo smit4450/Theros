@@ -21,7 +21,7 @@ aliases: ["Night Hag"]
 *Hag of Nightmare and Corruption*
 
 - **Habitat.** Planar (Lower Planes)  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Night hags seek mortals to torment and turn to evil. By day, night hags use supernatural deceptions to plague their victims, shape-shifting to pose as other creatures and make their targets believe the world has turned against them. By night, these hags reinforce their tortures with terrifying dreams. Once they force their targets to desperate limits, night hags claim their victims' tormented spirits, capturing them in sinister traps called soul bags. The hags then slip between planes of existence to barter stolen souls to vile magic-users and fiendish entities.
 
@@ -44,17 +44,17 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+6"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "cold, fire"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 15"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"
@@ -62,18 +62,18 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 14): [Augury](Compendium/spells/augury-xphb.md), [Find Familiar](Compendium/spells/find-familiar-xphb.md),\
-      \ [Identify](Compendium/spells/identify-xphb.md), [Locate Object](Compendium/spells/locate-object-xphb.md),\
-      \ [Scrying](Compendium/spells/scrying-xphb.md), or [Unseen Servant](Compendium/spells/unseen-servant-xphb.md).\
-      \ The hag must finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md)\
+      \ save DC 14): [[augury-xphb|Augury]], [[find-familiar-xphb|Find Familiar]],\
+      \ [[identify-xphb|Identify]], [[locate-object-xphb|Locate Object]],\
+      \ [[scrying-xphb|Scrying]], or [[unseen-servant-xphb|Unseen Servant]].\
+      \ The hag must finish a [[long-rest-xphb|Long Rest]]\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
-  - "desc": "The hag has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The hag has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The hag has a soul bag. While holding or carrying the bag, the hag can\
-      \ use its Nightmare Haunting action.\n\nThe bag has AC 15, HP 20, and [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
-      \ to all damage. The bag turns to dust if reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ use its Nightmare Haunting action.\n\nThe bag has AC 15, HP 20, and [[resistance-xphb|Resistance]]\
+      \ to all damage. The bag turns to dust if reduced to 0 [[hit-points-xphb|Hit Points]].\
       \ If the bag is destroyed, any souls the bag is holding are released. The hag\
       \ can create a new bag after 7 days."
     "name": "Soul Bag"
@@ -85,19 +85,19 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
     "name": "Claw"
   - "desc": "The hag casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 14):\n\n\
-      **At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Etherealness](Compendium/spells/etherealness-xphb.md),\
-      \ [Magic Missile](Compendium/spells/magic-missile-xphb.md) (level 4 version)\n\
-      \n**2/day each:** [Phantasmal Killer](Compendium/spells/phantasmal-killer-xphb.md),\
-      \ [Plane Shift](Compendium/spells/plane-shift-xphb.md) (self only)"
+      **At will:** [[detect-magic-xphb|Detect Magic]], [[etherealness-xphb|Etherealness]],\
+      \ [[magic-missile-xphb|Magic Missile]] (level 4 version)\n\
+      \n**2/day each:** [[phantasmal-killer-xphb|Phantasmal Killer]],\
+      \ [[plane-shift-xphb|Plane Shift]] (self only)"
     "name": "Spellcasting"
-  - "desc": "While on the Ethereal Plane, the hag casts [Dream](Compendium/spells/dream-xphb.md),\
+  - "desc": "While on the Ethereal Plane, the hag casts [[dream-xphb|Dream]],\
       \ using the same spellcasting ability as Spellcasting. Only the hag can serve\
       \ as the spell's messenger, and the target must be a creature the hag can see\
       \ on the Material Plane. The spell fails and is wasted if the target is under\
-      \ the effect of the [Protection from Evil and Good](Compendium/spells/protection-from-evil-and-good-xphb.md)\
-      \ spell or within a [Magic Circle](Compendium/spells/magic-circle-xphb.md) spell.\n\
-      \nIf the target takes damage from the [Dream](Compendium/spells/dream-xphb.md)\
-      \ spell, the target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ the effect of the [[protection-from-evil-and-good-xphb|Protection from Evil and Good]]\
+      \ spell or within a [[magic-circle-xphb|Magic Circle]] spell.\n\
+      \nIf the target takes damage from the [[dream-xphb|Dream]]\
+      \ spell, the target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to that damage. If the spell kills the\
       \ target, its soul is trapped in the hag's soul bag, and the target can't be\
       \ raised from the dead until its soul is released.\n"

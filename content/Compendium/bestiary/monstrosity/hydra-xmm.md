@@ -56,12 +56,12 @@ While many hydras claim their own territories, wicked deities might use them to 
   - !!int "7"
 "speed": "40 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
-  \ [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 16"
 "languages": ""
 "cr": "8"
@@ -73,11 +73,11 @@ While many hydras claim their own territories, wicked deities might use them to 
       \ dead. At the end of each of its turns when it has at least one living head,\
       \ the hydra grows two heads for each of its heads that died since its last turn,\
       \ unless it has taken Fire damage since its last turn. The hydra regains 20\
-      \ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) when it grows\
+      \ [[hit-points-xphb|Hit Points]] when it grows\
       \ new heads."
     "name": "Multiple Heads"
-  - "desc": "For each head the hydra has beyond one, it gets an extra [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
-      \ that can be used only for [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+  - "desc": "For each head the hydra has beyond one, it gets an extra [[reaction-xphb|Reaction]]\
+      \ that can be used only for [[actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Reactive Heads"
 "actions":
   - "desc": "The hydra makes as many Bite attacks as it has heads."

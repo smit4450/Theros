@@ -40,12 +40,12 @@ aliases: ["Rotted Hulk"]
 "damage_vulnerabilities": "fire"
 "damage_resistances": "cold, bludgeoning, piercing, slashing, necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion), [paralyzed](Compendium/rules/conditions.md#Paralyzed), [poisoned](Compendium/rules/conditions.md#Poisoned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]], [[conditions#Paralyzed|paralyzed]], [[conditions#Poisoned|poisoned]], [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": ""
 "cr": "15"
 "traits":
-  - "desc": "Any humanoid that starts its turn within 30 feet of the hulk and can see the hulk must make a DC 10 Wisdom saving throw. On a failed save, the creature is [frightened](Compendium/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) if the hulk is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hulk's Horrific Appearance for the next 24 hours. Unless the target is surprised, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against the hulk."
+  - "desc": "Any humanoid that starts its turn within 30 feet of the hulk and can see the hulk must make a DC 10 Wisdom saving throw. On a failed save, the creature is [[conditions#Frightened|frightened]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with [[disadvantage-xphb|Disadvantage]] if the hulk is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hulk's Horrific Appearance for the next 24 hours. Unless the target is surprised, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has [[disadvantage-xphb|Disadvantage]] on attack rolls against the hulk."
     "name": "Horrific Appearance"
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 24 (4d8+6) bludgeoning damage."

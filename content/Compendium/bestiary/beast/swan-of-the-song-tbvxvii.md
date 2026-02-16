@@ -39,17 +39,17 @@ One way to counter a spell is to turn it into a bird.
   - !!int "14"
 "speed": "20 ft., fly 50 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+4"
-  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/8"
 "traits":
-  - "desc": "The swan has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on hearing."
+  - "desc": "The swan has [[advantage-xphb|Advantage]] on Wisdom (Perception) checks that rely on hearing."
     "name": "Keen Hearing"
-  - "desc": "The swan has glowing patterns on its skin that take the shape of defensive runes, granting it [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects."
+  - "desc": "The swan has glowing patterns on its skin that take the shape of defensive runes, granting it [[advantage-xphb|Advantage]] on saving throws against spells and other magical effects."
     "name": "Bioluminescent Markings"
 "actions":
   - "desc": "The swan makes two attacks: one with its bite and one with its wings."

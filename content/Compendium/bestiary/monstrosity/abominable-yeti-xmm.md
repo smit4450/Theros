@@ -54,17 +54,17 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
   - !!int "9"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_immunities": "cold"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 19"
 "languages": "Yeti"
 "cr": "9"
 "traits":
-  - "desc": "If the yeti takes Fire damage, it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "If the yeti takes Fire damage, it has [[disadvantage-xphb|Disadvantage]]\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Fear of Fire"
 "actions":
@@ -78,12 +78,12 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
       \ damage plus 7 (2d6) Cold damage."
     "name": "Ice Throw"
   - "desc": "*Constitution Saving Throw:* DC 18, one creature the yeti can see within\
-      \ 30 feet. *Failure:* 21 (6d6) Cold damage, and the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
-      \ condition until the start of the yeti's next turn unless the target has [Immunity](Compendium/rules/variant-rules/immunity-xphb.md)\
+      \ 30 feet. *Failure:* 21 (6d6) Cold damage, and the target has the [[conditions#Paralyzed|Paralyzed]]\
+      \ condition until the start of the yeti's next turn unless the target has [[immunity-xphb|Immunity]]\
       \ to Cold damage. *Success:* The target is immune to this yeti's Chilling Gaze\
       \ for 1 hour."
     "name": "Chilling Gaze"
-  - "desc": "*Constitution Saving Throw:* DC 18, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Constitution Saving Throw:* DC 18, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 45 (10d8) Cold damage. *Success:* Half damage."
     "name": "Cold Breath (Recharge 6)"
 "source":

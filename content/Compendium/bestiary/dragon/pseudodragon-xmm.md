@@ -25,7 +25,7 @@ aliases: ["Pseudodragon"]
 *Fickle, Pint-Sized Dragon*
 
 - **Habitat.** Coastal, Desert, Forest, Hill, Mountain, Urban  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Pseudodragons dwell in scenic wildernesses, preferably where life is easy and prey is small and slow. There they behave like contented wyrms, creating tiny lairs amid ancient trees and rugged cliffs. They fill these lairs with shiny rocks, colorful shells, and unattended treasures that catch their attention, and they guard these hoards fiercely.
 
@@ -73,16 +73,16 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
   - !!int "10"
 "speed": "15 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 15"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
-  - "desc": "The pseudodragon has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The pseudodragon has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -93,9 +93,9 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
     "name": "Bite"
   - "desc": "*Constitution Saving Throw:* DC 12, one creature the pseudodragon can\
       \ see within 5 feet. *Failure:* 5 (2d4) Poison damage, and the target has\
-      \ the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour.\
-      \ While [Poisoned](Compendium/rules/conditions.md#Poisoned), the target also\
-      \ has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition,\
+      \ the [[conditions#Poisoned|Poisoned]] condition for 1 hour.\
+      \ While [[conditions#Poisoned|Poisoned]], the target also\
+      \ has the [[conditions#Unconscious|Unconscious]] condition,\
       \ which ends early if the target takes damage or a creature within 5 feet of\
       \ it takes an action to wake it."
     "name": "Sting"

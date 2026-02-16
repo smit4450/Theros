@@ -22,7 +22,7 @@ Ancient black dragons plot the ruin of whole realms. They seek magic to corrupt 
 *Dragons of Decay and Despair*
 
 - **Habitat.** Swamp  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 
@@ -57,12 +57,12 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   - "dexterity": !!int "9"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+16"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+9"
 "damage_immunities": "acid"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 26"
 "languages": "Common, Draconic"
 "cr": "21"
@@ -73,33 +73,33 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [Melf's Acid Arrow](Compendium/spells/melfs-acid-arrow-xphb.md)\
+      \ use of Spellcasting to cast [[melfs-acid-arrow-xphb|Melf's Acid Arrow]]\
       \ (level 4 version)."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +15, reach 15 ft. *Hit:* 17 (2d8 + 8) Slashing\
       \ damage plus 9 (2d8) Acid damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 22, each creature in a 90-foot-long, 10-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 67 (15d8) Acid damage. *Success:* Half damage."
     "name": "Acid Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21, +13 to\
-      \ hit with spell attacks):\n\n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md),\
-      \ [Fear](Compendium/spells/fear-xphb.md), [Melf's Acid Arrow](Compendium/spells/melfs-acid-arrow-xphb.md)\
-      \ (level 4 version)\n\n**1/day each:** [Create Undead](Compendium/spells/create-undead-xphb.md),\
-      \ [Speak with Dead](Compendium/spells/speak-with-dead-xphb.md), [Vitriolic Sphere](Compendium/spells/vitriolic-sphere-xphb.md)\
+      \ hit with spell attacks):\n\n**At will:** [[detect-magic-xphb|Detect Magic]],\
+      \ [[fear-xphb|Fear]], [[melfs-acid-arrow-xphb|Melf's Acid Arrow]]\
+      \ (level 4 version)\n\n**1/day each:** [[create-undead-xphb|Create Undead]],\
+      \ [[speak-with-dead-xphb|Speak with Dead]], [[vitriolic-sphere-xphb|Vitriolic Sphere]]\
       \ (level 5 version)"
     "name": "Spellcasting"
 "regional_effects":
   - "desc": "The region containing an adult or ancient black dragon's lair is warped\
       \ by its presence, creating the following effects:\n\n- **Acrid Haze.** Odorous\
       \ and stifling fog covers the area within 1 mile of the lair, rendering that\
-      \ area [Lightly Obscured](Compendium/rules/variant-rules/lightly-obscured-xphb.md).\
+      \ area [[lightly-obscured-xphb|Lightly Obscured]].\
       \ Travel for creatures other than the dragon and its allies takes twice the\
       \ usual time in that area.  \n- **Foul Water.** Water sources within 1 mile\
       \ of the lair are supernaturally fouled. A creature that drinks such water must\
-      \ succeed on a DC 15 Constitution saving throw or have the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]]\
       \ condition for 1 hour.  \n\nIf the dragon dies or moves its lair elsewhere,\
       \ these effects end immediately."
     "name": ""
@@ -108,15 +108,15 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   \ actions. The dragon regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "*Dexterity Saving Throw:* DC 21, one creature the dragon can see within\
-      \ 120 feet. *Failure:* 33 (6d10) Poison damage, and the target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-      \ on saving throws to maintain [Concentration](Compendium/rules/conditions.md#Concentration)\
+      \ 120 feet. *Failure:* 33 (6d10) Poison damage, and the target has [[disadvantage-xphb|Disadvantage]]\
+      \ on saving throws to maintain [[conditions#Concentration|Concentration]]\
       \ until the end of its next turn. *Failure or Success:* The dragon can't take\
       \ this action again until the start of its next turn."
     "name": "Cloud of Insects"
-  - "desc": "The dragon uses Spellcasting to cast [Fear](Compendium/spells/fear-xphb.md).\
+  - "desc": "The dragon uses Spellcasting to cast [[fear-xphb|Fear]].\
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Frightful Presence"
-  - "desc": "The dragon moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "source":

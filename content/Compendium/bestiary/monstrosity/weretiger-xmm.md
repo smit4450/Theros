@@ -22,7 +22,7 @@ aliases: ["Weretiger"]
 *Changed by the Power of the Tiger*
 
 - **Habitat.** Desert, Forest, Grassland  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids. Although they can transform at will or when their magical nature demands, many weretigers are nocturnal and transform into their bestial shapes at night. Some weretigers' transformations might also be tied to the crescent moon, seasons, or momentous events. Weretigers often view their abilities as a blessing or a family honor, and they use their shape-shifting abilities to defend something with historic importance. Roll on or choose a result from the Weretiger Wards table to inspire what a weretiger defends.
 
@@ -59,11 +59,11 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
   - !!int "11"
 "speed": "30 ft., 40 ft. (tiger form only)"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": "Common (can't speak in tiger form)"
 "cr": "4"
@@ -74,8 +74,8 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 12 (2d8 + 3) Piercing\
       \ damage. If the target is a Humanoid, it is subjected to the following effect.\
       \ *Constitution Saving Throw:* DC 13. *Failure:* The target is cursed. If the\
-      \ cursed target drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Weretiger under the DM's control and has 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ cursed target drops to 0 [[hit-points-xphb|Hit Points]],\
+      \ it instead becomes a Weretiger under the DM's control and has 10 [[hit-points-xphb|Hit Points]].\
       \ *Success:* The target is immune to this weretiger's curse for 24 hours."
     "name": "Bite (Tiger or Hybrid Form Only)"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing\
@@ -85,8 +85,8 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
       \ damage."
     "name": "Longbow (Humanoid or Hybrid Form Only)"
 "bonus_actions":
-  - "desc": "The weretiger moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).\
+  - "desc": "The weretiger moves up to its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
       \ At the end of this movement, the weretiger can take the Hide action."
     "name": "Prowl (Tiger or Hybrid Form Only)"
   - "desc": "The weretiger shape-shifts into a Large tiger-humanoid hybrid or a Large\

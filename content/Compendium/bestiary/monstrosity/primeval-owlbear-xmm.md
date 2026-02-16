@@ -60,14 +60,14 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
   - "constitution": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 18"
 "languages": ""
 "cr": "7"
 "traits":
-  - "desc": "The owlbear has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The owlbear has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -76,12 +76,12 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
   - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 15 (2d8 + 6) Slashing\
       \ damage. If the target is a Huge or smaller creature and the owlbear moved\
       \ 20+ feet straight toward it immediately before the hit, the target takes an\
-      \ extra 9 (2d8) Slashing damage and has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ extra 9 (2d8) Slashing damage and has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Ravage"
-  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the owlbear. *Failure:* 27 (6d8) Thunder damage, and the\
-      \ target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn. *Success:* Half damage only."
     "name": "Screech (Recharge 5-6)"
 "source":

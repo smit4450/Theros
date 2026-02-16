@@ -37,15 +37,15 @@ The scholar of Athreos is a religious acolyte. She oversees the tithes for the t
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](Compendium/rules/skills.md#Medicine)"
+  - "name": "[[skills#Medicine|Medicine]]"
     "desc": "+4"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common, Any one language"
 "cr": "1/2"
 "traits":
-  - "desc": "The scholar of athreos's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [Speak With Dead](Compendium/spells/speak-with-dead-xphb.md), [Light](Compendium/spells/light-xphb.md), [Sacred Flame](Compendium/spells/sacred-flame-xphb.md) 3/day: [Bless](Compendium/spells/bless-xphb.md), [Cure Wounds](Compendium/spells/cure-wounds-xphb.md), [Sanctuary](Compendium/spells/sanctuary-xphb.md)"
+  - "desc": "The scholar of athreos's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: [[speak-with-dead-xphb|Speak With Dead]], [[light-xphb|Light]], [[sacred-flame-xphb|Sacred Flame]] 3/day: [[bless-xphb|Bless]], [[cure-wounds-xphb|Cure Wounds]], [[sanctuary-xphb|Sanctuary]]"
     "name": "Innate Spellcasting"
   - "desc": "When speaking with the dead, the scholar presents a gold coin (worth 1 gp). If the scholar is generally satisfied with the corpse's responses, the scholar pays the corpse that amount."
     "name": "Bribery"

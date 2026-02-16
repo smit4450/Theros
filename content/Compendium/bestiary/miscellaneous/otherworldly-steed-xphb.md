@@ -41,7 +41,7 @@ aliases: ["Otherworldly Steed"]
     "name": "Otherworldly Slam"
 "bonus_actions":
   - "desc": "*Wisdom Saving Throw:* DC equals your spell save DC, one creature within\
-      \ 60 feet the steed can see. *Failure:* The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ 60 feet the steed can see. *Failure:* The target has the [[conditions#Frightened|Frightened]]\
       \ condition until the end of your next turn."
     "name": "Fell Glare (Fiend Only; Recharges after a Long Rest)"
   - "desc": "The steed teleports, along with its rider, to an unoccupied space of\

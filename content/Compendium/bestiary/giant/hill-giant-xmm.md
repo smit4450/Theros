@@ -20,7 +20,7 @@ aliases: ["Hill Giant"]
 *Giant of Crags and Valleys*
 
 - **Habitat.** Hill  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Hill giants live among rugged bluffs and highlands. Standing three times the size of most humans, these giants exhibit skin and hair in a range of shades, including hues suggestive of the earth and mosses near their dwellings.
 
@@ -45,7 +45,7 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Giant"
@@ -54,11 +54,11 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
   - "desc": "The giant makes two attacks, using Tree Club or Trash Lob in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 18 (3d8 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Tree Club"
   - "desc": "*Ranged Attack Roll:* +8, range 60/240 ft. *Hit:* 16 (2d10 + 5) Bludgeoning\
-      \ damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the end of its next turn."
     "name": "Trash Lob"
 "source":

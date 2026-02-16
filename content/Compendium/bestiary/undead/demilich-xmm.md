@@ -20,7 +20,7 @@ aliases: ["Demilich"]
 *What Lies beyond Lichdom*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 A demilich is a skull harboring the remnants of a lich's wicked essence. If the burden of immortality overwhelms a lich, its consciousness turns inward as its body rots away. But if its remains are disturbed, a demilich rises. Demiliches usually appear as skulls adorned with gems or arcane sigils.
 
@@ -50,20 +50,20 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
   - "wisdom": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, poison, psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened),\
-  \ [exhaustion](Compendium/rules/conditions.md#Exhaustion), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned), [prone](Compendium/rules/conditions.md#Prone),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Stunned|stunned]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 13"
 "languages": ""
 "cr": "18"
 "traits":
   - "desc": "If the demilich fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "If the demilich is destroyed, it reforms and regains all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ in 1d10 days unless a [Wish](Compendium/spells/wish-xphb.md) spell is cast\
+  - "desc": "If the demilich is destroyed, it reforms and regains all its [[hit-points-xphb|Hit Points]]\
+      \ in 1d10 days unless a [[wish-xphb|Wish]] spell is cast\
       \ on its remains."
     "name": "Undead Restoration"
 "actions":
@@ -72,19 +72,19 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
   - "desc": "*Melee  or Ranged Attack Roll:* +11, reach 5 ft. or range 120 ft. *Hit:*\
       \ 24 (7d6) Necrotic damage."
     "name": "Necrotic Burst"
-  - "desc": "*Constitution Saving Throw:* DC 19, each creature in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Constitution Saving Throw:* DC 19, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the demilich. *Failure:* 70 (20d6) Psychic damage. *Failure\
-      \ or Success:* The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ or Success:* The target has the [[conditions#Frightened|Frightened]]\
       \ condition until the start of the demilich's next turn."
     "name": "Howl (Recharge 5-6)"
 "regional_effects":
   - "desc": "The region containing a demilich's lair is twisted by its presence, creating\
       \ the following effects:\n\n- **Enervating Domain.** Whenever a creature other\
-      \ than the demilich or one of its allies finishes a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md)\
+      \ than the demilich or one of its allies finishes a [[long-rest-xphb|Long Rest]]\
       \ within 1 mile of the lair, the creature must succeed on a DC 20 Constitution\
-      \ saving throw or have its [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ saving throw or have its [[hit-points-xphb|Hit Point]]\
       \ maximum reduced by 1d4. This reduction lasts until the creature finishes\
-      \ a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) outside that\
+      \ a [[long-rest-xphb|Long Rest]] outside that\
       \ area.  \n- **Travel Ward.** Creatures can't use teleportation or planar travel\
       \ to enter or exit the lair.  \n\nIf the demilich dies or moves its lair elsewhere,\
       \ these effects end immediately."
@@ -94,14 +94,14 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
   \ actions. The demilich regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "*Constitution Saving Throw:* DC 19, one creature the demilich can see\
-      \ within 120 feet. *Failure:* The target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ within 120 feet. *Failure:* The target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by 14 (4d6). *Failure or Success:* The demilich can't\
       \ take this action again until the start of its next turn."
     "name": "Energy Drain"
-  - "desc": "The demilich flies up to its [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md),\
+  - "desc": "The demilich flies up to its [[fly-speed-xphb|Fly Speed]],\
       \ shedding grave dust. Each creature within 5 feet of the demilich as it moves\
       \ is targeted once by the following effect. *Constitution Saving Throw:* DC\
-      \ 19. *Failure:* The target has the [Blinded](Compendium/rules/conditions.md#Blinded)\
+      \ 19. *Failure:* The target has the [[conditions#Blinded|Blinded]]\
       \ condition until the end of the demilich's next turn. *Failure or Success:*\
       \ The demilich can't take this action again until the start of its next turn."
     "name": "Grave-Dust Flight"

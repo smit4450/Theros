@@ -22,7 +22,7 @@ Young brass dragons travel extensively, often spending a few years in a region b
 *Dragons of Lore and Rapport*
 
 - **Habitat.** Desert  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Gregarious and outgoing, brass dragons relish sharing knowledge and stories. Although these metallic dragons favor arid lands, they cheerfully journey considerable distances to visit friendly creatures, pass on what they've learned, and collect news. Though good natured, brass dragons don't shirk from combat when necessary, thwarting foes with magical sleep and searing them with flame.
 
@@ -57,14 +57,14 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "dexterity": !!int "3"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+5"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_immunities": "fire"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "6"
@@ -76,13 +76,13 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
       \ damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 14, each creature in a 40-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 38 (11d6) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 5-6)"
-  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *Failure:* The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, at which point it repeats the save.\
-      \ *2Nd Failure:* The target has the [Unconscious](Compendium/rules/conditions.md#Unconscious)\
+      \ *2Nd Failure:* The target has the [[conditions#Unconscious|Unconscious]]\
       \ condition for 1 minute. This effect ends for the target if it takes damage\
       \ or a creature within 5 feet of it takes an action to wake it."
     "name": "Sleep Breath"

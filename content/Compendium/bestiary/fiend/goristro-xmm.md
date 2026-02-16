@@ -21,7 +21,7 @@ aliases: ["Goristro"]
 *Demon of Disaster*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Terrifying in scale and overwhelming power, goristros are giant demons capable of bringing cities to ruin. These demons embody senseless anarchy and nihilistic destruction, and they take special offense at creatures or structures that rival them in size. Castles, towers, giants, and beasts of war are all common victims of these monsters' wrath.
 
@@ -55,23 +55,23 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
   - "constitution": !!int "13"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 17"
 "languages": "Abyssal"
 "cr": "17"
 "traits":
   - "desc": "If the goristro dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The goristro has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The goristro has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The goristro deals double damage to objects and structures."
@@ -81,14 +81,14 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +13, reach 10 ft. *Hit:* 40 (6d10 + 7) Piercing\
       \ damage. If the target is a Huge or smaller creature, it is pushed up to 20\
-      \ feet straight away from the goristro and has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ feet straight away from the goristro and has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Brutal Gore"
   - "desc": "*Melee Attack Roll:* +13, reach 10 ft. *Hit:* 29 (4d10 + 7) Bludgeoning\
       \ damage."
     "name": "Slam"
 "bonus_actions":
-  - "desc": "The goristro moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "The goristro moves up to half its [[speed-xphb|Speed]]\
       \ straight toward an enemy it can see."
     "name": "Charge"
 "source":

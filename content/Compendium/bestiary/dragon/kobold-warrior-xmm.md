@@ -30,7 +30,7 @@ Kobold warriors use hit-and-run tactics to raid their enemies and defend their h
 *Tricksters and Servants to Chromatic Dragons*
 
 - **Habitat.** Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Cowardly cousins to chromatic dragons, kobolds serve draconic overlords as warriors and servants. These scrappy menaces mimic the behaviors of their dragon masters. Though their small stature and recklessness make kobolds poor imitators of dragons, what they lack in ferocity they make up for in zeal and ingenuity. They are especially adept at creating traps and setting ambushes.
 
@@ -54,17 +54,17 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
   - !!int "7"
   - !!int "8"
 "speed": "30 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 8"
 "languages": "Common, Draconic"
 "cr": "1/8"
 "traits":
-  - "desc": "The kobold has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The kobold has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the kobold's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
-  - "desc": "While in sunlight, the kobold has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kobold has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":

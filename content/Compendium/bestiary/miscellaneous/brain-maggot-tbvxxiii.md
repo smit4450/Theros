@@ -36,10 +36,10 @@ aliases: ["Brain Maggot"]
   - !!int "1"
 "speed": "climb 1 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+-3"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 0 ft. (can't see beyond this radius), passive Perception 10"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]]"
+"senses": "[[senses#Blindsight|Blindsight]] 0 ft. (can't see beyond this radius), passive Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
@@ -47,7 +47,7 @@ aliases: ["Brain Maggot"]
     "name": "Amphibious"
   - "desc": "The maggot's weapon attacks are magical."
     "name": "Magic Weapons"
-  - "desc": "The maggot attaches itself to a host that comes into contact with its previous host's corpse. A DC 10 Wisdom (Perception) check is enough to see and avoid the maggot. The maggot latches onto a host with its jaws, though it uses numbing chemicals to prevent its detection. If the maggot goes unnoticed, it burrows into the host's flesh. Within 4 hours, the maggot reaches the host's brain. The host must succeed on a DC 15 Constitution saving throw every 4 hours or take 3 (1d6) magical psychic damage and the host's Intelligence, Wisdom and Charisma scores are reduced by 1 point. The reduction lasts until the host's brain is healed. If the host's Intelligence drops to 1, it goes [unconscious](Compendium/rules/conditions.md#Unconscious). If its intelligence drops to 0, it dies. A subcutaneous maggot can be mitigated by applying fire for 3 turns to the point of entry, causing a combined 13 (3d8) fire damage to the host, or by succeeding on a DC 15 Wisdom (Medicine) check and cutting the maggot out with a sharp instrument, causing an additional 14 (4d6) piercing damage to the host. A greater restoration or heal spell will destroy the maggot, ending the infestation and restoring the lost Intelligence, Wisdom, and Charisma."
+  - "desc": "The maggot attaches itself to a host that comes into contact with its previous host's corpse. A DC 10 Wisdom (Perception) check is enough to see and avoid the maggot. The maggot latches onto a host with its jaws, though it uses numbing chemicals to prevent its detection. If the maggot goes unnoticed, it burrows into the host's flesh. Within 4 hours, the maggot reaches the host's brain. The host must succeed on a DC 15 Constitution saving throw every 4 hours or take 3 (1d6) magical psychic damage and the host's Intelligence, Wisdom and Charisma scores are reduced by 1 point. The reduction lasts until the host's brain is healed. If the host's Intelligence drops to 1, it goes [[conditions#Unconscious|unconscious]]. If its intelligence drops to 0, it dies. A subcutaneous maggot can be mitigated by applying fire for 3 turns to the point of entry, causing a combined 13 (3d8) fire damage to the host, or by succeeding on a DC 15 Wisdom (Medicine) check and cutting the maggot out with a sharp instrument, causing an additional 14 (4d6) piercing damage to the host. A greater restoration or heal spell will destroy the maggot, ending the infestation and restoring the lost Intelligence, Wisdom, and Charisma."
     "name": "Parasite"
   - "desc": "In addition to being a creature, the maggot is a 2nd-level divine transmutation spell with no target."
     "name": "Spell Nature"

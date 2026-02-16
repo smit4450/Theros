@@ -27,7 +27,7 @@ Most cyclops sentries serve their divine progenitors and oppose those who would 
 *Monocular Servants of Destiny*
 
 - **Habitat.** Coastal, Desert, Grassland, Hill, Mountain, Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 ## Statblock
@@ -56,7 +56,7 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
   - "desc": "The cyclops makes two attacks, using Stone Club or Rock in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +9, reach 10 ft. *Hit:* 16 (3d6 + 6) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Stone Club"
   - "desc": "*Ranged Attack Roll:* +9, range 30/120 ft. *Hit:* 22 (3d10 + 6) Bludgeoning\
@@ -64,8 +64,8 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
     "name": "Rock"
 "reactions":
   - "desc": "Trigger: A creature the cyclops can see makes an attack roll against\
-      \ it. _Response:_ The cyclops imposes [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-      \ on the roll, and the cyclops gains [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ it. _Response:_ The cyclops imposes [[disadvantage-xphb|Disadvantage]]\
+      \ on the roll, and the cyclops gains [[advantage-xphb|Advantage]]\
       \ on attack rolls against the target until the end of the cyclops's next turn."
     "name": "Limited Foresight (Recharge 6)"
 "source":

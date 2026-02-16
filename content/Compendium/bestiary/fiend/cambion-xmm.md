@@ -20,7 +20,7 @@ aliases: ["Cambion"]
 *Mortal Infused with Fiendish Might*
 
 - **Habitat.** Any  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Cambions are former mortals corrupted by fiendish power or possessed by insidious forces. While tieflings are free-willed individuals with a hint of fiendish ancestry, cambions are inherently tied to or remade by the wicked magic of the Lower Planes.
 
@@ -66,15 +66,15 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
   - "intelligence": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+6"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "5"
@@ -89,10 +89,10 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
     "name": "Fire Ray"
   - "desc": "The cambion casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n**2/day each:** [Alter Self](Compendium/spells/alter-self-xphb.md), [Command](Compendium/spells/command-xphb.md)\
-      \ (level 3 version), [Detect Magic](Compendium/spells/detect-magic-xphb.md)\n\
-      \n**1/day each:** [Dominate Person](Compendium/spells/dominate-person-xphb.md)\
-      \ (level 8 version), [Plane Shift](Compendium/spells/plane-shift-xphb.md) (self\
+      \n**2/day each:** [[alter-self-xphb|Alter Self]], [[command-xphb|Command]]\
+      \ (level 3 version), [[detect-magic-xphb|Detect Magic]]\n\
+      \n**1/day each:** [[dominate-person-xphb|Dominate Person]]\
+      \ (level 8 version), [[plane-shift-xphb|Plane Shift]] (self\
       \ only)"
     "name": "Spellcasting"
 "source":

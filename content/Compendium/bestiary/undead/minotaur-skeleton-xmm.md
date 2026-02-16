@@ -61,9 +61,9 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
@@ -71,7 +71,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing\
       \ damage. If the target is a Large or smaller creature and the skeleton moved\
       \ 20+ feet straight toward it immediately before the hit, the target takes an\
-      \ extra 9 (2d8) Piercing damage and has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ extra 9 (2d8) Piercing damage and has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Gore"
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 15 (2d10 + 4) Bludgeoning\

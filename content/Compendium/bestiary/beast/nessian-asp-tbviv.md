@@ -35,15 +35,15 @@ aliases: ["Nessian Asp"]
   - !!int "3"
 "speed": "30 ft., climb 30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., passive Perception 10"
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The asp has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks and on saving throws against being [blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened), [stunned](Compendium/rules/conditions.md#Stunned), or knocked [unconscious](Compendium/rules/conditions.md#Unconscious)."
+  - "desc": "The asp has [[advantage-xphb|Advantage]] on Wisdom (Perception) checks and on saving throws against being [[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]], or knocked [[conditions#Unconscious|unconscious]]."
     "name": "Two Heads"
-  - "desc": "If the asp is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it doesn’t die or fall [unconscious](Compendium/rules/conditions.md#Unconscious). Instead, it sheds its skin, regains 19 (4d8+1) [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), and moves up to its speed without provoking opportunity attacks."
+  - "desc": "If the asp is reduced to 0 [[hit-points-xphb|Hit Points]], it doesn’t die or fall [[conditions#Unconscious|unconscious]]. Instead, it sheds its skin, regains 19 (4d8+1) [[hit-points-xphb|Hit Points]], and moves up to its speed without provoking opportunity attacks."
     "name": "Shed Skin (Mythic Trait; Recharges after a Short or Long Rest)."
 "actions":
   - "desc": "The asp makes two bite attacks on either one or two targets that are within 5 feet of each other."

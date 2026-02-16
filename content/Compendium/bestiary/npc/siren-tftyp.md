@@ -32,24 +32,24 @@ Imprisoned inside a mist-filled chamber in the Tomb of Horrors, Siren serves as 
   - !!int "16"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Medicine](Compendium/rules/skills.md#Medicine)"
+  - "name": "[[skills#Medicine|Medicine]]"
     "desc": "+4"
-  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+3"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Common, Elvish, Sylvan"
 "cr": "3"
 "traits":
   - "desc": "Siren's innate spellcasting ability is Charisma (spell save DC 13). She\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**1/day each:** [charm person](Compendium/spells/charm-person-xphb.md), [fog\
-      \ cloud](Compendium/spells/fog-cloud-xphb.md), [greater invisibility](Compendium/spells/greater-invisibility-xphb.md),\
-      \ [polymorph](Compendium/spells/polymorph-xphb.md) (self only)"
+      \n**1/day each:** [[charm-person-xphb|charm person]], [[fog-cloud-xphb|fog\
+      \ cloud]], [[greater-invisibility-xphb|greater invisibility]],\
+      \ [[polymorph-xphb|polymorph]] (self only)"
     "name": "Innate Spellcasting"
   - "desc": "Siren can breathe air and water."
     "name": "Amphibious"
@@ -62,7 +62,7 @@ Imprisoned inside a mist-filled chamber in the Tomb of Horrors, Siren serves as 
     "name": "Shortsword"
   - "desc": "Siren touches one creature she can see within 5 feet of her. The creature\
       \ must succeed on a DC 13 Intelligence saving throw or take 13 (3d6 + 3) psychic\
-      \ damage and be [stunned](Compendium/rules/conditions.md#Stunned) until the\
+      \ damage and be [[conditions#Stunned|stunned]] until the\
       \ start of Siren's next turn."
     "name": "Stupefying Touch"
 "source":

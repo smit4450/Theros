@@ -20,7 +20,7 @@ aliases: ["Assassin"]
 *Contract Killer*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
 
 Assassins are professional killers skilled at stealthily approaching their victims and striking unseen. Most assassins kill for a reason, perhaps hiring themselves out to wealthy patrons or slaying for an unscrupulous cause. They use poisons and other deadly tools, and they might carry equipment to help them break into secure areas or avoid capture.
 
@@ -58,11 +58,11 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
   - "dexterity": !!int "7"
   - "intelligence": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+10"
 "damage_resistances": "poison"
 "senses": "passive Perception 16"
@@ -72,7 +72,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
   - "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, the assassin instead takes no damage\
       \ if it succeeds on the save and only half damage if it fails. It can't use\
-      \ this trait if it has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ this trait if it has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Evasion"
 "actions":
@@ -80,7 +80,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
       \ in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Piercing\
-      \ damage plus 17 (5d6) Poison damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ damage plus 17 (5d6) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the assassin's next turn."
     "name": "Shortsword"
   - "desc": "*Ranged Attack Roll:* +7, range 80/320 ft. *Hit:* 8 (1d8 + 4) Piercing\

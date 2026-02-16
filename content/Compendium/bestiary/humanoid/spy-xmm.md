@@ -22,7 +22,7 @@ Spies use charm and deception to veil their true intentions. If forced into comb
 *Infiltrators and Informants*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
 
 Spies gather information and disseminate lies, manipulating people to gain the results the spies' patrons desire. They're trained to manipulate, infiltrate, and—when necessary—escape in a hurry. Many adopt disguises, aliases, or code names to maintain anonymity. Roll on or choose a result from the Spy Personas table to inspire a spy's disguise.
 
@@ -55,17 +55,17 @@ Spies gather information and disseminate lies, manipulating people to gain the r
   - !!int "16"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+4"
-  - "name": "[Investigation](Compendium/rules/skills.md#Investigation)"
+  - "name": "[[skills#Investigation|Investigation]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common plus one other language"

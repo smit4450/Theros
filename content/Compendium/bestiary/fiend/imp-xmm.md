@@ -49,35 +49,35 @@ Imps without masters delight in manipulating other creatures and inflating their
   - !!int "14"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+4"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+3"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
+  \ by magical [[darkness-xphb|Darkness]]), passive\
   \ Perception 11"
 "languages": "Common, Infernal"
 "cr": "1"
 "traits":
-  - "desc": "The imp has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The imp has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing\
       \ damage plus 7 (2d6) Poison damage."
     "name": "Sting"
-  - "desc": "The imp shape-shifts to resemble a rat ([Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "The imp shape-shifts to resemble a rat ([[speed-xphb|Speed]]\
       \ 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.),\
       \ or it returns to its true form. Its statistics are the same in each form,\
-      \ except for its [Speed](Compendium/rules/variant-rules/speed-xphb.md). Any\
+      \ except for its [[speed-xphb|Speed]]. Any\
       \ equipment it is wearing or carrying isn't transformed."
     "name": "Shape-Shift"
-  - "desc": "The imp casts [Invisibility](Compendium/spells/invisibility-xphb.md)\
+  - "desc": "The imp casts [[invisibility-xphb|Invisibility]]\
       \ on itself, requiring no spell components and using Charisma as the spellcasting\
       \ ability.\n"
     "name": "Invisibility"

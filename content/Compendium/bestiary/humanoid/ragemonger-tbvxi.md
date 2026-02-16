@@ -40,11 +40,11 @@ aliases: ["Ragemonger"]
   - "wisdom": !!int "2"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+4"
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+2"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
 "damage_immunities": "fire"
 "senses": "passive Perception 10"
@@ -53,7 +53,7 @@ aliases: ["Ragemonger"]
 "traits":
   - "desc": "Minotaurs the ragemonger can see have a speed bonus of +20 ft."
     "name": "Ragemonger"
-  - "desc": "The ragemonger's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: at will: [Fire Bolt](Compendium/spells/fire-bolt-xphb.md), _chromatic orb_ (fire)"
+  - "desc": "The ragemonger's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components: at will: [[fire-bolt-xphb|Fire Bolt]], _chromatic orb_ (fire)"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage, and it can use a bonus action to attempt to shove that target with its horns. The target must be within 5 feet of the minotaur and no more than one size larger than it. Unless the target succeeds on a DC 11 Strength saving throw, the minotaur pushes it up to 10 feet away from the minotaur."

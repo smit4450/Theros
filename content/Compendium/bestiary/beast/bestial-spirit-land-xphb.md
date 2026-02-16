@@ -28,13 +28,13 @@ aliases: ["Bestial Spirit (Land)"]
   - !!int "14"
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The spirit has Advantage on an attack roll against a creature if at least\
       \ one of the spirit's allies is within 5 feet of the creature and the ally doesn't\
-      \ have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition."
+      \ have the [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The spirit makes a number of Rend attacks equal to half this spell's\

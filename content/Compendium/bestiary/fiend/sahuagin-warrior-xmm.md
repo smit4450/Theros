@@ -54,16 +54,16 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - !!int "9"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "acid, cold"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 15"
 "languages": "Sahuagin"
 "cr": "1/2"
 "traits":
-  - "desc": "The sahuagin has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ on attack rolls against any creature that doesn't have all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "The sahuagin has [[advantage-xphb|Advantage]]\
+      \ on attack rolls against any creature that doesn't have all its [[hit-points-xphb|Hit Points]]."
     "name": "Blood Frenzy"
   - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
       \ once every 4 hours to avoid suffocating outside water."
@@ -78,7 +78,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
       \ damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "The sahuagin swims up to its [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md)\
+  - "desc": "The sahuagin swims up to its [[swim-speed-xphb|Swim Speed]]\
       \ straight toward an enemy it can see."
     "name": "Aquatic Charge"
 "source":

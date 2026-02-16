@@ -21,7 +21,7 @@ aliases: ["Arcanaloth"]
 *Yugoloth of Magical Manipulation*
 
 - **Habitat.** Planar (Lower Planes)  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 While all yugoloths are fiendish manifestations of wickedness and greed, arcanaloths bend their considerable intellects toward hoarding and exploiting secrets. They then deploy these secrets to ensnare countless victims and lesser villains, beguiling foes with false promises and powerful magic.
 
@@ -50,37 +50,37 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
   - "intelligence": !!int "9"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+9"
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+7"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 17"
 "languages": "all; telepathy 120 ft."
 "cr": "12"
 "traits":
   - "desc": "If the arcanaloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly and revives with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly and revives with all its [[hit-points-xphb|Hit Points]]\
       \ in Gehenna."
     "name": "Fiendish Restoration"
-  - "desc": "The arcanaloth has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The arcanaloth has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The arcanaloth has a magic tome. While holding or carrying the tome,\
       \ the arcanaloth can use its Banishing Claw action.\n\nThe tome has AC 17; HP\
-      \ 35; and [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Necrotic,\
-      \ Poison, and Psychic damage. The tome regains all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ at the end of every turn, but it turns to dust if reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ 35; and [[immunity-xphb|Immunity]] to Necrotic,\
+      \ Poison, and Psychic damage. The tome regains all its [[hit-points-xphb|Hit Points]]\
+      \ at the end of every turn, but it turns to dust if reduced to 0 [[hit-points-xphb|Hit Points]]\
       \ or when the arcanaloth dies. If the tome is destroyed, the arcanaloth can\
-      \ create a new one when it finishes a [Short](Compendium/rules/variant-rules/short-rest-xphb.md)\
-      \ or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md)."
+      \ create a new one when it finishes a [[short-rest-xphb|Short]]\
+      \ or [[long-rest-xphb|Long Rest]]."
     "name": "Soul Tome"
 "actions":
   - "desc": "The arcanaloth makes three Fiendish Burst attacks. It can replace one\
@@ -93,28 +93,28 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
       \ damage plus 19 (3d12) Psychic damage. If the target is a creature, it is\
       \ subjected to the following effect. *Charisma Saving Throw:* DC 17. *Failure:*\
       \ The target is trapped in a demiplane inside the Soul Tome. While trapped there,\
-      \ the target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ the target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. At the end of each of its turns, the target repeats the save, escaping\
       \ the tome on a success. When the target escapes, it appears in the space it\
       \ left or, if that space is occupied, the nearest unoccupied space.\n\nIf the\
       \ target fails three of these saves while in the demiplane, it becomes bound\
-      \ to the tome and can escape only if the tome is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+      \ to the tome and can escape only if the tome is reduced to 0 [[hit-points-xphb|Hit Points]]."
     "name": "Banishing Claw (Requires Soul Tome)"
   - "desc": "The arcanaloth casts one of the following spells, requiring no Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\n**At will:** [Alter Self](Compendium/spells/alter-self-xphb.md),\
-      \ [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Identify](Compendium/spells/identify-xphb.md),\
-      \ [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
-      \n**1/day each:** [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md),\
-      \ [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md), [Dimension Door](Compendium/spells/dimension-door-xphb.md),\
-      \ [Mind Blank](Compendium/spells/mind-blank-xphb.md)"
+      \ DC 17):\n\n**At will:** [[alter-self-xphb|Alter Self]],\
+      \ [[detect-magic-xphb|Detect Magic]], [[identify-xphb|Identify]],\
+      \ [[mage-hand-xphb|Mage Hand]], [[prestidigitation-xphb|Prestidigitation]]\n\
+      \n**1/day each:** [[contact-other-plane-xphb|Contact Other Plane]],\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[dimension-door-xphb|Dimension Door]],\
+      \ [[mind-blank-xphb|Mind Blank]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The arcanaloth teleports up to 30 feet to an unoccupied space it can\
       \ see."
     "name": "Teleport"
 "reactions":
-  - "desc": "The arcanaloth casts [Counterspell](Compendium/spells/counterspell-xphb.md)\
+  - "desc": "The arcanaloth casts [[counterspell-xphb|Counterspell]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Counterspell"

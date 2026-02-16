@@ -38,9 +38,9 @@ The archetype of imagination is a human wizard blessed by Ephara. His blessing e
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+6"
 "senses": "passive Perception 10"
 "languages": "Common"
@@ -48,7 +48,7 @@ The archetype of imagination is a human wizard blessed by Ephara. His blessing e
 "traits":
   - "desc": "Allies of the archetype that it can see within 120 ft. have a flying speed equal to their walking speed or their current flying speed, whichever is greater. As long as the archetype can see any non-allies within 120 ft., their flying speed (if any) is reduced to 0 and cannot increase."
     "name": "Blessing of Ephara"
-  - "desc": "The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared: • Cantrips (at will): [Fire Bolt](Compendium/spells/fire-bolt-xphb.md), [Light](Compendium/spells/light-xphb.md), [Mage Hand](Compendium/spells/mage-hand-xphb.md), prestidigitation • 1st level (4 slots): [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Mage Armor](Compendium/spells/mage-armor-xphb.md), [Magic Missile](Compendium/spells/magic-missile-xphb.md), shield • 2nd level (3 slots): [Misty Step](Compendium/spells/misty-step-xphb.md), suggestion • 3rd level (3 slots): [Counterspell](Compendium/spells/counterspell-xphb.md), [Fireball](Compendium/spells/fireball-xphb.md), fly • 4th level (3 slots): [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md), ice storm • 5th level (1 slot): cone of cold"
+  - "desc": "The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared: • Cantrips (at will): [[fire-bolt-xphb|Fire Bolt]], [[light-xphb|Light]], [[mage-hand-xphb|Mage Hand]], prestidigitation • 1st level (4 slots): [[detect-magic-xphb|Detect Magic]], [[mage-armor-xphb|Mage Armor]], [[magic-missile-xphb|Magic Missile]], shield • 2nd level (3 slots): [[misty-step-xphb|Misty Step]], suggestion • 3rd level (3 slots): [[counterspell-xphb|Counterspell]], [[fireball-xphb|Fireball]], fly • 4th level (3 slots): [[greater-invisibility-xphb|Greater Invisibility]], ice storm • 5th level (1 slot): cone of cold"
     "name": "Spellcasting"
   - "desc": "The archetype's weapon attacks are magical."
     "name": "Magic Weapons"

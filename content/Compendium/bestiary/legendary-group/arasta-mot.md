@@ -16,8 +16,8 @@ _Source: Mythic Odysseys of Theros_
 
 On initiative count 20 (losing initiative ties), Arasta can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row.
 
-- Arasta learns about any creature touching her webs. Each creature [restrained](Compendium/rules/conditions.md#Restrained) by a web or Arasta's Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, Arasta gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.  
-- Arasta casts the [giant insect](Compendium/spells/giant-insect-xphb.md) spell (spiders only). It lasts until she uses this lair action again or until she dies.  
+- Arasta learns about any creature touching her webs. Each creature [[conditions#Restrained|restrained]] by a web or Arasta's Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, Arasta gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.  
+- Arasta casts the [[giant-insect-xphb|giant insect]] spell (spiders only). It lasts until she uses this lair action again or until she dies.  
 
 ## Regional Effects
 _Source: Mythic Odysseys of Theros_

@@ -64,30 +64,30 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 "speed": "5 ft., fly 60 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, piercing, slashing"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
-  \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Common plus two other languages"
 "cr": "5"
 "traits":
   - "desc": "The wraith can move through other creatures and objects as if they were\
-      \ [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ [[difficult-terrain-xphb|Difficult Terrain]].\
       \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "While in sunlight, the wraith has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the wraith has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 21 (4d8 + 3) Necrotic\
-      \ damage. If the target is a creature, its [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ damage. If the target is a creature, its [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the damage taken."
     "name": "Life Drain"
   - "desc": "The wraith targets a Humanoid corpse within 10 feet of itself that has\
-      \ been dead for no longer than 1 minute. The target's spirit rises as a [Specter](Compendium/bestiary/undead/specter-xmm.md)\
+      \ been dead for no longer than 1 minute. The target's spirit rises as a [[specter-xmm|Specter]]\
       \ in the space of its corpse or in the nearest unoccupied space. The specter\
       \ is under the wraith's control. The wraith can have no more than seven specters\
       \ under its control at a time."

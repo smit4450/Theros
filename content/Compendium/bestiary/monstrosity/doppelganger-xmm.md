@@ -61,12 +61,12 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+6"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+3"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "Common plus three other languages"
 "cr": "3"
@@ -74,17 +74,17 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
   - "desc": "The doppelganger makes two Slam attacks and uses Unsettling Visage if\
       \ available."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +6 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "*Melee Attack Roll:* +6 (with [[advantage-xphb|Advantage]]\
       \ during the first round of each combat), reach 5 ft. *Hit:* 11 (2d6 + 4)\
       \ Bludgeoning damage."
     "name": "Slam"
-  - "desc": "*Wisdom Saving Throw:* DC 12, each creature in a 15-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 12, each creature in a 15-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the doppelganger that can see the doppelganger. *Failure:*\
-      \ The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ The target has the [[conditions#Frightened|Frightened]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Unsettling Visage (Recharge 6)"
-  - "desc": "The doppelganger casts [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md),\
+  - "desc": "The doppelganger casts [[detect-thoughts-xphb|Detect Thoughts]],\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 12).\n"
     "name": "Read Thoughts"

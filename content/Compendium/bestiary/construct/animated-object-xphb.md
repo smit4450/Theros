@@ -29,7 +29,7 @@ aliases: ["Animated Object"]
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., passive Perception\
   \ 6"
 "languages": "understands the languages you know"
 "actions":

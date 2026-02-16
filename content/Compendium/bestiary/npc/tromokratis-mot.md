@@ -39,16 +39,16 @@ Most krakens roam the seas, shattering hulls and scattering fleets, but the krak
   - "wisdom": !!int "8"
 "damage_resistances": "cold, lightning, thunder"
 "damage_immunities": "fire; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [restrained](Compendium/rules/conditions.md#Restrained)"
-"senses": "[blindsight](Compendium/rules/senses.md#Blindsight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Restrained|restrained]]"
+"senses": "[[senses#Blindsight|blindsight]] 120 ft., passive Perception\
   \ 10"
 "languages": ""
 "cr": "26"
 "traits":
   - "desc": "Tromokratis can breathe air and water."
     "name": "Amphibious"
-  - "desc": "When Tromokratis is reduced to 0 hit points, it doesn't die or fall [unconscious](Compendium/rules/conditions.md#Unconscious).\
+  - "desc": "When Tromokratis is reduced to 0 hit points, it doesn't die or fall [[conditions#Unconscious|unconscious]].\
       \ Instead, the damage creates cracks in its carapace, revealing its hearts.\
       \ Tromokratis has four hearts: two on its chest, one on its back, and one at\
       \ the base of its tail. A heart has an AC of 22 and 100 hit points. It is immune\
@@ -74,35 +74,35 @@ Most krakens roam the seas, shattering hulls and scattering fleets, but the krak
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:*\
       \ 20 (3d6 + 10) bludgeoning damage, and if the target is a creature, it is\
-      \ [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 26). Until\
-      \ the grapple ends, the target is [restrained](Compendium/rules/conditions.md#Restrained),\
+      \ [[conditions#Grappled|grappled]] (escape DC 26). Until\
+      \ the grapple ends, the target is [[conditions#Restrained|restrained]],\
       \ and Tromokratis can't use this attack on anyone else."
     "name": "Pincer"
   - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:*\
       \ 23 (3d8 + 10) bludgeoning damage, and if the target is a creature, it is\
-      \ knocked [prone](Compendium/rules/conditions.md#Prone)."
+      \ knocked [[conditions#Prone|prone]]."
     "name": "Tail"
   - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one creature. *Hit:*\
-      \ 20 (3d6 + 10) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled)\
+      \ 20 (3d6 + 10) bludgeoning damage, and the target is [[conditions#Grappled|grappled]]\
       \ (escape DC 26). If the target doesn't escape by the end of its next turn,\
       \ Tromokratis throws the target up to 60 feet in a straight line. The target\
-      \ lands [prone](Compendium/rules/conditions.md#Prone) and takes 21 (6d6) bludgeoning\
+      \ lands [[conditions#Prone|prone]] and takes 21 (6d6) bludgeoning\
       \ damage."
     "name": "Tentacle Grasp"
   - "desc": "*Melee Weapon Attack:* +18 to hit, reach 5 ft., one target. *Hit:*\
       \ 29 (3d12 + 10) piercing damage. If the target is a Large or smaller creature\
-      \ [grappled](Compendium/rules/conditions.md#Grappled) by Tromokratis, that creature\
-      \ is swallowed, and the grapple ends. While swallowed, the creature is [blinded](Compendium/rules/conditions.md#Blinded)\
-      \ and [restrained](Compendium/rules/conditions.md#Restrained), it has total\
+      \ [[conditions#Grappled|grappled]] by Tromokratis, that creature\
+      \ is swallowed, and the grapple ends. While swallowed, the creature is [[conditions#Blinded|blinded]]\
+      \ and [[conditions#Restrained|restrained]], it has total\
       \ cover against attacks and other effects outside Tromokratis, and it takes\
       \ 42 (12d6) acid damage at the start of each of Tromokratis's turns. If Tromokratis\
       \ takes 50 damage or more on a single turn from a creature inside it, Tromokratis\
       \ must succeed on a DC 20 Constitution saving throw at the end of that turn\
-      \ or regurgitate all swallowed creatures, which fall [prone](Compendium/rules/conditions.md#Prone)\
+      \ or regurgitate all swallowed creatures, which fall [[conditions#Prone|prone]]\
       \ in a space within 10 feet of Tromokratis. If Tromokratis dies, a swallowed\
-      \ creature is no longer [restrained](Compendium/rules/conditions.md#Restrained)\
+      \ creature is no longer [[conditions#Restrained|restrained]]\
       \ by it and can escape from the corpse by using 15 feet of movement, exiting\
-      \ [prone](Compendium/rules/conditions.md#Prone)."
+      \ [[conditions#Prone|prone]]."
     "name": "Bite"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Tromokratis can expend a use to take one of the following actions. Tromokratis\

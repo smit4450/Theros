@@ -23,7 +23,7 @@ Thri-kreen psions harness their psychic powers to avoid danger and manipulate ob
 *Mantid Psychics and Scavengers*
 
 - **Habitat.** Desert, Grassland  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Thri-kreen are mantis-like wanderers who harness their innate camouflage and psychic abilities to survive. Different groups of thri-kreen have distinct carapaces, from the rocky shades of desert dwellers to the vibrant hues of those living in verdant lands. While their language has a distinctly insectile quality, thri-kreen often use telepathy to communicate, and groups can rapidly share a wealth of detailed information without making a sound.
 
@@ -56,12 +56,12 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
   - "constitution": !!int "5"
   - "intelligence": !!int "7"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_resistances": "psychic"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Thri-kreen; telepathy 120 ft."
 "cr": "8"
@@ -73,9 +73,9 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
     "name": "Psionic Lance"
   - "desc": "The thri-kreen casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 15):\n\n**At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md) (the\
-      \ hand is Invisible)\n\n**1/day each:** [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md),\
-      \ [Sending](Compendium/spells/sending-xphb.md), [Synaptic Static](Compendium/spells/synaptic-static-xphb.md)"
+      \ DC 15):\n\n**At will:** [[mage-hand-xphb|Mage Hand]] (the\
+      \ hand is Invisible)\n\n**1/day each:** [[detect-thoughts-xphb|Detect Thoughts]],\
+      \ [[sending-xphb|Sending]], [[synaptic-static-xphb|Synaptic Static]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

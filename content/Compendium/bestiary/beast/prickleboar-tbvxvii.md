@@ -41,12 +41,12 @@ aliases: ["Prickleboar"]
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "If the boar moves at least 20 ft. straight toward a target and then hits it with a spiky slam or ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage and an extra 8 (2d4 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
+  - "desc": "If the boar moves at least 20 ft. straight toward a target and then hits it with a spiky slam or ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage and an extra 8 (2d4 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Charge"
-  - "desc": "If the boar takes 10 damage or less that would reduce it to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it is reduced to 1 hit point instead."
+  - "desc": "If the boar takes 10 damage or less that would reduce it to 0 [[hit-points-xphb|Hit Points]], it is reduced to 1 hit point instead."
     "name": "Relentless (Recharges after a Short or Long Rest)"
 "actions":
-  - "desc": "The boar makes two attacks: a ram attack and a spiky slam attack. It makes these attacks with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md), and it gets a +1 bonus to damage rolls for both attacks."
+  - "desc": "The boar makes two attacks: a ram attack and a spiky slam attack. It makes these attacks with [[advantage-xphb|Advantage]], and it gets a +1 bonus to damage rolls for both attacks."
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage."
     "name": "Ram"

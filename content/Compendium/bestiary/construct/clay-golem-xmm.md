@@ -20,7 +20,7 @@ aliases: ["Clay Golem"]
 *Guardian of Home and Heart*
 
 - **Habitat.** Urban  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Clay golems are magical defenders made from earth and clay to protect places or communities. The materials used in creating clay golems originate from near the location the golems protect and often have special significance to their creators, such as clay from a holy site or bricks from a magical ruin. While some clay golems are masterfully sculpted to resemble living beings, others have only vaguely humanlike forms.
 
@@ -54,28 +54,28 @@ These golems obey their creators' orders and protect what their makers value mos
 "speed": "20 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "acid, poison, psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": "Common plus one other language"
 "cr": "9"
 "traits":
   - "desc": "Whenever the golem is subjected to Acid damage, it takes no damage and\
-      \ instead regains a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ instead regains a number of [[hit-points-xphb|Hit Points]]\
       \ equal to the Acid damage dealt."
     "name": "Acid Absorption"
-  - "desc": "Whenever the golem starts its turn [Bloodied](Compendium/rules/conditions.md#Bloodied),\
+  - "desc": "Whenever the golem starts its turn [[conditions#Bloodied|Bloodied]],\
       \ roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk,\
       \ the golem attacks the nearest creature it can see. If no creature is near\
       \ enough to move to and attack, the golem attacks an object. Once the golem\
       \ goes berserk, it continues to be berserk until it is destroyed or it is no\
-      \ longer [Bloodied](Compendium/rules/conditions.md#Bloodied)."
+      \ longer [[conditions#Bloodied|Bloodied]]."
     "name": "Berserk"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The golem has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -83,7 +83,7 @@ These golems obey their creators' orders and protect what their makers value mos
       \ used Hasten this turn."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 10 (1d10 + 5) Bludgeoning\
-      \ damage plus 6 (1d12) Acid damage, and the target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ damage plus 6 (1d12) Acid damage, and the target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the Acid damage taken."
     "name": "Slam"
 "bonus_actions":

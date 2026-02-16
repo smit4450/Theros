@@ -22,7 +22,7 @@ Berserker commanders bear the scars of battle and drive their followers to match
 *Raging Invaders and Impassioned Warriors*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 ## Statblock
@@ -48,17 +48,17 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
   - "strength": !!int "7"
   - "constitution": !!int "7"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened)"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
 "senses": "passive Perception 15"
 "languages": "Common"
 "cr": "8"
 "traits":
-  - "desc": "While [Bloodied](Compendium/rules/conditions.md#Bloodied), the berserker\
-      \ has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack\
+  - "desc": "While [[conditions#Bloodied|Bloodied]], the berserker\
+      \ has [[advantage-xphb|Advantage]] on attack\
       \ rolls and saving throws."
     "name": "Bloodied Frenzy"
 "actions":
@@ -69,15 +69,15 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
       \ 5 feet of the target."
     "name": "Greataxe"
   - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 5 ft. or range 30/120 ft.\
-      \ *Hit:* 18 (4d6 + 4) Piercing damage, and the target's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ *Hit:* 18 (4d6 + 4) Piercing damage, and the target's [[speed-xphb|Speed]]\
       \ decreases by 5 feet until the start of the berserker's next turn."
     "name": "Javelin"
 "bonus_actions":
-  - "desc": "Each ally within 30 feet of the berserker can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
-      \ to move up to half the ally's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).\
-      \ The berserker can also move up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+  - "desc": "Each ally within 30 feet of the berserker can take a [[reaction-xphb|Reaction]]\
+      \ to move up to half the ally's [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
+      \ The berserker can also move up to half its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Frenzied Rush"
 "source":
   - "XMM"

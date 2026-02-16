@@ -63,12 +63,12 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 "speed": "10 ft., fly 90 ft. (hover)"
 "damage_resistances": "bludgeoning, lightning, piercing, slashing"
 "damage_immunities": "poison, thunder"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
-  \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Primordial (Auran)"
 "cr": "5"
@@ -85,7 +85,7 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
     "name": "Thunderous Slam"
   - "desc": "*Strength Saving Throw:* DC 13, one Medium or smaller creature in the\
       \ elemental's space. *Failure:* 24 (4d10 + 2) Thunder damage, and the target\
-      \ is pushed up to 20 feet straight away from the elemental and has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ is pushed up to 20 feet straight away from the elemental and has the [[conditions#Prone|Prone]]\
       \ condition. *Success:* Half damage only."
     "name": "Whirlwind (Recharge 4-6)"
 "source":

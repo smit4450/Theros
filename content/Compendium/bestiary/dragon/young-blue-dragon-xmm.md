@@ -23,7 +23,7 @@ Young blue dragons seek to establish themselves as forces to be feared. Many cla
 *Dragons of Tyranny and Tempests*
 
 - **Habitat.** Desert  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Arrogant and imperious, blue dragons are chromatic dragons that crave control and collect followers like other dragons hoard treasure. They seek to transform their territories into empires, domains to be feared by nations.
 
@@ -58,12 +58,12 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
   - "dexterity": !!int "4"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "lightning"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 19"
 "languages": "Common, Draconic"
 "cr": "9"
@@ -74,7 +74,7 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
       \ damage plus 5 (1d10) Lightning damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 16, each creature in a 60-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 55 (10d10) Lightning damage. *Success:* Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
 "source":

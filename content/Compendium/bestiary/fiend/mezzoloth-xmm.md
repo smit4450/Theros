@@ -21,7 +21,7 @@ aliases: ["Mezzoloth"]
 *Yugoloth of Tenacity and Want*
 
 - **Habitat.** Planar (Gehenna)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Mezzoloths are insectile yugoloths that seek power and souls in the service of fiendish lords. These greedy, violent yugoloths are more direct than most of their scheming brethren, but what they lack in guile they make up for in persistence and numbers.
 
@@ -57,21 +57,21 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 15"
 "languages": "Abyssal, Infernal; telepathy 60 ft."
 "cr": "5"
 "traits":
   - "desc": "If the mezzoloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in Gehenna."
     "name": "Fiendish Restoration"
-  - "desc": "The mezzoloth has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The mezzoloth has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -79,8 +79,8 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
       \ any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing\
-      \ damage. If the target is a Large or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14) from two of four claws, and it has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 14) from two of four claws, and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Claws"
   - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 5 ft. or range 20/60 ft.\
@@ -90,8 +90,8 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
     "name": "Mercurial Trident"
   - "desc": "The mezzoloth casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n**1/day each:** [Cloudkill](Compendium/spells/cloudkill-xphb.md), [Darkness](Compendium/spells/darkness-xphb.md),\
-      \ [Dispel Magic](Compendium/spells/dispel-magic-xphb.md)"
+      \n**1/day each:** [[cloudkill-xphb|Cloudkill]], [[darkness-xphb|Darkness]],\
+      \ [[dispel-magic-xphb|Dispel Magic]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The mezzoloth teleports up to 60 feet to an unoccupied space it can see.\

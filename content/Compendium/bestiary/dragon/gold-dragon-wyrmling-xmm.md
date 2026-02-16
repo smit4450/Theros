@@ -23,7 +23,7 @@ Gold dragon wyrmlings learn much from their elders, then head off to save the wo
 *Dragons of Hope and Majesty*
 
 - **Habitat.** Forest, Grassland  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Gold dragons work to make the world a better place. The most powerful of the metallic dragons, these awe-inspiring dragons strive to protect that which is good and bend fate toward a brighter future. Their kind dispositions don't prevent gold dragons from engaging in combat when necessary, though, and they exhale brilliant flames and weakening magic to rout their foes.
 
@@ -56,12 +56,12 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "dexterity": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "fire"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., [[senses#Darkvision|Darkvision]]\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "3"
@@ -74,13 +74,13 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (1d10 + 4) Slashing\
       \ damage."
     "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 22 (4d10) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "*Strength Saving Throw:* DC 13, each creature that isn't currently affected\
-      \ by this breath in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-      \ on Strength-based [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md)\
+      \ by this breath in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *Failure:* The target has [[disadvantage-xphb|Disadvantage]]\
+      \ on Strength-based [[d20-test-xphb|D20 Tests]]\
       \ and subtracts 2 (1d4) from its damage rolls. It repeats the save at the\
       \ end of each of its turns, ending the effect on itself on a success. After\
       \ 1 minute, it succeeds automatically."

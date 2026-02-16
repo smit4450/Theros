@@ -24,7 +24,7 @@ Archdruids watch over the natural wonders of their domains. They seldom interact
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[hide armor](Compendium/items/hide-armor-xphb.md), [shield](Compendium/items/shield-xphb.md)"
+"ac_class": "[[hide-armor-xphb|hide armor]], [[shield-xphb|shield]]"
 "hp": !!int "132"
 "hit_dice": "24d8 + 24"
 "modifier": !!int "2"
@@ -40,11 +40,11 @@ Archdruids watch over the natural wonders of their domains. They seldom interact
   - "intelligence": !!int "5"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Medicine](Compendium/rules/skills.md#Medicine)"
+  - "name": "[[skills#Medicine|Medicine]]"
     "desc": "+9"
-  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
 "senses": "passive Perception 19"
 "languages": "Druidic plus any two languages"
@@ -52,25 +52,25 @@ Archdruids watch over the natural wonders of their domains. They seldom interact
 "traits":
   - "desc": "The archdruid is an 18th-level spellcaster. Its spellcasting ability\
       \ is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following\
-      \ druid spells prepared:\n\n**Cantrips (at will):** [druidcraft](Compendium/spells/druidcraft-xphb.md),\
-      \ [mending](Compendium/spells/mending-xphb.md), [poison spray](Compendium/spells/poison-spray-xphb.md),\
-      \ [produce flame](Compendium/spells/produce-flame-xphb.md)\n\n**1st level (4\
-      \ slots):** [cure wounds](Compendium/spells/cure-wounds-xphb.md), [entangle](Compendium/spells/entangle-xphb.md),\
-      \ [faerie fire](Compendium/spells/faerie-fire-xphb.md), [speak with animals](Compendium/spells/speak-with-animals-xphb.md)\n\
-      \n**2nd level (3 slots):** [animal messenger](Compendium/spells/animal-messenger-xphb.md),\
-      \ [beast sense](Compendium/spells/beast-sense-xphb.md), [hold person](Compendium/spells/hold-person-xphb.md)\n\
-      \n**3rd level (3 slots):** [conjure animals](Compendium/spells/conjure-animals-xphb.md),\
-      \ [meld into stone](Compendium/spells/meld-into-stone-xphb.md), [water breathing](Compendium/spells/water-breathing-xphb.md)\n\
-      \n**4th level (3 slots):** [dominate beast](Compendium/spells/dominate-beast-xphb.md),\
-      \ [locate creature](Compendium/spells/locate-creature-xphb.md), [stoneskin](Compendium/spells/stoneskin-xphb.md),\
-      \ [wall of fire](Compendium/spells/wall-of-fire-xphb.md)\n\n**5th level (3 slots):**\
-      \ [commune with nature](Compendium/spells/commune-with-nature-xphb.md), [mass\
-      \ cure wounds](Compendium/spells/mass-cure-wounds-xphb.md), [tree stride](Compendium/spells/tree-stride-xphb.md)\n\
-      \n**6th level (1 slots):** [heal](Compendium/spells/heal-xphb.md), [heroes'\
-      \ feast](Compendium/spells/heroes-feast-xphb.md), [sunbeam](Compendium/spells/sunbeam-xphb.md)\n\
-      \n**7th level (1 slots):** [fire storm](Compendium/spells/fire-storm-xphb.md)\n\
-      \n**8th level (1 slots):** [animal shapes](Compendium/spells/animal-shapes-xphb.md)\n\
-      \n**9th level (1 slots):** [foresight](Compendium/spells/foresight-xphb.md)"
+      \ druid spells prepared:\n\n**Cantrips (at will):** [[druidcraft-xphb|druidcraft]],\
+      \ [[mending-xphb|mending]], [[poison-spray-xphb|poison spray]],\
+      \ [[produce-flame-xphb|produce flame]]\n\n**1st level (4\
+      \ slots):** [[cure-wounds-xphb|cure wounds]], [[entangle-xphb|entangle]],\
+      \ [[faerie-fire-xphb|faerie fire]], [[speak-with-animals-xphb|speak with animals]]\n\
+      \n**2nd level (3 slots):** [[animal-messenger-xphb|animal messenger]],\
+      \ [[beast-sense-xphb|beast sense]], [[hold-person-xphb|hold person]]\n\
+      \n**3rd level (3 slots):** [[conjure-animals-xphb|conjure animals]],\
+      \ [[meld-into-stone-xphb|meld into stone]], [[water-breathing-xphb|water breathing]]\n\
+      \n**4th level (3 slots):** [[dominate-beast-xphb|dominate beast]],\
+      \ [[locate-creature-xphb|locate creature]], [[stoneskin-xphb|stoneskin]],\
+      \ [[wall-of-fire-xphb|wall of fire]]\n\n**5th level (3 slots):**\
+      \ [[commune-with-nature-xphb|commune with nature]], [[mass-cure-wounds-xphb|mass\
+      \ cure wounds]], [[tree-stride-xphb|tree stride]]\n\
+      \n**6th level (1 slots):** [[heal-xphb|heal]], [[heroes-feast-xphb|heroes'\
+      \ feast]], [[sunbeam-xphb|sunbeam]]\n\
+      \n**7th level (1 slots):** [[fire-storm-xphb|fire storm]]\n\
+      \n**8th level (1 slots):** [[animal-shapes-xphb|animal shapes]]\n\
+      \n**9th level (1 slots):** [[foresight-xphb|foresight]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 5\
@@ -80,7 +80,7 @@ Archdruids watch over the natural wonders of their domains. They seldom interact
       \ rating of 6 or less, and can remain in this form for up to 9 hours. The archdruid\
       \ can choose whether its equipment falls to the ground, melds with its new form,\
       \ or is worn by the new form. The archdruid reverts to its true form if it dies\
-      \ or falls [unconscious](Compendium/rules/conditions.md#Unconscious). The archdruid\
+      \ or falls [[conditions#Unconscious|unconscious]]. The archdruid\
       \ can revert to its true form using a bonus action on its turn.\n\nWhile in\
       \ a new form, the archdruid retains its game statistics and ability to speak,\
       \ but its AC, movement modes, Strength, and Dexterity are replaced by those\

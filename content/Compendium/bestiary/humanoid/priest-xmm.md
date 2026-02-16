@@ -22,7 +22,7 @@ Priests draw on their beliefs to heal the needful and smite their foes. They can
 *Arbiters of the Mortal and the Divine*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
 
 Priests harness the power of faith to work miracles. These religious adherents are as diverse as the faiths they follow. Some obey gods and their servants, while others live by age-old creeds. Belief guides priests' actions and their magic, which they use to shape the world in line with their ideologies.
 
@@ -69,11 +69,11 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](Compendium/rules/skills.md#Medicine)"
+  - "name": "[[skills#Medicine|Medicine]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Common plus one other language"
@@ -87,12 +87,12 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - "desc": "*Ranged Attack Roll:* +5, range 60 ft. *Hit:* 11 (2d10) Radiant damage."
     "name": "Radiant Flame"
   - "desc": "The priest casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability:\n\n**At will:** [Light](Compendium/spells/light-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-      \n**1/day:** [Spirit Guardians](Compendium/spells/spirit-guardians-xphb.md)"
+      \ ability:\n\n**At will:** [[light-xphb|Light]], [[thaumaturgy-xphb|Thaumaturgy]]\n\
+      \n**1/day:** [[spirit-guardians-xphb|Spirit Guardians]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The priest casts [Bless](Compendium/spells/bless-xphb.md), [Dispel Magic](Compendium/spells/dispel-magic-xphb.md),\
-      \ [Healing Word](Compendium/spells/healing-word-xphb.md), or [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md),\
+  - "desc": "The priest casts [[bless-xphb|Bless]], [[dispel-magic-xphb|Dispel Magic]],\
+      \ [[healing-word-xphb|Healing Word]], or [[lesser-restoration-xphb|Lesser Restoration]],\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (3/Day)"
 "source":

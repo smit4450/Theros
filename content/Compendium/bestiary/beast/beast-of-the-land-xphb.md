@@ -29,7 +29,7 @@ aliases: ["Beast of the Land"]
   - !!int "14"
   - !!int "11"
 "speed": "40 ft., climb 40 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "understands the languages you know"
 "traits":
@@ -41,7 +41,7 @@ aliases: ["Beast of the Land"]
       \ ft. *Hit:* 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing\
       \ damage (your choice when you summon the beast). If the beast moved at least\
       \ 20 feet straight toward the target before the hit, the target takes an extra\
-      \ 1d6 damage of the same type, and the target has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ 1d6 damage of the same type, and the target has the [[conditions#Prone|Prone]]\
       \ condition if it is a Large or smaller creature."
     "name": "Beast's Strike"
 "source":

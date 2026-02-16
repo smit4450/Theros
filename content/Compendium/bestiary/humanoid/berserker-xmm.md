@@ -22,7 +22,7 @@ Berserkers might fight for personal glory or form motivated forces or howling ho
 *Raging Invaders and Impassioned Warriors*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 ## Statblock
@@ -48,8 +48,8 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
 "languages": "Common"
 "cr": "2"
 "traits":
-  - "desc": "While [Bloodied](Compendium/rules/conditions.md#Bloodied), the berserker\
-      \ has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack\
+  - "desc": "While [[conditions#Bloodied|Bloodied]], the berserker\
+      \ has [[advantage-xphb|Advantage]] on attack\
       \ rolls and saving throws."
     "name": "Bloodied Frenzy"
 "actions":

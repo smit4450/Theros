@@ -39,17 +39,17 @@ The daybreak chimera has the body and tail of a dragon, the heads of a ram-horne
   - "dexterity": !!int "2"
   - "constitution": !!int "7"
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
 "languages": "Understands Celestial but can't speak"
 "cr": "9"
 "traits":
-  - "desc": "The chimera has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (perception) checks that rely on sight."
+  - "desc": "The chimera has [[advantage-xphb|Advantage]] on Wisdom (perception) checks that rely on sight."
     "name": "Keen Sight"
-  - "desc": "The chimera can’t be surprised, and it has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against being knocked [unconscious](Compendium/rules/conditions.md#Unconscious)."
+  - "desc": "The chimera can’t be surprised, and it has [[advantage-xphb|Advantage]] on saving throws against being knocked [[conditions#Unconscious|unconscious]]."
     "name": "Multiheaded"
 "actions":
   - "desc": "The chimera makes five attacks: two with its claw, one with its eagle bite, one with its lion bite, and one with its horn."

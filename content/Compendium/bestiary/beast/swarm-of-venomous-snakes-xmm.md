@@ -22,7 +22,7 @@ aliases: ["Swarm of Venomous Snakes"]
 ![](Compendium/bestiary/beast/img/swarm-of-venomous-snakes.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -44,23 +44,23 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [grappled](Compendium/rules/conditions.md#Grappled), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [prone](Compendium/rules/conditions.md#Prone),\
-  \ [restrained](Compendium/rules/conditions.md#Restrained), [stunned](Compendium/rules/conditions.md#Stunned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., passive Perception\
   \ 10"
 "languages": ""
 "cr": "2"
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny snake. The swarm\
-      \ can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+      \ can't regain [[hit-points-xphb|Hit Points]]\
+      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d8 + 4) Piercing\
-      \ damage—or 6 (1d4 + 4) Piercing damage if the swarm is [Bloodied](Compendium/rules/conditions.md#Bloodied)—\
+      \ damage—or 6 (1d4 + 4) Piercing damage if the swarm is [[conditions#Bloodied|Bloodied]]—\
       plus 10 (3d6) Poison damage."
     "name": "Bites"
 "source":

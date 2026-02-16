@@ -29,7 +29,7 @@ Hobgoblin captains are battlefield tacticians. They lead their allies to victory
 *Conquerors of Every Horizon*
 
 - **Habitat.** Desert, Forest, Grassland, Hill, Mountain, Planar (Acheron), Underdark  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 Hobgoblins embody the primal urge to grow and spread, expressing such drives by bending the world to their whims. Lone hobgoblins claim woodland territories and plunder the wilds. In groups, they form hierarchical, martial societies bent on conquering lands and stripping them of resources to serve their expansionist zeal.
 
@@ -72,15 +72,15 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
   - !!int "10"
   - !!int "13"
 "speed": "30 ft."
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
-  - "desc": "While in a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "While in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [[advantage-xphb|Advantage]]\
       \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
-      \ [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition."
+      \ [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Aura of Authority"
 "actions":
   - "desc": "The hobgoblin makes two attacks, using Greatsword or Longbow in any combination."

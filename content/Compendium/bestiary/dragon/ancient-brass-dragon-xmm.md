@@ -22,7 +22,7 @@ Ancient brass dragons create worlds-spanning networks. They combat forces of rep
 *Dragons of Lore and Rapport*
 
 - **Habitat.** Desert  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Gregarious and outgoing, brass dragons relish sharing knowledge and stories. Although these metallic dragons favor arid lands, they cheerfully journey considerable distances to visit friendly creatures, pass on what they've learned, and collect news. Though good natured, brass dragons don't shirk from combat when necessary, thwarting foes with magical sleep and searing them with flame.
 
@@ -57,16 +57,16 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "dexterity": !!int "6"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+14"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+12"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "fire"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., [[senses#Darkvision|Darkvision]]\
   \ 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
 "cr": "20"
@@ -75,43 +75,43 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of (A) Sleep Breath or (B) Spellcasting to cast [Scorching Ray](Compendium/spells/scorching-ray-xphb.md)\
+      \ use of (A) Sleep Breath or (B) Spellcasting to cast [[scorching-ray-xphb|Scorching Ray]]\
       \ (level 3 version)."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +14, reach 15 ft. *Hit:* 19 (2d10 + 8) Slashing\
       \ damage plus 7 (2d6) Fire damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 21, each creature in a 90-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 58 (13d8) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 5-6)"
-  - "desc": "*Constitution Saving Throw:* DC 21, each creature in a 90-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+  - "desc": "*Constitution Saving Throw:* DC 21, each creature in a 90-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *Failure:* The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, at which point it repeats the save.\
-      \ *2Nd Failure:* The target has the [Unconscious](Compendium/rules/conditions.md#Unconscious)\
+      \ *2Nd Failure:* The target has the [[conditions#Unconscious|Unconscious]]\
       \ condition for 10 minutes. This effect ends for the target if it takes damage\
       \ or a creature within 5 feet of it takes an action to wake it."
     "name": "Sleep Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 20):\n\n**At\
-      \ will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md),\
-      \ [Scorching Ray](Compendium/spells/scorching-ray-xphb.md) (level 3 version),\
-      \ [Shapechange](Compendium/spells/shapechange-xphb.md) (Beast or Humanoid form\
-      \ only, no [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ gained from the spell, and no Concentration or [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ required to maintain the spell), [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md)\n\
-      \n**1/day each:** [Control Weather](Compendium/spells/control-weather-xphb.md),\
-      \ [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md)"
+      \ will:** [[detect-magic-xphb|Detect Magic]], [[minor-illusion-xphb|Minor Illusion]],\
+      \ [[scorching-ray-xphb|Scorching Ray]] (level 3 version),\
+      \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid form\
+      \ only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ required to maintain the spell), [[speak-with-animals-xphb|Speak with Animals]]\n\
+      \n**1/day each:** [[control-weather-xphb|Control Weather]],\
+      \ [[detect-thoughts-xphb|Detect Thoughts]]"
     "name": "Spellcasting"
 "regional_effects":
   - "desc": "The area containing an adult or ancient brass dragon's lair is altered\
       \ by its presence, creating the following effects:\n\n- **Mirages.** While in\
-      \ its lair, the dragon can cast [Major Image](Compendium/spells/major-image-xphb.md),\
+      \ its lair, the dragon can cast [[major-image-xphb|Major Image]],\
       \ requiring no Material components and using the same spellcasting ability as\
       \ its Spellcasting action. When casting the spell this way, the spell's range\
       \ is 1 mile, and the dragon doesn't need to see the spot where the illusion\
       \ appears.  \n- **Refreshing Water.** Water within 1 mile of the lair is magically\
-      \ refreshing. A creature that drinks such water gains 2d4 [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md),\
+      \ refreshing. A creature that drinks such water gains 2d4 [[temporary-hit-points-xphb|Temporary Hit Points]],\
       \ and the dragon is immediately aware of the creature's presence.  \n\nIf the\
       \ dragon dies or moves its lair elsewhere, these effects end immediately."
     "name": ""
@@ -119,14 +119,14 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   \ another creature's turn, the dragon can expend a use to take one of the following\
   \ actions. The dragon regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [Scorching Ray](Compendium/spells/scorching-ray-xphb.md)\
+  - "desc": "The dragon uses Spellcasting to cast [[scorching-ray-xphb|Scorching Ray]]\
       \ (level 3 version)."
     "name": "Blazing Light"
-  - "desc": "The dragon moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
   - "desc": "*Dexterity Saving Throw:* DC 20, one creature the dragon can see within\
-      \ 120 feet. *Failure:* 36 (8d8) Fire damage, and the target's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ 120 feet. *Failure:* 36 (8d8) Fire damage, and the target's [[speed-xphb|Speed]]\
       \ is halved until the end of its next turn. *Failure or Success:* The dragon\
       \ can't take this action again until the start of its next turn."
     "name": "Scorching Sands"

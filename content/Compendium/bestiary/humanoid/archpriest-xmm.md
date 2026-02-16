@@ -22,7 +22,7 @@ By forging connections with divine beings and mastering mystical truths, archpri
 *Arbiters of the Mortal and the Divine*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
 
 Priests harness the power of faith to work miracles. These religious adherents are as diverse as the faiths they follow. Some obey gods and their servants, while others live by age-old creeds. Belief guides priests' actions and their magic, which they use to shape the world in line with their ideologies.
 
@@ -74,13 +74,13 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - "intelligence": !!int "6"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+9"
-  - "name": "[Medicine](Compendium/rules/skills.md#Medicine)"
+  - "name": "[[skills#Medicine|Medicine]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+10"
 "senses": "passive Perception 19"
 "languages": "Common plus two other languages"
@@ -91,21 +91,21 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - "desc": "*Melee  or Ranged Attack Roll:* +9, reach 5 ft. or range 60 ft. *Hit:*\
       \ 27 (4d10 + 5) Radiant damage."
     "name": "Radiant Burst"
-  - "desc": "*Wisdom Saving Throw:* DC 17, each enemy in a 20-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 17, each enemy in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the archpriest. *Failure:* 21 (6d6) Radiant damage, and\
-      \ the target has the [Stunned](Compendium/rules/conditions.md#Stunned) condition\
+      \ the target has the [[conditions#Stunned|Stunned]] condition\
       \ until the end of the archpriest's next turn. *Success:* Half damage only."
     "name": "Holy Word (Recharge 4-6)"
   - "desc": "The archpriest casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [Light](Compendium/spells/light-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-      \n**1/day each:** [Flame Strike](Compendium/spells/flame-strike-xphb.md) (level\
-      \ 6 version), [Greater Restoration](Compendium/spells/greater-restoration-xphb.md),\
-      \ [Raise Dead](Compendium/spells/raise-dead-xphb.md), [Zone of Truth](Compendium/spells/zone-of-truth-xphb.md)"
+      \n**At will:** [[light-xphb|Light]], [[thaumaturgy-xphb|Thaumaturgy]]\n\
+      \n**1/day each:** [[flame-strike-xphb|Flame Strike]] (level\
+      \ 6 version), [[greater-restoration-xphb|Greater Restoration]],\
+      \ [[raise-dead-xphb|Raise Dead]], [[zone-of-truth-xphb|Zone of Truth]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The priest casts [Bless](Compendium/spells/bless-xphb.md), [Dispel Magic](Compendium/spells/dispel-magic-xphb.md),\
-      \ [Healing Word](Compendium/spells/healing-word-xphb.md), or [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md),\
+  - "desc": "The priest casts [[bless-xphb|Bless]], [[dispel-magic-xphb|Dispel Magic]],\
+      \ [[healing-word-xphb|Healing Word]], or [[lesser-restoration-xphb|Lesser Restoration]],\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (3/Day)"
 "source":

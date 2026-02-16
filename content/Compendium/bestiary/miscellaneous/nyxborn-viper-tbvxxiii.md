@@ -35,9 +35,9 @@ A nyxborn poisonous snake serves as another body that can administer experiments
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., passive Perception 10"
+"senses": "[[senses#Blindsight|Blindsight]] 10 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":

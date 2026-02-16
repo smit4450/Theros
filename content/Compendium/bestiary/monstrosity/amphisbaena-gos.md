@@ -33,18 +33,18 @@ Found in Danger at Dunwater, these strange reptiles have a head at either end of
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-"senses": "[blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., passive Perception\
+"senses": "[[senses#Blindsight|blindsight]] 10 ft., passive Perception\
   \ 12"
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The amphisbaena has advantage on Wisdom ([Perception](Compendium/rules/skills.md#Perception))\
-      \ checks and on saving throws against being [blinded](Compendium/rules/conditions.md#Blinded),\
-      \ [charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened),\
-      \ [frightened](Compendium/rules/conditions.md#Frightened), [stunned](Compendium/rules/conditions.md#Stunned),\
-      \ and knocked [unconscious](Compendium/rules/conditions.md#Unconscious)."
+  - "desc": "The amphisbaena has advantage on Wisdom ([[skills#Perception|Perception]])\
+      \ checks and on saving throws against being [[conditions#Blinded|blinded]],\
+      \ [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+      \ [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]],\
+      \ and knocked [[conditions#Unconscious|unconscious]]."
     "name": "Two Heads"
 "actions":
   - "desc": "The amphisbaena makes two bite attacks."

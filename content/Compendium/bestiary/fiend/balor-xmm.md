@@ -21,7 +21,7 @@ aliases: ["Balor"]
 *Demon of Overwhelming Rage*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments|Armaments]]  
 
 Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these demonic warlords seethe with wrath, their rage erupting in waves of fire and as a pair of vicious weapons: a sword of crackling lightning and a whip of lashing flames. A balor's fury persists until the moment of its demise, at which point it explodes—a last act of vengeance against those who slew it. Demon lords and evil gods harness balors' rage by making balors commanders of armies or guardians of grave secrets.
 ```statblock
@@ -46,31 +46,31 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
   - "constitution": !!int "12"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
 "damage_resistances": "cold, lightning"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 19"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "19"
 "traits":
   - "desc": "The balor explodes when it dies. *Dexterity Saving Throw:* DC 20, each\
-      \ creature in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the balor. *Failure:* 31 (9d6) Fire damage plus 31 (9d6)\
       \ Force damage. *Success:* Half damage. *Failure or Success:* If the balor dies\
-      \ outside the Abyss, it gains a new body instantly, reviving with all its [Hit\
-      \ Points](Compendium/rules/variant-rules/hit-points-xphb.md) somewhere in the\
+      \ outside the Abyss, it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit\
+      \ Points]] somewhere in the\
       \ Abyss."
     "name": "Death Throes"
-  - "desc": "At the end of each of the balor's turns, each creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "At the end of each of the balor's turns, each creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the balor takes 13 (3d8) Fire damage."
     "name": "Fire Aura"
   - "desc": "If the balor fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "The balor has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The balor has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -79,7 +79,7 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
   - "desc": "*Melee Attack Roll:* +14, reach 30 ft. *Hit:* 18 (3d6 + 8) Force\
       \ damage plus 17 (5d6) Fire damage. If the target is a Huge or smaller creature,\
       \ the balor pulls the target up to 25 feet straight toward itself, and the target\
-      \ has the [Prone](Compendium/rules/conditions.md#Prone) condition."
+      \ has the [[conditions#Prone|Prone]] condition."
     "name": "Flame Whip"
   - "desc": "*Melee Attack Roll:* +14, reach 10 ft. *Hit:* 21 (3d8 + 8) Force\
       \ damage plus 22 (4d10) Lightning damage, and the target can't take Reactions\

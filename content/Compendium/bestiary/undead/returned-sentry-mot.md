@@ -25,7 +25,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[leather armor](Compendium/items/leather-armor-xphb.md), [shield](Compendium/items/shield-xphb.md)"
+"ac_class": "[[leather-armor-xphb|leather armor]], [[shield-xphb|shield]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -39,20 +39,20 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "speed": "30 ft."
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "1"
 "traits":
   - "desc": "The Returned has advantage on an attack roll against a creature if at\
       \ least one of the Returned's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+      \ ally isn't [[conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
   - "desc": "The Returned has advantage on saving throws against any effect that turns\
       \ undead."
     "name": "Turn Resistance"
   - "desc": "The Returned is immune to any effect that would sense its emotions or\
-      \ read its thoughts. Wisdom ([Insight](Compendium/rules/skills.md#Insight))\
+      \ read its thoughts. Wisdom ([[skills#Insight|Insight]])\
       \ checks to ascertain the Returned's intentions or sincerity are made with disadvantage."
     "name": "Unreadable Face"
 "actions":

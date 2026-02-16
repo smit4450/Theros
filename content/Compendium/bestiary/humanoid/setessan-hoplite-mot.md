@@ -67,7 +67,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[leather](Compendium/items/leather-armor-xphb.md), [shield](Compendium/items/shield-xphb.md)"
+"ac_class": "[[leather-armor-xphb|leather]], [[shield-xphb|shield]]"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "3"
@@ -83,11 +83,11 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Common"
@@ -95,7 +95,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 "traits":
   - "desc": "The hoplite has advantage on an attack roll against a creature if at\
       \ least one of the hoplite's allies is within 5 feet of the hoplite and the\
-      \ ally isn't [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+      \ ally isn't [[conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The hoplite makes two scimitar attacks or two longbow attacks."

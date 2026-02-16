@@ -60,13 +60,13 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+"senses": "[[senses#Blindsight|Blindsight]] 30 ft., passive Perception\
   \ 13"
 "languages": ""
 "cr": "1/4"

@@ -60,17 +60,17 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned), [prone](Compendium/rules/conditions.md#Prone),\
-  \ [restrained](Compendium/rules/conditions.md#Restrained), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]], [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": ""
 "cr": "1/2"
@@ -78,8 +78,8 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
   - "desc": "The shadow can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so."
     "name": "Amorphous"
-  - "desc": "While in sunlight, the shadow has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md)."
+  - "desc": "While in sunlight, the shadow has [[disadvantage-xphb|Disadvantage]]\
+      \ on [[d20-test-xphb|D20 Tests]]."
     "name": "Sunlight Weakness"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Necrotic\
@@ -88,8 +88,8 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
       \ Shadow rises from the corpse 1d4 hours later."
     "name": "Draining Swipe"
 "bonus_actions":
-  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the shadow\
+  - "desc": "While in [[dim-light-xphb|Dim Light]]\
+      \ or [[darkness-xphb|Darkness]], the shadow\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

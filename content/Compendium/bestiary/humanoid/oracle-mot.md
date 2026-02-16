@@ -37,11 +37,11 @@ Oracles posses the ability to interpret the patterns and language of Nyx, divini
   - "wisdom": !!int "5"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+5"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+4"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+5"
 "senses": "passive Perception 13"
 "languages": "Celestial, Common"
@@ -49,11 +49,11 @@ Oracles posses the ability to interpret the patterns and language of Nyx, divini
 "traits":
   - "desc": "The oracle's spellcasting ability is Wisdom (spell save DC 13, +5 to\
       \ hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [guidance](Compendium/spells/guidance-xphb.md),\
-      \ [light](Compendium/spells/light-xphb.md), [thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-      \n**3/day each:** [bless](Compendium/spells/bless-xphb.md), [guiding bolt](Compendium/spells/guiding-bolt-xphb.md),\
-      \ [healing word](Compendium/spells/healing-word-xphb.md), [hold person](Compendium/spells/hold-person-xphb.md)\n\
-      \n**1/day each:** [augury](Compendium/spells/augury-xphb.md), [scrying](Compendium/spells/scrying-xphb.md)"
+      \ no material components:\n\n**At will:** [[guidance-xphb|guidance]],\
+      \ [[light-xphb|light]], [[thaumaturgy-xphb|thaumaturgy]]\n\
+      \n**3/day each:** [[bless-xphb|bless]], [[guiding-bolt-xphb|guiding bolt]],\
+      \ [[healing-word-xphb|healing word]], [[hold-person-xphb|hold person]]\n\
+      \n**1/day each:** [[augury-xphb|augury]], [[scrying-xphb|scrying]]"
     "name": "Innate Spellcasting"
   - "desc": "While the oracle is wearing no armor and wielding no shield, its AC includes\
       \ its Wisdom modifier. In addition, a creature that hits the oracle with a melee\

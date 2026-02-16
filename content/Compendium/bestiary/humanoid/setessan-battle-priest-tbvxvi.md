@@ -40,15 +40,15 @@ aliases: ["Setessan Battle Priest"]
   - "constitution": !!int "6"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+6"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+5"
 "senses": "passive Perception 10"
 "languages": "Common, Any one language"
 "cr": "10"
 "traits":
-  - "desc": "The war priest is a 9th-level spellcaster. It's spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared: Cantrip (at will): [Light](Compendium/spells/light-xphb.md), [Mending](Compendium/spells/mending-xphb.md), [Sacred Flame](Compendium/spells/sacred-flame-xphb.md), [Spare The Dying](Compendium/spells/spare-the-dying-xphb.md) 1st level (4 slots): [Divine Favor](Compendium/spells/divine-favor-xphb.md), [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md), [Healing Word](Compendium/spells/healing-word-xphb.md), [Shield Of Faith](Compendium/spells/shield-of-faith-xphb.md) 2nd level (3 slots): [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md), [Magic Weapon](Compendium/spells/magic-weapon-xphb.md), [Prayer Of Healing](Compendium/spells/prayer-of-healing-xphb.md), [Silence](Compendium/spells/silence-xphb.md), [Spiritual Weapon](Compendium/spells/spiritual-weapon-xphb.md) 3rd level (3 slots): [Beacon Of Hope](Compendium/spells/beacon-of-hope-xphb.md), _crusader's mantle_, [Dispel Magic](Compendium/spells/dispel-magic-xphb.md), [Revivify](Compendium/spells/revivify-xphb.md), [Spirit Guardians](Compendium/spells/spirit-guardians-xphb.md), _wall of water_ 4th level (3 slots): [Banishment](Compendium/spells/banishment-xphb.md), [Freedom Of Movement](Compendium/spells/freedom-of-movement-xphb.md), [Guardian Of Faith](Compendium/spells/guardian-of-faith-xphb.md), [Stoneskin](Compendium/spells/stoneskin-xphb.md) 5th level (1 slots): [Flame Strike](Compendium/spells/flame-strike-xphb.md), [Mass Cure Wounds](Compendium/spells/mass-cure-wounds-xphb.md), [Hold Monster](Compendium/spells/hold-monster-xphb.md)"
+  - "desc": "The war priest is a 9th-level spellcaster. It's spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared: Cantrip (at will): [[light-xphb|Light]], [[mending-xphb|Mending]], [[sacred-flame-xphb|Sacred Flame]], [[spare-the-dying-xphb|Spare The Dying]] 1st level (4 slots): [[divine-favor-xphb|Divine Favor]], [[guiding-bolt-xphb|Guiding Bolt]], [[healing-word-xphb|Healing Word]], [[shield-of-faith-xphb|Shield Of Faith]] 2nd level (3 slots): [[lesser-restoration-xphb|Lesser Restoration]], [[magic-weapon-xphb|Magic Weapon]], [[prayer-of-healing-xphb|Prayer Of Healing]], [[silence-xphb|Silence]], [[spiritual-weapon-xphb|Spiritual Weapon]] 3rd level (3 slots): [[beacon-of-hope-xphb|Beacon Of Hope]], _crusader's mantle_, [[dispel-magic-xphb|Dispel Magic]], [[revivify-xphb|Revivify]], [[spirit-guardians-xphb|Spirit Guardians]], _wall of water_ 4th level (3 slots): [[banishment-xphb|Banishment]], [[freedom-of-movement-xphb|Freedom Of Movement]], [[guardian-of-faith-xphb|Guardian Of Faith]], [[stoneskin-xphb|Stoneskin]] 5th level (1 slots): [[flame-strike-xphb|Flame Strike]], [[mass-cure-wounds-xphb|Mass Cure Wounds]], [[hold-monster-xphb|Hold Monster]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "The war priest makes two melee attacks."
@@ -58,7 +58,7 @@ aliases: ["Setessan Battle Priest"]
 "reactions":
   - "desc": "The priest grants a +10 bonus to an attack roll made by itself or another creature within 30 feet of it. The priest can make this choice after the roll is made but before it hits or misses."
     "name": "Guided Strike (1/Rest)"
-  - "desc": "Whenever a spell targets the priest, that spell's caster chooses whether the priest regains 16 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "Whenever a spell targets the priest, that spell's caster chooses whether the priest regains 16 [[hit-points-xphb|Hit Points]]."
     "name": "Heroic"
 "source":
   - "TBVXVI"

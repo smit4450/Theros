@@ -22,7 +22,7 @@ Archmages have mastered incredible magical power. While some use their magic to 
 *Magical Scholars and Spellcasters*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [[random-magic-items-arcana|Arcana]], Individual  
 
 Mages are magical wonder-workers, ranging from spellcasting overlords to reclusive witches. They study mystical secrets and possess insight into monsters, legends, omens, and other lore. Mages often gather allies or hire assistants to aid them in their research or to attain magical might.
 
@@ -72,20 +72,20 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   - "intelligence": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+13"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed) (with Mind\
+"condition_immunities": "[[conditions#Charmed|charmed]] (with Mind\
   \ Blank)"
 "senses": "passive Perception 16"
 "languages": "Common plus five other languages"
 "cr": "12"
 "traits":
-  - "desc": "The archmage has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The archmage has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -95,23 +95,23 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
       \ 27 (4d10 + 5) Force damage."
     "name": "Arcane Burst"
   - "desc": "The archmage casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 17):\n\n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md),\
-      \ [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md), [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
-      \ [Invisibility](Compendium/spells/invisibility-xphb.md), [Light](Compendium/spells/light-xphb.md),\
-      \ [Mage Armor](Compendium/spells/mage-armor-xphb.md) (included in AC), [Mage\
-      \ Hand](Compendium/spells/mage-hand-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
-      \n**2/day each:** [Fly](Compendium/spells/fly-xphb.md), [Lightning Bolt](Compendium/spells/lightning-bolt-xphb.md)\
-      \ (level 7 version)\n\n**1/day each:** [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md)\
-      \ (level 9 version), [Mind Blank](Compendium/spells/mind-blank-xphb.md) (cast\
-      \ before combat), [Scrying](Compendium/spells/scrying-xphb.md), [Teleport](Compendium/spells/teleport-xphb.md)"
+      \ the spellcasting ability (spell save DC 17):\n\n**At will:** [[detect-magic-xphb|Detect Magic]],\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[disguise-self-xphb|Disguise Self]],\
+      \ [[invisibility-xphb|Invisibility]], [[light-xphb|Light]],\
+      \ [[mage-armor-xphb|Mage Armor]] (included in AC), [[mage-hand-xphb|Mage\
+      \ Hand]], [[prestidigitation-xphb|Prestidigitation]]\n\
+      \n**2/day each:** [[fly-xphb|Fly]], [[lightning-bolt-xphb|Lightning Bolt]]\
+      \ (level 7 version)\n\n**1/day each:** [[cone-of-cold-xphb|Cone of Cold]]\
+      \ (level 9 version), [[mind-blank-xphb|Mind Blank]] (cast\
+      \ before combat), [[scrying-xphb|Scrying]], [[teleport-xphb|Teleport]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The mage casts [Misty Step](Compendium/spells/misty-step-xphb.md), using\
+  - "desc": "The mage casts [[misty-step-xphb|Misty Step]], using\
       \ the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (3/Day)"
 "reactions":
-  - "desc": "The archmage casts [Counterspell](Compendium/spells/counterspell-xphb.md)\
-      \ or [Shield](Compendium/spells/shield-xphb.md) in response to the spell's trigger,\
+  - "desc": "The archmage casts [[counterspell-xphb|Counterspell]]\
+      \ or [[shield-xphb|Shield]] in response to the spell's trigger,\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Protective Magic (3/Day)"
 "source":

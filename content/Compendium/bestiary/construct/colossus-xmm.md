@@ -20,7 +20,7 @@ aliases: ["Colossus"]
 *Titanic Vessel of Divine Might*
 
 - **Habitat.** Any  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Colossi are massive Constructs created by the devout to reflect the nature of a deity, which could be benevolent or wicked. Colossi thrum with incredible magic and work divine will on the land.
 
@@ -50,11 +50,11 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
   - "wisdom": !!int "8"
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 300 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Truesight|Truesight]] 300 ft., passive Perception\
   \ 10"
 "languages": "understands Celestial and Common but can't speak"
 "cr": "25"
@@ -63,7 +63,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
     "name": "Immutable Form"
   - "desc": "If the colossus fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The colossus has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The colossus has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The colossus deals double damage to objects and structures."
@@ -76,13 +76,13 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
       \ itself."
     "name": "Slam"
   - "desc": "*Ranged Attack Roll:* +18, range 300 ft. *Hit:* 22 (4d10) Radiant\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Radiant Ray"
   - "desc": "*Dexterity Saving Throw:* DC 26, each creature in a 300-foot-long, 10-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
       \ 65 (10d12) Radiant damage. *Success:* Half damage. *Failure or Success:*\
-      \ A creature reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ A creature reduced to 0 [[hit-points-xphb|Hit Points]]\
       \ by this beam disintegrates into dust, leaving behind any magic items it was\
       \ wearing or carrying."
     "name": "Divine Beam (Recharge 5-6)"
@@ -92,8 +92,8 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
 "legendary_actions":
   - "desc": "The colossus makes one Radiant Ray attack."
     "name": "Smite"
-  - "desc": "The colossus moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack),\
+  - "desc": "The colossus moves up to half its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and it can make one Slam attack at any point during that move."
     "name": "Stomp"
 "source":

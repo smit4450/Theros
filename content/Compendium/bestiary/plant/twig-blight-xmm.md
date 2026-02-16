@@ -50,18 +50,18 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
-"condition_immunities": "[deafened](Compendium/rules/conditions.md#Deafened)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Deafened|deafened]]"
+"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
   \ 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
-  - "desc": "The blight has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The blight has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the blight's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":

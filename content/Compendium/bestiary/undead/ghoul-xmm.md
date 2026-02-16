@@ -52,9 +52,9 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common"
 "cr": "1"
@@ -67,7 +67,7 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing\
       \ damage. If the target is a creature that isn't an Undead or elf, it is subjected\
       \ to the following effect. *Constitution Saving Throw:* DC 10. *Failure:* The\
-      \ target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition\
+      \ target has the [[conditions#Paralyzed|Paralyzed]] condition\
       \ until the end of its next turn."
     "name": "Claw"
 "source":

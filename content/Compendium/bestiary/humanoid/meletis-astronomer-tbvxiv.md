@@ -39,9 +39,9 @@ aliases: ["Meletis Astronomer"]
   - "intelligence": !!int "7"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+8"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+8"
 "senses": "passive Perception 10"
 "languages": "Common, Giant, Leonin, Primordial, Minotaur, Sylvan, Sphinx"
@@ -49,7 +49,7 @@ aliases: ["Meletis Astronomer"]
 "traits":
   - "desc": "When the astronomer attempts to learn or recall a piece of lore, if it does not know that information, it often knows where and from whom it can obtain that information. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature. The DM might rule that the knowledge the astronomer seeks is secreted away in an almost inaccessible place, or that the knowledge simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign."
     "name": "Researcher"
-  - "desc": "The astronomer is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The astronomer has the following wizard spells prepared: • Cantrips (at will): [Dancing Lights](Compendium/spells/dancing-lights-xphb.md), [Light](Compendium/spells/light-xphb.md), minor illusion • 1st level (4 slots): comprehend languages, [Identify](Compendium/spells/identify-xphb.md), illusory script, shield • 2nd level (3 slots): [Continual Flame](Compendium/spells/continual-flame-xphb.md), silent image • 3rd level (3 slots): [Clairvoyance](Compendium/spells/clairvoyance-xphb.md), [Fly](Compendium/spells/fly-xphb.md), major image • 4th level (3 slots): arcane eye, ice storm • 5th level (1 slot): contact other plane"
+  - "desc": "The astronomer is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The astronomer has the following wizard spells prepared: • Cantrips (at will): [[dancing-lights-xphb|Dancing Lights]], [[light-xphb|Light]], minor illusion • 1st level (4 slots): comprehend languages, [[identify-xphb|Identify]], illusory script, shield • 2nd level (3 slots): [[continual-flame-xphb|Continual Flame]], silent image • 3rd level (3 slots): [[clairvoyance-xphb|Clairvoyance]], [[fly-xphb|Fly]], major image • 4th level (3 slots): arcane eye, ice storm • 5th level (1 slot): contact other plane"
     "name": "Spellcasting"
 "actions":
   - "desc": "_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage."

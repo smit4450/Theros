@@ -67,7 +67,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[breastplate](Compendium/items/breastplate-xphb.md), [shield](Compendium/items/shield-xphb.md)"
+"ac_class": "[[breastplate-xphb|breastplate]], [[shield-xphb|shield]]"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "3"
@@ -101,7 +101,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
     "name": "Spear"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
       \ 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature,\
-      \ it must succeed on a DC 13 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
+      \ it must succeed on a DC 13 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Shield Bash"
 "source":
   - "MOT"

@@ -37,24 +37,24 @@ Abhorrent overlords are gaunt, bipedal creatures whose gray, leathery skin is in
   - "constitution": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+7"
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+7"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+7"
 "damage_resistances": "cold, necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 12"
 "languages": "Abyssal, Common, Infernal"
 "cr": "9"
 "traits":
   - "desc": "The abhorrent overlord's spellcasting ability is Charisma (spell save\
       \ DC 15). It can innately cast the following spells, requiring no material components:\n\
-      \n**1/day each:** [confusion](Compendium/spells/confusion-xphb.md), [crown of\
-      \ madness](Compendium/spells/crown-of-madness-xphb.md), [suggestion](Compendium/spells/suggestion-xphb.md)"
+      \n**1/day each:** [[confusion-xphb|confusion]], [[crown-of-madness-xphb|crown of\
+      \ madness]], [[suggestion-xphb|suggestion]]"
     "name": "Innate Spellcasting"
   - "desc": "The abhorrent overlord can sense the presence of gold within 1,000 feet\
       \ of itself. It can determine which location has the greatest amount of gold\
@@ -76,7 +76,7 @@ Abhorrent overlords are gaunt, bipedal creatures whose gray, leathery skin is in
   - "desc": "The abhorrent overlord conjures a swarm of spectral crows and harpies\
       \ in a 20-foot-radius sphere centered on a point the overlord can see within\
       \ 120 feet of it. The sphere remains for 1 minute or until the overlord loses\
-      \ [concentration](Compendium/rules/conditions.md#Concentration) (as if [concentrating](Compendium/rules/conditions.md#Concentration)\
+      \ [[conditions#Concentration|concentration]] (as if [[conditions#Concentration|concentrating]]\
       \ on a spell), and its area is lightly obscured and difficult terrain.\n\nAny\
       \ creature that moves into the area for the first time on a turn or starts its\
       \ turn there must make a DC 15 Constitution saving throw. A creature takes 16\

@@ -49,28 +49,28 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
   - !!int "11"
 "speed": "30 ft., climb 30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_vulnerabilities": "cold, fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [deafened](Compendium/rules/conditions.md#Deafened),\
-  \ [exhaustion](Compendium/rules/conditions.md#Exhaustion), [grappled](Compendium/rules/conditions.md#Grappled),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
-  \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[blindsight](Compendium/rules/senses.md#Blindsight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Blindsight|blindsight]] 120 ft., passive Perception\
   \ 12"
 "languages": "understands languages it knew in its previous form but can't speak"
 "cr": "3"
 "traits":
   - "desc": "In the first round of a combat, the slithering tracker has advantage\
-      \ on attack rolls against any creature it [surprised](Compendium/rules/conditions.md#Surprised)."
+      \ on attack rolls against any creature it [[conditions#Surprised|surprised]]."
     "name": "Ambusher"
   - "desc": "While grappling a creature, the slithering tracker takes only haIf the\
       \ damage dealt to it, and the creature it is grappling takes the other half."
     "name": "Damage Transfer"
   - "desc": "While the slithering tracker remains motionless, it is indistinguishable\
-      \ from a puddle, unless an observer succeeds on a DC 18 Intelligence ([Investigation](Compendium/rules/skills.md#Investigation))\
+      \ from a puddle, unless an observer succeeds on a DC 18 Intelligence ([[skills#Investigation|Investigation]])\
       \ check."
     "name": "False Appearance"
   - "desc": "The slithering tracker has advantage on Wisdom checks to track prey."
@@ -81,7 +81,7 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
   - "desc": "The slithering tracker can climb difficult surfaces, including upside\
       \ down on ceilings, without needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "While underwater, the slithering tracker has advantage on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth))\
+  - "desc": "While underwater, the slithering tracker has advantage on Dexterity ([[skills#Stealth|Stealth]])\
       \ checks made to hide, and it can take the Hide action as a bonus action."
     "name": "Watery Stealth"
 "actions":
@@ -89,9 +89,9 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
       \ (1d10 + 3) bludgeoning damage."
     "name": "Slam"
   - "desc": "One Large or smaller creature that the slithering tracker can see within\
-      \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [grappled](Compendium/rules/conditions.md#Grappled)\
-      \ (escape DC 13). Until this grapple ends, the target is [restrained](Compendium/rules/conditions.md#Restrained)\
-      \ and unable to breathe unless it can breathe water. In addition, the [grappled](Compendium/rules/conditions.md#Grappled)\
+      \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [[conditions#Grappled|grappled]]\
+      \ (escape DC 13). Until this grapple ends, the target is [[conditions#Restrained|restrained]]\
+      \ and unable to breathe unless it can breathe water. In addition, the [[conditions#Grappled|grappled]]\
       \ target takes 16 (3d10) necrotic damage at the start of each of its turns.\
       \ The slithering tracker can grapple only one target at a time."
     "name": "Life Leech"

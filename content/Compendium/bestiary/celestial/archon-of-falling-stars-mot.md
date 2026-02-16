@@ -25,7 +25,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
 "type": "celestial"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate](Compendium/items/plate-armor-xphb.md)"
+"ac_class": "[[plate-armor-xphb|plate]]"
 "hp": !!int "144"
 "hit_dice": "17d8 + 68"
 "modifier": !!int "2"
@@ -43,28 +43,28 @@ Even though the age of archons is long past, many wonder if the few surviving ar
   - "wisdom": !!int "9"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+6"
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
 "damage_immunities": "radiant"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Truesight|truesight]] 120 ft., passive Perception\
   \ 19"
 "languages": "all"
 "cr": "12"
 "traits":
   - "desc": "The archon's spellcasting ability is Wisdom (spell save DC 17, +9 to\
       \ hit with spell attacks). The archon can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [command](Compendium/spells/command-xphb.md),\
-      \ [guiding bolt](Compendium/spells/guiding-bolt-xphb.md), [spare the dying](Compendium/spells/spare-the-dying-xphb.md)\n\
-      \n**1/day each:** [crusader's mantle](Compendium/spells/crusaders-mantle-xphb.md),\
-      \ [spirit guardians](Compendium/spells/spirit-guardians-xphb.md)"
+      \ requiring no material components:\n\n**At will:** [[command-xphb|command]],\
+      \ [[guiding-bolt-xphb|guiding bolt]], [[spare-the-dying-xphb|spare the dying]]\n\
+      \n**1/day each:** [[crusaders-mantle-xphb|crusader's mantle]],\
+      \ [[spirit-guardians-xphb|spirit guardians]]"
     "name": "Innate Spellcasting"
   - "desc": "The archon has advantage on saving throws against spells and other magical\
       \ effects."
@@ -73,8 +73,8 @@ Even though the age of archons is long past, many wonder if the few surviving ar
       \ onto the creature serving as its mount, provided the archon and its mount\
       \ are on the same plane of existence. When it teleports, the archon appears\
       \ astride the mount, along with any equipment it is wearing or carrying. While\
-      \ mounted and not [incapacitated](Compendium/rules/conditions.md#Incapacitated),\
-      \ the archon can't be [surprised](Compendium/rules/conditions.md#Surprised),\
+      \ mounted and not [[conditions#Incapacitated|incapacitated]],\
+      \ the archon can't be [[conditions#Surprised|surprised]],\
       \ and both it and its mount have advantage on Dexterity saving throws. If the\
       \ archon is reduced to 0 hit points while riding its mount, the mount is reduced\
       \ to 0 hit points as well."
@@ -82,7 +82,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
   - "desc": "If the archon is reduced to 0 hit points, it regains 30 hit points and\
       \ springs back to its feet with a burst of radiance. Each creature of the archon's\
       \ choice within 30 feet of it must succeed on a DC 16 Constitution saving throw,\
-      \ or the creature takes 13 (3d8) radiant damage and is [blinded](Compendium/rules/conditions.md#Blinded)\
+      \ or the creature takes 13 (3d8) radiant damage and is [[conditions#Blinded|blinded]]\
       \ until the start of the archon's turn."
     "name": "Radiant Rebirth (Recharges after a Long Rest)"
 "actions":
@@ -96,7 +96,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
   \ actions. The archon of falling stars regains all expended uses at the start of\
   \ each of its turns."
 "legendary_actions":
-  - "desc": "The archon makes a radiant spear attack or casts [guiding bolt](Compendium/spells/guiding-bolt-xphb.md)."
+  - "desc": "The archon makes a radiant spear attack or casts [[guiding-bolt-xphb|guiding bolt]]."
     "name": "Attack"
   - "desc": "The archon makes a radiant spear attack, and then its mount can use its\
       \ reaction to make a melee weapon attack."

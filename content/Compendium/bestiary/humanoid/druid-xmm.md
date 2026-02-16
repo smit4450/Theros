@@ -20,7 +20,7 @@ aliases: ["Druid"]
 *Steward and Sage of Nature*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
 
 Druids use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. Roll on or choose a result from the Druidic Traditions table to inspire a druid's magical practices.
 
@@ -53,11 +53,11 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](Compendium/rules/skills.md#Medicine)"
+  - "name": "[[skills#Medicine|Medicine]]"
     "desc": "+5"
-  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+3"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Common, Druidic, Sylvan"
@@ -72,11 +72,11 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
   - "desc": "*Ranged Attack Roll:* +5, range 90 ft. *Hit:* 10 (3d6) Radiant damage."
     "name": "Verdant Wisp"
   - "desc": "The druid casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 13):\n\n**At will:** [Druidcraft](Compendium/spells/druidcraft-xphb.md),\
-      \ [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md)\n\n**2/day\
-      \ each:** [Entangle](Compendium/spells/entangle-xphb.md), [Thunderwave](Compendium/spells/thunderwave-xphb.md)\n\
-      \n**1/day each:** [Animal Messenger](Compendium/spells/animal-messenger-xphb.md),\
-      \ [Longstrider](Compendium/spells/longstrider-xphb.md), [Moonbeam](Compendium/spells/moonbeam-xphb.md)"
+      \ ability (spell save DC 13):\n\n**At will:** [[druidcraft-xphb|Druidcraft]],\
+      \ [[speak-with-animals-xphb|Speak with Animals]]\n\n**2/day\
+      \ each:** [[entangle-xphb|Entangle]], [[thunderwave-xphb|Thunderwave]]\n\
+      \n**1/day each:** [[animal-messenger-xphb|Animal Messenger]],\
+      \ [[longstrider-xphb|Longstrider]], [[moonbeam-xphb|Moonbeam]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

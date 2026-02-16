@@ -39,19 +39,19 @@ aliases: ["Bassara Tower Archer"]
 "saves":
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Common, Any two languages"
 "cr": "2"
 "traits":
-  - "desc": "The archer has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity (Stealth) checks made while in a wooded environment."
+  - "desc": "The archer has [[advantage-xphb|Advantage]] on Dexterity (Stealth) checks made while in a wooded environment."
     "name": "Arbor Camouflage"
-  - "desc": "The warrior has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
+  - "desc": "The warrior has [[advantage-xphb|Advantage]] on initiative rolls."
     "name": "Battle Readiness"
   - "desc": "The warrior's attack rolls score a critical hit on a roll of 19 or 20 on the d20."
     "name": "Improved Critical"
@@ -61,7 +61,7 @@ aliases: ["Bassara Tower Archer"]
   - "desc": "_Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
 "reactions":
-  - "desc": "The warrior imposes [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on the attack roll of a creature within 5 feet of it whose target isn't the warrior. The warrior must be able to see the attacker."
+  - "desc": "The warrior imposes [[disadvantage-xphb|Disadvantage]] on the attack roll of a creature within 5 feet of it whose target isn't the warrior. The warrior must be able to see the attacker."
     "name": "Protection"
 "source":
   - "TBVXVI"

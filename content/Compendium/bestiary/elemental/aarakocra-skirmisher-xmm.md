@@ -24,7 +24,7 @@ Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They of
 *Winged Guardians of the Sky*
 
 - **Habitat.** Mountain, Planar (Elemental Plane of Air)  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
 
 Aarakocra are birdlike folk who soar the skies of countless worlds and the endless expanses of the Elemental Plane of Air. They often resemble avians common to the lands where they dwell; some resemble hawks or condors, while others appear similar to hummingbirds or archaeopteryxes. In many lands, aarakocra tell of their ancient heroics resisting the wicked Queen of Chaos alongside the mysterious Wind Dukes of Aaqa.
 ## Statblock
@@ -47,7 +47,7 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
   - !!int "11"
 "speed": "20 ft., fly 50 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Aarakocra, Primordial (Auran)"

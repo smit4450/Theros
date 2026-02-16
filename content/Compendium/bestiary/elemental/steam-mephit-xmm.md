@@ -53,22 +53,22 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Primordial (Aquan, Ignan)"
 "cr": "1/4"
 "traits":
-  - "desc": "Attack rolls against the mephit are made with [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-      \ unless the mephit has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+  - "desc": "Attack rolls against the mephit are made with [[disadvantage-xphb|Disadvantage]]\
+      \ unless the mephit has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Blurred Form"
   - "desc": "The mephit explodes when it dies. *Dexterity Saving Throw:* DC 10, each\
-      \ creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the mephit. *Failure:* 5 (2d4) Fire damage. *Success:*\
       \ Half damage."
     "name": "Death Burst"
@@ -76,10 +76,10 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 2 (1d4) Slashing damage\
       \ plus 2 (1d4) Fire damage."
     "name": "Claw"
-  - "desc": "*Constitution Saving Throw:* DC 10, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* 5 (2d4) Fire damage, and the target's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "*Constitution Saving Throw:* DC 10, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *Failure:* 5 (2d4) Fire damage, and the target's [[speed-xphb|Speed]]\
       \ decreases by 10 feet until the end of the mephit's next turn. *Success:* Half\
-      \ damage only. *Failure or Success:* Being underwater doesn't grant [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
+      \ damage only. *Failure or Success:* Being underwater doesn't grant [[resistance-xphb|Resistance]]\
       \ to this Fire damage."
     "name": "Steam Breath (Recharge 6)"
 "source":

@@ -51,7 +51,7 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
   - "wisdom": !!int "7"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "damage_resistances": "cold"
 "senses": "passive Perception 17"
@@ -65,13 +65,13 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 5 ft. or range 60 ft. *Hit:*\
       \ 20 (3d10 + 4) Cold damage. If the target is a Large or smaller creature,\
-      \ it has the [Prone](Compendium/rules/conditions.md#Prone) condition."
+      \ it has the [[conditions#Prone|Prone]] condition."
     "name": "Aquatic Burst"
   - "desc": "The merfolk casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-      \n**At will:** [Elementalism](Compendium/spells/elementalism-xphb.md), [Light](Compendium/spells/light-xphb.md)\n\
-      \n**1/day each:** [Control Water](Compendium/spells/control-water-xphb.md),\
-      \ [Create or Destroy Water](Compendium/spells/create-or-destroy-water-xphb.md)"
+      \n**At will:** [[elementalism-xphb|Elementalism]], [[light-xphb|Light]]\n\
+      \n**1/day each:** [[control-water-xphb|Control Water]],\
+      \ [[create-or-destroy-water-xphb|Create or Destroy Water]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: An enemy the merfolk can see enters a space within 5 feet of\

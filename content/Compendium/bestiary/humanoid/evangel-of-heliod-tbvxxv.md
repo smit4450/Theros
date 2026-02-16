@@ -40,15 +40,15 @@ aliases: ["Evangel of Heliod"]
   - "charisma": !!int "6"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+6"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+5"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1"
 "traits":
-  - "desc": "The evangel is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +5 to hit with spell attacks). It has the following cleric spells prepared: Cantrip (at will): [Light](Compendium/spells/light-xphb.md), [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Mending](Compendium/spells/mending-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md), [Ray Of Frost](Compendium/spells/ray-of-frost-xphb.md) (see \"Actions\" below), [Sacred Flame](Compendium/spells/sacred-flame-xphb.md), [Spare The Dying](Compendium/spells/spare-the-dying-xphb.md) 1st level (4 slots): [Color Spray](Compendium/spells/color-spray-xphb.md), [Divine Favor](Compendium/spells/divine-favor-xphb.md), <expeditious retreat_, [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md), [Healing Word](Compendium/spells/healing-word-xphb.md), [Shield Of Faith](Compendium/spells/shield-of-faith-xphb.md), [Sleep](Compendium/spells/sleep-xphb.md) 2nd level (3 slots): [Blur](Compendium/spells/blur-xphb.md), _cloud of daggers_, [Invisibility](Compendium/spells/invisibility-xphb.md), [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md), [Magic Weapon](Compendium/spells/magic-weapon-xphb.md), [Prayer Of Healing](Compendium/spells/prayer-of-healing-xphb.md), [Silence](Compendium/spells/silence-xphb.md), [Spiritual Weapon](Compendium/spells/spiritual-weapon-xphb.md)"
+  - "desc": "The evangel is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +5 to hit with spell attacks). It has the following cleric spells prepared: Cantrip (at will): [[light-xphb|Light]], [[mage-hand-xphb|Mage Hand]], [[mending-xphb|Mending]], [[minor-illusion-xphb|Minor Illusion]], [[ray-of-frost-xphb|Ray Of Frost]] (see \"Actions\" below), [[sacred-flame-xphb|Sacred Flame]], [[spare-the-dying-xphb|Spare The Dying]] 1st level (4 slots): [[color-spray-xphb|Color Spray]], [[divine-favor-xphb|Divine Favor]], <expeditious retreat_, [[guiding-bolt-xphb|Guiding Bolt]], [[healing-word-xphb|Healing Word]], [[shield-of-faith-xphb|Shield Of Faith]], [[sleep-xphb|Sleep]] 2nd level (3 slots): [[blur-xphb|Blur]], _cloud of daggers_, [[invisibility-xphb|Invisibility]], [[lesser-restoration-xphb|Lesser Restoration]], [[magic-weapon-xphb|Magic Weapon]], [[prayer-of-healing-xphb|Prayer Of Healing]], [[silence-xphb|Silence]], [[spiritual-weapon-xphb|Spiritual Weapon]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "The evangel summons 1d6 + 1 soldiers that appear in unoccupied spaces that it can see within 60 feet of itself. The summoned soldiers act as allies to their summoner and to each other."

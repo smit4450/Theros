@@ -35,8 +35,8 @@ aliases: ["Quarry Colossus"]
   - !!int "16"
   - !!int "16"
 "speed": "120 ft."
-"condition_immunities": "[frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 10"
+"condition_immunities": "[[conditions#Frightened|frightened]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception 10"
 "languages": "Giant"
 "cr": "17"
 "traits":
@@ -45,9 +45,9 @@ aliases: ["Quarry Colossus"]
   - "desc": "Unless provoked, the giant ignores all nonflying things that are Huge or smaller and all flying things that are Large or smaller."
     "name": "Titanic Nature"
 "actions":
-  - "desc": "The colossus pounds a hole in the earth, which swallows all creatures, objects, and structure in a 10-foot radius. Each creature in that area must succeed on a DC 15 Dexterity saving throw or fall 1d6 × 10 feet into the sinkhole, take 10 (3d6) bludgeoning damage, and be knocked [prone](Compendium/rules/conditions.md#Prone) and buried. Buried creatures are [restrained](Compendium/rules/conditions.md#Restrained) and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success."
+  - "desc": "The colossus pounds a hole in the earth, which swallows all creatures, objects, and structure in a 10-foot radius. Each creature in that area must succeed on a DC 15 Dexterity saving throw or fall 1d6 × 10 feet into the sinkhole, take 10 (3d6) bludgeoning damage, and be knocked [[conditions#Prone|prone]] and buried. Buried creatures are [[conditions#Restrained|restrained]] and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success."
     "name": "Bury (Recharge 6)"
-  - "desc": "Ranged Weapon Attack: +7 to hit, range 60/240 ft., one target. Hit: 30 (10d4 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone)."
+  - "desc": "Ranged Weapon Attack: +7 to hit, range 60/240 ft., one target. Hit: 30 (10d4 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Rock"
   - "desc": "_Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 30 (10d4 + 5) bludgeoning damage."
     "name": "Unarmed Strike"

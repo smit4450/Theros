@@ -21,7 +21,7 @@ aliases: ["Ice Devil"]
 *Devil of Antipathy and Intellectual Arrogance*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana|Arcana]]  
 
 Heartless strategists of the Nine Hells, ice devils—also known as gelugons—forsake emotion to indulge in their own malicious interpretations of logic. For them, the multiverse is a puzzle that must be solved to benefit them, their masters, and the Nine Hells.
 
@@ -59,24 +59,24 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+9"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Blindsight|Blindsight]] 120 ft., passive Perception\
   \ 17"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "14"
 "traits":
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ smoke, and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -85,8 +85,8 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Attack Roll:* +10, reach 5 ft. or range 30/120 ft.\
       \ *Hit:* 14 (2d8 + 5) Piercing damage plus 10 (3d6) Cold damage. Until the\
-      \ end of its next turn, the target can't take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md)\
-      \ or [Reaction](Compendium/rules/variant-rules/reaction-xphb.md), its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ end of its next turn, the target can't take a [[bonus-action-xphb|Bonus Action]]\
+      \ or [[reaction-xphb|Reaction]], its [[speed-xphb|Speed]]\
       \ decreases by 10 feet, and it can move or take one action on its turn, not\
       \ both. *Hit or Miss:* The spear magically returns to the devil's hand immediately\
       \ after a ranged attack."
@@ -94,7 +94,7 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
   - "desc": "*Melee Attack Roll:* +10, reach 10 ft. *Hit:* 15 (3d6 + 5) Bludgeoning\
       \ damage plus 18 (4d8) Cold damage."
     "name": "Tail"
-  - "desc": "The devil casts [Wall of Ice](Compendium/spells/wall-of-ice-xphb.md)\
+  - "desc": "The devil casts [[wall-of-ice-xphb|Wall of Ice]]\
       \ (level 8 version), requiring no spell components and using Intelligence as\
       \ the spellcasting ability (spell save DC 17).\n"
     "name": "Ice Wall (Recharge 6)"

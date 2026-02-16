@@ -32,7 +32,7 @@ Gorgons are created by magic-users to serve as guardians. The process for creati
 
 When magic-users create gorgons, they often enchant them to ignore those who confront the creature with a specific command key, usually a password or a specific signal. Once a gorgon is set to guard an area, it attacks any who enter until they flee or are destroyed. Should someone provide the command key, the monster ignores that intruder so long as the intruder remains in its sight. But if the intruder ventures out of sight and then returns without again presenting the command key, the gorgon attacks. Those in a gorgon's territory must remain vigilant and aware of the monster's exact position, or they risk being attacked by a gorgon they thought was no longer a threat.
 
-Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [petrified](Compendium/rules/conditions.md#Petrified) trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
+Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [[conditions#Petrified|petrified]] trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
 
 **Gorgon Command Keys**
 
@@ -71,21 +71,21 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+10"
 "damage_immunities": "fire"
-"condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Petrified|petrified]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 20"
 "languages": ""
 "cr": "9"
 "traits":
-  - "desc": "At the end of each of the gorgon's turns, each creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "At the end of each of the gorgon's turns, each creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the gorgon takes 13 (3d8) Fire damage."
     "name": "Flame Aura"
-  - "desc": "The gorgon sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+  - "desc": "The gorgon sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":
@@ -94,17 +94,17 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
   - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing\
       \ damage plus 10 (3d6) Fire damage."
     "name": "Gore"
-  - "desc": "The gorgon moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The gorgon moves up to its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ and can move through the spaces of Medium or smaller creatures. Each time\
       \ the gorgon enters a creature's space for the first time during this move,\
       \ that target is subjected to the following effect. *Dexterity Saving Throw:*\
       \ DC 16. *Failure:* 13 (2d8 + 4) Piercing damage plus 13 (3d8) Fire damage,\
-      \ and the target is pulled into the gorgon's space and has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14); if the gorgon already has a creature [Grappled](Compendium/rules/conditions.md#Grappled),\
-      \ the target has the [Prone](Compendium/rules/conditions.md#Prone) condition\
-      \ instead. Until the grapple ends, the target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-      \ condition. When the gorgon moves, the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ and the target is pulled into the gorgon's space and has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 14); if the gorgon already has a creature [[conditions#Grappled|Grappled]],\
+      \ the target has the [[conditions#Prone|Prone]] condition\
+      \ instead. Until the grapple ends, the target has the [[conditions#Restrained|Restrained]]\
+      \ condition. When the gorgon moves, the [[conditions#Grappled|Grappled]]\
       \ target moves with it, costing no extra movement."
     "name": "Smelting Charge (Recharge 5-6)"
 "source":

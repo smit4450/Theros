@@ -67,9 +67,9 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+4"
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Common, Thieves' cant"

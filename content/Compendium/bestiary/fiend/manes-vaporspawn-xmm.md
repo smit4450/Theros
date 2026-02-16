@@ -48,10 +48,10 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "speed": "30 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned), [restrained](Compendium/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Restrained|restrained]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1"
@@ -59,9 +59,9 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
   - "desc": "The manes can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so."
     "name": "Contortionist"
-  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the manes at the end of the manes's turn. *Failure:* The\
-      \ target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn. *Success:* The target is immune\
       \ to this manes's Sickening Vapors for 24 hours."
     "name": "Sickening Vapors"
@@ -70,8 +70,8 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
       \ damage plus 5 (2d4) Necrotic damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the manes\
+  - "desc": "While in [[dim-light-xphb|Dim Light]]\
+      \ or [[darkness-xphb|Darkness]], the manes\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

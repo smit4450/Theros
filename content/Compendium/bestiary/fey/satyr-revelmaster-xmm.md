@@ -24,7 +24,7 @@ Satyr revelmasters use magical music to change the moods of other creatures. The
 *Horned and Hoofed Revelers*
 
 - **Habitat.** Forest, Planar (Feywild)  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** [[random-magic-items-implements|Implements]]  
 
 Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merrymaking—eating, drinking, performing, fighting, and frolicking.
 ## Statblock
@@ -50,35 +50,35 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
   - "dexterity": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+7"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+9"
 "senses": "passive Perception 15"
 "languages": "Common, Elvish, Sylvan"
 "cr": "6"
 "traits":
-  - "desc": "The satyr has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The satyr has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The satyr makes three Prance attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Bludgeoning\
-      \ damage, and the target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ damage, and the target has the [[conditions#Charmed|Charmed]]\
       \ condition until the start of the satyr's next turn."
     "name": "Prance"
   - "desc": "The satyr conjures a charming or frightening song. *Wisdom Saving Throw:*\
-      \ DC 14, each enemy in a 60-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ DC 14, each enemy in a 60-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the satyr. *Failure:* The target is subjected to the song's\
-      \ effect:\n\n- **Charming.** The target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
-      \ condition for 1 minute. While [Charmed](Compendium/rules/conditions.md#Charmed),\
-      \ the target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ effect:\n\n- **Charming.** The target has the [[conditions#Charmed|Charmed]]\
+      \ condition for 1 minute. While [[conditions#Charmed|Charmed]],\
+      \ the target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition and uses all its movement to dance in place. The effect ends on\
       \ the target if it takes any damage.  \n- **Frightening.** 10 (2d6 + 3) Psychic\
-      \ damage, and the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
       \ condition for 1 minute. If the target ends its turn out of line of sight from\
       \ the satyr, the condition ends on it.  "
     "name": "Fey Melody (Recharge 4-6)"

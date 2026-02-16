@@ -36,35 +36,35 @@ aliases: ["Annis Hag (Coven; Death)"]
 "saves":
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": "Common, Giant, Sylvan"
 "cr": "8"
 "traits":
   - "desc": "While all three members of a hag coven are within 30 feet of one another,\
       \ they can each cast the following spells from the wizard's spell list but must\
-      \ share the spell slots among themselves:\n\n**1st level (4 slots):** [false\
-      \ life](Compendium/spells/false-life-xphb.md), [inflict wounds](Compendium/spells/inflict-wounds-xphb.md)\n\
-      \n**2nd level (3 slots):** [gentle repose](Compendium/spells/gentle-repose-xphb.md),\
-      \ [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement-xphb.md)\n\n**3rd\
-      \ level (3 slots):** [animate dead](Compendium/spells/animate-dead-xphb.md),\
-      \ [revivify](Compendium/spells/revivify-xphb.md), [speak with dead](Compendium/spells/speak-with-dead-xphb.md)\n\
-      \n**4th level (3 slots):** [blight](Compendium/spells/blight-xphb.md), [death\
-      \ ward](Compendium/spells/death-ward-xphb.md)\n\n**5th level (2 slots):** [contagion](Compendium/spells/contagion-xphb.md),\
-      \ [raise dead](Compendium/spells/raise-dead-xphb.md)\n\n**6th level (1 slots):**\
-      \ [circle of death](Compendium/spells/circle-of-death-xphb.md)\n\nFor casting\
+      \ share the spell slots among themselves:\n\n**1st level (4 slots):** [[false-life-xphb|false\
+      \ life]], [[inflict-wounds-xphb|inflict wounds]]\n\
+      \n**2nd level (3 slots):** [[gentle-repose-xphb|gentle repose]],\
+      \ [[ray-of-enfeeblement-xphb|ray of enfeeblement]]\n\n**3rd\
+      \ level (3 slots):** [[animate-dead-xphb|animate dead]],\
+      \ [[revivify-xphb|revivify]], [[speak-with-dead-xphb|speak with dead]]\n\
+      \n**4th level (3 slots):** [[blight-xphb|blight]], [[death-ward-xphb|death\
+      \ ward]]\n\n**5th level (2 slots):** [[contagion-xphb|contagion]],\
+      \ [[raise-dead-xphb|raise dead]]\n\n**6th level (1 slots):**\
+      \ [[circle-of-death-xphb|circle of death]]\n\nFor casting\
       \ these spells, each hag is a 12th-level spellcaster that uses Intelligence\
       \ as her spellcasting ability. The spell save DC 13, and the spell attack bonus\
       \ is +5."
     "name": "Shared Spellcasting (Coven Only)"
   - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 13).\
-      \ She can innately cast the following spells:\n\n**3/day each:** [disguise self](Compendium/spells/disguise-self-xphb.md)\
-      \ (including the form of a Medium humanoid), [fog cloud](Compendium/spells/fog-cloud-xphb.md)"
+      \ She can innately cast the following spells:\n\n**3/day each:** [[disguise-self-xphb|disguise self]]\
+      \ (including the form of a Medium humanoid), [[fog-cloud-xphb|fog cloud]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The annis makes three attacks: one with her bite and two with her claws."
@@ -76,7 +76,7 @@ aliases: ["Annis Hag (Coven; Death)"]
       \ (3d6 + 5) slashing damage."
     "name": "Claw"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 36\
-      \ (9d6 + 5) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled)\
+      \ (9d6 + 5) bludgeoning damage, and the target is [[conditions#Grappled|grappled]]\
       \ (escape DC 15) if it is a Large or smaller creature. Until the grapple ends,\
       \ the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of\
       \ the hag's turns. The hag can't make attacks while grappling a creature in\

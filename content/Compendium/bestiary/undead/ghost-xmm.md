@@ -46,12 +46,12 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [grappled](Compendium/rules/conditions.md#Grappled),\
-  \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned), [prone](Compendium/rules/conditions.md#Prone),\
-  \ [restrained](Compendium/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "Common plus one other language"
 "cr": "4"
@@ -60,7 +60,7 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
       \ Plane."
     "name": "Ethereal Sight"
   - "desc": "The ghost can move through other creatures and objects as if they were\
-      \ [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ [[difficult-terrain-xphb|Difficult Terrain]].\
       \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -69,28 +69,28 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 19 (3d10 + 3) Necrotic\
       \ damage."
     "name": "Withering Touch"
-  - "desc": "*Wisdom Saving Throw:* DC 13, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 13, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]]\
       \ that can see the ghost and isn't an Undead. *Failure:* 10 (2d6 + 3) Psychic\
-      \ damage, and the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
       \ condition until the start of the ghost's next turn. *Success:* The target\
       \ is immune to this ghost's Horrific Visage for 24 hours."
     "name": "Horrific Visage"
   - "desc": "*Charisma Saving Throw:* DC 13, one Humanoid the ghost can see within\
       \ 5 feet. *Failure:* The target is possessed by the ghost; the ghost disappears,\
-      \ and the target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ and the target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition and loses control of its body. The ghost now controls the body,\
       \ but the target retains awareness. The ghost can't be targeted by any attack,\
       \ spell, or other effect, except ones that specifically target Undead. The ghost's\
-      \ game statistics are the same, except it uses the possessed target's [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+      \ game statistics are the same, except it uses the possessed target's [[speed-xphb|Speed]],\
       \ as well as the target's Strength, Dexterity, and Constitution modifiers.\n\
-      \nThe possession lasts until the body drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ or the ghost leaves as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md).\
+      \nThe possession lasts until the body drops to 0 [[hit-points-xphb|Hit Points]]\
+      \ or the ghost leaves as a [[bonus-action-xphb|Bonus Action]].\
       \ When the possession ends, the ghost appears in an unoccupied space within\
-      \ 5 feet of the target, and the target is immune to this ghost's [Possession](Compendium/rules/variant-rules/possession-xphb.md)\
-      \ for 24 hours. *Success:* The target is immune to this ghost's [Possession](Compendium/rules/variant-rules/possession-xphb.md)\
+      \ 5 feet of the target, and the target is immune to this ghost's [[possession-xphb|Possession]]\
+      \ for 24 hours. *Success:* The target is immune to this ghost's [[possession-xphb|Possession]]\
       \ for 24 hours."
     "name": "Possession (Recharge 6)"
-  - "desc": "The ghost casts the [Etherealness](Compendium/spells/etherealness-xphb.md)\
+  - "desc": "The ghost casts the [[etherealness-xphb|Etherealness]]\
       \ spell, requiring no spell components and using Charisma as the spellcasting\
       \ ability. The ghost is visible on the Material Plane while on the Border Ethereal\
       \ and vice versa, but it can't affect or be affected by anything on the other\

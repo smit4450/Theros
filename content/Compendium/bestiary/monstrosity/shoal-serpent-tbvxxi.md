@@ -42,13 +42,13 @@ aliases: ["Shoal Serpent"]
   - "constitution": !!int "10"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "18"
 "traits":
-  - "desc": "When a Huge or smaller creature is bitten by the serpent, or when it is in the serpent's path as it breaches (but before it falls), it must succeed on a DC 13 Dexterity saving throw or be swallowed by the serpent. A swallowed creature is [blinded](Compendium/rules/conditions.md#Blinded) and [restrained](Compendium/rules/conditions.md#Restrained), it has total cover against attacks and other effects outside the serpent, and it takes 21 (6d6) acid damage at the start of each of the serpent's turns. If the serpent takes 30 damage or more on a single turn from a creature inside it, the serpent must succeed on a DC 19 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](Compendium/rules/conditions.md#Prone) in a space within 10 feet of the serpent. If the serpent dies, a swallowed creature is no longer [restrained](Compendium/rules/conditions.md#Restrained) by it and can escape from the corpse by using 20 feet of movement, exiting [prone](Compendium/rules/conditions.md#Prone)."
+  - "desc": "When a Huge or smaller creature is bitten by the serpent, or when it is in the serpent's path as it breaches (but before it falls), it must succeed on a DC 13 Dexterity saving throw or be swallowed by the serpent. A swallowed creature is [[conditions#Blinded|blinded]] and [[conditions#Restrained|restrained]], it has total cover against attacks and other effects outside the serpent, and it takes 21 (6d6) acid damage at the start of each of the serpent's turns. If the serpent takes 30 damage or more on a single turn from a creature inside it, the serpent must succeed on a DC 19 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [[conditions#Prone|prone]] in a space within 10 feet of the serpent. If the serpent dies, a swallowed creature is no longer [[conditions#Restrained|restrained]] by it and can escape from the corpse by using 20 feet of movement, exiting [[conditions#Prone|prone]]."
     "name": "Swallow"
   - "desc": "The serpent can breathe only underwater."
     "name": "Water Breathing"

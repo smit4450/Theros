@@ -37,15 +37,15 @@ aliases: ["Mogis's Marauder"]
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](Compendium/rules/skills.md#Intimidation)"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Common, Minotaur"
 "cr": "1/2"
 "traits":
-  - "desc": "At the start of its turn, the marauder can gain [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on all melee weapon attack rolls during that turn, but attack rolls against it have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) until the start of its next turn."
+  - "desc": "At the start of its turn, the marauder can gain [[advantage-xphb|Advantage]] on all melee weapon attack rolls during that turn, but attack rolls against it have [[advantage-xphb|Advantage]] until the start of its next turn."
     "name": "Reckless"
-  - "desc": "The marauder and all allied creatures within 30 ft. of it that can hear its war cry have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on initiative rolls."
+  - "desc": "The marauder and all allied creatures within 30 ft. of it that can hear its war cry have [[advantage-xphb|Advantage]] on initiative rolls."
     "name": "War Cry"
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."

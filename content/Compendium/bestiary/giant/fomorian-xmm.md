@@ -56,11 +56,11 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 18"
 "languages": "Giant, Undercommon"
 "cr": "8"
@@ -72,7 +72,7 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
       \ damage."
     "name": "Stone Club"
   - "desc": "*Wisdom Saving Throw:* DC 16, one creature the fomorian can see within\
-      \ 120 feet. *Failure:* 21 (6d6) Psychic damage, and the target gains 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion)\
+      \ 120 feet. *Failure:* 21 (6d6) Psychic damage, and the target gains 1 [[conditions#Exhaustion|Exhaustion]]\
       \ level. *Success:* Half damage only."
     "name": "Warping Hex (Recharge 4-6)"
 "source":

@@ -42,13 +42,13 @@ aliases: ["Pillar of War"]
 "languages": "Understands Common, Druidic, and Sylvan but cannot speak"
 "cr": "5"
 "traits":
-  - "desc": "The caryatid is animated by a transmutation spell. If that spell is dispelled, the caryatid becomes [incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+  - "desc": "The caryatid is animated by a transmutation spell. If that spell is dispelled, the caryatid becomes [[conditions#Incapacitated|incapacitated]]."
     "name": "Animated Nature"
   - "desc": "While the caryatid remains motionless, it is indistinguishable from a normal man-made stone caryatid."
     "name": "False Appearance"
   - "desc": "The caryatid deals double damage to objects and structures."
     "name": "Siege Monster"
-  - "desc": "The caryatid has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity (Stealth) checks made to hide in rocky terrain."
+  - "desc": "The caryatid has [[advantage-xphb|Advantage]] on Dexterity (Stealth) checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
 "actions":
   - "desc": "The caryatid makes two shortsword attacks."

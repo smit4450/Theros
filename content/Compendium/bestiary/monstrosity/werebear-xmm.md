@@ -22,7 +22,7 @@ aliases: ["Werebear"]
 *Changed by the Might of the Bear*
 
 - **Habitat.** Arctic, Forest, Hill  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 When threatened or compelled by magic, werebears shape-shift from their humanoid forms into mighty bears or hybrids of those two forms. They scare off or sabotage those who threaten the wilds, and they frequently aid Fey, druids, or spirits of the wilderness, as many owe their magical nature to such forces. Werebears take the shape of bears common to the regions in which they dwell, with brown and polar bear forms being common.
 ```statblock
@@ -44,9 +44,9 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   - !!int "12"
 "speed": "30 ft., 40 ft. (bear form only), climb 30 ft. (bear form only)"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 17"
 "languages": "Common (can't speak in bear form)"
 "cr": "5"
@@ -57,8 +57,8 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 17 (2d12 + 4) Piercing\
       \ damage. If the target is a Humanoid, it is subjected to the following effect.\
       \ *Constitution Saving Throw:* DC 14. *Failure:* The target is cursed. If the\
-      \ cursed target drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Werebear under the DM's control and has 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ cursed target drops to 0 [[hit-points-xphb|Hit Points]],\
+      \ it instead becomes a Werebear under the DM's control and has 10 [[hit-points-xphb|Hit Points]].\
       \ *Success:* The target is immune to this werebear's curse for 24 hours."
     "name": "Bite (Bear or Hybrid Form Only)"
   - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 5 ft or range 20/60 ft. *Hit:*\

@@ -21,7 +21,7 @@ aliases: ["Deva"]
 *World-Changing Angelic Messenger*
 
 - **Habitat.** Planar (Upper Planes)  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Devas are emissaries of divine will. These immortal messengers adopt the shapes of mystical beasts or idealized, winged mortals. As with all angels, their true forms are known only to the gods they serve.
 
@@ -60,23 +60,23 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+9"
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 19"
 "languages": "all; telepathy 120 ft."
 "cr": "10"
 "traits":
   - "desc": "If the deva dies outside Mount Celestia, its body disappears, and it\
-      \ gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in Mount Celestia."
     "name": "Exalted Restoration"
-  - "desc": "The deva has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The deva has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -87,17 +87,17 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
     "name": "Holy Mace"
   - "desc": "The deva casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\n**At\
-      \ will:** [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md),\
-      \ [Shapechange](Compendium/spells/shapechange-xphb.md) (Beast or Humanoid form\
-      \ only, no [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ gained from the spell, and no Concentration or [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ required to maintain the spell)\n\n**1/day each:** [Commune](Compendium/spells/commune-xphb.md),\
-      \ [Raise Dead](Compendium/spells/raise-dead-xphb.md)"
+      \ will:** [[detect-evil-and-good-xphb|Detect Evil and Good]],\
+      \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid form\
+      \ only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ required to maintain the spell)\n\n**1/day each:** [[commune-xphb|Commune]],\
+      \ [[raise-dead-xphb|Raise Dead]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The deva casts [Cure Wounds](Compendium/spells/cure-wounds-xphb.md),\
-      \ [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md), or [Remove\
-      \ Curse](Compendium/spells/remove-curse-xphb.md), using the same spellcasting\
+  - "desc": "The deva casts [[cure-wounds-xphb|Cure Wounds]],\
+      \ [[lesser-restoration-xphb|Lesser Restoration]], or [[remove-curse-xphb|Remove\
+      \ Curse]], using the same spellcasting\
       \ ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":

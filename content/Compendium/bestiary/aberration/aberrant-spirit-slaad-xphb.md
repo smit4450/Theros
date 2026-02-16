@@ -29,7 +29,7 @@ aliases: ["Aberrant Spirit (Slaad)"]
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "psychic"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Deep Speech, understands the languages you know"
 "traits":

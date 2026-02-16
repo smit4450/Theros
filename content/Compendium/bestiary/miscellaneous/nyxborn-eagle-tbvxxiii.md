@@ -35,13 +35,13 @@ aliases: ["Nyxborn Eagle"]
   - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The eagle has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom (Perception) checks that rely on sight."
+  - "desc": "The eagle has [[advantage-xphb|Advantage]] on Wisdom (Perception) checks that rely on sight."
     "name": "Keen Sight"
   - "desc": "The eagle's weapon attacks are magical."
     "name": "Magic Weapons"

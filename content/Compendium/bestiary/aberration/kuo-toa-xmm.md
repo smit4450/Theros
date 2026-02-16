@@ -25,7 +25,7 @@ Most kuo-toa follow the orders of their more powerful leaders out of a combinati
 *Fishlike Fanatics of the Deep*
 
 - **Habitat.** Coastal, Underdark  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Kuo-toa have slimy, humanoid bodies and the heads of goggle-eyed deep-sea fish. They claim they once dominated whole worlds, their empires spanning land and sea under the blessings of piscine gods. The kuo-toa can't say what disaster brought their glorious civilization to an end, but elves, humans, mind flayers, and the kuo-toan gods bear the brunt of their blame. From the lands and seas of the surface, the kuo-toa retreated into cavernous trenches and Underdark seas. In these hidden realms, kuo-toa brood over all they've lost and forgotten, nursing plots to avenge themselves for slights that might never have occurred.
 
@@ -97,16 +97,16 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "8"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., [Truesight](Compendium/rules/senses.md#Truesight)\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., [[senses#Truesight|Truesight]]\
   \ 30 ft., passive Perception 14"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kuo-toa has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -114,10 +114,10 @@ Kuo-toa typically organize their communities around sites they believe to be imp
       \ *Hit:* 5 (1d8 + 1) Piercing damage."
     "name": "Spear"
   - "desc": "*Dexterity Saving Throw:* DC 10, one Large or smaller creature the kuo-toa\
-      \ can see within 15 feet. *Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-      \ condition until the net is destroyed (AC 10; HP 5; [Immunity](Compendium/rules/variant-rules/immunity-xphb.md)\
+      \ can see within 15 feet. *Failure:* The target has the [[conditions#Restrained|Restrained]]\
+      \ condition until the net is destroyed (AC 10; HP 5; [[immunity-xphb|Immunity]]\
       \ to Bludgeoning, Poison, and Psychic damage). A creature can take an action\
-      \ to make a DC 10 Strength ([Athletics](Compendium/rules/skills.md#Athletics))\
+      \ to make a DC 10 Strength ([[skills#Athletics|Athletics]])\
       \ check to free itself or another creature in a net within 5 feet, destroying\
       \ the net on a success."
     "name": "Sticky Net (1/Day)"
@@ -125,9 +125,9 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - "desc": "Trigger: A creature misses the kuo-toa with a melee attack roll using\
       \ a weapon. _Response—_*Strength Saving Throw:* DC 11, the triggering creature.\
       \ *Failure:* The attack's weapon sticks to the kuo-toa's shield. If the target\
-      \ doesn't let go of the weapon, the target has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ doesn't let go of the weapon, the target has the [[conditions#Grappled|Grappled]]\
       \ condition while the weapon is stuck (escape DC 11). While stuck, the weapon\
-      \ can't be used. The target can take an action to make a DC 11 Strength ([Athletics](Compendium/rules/skills.md#Athletics))\
+      \ can't be used. The target can take an action to make a DC 11 Strength ([[skills#Athletics|Athletics]])\
       \ check, freeing the weapon on a success."
     "name": "Sticky Shield"
 "source":

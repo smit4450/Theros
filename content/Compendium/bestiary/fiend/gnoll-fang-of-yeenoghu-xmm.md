@@ -25,7 +25,7 @@ Gnolls possessed by demonic vestiges of the demon lord Yeenoghu, fangs of Yeenog
 *Fiends in Feral Flesh*
 
 - **Habitat.** Desert, Forest, Grassland, Hill  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
 
 The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their corruption and violence delighted the demon lord Yeenoghu, who encouraged their numbers and spread them across the multiverse. Ever since, gnolls have been the cackling servants of Yeenoghu, existing to cause ruin and to feast on what remains.
 
@@ -56,7 +56,7 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
   - "charisma": !!int "3"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Abyssal, Gnoll"
 "cr": "4"
@@ -64,15 +64,15 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - "desc": "The gnoll makes one Bite attack and two Bone Flail attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing\
-      \ damage plus 7 (2d6) Poison damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ damage plus 7 (2d6) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the gnoll's next turn."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +5, reach 10 ft. *Hit:* 7 (1d8 + 3) Piercing\
       \ damage."
     "name": "Bone Flail"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](Compendium/rules/conditions.md#Bloodied),\
-      \ the gnoll moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+  - "desc": "Immediately after dealing damage to a creature that is already [[conditions#Bloodied|Bloodied]],\
+      \ the gnoll moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Bite attack."
     "name": "Rampage (2/Day)"
 "source":

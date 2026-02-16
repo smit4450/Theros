@@ -75,10 +75,10 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
-"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]]"
+"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
   \ 14"
 "languages": "Modron"
 "cr": "2"
@@ -94,8 +94,8 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - "desc": "*Ranged Attack Roll:* +4, range 120 ft. *Hit:* 5 (1d6 + 2) Lightning\
       \ damage."
     "name": "Electrical Discharge"
-  - "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
+  - "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ *Failure:* The target has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Paralysis Gas (Recharge 5-6)"

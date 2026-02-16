@@ -23,7 +23,7 @@ Kuo-toa archpriests lead kuo-toa communities by interpreting omens and messages 
 *Fishlike Fanatics of the Deep*
 
 - **Habitat.** Coastal, Underdark  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Kuo-toa have slimy, humanoid bodies and the heads of goggle-eyed deep-sea fish. They claim they once dominated whole worlds, their empires spanning land and sea under the blessings of piscine gods. The kuo-toa can't say what disaster brought their glorious civilization to an end, but elves, humans, mind flayers, and the kuo-toan gods bear the brunt of their blame. From the lands and seas of the surface, the kuo-toa retreated into cavernous trenches and Underdark seas. In these hidden realms, kuo-toa brood over all they've lost and forgotten, nursing plots to avenge themselves for slights that might never have occurred.
 
@@ -95,18 +95,18 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "14"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+4"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., [Truesight](Compendium/rules/senses.md#Truesight)\
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., [[senses#Truesight|Truesight]]\
   \ 30 ft., passive Perception 19"
 "languages": "Undercommon"
 "cr": "6"
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kuo-toa has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -117,13 +117,13 @@ Kuo-toa typically organize their communities around sites they believe to be imp
     "name": "Strange Scepter"
   - "desc": "The kuo-toa casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 14):\n\
-      \n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-      \n**1/day each:** [Destructive Wave](Compendium/spells/destructive-wave-xphb.md),\
-      \ [Divination](Compendium/spells/divination-xphb.md), [Hold Monster](Compendium/spells/hold-monster-xphb.md)\
-      \ (level 6 version), [Scrying](Compendium/spells/scrying-xphb.md), [Tongues](Compendium/spells/tongues-xphb.md)"
+      \n**At will:** [[detect-magic-xphb|Detect Magic]], [[thaumaturgy-xphb|Thaumaturgy]]\n\
+      \n**1/day each:** [[destructive-wave-xphb|Destructive Wave]],\
+      \ [[divination-xphb|Divination]], [[hold-monster-xphb|Hold Monster]]\
+      \ (level 6 version), [[scrying-xphb|Scrying]], [[tongues-xphb|Tongues]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The kuo-toa casts [Shield of Faith](Compendium/spells/shield-of-faith-xphb.md),\
+  - "desc": "The kuo-toa casts [[shield-of-faith-xphb|Shield of Faith]],\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Shield of Faith (2/Day)"
 "source":

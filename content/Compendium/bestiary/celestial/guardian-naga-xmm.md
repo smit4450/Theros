@@ -23,7 +23,7 @@ aliases: ["Guardian Naga"]
 *Enduring Serpentine Lore Keeper*
 
 - **Habitat.** Desert, Forest, Planar (Upper Planes)  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics|Relics]]  
 
 Guardian nagas are immortal, serpentine scholars that possess perfect memories. They collect the histories and lore of those they live among, guarding cultures' stories and passing them on to new generations with infallible accuracy. Guardian nagas that outlive their host civilizations might linger in whatever ruins remain, preserving the civilizations' stories so their lost people might live on.
 
@@ -66,23 +66,23 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
   - "wisdom": !!int "8"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+11"
-  - "name": "[History](Compendium/rules/skills.md#History)"
+  - "name": "[[skills#History|History]]"
     "desc": "+11"
-  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+11"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [poisoned](Compendium/rules/conditions.md#Poisoned), [restrained](Compendium/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Restrained|restrained]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Celestial, Common"
 "cr": "10"
 "traits":
   - "desc": "If the naga dies, it returns to life in 1d6 days and regains all its\
-      \ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) unless [Dispel\
-      \ Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md) is cast on\
+      \ [[hit-points-xphb|Hit Points]] unless [[dispel-evil-and-good-xphb|Dispel\
+      \ Evil and Good]] is cast on\
       \ its remains."
     "name": "Celestial Restoration"
 "actions":
@@ -93,16 +93,16 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
       \ damage plus 22 (4d10) Poison damage."
     "name": "Bite"
   - "desc": "*Constitution Saving Throw:* DC 16, one creature the naga can see within\
-      \ 60 feet. *Failure:* 31 (7d8) Poison damage, and the target has the [Blinded](Compendium/rules/conditions.md#Blinded)\
+      \ 60 feet. *Failure:* 31 (7d8) Poison damage, and the target has the [[conditions#Blinded|Blinded]]\
       \ condition until the start of the naga's next turn. *Success:* Half damage\
       \ only."
     "name": "Poisonous Spittle"
   - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\n**1/day\
-      \ each:** [Clairvoyance](Compendium/spells/clairvoyance-xphb.md), [Cure Wounds](Compendium/spells/cure-wounds-xphb.md)\
-      \ (level 6 version), [Flame Strike](Compendium/spells/flame-strike-xphb.md)\
-      \ (level 6 version), [Geas](Compendium/spells/geas-xphb.md), [True Seeing](Compendium/spells/true-seeing-xphb.md)"
+      \n**At will:** [[thaumaturgy-xphb|Thaumaturgy]]\n\n**1/day\
+      \ each:** [[clairvoyance-xphb|Clairvoyance]], [[cure-wounds-xphb|Cure Wounds]]\
+      \ (level 6 version), [[flame-strike-xphb|Flame Strike]]\
+      \ (level 6 version), [[geas-xphb|Geas]], [[true-seeing-xphb|True Seeing]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

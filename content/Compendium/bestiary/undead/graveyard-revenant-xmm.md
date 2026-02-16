@@ -53,33 +53,33 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
-  \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
-  \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
-  \ [stunned](Compendium/rules/conditions.md#Stunned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
+"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
   \ 13"
 "languages": "Common plus two other languages"
 "cr": "7"
 "traits":
-  - "desc": "If the revenant dies, it revives 24 hours later unless [Dispel Evil and\
-      \ Good](Compendium/spells/dispel-evil-and-good-xphb.md) is cast on its remains.\
+  - "desc": "If the revenant dies, it revives 24 hours later unless [[dispel-evil-and-good-xphb|Dispel Evil and\
+      \ Good]] is cast on its remains.\
       \ If it revives, it animates another group of corpses elsewhere on the same\
       \ plane of existence; it now looks different but uses the same stat block and\
-      \ returns with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+      \ returns with all its [[hit-points-xphb|Hit Points]]."
     "name": "Undead Restoration"
 "actions":
   - "desc": "The revenant makes two Suffocate attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 10 (1d10 + 5) Bludgeoning\
       \ damage plus 10 (3d6) Necrotic damage. If the target is a Large or smaller\
-      \ creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled) condition\
+      \ creature, it has the [[conditions#Grappled|Grappled]] condition\
       \ (escape DC 15). Until the grapple ends, the target is suffocating. The revenant\
-      \ can have up to two targets [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ can have up to two targets [[conditions#Grappled|Grappled]]\
       \ in this way at a time."
     "name": "Suffocate"
-  - "desc": "*Wisdom Saving Throw:* DC 15, each creature in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the revenant. *Failure:* The target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
+  - "desc": "*Wisdom Saving Throw:* DC 15, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the revenant. *Failure:* The target has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Haunting Glare (Recharge 5-6)"

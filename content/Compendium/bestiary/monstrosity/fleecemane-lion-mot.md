@@ -37,21 +37,21 @@ Twice the size of normal lions and with resplendent manes of silvery or golden h
   - "strength": !!int "6"
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "The lion has advantage on Wisdom ([Perception](Compendium/rules/skills.md#Perception))\
+  - "desc": "The lion has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "If the lion moves at least 20 feet straight toward a creature and then\
       \ hits it with a claw attack on the same turn, that target must succeed on a\
-      \ DC 14 Strength saving throw or be knocked [prone](Compendium/rules/conditions.md#Prone).\
-      \ If the target is [prone](Compendium/rules/conditions.md#Prone), the lion can\
+      \ DC 14 Strength saving throw or be knocked [[conditions#Prone|prone]].\
+      \ If the target is [[conditions#Prone|prone]], the lion can\
       \ make one bite attack against it as a bonus action."
     "name": "Pounce"
   - "desc": "With a 10-foot running start, the lion can long jump up to 25 feet."
@@ -77,7 +77,7 @@ Twice the size of normal lions and with resplendent manes of silvery or golden h
   - "desc": "The lion makes one claw attack."
     "name": "Claw"
   - "desc": "The lion emits a magical roar. Each creature within 60 feet of the lion\
-      \ that can hear the roar must succeed on a DC 12 Wisdom saving throw or be [frightened](Compendium/rules/conditions.md#Frightened)\
+      \ that can hear the roar must succeed on a DC 12 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
       \ of the lion until the end of the lion's next turn."
     "name": "Roar (Costs 2 Actions)"
 "source":
