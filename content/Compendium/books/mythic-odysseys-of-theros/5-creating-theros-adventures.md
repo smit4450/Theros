@@ -60,7 +60,7 @@ Each god's entry in this chapter explores the themes and events that could drive
 
 ### Villains and Monsters
 
-Just as many heroes serve as champions of the gods, many villains also serve their wills. Each god's section offers ideas for NPCs whose devotion turns their behavior in a villainous direction. It also provides suggestions for the kinds of monsters that might be associated with that god and serve as foes in an adventure. Generally, monster suggestions exclude foes that could work for most gods, like [[priest-acolyte-xmm|acolytes]] and [[priest-xmm|priests]] from the "Monster Manual" and [[oracle-mot|oracles]] from "chapter 6" of this book.
+Just as many heroes serve as champions of the gods, many villains also serve their wills. Each god's section offers ideas for NPCs whose devotion turns their behavior in a villainous direction. It also provides suggestions for the kinds of monsters that might be associated with that god and serve as foes in an adventure. Generally, monster suggestions exclude foes that could work for most gods, like [[priest-acolyte-xmm|acolytes]] and [[priest-xmm|priests]] from the "Monster Manual" and [[Compendium/bestiary/humanoid/oracle-mot|oracles]] from "chapter 6" of this book.
 
 ### Gods as Campaign Villains
 

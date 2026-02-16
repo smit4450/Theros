@@ -168,7 +168,7 @@ The following pages include descriptions and stat blocks for inhabitants of Ther
 - [[naiad-mot|Naiad]]  
 - [[nightmare-shepherd-mot|Nightmare Shepherd]]  
 - [[nyx-fleece-ram-mot|Nyx-Fleece Ram]]  
-- [[oracle-mot|Oracle]]  
+- [[Compendium/bestiary/humanoid/oracle-mot|Oracle]]  
 - [[oread-mot|Oread]]  
 - [[phylaskia-mot|Phylaskia]]  
 - [[polukranos-mot|Polukranos]]  
