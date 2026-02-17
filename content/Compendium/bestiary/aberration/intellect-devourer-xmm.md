@@ -76,7 +76,7 @@ Intellect devourers serve their mind flayer creators by consuming other creature
       \ condition, is a Humanoid or Beast, and has 10 [[hit-points-xphb|Hit Points]]\
       \ or fewer. *Failure:* The intellect devourer possesses the target, consumes\
       \ its brain, and teleports inside its skull. While there, the intellect devourer\
-      \ has [[cover-xphb|Total Cover]] against attacks\
+      \ has [[cover-table-xphb|Total Cover]] against attacks\
       \ and other effects originating outside its host. The intellect devourer retains\
       \ its Intelligence, Wisdom, and Charisma scores; its understanding of Deep Speech;\
       \ its telepathy; and its Detect Intelligence trait. It otherwise adopts the\

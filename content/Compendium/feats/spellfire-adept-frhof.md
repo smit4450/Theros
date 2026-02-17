@@ -20,4 +20,4 @@ You gain the following benefits.
 
 **Fueled Spellfire.** Once per turn, when a spell you cast deals Radiant damage, you can expend up to two [[hit-point-dice-xphb|Hit Point Dice]], roll them, and add the total rolled to one damage roll of the spell.
 
-**Searing Spellfire.** When you make a damage roll that deals Radiant damage, it ignores [[resistance-xphb|Resistance]] to Radiant damage.
+**Searing Spellfire.** When you make a damage roll that deals Radiant damage, it ignores [[resistance-rules-xphb|Resistance]] to Radiant damage.

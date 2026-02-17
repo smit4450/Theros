@@ -29,7 +29,7 @@ aliases:
 | 8 | [[vampire-nightbringer-xmm|Vampire Nightbringer]] |
 | 9 | [[clay-golem-xmm|Clay Golem]], [[young-silver-dragon-xmm|Young Silver Dragon]] |
 | 10 | [[haunting-revenant-xmm|Haunting Revenant]] |
-| 13 | [[rakshasa-xmm|Rakshasa]], [[vampire-xmm|Vampire]] |
+| 13 | [[rakshasa-xmm|Rakshasa]], [[vampire-legendary-xmm|Vampire]] |
 | 15 | [[vampire-umbral-lord-xmm|Vampire Umbral Lord]] |
 | 16 | [[adult-silver-dragon-xmm|Adult Silver Dragon]] |
 | 23 | [[ancient-silver-dragon-xmm|Ancient Silver Dragon]] |

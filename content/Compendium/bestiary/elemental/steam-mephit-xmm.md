@@ -79,7 +79,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "*Constitution Saving Throw:* DC 10, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* 5 (2d4) Fire damage, and the target's [[speed-xphb|Speed]]\
       \ decreases by 10 feet until the end of the mephit's next turn. *Success:* Half\
-      \ damage only. *Failure or Success:* Being underwater doesn't grant [[resistance-xphb|Resistance]]\
+      \ damage only. *Failure or Success:* Being underwater doesn't grant [[resistance-rules-xphb|Resistance]]\
       \ to this Fire damage."
     "name": "Steam Breath (Recharge 6)"
 "source":

@@ -15,7 +15,7 @@ aliases:
 ![](Compendium/items/img/armor-of-resistance.webp#right)
 
 
-You have [[resistance-xphb|Resistance]] to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
+You have [[resistance-rules-xphb|Resistance]] to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
 
 | dice: d10 | Damage Type |
 |-----------|-------------|

@@ -69,7 +69,7 @@ Earth rises up around the target of your Divine Smite. The target has the Grappl
 
 ### Djinni's Escape (Level 3)
 
-You [[teleportation-xphb|teleport]] to an unoccupied space you can see within 30 feet of yourself and take on a semi-incorporeal form, which lasts until the end of your next turn. While in this form, you have [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage, and you have [[immunity-xphb|Immunity]] to the [[conditions#Grappled|Grappled]], [[conditions#Prone|Prone]], and [[conditions#Restrained|Restrained]] conditions.
+You [[teleportation-xphb|teleport]] to an unoccupied space you can see within 30 feet of yourself and take on a semi-incorporeal form, which lasts until the end of your next turn. While in this form, you have [[resistance-rules-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage, and you have [[immunity-xphb|Immunity]] to the [[conditions#Grappled|Grappled]], [[conditions#Prone|Prone]], and [[conditions#Restrained|Restrained]] conditions.
 
 ### Efreeti's Fury (Level 3)
 
@@ -100,7 +100,7 @@ You also gain proficiency in one of the following skills of your choice: [[skill
 
 ### Aura of Elemental Shielding (Level 7)
 
-Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. You and your allies have [[resistance-xphb|Resistance]] to that damage type while in your Aura of Protection.
+Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. You and your allies have [[resistance-rules-xphb|Resistance]] to that damage type while in your Aura of Protection.
 
 At the start of each of your turns, you can change the damage type affected by this feature to one of the other listed options (no action required).
 

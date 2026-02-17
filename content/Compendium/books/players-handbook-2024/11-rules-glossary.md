@@ -129,7 +129,7 @@ Here are definitions of various rules.
 > ![[cone-area-of-effect-xphb|Cone ]]
 
 > [!embed-variantrule]- Cover
-> ![[cover-xphb|Cover]]
+> ![[cover-table-xphb|Cover]]
 
 > [!embed-variantrule]- Crawling
 > ![[crawling-xphb|Crawling]]
@@ -168,7 +168,7 @@ Here are definitions of various rules.
 > ![[damage-types-xphb|Damage Types]]
 
 > [!embed-variantrule]- Darkness
-> ![[darkness-xphb|Darkness]]
+> ![[darkness-rules-xphb|Darkness]]
 
 > [!embed-sense]- Darkvision
 > ![[senses#Darkvision|Darkvision]]
@@ -378,7 +378,7 @@ Here are definitions of various rules.
 > ![[actions#Ready|Ready]]
 
 > [!embed-variantrule]- Resistance
-> ![[resistance-xphb|Resistance]]
+> ![[resistance-rules-xphb|Resistance]]
 
 > [!embed-condition]- Restrained
 > ![[conditions#Restrained|Restrained]]
@@ -456,7 +456,7 @@ Here are definitions of various rules.
 > ![[target-xphb|Target]]
 
 > [!embed-variantrule]- Telepathy
-> ![[telepathy-xphb|Telepathy]]
+> ![[telepathy-rules-xphb|Telepathy]]
 
 > [!embed-variantrule]- Teleportation
 > ![[teleportation-xphb|Teleportation]]

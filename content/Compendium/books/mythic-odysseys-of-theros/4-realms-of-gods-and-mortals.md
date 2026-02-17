@@ -668,7 +668,7 @@ Famed for its role in *The Callapheia*, the island of Ketaphos supposedly exists
 
 #### Skathos
 
-The island of Skathos was once a sacred meeting place for a secret cult of Pharika whose rites revolved around consuming a magical flower native to the island. The island is now home to the [[medusa-mot|medusa]] queen, [[hythonia-mot|Hythonia]] (described in "chapter 6").
+The island of Skathos was once a sacred meeting place for a secret cult of Pharika whose rites revolved around consuming a magical flower native to the island. The island is now home to the [[medusa-mot|medusa]] queen, [[hythonia-legendary-mot|Hythonia]] (described in "chapter 6").
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/065-03-11.webp#center)
 

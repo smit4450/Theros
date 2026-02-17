@@ -16,7 +16,7 @@ aliases:
 
 A Ram consists of a movable gallery equipped with a heavy log suspended from two roof beams by chains. The log is shod in iron and used to batter through doors and barricades. Positioning a Ram requires three [[actions#Utilize|Utilize]] actions. Then a crew member can use the Ram action.
 
-The gallery roof gives the operators [[cover-xphb|Total Cover]] against attacks and other effects from above.
+The gallery roof gives the operators [[cover-table-xphb|Total Cover]] against attacks and other effects from above.
 
 ```ad-statblock
 title: Ram

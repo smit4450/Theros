@@ -25,9 +25,9 @@ aliases:
 | 4 | [[archelon-xmm|Archelon]] |
 | 5 | [[giant-shark-xmm|Giant Shark]], [[sahuagin-baron-xmm|Sahuagin Baron]], [[water-elemental-xmm|Water Elemental]] |
 | 6 | [[giant-squid-xmm|Giant Squid]], [[merfolk-wavebender-xmm|Merfolk Wavebender]] |
-| 10 | [[aboleth-xmm|Aboleth]] |
+| 10 | [[aboleth-legendary-xmm|Aboleth]] |
 | 11 | [[marid-xmm|Marid]] |
 | 13 | [[storm-giant-xmm|Storm Giant]] |
 | 17 | [[dragon-turtle-xmm|Dragon Turtle]] |
-| 23 | [[kraken-xmm|Kraken]] |
+| 23 | [[kraken-legendary-xmm|Kraken]] |
 ^underwater-monsters

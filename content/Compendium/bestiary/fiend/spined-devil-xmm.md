@@ -58,7 +58,7 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
-  \ by magical [[darkness-xphb|Darkness]]), passive\
+  \ by magical [[darkness-rules-xphb|Darkness]]), passive\
   \ Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "2"

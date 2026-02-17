@@ -59,7 +59,7 @@ Imps without masters delight in manipulating other creatures and inflating their
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
-  \ by magical [[darkness-xphb|Darkness]]), passive\
+  \ by magical [[darkness-rules-xphb|Darkness]]), passive\
   \ Perception 11"
 "languages": "Common, Infernal"
 "cr": "1"

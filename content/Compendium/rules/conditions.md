@@ -138,7 +138,7 @@ While you have the Petrified condition, you experience the following effects.
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [[saving-throw-xphb|saving throws]].
 
-**Resist Damage.** You have [[resistance-xphb|Resistance]] to all damage.
+**Resist Damage.** You have [[resistance-rules-xphb|Resistance]] to all damage.
 
 **Poison Immunity.** You have [[immunity-xphb|Immunity]] to the [[conditions#Poisoned|Poisoned]] condition.
 

@@ -28,6 +28,6 @@ While within 5 feet of the mirror, you can take a [[actions#Magic|Magic]] action
 
 In a similar way, you can take a [[actions#Magic|Magic]] action and use a second command word to free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
-Placing the mirror inside an extradimensional space created by a [[bag-of-holding-xdmg|Bag of Holding]], Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [[cover-xphb|Total Cover]] is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing the mirror inside an extradimensional space created by a [[bag-of-holding-xdmg|Bag of Holding]], Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [[cover-table-xphb|Total Cover]] is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: Dungeon Master's Guide (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

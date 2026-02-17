@@ -60,12 +60,12 @@ You gain the following benefits.
 #### Biting Cold
 _Source: FRHoF_
 
-[[damage-xphb|Damage]] from your weapon attacks, Ranger spells, and Ranger features ignores [[resistance-xphb|Resistance]] to Cold damage.
+[[damage-xphb|Damage]] from your weapon attacks, Ranger spells, and Ranger features ignores [[resistance-rules-xphb|Resistance]] to Cold damage.
 
 #### Frost Resistance
 _Source: FRHoF_
 
-You have [[resistance-xphb|Resistance]] to Cold damage.
+You have [[resistance-rules-xphb|Resistance]] to Cold damage.
 
 #### Polar Strikes
 _Source: FRHoF_

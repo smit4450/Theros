@@ -35,7 +35,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 | Lineage | Level 1 | Level 3 | Level 5 |
 |---------|---------|---------|---------|
-| Drow | The range of your Darkvision increases to 120 feet. You also know the [[dancing-lights-xphb|Dancing Lights]] cantrip. | [[faerie-fire-xphb|Faerie Fire]] | [[darkness-xphb|Darkness]] |
+| Drow | The range of your Darkvision increases to 120 feet. You also know the [[dancing-lights-xphb|Dancing Lights]] cantrip. | [[faerie-fire-xphb|Faerie Fire]] | [[darkness-rules-xphb|Darkness]] |
 | High Elf | You know the [[prestidigitation-xphb|Prestidigitation]] cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [[detect-magic-xphb|Detect Magic]] | [[misty-step-xphb|Misty Step]] |
 | Wood Elf | Your Speed increases to 35 feet. You also know the [[druidcraft-xphb|Druidcraft]] cantrip. | [[longstrider-xphb|Longstrider]] | [[pass-without-trace-xphb|Pass without Trace]] |
 ^elven-lineages

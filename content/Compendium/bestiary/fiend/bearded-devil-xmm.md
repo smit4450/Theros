@@ -55,7 +55,7 @@ Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. Th
 "condition_immunities": "[[conditions#Frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
-  \ by magical [[darkness-xphb|Darkness]]), passive\
+  \ by magical [[darkness-rules-xphb|Darkness]]), passive\
   \ Perception 10"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "3"

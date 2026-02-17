@@ -32,7 +32,7 @@ Six chromatic spheres orbit you for the duration.
 
 While the spheres are present, you can expend spheres to create the following effects:
 
-- **Absorb Energy.** When you take Acid, Cold, Fire, Lightning, or Thunder damage, you can take a [[reaction-xphb|Reaction]] to expend one sphere and give yourself [[resistance-xphb|Resistance]] to the triggering damage type until the start of your next turn.  
+- **Absorb Energy.** When you take Acid, Cold, Fire, Lightning, or Thunder damage, you can take a [[reaction-xphb|Reaction]] to expend one sphere and give yourself [[resistance-rules-xphb|Resistance]] to the triggering damage type until the start of your next turn.  
 - **Energy Blast.** As a [[bonus-action-xphb|Bonus Action]], you send one sphere hurtling toward a target within 120 feet of yourself. Make a ranged spell attack. On a hit, the target takes `3d6` Acid, Cold, Fire, Lightning, or Thunder damage (your choice). Regardless of whether you hit, the sphere is expended.  
 
 The spell ends early if you have no more spheres remaining.

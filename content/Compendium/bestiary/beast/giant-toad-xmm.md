@@ -61,7 +61,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The toad swallows a Medium or smaller target it is grappling. While swallowed,\
       \ the target isn't [[conditions#Grappled|Grappled]] but has\
       \ the [[conditions#Blinded|Blinded]] and [[conditions#Restrained|Restrained]]\
-      \ conditions, and it has [[cover-xphb|Total Cover]]\
+      \ conditions, and it has [[cover-table-xphb|Total Cover]]\
       \ against attacks and other effects outside the toad. In addition, the target\
       \ takes 10 (3d6) Acid damage at the end of each of the toad's turns. The toad\
       \ can have only one target swallowed at a time, and it can't use Bite while\

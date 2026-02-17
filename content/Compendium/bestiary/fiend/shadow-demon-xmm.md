@@ -90,7 +90,7 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
     "name": "Umbral Claw"
 "bonus_actions":
   - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-xphb|Darkness]], the demon\
+      \ or [[darkness-rules-xphb|Darkness]], the demon\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

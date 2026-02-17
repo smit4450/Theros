@@ -28,7 +28,7 @@ aliases: ["Alustriel's Mooncloak"]
 - **Components:** V, S, M (a moonstone worth 50+ GP)
 - **Duration:** Concentration, up to 1 minute
 
-For the duration, moonlight fills a 20-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you with [[dim-light-xphb|Dim Light]]. While in that area, you and your allies have [[cover-xphb|Half Cover]] and [[resistance-xphb|Resistance]] to Cold, Lightning, and Radiant damage.
+For the duration, moonlight fills a 20-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you with [[dim-light-xphb|Dim Light]]. While in that area, you and your allies have [[cover-table-xphb|Half Cover]] and [[resistance-rules-xphb|Resistance]] to Cold, Lightning, and Radiant damage.
 
 While the spell lasts, you can use one of the following options, ending the spell immediately:
 

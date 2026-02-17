@@ -121,7 +121,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: The cultist takes Acid, Cold, Fire, Lightning, or Thunder damage.\
-      \ _Response:_ The cultist gives itself [[resistance-xphb|Resistance]]\
+      \ _Response:_ The cultist gives itself [[resistance-rules-xphb|Resistance]]\
       \ to that instance of damage and gains 10 [[temporary-hit-points-xphb|Temporary Hit Points]]."
     "name": "Elemental Absorption (1/Day)"
 "source":

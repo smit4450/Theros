@@ -26,7 +26,7 @@ aliases:
 | 12–13 | [[cloak-of-protection-xdmg|Cloak of Protection]] |
 | 14 | [[cloak-of-the-manta-ray-xdmg|Cloak of the Manta Ray]] |
 | 15 | [[decanter-of-endless-water-xdmg|Decanter of Endless Water]] |
-| 16 | [[deck-of-illusions-xdmg|Deck of Illusions]] |
+| 16 | [[deck-of-illusions-cards-xdmg|Deck of Illusions]] |
 | 17–18 | [[driftglobe-xdmg|Driftglobe]] |
 | 19–20 | [[dust-of-disappearance-xdmg|Dust of Disappearance]] |
 | 21 | [[dust-of-dryness-xdmg|Dust of Dryness]] |

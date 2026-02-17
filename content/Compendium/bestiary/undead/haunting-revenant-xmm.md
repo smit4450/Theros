@@ -82,7 +82,7 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
     "name": "Object Slam"
   - "desc": "*Charisma Saving Throw:* DC 17, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ *Failure:* The target is teleported inside the revenant's space and swallowed.\
-      \ A swallowed creature has [[cover-xphb|Total Cover]]\
+      \ A swallowed creature has [[cover-table-xphb|Total Cover]]\
       \ against attacks and other effects outside the revenant.\n\nWhile the revenant\
       \ has [[hit-points-xphb|Hit Points]], a swallowed\
       \ creature can leave the revenant's space only by using magic that enables planar\

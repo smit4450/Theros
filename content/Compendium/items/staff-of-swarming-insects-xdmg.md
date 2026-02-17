@@ -33,7 +33,7 @@ While holding the staff, you can cast one of the spells on the following table f
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[giant-insect-xphb|Giant Insect]] | 4 |
+| [[giant-insect-spell-xphb|Giant Insect]] | 4 |
 | [[insect-plague-xphb|Insect Plague]] | 5 |
 ^spell-charge-cost
 

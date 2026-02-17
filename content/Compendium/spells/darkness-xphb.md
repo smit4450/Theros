@@ -37,9 +37,9 @@ aliases: ["Darkness"]
 - **Components:** V, M (bat fur and a piece of coal)
 - **Duration:** Concentration, up to 10 minutes
 
-For the duration, magical [[darkness-xphb|Darkness]] spreads from a point within range and fills a 15-foot-radius [[sphere-area-of-effect-xphb|Sphere]]. [[senses#Darkvision|Darkvision]] can't see through it, and nonmagical light can't illuminate it.
+For the duration, magical [[darkness-rules-xphb|Darkness]] spreads from a point within range and fills a 15-foot-radius [[sphere-area-of-effect-xphb|Sphere]]. [[senses#Darkvision|Darkvision]] can't see through it, and nonmagical light can't illuminate it.
 
-Alternatively, you cast the spell on an object that isn't being worn or carried, causing the [[darkness-xphb|Darkness]] to fill a 15-foot [[emanation-area-of-effect-xphb|Emanation]] originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the [[darkness-xphb|Darkness]].
+Alternatively, you cast the spell on an object that isn't being worn or carried, causing the [[darkness-rules-xphb|Darkness]] to fill a 15-foot [[emanation-area-of-effect-xphb|Emanation]] originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the [[darkness-rules-xphb|Darkness]].
 
 If any of this spell's area overlaps with an area of [[bright-light-xphb|Bright Light]] or [[dim-light-xphb|Dim Light]] created by a spell of level 2 or lower, that other spell is dispelled.
 

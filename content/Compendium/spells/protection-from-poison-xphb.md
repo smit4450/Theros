@@ -30,7 +30,7 @@ aliases: ["Protection from Poison"]
 - **Components:** V, S
 - **Duration:** 1 hour
 
-You touch a creature and end the [[conditions#Poisoned|Poisoned]] condition on it. For the duration, the target has [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition, and it has [[resistance-xphb|Resistance]] to Poison damage.
+You touch a creature and end the [[conditions#Poisoned|Poisoned]] condition on it. For the duration, the target has [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition, and it has [[resistance-rules-xphb|Resistance]] to Poison damage.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-ranger|Ranger]]
 

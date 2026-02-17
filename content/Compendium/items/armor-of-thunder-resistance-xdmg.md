@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [[resistance-xphb|Resistance]] to thunder damage while you wear this armor.
+You have [[resistance-rules-xphb|Resistance]] to thunder damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Thunder Resistance](#Breastplate%20of%20Thunder%20Resistance)

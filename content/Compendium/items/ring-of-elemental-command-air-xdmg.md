@@ -24,7 +24,7 @@ The Ring of Elemental Command (air) is linked to the Elemental Plane of Air. Eve
 
 While wearing the ring, you benefit from additional properties corresponding to the ring's linked Elemental Plane:
 
-- **Air.** You know Auran, you have [[resistance-xphb|Resistance]] to Lightning damage, and you have a [[fly-speed-xphb|Fly Speed]] equal to your [[speed-xphb|Speed]] and can hover.  
+- **Air.** You know Auran, you have [[resistance-rules-xphb|Resistance]] to Lightning damage, and you have a [[fly-speed-xphb|Fly Speed]] equal to your [[speed-xphb|Speed]] and can hover.  
 
 ## Spellcasting
 

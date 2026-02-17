@@ -20,5 +20,5 @@ aliases:
 | 3 | A [[noble-xmm|noble]] is building a new development directly in a forest, where it will displace wildlife that has lived there for millennia. |
 | 4 | A [[soldier-ggr|soldier]] begins killing people who have committed terrible crimes but have been acquitted because of loopholes in the judicial system. |
 | 5 | A group of [[mage-xmm|mages]] who follow Ephara want to build a city on an island, heedless of the current residents. |
-| 6 | An [[oracle-mot|oracle]] (see "chapter 6") leads a cadre of scholars secretly destroying work that they deem antithetical to proper society. |
+| 6 | An [[oracle-npc-mot|oracle]] (see "chapter 6") leads a cadre of scholars secretly destroying work that they deem antithetical to proper society. |
 ^epharas-villains

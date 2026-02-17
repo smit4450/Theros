@@ -84,4 +84,4 @@ You can expend a use of your Channel Divinity to cast [[shield-of-faith-xphb|Shi
 
 ### Avatar of Battle (Level 17)
 
-You gain [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.
+You gain [[resistance-rules-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.

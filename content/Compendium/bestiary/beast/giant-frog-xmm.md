@@ -63,7 +63,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The frog swallows a Small or smaller target it is grappling. While swallowed,\
       \ the target isn't [[conditions#Grappled|Grappled]] but has\
       \ the [[conditions#Blinded|Blinded]] and [[conditions#Restrained|Restrained]]\
-      \ conditions, and it has [[cover-xphb|Total Cover]]\
+      \ conditions, and it has [[cover-table-xphb|Total Cover]]\
       \ against attacks and other effects outside the frog. While swallowing the target,\
       \ the frog can't use Bite, and if the frog dies, the swallowed target is no\
       \ longer [[conditions#Restrained|Restrained]] and can escape\

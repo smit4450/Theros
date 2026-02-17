@@ -87,7 +87,7 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
     "name": "Pummel"
   - "desc": "The glabrezu casts one of the following spells, requiring no Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\n**At will:** [[darkness-xphb|Darkness]], [[detect-magic-xphb|Detect\
+      \ DC 16):\n\n**At will:** [[darkness-rules-xphb|Darkness]], [[detect-magic-xphb|Detect\
       \ Magic]], [[dispel-magic-xphb|Dispel Magic]]\n\
       \n**1/day each:** [[confusion-xphb|Confusion]], [[fly-xphb|Fly]],\
       \ [[power-word-stun-xphb|Power Word Stun]]"

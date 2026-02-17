@@ -108,7 +108,7 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
       \ Each creature [[conditions#Restrained|restrained]] by a\
       \ web or Arasta's Web of Hair must make a DC 21 Intelligence saving throw. On\
       \ a failed save, Arasta gains knowledge of a creature's name, race, where they\
-      \ consider home, and what brought them to her web.  \n- Arasta casts the [[giant-insect-xphb|giant\
+      \ consider home, and what brought them to her web.  \n- Arasta casts the [[giant-insect-spell-xphb|giant\
       \ insect]] spell (spiders only). It lasts\
       \ until she uses this lair action again or until she dies.  "
     "name": ""

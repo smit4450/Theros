@@ -88,7 +88,7 @@ When you reach a Ranger level specified in the Gloom Stalker Spells table, you t
 
 You gain [[senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[senses#Darkvision|Darkvision]] when you gain this feature, its range increases by 60 feet.
 
-You are also adept at evading creatures that rely on [[senses#Darkvision|Darkvision]]. While entirely in [[darkness-xphb|Darkness]], you have the [[conditions#Invisible|Invisible]] condition to any creature that relies on [[senses#Darkvision|Darkvision]] to see you in that [[darkness-xphb|Darkness]].
+You are also adept at evading creatures that rely on [[senses#Darkvision|Darkvision]]. While entirely in [[darkness-rules-xphb|Darkness]], you have the [[conditions#Invisible|Invisible]] condition to any creature that relies on [[senses#Darkvision|Darkvision]] to see you in that [[darkness-rules-xphb|Darkness]].
 
 ### Iron Mind (Level 7)
 

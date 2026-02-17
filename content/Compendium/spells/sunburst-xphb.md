@@ -34,7 +34,7 @@ Brilliant sunlight flashes in a 60-foot-radius [[sphere-area-of-effect-xphb|Sphe
 
 A creature [[conditions#Blinded|Blinded]] by this spell makes another Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-This spell dispels [[darkness-xphb|Darkness]] in its area that was created by any spell.
+This spell dispels [[darkness-rules-xphb|Darkness]] in its area that was created by any spell.
 
 **Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-sorcerer|Sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 

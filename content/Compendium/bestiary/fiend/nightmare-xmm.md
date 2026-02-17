@@ -60,7 +60,7 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 "languages": "understands Abyssal, Common, and Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "The nightmare can grant [[resistance-xphb|Resistance]]\
+  - "desc": "The nightmare can grant [[resistance-rules-xphb|Resistance]]\
       \ to Fire damage to a rider while it is on the nightmare."
     "name": "Confer Fire Resistance"
   - "desc": "The nightmare sheds [[bright-light-xphb|Bright Light]]\

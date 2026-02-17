@@ -56,7 +56,7 @@ While the sword is on your person, you gain the following benefits:
 
 - **Battle Hunger.** You add `1d10` to your [[initiative-xphb|Initiative]] rolls.  
 - **Blade of Defense.** When you take an action to attack with the sword, you can transfer some or all of its attack bonus to your [[armor-class-xphb|Armor Class]] instead. The adjusted bonuses remain in effect until the start of your next turn.  
-- **Necrotic Resistance.** You have [[resistance-xphb|Resistance]] to Necrotic damage.  
+- **Necrotic Resistance.** You have [[resistance-rules-xphb|Resistance]] to Necrotic damage.  
 
 ## Sentience
 

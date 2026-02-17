@@ -23,8 +23,8 @@ aliases:
 | 8 | [[triton-master-of-waves-mot|Triton master of waves]] |
 | 13 | [[storm-giant-xmm|Storm giant]] |
 | 17 | [[dragon-turtle-xmm|Dragon turtle]] |
-| 23 | [[kraken-xmm|Kraken]]* |
-| 26 | [[tromokratis-mot|Tromokratis]] |
+| 23 | [[kraken-legendary-xmm|Kraken]]* |
+| 26 | [[tromokratis-legendary-mot|Tromokratis]] |
 ^thassas-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

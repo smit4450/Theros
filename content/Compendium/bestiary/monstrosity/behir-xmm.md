@@ -81,7 +81,7 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
       \ The behir swallows the target, which is no longer [[conditions#Grappled|Grappled]].\
       \ While swallowed, a creature has the [[conditions#Blinded|Blinded]]\
       \ and [[conditions#Restrained|Restrained]] conditions, has\
-      \ [[cover-xphb|Total Cover]] against attacks\
+      \ [[cover-table-xphb|Total Cover]] against attacks\
       \ and other effects outside the behir, and takes 21 (6d6) Acid damage at the\
       \ start of each of the behir's turns.\n\nIf the behir takes 30 damage or more\
       \ on a single turn from the swallowed creature, the behir must succeed on a\

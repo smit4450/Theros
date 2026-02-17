@@ -208,8 +208,8 @@ Whether you want to run a full-fledged horror campaign or a single creepy advent
 A supernatural horror campaign often features Undead or demonic foes whose evil transcends the merely mortal. Consider conflicts like these to drive the campaign:
 
 - **The Faceless Lord.** "Juiblex", the Faceless Lord, oozes out of the "Abyss" and into the "Underdark". The characters hear from subterranean folk who need help defeating the demon lord and its minions.  
-- **School of Necromancy.** [[vampire-xmm|Vampires]] open a college of necromancy, attracting evil necromancers who need fresh corpses for their studies. An order of vampire hunters seeks the characters' help.  
-- **Undying Monarch.** A venerable monarch clings to power by worshiping "Orcus" and becoming a [[lich-xmm|lich]].  
+- **School of Necromancy.** [[vampire-legendary-xmm|Vampires]] open a college of necromancy, attracting evil necromancers who need fresh corpses for their studies. An order of vampire hunters seeks the characters' help.  
+- **Undying Monarch.** A venerable monarch clings to power by worshiping "Orcus" and becoming a [[lich-legendary-xmm|lich]].  
 
 #### Intrigue
 

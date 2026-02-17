@@ -79,4 +79,4 @@ When you cast either spell with a spell slot, that slot isn't expended if the sp
 
 ### Spell Resistance (Level 14)
 
-You have [[advantage-xphb|Advantage]] on saving throws against spells, and you have [[resistance-xphb|Resistance]] to the damage of spells.
+You have [[advantage-xphb|Advantage]] on saving throws against spells, and you have [[resistance-rules-xphb|Resistance]] to the damage of spells.

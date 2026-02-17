@@ -87,4 +87,4 @@ Once per turn when you deal damage to a creature marked by your Hunter's Mark, y
 
 ### Superior Hunter's Defense (Level 15)
 
-When you take damage, you can take a [[reaction-xphb|Reaction]] to give yourself [[resistance-xphb|Resistance]] to that damage and any other damage of the same type until the end of the current turn.
+When you take damage, you can take a [[reaction-xphb|Reaction]] to give yourself [[resistance-rules-xphb|Resistance]] to that damage and any other damage of the same type until the end of the current turn.

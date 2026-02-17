@@ -61,7 +61,7 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
-  \ by magical [[darkness-xphb|Darkness]]), passive\
+  \ by magical [[darkness-rules-xphb|Darkness]]), passive\
   \ Perception 11"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "8"

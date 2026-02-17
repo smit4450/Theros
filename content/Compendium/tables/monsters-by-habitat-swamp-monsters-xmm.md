@@ -29,6 +29,6 @@ aliases:
 | 8 | [[hydra-xmm|Hydra]] |
 | 10 | [[haunting-revenant-xmm|Haunting Revenant]] |
 | 14 | [[adult-black-dragon-xmm|Adult Black Dragon]] |
-| 15 | [[mummy-lord-xmm|Mummy Lord]] |
+| 15 | [[mummy-lord-legendary-xmm|Mummy Lord]] |
 | 21 | [[ancient-black-dragon-xmm|Ancient Black Dragon]] |
 ^swamp-monsters

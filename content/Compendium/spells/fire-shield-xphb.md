@@ -40,7 +40,7 @@ aliases: ["Fire Shield"]
 
 Wispy flames wreathe your body for the duration, shedding [[bright-light-xphb|Bright Light]] in a 10-foot radius and [[dim-light-xphb|Dim Light]] for an additional 10 feet.
 
-The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you [[resistance-xphb|Resistance]] to Cold damage, and the chill shield grants you [[resistance-xphb|Resistance]] to Fire damage.
+The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you [[resistance-rules-xphb|Resistance]] to Cold damage, and the chill shield grants you [[resistance-rules-xphb|Resistance]] to Fire damage.
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack roll, the shield erupts with flame. The attacker takes `2d8` Fire damage from a warm shield or `2d8` Cold damage from a chill shield.
 

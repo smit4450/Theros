@@ -18,6 +18,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Merge with Shadows.** While within [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]], you can give yourself the [[conditions#Invisible|Invisible]] condition as a [[bonus-action-xphb|Bonus Action]]. The condition ends on you immediately after you take an action, a [[bonus-action-xphb|Bonus Action]], or a [[reaction-xphb|Reaction]].
+**Merge with Shadows.** While within [[dim-light-xphb|Dim Light]] or [[darkness-rules-xphb|Darkness]], you can give yourself the [[conditions#Invisible|Invisible]] condition as a [[bonus-action-xphb|Bonus Action]]. The condition ends on you immediately after you take an action, a [[bonus-action-xphb|Bonus Action]], or a [[reaction-xphb|Reaction]].
 
-**Shadowy Form.** While within [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]], you have [[resistance-xphb|Resistance]] to all damage except Psychic and Radiant.
+**Shadowy Form.** While within [[dim-light-xphb|Dim Light]] or [[darkness-rules-xphb|Darkness]], you have [[resistance-rules-xphb|Resistance]] to all damage except Psychic and Radiant.

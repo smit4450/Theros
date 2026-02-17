@@ -80,7 +80,7 @@ As a Magic action, you can expend one use of your Channel Divinity to manifest y
 
 ### Unfettered Mind (Level 6)
 
-You gain [[telepathy-xphb|telepathy]] out to 60 feet. When you use this [[telepathy-xphb|telepathy]], you can simultaneously contact a number of creatures equal to your Wisdom modifier (minimum of one).
+You gain [[telepathy-rules-xphb|telepathy]] out to 60 feet. When you use this [[telepathy-rules-xphb|telepathy]], you can simultaneously contact a number of creatures equal to your Wisdom modifier (minimum of one).
 
 Additionally, you gain proficiency in Intelligence saving throws. If you already have this proficiency, you instead gain saving throw proficiency with one ability in which you lack it.
 

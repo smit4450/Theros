@@ -22,7 +22,7 @@ aliases:
 | 2 | [[druid-xmm|Druid]] |
 | 4 | [[setessan-hoplite-mot|Setessan hoplite]] |
 | 5 | [[earth-elemental-xmm|Earth elemental]] |
-| 5 | [[unicorn-xmm|Unicorn]]* |
+| 5 | [[unicorn-legendary-xmm|Unicorn]]* |
 | 9 | [[treant-xmm|Treant]] |
 | 12 | [[archdruid-vgm|Archdruid]] |
 ^karametras-monsters

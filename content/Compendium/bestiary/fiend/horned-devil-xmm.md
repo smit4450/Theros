@@ -50,7 +50,7 @@ Horned devils, also known as cornugons or malebranche, are infernal warriors tha
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "[[senses#Darkvision|Darkvision]] 150 ft. (unimpeded\
-  \ by magical [[darkness-xphb|Darkness]]), passive\
+  \ by magical [[darkness-rules-xphb|Darkness]]), passive\
   \ Perception 13"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "11"

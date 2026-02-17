@@ -28,7 +28,7 @@ As long as the helm has at least one fire opal, you can take a [[actions#Magic|M
 
 ## Ruby Resistance
 
-As long as the helm has at least one ruby, you have [[resistance-xphb|Resistance]] to Fire damage.
+As long as the helm has at least one ruby, you have [[resistance-rules-xphb|Resistance]] to Fire damage.
 
 ## Spells
 

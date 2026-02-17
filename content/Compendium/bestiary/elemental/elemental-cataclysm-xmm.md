@@ -116,7 +116,7 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
       \ originating from a point on the ground within 150 feet. *Failure:* 18 (4d8)\
       \ Bludgeoning damage plus 18 (4d8) Acid damage, and the target has the [[conditions#Prone|Prone]]\
       \ condition and is buried under rubble. A buried target has the [[conditions#Restrained|Restrained]]\
-      \ condition, has [[cover-xphb|Total Cover]],\
+      \ condition, has [[cover-table-xphb|Total Cover]],\
       \ and is suffocating. As an action, a buried creature or another creature within\
       \ 5 feet of it can make a DC 18 Strength ([[skills#Athletics|Athletics]])\
       \ check. On a successful check, the creature is no longer buried. *Success:*\

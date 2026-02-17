@@ -186,7 +186,7 @@ You can usually change a creature's Intelligence, Wisdom, and Charisma scores fr
 
 #### Languages
 
-You can change any or all of the languages the creature knows. You might want to add languages if you've made a creature sapient that wasn't before. You can also add or remove [[telepathy-xphb|telepathy]] or other forms of communication.
+You can change any or all of the languages the creature knows. You might want to add languages if you've made a creature sapient that wasn't before. You can also add or remove [[telepathy-rules-xphb|telepathy]] or other forms of communication.
 
 #### Proficiencies
 
@@ -208,7 +208,7 @@ You can freely change the name and flavor of an attack, as well as its damage ty
 
 #### Resistances and Immunities
 
-If a creature doesn't have [[resistance-xphb|Resistance]] or [[immunity-xphb|Immunity]] to one or more damage types, you can give it Resistance or Immunity to one or two damage types. You can also change the damage type of its existing Resistances and Immunities.
+If a creature doesn't have [[resistance-rules-xphb|Resistance]] or [[immunity-xphb|Immunity]] to one or more damage types, you can give it Resistance or Immunity to one or two damage types. You can also change the damage type of its existing Resistances and Immunities.
 
 ### Traits
 
@@ -510,7 +510,7 @@ Adventurers often fail to locate secret doors. For this reason, don't hide impor
 
 ### Portcullises
 
-Typically made of iron or wood, a portcullis blocks a passage or an archway until it is raised into the ceiling by a winch and chain. Creatures within 5 feet of a lowered portcullis can make ranged attacks or cast spells through it, and they have [[cover-xphb|Three-Quarters Cover]] against attacks, spells, and other effects originating from the opposite side. A portcullis can also be attacked and destroyed, using the AC and Hit Points of a metal door (if iron) or a wooden door (if wood).
+Typically made of iron or wood, a portcullis blocks a passage or an archway until it is raised into the ceiling by a winch and chain. Creatures within 5 feet of a lowered portcullis can make ranged attacks or cast spells through it, and they have [[cover-table-xphb|Three-Quarters Cover]] against attacks, spells, and other effects originating from the opposite side. A portcullis can also be attacked and destroyed, using the AC and Hit Points of a metal door (if iron) or a wooden door (if wood).
 
 Winching a portcullis up or down requires the [[actions#Utilize|Utilize]] action. If a creature can't reach the winch (usually because it's on the other side of the portcullis), lifting the portcullis requires the [[actions#Utilize|Utilize]] action and a successful Strength ([[skills#Athletics|Athletics]]) check. The DC of the check depends on the type of portcullis, as shown in the Portcullises table.
 
@@ -699,15 +699,15 @@ You can make a limited number of shots with a Reload weapon. You must then reloa
 
 Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at your discretion. An [[energy-cell-xdmg|Energy Cell]] weighs 1/2 lb.
 
-![[firearms-xdmg|Firearms]]
+![[firearms-table-xdmg|Firearms]]
 
-![[firearms-xdmg|Firearms]]
+![[firearms-table-xdmg|Firearms]]
 
 ### Explosives
 
 The Explosives table has examples of explosives. If no cost is given for an explosive, it can't typically be bought. If you make these explosives available for purchase, treat them as Rare magic items. Rules for explosives are given below.
 
-![[explosives-xdmg|Explosives]]
+![[explosives-table-xdmg|Explosives]]
 
 #### Bomb
 
@@ -757,7 +757,7 @@ Quasi-deities have a divine origin, but they don't receive or answer prayers. Th
 
 **Demigods** are divine beings with mortal origin. Some were born mortal and attained godhood, while others were born from the union of a deity and a mortal. Their mortal parentage makes demigods.
 
-**Titans** are the creations of deities. They might be manufactured on a divine forge, born from the blood spilled by a god, or otherwise brought about through divine will or substance. Some titans, including [[kraken-xmm|krakens]] and the [[tarrasque-xmm|tarrasque]], appear in the "Monster Manual".
+**Titans** are the creations of deities. They might be manufactured on a divine forge, born from the blood spilled by a god, or otherwise brought about through divine will or substance. Some titans, including [[kraken-legendary-xmm|krakens]] and the [[tarrasque-xmm|tarrasque]], appear in the "Monster Manual".
 
 **Vestiges** are deities who have lost nearly all their worshipers and are considered dead from a mortal perspective. Esoteric rituals can sometimes contact vestiges and draw on their latent power.
 

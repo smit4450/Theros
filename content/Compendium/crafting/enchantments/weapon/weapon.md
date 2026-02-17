@@ -102,7 +102,7 @@ When you use this weapon to make an attack, you can utter or sign the following 
 
 _**Attacks Affected.**_ You have advantage on your sworn enemy, and disadvantage on attack rolls with all other weapons.
 
-_**No Cover.**_ Your sworn enemy gains no benefit from [[cover-xphb|Cover]]. If you're making a ranged attack, you suffer no disadvantage due to long range.
+_**No Cover.**_ Your sworn enemy gains no benefit from [[cover-table-xphb|Cover]]. If you're making a ranged attack, you suffer no disadvantage due to long range.
 
 _**Extra Damage.**_ Your sworn enemy an extra 3d6 damage from all attacks made with this weapon.
 

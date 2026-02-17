@@ -29,7 +29,7 @@ You can expend 2 charges as a [[actions#Magic|Magic]] action to create up to fou
 
 Each sphere appears in an unoccupied space you can see within 120 feet of yourself. The spheres last as long as you maintain [[conditions#Concentration|Concentration]], up to 1 minute. Each sphere sheds [[dim-light-xphb|Dim Light]] in a 30-foot radius.
 
-As a [[bonus-action-xphb|Bonus Action]], you can move each sphere up to 30 feet, but no farther than 120 feet away from yourself. The first time the sphere comes within 5 feet of a creature other than you that isn't behind [[cover-xphb|Total Cover]], the sphere discharges lightning at that creature and disappears. That creature makes a DC 15 Dexterity saving throw. On a failed save, the creature takes Lightning damage based on the number of spheres you created, as shown in the following table. On a successful save, the creature takes half as much damage.
+As a [[bonus-action-xphb|Bonus Action]], you can move each sphere up to 30 feet, but no farther than 120 feet away from yourself. The first time the sphere comes within 5 feet of a creature other than you that isn't behind [[cover-table-xphb|Total Cover]], the sphere discharges lightning at that creature and disappears. That creature makes a DC 15 Dexterity saving throw. On a failed save, the creature takes Lightning damage based on the number of spheres you created, as shown in the following table. On a successful save, the creature takes half as much damage.
 
 | Number of Spheres | Lightning Damage |
 |-------------------|------------------|

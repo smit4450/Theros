@@ -148,7 +148,7 @@ A typical spell requires the caster to pick one or more targets to be affected b
 
 ##### A Clear Path to the Target
 
-To target something with a spell, a caster must have a clear path to it, so it can't be behind [[cover-xphb|Total Cover]].
+To target something with a spell, a caster must have a clear path to it, so it can't be behind [[cover-table-xphb|Total Cover]].
 
 ##### Targeting Yourself
 
@@ -286,7 +286,7 @@ The spells are presented in alphabetical order.
 - [[cure-wounds-xphb|Cure Wounds]]  
 
 - [[dancing-lights-xphb|Dancing Lights]]  
-- [[darkness-xphb|Darkness]]  
+- [[darkness-rules-xphb|Darkness]]  
 - [[darkvision-xphb|Darkvision]]  
 - [[daylight-xphb|Daylight]]  
 - [[death-ward-xphb|Death Ward]]  
@@ -361,7 +361,7 @@ The spells are presented in alphabetical order.
 - [[gate-xphb|Gate]]  
 - [[geas-xphb|Geas]]  
 - [[gentle-repose-xphb|Gentle Repose]]  
-- [[giant-insect-xphb|Giant Insect]]  
+- [[giant-insect-spell-xphb|Giant Insect]]  
 - [[glibness-xphb|Glibness]]  
 - [[globe-of-invulnerability-xphb|Globe of Invulnerability]]  
 - [[glyph-of-warding-xphb|Glyph of Warding]]  
@@ -499,7 +499,7 @@ The spells are presented in alphabetical order.
 - [[regenerate-xphb|Regenerate]]  
 - [[reincarnate-xphb|Reincarnate]]  
 - [[remove-curse-xphb|Remove Curse]]  
-- [[resistance-xphb|Resistance]]  
+- [[resistance-rules-xphb|Resistance]]  
 - [[resurrection-xphb|Resurrection]]  
 - [[reverse-gravity-xphb|Reverse Gravity]]  
 - [[revivify-xphb|Revivify]]  
@@ -562,7 +562,7 @@ The spells are presented in alphabetical order.
 - [[tashas-bubbling-cauldron-xphb|Tasha's Bubbling Cauldron]]  
 - [[tashas-hideous-laughter-xphb|Tasha's Hideous Laughter]]  
 - [[telekinesis-xphb|Telekinesis]]  
-- [[telepathy-xphb|Telepathy]]  
+- [[telepathy-rules-xphb|Telepathy]]  
 - [[teleport-xphb|Teleport]]  
 - [[teleportation-circle-xphb|Teleportation Circle]]  
 - [[tensers-floating-disk-xphb|Tenser's Floating Disk]]  

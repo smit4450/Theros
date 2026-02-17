@@ -110,4 +110,4 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 
 ### Full of Stars (Level 14)
 
-While in your Starry Form, you become partially incorporeal, giving you [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.
+While in your Starry Form, you become partially incorporeal, giving you [[resistance-rules-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.

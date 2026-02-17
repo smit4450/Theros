@@ -67,7 +67,7 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
       \ The target is swallowed by the remorhaz, and the [[conditions#Grappled|Grappled]]\
       \ condition ends. A swallowed creature has the [[conditions#Blinded|Blinded]]\
       \ and [[conditions#Restrained|Restrained]] conditions, it\
-      \ has [[cover-xphb|Total Cover]] against attacks\
+      \ has [[cover-table-xphb|Total Cover]] against attacks\
       \ and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage\
       \ plus 10 (3d6) Fire damage at the start of each of the remorhaz's turns.\n\
       \nIf the remorhaz takes 30 damage or more on a single turn from a creature inside\

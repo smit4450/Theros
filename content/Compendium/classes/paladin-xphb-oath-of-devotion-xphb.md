@@ -90,7 +90,7 @@ You and your allies have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|
 
 ### Smite of Protection (Level 15)
 
-Your magical smite now radiates protective energy. Whenever you cast [[divine-smite-xphb|Divine Smite]], you and your allies have [[cover-xphb|Half Cover]] while in your Aura of Protection. The aura has this benefit until the start of your next turn.
+Your magical smite now radiates protective energy. Whenever you cast [[divine-smite-xphb|Divine Smite]], you and your allies have [[cover-table-xphb|Half Cover]] while in your Aura of Protection. The aura has this benefit until the start of your next turn.
 
 ### Holy Nimbus (Level 20)
 

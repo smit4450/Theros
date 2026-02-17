@@ -15,7 +15,7 @@ aliases:
 
 | dice: d6 | Villain |
 |----------|---------|
-| 1 | A [[kraken-xmm|kraken]] threatens to destroy the temple if worshipers don't pay tribute to the creature. |
+| 1 | A [[kraken-legendary-xmm|kraken]] threatens to destroy the temple if worshipers don't pay tribute to the creature. |
 | 2 | A [[naiad-mot|Naiad]] (see "chapter 6") hides inside the temple and murders fishers who worship here for their crimes against the sea. |
 | 3 | A group of sirens (see the [[harpy-xmm|harpies]] entry in "chapter 6") take over the temple and lure new victims inside to drown themselves during high tide. |
 | 4 | A [[priest-xmm|priest]] of Thassa falsely convinces elderly worshipers that giving more wealth to the temple increases the length of time they live. |

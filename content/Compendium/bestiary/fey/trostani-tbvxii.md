@@ -64,7 +64,7 @@ Flaw: “I have nothing but anger for those who break the bonds of the community
 "languages": "Common, Druidic, Elvish, Sylvan"
 "cr": "18"
 "traits":
-  - "desc": "Trostani’s innate spellcasting ability is Wisdom (spell save DC 24). She can innately cast the following spells, requiring no material components: At will: [[dispel-magic-xphb|Dispel Magic]], [[druidcraft-xphb|Druidcraft]] 3/day each: [[bless-xphb|Bless]], [[conjure-animals-xphb|Conjure Animals]], [[giant-insect-xphb|Giant Insect]], [[moonbeam-xphb|Moonbeam]], [[plant-growth-xphb|Plant Growth]], [[spike-growth-xphb|Spike Growth]], [[suggestion-xphb|Suggestion]] 1/day each: [[conjure-fey-xphb|Conjure Fey]], mass cure wounds"
+  - "desc": "Trostani’s innate spellcasting ability is Wisdom (spell save DC 24). She can innately cast the following spells, requiring no material components: At will: [[dispel-magic-xphb|Dispel Magic]], [[druidcraft-xphb|Druidcraft]] 3/day each: [[bless-xphb|Bless]], [[conjure-animals-xphb|Conjure Animals]], [[giant-insect-spell-xphb|Giant Insect]], [[moonbeam-xphb|Moonbeam]], [[plant-growth-xphb|Plant Growth]], [[spike-growth-xphb|Spike Growth]], [[suggestion-xphb|Suggestion]] 1/day each: [[conjure-fey-xphb|Conjure Fey]], mass cure wounds"
     "name": "Innate Spellcasting"
   - "desc": "If Trostani fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"

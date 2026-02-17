@@ -63,7 +63,7 @@ Your Rage taps into the primal power of animals. Whenever you activate your Rage
 
 #### Bear
 
-While your Rage is active, you have [[resistance-xphb|Resistance]] to every damage type except Force, Necrotic, Psychic, and Radiant.
+While your Rage is active, you have [[resistance-rules-xphb|Resistance]] to every damage type except Force, Necrotic, Psychic, and Radiant.
 
 #### Eagle
 

@@ -35,7 +35,7 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 |--------|---------|---------|---------|
 | Abyssal | You have Resistance to Poison damage. You also know the [[poison-spray-xphb|Poison Spray]] cantrip. | [[ray-of-sickness-xphb|Ray of Sickness]] | [[hold-person-xphb|Hold Person]] |
 | Chthonic | You have Resistance to Necrotic damage. You also know the [[chill-touch-xphb|Chill Touch]] cantrip. | [[false-life-xphb|False Life]] | [[ray-of-enfeeblement-xphb|Ray of Enfeeblement]] |
-| Infernal | You have Resistance to Fire damage. You also know the [[fire-bolt-xphb|Fire Bolt]] cantrip. | [[hellish-rebuke-xphb|Hellish Rebuke]] | [[darkness-xphb|Darkness]] |
+| Infernal | You have Resistance to Fire damage. You also know the [[fire-bolt-xphb|Fire Bolt]] cantrip. | [[hellish-rebuke-xphb|Hellish Rebuke]] | [[darkness-rules-xphb|Darkness]] |
 ^fiendish-legacies
 
 ### Otherworldly Presence

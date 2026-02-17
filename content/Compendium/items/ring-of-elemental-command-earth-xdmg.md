@@ -24,7 +24,7 @@ The Ring of Elemental Command (earth) is linked to the Elemental Plane of Earth.
 
 While wearing the ring, you benefit from additional properties corresponding to the ring's linked Elemental Plane:
 
-- **Earth.** You know Terran, and you have [[resistance-xphb|Resistance]] to Acid damage. Terrain composed of rubble, rocks, or dirt isn't [[difficult-terrain-xphb|Difficult Terrain]] for you. In addition, you can move through solid earth or rock as if those areas were [[difficult-terrain-xphb|Difficult Terrain]] without disturbing the matter through which you pass. If you end your turn in solid earth or rock, you are shunted out to the nearest unoccupied space you last occupied.  
+- **Earth.** You know Terran, and you have [[resistance-rules-xphb|Resistance]] to Acid damage. Terrain composed of rubble, rocks, or dirt isn't [[difficult-terrain-xphb|Difficult Terrain]] for you. In addition, you can move through solid earth or rock as if those areas were [[difficult-terrain-xphb|Difficult Terrain]] without disturbing the matter through which you pass. If you end your turn in solid earth or rock, you are shunted out to the nearest unoccupied space you last occupied.  
 
 ## Spellcasting
 

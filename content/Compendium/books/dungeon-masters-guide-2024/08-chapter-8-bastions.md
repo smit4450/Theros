@@ -340,7 +340,7 @@ A player character can lose their Bastion in the following ways:
 
 - **Divestiture.** A character can give up their Bastion anytime, releasing the Bastion's hirelings and abandoning the location. The divested Bastion is quickly vacated, is eventually looted, and might even be burned to the ground.  
 - **Neglect.** If a character issues no orders to their Bastion for a number of consecutive Bastion turns equal to the character's level (typically because the character is dead or otherwise out of commission), the hirelings abandon the Bastion and the site is eventually looted. If the character returns later, they can start a new Bastion, perhaps building it amid the ruins of the old one.  
-- **Ruination.** Drawing the Ruin card from the [[deck-of-many-things-xdmg|Deck of Many Things]] (as described in "chapter 7") instantly deprives a character of their Bastion. When such an event occurs, the player can decide what terrible fate befalls the Bastion. The Bastion might be sacked by enemies or destroyed by an earthquake, for example.  
+- **Ruination.** Drawing the Ruin card from the [[deck-of-many-things-cards-xdmg|Deck of Many Things]] (as described in "chapter 7") instantly deprives a character of their Bastion. When such an event occurs, the player can decide what terrible fate befalls the Bastion. The Bastion might be sacked by enemies or destroyed by an earthquake, for example.  
 
 Regardless of how the Bastion falls, the player can work with the DM to establish a new Bastion and determine how it comes into being. Use the "Special Facility Acquisition" table to determine how many special facilities come with it. The new Bastion also starts with two basic facilities (one Cramped and one Roomy) of the player's choice.
 

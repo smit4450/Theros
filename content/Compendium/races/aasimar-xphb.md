@@ -21,7 +21,7 @@ aliases: ["Aasimar"]
 
 ### Celestial Resistance
 
-You have [[resistance-xphb|Resistance]] to Necrotic damage and Radiant damage.
+You have [[resistance-rules-xphb|Resistance]] to Necrotic damage and Radiant damage.
 
 ### Darkvision
 

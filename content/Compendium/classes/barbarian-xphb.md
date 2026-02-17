@@ -83,7 +83,7 @@ While active, your Rage follows the rules below.
 
 #### Damage Resistance
 
-You have [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.
+You have [[resistance-rules-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.
 
 #### Rage Damage
 

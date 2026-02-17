@@ -42,7 +42,7 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 | 2 | An Artifact of the DM's choice. |
 | 3 | The corpses of two gods who were entangled in battle when the blob consumed them. |
 | 4 | A Cubic Gate. |
-| 5 | A [[deck-of-many-things-xdmg|Deck of Many Things]]. |
+| 5 | A [[deck-of-many-things-cards-xdmg|Deck of Many Things]]. |
 | 6 | A magic key that opens a door in Sigil that no other key and no spell can open. |
 | 7 | The preserved corpse of an empyrean. |
 | 8 | The remains of half a kraken. |
@@ -105,7 +105,7 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
       \ and can move through the spaces of Huge or smaller creatures and objects.\
       \ *Strength Saving Throw:* DC 23, each creature or object whose space the blob\
       \ enters for the first time during this move. *Failure:* The target is engulfed.\
-      \ While engulfed, a target has [[cover-xphb|Total Cover]]\
+      \ While engulfed, a target has [[cover-table-xphb|Total Cover]]\
       \ against attacks and other effects outside the blob, and when the blob moves,\
       \ the engulfed target moves with it. A nonmagical object is destroyed after\
       \ spending 1 minute engulfed.\n\nWhile engulfed, a creature takes 21 (6d6)\

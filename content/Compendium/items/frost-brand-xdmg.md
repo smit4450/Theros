@@ -23,7 +23,7 @@ aliases:
 ![](Compendium/items/img/frost-brand.webp#right)
 
 
-When you hit with an attack roll using this magic weapon, the target takes an extra `1d6` Cold damage. In addition, while you hold the weapon, you have [[resistance-xphb|Resistance]] to Fire damage.
+When you hit with an attack roll using this magic weapon, the target takes an extra `1d6` Cold damage. In addition, while you hold the weapon, you have [[resistance-rules-xphb|Resistance]] to Fire damage.
 
 In freezing temperatures, the weapon sheds [[bright-light-xphb|Bright Light]] in a 10-foot radius and [[dim-light-xphb|Dim Light]] for an additional 10 feet.
 

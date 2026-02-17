@@ -31,9 +31,9 @@ aliases:
 | 11 | [[bandit-crime-lord-xmm|Bandit Crime Lord]], [[death-knight-aspirant-xmm|Death Knight Aspirant]] |
 | 12 | [[archmage-xmm|Archmage]], [[archpriest-xmm|Archpriest]], [[pirate-admiral-xmm|Pirate Admiral]], [[questing-knight-xmm|Questing Knight]] |
 | 16 | [[iron-golem-xmm|Iron Golem]] |
-| 17 | [[death-knight-xmm|Death Knight]], [[dracolich-xmm|Dracolich]] |
-| 18 | [[demilich-xmm|Demilich]] |
-| 21 | [[arch-hag-xmm|Arch-hag]], [[lich-xmm|Lich]] |
+| 17 | [[death-knight-xmm|Death Knight]], [[dracolich-legendary-xmm|Dracolich]] |
+| 18 | [[demilich-legendary-xmm|Demilich]] |
+| 21 | [[arch-hag-legendary-xmm|Arch-hag]], [[lich-legendary-xmm|Lich]] |
 | 23 | [[blob-of-annihilation-xmm|Blob of Annihilation]], [[empyrean-xmm|Empyrean]] |
 | 25 | [[colossus-xmm|Colossus]] |
 ^any-habitat-monsters

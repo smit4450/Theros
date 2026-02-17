@@ -24,7 +24,7 @@ aliases: ["Doomtide"]
 - **Components:** V, S, M (soot and a dried eel)
 - **Duration:** Concentration, up to 1 minute
 
-You create a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] of inky fog within range. The fog is magical [[darkness-xphb|Darkness]] and lasts for the duration or until a strong wind (such as the one created by the [[gust-of-wind-xphb|Gust of Wind]] spell) disperses it, ending the spell.
+You create a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] of inky fog within range. The fog is magical [[darkness-rules-xphb|Darkness]] and lasts for the duration or until a strong wind (such as the one created by the [[gust-of-wind-xphb|Gust of Wind]] spell) disperses it, ending the spell.
 
 Each creature in the [[sphere-area-of-effect-xphb|Sphere]] when it appears makes a Wisdom saving throw. On a failed save, a creature takes `5d6` Psychic damage and subtracts `1d6` from its saving throws until the end of its next turn. On a successful save, a creature takes half as much damage only. A creature also makes this save when the [[sphere-area-of-effect-xphb|Sphere]] moves into its space, when it enters the [[sphere-area-of-effect-xphb|Sphere]], or when it ends its turn inside the [[sphere-area-of-effect-xphb|Sphere]]. A creature makes this save only once per turn.
 

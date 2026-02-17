@@ -37,7 +37,7 @@ You touch a willing creature and put it into a cataleptic state that is indistin
 
 For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [[conditions#Blinded|Blinded]] and [[conditions#Incapacitated|Incapacitated]] conditions, and its [[speed-xphb|Speed]] is 0.
 
-The target also has [[resistance-xphb|Resistance]] to all damage except Psychic damage, and it has [[immunity-xphb|Immunity]] to the [[conditions#Poisoned|Poisoned]] condition.
+The target also has [[resistance-rules-xphb|Resistance]] to all damage except Psychic damage, and it has [[immunity-xphb|Immunity]] to the [[conditions#Poisoned|Poisoned]] condition.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 

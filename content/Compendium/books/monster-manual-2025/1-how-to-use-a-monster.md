@@ -160,7 +160,7 @@ The Skills entry specifies a monster's skill proficiencies, if any. For example,
 
 ### Resistances and Vulnerabilities
 
-These entries list a monster's [[resistance-xphb|Resistances]] and [[vulnerability-xphb|Vulnerabilities]], if any. See the "Player's Handbook" for more information.
+These entries list a monster's [[resistance-rules-xphb|Resistances]] and [[vulnerability-xphb|Vulnerabilities]], if any. See the "Player's Handbook" for more information.
 
 ### Immunities
 
@@ -203,7 +203,7 @@ This entry lists languages that the monster can use to communicate. Sometimes a 
 
 #### Telepathy
 
-[[telepathy-xphb|Telepathy]] is a magical ability that allows a creature to communicate mentally with another creature within a specified range. See the "Player's Handbook" for more information.
+[[telepathy-rules-xphb|Telepathy]] is a magical ability that allows a creature to communicate mentally with another creature within a specified range. See the "Player's Handbook" for more information.
 
 ### Challenge Rating
 

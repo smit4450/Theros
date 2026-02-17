@@ -80,7 +80,7 @@ As a [[actions#Magic|Magic]] action, you can expend one use of your Channel Divi
 
 ### Aura of Warding (Level 7)
 
-Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have [[resistance-xphb|Resistance]] to Necrotic, Psychic, and Radiant damage while in your Aura of Protection.
+Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have [[resistance-rules-xphb|Resistance]] to Necrotic, Psychic, and Radiant damage while in your Aura of Protection.
 
 ### Undying Sentinel (Level 15)
 

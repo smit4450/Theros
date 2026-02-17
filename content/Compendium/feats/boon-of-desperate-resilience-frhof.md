@@ -18,4 +18,4 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Constitution by 1, to a maximum of 30.
 
-**Defense of Body and Mind.** While you are [[conditions#Bloodied|Bloodied]], you have [[resistance-xphb|Resistance]] to every damage type except Force.
+**Defense of Body and Mind.** While you are [[conditions#Bloodied|Bloodied]], you have [[resistance-rules-xphb|Resistance]] to every damage type except Force.

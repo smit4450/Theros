@@ -16,7 +16,7 @@ aliases:
 | dice: d10 | Adventure Goal |
 |-----------|----------------|
 | 1 | Get permission from the shrine's [[druid-xmm|druids]] to take part in a sacred hunt with them. |
-| 2 | Prevent game hunters from killing a [[unicorn-xmm|unicorn]], and lead the unicorn to a shrine for shelter. |
+| 2 | Prevent game hunters from killing a [[unicorn-legendary-xmm|unicorn]], and lead the unicorn to a shrine for shelter. |
 | 3 | Find a [[scout-xmm|scout]] from the shrine who has gone missing. |
 | 4 | Escape a shrine after being captured and held there for crimes against the forest. |
 | 5 | Rescue trophy hunters being tortured at a shrine. |

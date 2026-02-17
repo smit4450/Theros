@@ -31,7 +31,7 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 | 61-70 | A hungry [[bulette-xmm|Bulette]] burrows up and attacks. |
 | 71-80 | A fruit tree grows. It has `1d10 + 20` fruit, `1d8` of which act as randomly determined potions. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days. |
 | 81-90 | A nest of `1d4 + 3` rainbow-colored eggs springs up. Any creature that eats an egg makes a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes `10d6` Force damage from an internal explosion. |
-| 91-95 | A pyramid with a 60-foot-square base bursts upward. Inside is a burial chamber containing a [[mummy-xmm|Mummy]], a [[mummy-lord-xmm|Mummy Lord]], or some other Undead of the DM's choice. Its sarcophagus contains treasure of the DM's choice. |
+| 91-95 | A pyramid with a 60-foot-square base bursts upward. Inside is a burial chamber containing a [[mummy-xmm|Mummy]], a [[mummy-lord-legendary-xmm|Mummy Lord]], or some other Undead of the DM's choice. Its sarcophagus contains treasure of the DM's choice. |
 | 96-00 | A giant beanstalk sprouts, growing to a height of the DM's choice. The top leads where the DM chooses, such as to a great view, a cloud giant's castle, or another plane of existence. |
 ^1-effect
 

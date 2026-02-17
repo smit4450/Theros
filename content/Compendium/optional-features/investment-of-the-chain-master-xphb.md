@@ -34,4 +34,4 @@ If the familiar forces a creature to make a saving throw, it uses your spell sav
 
 ## Resistance
 
-When the familiar takes damage, you can take a [[reaction-xphb|Reaction]] to grant it [[resistance-xphb|Resistance]] against that damage.
+When the familiar takes damage, you can take a [[reaction-xphb|Reaction]] to grant it [[resistance-rules-xphb|Resistance]] against that damage.

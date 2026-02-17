@@ -72,7 +72,7 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The hag has a soul bag. While holding or carrying the bag, the hag can\
-      \ use its Nightmare Haunting action.\n\nThe bag has AC 15, HP 20, and [[resistance-xphb|Resistance]]\
+      \ use its Nightmare Haunting action.\n\nThe bag has AC 15, HP 20, and [[resistance-rules-xphb|Resistance]]\
       \ to all damage. The bag turns to dust if reduced to 0 [[hit-points-xphb|Hit Points]].\
       \ If the bag is destroyed, any souls the bag is holding are released. The hag\
       \ can create a new bag after 7 days."

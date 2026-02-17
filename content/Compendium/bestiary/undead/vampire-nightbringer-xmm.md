@@ -102,7 +102,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
     "name": "Shadow Strike"
 "bonus_actions":
   - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-xphb|Darkness]], the vampire\
+      \ or [[darkness-rules-xphb|Darkness]], the vampire\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

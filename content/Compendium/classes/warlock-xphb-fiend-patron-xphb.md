@@ -79,7 +79,7 @@ You can use this feature a number of times equal to your Charisma modifier (mini
 
 ### Fiendish Resilience (Level 10)
 
-Choose one damage type, other than Force, whenever you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]]. You have [[resistance-xphb|Resistance]] to that damage type until you choose a different one with this feature.
+Choose one damage type, other than Force, whenever you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]]. You have [[resistance-rules-xphb|Resistance]] to that damage type until you choose a different one with this feature.
 
 ### Hurl Through Hell (Level 14)
 

@@ -18,7 +18,7 @@ This fine garment is made of black silk interwoven with faint, silvery threads. 
 
 ## Poison Resistance
 
-You have [[resistance-xphb|Resistance]] to Poison damage.
+You have [[resistance-rules-xphb|Resistance]] to Poison damage.
 
 ## Spider Climb
 

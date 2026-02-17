@@ -39,7 +39,7 @@ A beam of crackling energy lances toward a creature within range, forming a sust
 
 On each of your subsequent turns, you can take a [[bonus-action-xphb|Bonus Action]] to deal `1d12` Lightning damage to the target automatically, even if the first attack missed.
 
-The spell ends if the target is ever outside the spell's range or if it has Total [[cover-xphb|Cover]] from you.
+The spell ends if the target is ever outside the spell's range or if it has Total [[cover-table-xphb|Cover]] from you.
 
 **Using a Higher-Level Spell Slot.** The initial damage increases by `1d12` for each spell slot level above 1.
 

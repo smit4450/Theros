@@ -31,7 +31,7 @@ aliases:
 | 10 | [[cyclops-oracle-xmm|Cyclops Oracle]], [[guardian-naga-xmm|Guardian Naga]] |
 | 11 | [[efreeti-xmm|Efreeti]], [[roc-xmm|Roc]], [[sphinx-of-lore-xmm|Sphinx of Lore]] |
 | 13 | [[adult-brass-dragon-xmm|Adult Brass Dragon]] |
-| 15 | [[mummy-lord-xmm|Mummy Lord]], [[purple-worm-xmm|Purple Worm]] |
+| 15 | [[mummy-lord-legendary-xmm|Mummy Lord]], [[purple-worm-xmm|Purple Worm]] |
 | 16 | [[adult-blue-dragon-xmm|Adult Blue Dragon]] |
 | 17 | [[sphinx-of-valor-xmm|Sphinx of Valor]] |
 | 20 | [[ancient-brass-dragon-xmm|Ancient Brass Dragon]] |

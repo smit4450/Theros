@@ -39,7 +39,7 @@ Creatures in your Emerald Enclave Grove count as Bastion Defenders. Deduct any y
 | [[satyr-xmm|Satyr]] | Medium |
 | [[sprite-xmm|Sprite]] | Tiny |
 | [[treant-xmm|Treant]] | Large |
-| [[unicorn-xmm|Unicorn]] | Large |
+| [[unicorn-legendary-xmm|Unicorn]] | Large |
 ^emerald-enclave-grove-creatures
 
 *Source: FRHoF*

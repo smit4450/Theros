@@ -26,7 +26,7 @@ The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wan
 
 | dice: 1d100 | Effect |
 |-------------|--------|
-| 01-20 | You cast a spell originating from the chosen point. Roll `1d10` to determine the spell: on a **1-2**, [[darkness-xphb|Darkness]]; on a **3-4**, [[faerie-fire-xphb|Faerie Fire]]; on a **5-6**, [[fireball-xphb|Fireball]]; on a **7-8**, [[slow-xphb|Slow]]; on a **9-10**, [[stinking-cloud-xphb|Stinking Cloud]]. |
+| 01-20 | You cast a spell originating from the chosen point. Roll `1d10` to determine the spell: on a **1-2**, [[darkness-rules-xphb|Darkness]]; on a **3-4**, [[faerie-fire-xphb|Faerie Fire]]; on a **5-6**, [[fireball-xphb|Fireball]]; on a **7-8**, [[slow-xphb|Slow]]; on a **9-10**, [[stinking-cloud-xphb|Stinking Cloud]]. |
 | 21-25 | Nothing happens at the chosen point of origin. Instead, you have the [[conditions#Stunned|Stunned]] condition until the start of your next turn, believing something awesome just happened. |
 | 26-30 | You cast [[gust-of-wind-xphb|Gust of Wind]]. The [[line-area-of-effect-xphb|Line]] created by the spell extends from you to the chosen point of origin. |
 | 31-35 | Nothing happens at the chosen point of origin. Instead, you take `1d6` Psychic damage. |

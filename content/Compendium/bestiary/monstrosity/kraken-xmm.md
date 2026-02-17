@@ -118,7 +118,7 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
       \ 23 (3d8 + 10) Piercing damage. If the target is Large or smaller, it is\
       \ swallowed and no longer [[conditions#Grappled|Grappled]].\
       \ A swallowed creature has the [[conditions#Restrained|Restrained]]\
-      \ condition, has [[cover-xphb|Total Cover]]\
+      \ condition, has [[cover-table-xphb|Total Cover]]\
       \ against attacks and other effects outside the kraken, and takes 24 (7d6)\
       \ Acid damage at the start of each of its turns.\n\nIf the kraken takes 50 damage\
       \ or more on a single turn from a creature inside it, the kraken must succeed\

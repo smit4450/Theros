@@ -143,7 +143,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ unchanged.\n\nWhile in mist form, the vampire can't take any actions, speak,\
       \ or manipulate objects. It is weightless and can enter an enemy's space and\
       \ stop there. If air can pass through a space, the mist can do so, but it can't\
-      \ pass through liquid. It has [[resistance-xphb|Resistance]]\
+      \ pass through liquid. It has [[resistance-rules-xphb|Resistance]]\
       \ to all damage, except the damage it takes from sunlight."
     "name": "Shape-Shift"
   - "desc": "The vampire casts [[charm-person-xphb|Charm Person]],\

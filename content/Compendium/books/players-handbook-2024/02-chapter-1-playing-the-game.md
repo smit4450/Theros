@@ -833,16 +833,16 @@ You can't willingly end a move in a space occupied by another creature. If you s
 When you take the [[actions#Attack|Attack]] action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
 
 - **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.  
-- **Determine Modifiers.** The DM determines whether the target has [[cover-xphb|Cover]] (see the next section) and whether you have [[advantage-xphb|Advantage]] or [[disadvantage-xphb|Disadvantage]] against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.  
+- **Determine Modifiers.** The DM determines whether the target has [[cover-table-xphb|Cover]] (see the next section) and whether you have [[advantage-xphb|Advantage]] or [[disadvantage-xphb|Disadvantage]] against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.  
 - **Resolve the Attack.** Make the attack roll, as detailed earlier in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.  
 
 ### Cover
 
 Walls, trees, creatures, and other obstacles can provide cover, making a target more difficult to harm. As detailed in the Cover table, there are three degrees of cover, each of which gives a different benefit to a target.
 
-A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives [[cover-xphb|Half Cover]] and a tree trunk that gives [[cover-xphb|Three-Quarters Cover]], the target has Three-Quarters Cover.
+A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives [[cover-table-xphb|Half Cover]] and a tree trunk that gives [[cover-table-xphb|Three-Quarters Cover]], the target has Three-Quarters Cover.
 
-![[cover-xphb|Cover]]
+![[cover-table-xphb|Cover]]
 
 > [!note] Unseen Attackers and Targets
 > 
@@ -966,7 +966,7 @@ Many saving throw effects deal half damage (round down) to a target when the tar
 
 ### Damage Types
 
-Each instance of damage has a type, like Fire or Slashing. Damage types are listed in the "rules glossary" and have no rules of their own, but other rules, such as [[resistance-xphb|Resistance]], rely on damage types.
+Each instance of damage has a type, like Fire or Slashing. Damage types are listed in the "rules glossary" and have no rules of their own, but other rules, such as [[resistance-rules-xphb|Resistance]], rely on damage types.
 
 ### Resistance and Vulnerability
 

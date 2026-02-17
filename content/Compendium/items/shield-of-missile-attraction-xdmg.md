@@ -18,7 +18,7 @@ aliases:
 - **Properties**: [[item-properties#Cursed%20Items|Cursed]]
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have [[resistance-xphb|Resistance]] to damage from attacks made with Ranged weapons.
+While holding this Shield, you have [[resistance-rules-xphb|Resistance]] to damage from attacks made with Ranged weapons.
 
 ## Curse
 

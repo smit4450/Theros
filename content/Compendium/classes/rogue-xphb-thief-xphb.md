@@ -83,7 +83,7 @@ You gain the following Cunning Strike option.
 
 #### Stealth Attack (Cost: 1d6)
 
-If you have the [[actions#Hide|Hide]] action's [[conditions#Invisible|Invisible]] condition, this attack doesn't end that condition on you if you end the turn behind [[cover-xphb|Three-Quarters Cover]] or [[cover-xphb|Total Cover]].
+If you have the [[actions#Hide|Hide]] action's [[conditions#Invisible|Invisible]] condition, this attack doesn't end that condition on you if you end the turn behind [[cover-table-xphb|Three-Quarters Cover]] or [[cover-table-xphb|Total Cover]].
 
 ### Use Magic Device (Level 13)
 

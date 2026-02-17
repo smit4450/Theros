@@ -73,8 +73,8 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
   - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
   - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-xphb|Darkness]], the dragon\
-      \ has [[resistance-xphb|Resistance]] to damage\
+      \ or [[darkness-rules-xphb|Darkness]], the dragon\
+      \ has [[resistance-rules-xphb|Resistance]] to damage\
       \ that isn't Force, Psychic, or Radiant."
     "name": "Living Shadow"
   - "desc": "While in sunlight, the dragon has [[disadvantage-xphb|Disadvantage]]\
@@ -96,7 +96,7 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
     "name": "Shadow Breath (Recharge 5-6)"
 "bonus_actions":
   - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-xphb|Darkness]], the dragon\
+      \ or [[darkness-rules-xphb|Darkness]], the dragon\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "regional_effects":

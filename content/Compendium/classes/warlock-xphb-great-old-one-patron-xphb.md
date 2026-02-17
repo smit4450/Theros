@@ -89,7 +89,7 @@ Your alien patron grants you a powerful curse. You always have the [[hex-xphb|He
 
 ### Thought Shield (Level 10)
 
-Your thoughts can't be read by telepathy or other means unless you allow it. You also have [[resistance-xphb|Resistance]] to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
+Your thoughts can't be read by telepathy or other means unless you allow it. You also have [[resistance-rules-xphb|Resistance]] to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
 
 ### Create Thrall (Level 14)
 

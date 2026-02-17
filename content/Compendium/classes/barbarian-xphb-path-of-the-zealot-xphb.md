@@ -87,7 +87,7 @@ You have a [[fly-speed-xphb|Fly Speed]] equal to your [[speed-xphb|Speed]] and c
 
 #### Resistance
 
-You have [[resistance-xphb|Resistance]] to Necrotic, Psychic, and Radiant damage.
+You have [[resistance-rules-xphb|Resistance]] to Necrotic, Psychic, and Radiant damage.
 
 #### Revivification
 

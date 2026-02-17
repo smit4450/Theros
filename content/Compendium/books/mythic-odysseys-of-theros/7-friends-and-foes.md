@@ -85,7 +85,7 @@ Krakens number among the most terrifying denizens of the sea, their wrath capabl
 
 #### Nadir Krakens
 
-The largest and most devastating krakens, nadir krakens, dwell in the deepest ocean trenches. These krakens are unique beings, of which the terrifying [[tromokratis-mot|Tromokratis]] (described in the ""Mythic Monsters"" section of this chapter) numbers among the most feared. When a nadir kraken breaks free of its sea lock and rises to the surface, continents are redrawn, civilizations collapse, and eras end.
+The largest and most devastating krakens, nadir krakens, dwell in the deepest ocean trenches. These krakens are unique beings, of which the terrifying [[tromokratis-legendary-mot|Tromokratis]] (described in the ""Mythic Monsters"" section of this chapter) numbers among the most feared. When a nadir kraken breaks free of its sea lock and rises to the surface, continents are redrawn, civilizations collapse, and eras end.
 
 ![Unleashed from the darkest...](Compendium/books/mythic-odysseys-of-theros/img/151-06-03.webp#center "Unleashed from the darkest ocean depths, each nadir kraken is a unique aquatic nightmare")
 
@@ -199,68 +199,68 @@ Mythic traits transform battles into truly legendary confrontations, well suited
 
 ### Arasta of the Endless Web
 
-A victim of the gods' petty rivalries, [[arasta-mot|Arasta]] was once one of Nylea's most beloved dryad companions. Phenax's bitterness saw her transformed into an arachnid monstrosity and driven into the darkest depths of the Nessian Wood. Now she broods on her unjust fate and the fickleness of the gods who left her cursed with monstrous immortality.
+A victim of the gods' petty rivalries, [[arasta-legendary-mot|Arasta]] was once one of Nylea's most beloved dryad companions. Phenax's bitterness saw her transformed into an arachnid monstrosity and driven into the darkest depths of the Nessian Wood. Now she broods on her unjust fate and the fickleness of the gods who left her cursed with monstrous immortality.
 
-[[arasta-mot|Arasta]] appears as a gigantic spiderlike creature, her few humanoid features made monstrous by cruel magic and ages of hatred. Webs fill her lair deep in the Nessian Wood, sticky strands made not of silk but of her own endless hair. In her darkened realm, [[arasta-mot|Arasta]] broods on her hatred of the gods and their servants. She doesn't do so alone, though, as innumerable arachnids fawn over her, serving as her eyes throughout the wilderness, disposing of victims trapped within her hair, and sacrificing themselves in her defense if they must.
+[[arasta-legendary-mot|Arasta]] appears as a gigantic spiderlike creature, her few humanoid features made monstrous by cruel magic and ages of hatred. Webs fill her lair deep in the Nessian Wood, sticky strands made not of silk but of her own endless hair. In her darkened realm, [[arasta-legendary-mot|Arasta]] broods on her hatred of the gods and their servants. She doesn't do so alone, though, as innumerable arachnids fawn over her, serving as her eyes throughout the wilderness, disposing of victims trapped within her hair, and sacrificing themselves in her defense if they must.
 
-See ""Myths of Nylea"" in chapter 2 for more details on the tragedy of [[arasta-mot|Arasta]].
+See ""Myths of Nylea"" in chapter 2 for more details on the tragedy of [[arasta-legendary-mot|Arasta]].
 
 #### Arasta's Lair
 
-[[arasta-mot|Arasta]] lives in an enormous, gnarled olive tree called Enorasi, which was planted millennia ago by Klothys. It is said that those who eat of its fruit can see glimpses of the future. Eating the fruit brings with it a risk, though, for those who Klothys finds unworthy might be driven mad. There, within Enorasi's hollow trunk, [[arasta-mot|Arasta]] awaits the next would-be prophet to make her meal. Her webs stretch beyond the branches of the tree and carpet the forest floor of her realm.
+[[arasta-legendary-mot|Arasta]] lives in an enormous, gnarled olive tree called Enorasi, which was planted millennia ago by Klothys. It is said that those who eat of its fruit can see glimpses of the future. Eating the fruit brings with it a risk, though, for those who Klothys finds unworthy might be driven mad. There, within Enorasi's hollow trunk, [[arasta-legendary-mot|Arasta]] awaits the next would-be prophet to make her meal. Her webs stretch beyond the branches of the tree and carpet the forest floor of her realm.
 
-- **Path to the Underworld.** Tales are told of forlorn souls who, because of grief or madness over the loss of a loved one, have sought out [[arasta-mot|Arasta]]'s lair, as it is rumored that some of the strands of her web are anchored near the edge of the Underworld and can enable a traveler to reach that realm's ashen shores.  
+- **Path to the Underworld.** Tales are told of forlorn souls who, because of grief or madness over the loss of a loved one, have sought out [[arasta-legendary-mot|Arasta]]'s lair, as it is rumored that some of the strands of her web are anchored near the edge of the Underworld and can enable a traveler to reach that realm's ashen shores.  
 
-But those who enter her domain unbidden almost never go unnoticed, for [[arasta-mot|Arasta]] can sense the slightest vibration along her web hair, and her children act as spies on her behalf.
+But those who enter her domain unbidden almost never go unnoticed, for [[arasta-legendary-mot|Arasta]] can sense the slightest vibration along her web hair, and her children act as spies on her behalf.
 
-- **Lair Actions.** On initiative count 20 (losing initiative ties), [[arasta-mot|Arasta]] can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row.  
+- **Lair Actions.** On initiative count 20 (losing initiative ties), [[arasta-legendary-mot|Arasta]] can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row.  
 
-- [[arasta-mot|Arasta]] learns about any creature touching her webs. Each creature [[conditions#Restrained|restrained]] by a web or [[arasta-mot|Arasta]]'s Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, [[arasta-mot|Arasta]] gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.  
-- [[arasta-mot|Arasta]] casts the [[giant-insect-xphb|giant insect]] spell (spiders only). It lasts until she uses this lair action again or until she dies.  
+- [[arasta-legendary-mot|Arasta]] learns about any creature touching her webs. Each creature [[conditions#Restrained|restrained]] by a web or [[arasta-legendary-mot|Arasta]]'s Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, [[arasta-legendary-mot|Arasta]] gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.  
+- [[arasta-legendary-mot|Arasta]] casts the [[giant-insect-spell-xphb|giant insect]] spell (spiders only). It lasts until she uses this lair action again or until she dies.  
 
-- **Regional Effects.** The region containing [[arasta-mot|Arasta]]'s lair is warped by her presence, which creates one or more of the following effects:  
+- **Regional Effects.** The region containing [[arasta-legendary-mot|Arasta]]'s lair is warped by her presence, which creates one or more of the following effects:  
 
-- Spiders and insects within 1 mile of [[arasta-mot|Arasta]]'s lair serve as her eyes and ears. Birds and other flying creatures are absent from the skies and occasionally found trapped in webs.  
-- Within 1 mile of [[arasta-mot|Arasta]]'s lair, webs fill all 10-foot cubes of open space, so long as the webs can be anchored between two solid masses (such as walls or trees). The webs are flammable. Any webs exposed to fire burn away in 1 round. Any destroyed webs are magically repaired at the next dawn.  
+- Spiders and insects within 1 mile of [[arasta-legendary-mot|Arasta]]'s lair serve as her eyes and ears. Birds and other flying creatures are absent from the skies and occasionally found trapped in webs.  
+- Within 1 mile of [[arasta-legendary-mot|Arasta]]'s lair, webs fill all 10-foot cubes of open space, so long as the webs can be anchored between two solid masses (such as walls or trees). The webs are flammable. Any webs exposed to fire burn away in 1 round. Any destroyed webs are magically repaired at the next dawn.  
 
-If [[arasta-mot|Arasta]] dies, the spiders and insects lose their supernatural link to her. The webs remain, but they dissolve within `1d10` days.
+If [[arasta-legendary-mot|Arasta]] dies, the spiders and insects lose their supernatural link to her. The webs remain, but they dissolve within `1d10` days.
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/191-06-33.webp#center)
 
 #### Arasta as a Mythic Encounter
 
-[[arasta-mot|Arasta]] is a formidable enemy under normal circumstances, but to give characters a truly mythic challenge, you can have her call on her Armor of Spiders. Her use of this trait signals a drastic turn in the encounter, as [[arasta-mot|Arasta]] summons her arachnid children to protect her. While she has temporary hit points from this trait, she can choose one of her mythic actions when she uses a legendary action.
+[[arasta-legendary-mot|Arasta]] is a formidable enemy under normal circumstances, but to give characters a truly mythic challenge, you can have her call on her Armor of Spiders. Her use of this trait signals a drastic turn in the encounter, as [[arasta-legendary-mot|Arasta]] summons her arachnid children to protect her. While she has temporary hit points from this trait, she can choose one of her mythic actions when she uses a legendary action.
 
-Read or paraphrase the following text when [[arasta-mot|Arasta]] uses her Armor of Spiders trait:
+Read or paraphrase the following text when [[arasta-legendary-mot|Arasta]] uses her Armor of Spiders trait:
 
 > [!readaloud] 
 > 
 > The nightmarish arachnid unleashes a shriek that sounds like a thousand spider carapaces scarring slate. In response, the ground ripples and bursts over the monster, revealing itself as a wave of countless spiders. The tiny arachnids swarm the larger horror, girding it in skittering bodies.
 ^3e9
 
-Fighting [[arasta-mot|Arasta]] as a mythic encounter is equivalent to taking on two challenge rating 21 creatures in one encounter. Award a party 66,000 XP for defeating [[arasta-mot|Arasta]] after she uses Armor of Spiders.
+Fighting [[arasta-legendary-mot|Arasta]] as a mythic encounter is equivalent to taking on two challenge rating 21 creatures in one encounter. Award a party 66,000 XP for defeating [[arasta-legendary-mot|Arasta]] after she uses Armor of Spiders.
 
 ### Hythonia the Cruel
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/192-06-34.webp#center)
 
-Theros's reclusive medusas often delight in collecting and expanding their galleries of [[conditions#Petrified|petrified]] victims. Unlike other medusas, [[hythonia-mot|Hythonia]] isn't merely a collector; she's an artist.
+Theros's reclusive medusas often delight in collecting and expanding their galleries of [[conditions#Petrified|petrified]] victims. Unlike other medusas, [[hythonia-legendary-mot|Hythonia]] isn't merely a collector; she's an artist.
 
-When [[hythonia-mot|Hythonia]] came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the [[medusa-mot|medusa]]'s petrifying gaze in hopes of gaining Pharika's favor. Seeing herself surrounded by willing devotees, [[hythonia-mot|Hythonia]] formulated a cruel plan. After encouraging them to engage in wild rituals, [[hythonia-mot|Hythonia]] began turning her followers to stone, weaving their forms to create a grisly throne made of their [[conditions#Petrified|petrified]] bodies.
+When [[hythonia-legendary-mot|Hythonia]] came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the [[medusa-mot|medusa]]'s petrifying gaze in hopes of gaining Pharika's favor. Seeing herself surrounded by willing devotees, [[hythonia-legendary-mot|Hythonia]] formulated a cruel plan. After encouraging them to engage in wild rituals, [[hythonia-legendary-mot|Hythonia]] began turning her followers to stone, weaving their forms to create a grisly throne made of their [[conditions#Petrified|petrified]] bodies.
 
-While the [[medusa-mot|medusa]]'s victims have dwindled, tales of the [[medusa-mot|medusa]] queen and the divine secrets she hoards have not. [[hythonia-mot|Hythonia]] eagerly trades the mysteries she knows but demands a constant price: a beautiful individual to become part of her throne.
+While the [[medusa-mot|medusa]]'s victims have dwindled, tales of the [[medusa-mot|medusa]] queen and the divine secrets she hoards have not. [[hythonia-legendary-mot|Hythonia]] eagerly trades the mysteries she knows but demands a constant price: a beautiful individual to become part of her throne.
 
 #### Hythonia's Lair
 
-[[hythonia-mot|Hythonia]] makes her lair on Skathos, an island where a secret sect of worshipers dedicated to Pharika previously hoarded secrets and engaged in dark rituals.
+[[hythonia-legendary-mot|Hythonia]] makes her lair on Skathos, an island where a secret sect of worshipers dedicated to Pharika previously hoarded secrets and engaged in dark rituals.
 
-- **Island of Potent Magic.** Although Skathos's location remains a mystery, stories tell of the island's magical plants and [[hythonia-mot|Hythonia]]'s various treasures. [[hythonia-mot|Hythonia]] encourages such rumors by letting lone survivors escape her realm, letting the ravings of survivors tempt more playthings into her clutches.  
-- **Lair Actions.** On initiative count 20 (losing initiative ties), [[hythonia-mot|Hythonia]] can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:  
+- **Island of Potent Magic.** Although Skathos's location remains a mystery, stories tell of the island's magical plants and [[hythonia-legendary-mot|Hythonia]]'s various treasures. [[hythonia-legendary-mot|Hythonia]] encourages such rumors by letting lone survivors escape her realm, letting the ravings of survivors tempt more playthings into her clutches.  
+- **Lair Actions.** On initiative count 20 (losing initiative ties), [[hythonia-legendary-mot|Hythonia]] can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:  
 
-- [[hythonia-mot|Hythonia]] briefly animates creatures that have been [[conditions#Petrified|petrified]] by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also [[conditions#Grappled|grappled]] (escape DC 15).  
-- [[hythonia-mot|Hythonia]] causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 (`2d4`) piercing damage and become [[conditions#Poisoned|poisoned]] until the end of its next turn. While [[conditions#Poisoned|poisoned]] in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the [[confusion-xphb|confusion]] spell.  
+- [[hythonia-legendary-mot|Hythonia]] briefly animates creatures that have been [[conditions#Petrified|petrified]] by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also [[conditions#Grappled|grappled]] (escape DC 15).  
+- [[hythonia-legendary-mot|Hythonia]] causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 (`2d4`) piercing damage and become [[conditions#Poisoned|poisoned]] until the end of its next turn. While [[conditions#Poisoned|poisoned]] in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the [[confusion-xphb|confusion]] spell.  
 
-- **Regional Effects.** The region containing [[hythonia-mot|Hythonia]]'s lair is warped by her presence, which creates one or more of the following effects:  
+- **Regional Effects.** The region containing [[hythonia-legendary-mot|Hythonia]]'s lair is warped by her presence, which creates one or more of the following effects:  
 
 - A large population of snakes dwells in the region.  
 - Trees within 1 mile of the lair are petrified wood. Plants that stay within 500 feet of the lair for 1 day turn to stone.  
@@ -270,35 +270,35 @@ While the [[medusa-mot|medusa]]'s victims have dwindled, tales of the [[medusa-m
 
 #### Hythonia as a Mythic Encounter
 
-[[hythonia-mot|Hythonia]] serves as a potent threat against even high-level characters, but you can increase the challenge by using the Shed Skin trait. When this happens, [[hythonia-mot|Hythonia]] heals many of her wounds and slips away from danger, and then she can choose one of her mythic actions when she uses a legendary action.
+[[hythonia-legendary-mot|Hythonia]] serves as a potent threat against even high-level characters, but you can increase the challenge by using the Shed Skin trait. When this happens, [[hythonia-legendary-mot|Hythonia]] heals many of her wounds and slips away from danger, and then she can choose one of her mythic actions when she uses a legendary action.
 
-You might foreshadow [[hythonia-mot|Hythonia]] using her mythic trait by describing her skin cracking and turning pale as she suffers wounds. Read or paraphrase the following text when [[hythonia-mot|Hythonia]] finally uses her Shed Skin trait:
+You might foreshadow [[hythonia-legendary-mot|Hythonia]] using her mythic trait by describing her skin cracking and turning pale as she suffers wounds. Read or paraphrase the following text when [[hythonia-legendary-mot|Hythonia]] finally uses her Shed Skin trait:
 
 > [!readaloud] 
 > 
 > The [[medusa-mot|medusa]]'s skin cracks, turns a lifeless gray, and shatters! The monster crumbles to dust—but what clatters to the ground isn't scale and bone, but hollow stone. The sound of rippling coils precedes the [[medusa-mot|medusa]] rising up anew, the last of her shed skin dropping away, revealing glistening, unscarred scales.
 ^3ed
 
-Fighting [[hythonia-mot|Hythonia]] as a mythic encounter is equivalent to taking on two challenge rating 17 creatures in one encounter. Award a party 36,000 XP for defeating [[hythonia-mot|Hythonia]] after she uses Shed Skin.
+Fighting [[hythonia-legendary-mot|Hythonia]] as a mythic encounter is equivalent to taking on two challenge rating 17 creatures in one encounter. Award a party 36,000 XP for defeating [[hythonia-legendary-mot|Hythonia]] after she uses Shed Skin.
 
 ### Tromokratis
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/194-06-36.webp#center)
 
-Most krakens roam the seas, shattering hulls and scattering fleets, but the kraken [[tromokratis-mot|Tromokratis]] notoriously vents its wrath on coastal settlements. Whether it acts at the command of the god Thassa or to sate its own hunger, [[tromokratis-mot|Tromokratis]] numbers among the most feared threats in the sea, having no fixed lair and wandering where it will. In recent memory, the massive menace rose from the waves to topple the Pyrgnos, Meletis's great repository of scholarly knowledge. Since that day, the polis keeps a watch specifically for [[tromokratis-mot|Tromokratis]].
+Most krakens roam the seas, shattering hulls and scattering fleets, but the kraken [[tromokratis-legendary-mot|Tromokratis]] notoriously vents its wrath on coastal settlements. Whether it acts at the command of the god Thassa or to sate its own hunger, [[tromokratis-legendary-mot|Tromokratis]] numbers among the most feared threats in the sea, having no fixed lair and wandering where it will. In recent memory, the massive menace rose from the waves to topple the Pyrgnos, Meletis's great repository of scholarly knowledge. Since that day, the polis keeps a watch specifically for [[tromokratis-legendary-mot|Tromokratis]].
 
-- **Rough Waters.** [[tromokratis-mot|Tromokratis]] is a particularly cantankerous nadir kraken that has claimed all the sea as its territory. A tumultuous sea is often attributed to [[tromokratis-mot|Tromokratis]] battling another kraken to assert its claim. Often, before a journey, sailors blow conch-shell horns in the belief that the sound will soothe nearby krakens.  
-- **The Horn of Humenades.** Legend speaks of a magic horn that the hero Humenades used in ancient times to summon [[tromokratis-mot|Tromokratis]] to lay waste to a cursed city lost to evil ways. The horn was so powerful that, after the city was destroyed, Humenades took it to Tizerus and buried it under a stone near the palace of Erebos.  
+- **Rough Waters.** [[tromokratis-legendary-mot|Tromokratis]] is a particularly cantankerous nadir kraken that has claimed all the sea as its territory. A tumultuous sea is often attributed to [[tromokratis-legendary-mot|Tromokratis]] battling another kraken to assert its claim. Often, before a journey, sailors blow conch-shell horns in the belief that the sound will soothe nearby krakens.  
+- **The Horn of Humenades.** Legend speaks of a magic horn that the hero Humenades used in ancient times to summon [[tromokratis-legendary-mot|Tromokratis]] to lay waste to a cursed city lost to evil ways. The horn was so powerful that, after the city was destroyed, Humenades took it to Tizerus and buried it under a stone near the palace of Erebos.  
 
 #### Tromokratis as a Mythic Encounter
 
-[[tromokratis-mot|Tromokratis]] numbers among the most powerful creatures a group of adventurers might face. If you wish to make an encounter with the kraken truly legendary, [[tromokratis-mot|Tromokratis]] might use its Hearts of the Kraken mythic trait. When this happens, it calls upon a reserve of strength just as it appears to be vanquished. After its hearts are exposed, [[tromokratis-mot|Tromokratis]] can choose one of its mythic actions when it uses a legendary action.
+[[tromokratis-legendary-mot|Tromokratis]] numbers among the most powerful creatures a group of adventurers might face. If you wish to make an encounter with the kraken truly legendary, [[tromokratis-legendary-mot|Tromokratis]] might use its Hearts of the Kraken mythic trait. When this happens, it calls upon a reserve of strength just as it appears to be vanquished. After its hearts are exposed, [[tromokratis-legendary-mot|Tromokratis]] can choose one of its mythic actions when it uses a legendary action.
 
-Read or paraphrase the following text when [[tromokratis-mot|Tromokratis]] uses its Hearts of the Kraken trait:
+Read or paraphrase the following text when [[tromokratis-legendary-mot|Tromokratis]] uses its Hearts of the Kraken trait:
 
 > [!readaloud] 
 > 
 > The titanic monster's carapace cracks, revealing a pulsing, red-purple heart buried amid heaps of blubber and muscle. Fissures run across the beast's ancient shell, revealing three other mighty, ichor-slick organs. The sea terror thrashes, channeling pain into fury.
 ^3f0
 
-Fighting [[tromokratis-mot|Tromokratis]] as a mythic encounter is equivalent to taking on two CR 26 creatures in one encounter. Award a party 180,000 XP for defeating [[tromokratis-mot|Tromokratis]] after it uses Hearts of the Kraken.
+Fighting [[tromokratis-legendary-mot|Tromokratis]] as a mythic encounter is equivalent to taking on two CR 26 creatures in one encounter. Award a party 180,000 XP for defeating [[tromokratis-legendary-mot|Tromokratis]] after it uses Hearts of the Kraken.

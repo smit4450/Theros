@@ -117,7 +117,7 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
       \ The target is swallowed, and the [[conditions#Grappled|Grappled]]\
       \ condition ends. A swallowed creature has the [[conditions#Blinded|Blinded]]\
       \ and [[conditions#Restrained|Restrained]] conditions and\
-      \ can't teleport, it has [[cover-xphb|Total Cover]]\
+      \ can't teleport, it has [[cover-table-xphb|Total Cover]]\
       \ against attacks and other effects outside the tarrasque, and it takes 56 (16d6)\
       \ Acid damage at the start of each of the tarrasque's turns.\n\nIf the tarrasque\
       \ takes 60 damage or more on a single turn from a creature inside it, the tarrasque\

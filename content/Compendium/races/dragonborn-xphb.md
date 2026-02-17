@@ -20,7 +20,7 @@ aliases: ["Dragonborn"]
 
 ### Draconic Ancestry
 
-Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and [[damage-xphb|Damage]] [[resistance-xphb|Resistance]] traits as well as your appearance.
+Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and [[damage-xphb|Damage]] [[resistance-rules-xphb|Resistance]] traits as well as your appearance.
 
 **Draconic Ancestors**
 
@@ -46,7 +46,7 @@ You can use this Breath Weapon a number of times equal to your [[proficiency-xph
 
 ### Damage Resistance
 
-You have [[resistance-xphb|Resistance]] to the damage type determined by your Draconic Ancestry trait.
+You have [[resistance-rules-xphb|Resistance]] to the damage type determined by your Draconic Ancestry trait.
 
 ### Darkvision
 

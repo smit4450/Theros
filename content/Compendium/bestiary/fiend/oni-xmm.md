@@ -92,7 +92,7 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
   - "desc": "The oni casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**1/day\
       \ each:** [[charm-person-xphb|Charm Person]] (level 2 version),\
-      \ [[darkness-xphb|Darkness]], [[gaseous-form-xphb|Gaseous Form]],\
+      \ [[darkness-rules-xphb|Darkness]], [[gaseous-form-xphb|Gaseous Form]],\
       \ [[sleep-xphb|Sleep]]"
     "name": "Spellcasting"
 "bonus_actions":

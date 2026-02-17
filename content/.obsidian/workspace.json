@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "523e53d6043ee577",
+        "id": "2eb27277009f6735",
         "type": "tabs",
         "children": [
           {
-            "id": "a92bb3c15d84d96e",
+            "id": "3a63bd1b39c74711",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "broken links output.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "broken links output"
+              "title": "New tab"
             }
           }
         ]
@@ -267,34 +263,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a92bb3c15d84d96e",
+  "active": "b74a3a1f4b57ccef",
   "lastOpenFiles": [
-    "index.md",
-    "broken links output.md",
-    "Compendium/crafting/enchantments/universal/lucky.md",
-    "Compendium/classes/cleric-xphb-knowledge-domain-frhof.md",
-    "Compendium/books/forgotten-realms-heroes-of-faerun/6-chapter-5-magic-of-faerun.md",
-    "Compendium/crafting/forging/zarinthic.md",
-    "Compendium/books/forgotten-realms-heroes-of-faerun/5-chapter-4-auroras-whole-realms-catalog.md",
-    "Compendium/books/forgotten-realms-heroes-of-faerun/4-chapter-3-gods-of-faerun.md",
-    "Compendium/books/forgotten-realms-heroes-of-faerun/3-chapter-2-a-guide-to-the-realms.md",
-    "Compendium/books/forgotten-realms-heroes-of-faerun/2-chapter-1-character-options.md",
-    "Compendium/books/forgotten-realms-heroes-of-faerun/1-introduction-a-world-of-epic-heroes.md",
-    "Compendium/books/forgotten-realms-heroes-of-faerun/9-credits.md",
-    "Compendium/books/forgotten-realms-heroes-of-faerun/8-atlas-of-faerun.md",
-    "Compendium/books/forgotten-realms-heroes-of-faerun/7-chapter-6-factions-of-the-realms.md",
-    "Compendium/tables/adventuring-gear-frhof.md",
-    "Compendium/deities/theros-athreos-mot.md",
-    "Compendium/deities/deities.md",
-    "Compendium/books/mythic-odysseys-of-theros/3-gods-of-theros.md",
-    "Compendium/supernatural-gifts/anvilwrought-mot.md",
-    "Compendium/supernatural-gifts/heroic-destiny-mot.md",
-    "Compendium/tables/gods-of-theros-mot.md",
-    "Compendium/books/mythic-odysseys-of-theros/2-character-creation.md",
-    "Compendium/books/mythic-odysseys-of-theros/1-welcome-to-theros.md",
-    "Compendium/books/mythic-odysseys-of-theros/7-friends-and-foes.md",
-    "Compendium/books/mythic-odysseys-of-theros/8-credits.md",
-    "Compendium/supernatural-gifts/supernatural-gifts.md",
+    "Compendium/spells/darkness-xphb.md",
+    "Compendium/spells/spells.md",
+    "Compendium/rules/senses.md",
+    "Compendium/rules/variant-rules/darkness-rules-xphb.md",
+    "Compendium/rules/item-types.md",
+    "Compendium/tables/cover-table-xphb.md",
+    "Compendium/rules/variant-rules/firearms-rules-xdmg.md",
+    "Compendium/rules/variant-rules/explosives-rules-xdmg.md",
+    "Compendium/bestiary/legendary-group/arasta-legendary-mot.md",
+    "Compendium/spells/giant-insect-spell-xphb.md",
+    "Compendium/bestiary/humanoid/oracle-npc-mot.md",
+    "Compendium/books/players-handbook-2024/phb-12-credits.md",
+    "Compendium/books/dungeon-masters-guide-2024/dmg-12-credits.md",
+    "Compendium/vehicles/apparatus-of-kwalish-vehicle-xdmg.md",
+    "Compendium/decks/deck-of-many-things-cards-xdmg.md",
+    "Compendium/decks/deck-of-illusions-cards-xdmg.md",
+    "Compendium/bestiary/legendary-group/kraken-legendary-xmm.md",
+    "Compendium/bestiary/legendary-group/vampire-legendary-xmm.md",
+    "Compendium/bestiary/legendary-group/mummy-lord-legendary-xmm.md",
+    "Compendium/bestiary/legendary-group/lich-legendary-xmm.md",
+    "Compendium/bestiary/legendary-group/dracolich-legendary-xmm.md",
+    "Compendium/bestiary/legendary-group/demilich-legendary-xmm.md",
+    "Compendium/bestiary/legendary-group/death-tyrant-legendary-xmm.md",
+    "Compendium/bestiary/legendary-group/arch-hag-legendary-xmm.md",
+    "Compendium/bestiary/legendary-group/shadow-dragon-legendary-xmm.md",
+    "Compendium/bestiary/legendary-group/unicorn-legendary-xmm.md",
     "Compendium/supernatural-gifts",
     "mythic-odysseys-of-theros/Character Creation",
     "mythic-odysseys-of-theros/img/086-04-11.webp",

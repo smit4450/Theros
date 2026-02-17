@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Level 2
 
-You can see normally in [[dim-light-xphb|Dim Light]] and [[darkness-xphb|Darkness]]—both magical and nonmagical—within 120 feet of yourself.
+You can see normally in [[dim-light-xphb|Dim Light]] and [[darkness-rules-xphb|Darkness]]—both magical and nonmagical—within 120 feet of yourself.

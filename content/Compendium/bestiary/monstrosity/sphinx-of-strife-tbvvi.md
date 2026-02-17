@@ -54,7 +54,7 @@ aliases: ["Sphinx of Strife"]
     "name": "Inscrutable"
   - "desc": "The sphinx's weapon attacks are magical."
     "name": "Magic Weapons"
-  - "desc": "The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared: • Cantrips (at will): [[mage-hand-xphb|Mage Hand]], [[minor-illusion-xphb|Minor Illusion]], prestidigitation • 1st level (4 slots): [[detect-magic-xphb|Detect Magic]], [[identify-xphb|Identify]], shield • 2nd level (3 slots): [[darkness-xphb|Darkness]], [[locate-object-xphb|Locate Object]], suggestion • 3rd level (3 slots): [[dispel-magic-xphb|Dispel Magic]], [[remove-curse-xphb|Remove Curse]], tongues • 4th level (3 slots): [[banishment-xphb|Banishment]], greater invisibility • 5th level (1 slot): legend lore"
+  - "desc": "The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared: • Cantrips (at will): [[mage-hand-xphb|Mage Hand]], [[minor-illusion-xphb|Minor Illusion]], prestidigitation • 1st level (4 slots): [[detect-magic-xphb|Detect Magic]], [[identify-xphb|Identify]], shield • 2nd level (3 slots): [[darkness-rules-xphb|Darkness]], [[locate-object-xphb|Locate Object]], suggestion • 3rd level (3 slots): [[dispel-magic-xphb|Dispel Magic]], [[remove-curse-xphb|Remove Curse]], tongues • 4th level (3 slots): [[banishment-xphb|Banishment]], greater invisibility • 5th level (1 slot): legend lore"
     "name": "Spellcasting"
 "actions":
   - "desc": "The sphinx makes two claw attacks."

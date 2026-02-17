@@ -14,4 +14,4 @@ aliases:
 
 **Prerequisite**: Level 5
 
-While you're in an area of [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]], you can cast [[invisibility-xphb|Invisibility]] on yourself without expending a spell slot.
+While you're in an area of [[dim-light-xphb|Dim Light]] or [[darkness-rules-xphb|Darkness]], you can cast [[invisibility-xphb|Invisibility]] on yourself without expending a spell slot.

@@ -89,7 +89,7 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
     "name": "Draining Swipe"
 "bonus_actions":
   - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-xphb|Darkness]], the shadow\
+      \ or [[darkness-rules-xphb|Darkness]], the shadow\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

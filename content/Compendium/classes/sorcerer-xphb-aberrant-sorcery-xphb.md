@@ -81,7 +81,7 @@ When you cast any level 1+ spell from your Psionic Spells feature, you can cast 
 
 ### Psychic Defenses (Level 6)
 
-You have [[resistance-xphb|Resistance]] to Psychic damage, and you have [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] condition.
+You have [[resistance-rules-xphb|Resistance]] to Psychic damage, and you have [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] condition.
 
 ### Revelation in Flesh (Level 14)
 
@@ -97,7 +97,7 @@ You gain a [[fly-speed-xphb|Fly Speed]] equal to your [[speed-xphb|Speed]], and 
 
 #### See the Invisible
 
-You can see any [[conditions#Invisible|Invisible]] creature within 60 feet of yourself that isn't behind [[cover-xphb|Total Cover]]. Your eyes also turn black or become writhing sensory tendrils.
+You can see any [[conditions#Invisible|Invisible]] creature within 60 feet of yourself that isn't behind [[cover-table-xphb|Total Cover]]. Your eyes also turn black or become writhing sensory tendrils.
 
 #### Wormlike Movement
 

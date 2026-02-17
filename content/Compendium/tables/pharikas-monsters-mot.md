@@ -24,7 +24,7 @@ aliases:
 | 8 | [[assassin-xmm|Assassin]] |
 | 8 | [[hydra-xmm|Hydra]] |
 | 8 | [[spirit-naga-xmm|Spirit naga]] |
-| 17 | [[hythonia-mot|Hythonia]] |
+| 17 | [[hythonia-legendary-mot|Hythonia]] |
 ^pharikas-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

@@ -43,7 +43,7 @@ While attuned to the axe, you gain the following benefits:
 - **Darkvision.** You gain [[senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[senses#Darkvision|Darkvision]], its range increases by 60 feet.  
 - **Fortitude of Stone.** Your Constitution increases by 2, to a maximum of 20.  
 - **Gifts of the Creator.** You have proficiency with [[brewers-supplies-xphb|Brewer's Supplies]], [[masons-tools-xphb|Mason's Tools]], and [[smiths-tools-xphb|Smith's Tools]].  
-- **One with the Forge.** You have [[immunity-xphb|Immunity]] to Poison damage and [[resistance-xphb|Resistance]] to Fire damage.  
+- **One with the Forge.** You have [[immunity-xphb|Immunity]] to Poison damage and [[resistance-rules-xphb|Resistance]] to Fire damage.  
 - **Sunder.** When you hit an object with the axe, the object takes the maximum amount of damage possible.  
 
 ## Conjure Earth Elemental

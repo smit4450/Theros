@@ -28,9 +28,9 @@ aliases:
 | 7 | [[grick-ancient-xmm|Grick Ancient]], [[mind-flayer-xmm|Mind Flayer]], [[stone-giant-xmm|Stone Giant]], [[violet-fungus-necrohulk-xmm|Violet Fungus Necrohulk]] |
 | 8 | [[cloaker-xmm|Cloaker]], [[fomorian-xmm|Fomorian]], [[spirit-naga-xmm|Spirit Naga]], [[vampire-nightbringer-xmm|Vampire Nightbringer]] |
 | 9 | [[fire-giant-xmm|Fire Giant]] |
-| 10 | [[aboleth-xmm|Aboleth]], [[cyclops-oracle-xmm|Cyclops Oracle]] |
+| 10 | [[aboleth-legendary-xmm|Aboleth]], [[cyclops-oracle-xmm|Cyclops Oracle]] |
 | 11 | [[behir-xmm|Behir]], [[dao-xmm|Dao]], [[mind-flayer-arcanist-xmm|Mind Flayer Arcanist]] |
-| 13 | [[beholder-xmm|Beholder]], [[shadow-dragon-xmm|Shadow Dragon]], [[vampire-xmm|Vampire]] |
-| 14 | [[death-tyrant-xmm|Death Tyrant]] |
+| 13 | [[beholder-legendary-xmm|Beholder]], [[shadow-dragon-legendary-xmm|Shadow Dragon]], [[vampire-legendary-xmm|Vampire]] |
+| 14 | [[death-tyrant-legendary-xmm|Death Tyrant]] |
 | 15 | [[purple-worm-xmm|Purple Worm]], [[salamander-inferno-master-xmm|Salamander Inferno Master]], [[vampire-umbral-lord-xmm|Vampire Umbral Lord]] |
 ^underdark-monsters

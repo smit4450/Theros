@@ -19,6 +19,6 @@ aliases:
 | 2 | Believing in the holiness of a terrible beast, Klothys's [[priest-acolyte-xmm|acolytes]] murder heroes sent to deal with it. |
 | 3 | Certain that civilization offends fate, a [[priest-xmm|priest]] raises a herd of [[typhon-mot|typhons]] to release on a city. |
 | 4 | Insulted [[satyr-reveler-mot|satyr revelers]] (see "chapter 6") channel Klothys's magic to drive a polis's priests into embarrassing debauchery. |
-| 5 | An [[oracle-mot|oracle]] (see "chapter 6") knows it is a character's destiny to serve Klothys. The seer manufactures tragedy for the individual to provoke this revelation. |
+| 5 | An [[oracle-npc-mot|oracle]] (see "chapter 6") knows it is a character's destiny to serve Klothys. The seer manufactures tragedy for the individual to provoke this revelation. |
 | 6 | A [[cultist-fanatic-xmm|cult fanatic]] of Klothys believes that the characters' deeds mark them as servants of the titans, destined to free one of those ancient terrors. |
 ^klothyss-villains

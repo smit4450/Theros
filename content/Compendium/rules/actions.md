@@ -93,7 +93,7 @@ _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([[skills#Stealth|Stealth]]) check while you're [[heavily-obscured-xphb|Heavily Obscured]] or behind [[cover-xphb|Three-Quarters Cover or Total Cover]], and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
+With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([[skills#Stealth|Stealth]]) check while you're [[heavily-obscured-xphb|Heavily Obscured]] or behind [[cover-table-xphb|Three-Quarters Cover or Total Cover]], and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
 On a successful check, you have the [[conditions#Invisible|Invisible]] condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ([[skills#Perception|Perception]]) check.
 

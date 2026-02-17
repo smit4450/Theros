@@ -41,7 +41,7 @@ For the duration, sunlight spreads from a point within range and fills a 60-foot
 
 Alternatively, you cast the spell on an object that isn't being worn or carried, causing the sunlight to fill a 60-foot [[emanation-area-of-effect-xphb|Emanation]] originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight.
 
-If any of this spell's area overlaps with an area of [[darkness-xphb|Darkness]] created by a spell of level 3 or lower, that other spell is dispelled.
+If any of this spell's area overlaps with an area of [[darkness-rules-xphb|Darkness]] created by a spell of level 3 or lower, that other spell is dispelled.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-sorcerer|Sorcerer]]; [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 

@@ -46,7 +46,7 @@ aliases: ["Protection from Energy"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-For the duration, the willing creature you touch has [[resistance-xphb|Resistance]] to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
+For the duration, the willing creature you touch has [[resistance-rules-xphb|Resistance]] to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger|Ranger]]; [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
 

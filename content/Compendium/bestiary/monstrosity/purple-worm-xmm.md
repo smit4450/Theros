@@ -74,7 +74,7 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
       \ The target is swallowed by the worm, and the [[conditions#Grappled|Grappled]]\
       \ condition ends. A swallowed creature has the [[conditions#Blinded|Blinded]]\
       \ and [[conditions#Restrained|Restrained]] conditions, has\
-      \ [[cover-xphb|Total Cover]] against attacks\
+      \ [[cover-table-xphb|Total Cover]] against attacks\
       \ and other effects outside the worm, and takes 17 (5d6) Acid damage at the\
       \ start of each of the worm's turns.\n\nIf the worm takes 30 damage or more\
       \ on a single turn from a creature inside it, the worm must succeed on a DC\

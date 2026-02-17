@@ -85,7 +85,7 @@ Driders also appear when whole communities are transformed by a wicked god's wra
       \ damage."
     "name": "Poison Burst"
 "bonus_actions":
-  - "desc": "The drider casts [[darkness-xphb|Darkness]], [[faerie-fire-xphb|Faerie\
+  - "desc": "The drider casts [[darkness-rules-xphb|Darkness]], [[faerie-fire-xphb|Faerie\
       \ Fire]], or [[web-xphb|Web]],\
       \ requiring no Material components and using Wisdom as the spellcasting ability\
       \ (spell save DC 14).\n"

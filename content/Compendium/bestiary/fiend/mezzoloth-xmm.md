@@ -90,7 +90,7 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
     "name": "Mercurial Trident"
   - "desc": "The mezzoloth casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n**1/day each:** [[cloudkill-xphb|Cloudkill]], [[darkness-xphb|Darkness]],\
+      \n**1/day each:** [[cloudkill-xphb|Cloudkill]], [[darkness-rules-xphb|Darkness]],\
       \ [[dispel-magic-xphb|Dispel Magic]]"
     "name": "Spellcasting"
 "bonus_actions":

@@ -89,7 +89,7 @@ You gain a [[fly-speed-xphb|Fly Speed]] equal to your [[speed-xphb|Speed]].
 
 #### Resistance
 
-You have [[resistance-xphb|Resistance]] to Cold, Lightning, and Thunder damage.
+You have [[resistance-rules-xphb|Resistance]] to Cold, Lightning, and Thunder damage.
 
 ### Oceanic Gift (Level 14)
 

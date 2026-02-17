@@ -91,7 +91,7 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
       \ damage, and the target has the [[conditions#Stunned|Stunned]]\
       \ condition until the start of the empyrean's next turn. The target can choose\
       \ not to be [[conditions#Stunned|Stunned]], in which case\
-      \ it takes an extra 21 Force damage that bypasses [[resistance-xphb|Resistance]]\
+      \ it takes an extra 21 Force damage that bypasses [[resistance-rules-xphb|Resistance]]\
       \ or [[immunity-xphb|Immunity]]."
     "name": "Sacred Weapon"
   - "desc": "*Ranged Attack Roll:* +15, range 600 ft. *Hit:* 35 (6d8 + 8) Necrotic\

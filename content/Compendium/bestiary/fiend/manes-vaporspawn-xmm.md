@@ -71,7 +71,7 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
     "name": "Claw"
 "bonus_actions":
   - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-xphb|Darkness]], the manes\
+      \ or [[darkness-rules-xphb|Darkness]], the manes\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

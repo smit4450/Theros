@@ -74,7 +74,7 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
-  \ by magical [[darkness-xphb|Darkness]]), passive\
+  \ by magical [[darkness-rules-xphb|Darkness]]), passive\
   \ Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "9"

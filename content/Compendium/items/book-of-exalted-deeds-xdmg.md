@@ -21,13 +21,13 @@ The Book of Exalted Deeds rarely lingers in one place. As soon as the book is re
 
 A heavy clasp, wrought to look like angel wings, keeps the book's contents secure. Only a creature that is attuned to the book can release the clasp that holds it shut. Once the book is opened, the attuned creature must spend 80 hours reading and studying the book to digest its contents and gain its benefits.
 
-Other creatures that peruse the book's open pages can read the text but glean no deeper meaning and reap no benefits. A Fiend, an Undead, or a servant of a god from the Lower Planes that tries to read from the book takes `24d6` Radiant damage. This damage ignores [[resistance-xphb|Resistance]] and [[immunity-xphb|Immunity]], and it can't be reduced or avoided by any means. A creature reduced to 0 [[hit-points-xphb|Hit Points]] by this damage disappears in a flash and is destroyed, leaving its possessions behind. The book then vanishes, and the creature's [[attunement-xphb|Attunement]] to it ends.
+Other creatures that peruse the book's open pages can read the text but glean no deeper meaning and reap no benefits. A Fiend, an Undead, or a servant of a god from the Lower Planes that tries to read from the book takes `24d6` Radiant damage. This damage ignores [[resistance-rules-xphb|Resistance]] and [[immunity-xphb|Immunity]], and it can't be reduced or avoided by any means. A creature reduced to 0 [[hit-points-xphb|Hit Points]] by this damage disappears in a flash and is destroyed, leaving its possessions behind. The book then vanishes, and the creature's [[attunement-xphb|Attunement]] to it ends.
 
 Benefits granted by the Book of Exalted Deeds last only as long as you strive to do good. If you fail to perform at least one act of kindness or generosity within the span of 10 days, or if you willingly perform an evil act, you lose all the benefits granted by the book.
 
 ## Celestial Calm
 
-While attuned to the book, you have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#Frightened|Frightened]] conditions and [[resistance-xphb|Resistance]] to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
+While attuned to the book, you have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#Frightened|Frightened]] conditions and [[resistance-rules-xphb|Resistance]] to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
 
 ## Divine Wisdom
 

@@ -51,7 +51,7 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
-  \ by magical [[darkness-xphb|Darkness]]), passive\
+  \ by magical [[darkness-rules-xphb|Darkness]]), passive\
   \ Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "0"

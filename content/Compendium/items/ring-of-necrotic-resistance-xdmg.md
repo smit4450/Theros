@@ -14,6 +14,6 @@ aliases:
 
 
 
-You have [[resistance-xphb|Resistance]] to necrotic damage while wearing this ring. The ring is set with jet.
+You have [[resistance-rules-xphb|Resistance]] to necrotic damage while wearing this ring. The ring is set with jet.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

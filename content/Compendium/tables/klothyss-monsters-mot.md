@@ -18,7 +18,7 @@ aliases:
 | 1 | [[satyr-reveler-mot|Satyr reveler]] |
 | 2 | [[satyr-thornbearer-mot|Satyr thornbearer]] |
 | 3 | [[green-hag-xmm|Green hag]] |
-| 4 | [[oracle-mot|Oracle]] |
+| 4 | [[oracle-npc-mot|Oracle]] |
 | 6 | [[annis-hag-vgm|Annis hag]] |
 | 6 | [[cyclops-sentry-xmm|Cyclops]]* |
 | 6 | [[underworld-cerberus-mot|Underworld cerberus]] |

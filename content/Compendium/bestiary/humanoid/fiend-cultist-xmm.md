@@ -99,7 +99,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "name": "[[skills#Religion|Religion]]"
     "desc": "+4"
 "senses": "[[senses#Darkvision|Darkvision]] 90 ft. (unimpeded by\
-  \ magical [[darkness-xphb|Darkness]]), passive\
+  \ magical [[darkness-rules-xphb|Darkness]]), passive\
   \ Perception 17"
 "languages": "Abyssal, Common, Infernal"
 "cr": "8"

@@ -22,7 +22,7 @@ aliases:
 | 2 | [[satyr-thornbearer-mot|Satyr thornbearer]] |
 | 3 | [[archer-vgm|Archer]] |
 | 5 | [[shambling-mound-xmm|Shambling mound]] |
-| 5 | [[unicorn-xmm|Unicorn]]* |
+| 5 | [[unicorn-legendary-xmm|Unicorn]]* |
 | 9 | [[treant-xmm|Treant]] |
 | 12 | [[ironscale-hydra-mot|Ironscale hydra]] |
 | 19 | [[polukranos-mot|Polukranos]] |

@@ -68,7 +68,7 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
       \ the darkmantle from itself, doing so with a successful DC 13 Strength ([[skills#Athletics|Athletics]])\
       \ check. On its turn, the darkmantle can detach itself by using 5 feet of movement."
     "name": "Crush"
-  - "desc": "Magical [[darkness-xphb|Darkness]] fills\
+  - "desc": "Magical [[darkness-rules-xphb|Darkness]] fills\
       \ a 15-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the darkmantle. This effect lasts while the darkmantle maintains\
       \ [[conditions#Concentration|Concentration]] on it, up to\

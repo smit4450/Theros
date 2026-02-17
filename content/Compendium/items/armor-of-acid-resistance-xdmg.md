@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [[resistance-xphb|Resistance]] to acid damage while you wear this armor.
+You have [[resistance-rules-xphb|Resistance]] to acid damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Acid Resistance](#Breastplate%20of%20Acid%20Resistance)

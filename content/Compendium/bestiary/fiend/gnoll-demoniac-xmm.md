@@ -71,7 +71,7 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ 20 (5d6 + 3) Poison damage."
     "name": "Abyssal Strike"
   - "desc": "The gnoll conjures a 30-foot [[cube-area-of-effect-xphb|Cube]]\
-      \ of magical [[darkness-xphb|Darkness]] originating\
+      \ of magical [[darkness-rules-xphb|Darkness]] originating\
       \ from a point it can see within 60 feet, which lasts for 1 minute or until\
       \ the gnoll's [[conditions#Concentration|Concentration]]\
       \ ends on it. This area is [[difficult-terrain-xphb|Difficult Terrain]].\

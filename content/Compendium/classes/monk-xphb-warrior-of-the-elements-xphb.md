@@ -85,7 +85,7 @@ While your Elemental Attunement is active, you also gain the following benefits.
 
 #### Damage Resistance
 
-You gain [[resistance-xphb|Resistance]] to one of the following damage types of your choice: Acid, Cold, Fire, Lightning, or Thunder. At the start of each of your turns, you can change this choice.
+You gain [[resistance-rules-xphb|Resistance]] to one of the following damage types of your choice: Acid, Cold, Fire, Lightning, or Thunder. At the start of each of your turns, you can change this choice.
 
 #### Destructive Stride
 

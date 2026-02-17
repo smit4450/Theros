@@ -64,7 +64,7 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
   - "desc": "The cube fills its entire space and is transparent. Other creatures can\
       \ enter that space, but a creature that does so is subjected to the cube's Engulf\
       \ and has [[disadvantage-xphb|Disadvantage]]\
-      \ on the saving throw.\n\nCreatures inside the cube have [[cover-xphb|Total Cover]],\
+      \ on the saving throw.\n\nCreatures inside the cube have [[cover-table-xphb|Total Cover]],\
       \ and the cube can hold one Large creature or up to four Medium or Small creatures\
       \ inside itself at a time.\n\nAs an action, a creature within 5 feet of the\
       \ cube can pull a creature or an object out of the cube by succeeding on a DC\

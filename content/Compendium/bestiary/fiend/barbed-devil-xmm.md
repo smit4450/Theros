@@ -62,7 +62,7 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "[[senses#Darkvision|Darkvision]] 120 ft. (unimpeded\
-  \ by magical [[darkness-xphb|Darkness]]), passive\
+  \ by magical [[darkness-rules-xphb|Darkness]]), passive\
   \ Perception 18"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "5"

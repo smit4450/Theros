@@ -27,7 +27,7 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 | 04-06 | [[archmage-xmm|Archmage]] |
 | 07-09 | [[assassin-xmm|Assassin]] |
 | 10-12 | [[bandit-captain-xmm|Bandit Captain]] |
-| 13-15 | [[beholder-xmm|Beholder]] |
+| 13-15 | [[beholder-legendary-xmm|Beholder]] |
 | 16-18 | [[berserker-xmm|Berserker]] |
 | 19-21 | [[bugbear-warrior-xmm|Bugbear Warrior]] |
 | 22-24 | [[cloud-giant-xmm|Cloud Giant]] |
@@ -45,7 +45,7 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 | 58-60 | [[iron-golem-xmm|Iron Golem]] |
 | 61-63 | [[knight-xmm|Knight]] |
 | 64-66 | [[kobold-warrior-xmm|Kobold Warrior]] |
-| 67-69 | [[lich-xmm|Lich]] |
+| 67-69 | [[lich-legendary-xmm|Lich]] |
 | 70-72 | [[medusa-xmm|Medusa]] |
 | 73-75 | [[night-hag-xmm|Night Hag]] |
 | 76-78 | [[ogre-xmm|Ogre]] |

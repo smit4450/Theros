@@ -26,7 +26,7 @@ aliases: ["Aura of Life"]
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and your allies have [[resistance-xphb|Resistance]] to Necrotic damage, and your [[hit-points-xphb|Hit Point]] maximums can't be reduced. If an ally with 0 [[hit-points-xphb|Hit Points]] starts its turn in the aura, that ally regains 1 [[hit-points-xphb|Hit Point]].
+An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and your allies have [[resistance-rules-xphb|Resistance]] to Necrotic damage, and your [[hit-points-xphb|Hit Point]] maximums can't be reduced. If an ally with 0 [[hit-points-xphb|Hit Points]] starts its turn in the aura, that ally regains 1 [[hit-points-xphb|Hit Point]].
 
 **Classes**: [[list-spells-classes-bard|Bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]
 

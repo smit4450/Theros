@@ -24,7 +24,7 @@ You have [[senses#Darkvision|Darkvision]] with a range of 120 feet.
 
 ### Dwarven Resilience
 
-You have [[resistance-xphb|Resistance]] to Poison damage. You also have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Poisoned|Poisoned]] condition.
+You have [[resistance-rules-xphb|Resistance]] to Poison damage. You also have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Poisoned|Poisoned]] condition.
 
 ### Dwarven Toughness
 

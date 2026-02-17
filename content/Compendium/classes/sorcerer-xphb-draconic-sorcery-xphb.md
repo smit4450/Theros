@@ -77,7 +77,7 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.
 
-You have [[resistance-xphb|Resistance]] to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
+You have [[resistance-rules-xphb|Resistance]] to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
 
 ### Dragon Wings (Level 14)
 

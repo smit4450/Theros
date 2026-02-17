@@ -111,7 +111,7 @@ In addition, when you finish a [[short-rest-xphb|Short Rest]], you can choose ex
 
 ### Nature's Ward (Level 10)
 
-You are immune to the [[conditions#Poisoned|Poisoned]] condition, and you have [[resistance-xphb|Resistance]] to a damage type associated with your current land choice in the Circle Spells feature, as shown in the [[skills#Nature|Nature]]'s Ward table.
+You are immune to the [[conditions#Poisoned|Poisoned]] condition, and you have [[resistance-rules-xphb|Resistance]] to a damage type associated with your current land choice in the Circle Spells feature, as shown in the [[skills#Nature|Nature]]'s Ward table.
 
 **Nature's Ward**
 
@@ -125,6 +125,6 @@ You are immune to the [[conditions#Poisoned|Poisoned]] condition, and you have [
 
 ### Nature's Sanctuary (Level 14)
 
-As a [[actions#Magic|Magic]] action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [[cube-area-of-effect-xphb|Cube]] on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [[conditions#Incapacitated|Incapacitated]] condition or die. You and your allies have [[cover-xphb|Half Cover]] while in that area, and your allies gain the current [[resistance-xphb|Resistance]] of your [[skills#Nature|Nature]]'s Ward while there.
+As a [[actions#Magic|Magic]] action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [[cube-area-of-effect-xphb|Cube]] on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [[conditions#Incapacitated|Incapacitated]] condition or die. You and your allies have [[cover-table-xphb|Half Cover]] while in that area, and your allies gain the current [[resistance-rules-xphb|Resistance]] of your [[skills#Nature|Nature]]'s Ward while there.
 
 As a [[bonus-action-xphb|Bonus Action]], you can move the [[cube-area-of-effect-xphb|Cube]] up to 60 feet to ground within 120 feet of yourself.

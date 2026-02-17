@@ -21,7 +21,7 @@ aliases:
 - **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-You have [[resistance-xphb|Resistance]] to Fire damage while you hold this staff.
+You have [[resistance-rules-xphb|Resistance]] to Fire damage while you hold this staff.
 
 ## Spells
 

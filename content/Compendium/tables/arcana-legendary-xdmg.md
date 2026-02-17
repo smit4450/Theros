@@ -15,13 +15,13 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–04 | [[apparatus-of-kwalish-xdmg|Apparatus of Kwalish]] |
+| 01–04 | [[apparatus-of-kwalish-vehicle-xdmg|Apparatus of Kwalish]] |
 | 05–08 | [[cloak-of-invisibility-xdmg|Cloak of Invisibility]] |
 | 09–12 | [[crystal-ball-of-mind-reading-xdmg|Crystal Ball of Mind Reading]] |
 | 13–16 | [[crystal-ball-of-telepathy-xdmg|Crystal Ball of Telepathy]] |
 | 17–20 | [[crystal-ball-of-true-seeing-xdmg|Crystal Ball of True Seeing]] |
 | 21–22 | [[cubic-gate-xdmg|Cubic Gate]] |
-| 23 | [[deck-of-many-things-xdmg|Deck of Many Things]] |
+| 23 | [[deck-of-many-things-cards-xdmg|Deck of Many Things]] |
 | 24–27 | [[enspelled-staff-xdmg|Enspelled Staff]] (level 6, 7, or 8 spell) |
 | 28–31 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-greater-absorption-xdmg|greater absorption]], [[ioun-stone-mastery-xdmg|mastery]], or [[ioun-stone-regeneration-xdmg|regeneration]]) |
 | 32–33 | [[iron-flask-xdmg|Iron Flask]] |

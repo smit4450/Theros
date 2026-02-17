@@ -17,7 +17,7 @@ aliases:
 |-----------------|-----------------|
 | [[aarakocra-skirmisher-xmm|Aarakocra]] | [[aarakocra-skirmisher-xmm|Aarakocra Skirmisher]] |
 | [[priest-acolyte-xmm|Acolyte]] | [[priest-acolyte-xmm|Priest Acolyte]] |
-| [[dracolich-xmm|Adult Blue Dracolich]] | [[dracolich-xmm|Dracolich]] |
+| [[dracolich-legendary-xmm|Adult Blue Dracolich]] | [[dracolich-legendary-xmm|Dracolich]] |
 | [[sphinx-of-valor-xmm|Androsphinx]] | [[sphinx-of-valor-xmm|Sphinx of Valor]] |
 | [[azer-sentinel-xmm|Azer]] | [[azer-sentinel-xmm|Azer Sentinel]] |
 | [[bugbear-warrior-xmm|Bugbear]] | [[bugbear-warrior-xmm|Bugbear Warrior]] |
@@ -72,6 +72,6 @@ aliases:
 | [[warrior-infantry-xmm|Tribal Warrior]] | [[warrior-infantry-xmm|Warrior Infantry]] |
 | [[modron-tridrone-xmm|Tridrone]] | [[modron-tridrone-xmm|Modron Tridrone]] |
 | [[warrior-veteran-xmm|Veteran]] | [[warrior-veteran-xmm|Warrior Veteran]] |
-| [[shadow-dragon-xmm|Young Red Shadow Dragon]] | [[shadow-dragon-xmm|Shadow Dragon]] |
+| [[shadow-dragon-legendary-xmm|Young Red Shadow Dragon]] | [[shadow-dragon-legendary-xmm|Shadow Dragon]] |
 | [[yuan-ti-infiltrator-xmm|Yuan-ti Pureblood]] | [[yuan-ti-infiltrator-xmm|Yuan-ti Infiltrator]] |
 ^stat-block-conversions

@@ -15,7 +15,7 @@ aliases:
 
 | dice: d6 | Villain |
 |----------|---------|
-| 1 | An [[oracle-mot|oracle]] (see "chapter 6") follows omens to find those who have been resurrected, claiming they owe Athreos a debt. |
+| 1 | An [[oracle-npc-mot|oracle]] (see "chapter 6") follows omens to find those who have been resurrected, claiming they owe Athreos a debt. |
 | 2 | A mercenary ([[gladiator-xmm|gladiator]]) accuses a community of harboring Returned and threatens to claim their leader's life to restore the balance. |
 | 3 | A warmongering [[noble-xmm|noble]] rallies the public against a necropolis, encouraging a war between the living and the dead. |
 | 4 | A group of [[cultist-fanatic-xmm|cult fanatics]] charges exorbitant prices for funeral rites, threatening to lead the dead astray unless they're shown proper respect. |

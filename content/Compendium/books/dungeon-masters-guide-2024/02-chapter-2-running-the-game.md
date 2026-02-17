@@ -921,7 +921,7 @@ To determine whether there is line of sight between two spaces, pick a corner of
 
 #### Cover
 
-The accompanying diagrams illustrate cover on squares or hexes. To determine whether a target has cover against an attack or other effect, choose a corner of the attacker's space or the point of origin of an area of effect. Then trace imaginary lines from that corner to every corner of any one square the target occupies. If one or two of those lines are blocked by an obstacle (including a creature), the target has [[cover-xphb|Half Cover]]. If three or four of those lines are blocked but the attack or effect can still reach the target (such as when the target is behind an arrow slit), the target has [[cover-xphb|Three-Quarters Cover]].
+The accompanying diagrams illustrate cover on squares or hexes. To determine whether a target has cover against an attack or other effect, choose a corner of the attacker's space or the point of origin of an area of effect. Then trace imaginary lines from that corner to every corner of any one square the target occupies. If one or two of those lines are blocked by an obstacle (including a creature), the target has [[cover-table-xphb|Half Cover]]. If three or four of those lines are blocked but the attack or effect can still reach the target (such as when the target is behind an arrow slit), the target has [[cover-table-xphb|Three-Quarters Cover]].
 
 On hexes, use the same procedure as above, drawing lines between the corners of the hexagons. The target has Half Cover if one, two, or three lines are blocked by an obstacle, and Three-Quarters Cover if four or more lines are blocked but the attack or effect can still reach the target.
 

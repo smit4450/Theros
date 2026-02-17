@@ -23,7 +23,7 @@ aliases:
 | 21–24 | For the next minute, all your spells with a casting time of an action have a casting time of a [[bonus-action-xphb|Bonus Action]]. |
 | 25–28 | You are transported to the Astral Plane until the end of your next turn. You then return to the space you previously occupied or the nearest unoccupied space if that space is occupied. |
 | 29–32 | The next time you cast a spell that deals damage within the next minute, don't roll the spell's damage dice for the damage. Instead use the highest number possible for each damage die. |
-| 33–36 | You have [[resistance-xphb|Resistance]] to all damage for the next minute. |
+| 33–36 | You have [[resistance-rules-xphb|Resistance]] to all damage for the next minute. |
 | 37–40 | You turn into a potted plant until the start of your next turn. While you're a plant, you have the [[conditions#Incapacitated|Incapacitated]] condition and have [[vulnerability-xphb|Vulnerability]] to all damage. If you drop to 0 [[hit-points-xphb|Hit Points]], your pot breaks, and your form reverts. |
 | 41–44 | For the next minute, you can teleport up to 20 feet as a [[bonus-action-xphb|Bonus Action]] on each of your turns. |
 | 45–48 | You and up to three creatures you choose within 30 feet of you have the [[conditions#Invisible|Invisible]] condition for 1 minute. This invisibility ends on a creature immediately after it makes an attack roll, deals damage, or casts a spell. |

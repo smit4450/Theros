@@ -101,11 +101,11 @@ When you deal damage to a target with your Psionic Strike, you can force the tar
 
 ### Guarded Mind (Level 10)
 
-You have [[resistance-xphb|Resistance]] to Psychic damage. Moreover, if you start your turn with the [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself giving you those conditions.
+You have [[resistance-rules-xphb|Resistance]] to Psychic damage. Moreover, if you start your turn with the [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself giving you those conditions.
 
 ### Bulwark of Force (Level 15)
 
-You can shield yourself and others with telekinetic force. As a [[bonus-action-xphb|Bonus Action]], you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has [[cover-xphb|Half Cover]] for 1 minute or until you have the [[conditions#Incapacitated|Incapacitated]] condition.
+You can shield yourself and others with telekinetic force. As a [[bonus-action-xphb|Bonus Action]], you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has [[cover-table-xphb|Half Cover]] for 1 minute or until you have the [[conditions#Incapacitated|Incapacitated]] condition.
 
 Once you use this feature, you can't do so again until you finish a [[long-rest-xphb|Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 

@@ -61,7 +61,7 @@ When an enemy you can see within 30 feet of yourself takes damage and is [[condi
 
 ### Dread Allegiance (Level 3)
 
-Choose one of the Dead Three: [[faerunian-bane-frhof|Bane]], [[faerunian-bhaal-frhof|Bhaal]], or [[faerunian-myrkul-frhof|Myrkul]]. You gain [[resistance-xphb|Resistance]] to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [[long-rest-xphb|Long Rest]], you can change your choice.
+Choose one of the Dead Three: [[faerunian-bane-frhof|Bane]], [[faerunian-bhaal-frhof|Bhaal]], or [[faerunian-myrkul-frhof|Myrkul]]. You gain [[resistance-rules-xphb|Resistance]] to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [[long-rest-xphb|Long Rest]], you can change your choice.
 
 | God | Damage Resistance | Cantrip |
 |-----|-------------------|---------|
@@ -83,7 +83,7 @@ The [[conditions#Frightened|Frightened]] target repeats the save at the end of e
 
 ### Aura of Malevolence (Level 13)
 
-You radiate malignant power associated with one of the Dead Three. When you use [[rogue-xphb-scion-of-the-three-frhof#Bloodthirst%20(Level%203|Bloodthirst]]) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [[resistance-xphb|Resistance]] granted by your choice in the Dread Allegiance feature. [[damage-xphb|Damage]] dealt by this feature ignores [[resistance-xphb|Resistance]].
+You radiate malignant power associated with one of the Dead Three. When you use [[rogue-xphb-scion-of-the-three-frhof#Bloodthirst%20(Level%203|Bloodthirst]]) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [[resistance-rules-xphb|Resistance]] granted by your choice in the Dread Allegiance feature. [[damage-xphb|Damage]] dealt by this feature ignores [[resistance-rules-xphb|Resistance]].
 
 ### Dread Incarnate (Level 17)
 

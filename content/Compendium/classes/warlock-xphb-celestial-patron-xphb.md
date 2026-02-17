@@ -75,7 +75,7 @@ As a [[bonus-action-xphb|Bonus Action]], you can heal yourself or one creature y
 
 ### Radiant Soul (Level 6)
 
-Your link to your patron allows you to serve as a conduit for radiant energy. You have [[resistance-xphb|Resistance]] to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.
+Your link to your patron allows you to serve as a conduit for radiant energy. You have [[resistance-rules-xphb|Resistance]] to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.
 
 ### Celestial Resilience (Level 10)
 

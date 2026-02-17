@@ -20,5 +20,5 @@ aliases:
 | 3 | A [[mage-xmm|mage]] who lives in a secluded grove has been using a magic item to transform interlopers into boars. She claims that Nylea gave her this item. |
 | 4 | A [[druid-xmm|druid]] uses magic on fields near the border of the forest, creating animated plants to drive off farmers. |
 | 5 | A [[scout-xmm|scout]] has taken to hunting and eating sapient beings. What could have caused this gruesome turn? |
-| 6 | Those who follow a mysterious green [[unicorn-xmm|unicorn]] inevitably turn up dead, their bodies entangled in strangling vines. |
+| 6 | Those who follow a mysterious green [[unicorn-legendary-xmm|unicorn]] inevitably turn up dead, their bodies entangled in strangling vines. |
 ^nyleas-villains
