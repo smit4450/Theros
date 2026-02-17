@@ -3,8 +3,8 @@ title: Carpet of Flying, 3 ft. × 5 ft.
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
+- src/5e/xdmg
+- item/rarity/very-rare
 aliases: 
 - "Carpet of Flying, 3 ft. × 5 ft."
 ---

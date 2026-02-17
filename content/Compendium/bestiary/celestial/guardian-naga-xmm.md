@@ -3,14 +3,14 @@ title: Guardian Naga
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/upper
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+- src/5e/xmm
+- monster/cr/10
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/planar
+- monster/environment/upper
+- monster/size/large
+- monster/type/celestial
 statblock: inline
 aliases: ["Guardian Naga"]
 ---

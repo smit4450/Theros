@@ -3,13 +3,13 @@ title: Unicorn
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/feywild
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/feywild
+- monster/environment/forest
+- monster/environment/planar
+- monster/size/large
+- monster/type/celestial
 statblock: inline
 aliases: ["Unicorn"]
 ---

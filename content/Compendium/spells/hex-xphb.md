@@ -3,12 +3,12 @@ title: Hex
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/great-old-one-patron
+- src/5e/xphb
+- spell/class/warlock
+- spell/feat/fey-touched
+- spell/level/1st-level
+- spell/school/enchantment
+- spell/subclass/great-old-one-patron
 classes:
 - Warlock
 - Warlock (Great Old One Patron)

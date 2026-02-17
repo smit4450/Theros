@@ -3,9 +3,9 @@ title: "Dust of Nyx"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/potion
+- src/5e/gmoa
+- item/rarity/common
+- item/potion
 aliases: 
 - "Dust of Nyx"
 ---

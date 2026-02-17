@@ -3,10 +3,10 @@ title: Marshmist Titan
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvix
-- ttrpg-cli/monster/cr/19
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/giant
+- src/5e/tbvix
+- monster/cr/19
+- monster/size/g
+- monster/type/giant
 statblock: inline
 aliases: ["Marshmist Titan"]
 ---

@@ -9,10 +9,11 @@ export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 /**
  * Extracts the display name from a tag by taking only the last segment.
  * For example: "ttrpg-cli/spell/class/sorcerer" becomes "sorcerer"
+ * Handles trailing slashes by filtering out empty segments.
  */
 export function getTagDisplayName(tag: string): string {
-  const segments = tag.split("/")
-  return segments[segments.length - 1]
+  const segments = tag.split("/").filter(s => s !== "")
+  return segments.length > 0 ? segments[segments.length - 1] : tag
 }
 
 export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {

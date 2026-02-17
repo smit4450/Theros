@@ -3,8 +3,8 @@ title: Horn of Valhalla, Silver
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
+- src/5e/xdmg
+- item/rarity/rare
 aliases: 
 - "Horn of Valhalla, Silver"
 ---

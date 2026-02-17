@@ -3,12 +3,12 @@ title: "Drawmij's Instant Summons"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/conjuration
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/level/6th-level
+- spell/ritual
+- spell/school/conjuration
 classes:
 - Bard
 - Wizard

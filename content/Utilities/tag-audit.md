@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
   - json5e-note
 tags:
-  - type/utility
+  - utility/
   - status/active
 aliases:
   - Tag Audit
@@ -13,7 +13,10 @@ aliases:
 # Tag Audit Dashboard
 
 > [!tip] Usage
-> Run this note periodically (monthly recommended) to catch tag violations and inconsistencies. Each section uses Dataview queries to surface issues. Fix problems as you find them using **Tag Wrangler** (right-click tags in the tag pane).
+> Run this note periodically to catch tag violations. **Some queries are commented out** to prevent performance issues — uncomment them one at a time if needed. Use **Tag Wrangler** to fix issues (right-click tags in the tag pane).
+
+> [!warning] Performance
+> This dashboard processes thousands of files. If Obsidian freezes, close the note and wait a moment before reopening.
 
 ---
 
@@ -29,97 +32,92 @@ WHERE length(file.tags) = 0
   AND !contains(file.path, ".obsidian")
   AND !contains(file.path, "Assets")
   AND !contains(file.path, "Backgrounds")
+  AND !contains(file.path, "z_Templates")
 SORT file.folder ASC, file.name ASC
+LIMIT 50
 ```
 
 ---
 
-## Custom Notes Missing Type Tags
+## Notes Missing Status Tags
 
-Homebrew/custom notes that don't have a `type/` tag (compendium content uses `ttrpg-cli/` instead).
-
-```dataview
-TABLE file.tags AS "Current Tags"
-FROM ""
-WHERE !contains(file.path, "Compendium")
-  AND !contains(file.path, ".obsidian")
-  AND !contains(file.path, "Assets")
-  AND !contains(file.path, "Backgrounds")
-  AND length(file.tags) > 0
-  AND !any(file.tags, (t) => startswith(t, "type/"))
-  AND !any(file.tags, (t) => startswith(t, "ttrpg-cli/"))
-SORT file.name ASC
-```
-
----
-
-## Custom Notes Missing Status Tags
-
-Notes with `type/` tags but no `status/` tag.
+Notes (location, npc, lore, etc.) without a `status/` tag.
 
 ```dataview
 TABLE file.tags AS "Current Tags"
-FROM ""
-WHERE any(file.tags, (t) => startswith(t, "type/"))
-  AND !any(file.tags, (t) => startswith(t, "status/"))
+FROM #location OR #npc OR #lore OR #event OR #quest
+WHERE !any(file.tags, (t) => startswith(t, "status/")) 
+  AND !contains(file.tags, "utility/")
+  AND !contains(file.path, "z_Templates")
 SORT file.name ASC
+LIMIT 30
 ```
 
 ---
 
 ## Location Notes Missing Place Tags
 
-Notes tagged `type/location` but missing a `place/` tag.
+Notes tagged `location/` but missing a `place/` tag.
 
 ```dataview
 TABLE file.tags AS "Current Tags"
-FROM #type/location
-WHERE !any(file.tags, (t) => startswith(t, "place/"))
+FROM #location
+WHERE !any(file.tags, (t) => startswith(t, "place/")) 
+  AND !contains(file.tags, "utility/")
+  AND !contains(file.path, "z_Templates")
 SORT file.name ASC
+LIMIT 30
 ```
 
 ---
 
-## All Unique Tags (Spot Inconsistencies)
+## Top 50 Tags by Usage
 
-Full tag inventory sorted by usage count — look for typos, duplicates, or non-standard tags.
+Most common tags — look for typos or duplicates. **Warning: Expensive query.**
 
 ```dataview
 TABLE length(rows) AS "Count"
 FROM ""
 WHERE length(file.tags) > 0
+  AND !contains(file.path, "z_Templates")
 FLATTEN file.tags AS tag
 GROUP BY tag
 SORT length(rows) DESC
+LIMIT 50
 ```
 
 ---
 
-## Custom Tags Only (Excluding ttrpg-cli)
+## Custom Tags (Top 30)
 
-Just the hand-curated tags — easier to spot issues without the noise of auto-generated tags.
+Non-standard tags. **Warning: Expensive query.**
 
 ```dataview
 TABLE length(rows) AS "Count"
-FROM ""
+FROM "Mystic Arts" OR "Lore" OR "Utilities"
 WHERE length(file.tags) > 0
+  AND !contains(file.tags, "utility/")
+  AND !contains(file.path, "z_Templates")
 FLATTEN file.tags AS tag
-WHERE !startswith(tag, "ttrpg-cli/")
+WHERE !startswith(tag, "src/")
 GROUP BY tag
 SORT length(rows) DESC
+LIMIT 30
 ```
 
 ---
 
-## Tags Not Following Hierarchy Convention (No Slashes)
+## Tags Without Hierarchy (No Slashes)
 
-Tags that don't use the `/` hierarchy convention — may need review.
+Tags missing the `/` hierarchy. Excludes valid non-hierarchical tags like `quest`, `npc`, `event`, `lore`, `location`, `faction`, `feat`, `background`, `bastion`, `utility`.
 
 ```dataview
 TABLE file.tags AS "Problematic Tags"
-FROM ""
-WHERE any(file.tags, (t) => !contains(t, "/"))
+FROM "Mystic Arts" OR "Lore" OR "Utilities"
+WHERE any(file.tags, (t) => !contains(t, "/") AND t != "quest" AND t != "npc" AND t != "event" AND t != "lore" AND t != "location" AND t != "faction" AND t != "feat" AND t != "background" AND t != "bastion" AND t != "utility")
+  AND !contains(file.path, "z_Templates")
 SORT file.name ASC
+LIMIT 20
 ```
 
 ---
@@ -131,6 +129,7 @@ Notes still marked as work in progress.
 ```dataview
 TABLE file.folder AS "Folder", file.mtime AS "Last Modified"
 FROM #status/wip
+WHERE !contains(file.path, "z_Templates")
 SORT file.mtime DESC
 ```
 
@@ -146,28 +145,11 @@ FROM ""
 WHERE file.mtime >= date(today) - dur(30 days)
   AND !contains(file.path, ".obsidian")
   AND !contains(file.path, "Assets")
+  AND !contains(file.path, "z_Templates")
 SORT file.mtime DESC
 LIMIT 25
 ```
-
----
-
-## Compendium Source Distribution
-
-Overview of how compendium content is distributed by source book.
-
-```dataview
-TABLE length(rows) AS "Count"
-FROM ""
-WHERE length(file.tags) > 0
-FLATTEN file.tags AS tag
-WHERE startswith(tag, "ttrpg-cli/compendium/src/")
-GROUP BY tag
-SORT length(rows) DESC
-```
-
 ---
 
 ## Related
 - [[tag-reference|Tag Conventions]] — Approved tag list and rules
-- [[spell-table|Spell Table]] — Spell reference

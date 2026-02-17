@@ -3,10 +3,10 @@ title: Cutthroat
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxiv
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvxiv
+- monster/cr/1-8
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Cutthroat"]
 ---

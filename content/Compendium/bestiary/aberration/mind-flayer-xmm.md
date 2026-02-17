@@ -3,11 +3,11 @@ title: Mind Flayer
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+- src/5e/xmm
+- monster/cr/7
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/aberration
 statblock: inline
 aliases: ["Mind Flayer"]
 ---

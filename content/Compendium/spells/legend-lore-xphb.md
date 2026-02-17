@@ -3,16 +3,16 @@ title: Legend Lore
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/draconic-sorcery
-- ttrpg-cli/spell/subclass/knowledge-domain
-- ttrpg-cli/spell/subclass/oath-of-glory
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/wizard
+- spell/level/5th-level
+- spell/school/divination
+- spell/subclass/diviner
+- spell/subclass/draconic-sorcery
+- spell/subclass/knowledge-domain
+- spell/subclass/oath-of-glory
 classes:
 - Bard
 - Cleric

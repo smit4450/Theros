@@ -3,9 +3,9 @@ title: Monster Camouflage
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
+- src/5e/frhof
+- item/gear/
+- item/rarity/none
 aliases: 
 - "Monster Camouflage"
 ---

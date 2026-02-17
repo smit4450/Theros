@@ -3,15 +3,15 @@ title: +2 Weapon
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/age/futuristic
+- item/age/modern
+- item/rarity/rare
+- item/weapon/martial
+- item/weapon/melee
+- item/weapon/ranged
+- item/weapon/simple
+- item/wondrous/generic-variant
 aliases: 
 - "+2 Weapon"
 - "+2 Antimatter Rifle"

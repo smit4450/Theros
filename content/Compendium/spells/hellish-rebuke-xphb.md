@@ -3,10 +3,10 @@ title: Hellish Rebuke
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/evocation
+- src/5e/xphb
+- spell/class/warlock
+- spell/level/1st-level
+- spell/school/evocation
 classes:
 - Warlock
 aliases: ["Hellish Rebuke"]

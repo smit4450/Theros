@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/optional-feature/mv-b
+- src/5e/xphb
+- optional-feature/mv-b
 aliases:
 - Rally
 ---

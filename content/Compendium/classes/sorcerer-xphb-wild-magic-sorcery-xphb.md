@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/sorcerer/wild-magic
+- src/5e/xphb
+- subclass/sorcerer/wild-magic
 aliases:
 - Wild Magic Sorcery
 ---

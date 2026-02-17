@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
+- src/5e/xdmg
 aliases:
 - Layers of the Beastlands
 ---

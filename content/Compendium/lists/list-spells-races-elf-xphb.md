@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/race/elf
+- spell/list/race/elf
 aliases:
 - Spells for Elf
 ---

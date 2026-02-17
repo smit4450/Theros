@@ -3,10 +3,10 @@ title: Vulpine Goliath
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/beast
+- src/5e/tbviv
+- monster/cr/3
+- monster/size/h
+- monster/type/beast
 statblock: inline
 aliases: ["Vulpine Goliath"]
 ---

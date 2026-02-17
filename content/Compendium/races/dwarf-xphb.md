@@ -3,8 +3,8 @@ title: Dwarf
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/dwarf
+- src/5e/xphb
+- race/dwarf
 aliases: ["Dwarf"]
 ---
 # Dwarf

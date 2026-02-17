@@ -3,11 +3,11 @@ title: Wrathful Smite
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/shadow-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/necromancy
+- src/5e/xphb
+- spell/class/paladin
+- spell/feat/shadow-touched
+- spell/level/1st-level
+- spell/school/necromancy
 classes:
 - Paladin
 aliases: ["Wrathful Smite"]

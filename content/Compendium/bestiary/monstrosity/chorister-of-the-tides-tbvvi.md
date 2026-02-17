@@ -3,10 +3,10 @@ title: Chorister of the Tides
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvvi
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvvi
+- monster/cr/1
+- monster/size/m
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Chorister of the Tides"]
 ---

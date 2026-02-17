@@ -3,10 +3,10 @@ title: Hag Tongue
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvv
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/t
-- ttrpg-cli/monster/type/construct
+- src/5e/tbvv
+- monster/cr/0
+- monster/size/t
+- monster/type/construct
 statblock: inline
 aliases: ["Hag Tongue"]
 ---

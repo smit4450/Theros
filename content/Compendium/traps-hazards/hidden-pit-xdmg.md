@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-hazard
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/hazard/trp
+- src/5e/xdmg
+- hazard/trp
 aliases:
 - Hidden Pit
 ---

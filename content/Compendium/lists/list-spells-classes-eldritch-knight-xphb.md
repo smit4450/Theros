@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/eldritch-knight
+- spell/list/subclass/eldritch-knight
 aliases:
 - Spells for Eldritch Knight
 ---

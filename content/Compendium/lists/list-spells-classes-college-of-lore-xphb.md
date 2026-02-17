@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/college-of-lore
+- spell/list/subclass/college-of-lore
 aliases:
 - Spells for College of Lore
 ---

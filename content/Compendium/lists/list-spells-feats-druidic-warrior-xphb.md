@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/druidic-warrior
+- spell/list/feat/druidic-warrior
 aliases:
 - Spells for Druidic Warrior
 ---

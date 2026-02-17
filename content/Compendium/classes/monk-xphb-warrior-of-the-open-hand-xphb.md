@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/monk/open-hand
+- src/5e/xphb
+- subclass/monk/open-hand
 aliases:
 - Warrior of the Open Hand
 ---

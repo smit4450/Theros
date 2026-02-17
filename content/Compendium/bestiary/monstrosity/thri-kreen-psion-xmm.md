@@ -3,12 +3,12 @@ title: Thri-kreen Psion
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/8
+- monster/environment/desert
+- monster/environment/grassland
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Thri-kreen Psion"]
 ---

@@ -3,12 +3,12 @@ title: "Bident of Thassa's Beloved"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+- src/5e/gmoa
+- item/attunement/required
+- item/rarity/artifact
+- item/weapon
+- item/weapon/martial
+- item/weapon/melee
 aliases: 
 - "Bident of Thassa's Beloved"
 ---

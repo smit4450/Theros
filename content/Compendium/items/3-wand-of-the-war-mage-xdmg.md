@@ -3,10 +3,10 @@ title: +3 Wand of the War Mage
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/wand
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/wondrous/wand
 aliases: 
 - "+3 Wand of the War Mage"
 ---

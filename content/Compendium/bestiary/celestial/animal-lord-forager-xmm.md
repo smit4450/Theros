@@ -3,12 +3,12 @@ title: Animal Lord; Forager
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/environment/beastlands
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/celestial
+- src/5e/xmm
+- monster/cr/20
+- monster/environment/beastlands
+- monster/environment/planar
+- monster/size/medium
+- monster/type/celestial
 statblock: inline
 aliases: ["Animal Lord; Forager"]
 ---

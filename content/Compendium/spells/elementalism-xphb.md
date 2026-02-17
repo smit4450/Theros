@@ -3,23 +3,23 @@ title: Elementalism
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/cold-caster
-- ttrpg-cli/spell/feat/druidic-warrior
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/elf/high-elf
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/college-of-the-moon
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/oath-of-the-noble-genies
-- ttrpg-cli/spell/subclass/warrior-of-the-elements
+- src/5e/xphb
+- spell/class/druid
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/feat/cold-caster
+- spell/feat/druidic-warrior
+- spell/feat/magic-initiate/wizard-spells
+- spell/level/cantrip
+- spell/optfeature/pact-of-the-tome
+- spell/race/elf/high-elf
+- spell/school/transmutation
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/college-of-the-moon
+- spell/subclass/eldritch-knight
+- spell/subclass/oath-of-the-noble-genies
+- spell/subclass/warrior-of-the-elements
 classes:
 - Bard (College of Lore)
 - Bard (College of the Moon)

@@ -3,11 +3,11 @@ title: Abominable Yeti
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/9
+- monster/environment/arctic
+- monster/size/huge
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Abominable Yeti"]
 ---

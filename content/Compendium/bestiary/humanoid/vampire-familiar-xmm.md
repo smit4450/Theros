@@ -3,12 +3,12 @@ title: Vampire Familiar
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid
+- src/5e/xmm
+- monster/cr/3
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/small-or-medium
+- monster/type/humanoid
 statblock: inline
 aliases: ["Vampire Familiar"]
 ---

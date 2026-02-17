@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/oath-of-vengeance
+- spell/list/subclass/oath-of-vengeance
 aliases:
 - Spells for Oath of Vengeance
 ---

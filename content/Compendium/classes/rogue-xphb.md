@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/rogue
-- ttrpg-cli/compendium/src/5e/xphb
+- class/rogue
+- src/5e/xphb
 aliases:
 - Rogue
 ---

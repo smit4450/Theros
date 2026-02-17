@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/feat
+- src/5e/frhof
+- feat
 aliases:
 - Boon of Communication
 ---

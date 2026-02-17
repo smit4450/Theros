@@ -3,17 +3,17 @@ title: Starry Wisp
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/druidic-warrior
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/circle-of-the-moon
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/college-of-the-moon
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/feat/druidic-warrior
+- spell/feat/magic-initiate/druid-spells
+- spell/level/cantrip
+- spell/optfeature/pact-of-the-tome
+- spell/school/evocation
+- spell/subclass/circle-of-the-moon
+- spell/subclass/college-of-lore
+- spell/subclass/college-of-the-moon
 classes:
 - Bard
 - Bard (College of Lore)

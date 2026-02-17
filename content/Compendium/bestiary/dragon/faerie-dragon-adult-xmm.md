@@ -3,11 +3,11 @@ title: Faerie Dragon Adult
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/dragon
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/forest
+- monster/size/tiny
+- monster/type/dragon
 statblock: inline
 aliases: ["Faerie Dragon Adult"]
 ---

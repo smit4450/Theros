@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/class/warlock
+- spell/list/class/warlock
 aliases:
 - Warlock Spells
 ---

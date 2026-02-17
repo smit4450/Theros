@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/druid/stars
+- src/5e/xphb
+- subclass/druid/stars
 aliases:
 - Circle of the Stars
 ---

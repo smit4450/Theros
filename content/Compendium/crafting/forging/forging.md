@@ -2,7 +2,7 @@
 title: Rare Metals
 obsidianUIMode: preview
 tags:
-- ttrpg-cli/crafting/rare-metal
+- crafting/rare-metal
 aliases:
 - Rare Metals
 ---

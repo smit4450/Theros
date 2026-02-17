@@ -3,12 +3,12 @@ title: Modron Pentadrone
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/mechanus
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/mechanus
+- monster/environment/planar
+- monster/size/large
+- monster/type/construct
 statblock: inline
 aliases: ["Modron Pentadrone"]
 ---

@@ -3,10 +3,10 @@ title: Quarry Colossus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvix
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/giant
+- src/5e/tbvix
+- monster/cr/17
+- monster/size/g
+- monster/type/giant
 statblock: inline
 aliases: ["Quarry Colossus"]
 ---

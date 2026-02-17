@@ -3,13 +3,13 @@ title: Xorn
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/earth
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/earth
+- monster/environment/planar
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/elemental
 statblock: inline
 aliases: ["Xorn"]
 ---

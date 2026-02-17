@@ -3,10 +3,10 @@ title: Fleshmad Steed
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvviii
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/aberration
+- src/5e/tbvviii
+- monster/cr/1-2
+- monster/size/l
+- monster/type/aberration
 statblock: inline
 aliases: ["Fleshmad Steed"]
 ---

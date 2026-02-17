@@ -3,9 +3,9 @@ title: Wand of Pyrotechnics
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/wondrous/wand
+- src/5e/xdmg
+- item/rarity/common
+- item/wondrous/wand
 aliases: 
 - "Wand of Pyrotechnics"
 ---

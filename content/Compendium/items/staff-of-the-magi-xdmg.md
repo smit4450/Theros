@@ -3,11 +3,11 @@ title: Staff of the Magi
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/legendary
+- item/weapon/melee
+- item/weapon/simple
 aliases: 
 - "Staff of the Magi"
 ---

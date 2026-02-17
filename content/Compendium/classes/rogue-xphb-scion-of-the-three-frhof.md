@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/subclass/rogue/scion-of-the-three
+- src/5e/frhof
+- subclass/rogue/scion-of-the-three
 aliases:
 - Scion of the Three
 ---

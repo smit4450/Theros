@@ -3,10 +3,10 @@ title: Thassa's Emissary
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxiii
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvxxiii
+- monster/cr/5
+- monster/size/h
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Thassa's Emissary"]
 ---

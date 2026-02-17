@@ -3,10 +3,10 @@ title: Enspelled Weapon
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/varies
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/varies
+- item/wondrous/generic-variant
 aliases: 
 - "Enspelled Weapon"
 ---

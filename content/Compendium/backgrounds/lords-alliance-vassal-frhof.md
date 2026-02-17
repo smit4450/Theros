@@ -3,8 +3,8 @@ title: "Lords' Alliance Vassal"
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+- background
+- src/5e/frhof
 aliases: ["Lords' Alliance Vassal"]
 ---
 # Lords' Alliance Vassal

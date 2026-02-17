@@ -3,9 +3,9 @@ title: Potion of Invisibility
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/potion
+- src/5e/xdmg
+- item/rarity/rare
+- item/wondrous/potion
 aliases: 
 - "Potion of Invisibility"
 ---

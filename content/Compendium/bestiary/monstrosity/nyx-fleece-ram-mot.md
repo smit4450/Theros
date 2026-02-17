@@ -3,10 +3,10 @@ title: Nyx-Fleece Ram
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/mot
+- monster/cr/1
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Nyx-Fleece Ram"]
 ---

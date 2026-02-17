@@ -3,15 +3,15 @@ title: Produce Flame
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/druidic-warrior
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/college-of-the-moon
+- src/5e/xphb
+- spell/class/druid
+- spell/feat/druidic-warrior
+- spell/feat/magic-initiate/druid-spells
+- spell/level/cantrip
+- spell/optfeature/pact-of-the-tome
+- spell/school/conjuration
+- spell/subclass/college-of-lore
+- spell/subclass/college-of-the-moon
 classes:
 - Bard (College of Lore)
 - Bard (College of the Moon)

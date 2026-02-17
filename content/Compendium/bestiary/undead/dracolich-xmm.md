@@ -3,11 +3,11 @@ title: Dracolich
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/unknown
-- ttrpg-cli/monster/type/undead
+- src/5e/xmm
+- monster/cr/17
+- monster/environment/any
+- monster/size/unknown
+- monster/type/undead
 statblock: inline
 aliases: ["Dracolich"]
 ---

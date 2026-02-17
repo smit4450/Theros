@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/circle-of-the-sea
+- spell/list/subclass/circle-of-the-sea
 aliases:
 - Spells for Circle of the Sea
 ---

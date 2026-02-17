@@ -3,10 +3,10 @@ title: Swarmborn Giant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvix
-- ttrpg-cli/monster/cr/24
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvix
+- monster/cr/24
+- monster/size/g
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Swarmborn Giant"]
 ---

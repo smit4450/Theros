@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/purphoross-devotee
+- spell/list/reward/purphoross-devotee
 aliases:
 - Spells for Purphoros's Devotee
 ---

@@ -3,10 +3,10 @@ title: Fleetfeather Cockatrice
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbviv
+- monster/cr/17
+- monster/size/g
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Fleetfeather Cockatrice"]
 ---

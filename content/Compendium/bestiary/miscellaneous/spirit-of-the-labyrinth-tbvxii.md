@@ -3,10 +3,10 @@ title: Spirit of the Labyrinth
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxii
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvxii
+- monster/cr/5
+- monster/size/m
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Spirit of the Labyrinth"]
 ---

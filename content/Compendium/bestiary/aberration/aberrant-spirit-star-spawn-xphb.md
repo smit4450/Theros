@@ -3,10 +3,10 @@ title: Aberrant Spirit (Star Spawn)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+- src/5e/xphb
+- monster/cr/
+- monster/size/medium
+- monster/type/aberration
 statblock: inline
 aliases: ["Aberrant Spirit (Star Spawn)"]
 ---

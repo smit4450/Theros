@@ -3,14 +3,14 @@ title: Giant Eagle
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+- src/5e/xmm
+- monster/cr/1
+- monster/environment/coastal
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/large
+- monster/type/celestial
 statblock: inline
 aliases: ["Giant Eagle"]
 ---

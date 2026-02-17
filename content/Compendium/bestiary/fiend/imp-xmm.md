@@ -3,11 +3,11 @@ title: Imp
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/fiend/devil
+- src/5e/xmm
+- monster/cr/1
+- monster/environment/any
+- monster/size/tiny
+- monster/type/fiend/devil
 statblock: inline
 aliases: ["Imp"]
 ---

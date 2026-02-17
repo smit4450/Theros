@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
+- src/5e/xmm
 aliases:
 - Monsters by Habitat; Desert Monsters
 ---

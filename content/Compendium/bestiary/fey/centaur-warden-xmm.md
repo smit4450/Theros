@@ -3,14 +3,14 @@ title: Centaur Warden
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/feywild
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fey
+- src/5e/xmm
+- monster/cr/7
+- monster/environment/feywild
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/planar
+- monster/size/large
+- monster/type/fey
 statblock: inline
 aliases: ["Centaur Warden"]
 ---

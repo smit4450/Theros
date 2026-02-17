@@ -3,10 +3,10 @@ title: Hydra Broodmaster
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxiv
-- ttrpg-cli/monster/cr/29
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvxxiv
+- monster/cr/29
+- monster/size/g
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Hydra Broodmaster"]
 ---

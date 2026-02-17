@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/warlock
-- ttrpg-cli/compendium/src/5e/xphb
+- class/warlock
+- src/5e/xphb
 aliases:
 - Warlock
 ---

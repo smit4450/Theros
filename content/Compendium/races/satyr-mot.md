@@ -3,8 +3,8 @@ title: Satyr
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/race/satyr
+- src/5e/mot
+- race/satyr
 aliases: ["Satyr"]
 ---
 # Satyr

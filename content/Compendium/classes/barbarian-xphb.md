@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/barbarian
-- ttrpg-cli/compendium/src/5e/xphb
+- class/barbarian
+- src/5e/xphb
 aliases:
 - Barbarian
 ---

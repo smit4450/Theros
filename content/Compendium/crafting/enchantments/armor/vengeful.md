@@ -3,9 +3,9 @@ title: Vengeful
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/enchantment/armor
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/attunement/not-required
+- crafting/enchantment/armor
+- item/rarity/very-rare
+- item/attunement/not-required
 aliases:
 - Vengeful
 ---

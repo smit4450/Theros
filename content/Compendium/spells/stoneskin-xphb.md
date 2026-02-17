@@ -3,17 +3,17 @@ title: Stoneskin
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/class/ranger
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/4th-level
+- spell/school/transmutation
+- spell/subclass/arcane-trickster
+- spell/subclass/eldritch-knight
+- spell/subclass/oath-of-the-ancients
 classes:
 - Bard
 - Druid

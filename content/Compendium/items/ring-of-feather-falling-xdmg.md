@@ -3,10 +3,10 @@ title: Ring of Feather Falling
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/ring
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/rare
+- item/wondrous/ring
 aliases: 
 - "Ring of Feather Falling"
 ---

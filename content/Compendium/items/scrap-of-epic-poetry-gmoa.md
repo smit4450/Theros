@@ -3,8 +3,8 @@ title: "Scrap of Epic Poetry"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/common
+- src/5e/gmoa
+- item/rarity/common
 aliases: 
 - "Scrap of Epic Poetry"
 ---

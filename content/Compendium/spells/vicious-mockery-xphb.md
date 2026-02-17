@@ -3,11 +3,11 @@ title: Vicious Mockery
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/enchantment
+- src/5e/xphb
+- spell/class/bard
+- spell/level/cantrip
+- spell/optfeature/pact-of-the-tome
+- spell/school/enchantment
 classes:
 - Bard
 aliases: ["Vicious Mockery"]

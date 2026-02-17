@@ -3,9 +3,9 @@ title: Transforming
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/enchantment/weapon
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/attunement/required
+- crafting/enchantment/weapon
+- item/rarity/uncommon
+- item/attunement/required
 aliases:
 - Transforming
 ---

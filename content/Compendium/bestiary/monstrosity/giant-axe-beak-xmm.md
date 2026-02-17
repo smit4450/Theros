@@ -3,13 +3,13 @@ title: Giant Axe Beak
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/arctic
+- monster/environment/grassland
+- monster/environment/hill
+- monster/size/huge
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Giant Axe Beak"]
 ---

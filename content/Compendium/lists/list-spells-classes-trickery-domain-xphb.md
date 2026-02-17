@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/trickery-domain
+- spell/list/subclass/trickery-domain
 aliases:
 - Spells for Trickery Domain
 ---

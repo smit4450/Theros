@@ -3,11 +3,11 @@ title: "Archon Armor"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/armor
-- ttrpg-cli/item/armor/heavy
+- src/5e/gmoa
+- item/attunement/required
+- item/rarity/very-rare
+- item/armor
+- item/armor/heavy
 aliases: 
 - "Archon Armor"
 ---

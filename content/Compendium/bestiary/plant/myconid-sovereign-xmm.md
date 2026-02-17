@@ -3,11 +3,11 @@ title: Myconid Sovereign
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/plant
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/underdark
+- monster/size/large
+- monster/type/plant
 statblock: inline
 aliases: ["Myconid Sovereign"]
 ---

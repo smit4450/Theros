@@ -3,9 +3,9 @@ title: Scroll of Titan Summoning (Colossus)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/wondrous/scroll
+- src/5e/xdmg
+- item/rarity/legendary
+- item/wondrous/scroll
 aliases: 
 - "Scroll of Titan Summoning (Colossus)"
 ---

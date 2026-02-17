@@ -3,9 +3,9 @@ title: Glamoured Studded Leather
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/rarity/rare
+- src/5e/xdmg
+- item/armor/light
+- item/rarity/rare
 aliases: 
 - "Glamoured Studded Leather"
 ---

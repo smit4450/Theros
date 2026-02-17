@@ -3,13 +3,13 @@ title: Djinni
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/air
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental/genie
+- src/5e/xmm
+- monster/cr/11
+- monster/environment/air
+- monster/environment/coastal
+- monster/environment/planar
+- monster/size/large
+- monster/type/elemental/genie
 statblock: inline
 aliases: ["Djinni"]
 ---

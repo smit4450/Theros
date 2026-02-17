@@ -3,10 +3,10 @@ title: Trostani
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxii
-- ttrpg-cli/monster/cr/18
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/fey
+- src/5e/tbvxii
+- monster/cr/18
+- monster/size/l
+- monster/type/fey
 statblock: inline
 aliases: ["Trostani"]
 ---

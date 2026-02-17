@@ -3,12 +3,12 @@ title: Slaad Tadpole
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/limbo
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/aberration
+- src/5e/xmm
+- monster/cr/1-8
+- monster/environment/limbo
+- monster/environment/planar
+- monster/size/tiny
+- monster/type/aberration
 statblock: inline
 aliases: ["Slaad Tadpole"]
 ---

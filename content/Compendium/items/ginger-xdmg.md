@@ -3,9 +3,9 @@ title: Ginger
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/gear/trade-good
-- ttrpg-cli/item/rarity/none
+- src/5e/xdmg
+- item/gear/trade-good
+- item/rarity/none
 aliases: 
 - "Ginger"
 ---

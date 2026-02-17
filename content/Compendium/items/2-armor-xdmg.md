@@ -3,12 +3,12 @@ title: +2 Armor
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/armor/heavy
+- item/armor/light
+- item/armor/medium
+- item/rarity/very-rare
+- item/wondrous/generic-variant
 aliases: 
 - "+2 Armor"
 - "+2 Breastplate"

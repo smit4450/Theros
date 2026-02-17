@@ -3,12 +3,12 @@ title: Wand of Orcus
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/wand
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/artifact
+- item/weapon/melee
+- item/weapon/simple
+- item/wondrous/wand
 aliases: 
 - "Wand of Orcus"
 ---

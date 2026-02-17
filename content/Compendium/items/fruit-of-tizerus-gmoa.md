@@ -3,9 +3,9 @@ title: "Fruit of Tizerus"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous
+- src/5e/gmoa
+- item/rarity/rare
+- item/wondrous
 aliases: 
 - "Fruit of Tizerus"
 ---

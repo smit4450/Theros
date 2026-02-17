@@ -3,10 +3,10 @@ title: Scourge of Skola Vale
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxiv
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvxxiv
+- monster/cr/3
+- monster/size/h
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Scourge of Skola Vale"]
 ---

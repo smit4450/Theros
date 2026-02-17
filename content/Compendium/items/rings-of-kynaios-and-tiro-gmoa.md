@@ -3,10 +3,10 @@ title: "Rings of Kynaios and Tiro"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/ring
+- src/5e/gmoa
+- item/attunement/required
+- item/rarity/artifact
+- item/ring
 aliases: 
 - "Rings of Kynaios and Tiro"
 ---

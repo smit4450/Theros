@@ -3,22 +3,22 @@ title: Blade Ward
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/cold-caster
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/elf/high-elf
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/scion-of-the-three
+- src/5e/xphb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/feat/cold-caster
+- spell/feat/magic-initiate/wizard-spells
+- spell/level/cantrip
+- spell/optfeature/pact-of-the-tome
+- spell/race/elf/high-elf
+- spell/school/abjuration
+- spell/subclass/abjurer
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
+- spell/subclass/scion-of-the-three
 classes:
 - Bard
 - Bard (College of Lore)

@@ -3,10 +3,10 @@ title: Dagger
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+- src/5e/xphb
+- item/rarity/none
+- item/weapon/melee
+- item/weapon/simple
 aliases: 
 - "Dagger"
 ---

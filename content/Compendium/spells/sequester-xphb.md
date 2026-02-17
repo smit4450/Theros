@@ -3,11 +3,11 @@ title: Sequester
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/transmutation
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/level/7th-level
+- spell/school/transmutation
 classes:
 - Bard
 - Wizard

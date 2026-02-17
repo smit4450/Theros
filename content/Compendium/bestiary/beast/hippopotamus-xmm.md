@@ -3,13 +3,13 @@ title: Hippopotamus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+- src/5e/xmm
+- monster/cr/4
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/swamp
+- monster/size/large
+- monster/type/beast
 statblock: inline
 aliases: ["Hippopotamus"]
 ---

@@ -3,11 +3,11 @@ title: Ephixis, Bow of Nylea
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
+- src/5e/mot
+- item/attunement/required
+- item/rarity/artifact
+- item/weapon/ranged
+- item/weapon/simple
 aliases: 
 - "Ephixis, Bow of Nylea"
 ---

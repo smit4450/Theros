@@ -3,11 +3,11 @@ title: Blob of Annihilation
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/ooze/titan
+- src/5e/xmm
+- monster/cr/23
+- monster/environment/any
+- monster/size/gargantuan
+- monster/type/ooze/titan
 statblock: inline
 aliases: ["Blob of Annihilation"]
 ---

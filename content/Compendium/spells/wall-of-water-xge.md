@@ -3,10 +3,10 @@ title: Wall of Water
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/race/triton
-- ttrpg-cli/spell/school/evocation
+- src/5e/xge
+- spell/level/3rd-level
+- spell/race/triton
+- spell/school/evocation
 aliases: ["Wall of Water"]
 ---
 # Wall of Water

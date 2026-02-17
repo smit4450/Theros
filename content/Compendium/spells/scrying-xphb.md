@@ -3,18 +3,18 @@ title: Scrying
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/knowledge-domain
-- ttrpg-cli/spell/subclass/light-domain
-- ttrpg-cli/spell/subclass/oath-of-vengeance
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/druid
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/5th-level
+- spell/school/divination
+- spell/subclass/diviner
+- spell/subclass/knowledge-domain
+- spell/subclass/light-domain
+- spell/subclass/oath-of-vengeance
 classes:
 - Bard
 - Cleric

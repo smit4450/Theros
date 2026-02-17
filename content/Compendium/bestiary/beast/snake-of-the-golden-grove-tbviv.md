@@ -3,10 +3,10 @@ title: Snake of the Golden Grove
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/18
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/beast
+- src/5e/tbviv
+- monster/cr/18
+- monster/size/g
+- monster/type/beast
 statblock: inline
 aliases: ["Snake of the Golden Grove"]
 ---

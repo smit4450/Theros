@@ -3,10 +3,10 @@ title: Polukranos
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/19
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/mot
+- monster/cr/19
+- monster/size/gargantuan
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Polukranos"]
 ---

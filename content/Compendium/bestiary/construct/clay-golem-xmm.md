@@ -3,11 +3,11 @@ title: Clay Golem
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+- src/5e/xmm
+- monster/cr/9
+- monster/environment/urban
+- monster/size/large
+- monster/type/construct
 statblock: inline
 aliases: ["Clay Golem"]
 ---

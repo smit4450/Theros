@@ -3,10 +3,10 @@ title: Phylaskia
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/undead
+- src/5e/mot
+- monster/cr/9
+- monster/size/large
+- monster/type/undead
 statblock: inline
 aliases: ["Phylaskia"]
 ---

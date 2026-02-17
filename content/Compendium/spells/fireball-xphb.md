@@ -3,19 +3,19 @@ title: Fireball
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-the-land/arid-land
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/fiend-patron
-- ttrpg-cli/spell/subclass/light-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/3rd-level
+- spell/school/evocation
+- spell/subclass/arcane-trickster
+- spell/subclass/circle-of-the-land/arid-land
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
+- spell/subclass/evoker
+- spell/subclass/fiend-patron
+- spell/subclass/light-domain
 classes:
 - Bard
 - Bard (College of Lore)

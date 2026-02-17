@@ -3,11 +3,11 @@ title: Blinding Smite
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/reward/mogiss-votary
-- ttrpg-cli/spell/school/evocation
+- src/5e/xphb
+- spell/class/paladin
+- spell/level/3rd-level
+- spell/reward/mogiss-votary
+- spell/school/evocation
 classes:
 - Paladin
 aliases: ["Blinding Smite"]

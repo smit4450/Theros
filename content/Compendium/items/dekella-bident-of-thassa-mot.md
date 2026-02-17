@@ -3,11 +3,11 @@ title: Dekella, Bident of Thassa
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+- src/5e/mot
+- item/attunement/required
+- item/rarity/artifact
+- item/weapon/martial
+- item/weapon/melee
 aliases: 
 - "Dekella, Bident of Thassa"
 ---

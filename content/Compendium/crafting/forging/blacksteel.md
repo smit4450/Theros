@@ -3,8 +3,8 @@ title: Blacksteel
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/rare-metal
-- ttrpg-cli/item/rarity/rare
+- crafting/rare-metal
+- item/rarity/rare
 aliases:
 - Blacksteel
 ---

@@ -3,13 +3,13 @@ title: Holy Star of Mystra
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/evoker
+- src/5e/frhof
+- spell/class/bard
+- spell/class/cleric
+- spell/class/wizard
+- spell/level/8th-level
+- spell/school/evocation
+- spell/subclass/evoker
 classes:
 - Bard
 - Cleric

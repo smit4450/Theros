@@ -3,15 +3,15 @@ title: Commune with Nature
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-- ttrpg-cli/spell/subclass/path-of-the-wild-heart
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/class/ranger
+- spell/level/5th-level
+- spell/ritual
+- spell/school/divination
+- spell/subclass/oath-of-the-ancients
+- spell/subclass/path-of-the-wild-heart
 classes:
 - Barbarian (Path of the Wild Heart)
 - Bard

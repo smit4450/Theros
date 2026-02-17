@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/enclave-magic
+- spell/list/feat/enclave-magic
 aliases:
 - Spells for Enclave Magic
 ---

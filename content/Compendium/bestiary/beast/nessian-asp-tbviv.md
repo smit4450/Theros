@@ -3,10 +3,10 @@ title: Nessian Asp
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/beast
+- src/5e/tbviv
+- monster/cr/2
+- monster/size/m
+- monster/type/beast
 statblock: inline
 aliases: ["Nessian Asp"]
 ---

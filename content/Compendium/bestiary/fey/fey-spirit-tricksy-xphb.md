@@ -3,10 +3,10 @@ title: Fey Spirit (Tricksy)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fey
+- src/5e/xphb
+- monster/cr/
+- monster/size/small
+- monster/type/fey
 statblock: inline
 aliases: ["Fey Spirit (Tricksy)"]
 ---

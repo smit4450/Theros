@@ -3,10 +3,10 @@ title: Conjure Volley
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
+- src/5e/xphb
+- spell/class/ranger
+- spell/level/5th-level
+- spell/school/conjuration
 classes:
 - Ranger
 aliases: ["Conjure Volley"]

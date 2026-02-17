@@ -3,11 +3,11 @@ title: Colossus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/25
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/construct/titan
+- src/5e/xmm
+- monster/cr/25
+- monster/environment/any
+- monster/size/gargantuan
+- monster/type/construct/titan
 statblock: inline
 aliases: ["Colossus"]
 ---

@@ -3,10 +3,10 @@ title: Heroes' Bane
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxiv
-- ttrpg-cli/monster/cr/22
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvxxiv
+- monster/cr/22
+- monster/size/g
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Heroes' Bane"]
 ---

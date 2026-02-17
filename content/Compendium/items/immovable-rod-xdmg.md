@@ -3,9 +3,9 @@ title: Immovable Rod
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/rod
+- src/5e/xdmg
+- item/rarity/uncommon
+- item/wondrous/rod
 aliases: 
 - "Immovable Rod"
 ---

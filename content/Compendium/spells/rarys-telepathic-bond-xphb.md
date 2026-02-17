@@ -3,14 +3,14 @@ title: "Rary's Telepathic Bond"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/diviner
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/level/5th-level
+- spell/ritual
+- spell/school/divination
+- spell/subclass/aberrant-sorcery
+- spell/subclass/diviner
 classes:
 - Bard
 - Sorcerer (Aberrant Sorcery)

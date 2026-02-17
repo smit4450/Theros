@@ -3,13 +3,13 @@ title: Giant Elk
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/celestial
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/size/huge
+- monster/type/celestial
 statblock: inline
 aliases: ["Giant Elk"]
 ---

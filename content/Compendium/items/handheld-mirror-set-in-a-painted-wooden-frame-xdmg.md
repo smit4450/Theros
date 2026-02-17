@@ -3,9 +3,9 @@ title: Handheld mirror set in a painted wooden frame
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/gear/treasure-art-object
-- ttrpg-cli/item/rarity/none
+- src/5e/xdmg
+- item/gear/treasure-art-object
+- item/rarity/none
 aliases: 
 - "Handheld mirror set in a painted wooden frame"
 ---

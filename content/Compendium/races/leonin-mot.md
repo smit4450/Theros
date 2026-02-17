@@ -3,8 +3,8 @@ title: Leonin
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/race/leonin
+- src/5e/mot
+- race/leonin
 aliases: ["Leonin"]
 ---
 # Leonin

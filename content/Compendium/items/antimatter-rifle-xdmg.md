@@ -3,11 +3,11 @@ title: Antimatter Rifle
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/ranged
+- src/5e/xdmg
+- item/age/futuristic
+- item/rarity/none
+- item/weapon/martial
+- item/weapon/ranged
 aliases: 
 - "Antimatter Rifle"
 ---

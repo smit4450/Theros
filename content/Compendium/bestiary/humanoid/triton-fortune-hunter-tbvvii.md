@@ -3,10 +3,10 @@ title: Triton Fortune Hunter
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvvii
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvvii
+- monster/cr/1-2
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Triton Fortune Hunter"]
 ---

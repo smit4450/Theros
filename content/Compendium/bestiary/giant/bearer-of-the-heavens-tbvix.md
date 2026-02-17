@@ -3,10 +3,10 @@ title: Bearer of the Heavens
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvix
-- ttrpg-cli/monster/cr/30
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/giant
+- src/5e/tbvix
+- monster/cr/30
+- monster/size/g
+- monster/type/giant
 statblock: inline
 aliases: ["Bearer of the Heavens"]
 ---

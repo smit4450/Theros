@@ -3,12 +3,12 @@ title: Annis Hag (Coven; Death)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fey
+- src/5e/vgm
+- monster/cr/8
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/large
+- monster/type/fey
 statblock: inline
 aliases: ["Annis Hag (Coven; Death)"]
 ---

@@ -3,13 +3,13 @@ title: Weretiger
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/monstrosity/lycanthrope
+- src/5e/xmm
+- monster/cr/4
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/size/small-or-medium
+- monster/type/monstrosity/lycanthrope
 statblock: inline
 aliases: ["Weretiger"]
 ---

@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/druid
-- ttrpg-cli/compendium/src/5e/xphb
+- class/druid
+- src/5e/xphb
 aliases:
 - Druid
 ---

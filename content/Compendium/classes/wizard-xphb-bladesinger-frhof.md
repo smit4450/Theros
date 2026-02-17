@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/subclass/wizard/bladesinger
+- src/5e/frhof
+- subclass/wizard/bladesinger
 aliases:
 - Bladesinger
 ---

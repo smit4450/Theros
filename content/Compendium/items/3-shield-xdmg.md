@@ -3,9 +3,9 @@ title: +3 Shield
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/shield/
+- src/5e/xdmg
+- item/rarity/very-rare
+- item/shield/
 aliases: 
 - "+3 Shield"
 ---

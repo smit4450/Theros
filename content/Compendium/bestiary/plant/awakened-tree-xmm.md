@@ -3,11 +3,11 @@ title: Awakened Tree
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/plant
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/forest
+- monster/size/huge
+- monster/type/plant
 statblock: inline
 aliases: ["Awakened Tree"]
 ---

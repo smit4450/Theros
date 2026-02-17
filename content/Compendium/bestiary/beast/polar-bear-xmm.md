@@ -3,11 +3,11 @@ title: Polar Bear
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/arctic
+- monster/size/large
+- monster/type/beast
 statblock: inline
 aliases: ["Polar Bear"]
 ---

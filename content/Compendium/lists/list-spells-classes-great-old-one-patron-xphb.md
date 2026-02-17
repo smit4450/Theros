@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/great-old-one-patron
+- spell/list/subclass/great-old-one-patron
 aliases:
 - Spells for Great Old One Patron
 ---

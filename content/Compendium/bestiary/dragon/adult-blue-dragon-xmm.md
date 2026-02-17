@@ -3,12 +3,12 @@ title: Adult Blue Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon/chromatic
+- src/5e/xmm
+- monster/cr/16
+- monster/environment/coastal
+- monster/environment/desert
+- monster/size/huge
+- monster/type/dragon/chromatic
 statblock: inline
 aliases: ["Adult Blue Dragon"]
 ---

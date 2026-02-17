@@ -3,13 +3,13 @@ title: Salamander Inferno Master
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/environment/fire
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/15
+- monster/environment/fire
+- monster/environment/planar
+- monster/environment/underdark
+- monster/size/large
+- monster/type/elemental
 statblock: inline
 aliases: ["Salamander Inferno Master"]
 ---

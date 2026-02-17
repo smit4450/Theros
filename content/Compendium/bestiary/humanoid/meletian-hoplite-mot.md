@@ -3,10 +3,10 @@ title: Meletian Hoplite
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid
+- src/5e/mot
+- monster/cr/3
+- monster/size/medium
+- monster/type/humanoid
 statblock: inline
 aliases: ["Meletian Hoplite"]
 ---

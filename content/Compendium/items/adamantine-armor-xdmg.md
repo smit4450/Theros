@@ -3,11 +3,11 @@ title: Adamantine Armor
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/armor/heavy
+- item/armor/medium
+- item/rarity/uncommon
+- item/wondrous/generic-variant
 aliases: 
 - "Adamantine Armor"
 - "Adamantine Breastplate"

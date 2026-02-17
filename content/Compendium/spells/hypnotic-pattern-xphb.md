@@ -3,18 +3,18 @@ title: Hypnotic Pattern
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/illusionist
-- ttrpg-cli/spell/subclass/trickery-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/3rd-level
+- spell/school/illusion
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
+- spell/subclass/illusionist
+- spell/subclass/trickery-domain
 classes:
 - Bard
 - Bard (College of Lore)

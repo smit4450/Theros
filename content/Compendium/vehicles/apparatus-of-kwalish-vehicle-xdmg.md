@@ -4,10 +4,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-vehicle
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/vehicle/size/large
-- ttrpg-cli/vehicle/terrain/sea
-- ttrpg-cli/vehicle/type/object
+- src/5e/xdmg
+- vehicle/size/large
+- vehicle/terrain/sea
+- vehicle/type/object
 aliases:
 - Apparatus of Kwalish
 ---

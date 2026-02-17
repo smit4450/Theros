@@ -3,11 +3,11 @@ title: Thunderous Smite
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/oath-of-the-noble-genies
+- src/5e/xphb
+- spell/class/paladin
+- spell/level/1st-level
+- spell/school/evocation
+- spell/subclass/oath-of-the-noble-genies
 classes:
 - Paladin
 - Paladin (Oath of the Noble Genies)

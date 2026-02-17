@@ -3,10 +3,10 @@ title: Divine Favor
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/transmutation
+- src/5e/xphb
+- spell/class/paladin
+- spell/level/1st-level
+- spell/school/transmutation
 classes:
 - Paladin
 aliases: ["Divine Favor"]

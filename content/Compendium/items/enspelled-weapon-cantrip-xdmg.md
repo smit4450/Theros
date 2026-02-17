@@ -3,17 +3,17 @@ title: Enspelled Weapon (Cantrip)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/age/futuristic
+- item/age/modern
+- item/attunement/required
+- item/gear/spellcasting-focus
+- item/rarity/uncommon
+- item/weapon/martial
+- item/weapon/melee
+- item/weapon/ranged
+- item/weapon/simple
+- item/wondrous/generic-variant
 aliases: 
 - "Enspelled Weapon (Cantrip)"
 - "Enspelled (Cantrip) Antimatter Rifle"

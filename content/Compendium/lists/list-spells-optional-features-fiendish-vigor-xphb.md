@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/fiendish-vigor
+- spell/list/optfeature/fiendish-vigor
 aliases:
 - Spells for Fiendish Vigor
 ---

@@ -3,14 +3,14 @@ title: Inflict Wounds
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/feat/shadow-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/college-of-lore
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/feat/magic-initiate/cleric-spells
+- spell/feat/shadow-touched
+- spell/level/1st-level
+- spell/school/necromancy
+- spell/subclass/college-of-lore
 classes:
 - Bard
 - Bard (College of Lore)

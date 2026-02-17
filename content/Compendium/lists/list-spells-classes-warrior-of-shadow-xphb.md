@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/warrior-of-shadow
+- spell/list/subclass/warrior-of-shadow
 aliases:
 - Spells for Warrior of Shadow
 ---

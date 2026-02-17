@@ -3,10 +3,10 @@ title: Titan of Erebos
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvix
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/size/c
-- ttrpg-cli/monster/type/giant
+- src/5e/tbvix
+- monster/cr/20
+- monster/size/c
+- monster/type/giant
 statblock: inline
 aliases: ["Titan of Erebos"]
 ---

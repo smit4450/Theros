@@ -3,11 +3,11 @@ title: Intellect Devourer
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/aberration
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/underdark
+- monster/size/tiny
+- monster/type/aberration
 statblock: inline
 aliases: ["Intellect Devourer"]
 ---

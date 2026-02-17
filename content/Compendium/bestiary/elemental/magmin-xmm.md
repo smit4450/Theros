@@ -3,12 +3,12 @@ title: Magmin
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/fire
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/1-2
+- monster/environment/fire
+- monster/environment/planar
+- monster/size/small
+- monster/type/elemental
 statblock: inline
 aliases: ["Magmin"]
 ---

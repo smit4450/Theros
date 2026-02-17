@@ -3,9 +3,9 @@ title: Needle
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/rarity/none
+- src/5e/xphb
+- item/gear/ammunition
+- item/rarity/none
 aliases: 
 - "Needle"
 ---

@@ -3,10 +3,10 @@ title: Giant Fly
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+- src/5e/xdmg
+- monster/cr/0
+- monster/size/large
+- monster/type/beast
 statblock: inline
 aliases: ["Giant Fly"]
 ---

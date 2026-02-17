@@ -3,13 +3,13 @@ title: Rakshasa
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/environment/nine-hells
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+- src/5e/xmm
+- monster/cr/13
+- monster/environment/nine-hells
+- monster/environment/planar
+- monster/environment/urban
+- monster/size/medium
+- monster/type/fiend
 statblock: inline
 aliases: ["Rakshasa"]
 ---

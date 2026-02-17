@@ -3,13 +3,13 @@ title: Efreeti
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/fire
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental/genie
+- src/5e/xmm
+- monster/cr/11
+- monster/environment/desert
+- monster/environment/fire
+- monster/environment/planar
+- monster/size/large
+- monster/type/elemental/genie
 statblock: inline
 aliases: ["Efreeti"]
 ---

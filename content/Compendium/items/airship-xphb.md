@@ -3,9 +3,9 @@ title: Airship
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/vehicle/airship-air
+- src/5e/xphb
+- item/rarity/none
+- item/vehicle/airship-air
 aliases: 
 - "Airship"
 ---

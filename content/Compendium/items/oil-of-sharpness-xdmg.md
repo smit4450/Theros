@@ -3,9 +3,9 @@ title: Oil of Sharpness
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/potion
+- src/5e/xdmg
+- item/rarity/very-rare
+- item/wondrous/potion
 aliases: 
 - "Oil of Sharpness"
 ---

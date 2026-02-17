@@ -3,11 +3,11 @@ title: Twig Blight
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/plant
+- src/5e/xmm
+- monster/cr/1-8
+- monster/environment/forest
+- monster/size/small
+- monster/type/plant
 statblock: inline
 aliases: ["Twig Blight"]
 ---

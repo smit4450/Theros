@@ -3,13 +3,13 @@ title: Giant Wasp
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
+- src/5e/xmm
+- monster/cr/1-2
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/urban
+- monster/size/medium
+- monster/type/beast
 statblock: inline
 aliases: ["Giant Wasp"]
 ---

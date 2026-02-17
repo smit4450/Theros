@@ -3,11 +3,11 @@ title: Priest
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid/cleric
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/any
+- monster/size/small-or-medium
+- monster/type/humanoid/cleric
 statblock: inline
 aliases: ["Priest"]
 ---

@@ -3,6 +3,8 @@ title: Item Properties
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
+tags:
+  - utility/
 aliases:
 - Item Properties
 ---

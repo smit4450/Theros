@@ -3,21 +3,21 @@ title: Alarm
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/ritual-caster
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
+- src/5e/xphb
+- spell/class/bard
+- spell/class/ranger
+- spell/class/wizard
+- spell/feat/magic-initiate/wizard-spells
+- spell/feat/ritual-caster
+- spell/level/1st-level
+- spell/optfeature/pact-of-the-tome
+- spell/ritual
+- spell/school/abjuration
+- spell/subclass/abjurer
+- spell/subclass/arcane-trickster
+- spell/subclass/clockwork-sorcery
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
 classes:
 - Bard
 - Bard (College of Lore)

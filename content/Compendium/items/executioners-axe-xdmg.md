@@ -3,12 +3,12 @@ title: "Executioner's Axe"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/rarity/very-rare
+- item/weapon/martial
+- item/weapon/melee
+- item/weapon/simple
+- item/wondrous/generic-variant
 aliases: 
 - "Executioner's Axe"
 - "Executioner's Battleaxe"

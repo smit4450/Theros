@@ -3,8 +3,8 @@ title: Quiver of Ehlonna
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
+- src/5e/xdmg
+- item/rarity/uncommon
 aliases: 
 - "Quiver of Ehlonna"
 ---

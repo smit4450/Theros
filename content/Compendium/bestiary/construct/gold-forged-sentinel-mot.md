@@ -3,10 +3,10 @@ title: Gold-Forged Sentinel
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+- src/5e/mot
+- monster/cr/5
+- monster/size/large
+- monster/type/construct
 statblock: inline
 aliases: ["Gold-Forged Sentinel"]
 ---

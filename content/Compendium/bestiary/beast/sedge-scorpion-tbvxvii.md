@@ -3,10 +3,10 @@ title: Sedge Scorpion
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxvii
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/t
-- ttrpg-cli/monster/type/beast
+- src/5e/tbvxvii
+- monster/cr/0
+- monster/size/t
+- monster/type/beast
 statblock: inline
 aliases: ["Sedge Scorpion"]
 ---

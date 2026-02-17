@@ -3,11 +3,11 @@ title: Homunculus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/construct
+- src/5e/xmm
+- monster/cr/0
+- monster/environment/any
+- monster/size/tiny
+- monster/type/construct
 statblock: inline
 aliases: ["Homunculus"]
 ---

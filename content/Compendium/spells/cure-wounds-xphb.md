@@ -3,20 +3,20 @@ title: Cure Wounds
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/circle-of-the-moon
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/life-domain
-- ttrpg-cli/spell/subclass/spellfire-sorcery
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/druid
+- spell/class/paladin
+- spell/class/ranger
+- spell/feat/magic-initiate/druid-spells
+- spell/level/1st-level
+- spell/school/abjuration
+- spell/subclass/celestial-patron
+- spell/subclass/circle-of-the-moon
+- spell/subclass/college-of-lore
+- spell/subclass/life-domain
+- spell/subclass/spellfire-sorcery
 classes:
 - Bard
 - Bard (College of Lore)

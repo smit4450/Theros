@@ -3,24 +3,24 @@ title: Light
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/feat/cold-caster
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/aasimar
-- ttrpg-cli/spell/race/elf/high-elf
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/feat/blessed-warrior
+- spell/feat/cold-caster
+- spell/feat/magic-initiate/wizard-spells
+- spell/level/cantrip
+- spell/optfeature/pact-of-the-tome
+- spell/race/aasimar
+- spell/race/elf/high-elf
+- spell/school/evocation
+- spell/subclass/arcane-trickster
+- spell/subclass/celestial-patron
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
+- spell/subclass/evoker
 classes:
 - Bard
 - Bard (College of Lore)

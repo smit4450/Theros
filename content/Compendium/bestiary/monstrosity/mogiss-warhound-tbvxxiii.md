@@ -3,10 +3,10 @@ title: Mogis's Warhound
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxiii
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvxxiii
+- monster/cr/1
+- monster/size/m
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Mogis's Warhound"]
 ---

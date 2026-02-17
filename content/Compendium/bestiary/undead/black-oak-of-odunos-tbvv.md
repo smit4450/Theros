@@ -3,10 +3,10 @@ title: Black Oak of Odunos
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvv
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/undead
+- src/5e/tbvv
+- monster/cr/1-2
+- monster/size/h
+- monster/type/undead
 statblock: inline
 aliases: ["Black Oak of Odunos"]
 ---

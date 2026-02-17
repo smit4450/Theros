@@ -3,14 +3,14 @@ title: Create or Destroy Water
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/college-of-lore
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/druid
+- spell/feat/magic-initiate/druid-spells
+- spell/level/1st-level
+- spell/school/transmutation
+- spell/subclass/college-of-lore
 classes:
 - Bard
 - Bard (College of Lore)

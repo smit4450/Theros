@@ -4,11 +4,12 @@ obsidianUIMode: preview
 cssclasses:
   - json5e-note
 tags:
-  - type/lore
+  - lore
+  - era/ancient
   - status/wip
   - campaign/backstory
-  - relevance/
-  - source/
+  - relevance/flavor
+  - src/homebrew
 aliases:
   - "<% tp.file.title %>"
 created: <% tp.file.creation_date("YYYY-MM-DD") %>

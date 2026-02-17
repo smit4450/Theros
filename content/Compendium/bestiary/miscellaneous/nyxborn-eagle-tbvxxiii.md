@@ -3,10 +3,10 @@ title: Nyxborn Eagle
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxiii
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/s
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvxxiii
+- monster/cr/1-4
+- monster/size/s
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Nyxborn Eagle"]
 ---

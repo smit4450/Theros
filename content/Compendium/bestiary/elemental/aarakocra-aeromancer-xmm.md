@@ -3,13 +3,13 @@ title: Aarakocra Aeromancer
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/air
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/4
+- monster/environment/air
+- monster/environment/mountain
+- monster/environment/planar
+- monster/size/medium
+- monster/type/elemental
 statblock: inline
 aliases: ["Aarakocra Aeromancer"]
 ---

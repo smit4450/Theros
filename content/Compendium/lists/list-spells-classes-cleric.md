@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/class/cleric
+- spell/list/class/cleric
 aliases:
 - Cleric Spells
 ---

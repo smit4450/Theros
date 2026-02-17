@@ -3,13 +3,13 @@ title: Giant Owl
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+- src/5e/xmm
+- monster/cr/1-4
+- monster/environment/arctic
+- monster/environment/forest
+- monster/environment/hill
+- monster/size/large
+- monster/type/celestial
 statblock: inline
 aliases: ["Giant Owl"]
 ---

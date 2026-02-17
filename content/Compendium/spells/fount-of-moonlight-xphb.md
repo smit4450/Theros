@@ -3,12 +3,12 @@ title: Fount of Moonlight
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/circle-of-the-moon
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/level/4th-level
+- spell/school/evocation
+- spell/subclass/circle-of-the-moon
 classes:
 - Bard
 - Druid

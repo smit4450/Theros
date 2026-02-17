@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/life-domain
+- spell/list/subclass/life-domain
 aliases:
 - Spells for Life Domain
 ---

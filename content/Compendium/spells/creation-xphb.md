@@ -3,13 +3,13 @@ title: Creation
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/illusionist
+- src/5e/xphb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/5th-level
+- spell/school/illusion
+- spell/subclass/illusionist
 classes:
 - Bard
 - Sorcerer

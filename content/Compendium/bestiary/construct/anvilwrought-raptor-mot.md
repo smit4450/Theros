@@ -3,10 +3,10 @@ title: Anvilwrought Raptor
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/construct
+- src/5e/mot
+- monster/cr/1-2
+- monster/size/tiny
+- monster/type/construct
 statblock: inline
 aliases: ["Anvilwrought Raptor"]
 ---

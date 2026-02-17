@@ -3,8 +3,8 @@ title: Orc
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/orc
+- src/5e/xphb
+- race/orc
 aliases: ["Orc"]
 ---
 # Orc

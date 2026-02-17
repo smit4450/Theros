@@ -3,10 +3,10 @@ title: Construct Spirit (Clay)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+- src/5e/xphb
+- monster/cr/
+- monster/size/medium
+- monster/type/construct
 statblock: inline
 aliases: ["Construct Spirit (Clay)"]
 ---

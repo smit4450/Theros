@@ -3,11 +3,11 @@ title: Arch-hag
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fey
+- src/5e/xmm
+- monster/cr/21
+- monster/environment/any
+- monster/size/large
+- monster/type/fey
 statblock: inline
 aliases: ["Arch-hag"]
 ---

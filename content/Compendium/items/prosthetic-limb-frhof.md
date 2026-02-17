@@ -3,8 +3,8 @@ title: Prosthetic Limb
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/item/rarity/common
+- src/5e/frhof
+- item/rarity/common
 aliases: 
 - "Prosthetic Limb"
 ---

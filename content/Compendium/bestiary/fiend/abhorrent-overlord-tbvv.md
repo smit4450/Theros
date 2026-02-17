@@ -3,10 +3,10 @@ title: Abhorrent Overlord
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvv
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/fiend
+- src/5e/tbvv
+- monster/cr/9
+- monster/size/l
+- monster/type/fiend
 statblock: inline
 aliases: ["Abhorrent Overlord"]
 ---

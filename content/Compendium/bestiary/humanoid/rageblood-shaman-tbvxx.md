@@ -3,10 +3,10 @@ title: Rageblood Shaman
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxx
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvxx
+- monster/cr/4
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Rageblood Shaman"]
 ---

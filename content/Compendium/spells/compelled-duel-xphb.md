@@ -3,12 +3,12 @@ title: Compelled Duel
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/reward/iroass-devotee
-- ttrpg-cli/spell/school/enchantment
+- src/5e/xphb
+- spell/class/paladin
+- spell/feat/fey-touched
+- spell/level/1st-level
+- spell/reward/iroass-devotee
+- spell/school/enchantment
 classes:
 - Paladin
 aliases: ["Compelled Duel"]

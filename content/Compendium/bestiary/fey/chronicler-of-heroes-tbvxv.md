@@ -3,10 +3,10 @@ title: Chronicler of Heroes
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxv
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/fey
+- src/5e/tbvxv
+- monster/cr/1-4
+- monster/size/m
+- monster/type/fey
 statblock: inline
 aliases: ["Chronicler of Heroes"]
 ---

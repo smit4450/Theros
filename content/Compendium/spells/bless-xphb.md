@@ -3,16 +3,16 @@ title: Bless
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/life-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/paladin
+- spell/feat/fey-touched
+- spell/feat/magic-initiate/cleric-spells
+- spell/level/1st-level
+- spell/school/enchantment
+- spell/subclass/college-of-lore
+- spell/subclass/life-domain
 classes:
 - Bard
 - Bard (College of Lore)

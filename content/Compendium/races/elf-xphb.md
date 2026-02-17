@@ -3,8 +3,8 @@ title: Elf
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/elf
+- src/5e/xphb
+- race/elf
 aliases: ["Elf"]
 ---
 # Elf

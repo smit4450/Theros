@@ -3,14 +3,14 @@ title: Yuan-ti Abomination
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/7
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/swamp
+- monster/environment/urban
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Yuan-ti Abomination"]
 ---

@@ -3,10 +3,10 @@ title: Fabled Hero
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxviii
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvxviii
+- monster/cr/5
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Fabled Hero"]
 ---

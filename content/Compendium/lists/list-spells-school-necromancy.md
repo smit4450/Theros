@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/school/necromancy
+- spell/list/school/necromancy
 aliases:
 - Necromancy Spells
 ---

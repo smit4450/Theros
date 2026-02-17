@@ -3,9 +3,9 @@ title: Potion of Aqueous Form
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/potion
+- src/5e/mot
+- item/rarity/rare
+- item/wondrous/potion
 aliases: 
 - "Potion of Aqueous Form"
 ---

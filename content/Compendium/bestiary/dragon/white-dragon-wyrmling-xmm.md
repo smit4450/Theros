@@ -3,11 +3,11 @@ title: White Dragon Wyrmling
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/dragon/chromatic
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/arctic
+- monster/size/medium
+- monster/type/dragon/chromatic
 statblock: inline
 aliases: ["White Dragon Wyrmling"]
 ---

@@ -4,9 +4,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/domain/light
-- ttrpg-cli/subclass/cleric/light
+- src/5e/xphb
+- domain/light
+- subclass/cleric/light
 aliases:
 - Light Domain
 ---

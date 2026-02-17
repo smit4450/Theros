@@ -3,20 +3,20 @@ title: Find Familiar
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/ritual-caster
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/pact-of-the-chain
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/class/wizard
+- spell/feat/magic-initiate/wizard-spells
+- spell/feat/ritual-caster
+- spell/level/1st-level
+- spell/optfeature/pact-of-the-chain
+- spell/optfeature/pact-of-the-tome
+- spell/ritual
+- spell/school/conjuration
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
 classes:
 - Bard
 - Bard (College of Lore)

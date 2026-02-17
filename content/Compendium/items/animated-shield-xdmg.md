@@ -3,10 +3,10 @@ title: Animated Shield
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/shield/
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/shield/
 aliases: 
 - "Animated Shield"
 ---

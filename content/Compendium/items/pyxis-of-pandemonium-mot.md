@@ -3,8 +3,8 @@ title: Pyxis of Pandemonium
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/item/rarity/legendary
+- src/5e/mot
+- item/rarity/legendary
 aliases: 
 - "Pyxis of Pandemonium"
 ---

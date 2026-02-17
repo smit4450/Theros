@@ -3,8 +3,8 @@ title: Manual of Bodily Health
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
+- src/5e/xdmg
+- item/rarity/very-rare
 aliases: 
 - "Manual of Bodily Health"
 ---

@@ -3,9 +3,9 @@ title: Half Plate Armor
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/none
+- src/5e/xphb
+- item/armor/medium
+- item/rarity/none
 aliases: 
 - "Half Plate Armor"
 ---

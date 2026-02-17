@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a00a0d40a2e6db19",
+        "id": "746f0b7fc7218494",
         "type": "tabs",
         "children": [
           {
-            "id": "44ab9fd6bc28b079",
+            "id": "70e9e48e4cbd65b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,6 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -234,8 +235,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "44ab9fd6bc28b079",
+  "active": "70e9e48e4cbd65b8",
   "lastOpenFiles": [
+    "Compendium/supernatural-gifts/supernatural-gifts.md",
+    "Tables/spell-table.md",
+    "Utilities/tag-audit.md",
+    "Tables",
+    "Utilities/tag-reference.md",
     "z_Templates/Event.md",
     "z_Templates/Lore.md",
     "z_Templates/Quest.md",
@@ -243,8 +249,6 @@
     "z_Templates/NPC.md",
     "z_Templates/Location.md",
     "z_Templates",
-    "Utilities/tag-audit.md",
-    "Utilities/tag-reference.md",
     "Compendium/realms-of-gods-and-mortals/realms-of-gods-and-mortals.md",
     "Compendium/realms-of-gods-and-mortals/mortal-realm/phoberos-and-skophos/phoberos-and-skophos.md",
     "Compendium/realms-of-gods-and-mortals/mortal-realm/oreskos/oreskos.md",
@@ -262,8 +266,6 @@
     "Compendium/realms-of-gods-and-mortals/mortal-realm/realms-of-the-returned/realms-of-the-returned.md",
     "Compendium/realms-of-gods-and-mortals/mortal-realm/the-siren-sea/the-siren-sea.md",
     "Compendium/realms-of-gods-and-mortals/mortal-realm/skola-vale/skola-vale.md",
-    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-katachthon-mountains/the-katachthon-mountains.md",
-    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-oraniad-mountains/the-oraniad-mountains.md",
     "Compendium/realms-of-gods-and-mortals/mortal-realm/the-oraniad-mountains",
     "Compendium/realms-of-gods-and-mortals/mortal-realm/the-katachthon-mountains",
     "Compendium/realms-of-gods-and-mortals/mortal-realm/skola-vale",
@@ -271,7 +273,6 @@
     "Compendium/realms-of-gods-and-mortals/mortal-realm/realms-of-the-returned",
     "Compendium/realms-of-gods-and-mortals/mortal-realm/phoberos-and-skophos",
     "Compendium/realms-of-gods-and-mortals/mortal-realm/oreskos",
-    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-poleis/setessa",
     "Backgrounds/AgoraHD.jpg",
     "Backgrounds/AbandonedTempleHD.jpg",
     "mythic-odysseys-of-theros/img/086-04-11.webp",

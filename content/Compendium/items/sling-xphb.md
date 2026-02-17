@@ -3,10 +3,10 @@ title: Sling
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
+- src/5e/xphb
+- item/rarity/none
+- item/weapon/ranged
+- item/weapon/simple
 aliases: 
 - "Sling"
 ---

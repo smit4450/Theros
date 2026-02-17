@@ -4,6 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
+tags:
+  - utility/
 ---
 # Index of Fey
 

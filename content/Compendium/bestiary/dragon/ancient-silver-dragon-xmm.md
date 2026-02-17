@@ -3,12 +3,12 @@ title: Ancient Silver Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon/metallic
+- src/5e/xmm
+- monster/cr/23
+- monster/environment/mountain
+- monster/environment/urban
+- monster/size/gargantuan
+- monster/type/dragon/metallic
 statblock: inline
 aliases: ["Ancient Silver Dragon"]
 ---

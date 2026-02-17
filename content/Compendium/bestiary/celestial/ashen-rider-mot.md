@@ -3,10 +3,10 @@ title: Ashen Rider
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/celestial
+- src/5e/mot
+- monster/cr/16
+- monster/size/medium
+- monster/type/celestial
 statblock: inline
 aliases: ["Ashen Rider"]
 ---

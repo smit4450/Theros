@@ -3,10 +3,10 @@ title: Longbow
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/ranged
+- src/5e/xphb
+- item/rarity/none
+- item/weapon/martial
+- item/weapon/ranged
 aliases: 
 - "Longbow"
 ---

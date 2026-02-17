@@ -3,12 +3,12 @@ title: Ancient Blue Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon/chromatic
+- src/5e/xmm
+- monster/cr/23
+- monster/environment/coastal
+- monster/environment/desert
+- monster/size/gargantuan
+- monster/type/dragon/chromatic
 statblock: inline
 aliases: ["Ancient Blue Dragon"]
 ---

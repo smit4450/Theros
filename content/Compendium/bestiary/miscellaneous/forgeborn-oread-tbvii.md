@@ -3,10 +3,10 @@ title: Forgeborn Oread
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvii
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvii
+- monster/cr/7
+- monster/size/m
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Forgeborn Oread"]
 ---

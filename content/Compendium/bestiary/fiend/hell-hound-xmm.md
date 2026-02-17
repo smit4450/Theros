@@ -3,14 +3,14 @@ title: Hell Hound
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/lower
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+- src/5e/xmm
+- monster/cr/3
+- monster/environment/lower
+- monster/environment/mountain
+- monster/environment/planar
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/fiend
 statblock: inline
 aliases: ["Hell Hound"]
 ---

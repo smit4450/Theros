@@ -3,14 +3,14 @@ title: Earth Elemental
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/earth
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/earth
+- monster/environment/mountain
+- monster/environment/planar
+- monster/environment/underdark
+- monster/size/large
+- monster/type/elemental
 statblock: inline
 aliases: ["Earth Elemental"]
 ---

@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/phb
+- src/5e/phb
 aliases:
 - Metamagic
 ---

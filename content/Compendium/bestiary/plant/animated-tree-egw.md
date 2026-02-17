@@ -3,10 +3,10 @@ title: Animated Tree
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/plant
+- src/5e/egw
+- monster/cr/9
+- monster/size/huge
+- monster/type/plant
 statblock: inline
 aliases: ["Animated Tree"]
 ---

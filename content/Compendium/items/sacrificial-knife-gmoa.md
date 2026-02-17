@@ -3,12 +3,12 @@ title: "Sacrificial Knife"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/weapon/melee
+- src/5e/gmoa
+- item/attunement/required
+- item/rarity/very-rare
+- item/weapon
+- item/weapon/simple
+- item/weapon/melee
 aliases: 
 - "Sacrificial Knife"
 ---

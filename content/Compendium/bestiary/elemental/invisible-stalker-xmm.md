@@ -3,11 +3,11 @@ title: Invisible Stalker
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/6
+- monster/environment/urban
+- monster/size/large
+- monster/type/elemental
 statblock: inline
 aliases: ["Invisible Stalker"]
 ---

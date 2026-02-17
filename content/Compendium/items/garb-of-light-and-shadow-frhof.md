@@ -3,9 +3,9 @@ title: Garb of Light and Shadow
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
+- src/5e/frhof
+- item/gear/
+- item/rarity/none
 aliases: 
 - "Garb of Light and Shadow"
 ---

@@ -3,11 +3,11 @@ title: Adult Copper Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon/metallic
+- src/5e/xmm
+- monster/cr/14
+- monster/environment/hill
+- monster/size/huge
+- monster/type/dragon/metallic
 statblock: inline
 aliases: ["Adult Copper Dragon"]
 ---

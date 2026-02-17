@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/ranger
-- ttrpg-cli/compendium/src/5e/xphb
+- class/ranger
+- src/5e/xphb
 aliases:
 - Ranger
 ---

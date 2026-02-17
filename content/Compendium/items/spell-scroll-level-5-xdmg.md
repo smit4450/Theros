@@ -3,9 +3,9 @@ title: Spell Scroll (Level 5)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/scroll
+- src/5e/xdmg
+- item/rarity/rare
+- item/wondrous/scroll
 aliases: 
 - "Spell Scroll (Level 5)"
 ---

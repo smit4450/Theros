@@ -3,9 +3,9 @@ title: Plate Armor
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/rarity/none
+- src/5e/xphb
+- item/armor/heavy
+- item/rarity/none
 aliases: 
 - "Plate Armor"
 ---

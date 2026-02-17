@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/abjurer
+- spell/list/subclass/abjurer
 aliases:
 - Spells for Abjurer
 ---

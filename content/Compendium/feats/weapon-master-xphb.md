@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/feat
+- src/5e/xphb
+- feat
 aliases:
 - Weapon Master
 ---

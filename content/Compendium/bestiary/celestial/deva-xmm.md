@@ -3,12 +3,12 @@ title: Deva
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/upper
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/celestial/angel
+- src/5e/xmm
+- monster/cr/10
+- monster/environment/planar
+- monster/environment/upper
+- monster/size/medium
+- monster/type/celestial/angel
 statblock: inline
 aliases: ["Deva"]
 ---

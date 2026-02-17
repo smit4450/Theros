@@ -3,10 +3,10 @@ title: Ravenous Brute Head
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvx
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvx
+- monster/cr/3
+- monster/size/h
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Ravenous Brute Head"]
 ---

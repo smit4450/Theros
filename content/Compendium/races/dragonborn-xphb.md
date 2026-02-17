@@ -3,8 +3,8 @@ title: Dragonborn
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/dragonborn
+- src/5e/xphb
+- race/dragonborn
 aliases: ["Dragonborn"]
 ---
 # Dragonborn

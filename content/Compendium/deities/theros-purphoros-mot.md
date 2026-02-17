@@ -4,10 +4,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/forge
-- ttrpg-cli/domain/knowledge
+- src/5e/mot
+- deity/theros
+- domain/forge
+- domain/knowledge
 aliases: 
 - Purphoros
 ---

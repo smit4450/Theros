@@ -3,9 +3,9 @@ title: Damage Resistance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/enchantment/universal
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/attunement/required
+- crafting/enchantment/universal
+- item/rarity/rare
+- item/attunement/required
 aliases:
 - Damage Resistance
 ---

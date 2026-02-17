@@ -3,10 +3,10 @@ title: Returned Drifter
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+- src/5e/mot
+- monster/cr/1-4
+- monster/size/medium
+- monster/type/undead
 statblock: inline
 aliases: ["Returned Drifter"]
 ---

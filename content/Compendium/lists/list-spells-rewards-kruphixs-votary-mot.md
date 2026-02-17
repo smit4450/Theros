@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/kruphixs-votary
+- spell/list/reward/kruphixs-votary
 aliases:
 - Spells for Kruphix's Votary
 ---

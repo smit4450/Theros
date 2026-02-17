@@ -3,9 +3,9 @@ title: Gold comb shaped like a dragon with red garnets as eyes
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/gear/treasure-art-object
-- ttrpg-cli/item/rarity/none
+- src/5e/xdmg
+- item/gear/treasure-art-object
+- item/rarity/none
 aliases: 
 - "Gold comb shaped like a dragon with red garnets as eyes"
 ---

@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/kruphixs-devotee
+- spell/list/reward/kruphixs-devotee
 aliases:
 - Spells for Kruphix's Devotee
 ---

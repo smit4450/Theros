@@ -3,10 +3,10 @@ title: Siren
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tftyp
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+- src/5e/tftyp
+- monster/cr/3
+- monster/size/medium
+- monster/type/fey
 statblock: inline
 aliases: ["Siren"]
 ---

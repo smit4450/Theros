@@ -3,10 +3,10 @@ title: Returned Reveler
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxii
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/undead
+- src/5e/tbvxxii
+- monster/cr/2
+- monster/size/m
+- monster/type/undead
 statblock: inline
 aliases: ["Returned Reveler"]
 ---

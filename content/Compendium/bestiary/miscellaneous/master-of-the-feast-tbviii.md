@@ -3,10 +3,10 @@ title: Master of the Feast
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviii
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbviii
+- monster/cr/7
+- monster/size/l
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Master of the Feast"]
 ---

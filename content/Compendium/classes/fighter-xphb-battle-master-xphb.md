@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/fighter/battle-master
+- src/5e/xphb
+- subclass/fighter/battle-master
 aliases:
 - Battle Master
 ---

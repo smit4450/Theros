@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/banneret
+- spell/list/subclass/banneret
 aliases:
 - Spells for Banneret
 ---

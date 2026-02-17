@@ -3,9 +3,9 @@ title: Fey Step
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/enchantment/armor
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/attunement/required
+- crafting/enchantment/armor
+- item/rarity/rare
+- item/attunement/required
 aliases:
 - Fey Step
 ---

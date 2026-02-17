@@ -3,14 +3,14 @@ title: Yuan-ti Malison (Type 3)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/3
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/swamp
+- monster/environment/urban
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Yuan-ti Malison (Type 3)"]
 ---

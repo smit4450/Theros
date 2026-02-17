@@ -3,10 +3,10 @@ title: Tethmos High Priest
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxix
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvxix
+- monster/cr/3
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Tethmos High Priest"]
 ---

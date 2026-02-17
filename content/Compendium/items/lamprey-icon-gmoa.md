@@ -3,9 +3,9 @@ title: "Lamprey Icon"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous
+- src/5e/gmoa
+- item/rarity/very-rare
+- item/wondrous
 aliases: 
 - "Lamprey Icon"
 ---

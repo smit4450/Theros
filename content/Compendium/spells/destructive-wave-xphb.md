@@ -3,10 +3,10 @@ title: Destructive Wave
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
+- src/5e/xphb
+- spell/class/paladin
+- spell/level/5th-level
+- spell/school/evocation
 classes:
 - Paladin
 aliases: ["Destructive Wave"]

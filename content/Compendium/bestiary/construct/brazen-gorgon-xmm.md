@@ -3,13 +3,13 @@ title: Brazen Gorgon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+- src/5e/xmm
+- monster/cr/9
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/size/large
+- monster/type/construct
 statblock: inline
 aliases: ["Brazen Gorgon"]
 ---

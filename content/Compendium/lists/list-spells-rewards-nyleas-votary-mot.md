@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/nyleas-votary
+- spell/list/reward/nyleas-votary
 aliases:
 - Spells for Nylea's Votary
 ---

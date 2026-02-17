@@ -3,10 +3,10 @@ title: Fiendish Spirit (Yugoloth)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend
+- src/5e/xphb
+- monster/cr/
+- monster/size/large
+- monster/type/fiend
 statblock: inline
 aliases: ["Fiendish Spirit (Yugoloth)"]
 ---

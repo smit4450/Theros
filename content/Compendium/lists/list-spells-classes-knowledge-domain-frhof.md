@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/knowledge-domain
+- spell/list/subclass/knowledge-domain
 aliases:
 - Spells for Knowledge Domain
 ---

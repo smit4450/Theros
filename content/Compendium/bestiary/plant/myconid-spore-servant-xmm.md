@@ -3,11 +3,11 @@ title: Myconid Spore Servant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/plant
+- src/5e/xmm
+- monster/cr/1
+- monster/environment/underdark
+- monster/size/small-or-medium
+- monster/type/plant
 statblock: inline
 aliases: ["Myconid Spore Servant"]
 ---

@@ -3,13 +3,13 @@ title: Enspelled Armor (Level 1)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/armor/heavy
+- item/armor/light
+- item/armor/medium
+- item/attunement/required
+- item/rarity/uncommon
+- item/wondrous/generic-variant
 aliases: 
 - "Enspelled Armor (Level 1)"
 - "Enspelled (Level 1) Breastplate"

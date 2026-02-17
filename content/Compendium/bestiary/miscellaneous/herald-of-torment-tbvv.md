@@ -3,10 +3,10 @@ title: Herald of Torment
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvv
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvv
+- monster/cr/5
+- monster/size/l
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Herald of Torment"]
 ---

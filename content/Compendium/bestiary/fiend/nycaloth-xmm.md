@@ -3,12 +3,12 @@ title: Nycaloth
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/gehenna
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/yugoloth
+- src/5e/xmm
+- monster/cr/9
+- monster/environment/gehenna
+- monster/environment/planar
+- monster/size/large
+- monster/type/fiend/yugoloth
 statblock: inline
 aliases: ["Nycaloth"]
 ---

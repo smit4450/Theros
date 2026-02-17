@@ -3,13 +3,13 @@ title: Archdruid
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+- src/5e/vgm
+- monster/cr/12
+- monster/environment/forest
+- monster/environment/mountain
+- monster/environment/swamp
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
 aliases: ["Archdruid"]
 ---

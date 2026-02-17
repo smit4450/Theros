@@ -3,12 +3,12 @@ title: Grick Ancient
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+- src/5e/xmm
+- monster/cr/7
+- monster/environment/forest
+- monster/environment/underdark
+- monster/size/large
+- monster/type/aberration
 statblock: inline
 aliases: ["Grick Ancient"]
 ---

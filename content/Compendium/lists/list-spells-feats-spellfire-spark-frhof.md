@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/spellfire-spark
+- spell/list/feat/spellfire-spark
 aliases:
 - Spells for Spellfire Spark
 ---

@@ -3,12 +3,12 @@ title: Planetar
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/upper
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial/angel
+- src/5e/xmm
+- monster/cr/16
+- monster/environment/planar
+- monster/environment/upper
+- monster/size/large
+- monster/type/celestial/angel
 statblock: inline
 aliases: ["Planetar"]
 ---

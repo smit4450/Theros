@@ -3,16 +3,16 @@ title: Faerie Fire
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/race/elf/drow
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/light-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/feat/magic-initiate/druid-spells
+- spell/level/1st-level
+- spell/race/elf/drow
+- spell/school/evocation
+- spell/subclass/archfey-patron
+- spell/subclass/college-of-lore
+- spell/subclass/light-domain
 classes:
 - Bard
 - Bard (College of Lore)

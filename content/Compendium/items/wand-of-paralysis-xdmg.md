@@ -3,10 +3,10 @@ title: Wand of Paralysis
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/wand
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/rare
+- item/wondrous/wand
 aliases: 
 - "Wand of Paralysis"
 ---

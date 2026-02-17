@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/wizard
-- ttrpg-cli/compendium/src/5e/xphb
+- class/wizard
+- src/5e/xphb
 aliases:
 - Wizard
 ---

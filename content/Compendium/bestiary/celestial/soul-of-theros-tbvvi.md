@@ -3,10 +3,10 @@ title: Soul of Theros
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvvi
-- ttrpg-cli/monster/cr/27
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/celestial
+- src/5e/tbvvi
+- monster/cr/27
+- monster/size/g
+- monster/type/celestial
 statblock: inline
 aliases: ["Soul of Theros"]
 ---

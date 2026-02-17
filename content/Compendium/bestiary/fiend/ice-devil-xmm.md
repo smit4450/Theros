@@ -3,12 +3,12 @@ title: Ice Devil
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/environment/nine-hells
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/devil
+- src/5e/xmm
+- monster/cr/14
+- monster/environment/nine-hells
+- monster/environment/planar
+- monster/size/large
+- monster/type/fiend/devil
 statblock: inline
 aliases: ["Ice Devil"]
 ---

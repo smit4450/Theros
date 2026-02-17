@@ -3,11 +3,11 @@ title: Half-Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/dragon
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/any
+- monster/size/medium
+- monster/type/dragon
 statblock: inline
 aliases: ["Half-Dragon"]
 ---

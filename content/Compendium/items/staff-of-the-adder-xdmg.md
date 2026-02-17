@@ -3,11 +3,11 @@ title: Staff of the Adder
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/uncommon
+- item/weapon/melee
+- item/weapon/simple
 aliases: 
 - "Staff of the Adder"
 ---

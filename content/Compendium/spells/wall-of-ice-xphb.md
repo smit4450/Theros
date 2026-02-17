@@ -3,12 +3,12 @@ title: Wall of Ice
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/evoker
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/level/6th-level
+- spell/school/evocation
+- spell/subclass/evoker
 classes:
 - Bard
 - Wizard

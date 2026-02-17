@@ -3,18 +3,18 @@ title: Arcane Eye
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/optfeature/visions-of-distant-realms
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/draconic-sorcery
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/knowledge-domain
-- ttrpg-cli/spell/subclass/light-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/level/4th-level
+- spell/optfeature/visions-of-distant-realms
+- spell/school/divination
+- spell/subclass/arcane-trickster
+- spell/subclass/diviner
+- spell/subclass/draconic-sorcery
+- spell/subclass/eldritch-knight
+- spell/subclass/knowledge-domain
+- spell/subclass/light-domain
 classes:
 - Bard
 - Cleric (Knowledge Domain)

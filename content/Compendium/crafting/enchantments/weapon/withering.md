@@ -3,9 +3,9 @@ title: Withering
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/enchantment/weapon
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/attunement/required
+- crafting/enchantment/weapon
+- item/rarity/rare
+- item/attunement/required
 aliases:
 - Withering
 ---

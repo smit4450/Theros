@@ -3,10 +3,10 @@ title: Dagger of Venom
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+- src/5e/xdmg
+- item/rarity/rare
+- item/weapon/melee
+- item/weapon/simple
 aliases: 
 - "Dagger of Venom"
 ---

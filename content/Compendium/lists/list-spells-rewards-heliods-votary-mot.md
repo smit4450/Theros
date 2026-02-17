@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/heliods-votary
+- spell/list/reward/heliods-votary
 aliases:
 - Spells for Heliod's Votary
 ---

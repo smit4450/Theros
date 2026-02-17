@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/oath-of-glory
+- spell/list/subclass/oath-of-glory
 aliases:
 - Spells for Oath of Glory
 ---

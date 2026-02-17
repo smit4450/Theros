@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/illusionist
+- spell/list/subclass/illusionist
 aliases:
 - Spells for Illusionist
 ---

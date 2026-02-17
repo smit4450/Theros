@@ -3,12 +3,12 @@ title: Young Blue Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon/chromatic
+- src/5e/xmm
+- monster/cr/9
+- monster/environment/coastal
+- monster/environment/desert
+- monster/size/large
+- monster/type/dragon/chromatic
 statblock: inline
 aliases: ["Young Blue Dragon"]
 ---

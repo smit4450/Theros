@@ -3,12 +3,12 @@ title: Telepathy
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/diviner
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/level/8th-level
+- spell/school/divination
+- spell/subclass/diviner
 classes:
 - Bard
 - Wizard

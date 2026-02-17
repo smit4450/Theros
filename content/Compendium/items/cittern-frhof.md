@@ -3,9 +3,9 @@ title: Cittern
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/item/gear/tool
-- ttrpg-cli/item/rarity/none
+- src/5e/frhof
+- item/gear/tool
+- item/rarity/none
 aliases: 
 - "Cittern"
 ---

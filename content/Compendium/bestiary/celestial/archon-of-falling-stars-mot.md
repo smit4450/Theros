@@ -3,10 +3,10 @@ title: Archon of Falling Stars
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/celestial
+- src/5e/mot
+- monster/cr/12
+- monster/size/medium
+- monster/type/celestial
 statblock: inline
 aliases: ["Archon of Falling Stars"]
 ---

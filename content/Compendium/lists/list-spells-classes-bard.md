@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/class/bard
+- spell/list/class/bard
 aliases:
 - Bard Spells
 ---

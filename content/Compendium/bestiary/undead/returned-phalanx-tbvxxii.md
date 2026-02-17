@@ -3,10 +3,10 @@ title: Returned Phalanx
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxii
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/undead
+- src/5e/tbvxxii
+- monster/cr/8
+- monster/size/l
+- monster/type/undead
 statblock: inline
 aliases: ["Returned Phalanx"]
 ---

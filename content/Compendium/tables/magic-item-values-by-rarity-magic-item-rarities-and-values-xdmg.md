@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
+- src/5e/xdmg
 aliases:
 - Magic Item Values by Rarity; Magic Item Rarities and Values
 ---

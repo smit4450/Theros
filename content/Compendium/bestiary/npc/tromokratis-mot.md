@@ -3,10 +3,10 @@ title: Tromokratis
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/26
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity/titan
+- src/5e/mot
+- monster/cr/26
+- monster/size/gargantuan
+- monster/type/monstrosity/titan
 statblock: inline
 aliases: ["Tromokratis"]
 ---

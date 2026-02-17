@@ -3,14 +3,14 @@ title: Flame Strike
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/light-domain
-- ttrpg-cli/spell/subclass/oath-of-devotion
-- ttrpg-cli/spell/subclass/spellfire-sorcery
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/level/5th-level
+- spell/school/evocation
+- spell/subclass/light-domain
+- spell/subclass/oath-of-devotion
+- spell/subclass/spellfire-sorcery
 classes:
 - Bard
 - Cleric

@@ -3,10 +3,10 @@ title: Coastline Chimera
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvi
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvi
+- monster/cr/2
+- monster/size/l
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Coastline Chimera"]
 ---

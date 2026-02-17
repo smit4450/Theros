@@ -3,9 +3,9 @@ title: Potion of Giant Strength
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/varies
-- ttrpg-cli/item/wondrous/potion
+- src/5e/xdmg
+- item/rarity/varies
+- item/wondrous/potion
 aliases: 
 - "Potion of Giant Strength"
 ---

@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/oath-of-the-ancients
+- spell/list/subclass/oath-of-the-ancients
 aliases:
 - Spells for Oath of the Ancients
 ---

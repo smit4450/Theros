@@ -3,9 +3,9 @@ title: Yarting
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/none
+- src/5e/frhof
+- item/gear/instrument
+- item/rarity/none
 aliases: 
 - "Yarting"
 ---

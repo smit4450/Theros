@@ -3,11 +3,11 @@ title: Bronze Dragon Wyrmling
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/dragon/metallic
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/coastal
+- monster/size/medium
+- monster/type/dragon/metallic
 statblock: inline
 aliases: ["Bronze Dragon Wyrmling"]
 ---

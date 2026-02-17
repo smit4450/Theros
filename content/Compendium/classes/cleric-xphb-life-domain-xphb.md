@@ -4,9 +4,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/domain/life
-- ttrpg-cli/subclass/cleric/life
+- src/5e/xphb
+- domain/life
+- subclass/cleric/life
 aliases:
 - Life Domain
 ---

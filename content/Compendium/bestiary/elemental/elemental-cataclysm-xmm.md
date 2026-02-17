@@ -3,12 +3,12 @@ title: Elemental Cataclysm
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/22
-- ttrpg-cli/monster/environment/elemental-chaos
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/elemental/titan
+- src/5e/xmm
+- monster/cr/22
+- monster/environment/elemental-chaos
+- monster/environment/planar
+- monster/size/gargantuan
+- monster/type/elemental/titan
 statblock: inline
 aliases: ["Elemental Cataclysm"]
 ---

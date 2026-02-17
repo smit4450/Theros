@@ -3,19 +3,19 @@ title: Aid
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/life-domain
-- ttrpg-cli/spell/subclass/oath-of-devotion
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/druid
+- spell/class/paladin
+- spell/class/ranger
+- spell/level/2nd-level
+- spell/school/abjuration
+- spell/subclass/celestial-patron
+- spell/subclass/clockwork-sorcery
+- spell/subclass/college-of-lore
+- spell/subclass/life-domain
+- spell/subclass/oath-of-devotion
 classes:
 - Bard
 - Bard (College of Lore)

@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/spellfire-sorcery
+- spell/list/subclass/spellfire-sorcery
 aliases:
 - Spells for Spellfire Sorcery
 ---

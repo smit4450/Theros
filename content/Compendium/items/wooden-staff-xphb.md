@@ -3,10 +3,10 @@ title: Wooden Staff
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/simple
+- src/5e/xphb
+- item/gear/spellcasting-focus
+- item/rarity/none
+- item/weapon/simple
 aliases: 
 - "Wooden Staff"
 ---

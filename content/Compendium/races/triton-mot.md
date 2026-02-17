@@ -3,8 +3,8 @@ title: Triton
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/race/triton
+- src/5e/mot
+- race/triton
 aliases: ["Triton"]
 ---
 # Triton

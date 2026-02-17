@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-bastion
 tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/xdmg
+- bastion
+- src/5e/xdmg
 aliases:
 - Storage
 ---

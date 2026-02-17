@@ -3,12 +3,12 @@ title: "Otto's Irresistible Dance"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-revelry
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/enchantment
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/feat/boon-of-revelry
+- spell/level/6th-level
+- spell/school/enchantment
 classes:
 - Bard
 - Wizard

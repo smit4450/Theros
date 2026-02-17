@@ -3,12 +3,12 @@ title: Githzerai Psion
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/environment/limbo
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration/gith
+- src/5e/xmm
+- monster/cr/12
+- monster/environment/limbo
+- monster/environment/planar
+- monster/size/medium
+- monster/type/aberration/gith
 statblock: inline
 aliases: ["Githzerai Psion"]
 ---

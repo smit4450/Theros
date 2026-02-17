@@ -1,6 +1,8 @@
 ---
 title: Home
-tags: 
+tags:
+  - utility/
+  - status/active
 aliases:
 ---
 # Welcome to Theros

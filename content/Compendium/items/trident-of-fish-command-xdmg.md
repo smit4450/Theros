@@ -3,11 +3,11 @@ title: Trident of Fish Command
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/uncommon
+- item/weapon/martial
+- item/weapon/melee
 aliases: 
 - "Trident of Fish Command"
 ---

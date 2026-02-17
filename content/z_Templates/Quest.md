@@ -4,12 +4,12 @@ obsidianUIMode: preview
 cssclasses:
   - json5e-note
 tags:
-  - type/quest
-  - loc/theros/
+  - quest
+  - loc/theros/LOCATION
   - status/planned
-  - campaign/
-  - relevance/
-  - source/homebrew
+  - campaign/main
+  - relevance/major
+  - src/homebrew
 aliases:
   - "<% tp.file.title %>"
 created: <% tp.file.creation_date("YYYY-MM-DD") %>

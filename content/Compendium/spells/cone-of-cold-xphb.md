@@ -3,16 +3,16 @@ title: Cone of Cold
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/circle-of-the-land/polar-land
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/winter-walker
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/5th-level
+- spell/school/evocation
+- spell/subclass/circle-of-the-land/polar-land
+- spell/subclass/evoker
+- spell/subclass/winter-walker
 classes:
 - Bard
 - Druid

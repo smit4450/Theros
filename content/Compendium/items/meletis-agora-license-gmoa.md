@@ -3,9 +3,9 @@ title: "Meletis Agora License"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/ring
+- src/5e/gmoa
+- item/rarity/common
+- item/ring
 aliases: 
 - "Meletis Agora License"
 ---

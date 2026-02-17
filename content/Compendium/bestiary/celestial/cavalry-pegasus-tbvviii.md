@@ -3,10 +3,10 @@ title: Cavalry Pegasus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvviii
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/celestial
+- src/5e/tbvviii
+- monster/cr/1
+- monster/size/l
+- monster/type/celestial
 statblock: inline
 aliases: ["Cavalry Pegasus"]
 ---

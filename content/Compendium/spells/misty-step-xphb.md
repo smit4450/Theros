@@ -3,23 +3,23 @@ title: Misty Step
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/race/elf/high-elf
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/fey-wanderer
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-- ttrpg-cli/spell/subclass/oath-of-vengeance
+- src/5e/xphb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/feat/fey-touched
+- spell/level/2nd-level
+- spell/race/elf/high-elf
+- spell/school/conjuration
+- spell/subclass/arcane-trickster
+- spell/subclass/archfey-patron
+- spell/subclass/circle-of-the-land/temperate-land
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
+- spell/subclass/fey-wanderer
+- spell/subclass/oath-of-the-ancients
+- spell/subclass/oath-of-vengeance
 classes:
 - Bard
 - Bard (College of Lore)

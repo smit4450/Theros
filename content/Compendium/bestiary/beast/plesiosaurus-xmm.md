@@ -3,12 +3,12 @@ title: Plesiosaurus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast/dinosaur
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/arctic
+- monster/environment/underwater
+- monster/size/large
+- monster/type/beast/dinosaur
 statblock: inline
 aliases: ["Plesiosaurus"]
 ---

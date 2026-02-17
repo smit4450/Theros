@@ -3,8 +3,8 @@ title: Knight of the Gauntlet
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+- background
+- src/5e/frhof
 aliases: ["Knight of the Gauntlet"]
 ---
 # Knight of the Gauntlet

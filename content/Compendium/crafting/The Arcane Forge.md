@@ -1,3 +1,14 @@
+---
+title: The Arcane Forge
+tags:
+  - rule/
+  - crafting/
+  - src/5e/gmoa
+  - src/homebrew
+aliases:
+  - Arcane Forge
+---
+
 # The Arcane Forge
 
 > "Old stories tell of a great forge beneath the Narandia Mountains, in the lost halls of Starkheim. Stories of artifacts forged in the heat of the very earth. But I know more than old stories. I've seen the forge. I know what can be made there. And if you bring me to it... I'll show you."

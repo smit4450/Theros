@@ -3,8 +3,8 @@ title: Silver
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/rare-metal
-- ttrpg-cli/item/rarity/uncommon
+- crafting/rare-metal
+- item/rarity/uncommon
 aliases:
 - Silver
 ---

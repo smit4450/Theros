@@ -2,7 +2,7 @@
 title: Enchantments
 obsidianUIMode: preview
 tags:
-- ttrpg-cli/crafting/enchantment
+- crafting/enchantment
 aliases:
 - Enchantments
 ---

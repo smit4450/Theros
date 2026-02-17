@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
+- src/5e/frhof
 aliases:
 - Renown Rewards; Lords' Alliance Renown
 ---

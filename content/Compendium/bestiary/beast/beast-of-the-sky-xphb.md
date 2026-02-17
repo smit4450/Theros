@@ -3,10 +3,10 @@ title: Beast of the Sky
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/beast
+- src/5e/xphb
+- monster/cr/
+- monster/size/small
+- monster/type/beast
 statblock: inline
 aliases: ["Beast of the Sky"]
 ---

@@ -3,11 +3,11 @@ title: Khrusor, Spear of Heliod
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+- src/5e/mot
+- item/attunement/required
+- item/rarity/artifact
+- item/weapon/melee
+- item/weapon/simple
 aliases: 
 - "Khrusor, Spear of Heliod"
 ---

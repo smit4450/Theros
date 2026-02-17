@@ -4,9 +4,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/object/size/gargantuan
-- ttrpg-cli/object/type/siege-weapon
+- src/5e/xdmg
+- object/size/gargantuan
+- object/type/siege-weapon
 aliases:
 - Siege Tower
 ---

@@ -3,12 +3,12 @@ title: Jackalwere
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fiend
+- src/5e/xmm
+- monster/cr/1-2
+- monster/environment/desert
+- monster/environment/grassland
+- monster/size/small
+- monster/type/fiend
 statblock: inline
 aliases: ["Jackalwere"]
 ---

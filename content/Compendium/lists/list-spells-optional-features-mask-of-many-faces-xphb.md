@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/mask-of-many-faces
+- spell/list/optfeature/mask-of-many-faces
 aliases:
 - Spells for Mask of Many Faces
 ---

@@ -3,8 +3,8 @@ title: Ice Fisher
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/frhof
+- background
+- src/5e/frhof
 aliases: ["Ice Fisher"]
 ---
 # Ice Fisher

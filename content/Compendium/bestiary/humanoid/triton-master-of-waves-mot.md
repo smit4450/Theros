@@ -3,10 +3,10 @@ title: Triton Master of Waves
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/triton
+- src/5e/mot
+- monster/cr/8
+- monster/size/medium
+- monster/type/humanoid/triton
 statblock: inline
 aliases: ["Triton Master of Waves"]
 ---

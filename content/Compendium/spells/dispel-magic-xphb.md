@@ -3,25 +3,25 @@ title: Dispel Magic
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/knowledge-domain
-- ttrpg-cli/spell/subclass/oath-of-devotion
-- ttrpg-cli/spell/subclass/spellfire-sorcery
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/druid
+- spell/class/paladin
+- spell/class/ranger
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/3rd-level
+- spell/school/abjuration
+- spell/subclass/abjurer
+- spell/subclass/arcane-trickster
+- spell/subclass/clockwork-sorcery
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
+- spell/subclass/knowledge-domain
+- spell/subclass/oath-of-devotion
+- spell/subclass/spellfire-sorcery
 classes:
 - Bard
 - Bard (College of Lore)

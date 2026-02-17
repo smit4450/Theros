@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/subclass/paladin/noble-genies
+- src/5e/frhof
+- subclass/paladin/noble-genies
 aliases:
 - Oath of the Noble Genies
 ---

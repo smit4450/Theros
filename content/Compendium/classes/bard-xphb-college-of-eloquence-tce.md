@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/bard/eloquence
+- src/5e/tce
+- subclass/bard/eloquence
 aliases:
 - College of Eloquence
 ---

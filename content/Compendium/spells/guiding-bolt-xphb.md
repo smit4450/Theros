@@ -3,18 +3,18 @@ title: Guiding Bolt
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/circle-of-the-stars
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/oath-of-glory
-- ttrpg-cli/spell/subclass/spellfire-sorcery
-- ttrpg-cli/spell/subclass/war-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/feat/magic-initiate/cleric-spells
+- spell/level/1st-level
+- spell/school/evocation
+- spell/subclass/celestial-patron
+- spell/subclass/circle-of-the-stars
+- spell/subclass/college-of-lore
+- spell/subclass/oath-of-glory
+- spell/subclass/spellfire-sorcery
+- spell/subclass/war-domain
 classes:
 - Bard
 - Bard (College of Lore)

@@ -3,10 +3,10 @@ title: Sylvan Caryatid
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxii
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/plant
+- src/5e/tbvxii
+- monster/cr/9
+- monster/size/h
+- monster/type/plant
 statblock: inline
 aliases: ["Sylvan Caryatid"]
 ---

@@ -3,10 +3,10 @@ title: Nyxborn Soldier
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviii
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbviii
+- monster/cr/1
+- monster/size/m
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Nyxborn Soldier"]
 ---

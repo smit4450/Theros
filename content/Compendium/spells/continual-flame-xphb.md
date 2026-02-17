@@ -3,17 +3,17 @@ title: Continual Flame
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/druid
+- spell/class/wizard
+- spell/level/2nd-level
+- spell/school/evocation
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
+- spell/subclass/evoker
 classes:
 - Bard
 - Bard (College of Lore)

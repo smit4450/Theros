@@ -3,10 +3,10 @@ title: Avatar of Death
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+- src/5e/xdmg
+- monster/cr/
+- monster/size/medium
+- monster/type/undead
 statblock: inline
 aliases: ["Avatar of Death"]
 ---

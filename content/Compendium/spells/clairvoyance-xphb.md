@@ -3,19 +3,19 @@ title: Clairvoyance
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/reward/klothyss-votary
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/great-old-one-patron
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/3rd-level
+- spell/reward/klothyss-votary
+- spell/school/divination
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/diviner
+- spell/subclass/eldritch-knight
+- spell/subclass/great-old-one-patron
 classes:
 - Bard
 - Bard (College of Lore)

@@ -3,9 +3,9 @@ title: Sentinel Shield
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/shield/
+- src/5e/xdmg
+- item/rarity/uncommon
+- item/shield/
 aliases: 
 - "Sentinel Shield"
 ---

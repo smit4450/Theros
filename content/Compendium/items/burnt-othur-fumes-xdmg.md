@@ -3,9 +3,9 @@ title: Burnt Othur Fumes
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
+- src/5e/xdmg
+- item/gear/
+- item/rarity/none
 aliases: 
 - "Burnt Othur Fumes"
 ---

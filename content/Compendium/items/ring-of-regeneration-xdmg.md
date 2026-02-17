@@ -3,10 +3,10 @@ title: Ring of Regeneration
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/ring
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/wondrous/ring
 aliases: 
 - "Ring of Regeneration"
 ---

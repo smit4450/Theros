@@ -3,10 +3,10 @@ title: Spawn of Thraxes
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvvi
-- ttrpg-cli/monster/cr/24
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/dragon
+- src/5e/tbvvi
+- monster/cr/24
+- monster/size/g
+- monster/type/dragon
 statblock: inline
 aliases: ["Spawn of Thraxes"]
 ---

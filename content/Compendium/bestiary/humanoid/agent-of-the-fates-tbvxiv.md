@@ -3,10 +3,10 @@ title: Agent of the Fates
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxiv
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvxiv
+- monster/cr/9
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Agent of the Fates"]
 ---

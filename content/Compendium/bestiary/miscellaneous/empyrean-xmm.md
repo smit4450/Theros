@@ -3,11 +3,11 @@ title: Empyrean
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type//titan
+- src/5e/xmm
+- monster/cr/23
+- monster/environment/any
+- monster/size/huge
+- monster/type//titan
 statblock: inline
 aliases: ["Empyrean"]
 ---

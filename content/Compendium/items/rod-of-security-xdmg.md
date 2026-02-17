@@ -3,9 +3,9 @@ title: Rod of Security
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/rod
+- src/5e/xdmg
+- item/rarity/very-rare
+- item/wondrous/rod
 aliases: 
 - "Rod of Security"
 ---

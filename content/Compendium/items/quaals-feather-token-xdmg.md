@@ -3,8 +3,8 @@ title: "Quaal's Feather Token"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/varies
+- src/5e/xdmg
+- item/rarity/varies
 aliases: 
 - "Quaal's Feather Token"
 ---

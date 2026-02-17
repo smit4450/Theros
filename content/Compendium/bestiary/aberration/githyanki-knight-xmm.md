@@ -3,12 +3,12 @@ title: Githyanki Knight
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/astral
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration/gith
+- src/5e/xmm
+- monster/cr/8
+- monster/environment/astral
+- monster/environment/planar
+- monster/size/medium
+- monster/type/aberration/gith
 statblock: inline
 aliases: ["Githyanki Knight"]
 ---

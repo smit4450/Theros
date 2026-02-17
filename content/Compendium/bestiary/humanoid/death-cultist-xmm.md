@@ -3,11 +3,11 @@ title: Death Cultist
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid
+- src/5e/xmm
+- monster/cr/8
+- monster/environment/any
+- monster/size/small-or-medium
+- monster/type/humanoid
 statblock: inline
 aliases: ["Death Cultist"]
 ---

@@ -4,9 +4,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/object/size/medium
-- ttrpg-cli/object/type/siege-weapon
+- src/5e/xdmg
+- object/size/medium
+- object/type/siege-weapon
 aliases:
 - Lightning Cannon
 ---

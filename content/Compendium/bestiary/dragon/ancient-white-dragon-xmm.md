@@ -3,11 +3,11 @@ title: Ancient White Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon/chromatic
+- src/5e/xmm
+- monster/cr/20
+- monster/environment/arctic
+- monster/size/gargantuan
+- monster/type/dragon/chromatic
 statblock: inline
 aliases: ["Ancient White Dragon"]
 ---

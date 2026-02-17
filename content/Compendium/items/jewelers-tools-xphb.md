@@ -3,9 +3,9 @@ title: "Jeweler's Tools"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/artisans-tools
-- ttrpg-cli/item/rarity/none
+- src/5e/xphb
+- item/gear/artisans-tools
+- item/rarity/none
 aliases: 
 - "Jeweler's Tools"
 ---

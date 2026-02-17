@@ -3,10 +3,10 @@ title: Fleecemane Lion
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbviv
+- monster/cr/4
+- monster/size/l
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Fleecemane Lion"]
 ---

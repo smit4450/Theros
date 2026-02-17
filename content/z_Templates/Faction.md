@@ -4,12 +4,14 @@ obsidianUIMode: preview
 cssclasses:
   - json5e-note
 tags:
-  - type/faction
-  - loc/theros/
+  - faction
+  - faction/FACTION-NAME
+  - loc/theros/LOCATION
+  - allegiance/neutral
   - status/wip
-  - campaign/
-  - relevance/
-  - source/homebrew
+  - campaign/main
+  - relevance/major
+  - src/homebrew
 aliases:
   - "<% tp.file.title %>"
 created: <% tp.file.creation_date("YYYY-MM-DD") %>

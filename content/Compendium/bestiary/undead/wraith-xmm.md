@@ -3,13 +3,13 @@ title: Wraith
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/shadowfell
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/undead
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/planar
+- monster/environment/shadowfell
+- monster/environment/underdark
+- monster/size/small-or-medium
+- monster/type/undead
 statblock: inline
 aliases: ["Wraith"]
 ---

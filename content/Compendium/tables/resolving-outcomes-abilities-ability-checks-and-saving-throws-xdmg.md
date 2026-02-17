@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
+- src/5e/xdmg
 aliases:
 - Resolving Outcomes; Abilities, Ability Checks, and Saving Throws
 ---

@@ -3,12 +3,12 @@ title: "Crusader's Mantle"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/reward/iroass-votary
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/war-domain
+- src/5e/xphb
+- spell/class/paladin
+- spell/level/3rd-level
+- spell/reward/iroass-votary
+- spell/school/evocation
+- spell/subclass/war-domain
 classes:
 - Cleric (War Domain)
 - Paladin

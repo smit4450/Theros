@@ -3,10 +3,10 @@ title: Sentry of the Underworld
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvv
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/undead
+- src/5e/tbvv
+- monster/cr/2
+- monster/size/l
+- monster/type/undead
 statblock: inline
 aliases: ["Sentry of the Underworld"]
 ---

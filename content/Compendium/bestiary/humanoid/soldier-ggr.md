@@ -3,10 +3,10 @@ title: Soldier
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/ggr
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+- src/5e/ggr
+- monster/cr/1-2
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
 aliases: ["Soldier"]
 ---

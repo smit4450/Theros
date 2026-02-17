@@ -3,10 +3,10 @@ title: "Three-headed Collar"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous
+- src/5e/gmoa
+- item/attunement/required
+- item/rarity/uncommon
+- item/wondrous
 aliases: 
 - "Three-headed Collar"
 ---

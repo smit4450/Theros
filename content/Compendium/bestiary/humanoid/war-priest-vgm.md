@@ -3,12 +3,12 @@ title: War Priest
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+- src/5e/vgm
+- monster/cr/9
+- monster/environment/desert
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid/any-race
 statblock: inline
 aliases: ["War Priest"]
 ---

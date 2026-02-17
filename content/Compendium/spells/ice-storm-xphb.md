@@ -3,20 +3,20 @@ title: Ice Storm
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-the-land/polar-land
-- ttrpg-cli/spell/subclass/circle-of-the-sea
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-- ttrpg-cli/spell/subclass/winter-walker
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/4th-level
+- spell/school/evocation
+- spell/subclass/arcane-trickster
+- spell/subclass/circle-of-the-land/polar-land
+- spell/subclass/circle-of-the-sea
+- spell/subclass/eldritch-knight
+- spell/subclass/evoker
+- spell/subclass/oath-of-the-ancients
+- spell/subclass/winter-walker
 classes:
 - Bard
 - Druid

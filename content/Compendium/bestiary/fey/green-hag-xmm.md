@@ -3,13 +3,13 @@ title: Green Hag
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+- src/5e/xmm
+- monster/cr/3
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/swamp
+- monster/size/medium
+- monster/type/fey
 statblock: inline
 aliases: ["Green Hag"]
 ---

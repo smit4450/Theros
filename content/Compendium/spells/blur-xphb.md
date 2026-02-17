@@ -3,17 +3,17 @@ title: Blur
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-the-land/arid-land
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/illusionist
+- src/5e/xphb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/2nd-level
+- spell/school/illusion
+- spell/subclass/arcane-trickster
+- spell/subclass/circle-of-the-land/arid-land
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
+- spell/subclass/illusionist
 classes:
 - Bard
 - Bard (College of Lore)

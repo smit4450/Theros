@@ -3,11 +3,11 @@ title: Iron Golem
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+- src/5e/xmm
+- monster/cr/16
+- monster/environment/any
+- monster/size/large
+- monster/type/construct
 statblock: inline
 aliases: ["Iron Golem"]
 ---

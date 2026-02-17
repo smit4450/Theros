@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
+- src/5e/xphb
 aliases:
 - Breaking Objects
 ---

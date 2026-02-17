@@ -3,11 +3,11 @@ title: Ensnaring Strike
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
+- src/5e/xphb
+- spell/class/ranger
+- spell/level/1st-level
+- spell/school/conjuration
+- spell/subclass/oath-of-the-ancients
 classes:
 - Paladin (Oath of the Ancients)
 - Ranger

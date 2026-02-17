@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/subclass/bard/moon
+- src/5e/frhof
+- subclass/bard/moon
 aliases:
 - College of the Moon
 ---

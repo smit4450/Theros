@@ -3,10 +3,10 @@ title: Ephara's Warden
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxv
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvxxv
+- monster/cr/1-4
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Ephara's Warden"]
 ---

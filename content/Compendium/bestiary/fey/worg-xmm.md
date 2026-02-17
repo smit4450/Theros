@@ -3,15 +3,15 @@ title: Worg
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/feywild
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fey
+- src/5e/xmm
+- monster/cr/1-2
+- monster/environment/feywild
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/planar
+- monster/size/large
+- monster/type/fey
 statblock: inline
 aliases: ["Worg"]
 ---

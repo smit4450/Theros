@@ -3,8 +3,8 @@ title: Windskiff
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/fraif
-- ttrpg-cli/item/rarity/rare
+- src/5e/fraif
+- item/rarity/rare
 aliases: 
 - "Windskiff"
 ---

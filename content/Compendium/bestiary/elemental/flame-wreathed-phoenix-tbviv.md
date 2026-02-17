@@ -3,10 +3,10 @@ title: Flame-Wreathed Phoenix
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/t
-- ttrpg-cli/monster/type/elemental
+- src/5e/tbviv
+- monster/cr/8
+- monster/size/t
+- monster/type/elemental
 statblock: inline
 aliases: ["Flame-Wreathed Phoenix"]
 ---

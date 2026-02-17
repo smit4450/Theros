@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/school/conjuration
+- spell/list/school/conjuration
 aliases:
 - Conjuration Spells
 ---

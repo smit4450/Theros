@@ -3,19 +3,19 @@ title: Winged Kobold
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/dragon
+- src/5e/xmm
+- monster/cr/1-4
+- monster/environment/arctic
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/small
+- monster/type/dragon
 statblock: inline
 aliases: ["Winged Kobold"]
 ---

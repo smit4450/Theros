@@ -3,8 +3,8 @@ title: Entertainer
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/xphb
+- background
+- src/5e/xphb
 aliases: ["Entertainer"]
 ---
 # Entertainer

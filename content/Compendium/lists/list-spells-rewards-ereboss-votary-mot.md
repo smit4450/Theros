@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/ereboss-votary
+- spell/list/reward/ereboss-votary
 aliases:
 - Spells for Erebos's Votary
 ---

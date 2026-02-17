@@ -4,9 +4,9 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 statblock: inline
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous
+- src/5e/gmoa
+- item/rarity/uncommon
+- item/wondrous
 aliases: 
 - "Anvilwrought Raptor"
 ---

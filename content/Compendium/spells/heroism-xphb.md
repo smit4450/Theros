@@ -3,13 +3,13 @@ title: Heroism
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/oath-of-glory
+- src/5e/xphb
+- spell/class/bard
+- spell/class/paladin
+- spell/feat/fey-touched
+- spell/level/1st-level
+- spell/school/enchantment
+- spell/subclass/oath-of-glory
 classes:
 - Bard
 - Paladin

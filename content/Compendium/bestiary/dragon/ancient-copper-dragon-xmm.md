@@ -3,11 +3,11 @@ title: Ancient Copper Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon/metallic
+- src/5e/xmm
+- monster/cr/21
+- monster/environment/hill
+- monster/size/gargantuan
+- monster/type/dragon/metallic
 statblock: inline
 aliases: ["Ancient Copper Dragon"]
 ---

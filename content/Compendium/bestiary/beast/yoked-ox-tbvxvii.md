@@ -3,10 +3,10 @@ title: Yoked Ox
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxvii
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/beast
+- src/5e/tbvxvii
+- monster/cr/1-4
+- monster/size/l
+- monster/type/beast
 statblock: inline
 aliases: ["Yoked Ox"]
 ---

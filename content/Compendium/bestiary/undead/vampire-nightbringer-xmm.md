@@ -3,12 +3,12 @@ title: Vampire Nightbringer
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/undead
+- src/5e/xmm
+- monster/cr/8
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/small-or-medium
+- monster/type/undead
 statblock: inline
 aliases: ["Vampire Nightbringer"]
 ---

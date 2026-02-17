@@ -3,9 +3,9 @@ title: "Adventurer's Ring"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/wondrous/ring
+- src/5e/frhof
+- item/rarity/common
+- item/wondrous/ring
 aliases: 
 - "Adventurer's Ring"
 ---

@@ -3,11 +3,11 @@ title: Enspelled Staff (Level 5)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/weapon/melee
+- item/weapon/simple
 aliases: 
 - "Enspelled Staff (Level 5)"
 ---

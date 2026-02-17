@@ -3,12 +3,12 @@ title: Shambling Mound
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/plant
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/forest
+- monster/environment/swamp
+- monster/size/large
+- monster/type/plant
 statblock: inline
 aliases: ["Shambling Mound"]
 ---

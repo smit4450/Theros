@@ -3,15 +3,15 @@ title: Roc
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/11
+- monster/environment/arctic
+- monster/environment/coastal
+- monster/environment/desert
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/gargantuan
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Roc"]
 ---

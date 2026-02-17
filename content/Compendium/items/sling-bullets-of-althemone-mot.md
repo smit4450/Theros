@@ -3,9 +3,9 @@ title: Sling Bullets of Althemone
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/rarity/very-rare
+- src/5e/mot
+- item/gear/ammunition
+- item/rarity/very-rare
 aliases: 
 - "Sling Bullets of Althemone"
 ---

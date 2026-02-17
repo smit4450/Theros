@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/pharikas-devotee
+- spell/list/reward/pharikas-devotee
 aliases:
 - Spells for Pharika's Devotee
 ---

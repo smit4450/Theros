@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/emerald-enclave-fledgling
+- spell/list/feat/emerald-enclave-fledgling
 aliases:
 - Spells for Emerald Enclave Fledgling
 ---

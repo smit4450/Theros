@@ -2,7 +2,7 @@
 title: Armor Enchantments
 obsidianUIMode: preview
 tags:
-- ttrpg-cli/crafting/enchantment/armor
+- crafting/enchantment/armor
 aliases:
 - Armor Enchantments
 ---

@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/evoker
+- spell/list/subclass/evoker
 aliases:
 - Spells for Evoker
 ---

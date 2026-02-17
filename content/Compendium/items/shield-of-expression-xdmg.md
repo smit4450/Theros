@@ -3,9 +3,9 @@ title: Shield of Expression
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/shield/
+- src/5e/xdmg
+- item/rarity/common
+- item/shield/
 aliases: 
 - "Shield of Expression"
 ---

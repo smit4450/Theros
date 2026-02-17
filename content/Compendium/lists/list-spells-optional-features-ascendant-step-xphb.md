@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/ascendant-step
+- spell/list/optfeature/ascendant-step
 aliases:
 - Spells for Ascendant Step
 ---

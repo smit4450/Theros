@@ -3,9 +3,9 @@ title: "Undying Asphodel"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/wondrous
+- src/5e/gmoa
+- item/rarity/common
+- item/wondrous
 aliases: 
 - "Undying Asphodel"
 ---

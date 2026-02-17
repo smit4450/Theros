@@ -3,10 +3,10 @@ title: Nessian Wilds Ravager
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxiv
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvxxiv
+- monster/cr/20
+- monster/size/h
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Nessian Wilds Ravager"]
 ---

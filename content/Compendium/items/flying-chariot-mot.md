@@ -3,8 +3,8 @@ title: Flying Chariot
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/item/rarity/rare
+- src/5e/mot
+- item/rarity/rare
 aliases: 
 - "Flying Chariot"
 ---

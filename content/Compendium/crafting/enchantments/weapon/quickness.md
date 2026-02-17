@@ -3,9 +3,9 @@ title: Quickness
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/enchantment/weapon
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/attunement/required
+- crafting/enchantment/weapon
+- item/rarity/very-rare
+- item/attunement/required
 aliases:
 - Quickness
 ---

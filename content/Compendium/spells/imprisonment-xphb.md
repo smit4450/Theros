@@ -3,13 +3,13 @@ title: Imprisonment
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/9th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
+- src/5e/xphb
+- spell/class/bard
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/9th-level
+- spell/school/abjuration
+- spell/subclass/abjurer
 classes:
 - Bard
 - Warlock

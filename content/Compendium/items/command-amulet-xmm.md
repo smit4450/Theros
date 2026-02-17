@@ -3,9 +3,9 @@ title: Command Amulet
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/wondrous/other
+- src/5e/xmm
+- item/rarity/unknown/magic
+- item/wondrous/other
 aliases: 
 - "Command Amulet"
 ---

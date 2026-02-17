@@ -3,11 +3,11 @@ title: Dirge
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/enchantment
+- src/5e/frhof
+- spell/class/bard
+- spell/class/cleric
+- spell/level/6th-level
+- spell/school/enchantment
 classes:
 - Bard
 - Cleric

@@ -3,14 +3,14 @@ title: Harpy
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/1
+- monster/environment/coastal
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Harpy"]
 ---

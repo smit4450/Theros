@@ -3,10 +3,10 @@ title: Mnemonic Wall (10-foot section)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/construct
+- src/5e/tbviv
+- monster/cr/1-8
+- monster/size/l
+- monster/type/construct
 statblock: inline
 aliases: ["Mnemonic Wall (10-foot section)"]
 ---

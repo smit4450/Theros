@@ -3,10 +3,10 @@ title: Brain Maggot
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxiii
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/t
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvxxiii
+- monster/cr/0
+- monster/size/t
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Brain Maggot"]
 ---

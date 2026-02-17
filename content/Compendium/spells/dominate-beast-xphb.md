@@ -3,14 +3,14 @@ title: Dominate Beast
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/archfey-patron
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/class/ranger
+- spell/class/sorcerer
+- spell/level/4th-level
+- spell/school/enchantment
+- spell/subclass/archfey-patron
 classes:
 - Bard
 - Druid

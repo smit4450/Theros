@@ -3,21 +3,21 @@ title: Detect Thoughts
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/telepathic
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/reward/kruphixs-votary
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/great-old-one-patron
-- ttrpg-cli/spell/subclass/knowledge-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/feat/telepathic
+- spell/level/2nd-level
+- spell/reward/kruphixs-votary
+- spell/school/divination
+- spell/subclass/aberrant-sorcery
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/diviner
+- spell/subclass/eldritch-knight
+- spell/subclass/great-old-one-patron
+- spell/subclass/knowledge-domain
 classes:
 - Bard
 - Bard (College of Lore)

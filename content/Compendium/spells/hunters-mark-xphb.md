@@ -3,13 +3,13 @@ title: "Hunter's Mark"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/reward/nyleas-devotee
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/oath-of-vengeance
+- src/5e/xphb
+- spell/class/ranger
+- spell/feat/fey-touched
+- spell/level/1st-level
+- spell/reward/nyleas-devotee
+- spell/school/divination
+- spell/subclass/oath-of-vengeance
 classes:
 - Paladin (Oath of Vengeance)
 - Ranger

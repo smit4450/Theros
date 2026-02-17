@@ -3,10 +3,10 @@ title: Ember Swallower
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/elemental
+- src/5e/tbviv
+- monster/cr/6
+- monster/size/l
+- monster/type/elemental
 statblock: inline
 aliases: ["Ember Swallower"]
 ---

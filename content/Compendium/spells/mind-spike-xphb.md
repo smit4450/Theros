@@ -3,18 +3,18 @@ title: Mind Spike
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/knowledge-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/2nd-level
+- spell/school/divination
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/diviner
+- spell/subclass/eldritch-knight
+- spell/subclass/knowledge-domain
 classes:
 - Bard
 - Bard (College of Lore)

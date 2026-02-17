@@ -3,11 +3,11 @@ title: Scimitar of Speed
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/weapon/martial
+- item/weapon/melee
 aliases: 
 - "Scimitar of Speed"
 ---

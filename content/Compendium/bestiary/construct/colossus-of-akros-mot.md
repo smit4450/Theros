@@ -3,10 +3,10 @@ title: Colossus of Akros
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/construct
+- src/5e/mot
+- monster/cr/23
+- monster/size/gargantuan
+- monster/type/construct
 statblock: inline
 aliases: ["Colossus of Akros"]
 ---

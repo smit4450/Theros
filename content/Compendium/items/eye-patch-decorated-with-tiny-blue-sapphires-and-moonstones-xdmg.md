@@ -3,9 +3,9 @@ title: Eye patch decorated with tiny blue sapphires and moonstones
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/gear/treasure-art-object
-- ttrpg-cli/item/rarity/none
+- src/5e/xdmg
+- item/gear/treasure-art-object
+- item/rarity/none
 aliases: 
 - "Eye patch decorated with tiny blue sapphires and moonstones"
 ---

@@ -3,14 +3,14 @@ title: "Alustriel's Mooncloak"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
+- src/5e/frhof
+- spell/class/bard
+- spell/class/druid
+- spell/class/ranger
+- spell/class/wizard
+- spell/level/5th-level
+- spell/school/abjuration
+- spell/subclass/abjurer
 classes:
 - Bard
 - Druid

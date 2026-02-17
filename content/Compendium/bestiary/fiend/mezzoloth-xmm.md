@@ -3,12 +3,12 @@ title: Mezzoloth
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/gehenna
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/yugoloth
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/gehenna
+- monster/environment/planar
+- monster/size/medium
+- monster/type/fiend/yugoloth
 statblock: inline
 aliases: ["Mezzoloth"]
 ---

@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/barbarian/zealot
+- src/5e/xphb
+- subclass/barbarian/zealot
 aliases:
 - Path of the Zealot
 ---

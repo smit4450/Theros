@@ -3,12 +3,12 @@ title: Sword of Wounding
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/rare
+- item/weapon/martial
+- item/weapon/melee
+- item/wondrous/generic-variant
 aliases: 
 - "Sword of Wounding"
 - "Glaive of Wounding"

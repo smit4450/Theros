@@ -2,7 +2,7 @@
 title: Crafting
 obsidianUIMode: preview
 tags:
-- ttrpg-cli/crafting
+- crafting
 aliases:
 - Crafting
 ---

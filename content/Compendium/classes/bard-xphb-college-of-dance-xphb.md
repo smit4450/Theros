@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/bard/dance
+- src/5e/xphb
+- subclass/bard/dance
 aliases:
 - College of Dance
 ---

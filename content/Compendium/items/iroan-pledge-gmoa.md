@@ -3,8 +3,8 @@ title: "Iroan Pledge"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/common
+- src/5e/gmoa
+- item/rarity/common
 aliases: 
 - "Iroan Pledge"
 ---

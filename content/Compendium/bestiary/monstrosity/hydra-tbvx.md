@@ -3,10 +3,10 @@ title: Hydra
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvx
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvx
+- monster/cr/10
+- monster/size/h
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Hydra"]
 ---

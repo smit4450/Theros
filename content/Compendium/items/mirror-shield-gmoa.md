@@ -3,9 +3,9 @@ title: "Mirror Shield"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/armor
+- src/5e/gmoa
+- item/rarity/rare
+- item/armor
 aliases: 
 - "Mirror Shield"
 ---

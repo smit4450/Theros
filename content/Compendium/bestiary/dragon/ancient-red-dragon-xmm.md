@@ -3,12 +3,12 @@ title: Ancient Red Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/24
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon/chromatic
+- src/5e/xmm
+- monster/cr/24
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/gargantuan
+- monster/type/dragon/chromatic
 statblock: inline
 aliases: ["Ancient Red Dragon"]
 ---

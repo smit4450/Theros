@@ -3,10 +3,10 @@ title: Two-Birds Sling
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
+- src/5e/mot
+- item/rarity/rare
+- item/weapon/ranged
+- item/weapon/simple
 aliases: 
 - "Two-Birds Sling"
 ---

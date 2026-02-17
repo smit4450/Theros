@@ -3,12 +3,12 @@ title: Ancient Gold Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/24
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon/metallic
+- src/5e/xmm
+- monster/cr/24
+- monster/environment/forest
+- monster/environment/grassland
+- monster/size/gargantuan
+- monster/type/dragon/metallic
 statblock: inline
 aliases: ["Ancient Gold Dragon"]
 ---

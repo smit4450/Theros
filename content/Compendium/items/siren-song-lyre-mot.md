@@ -3,10 +3,10 @@ title: Siren Song Lyre
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/rare
+- src/5e/mot
+- item/attunement/required
+- item/gear/instrument
+- item/rarity/rare
 aliases: 
 - "Siren Song Lyre"
 ---

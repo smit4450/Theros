@@ -3,10 +3,10 @@ title: Cyclops of Eternal Fury
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviii
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbviii
+- monster/cr/16
+- monster/size/g
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Cyclops of Eternal Fury"]
 ---

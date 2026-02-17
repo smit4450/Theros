@@ -3,11 +3,11 @@ title: Spectator
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration/beholder
+- src/5e/xmm
+- monster/cr/3
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/aberration/beholder
 statblock: inline
 aliases: ["Spectator"]
 ---

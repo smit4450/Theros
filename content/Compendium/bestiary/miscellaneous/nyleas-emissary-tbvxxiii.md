@@ -3,10 +3,10 @@ title: Nylea's Emissary
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxiii
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvxxiii
+- monster/cr/3
+- monster/size/l
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Nylea's Emissary"]
 ---

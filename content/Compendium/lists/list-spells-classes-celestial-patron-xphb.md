@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/celestial-patron
+- spell/list/subclass/celestial-patron
 aliases:
 - Spells for Celestial Patron
 ---

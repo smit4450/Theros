@@ -3,12 +3,12 @@ title: +3 Ammunition
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/gear/ammunition-firearm
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/age/futuristic
+- item/gear/ammunition
+- item/gear/ammunition-firearm
+- item/rarity/very-rare
+- item/wondrous/generic-variant
 aliases: 
 - "+3 Ammunition"
 - "+3 Arrow"

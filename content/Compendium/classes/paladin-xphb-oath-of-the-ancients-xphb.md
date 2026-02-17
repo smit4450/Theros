@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/paladin/ancients
+- src/5e/xphb
+- subclass/paladin/ancients
 aliases:
 - Oath of the Ancients
 ---

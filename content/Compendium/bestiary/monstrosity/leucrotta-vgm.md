@@ -3,12 +3,12 @@ title: Leucrotta
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/vgm
+- monster/cr/3
+- monster/environment/desert
+- monster/environment/grassland
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Leucrotta"]
 ---

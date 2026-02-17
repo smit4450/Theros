@@ -3,8 +3,8 @@ title: Minotaur
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/race/minotaur
+- src/5e/mot
+- race/minotaur
 aliases: ["Minotaur"]
 ---
 # Minotaur

@@ -3,9 +3,9 @@ title: "Xebec of Kruphix"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous
+- src/5e/gmoa
+- item/rarity/uncommon
+- item/wondrous
 aliases: 
 - "Xebec of Kruphix"
 ---

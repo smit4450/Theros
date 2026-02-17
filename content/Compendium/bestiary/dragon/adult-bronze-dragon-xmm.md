@@ -3,11 +3,11 @@ title: Adult Bronze Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon/metallic
+- src/5e/xmm
+- monster/cr/15
+- monster/environment/coastal
+- monster/size/huge
+- monster/type/dragon/metallic
 statblock: inline
 aliases: ["Adult Bronze Dragon"]
 ---

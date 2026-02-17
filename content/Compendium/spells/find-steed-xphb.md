@@ -3,10 +3,10 @@ title: Find Steed
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/conjuration
+- src/5e/xphb
+- spell/class/paladin
+- spell/level/2nd-level
+- spell/school/conjuration
 classes:
 - Paladin
 aliases: ["Find Steed"]

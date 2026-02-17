@@ -3,13 +3,13 @@ title: Juvenile Shadow Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/shadowfell
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/dragon
+- src/5e/xmm
+- monster/cr/4
+- monster/environment/planar
+- monster/environment/shadowfell
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/dragon
 statblock: inline
 aliases: ["Juvenile Shadow Dragon"]
 ---

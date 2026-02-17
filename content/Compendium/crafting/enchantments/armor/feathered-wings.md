@@ -3,9 +3,9 @@ title: Feathered Wings
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/enchantment/armor
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/attunement/not-required
+- crafting/enchantment/armor
+- item/rarity/rare
+- item/attunement/not-required
 aliases:
 - Feathered Wings
 ---

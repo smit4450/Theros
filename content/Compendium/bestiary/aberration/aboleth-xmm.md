@@ -3,12 +3,12 @@ title: Aboleth
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+- src/5e/xmm
+- monster/cr/10
+- monster/environment/underdark
+- monster/environment/underwater
+- monster/size/large
+- monster/type/aberration
 statblock: inline
 aliases: ["Aboleth"]
 ---

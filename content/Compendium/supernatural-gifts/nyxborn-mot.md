@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/reward/supernatural-gift
+- src/5e/mot
+- reward/supernatural-gift
 aliases:
 - "Nyxborn"
 ---

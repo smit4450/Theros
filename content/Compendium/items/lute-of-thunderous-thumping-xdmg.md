@@ -3,10 +3,10 @@ title: Lute of Thunderous Thumping
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+- src/5e/xdmg
+- item/rarity/very-rare
+- item/weapon/melee
+- item/weapon/simple
 aliases: 
 - "Lute of Thunderous Thumping"
 ---

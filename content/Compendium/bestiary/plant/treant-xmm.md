@@ -3,11 +3,11 @@ title: Treant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/plant
+- src/5e/xmm
+- monster/cr/9
+- monster/environment/forest
+- monster/size/huge
+- monster/type/plant
 statblock: inline
 aliases: ["Treant"]
 ---

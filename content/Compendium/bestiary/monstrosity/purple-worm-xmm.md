@@ -3,12 +3,12 @@ title: Purple Worm
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/15
+- monster/environment/desert
+- monster/environment/underdark
+- monster/size/gargantuan
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Purple Worm"]
 ---

@@ -3,15 +3,15 @@ title: Water Elemental
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/environment/water
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/coastal
+- monster/environment/planar
+- monster/environment/swamp
+- monster/environment/underwater
+- monster/environment/water
+- monster/size/large
+- monster/type/elemental
 statblock: inline
 aliases: ["Water Elemental"]
 ---

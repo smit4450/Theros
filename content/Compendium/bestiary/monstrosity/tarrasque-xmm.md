@@ -3,11 +3,11 @@ title: Tarrasque
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/30
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity/titan
+- src/5e/xmm
+- monster/cr/30
+- monster/environment/urban
+- monster/size/gargantuan
+- monster/type/monstrosity/titan
 statblock: inline
 aliases: ["Tarrasque"]
 ---

@@ -3,10 +3,10 @@ title: Scholar of Athreos
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxv
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvxxv
+- monster/cr/1-2
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Scholar of Athreos"]
 ---

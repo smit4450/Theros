@@ -3,18 +3,18 @@ title: Hobgoblin Warrior
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/acheron
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey/goblinoid
+- src/5e/xmm
+- monster/cr/1-2
+- monster/environment/acheron
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/environment/planar
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/fey/goblinoid
 statblock: inline
 aliases: ["Hobgoblin Warrior"]
 ---

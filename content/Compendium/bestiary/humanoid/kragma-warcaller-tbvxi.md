@@ -3,10 +3,10 @@ title: Kragma Warcaller
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxi
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvxi
+- monster/cr/2
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Kragma Warcaller"]
 ---

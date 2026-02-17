@@ -2,7 +2,7 @@
 title: Universal Enchantments
 obsidianUIMode: preview
 tags:
-- ttrpg-cli/crafting/enchantment/universal
+- crafting/enchantment/universal
 aliases:
 - Universal Enchantments
 ---

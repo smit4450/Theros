@@ -3,10 +3,10 @@ title: Cruel Centaur Feeder
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvv
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/undead
+- src/5e/tbvv
+- monster/cr/1
+- monster/size/m
+- monster/type/undead
 statblock: inline
 aliases: ["Cruel Centaur Feeder"]
 ---

@@ -3,10 +3,10 @@ title: Squelching Leeches
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxvii
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvxvii
+- monster/cr/0
+- monster/size/m
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Squelching Leeches"]
 ---

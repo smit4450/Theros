@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/school/abjuration
+- spell/list/school/abjuration
 aliases:
 - Abjuration Spells
 ---

@@ -3,9 +3,9 @@ title: Cheese (wedge)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/food-and-drink
-- ttrpg-cli/item/rarity/none
+- src/5e/xphb
+- item/gear/food-and-drink
+- item/rarity/none
 aliases: 
 - "Cheese (wedge)"
 ---

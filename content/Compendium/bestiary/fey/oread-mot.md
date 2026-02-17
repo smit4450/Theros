@@ -3,10 +3,10 @@ title: Oread
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+- src/5e/mot
+- monster/cr/4
+- monster/size/medium
+- monster/type/fey
 statblock: inline
 aliases: ["Oread"]
 ---

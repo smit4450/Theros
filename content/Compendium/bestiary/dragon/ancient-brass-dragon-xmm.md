@@ -3,11 +3,11 @@ title: Ancient Brass Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon/metallic
+- src/5e/xmm
+- monster/cr/20
+- monster/environment/desert
+- monster/size/gargantuan
+- monster/type/dragon/metallic
 statblock: inline
 aliases: ["Ancient Brass Dragon"]
 ---

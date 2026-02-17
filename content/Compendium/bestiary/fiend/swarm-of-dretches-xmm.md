@@ -3,12 +3,12 @@ title: Swarm of Dretches
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/abyss
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/demon
+- src/5e/xmm
+- monster/cr/4
+- monster/environment/abyss
+- monster/environment/planar
+- monster/size/large
+- monster/type/fiend/demon
 statblock: inline
 aliases: ["Swarm of Dretches"]
 ---

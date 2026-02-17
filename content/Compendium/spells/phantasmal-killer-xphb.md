@@ -3,14 +3,14 @@ title: Phantasmal Killer
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/illusionist
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/level/4th-level
+- spell/school/illusion
+- spell/subclass/arcane-trickster
+- spell/subclass/eldritch-knight
+- spell/subclass/illusionist
 classes:
 - Bard
 - Fighter (Eldritch Knight)

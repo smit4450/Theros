@@ -3,13 +3,13 @@ title: Guardian of Faith
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/oath-of-devotion
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/level/4th-level
+- spell/school/conjuration
+- spell/subclass/celestial-patron
+- spell/subclass/oath-of-devotion
 classes:
 - Bard
 - Cleric

@@ -3,13 +3,13 @@ title: Giant Goat
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+- src/5e/xmm
+- monster/cr/1-2
+- monster/environment/grassland
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/large
+- monster/type/beast
 statblock: inline
 aliases: ["Giant Goat"]
 ---

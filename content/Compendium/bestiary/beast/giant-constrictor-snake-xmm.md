@@ -3,14 +3,14 @@ title: Giant Constrictor Snake
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/swamp
+- monster/environment/underwater
+- monster/size/huge
+- monster/type/beast
 statblock: inline
 aliases: ["Giant Constrictor Snake"]
 ---

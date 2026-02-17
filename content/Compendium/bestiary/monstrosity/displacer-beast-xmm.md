@@ -3,11 +3,11 @@ title: Displacer Beast
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/3
+- monster/environment/forest
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Displacer Beast"]
 ---

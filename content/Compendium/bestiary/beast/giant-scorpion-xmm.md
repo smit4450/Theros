@@ -3,11 +3,11 @@ title: Giant Scorpion
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+- src/5e/xmm
+- monster/cr/3
+- monster/environment/desert
+- monster/size/large
+- monster/type/beast
 statblock: inline
 aliases: ["Giant Scorpion"]
 ---

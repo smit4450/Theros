@@ -1,3 +1,12 @@
+---
+title: Weapon Enchantments
+tags:
+  - utility/
+  - crafting/enchantment
+aliases:
+  - Weapon Enchantments
+---
+
 ### Weapon Enchantments
 You can enchant weapons with a property from the list below. Or a GM can roll on the table to create random loot.
 

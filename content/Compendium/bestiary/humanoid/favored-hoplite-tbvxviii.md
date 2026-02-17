@@ -3,10 +3,10 @@ title: Favored Hoplite
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxviii
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvxviii
+- monster/cr/4
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Favored Hoplite"]
 ---

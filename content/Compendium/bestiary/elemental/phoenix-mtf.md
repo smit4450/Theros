@@ -3,12 +3,12 @@ title: Phoenix
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/elemental
+- src/5e/mtf
+- monster/cr/16
+- monster/environment/desert
+- monster/environment/mountain
+- monster/size/gargantuan
+- monster/type/elemental
 statblock: inline
 aliases: ["Phoenix"]
 ---

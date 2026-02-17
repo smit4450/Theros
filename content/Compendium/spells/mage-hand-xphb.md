@@ -3,23 +3,23 @@ title: Mage Hand
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/cold-caster
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/telekinetic
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/elf/high-elf
-- ttrpg-cli/spell/reward/kruphixs-devotee
-- ttrpg-cli/spell/reward/kruphixs-disciple
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
+- src/5e/xphb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/feat/cold-caster
+- spell/feat/magic-initiate/wizard-spells
+- spell/feat/telekinetic
+- spell/level/cantrip
+- spell/optfeature/pact-of-the-tome
+- spell/race/elf/high-elf
+- spell/reward/kruphixs-devotee
+- spell/reward/kruphixs-disciple
+- spell/school/conjuration
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
 classes:
 - Bard
 - Bard (College of Lore)

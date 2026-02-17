@@ -3,12 +3,12 @@ title: Silver Dragon Wyrmling
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/dragon/metallic
+- src/5e/xmm
+- monster/cr/2
+- monster/environment/mountain
+- monster/environment/urban
+- monster/size/medium
+- monster/type/dragon/metallic
 statblock: inline
 aliases: ["Silver Dragon Wyrmling"]
 ---

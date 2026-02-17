@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 
 SPELLS_DIR = Path(__file__).parent.parent / "content" / "Compendium" / "spells"
-OUTPUT_FILE = Path(__file__).parent.parent / "content" / "Utilities" / "spell-table.md"
+OUTPUT_FILE = Path(__file__).parent.parent / "content" / "Tables" / "spell-table.md"
 
 LEVEL_ORDER = {
     "cantrip": 0,
@@ -46,7 +46,7 @@ def parse_frontmatter(text: str):
 
 
 def extract_tags(frontmatter: str):
-    """Extract ttrpg-cli tags from frontmatter."""
+    """Extract tags from frontmatter."""
     tags = []
     in_tags = False
     for line in frontmatter.splitlines():
@@ -83,10 +83,10 @@ def extract_body_field(body: str, field: str):
 
 
 def extract_classes_from_tags(tags: list):
-    """Extract base class names from ttrpg-cli/spell/class/* tags."""
+    """Extract base class names from spell/class/* tags."""
     classes = []
     for tag in tags:
-        m = re.match(r"ttrpg-cli/spell/class/(.+)", tag)
+        m = re.match(r"spell/class/(.+)", tag)
         if m:
             cls = m.group(1).replace("-", " ").title()
             classes.append(cls)
@@ -94,10 +94,10 @@ def extract_classes_from_tags(tags: list):
 
 
 def extract_subclasses_from_tags(tags: list):
-    """Extract subclass names from ttrpg-cli/spell/subclass/* tags."""
+    """Extract subclass names from spell/subclass/* tags."""
     subclasses = []
     for tag in tags:
-        m = re.match(r"ttrpg-cli/spell/subclass/(.+)", tag)
+        m = re.match(r"spell/subclass/(.+)", tag)
         if m:
             subcls = m.group(1).replace("-", " ").title()
             subclasses.append(subcls)
@@ -105,10 +105,10 @@ def extract_subclasses_from_tags(tags: list):
 
 
 def extract_feats_from_tags(tags: list):
-    """Extract feat names from ttrpg-cli/spell/feat/* tags."""
+    """Extract feat names from spell/feat/* tags."""
     feats = []
     for tag in tags:
-        m = re.match(r"ttrpg-cli/spell/feat/(.+)", tag)
+        m = re.match(r"spell/feat/(.+)", tag)
         if m:
             feat = m.group(1).replace("-", " ").title()
             feats.append(feat)
@@ -116,10 +116,10 @@ def extract_feats_from_tags(tags: list):
 
 
 def extract_races_from_tags(tags: list):
-    """Extract race names from ttrpg-cli/spell/race/* tags."""
+    """Extract race names from spell/race/* tags."""
     races = []
     for tag in tags:
-        m = re.match(r"ttrpg-cli/spell/race/(.+)", tag)
+        m = re.match(r"spell/race/(.+)", tag)
         if m:
             race = m.group(1).replace("-", " ").replace("/", " - ").title()
             races.append(race)
@@ -127,10 +127,10 @@ def extract_races_from_tags(tags: list):
 
 
 def extract_optfeatures_from_tags(tags: list):
-    """Extract optional feature names from ttrpg-cli/spell/optfeature/* tags."""
+    """Extract optional feature names from spell/optfeature/* tags."""
     optfeatures = []
     for tag in tags:
-        m = re.match(r"ttrpg-cli/spell/optfeature/(.+)", tag)
+        m = re.match(r"spell/optfeature/(.+)", tag)
         if m:
             optfeat = m.group(1).replace("-", " ").title()
             optfeatures.append(optfeat)
@@ -139,13 +139,13 @@ def extract_optfeatures_from_tags(tags: list):
 
 def is_ritual_from_tags(tags: list):
     """Check if spell has ritual tag."""
-    return "ttrpg-cli/spell/ritual" in tags
+    return "spell/ritual" in tags
 
 
 def extract_level_from_tags(tags: list):
     """Extract spell level from tags."""
     for tag in tags:
-        m = re.match(r"ttrpg-cli/spell/level/(.+)", tag)
+        m = re.match(r"spell/level/(.+)", tag)
         if m:
             return m.group(1)
     return ""
@@ -154,7 +154,7 @@ def extract_level_from_tags(tags: list):
 def extract_school_from_tags(tags: list):
     """Extract spell school from tags."""
     for tag in tags:
-        m = re.match(r"ttrpg-cli/spell/school/(.+)", tag)
+        m = re.match(r"spell/school/(.+)", tag)
         if m:
             return m.group(1).title()
     return ""
@@ -468,7 +468,8 @@ obsidianUIMode: preview
 cssclasses:
   - json5e-note
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
+  - compendium/src/5e/xphb
+  - utility/
 ---
 # Spell Table
 

@@ -3,12 +3,12 @@ title: Young Red Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon/chromatic
+- src/5e/xmm
+- monster/cr/10
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/large
+- monster/type/dragon/chromatic
 statblock: inline
 aliases: ["Young Red Dragon"]
 ---

@@ -3,11 +3,11 @@ title: Banishing Smite
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/oath-of-the-noble-genies
+- src/5e/xphb
+- spell/class/paladin
+- spell/level/5th-level
+- spell/school/conjuration
+- spell/subclass/oath-of-the-noble-genies
 classes:
 - Paladin
 - Paladin (Oath of the Noble Genies)

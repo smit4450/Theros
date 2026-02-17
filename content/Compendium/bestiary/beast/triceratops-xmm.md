@@ -3,11 +3,11 @@ title: Triceratops
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast/dinosaur
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/grassland
+- monster/size/huge
+- monster/type/beast/dinosaur
 statblock: inline
 aliases: ["Triceratops"]
 ---

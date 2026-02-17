@@ -3,12 +3,12 @@ title: Doomtide
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
+- src/5e/frhof
+- spell/class/bard
+- spell/class/cleric
+- spell/class/warlock
+- spell/level/4th-level
+- spell/school/conjuration
 classes:
 - Bard
 - Cleric

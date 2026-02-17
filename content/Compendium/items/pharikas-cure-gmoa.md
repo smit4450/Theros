@@ -3,9 +3,9 @@ title: "Pharika's Cure"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/potion
+- src/5e/gmoa
+- item/rarity/uncommon
+- item/potion
 aliases: 
 - "Pharika's Cure"
 ---

@@ -3,10 +3,10 @@ title: Dynamite Stick
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/explosive
+- src/5e/xdmg
+- item/age/modern
+- item/rarity/none
+- item/weapon/explosive
 aliases: 
 - "Dynamite Stick"
 ---

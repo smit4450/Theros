@@ -3,13 +3,13 @@ title: Modify Memory
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/great-old-one-patron
-- ttrpg-cli/spell/subclass/trickery-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/level/5th-level
+- spell/school/enchantment
+- spell/subclass/great-old-one-patron
+- spell/subclass/trickery-domain
 classes:
 - Bard
 - Cleric (Trickery Domain)

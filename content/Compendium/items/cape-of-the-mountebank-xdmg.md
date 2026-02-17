@@ -3,8 +3,8 @@ title: Cape of the Mountebank
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
+- src/5e/xdmg
+- item/rarity/rare
 aliases: 
 - "Cape of the Mountebank"
 ---

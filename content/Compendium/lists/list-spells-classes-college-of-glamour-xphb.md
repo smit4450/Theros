@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/college-of-glamour
+- spell/list/subclass/college-of-glamour
 aliases:
 - Spells for College of Glamour
 ---

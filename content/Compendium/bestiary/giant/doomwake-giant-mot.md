@@ -3,10 +3,10 @@ title: Doomwake Giant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+- src/5e/mot
+- monster/cr/11
+- monster/size/huge
+- monster/type/giant
 statblock: inline
 aliases: ["Doomwake Giant"]
 ---

@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/magic-initiate
+- spell/list/feat/magic-initiate
 aliases:
 - Spells for Magic Initiate
 ---

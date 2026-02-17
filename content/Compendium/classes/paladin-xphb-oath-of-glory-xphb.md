@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/paladin/glory
+- src/5e/xphb
+- subclass/paladin/glory
 aliases:
 - Oath of Glory
 ---

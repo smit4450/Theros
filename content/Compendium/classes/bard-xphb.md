@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/bard
-- ttrpg-cli/compendium/src/5e/xphb
+- class/bard
+- src/5e/xphb
 aliases:
 - Bard
 ---

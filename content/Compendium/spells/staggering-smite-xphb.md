@@ -3,10 +3,10 @@ title: Staggering Smite
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/enchantment
+- src/5e/xphb
+- spell/class/paladin
+- spell/level/4th-level
+- spell/school/enchantment
 classes:
 - Paladin
 aliases: ["Staggering Smite"]

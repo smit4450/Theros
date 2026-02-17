@@ -3,12 +3,12 @@ title: Sahuagin Warrior
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+- src/5e/xmm
+- monster/cr/1-2
+- monster/environment/coastal
+- monster/environment/underwater
+- monster/size/medium
+- monster/type/fiend
 statblock: inline
 aliases: ["Sahuagin Warrior"]
 ---

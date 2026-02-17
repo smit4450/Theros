@@ -3,10 +3,10 @@ title: Loyal Pegasus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvviii
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/celestial
+- src/5e/tbvviii
+- monster/cr/3
+- monster/size/l
+- monster/type/celestial
 statblock: inline
 aliases: ["Loyal Pegasus"]
 ---

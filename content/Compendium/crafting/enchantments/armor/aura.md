@@ -3,9 +3,9 @@ title: Aura
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/enchantment/armor
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/attunement/not-required
+- crafting/enchantment/armor
+- item/rarity/uncommon
+- item/attunement/not-required
 aliases:
 - Aura
 ---

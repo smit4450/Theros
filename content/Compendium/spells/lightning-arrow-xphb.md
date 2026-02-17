@@ -3,10 +3,10 @@ title: Lightning Arrow
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/transmutation
+- src/5e/xphb
+- spell/class/ranger
+- spell/level/3rd-level
+- spell/school/transmutation
 classes:
 - Ranger
 aliases: ["Lightning Arrow"]

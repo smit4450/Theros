@@ -3,13 +3,13 @@ title: Giant Bat
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+- src/5e/xmm
+- monster/cr/1-4
+- monster/environment/forest
+- monster/environment/mountain
+- monster/environment/underdark
+- monster/size/large
+- monster/type/beast
 statblock: inline
 aliases: ["Giant Bat"]
 ---

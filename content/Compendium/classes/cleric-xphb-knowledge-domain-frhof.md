@@ -4,9 +4,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/subclass/cleric/knowledge
+- src/5e/frhof
+- domain/knowledge
+- subclass/cleric/knowledge
 aliases:
 - Knowledge Domain
 ---

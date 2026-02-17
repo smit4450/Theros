@@ -3,10 +3,10 @@ title: Animated Object (Huge)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/unknown
-- ttrpg-cli/monster/type/construct
+- src/5e/xphb
+- monster/cr/
+- monster/size/unknown
+- monster/type/construct
 statblock: inline
 aliases: ["Animated Object (Huge)"]
 ---

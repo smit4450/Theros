@@ -3,10 +3,10 @@ title: Treeshaker Chimera
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvi
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvi
+- monster/cr/7
+- monster/size/h
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Treeshaker Chimera"]
 ---

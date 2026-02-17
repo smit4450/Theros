@@ -3,15 +3,15 @@ title: Animal Friendship
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/college-of-lore
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/class/ranger
+- spell/feat/fey-touched
+- spell/feat/magic-initiate/druid-spells
+- spell/level/1st-level
+- spell/school/enchantment
+- spell/subclass/college-of-lore
 classes:
 - Bard
 - Bard (College of Lore)

@@ -3,21 +3,21 @@ title: Identify
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/ritual-caster
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/knowledge-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/feat/fey-touched
+- spell/feat/magic-initiate/wizard-spells
+- spell/feat/ritual-caster
+- spell/level/1st-level
+- spell/optfeature/pact-of-the-tome
+- spell/ritual
+- spell/school/divination
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/diviner
+- spell/subclass/eldritch-knight
+- spell/subclass/knowledge-domain
 classes:
 - Bard
 - Bard (College of Lore)

@@ -3,11 +3,11 @@ title: Ancient Black Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon/chromatic
+- src/5e/xmm
+- monster/cr/21
+- monster/environment/swamp
+- monster/size/gargantuan
+- monster/type/dragon/chromatic
 statblock: inline
 aliases: ["Ancient Black Dragon"]
 ---

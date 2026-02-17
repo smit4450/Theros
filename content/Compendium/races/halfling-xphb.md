@@ -3,8 +3,8 @@ title: Halfling
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/halfling
+- src/5e/xphb
+- race/halfling
 aliases: ["Halfling"]
 ---
 # Halfling

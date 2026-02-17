@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/bard/valor
+- src/5e/xphb
+- subclass/bard/valor
 aliases:
 - College of Valor
 ---

@@ -3,17 +3,17 @@ title: Blink
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/reward/thassas-votary
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
+- src/5e/xphb
+- spell/class/bard
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/3rd-level
+- spell/reward/thassas-votary
+- spell/school/transmutation
+- spell/subclass/arcane-trickster
+- spell/subclass/archfey-patron
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
 classes:
 - Bard
 - Bard (College of Lore)

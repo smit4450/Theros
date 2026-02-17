@@ -3,10 +3,10 @@ title: Rotted Hulk
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/elemental
+- src/5e/tbviv
+- monster/cr/15
+- monster/size/g
+- monster/type/elemental
 statblock: inline
 aliases: ["Rotted Hulk"]
 ---

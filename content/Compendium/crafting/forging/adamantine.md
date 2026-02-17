@@ -3,8 +3,8 @@ title: Adamantine
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/rare-metal
-- ttrpg-cli/item/rarity/very-rare
+- crafting/rare-metal
+- item/rarity/very-rare
 aliases:
 - Adamantine
 ---

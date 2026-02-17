@@ -3,14 +3,14 @@ title: Create Food and Water
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/reward/karametras-votary
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/college-of-lore
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/paladin
+- spell/level/3rd-level
+- spell/reward/karametras-votary
+- spell/school/conjuration
+- spell/subclass/college-of-lore
 classes:
 - Bard
 - Bard (College of Lore)

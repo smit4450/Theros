@@ -3,11 +3,11 @@ title: Gulthias Blight
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/plant
+- src/5e/xmm
+- monster/cr/16
+- monster/environment/forest
+- monster/size/gargantuan
+- monster/type/plant
 statblock: inline
 aliases: ["Gulthias Blight"]
 ---

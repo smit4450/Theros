@@ -3,8 +3,8 @@ title: "Sigiled Starfish"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/rare
+- src/5e/gmoa
+- item/rarity/rare
 aliases: 
 - "Sigiled Starfish"
 ---

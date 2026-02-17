@@ -3,9 +3,9 @@ title: Emblem
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/none
+- src/5e/xphb
+- item/gear/spellcasting-focus
+- item/rarity/none
 aliases: 
 - "Emblem"
 ---

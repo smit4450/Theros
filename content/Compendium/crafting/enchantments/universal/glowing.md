@@ -3,9 +3,9 @@ title: Glowing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/enchantment/universal
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/attunement/not-required
+- crafting/enchantment/universal
+- item/rarity/uncommon
+- item/attunement/not-required
 aliases:
 - Glowing
 ---

@@ -3,11 +3,11 @@ title: Ancient Bronze Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/22
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon/metallic
+- src/5e/xmm
+- monster/cr/22
+- monster/environment/coastal
+- monster/size/gargantuan
+- monster/type/dragon/metallic
 statblock: inline
 aliases: ["Ancient Bronze Dragon"]
 ---

@@ -3,11 +3,11 @@ title: Death Dog
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/1
+- monster/environment/desert
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Death Dog"]
 ---

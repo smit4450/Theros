@@ -3,13 +3,13 @@ title: Shadow Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/shadowfell
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon
+- src/5e/xmm
+- monster/cr/13
+- monster/environment/planar
+- monster/environment/shadowfell
+- monster/environment/underdark
+- monster/size/huge
+- monster/type/dragon
 statblock: inline
 aliases: ["Shadow Dragon"]
 ---

@@ -3,10 +3,10 @@ title: Anvilwrought Golem
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvii
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvii
+- monster/cr/12
+- monster/size/l
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Anvilwrought Golem"]
 ---

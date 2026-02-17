@@ -3,10 +3,10 @@ title: "Gray Merchant's Gold Coin"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/wondrous
+- src/5e/gmoa
+- item/attunement/required
+- item/rarity/common
+- item/wondrous
 aliases: 
 - "Gray Merchant's Gold Coin"
 ---

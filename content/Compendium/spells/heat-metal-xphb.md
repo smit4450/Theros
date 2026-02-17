@@ -3,13 +3,13 @@ title: Heat Metal
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/reward/purphoross-votary
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/college-of-lore
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/level/2nd-level
+- spell/reward/purphoross-votary
+- spell/school/transmutation
+- spell/subclass/college-of-lore
 classes:
 - Bard
 - Bard (College of Lore)

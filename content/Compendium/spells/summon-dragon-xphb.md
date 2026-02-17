@@ -3,12 +3,12 @@ title: Summon Dragon
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/draconic-sorcery
+- src/5e/xphb
+- spell/class/bard
+- spell/class/wizard
+- spell/level/5th-level
+- spell/school/conjuration
+- spell/subclass/draconic-sorcery
 classes:
 - Bard
 - Sorcerer (Draconic Sorcery)

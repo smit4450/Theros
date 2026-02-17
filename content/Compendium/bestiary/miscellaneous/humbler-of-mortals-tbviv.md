@@ -3,10 +3,10 @@ title: Humbler of Mortals
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/27
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbviv
+- monster/cr/27
+- monster/size/g
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Humbler of Mortals"]
 ---

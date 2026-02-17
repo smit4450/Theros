@@ -3,10 +3,10 @@ title: Otherworldly Steed (Fey)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fey
+- src/5e/xphb
+- monster/cr/
+- monster/size/large
+- monster/type/fey
 statblock: inline
 aliases: ["Otherworldly Steed (Fey)"]
 ---

@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/warlock/great-old-one
+- src/5e/xphb
+- subclass/warlock/great-old-one
 aliases:
 - Great Old One Patron
 ---

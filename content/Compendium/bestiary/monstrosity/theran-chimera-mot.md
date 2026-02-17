@@ -3,10 +3,10 @@ title: Theran Chimera
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/mot
+- monster/cr/7
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Theran Chimera"]
 ---

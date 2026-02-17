@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/war-domain
+- spell/list/subclass/war-domain
 aliases:
 - Spells for War Domain
 ---

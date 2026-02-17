@@ -3,14 +3,14 @@ title: Air Elemental
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/air
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/air
+- monster/environment/desert
+- monster/environment/mountain
+- monster/environment/planar
+- monster/size/large
+- monster/type/elemental
 statblock: inline
 aliases: ["Air Elemental"]
 ---

@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/class/cleric
-- ttrpg-cli/compendium/src/5e/xphb
+- class/cleric
+- src/5e/xphb
 aliases:
 - Cleric
 ---

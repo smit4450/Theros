@@ -3,10 +3,10 @@ title: Forgestoker Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvvi
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/dragon
+- src/5e/tbvvi
+- monster/cr/23
+- monster/size/g
+- monster/type/dragon
 statblock: inline
 aliases: ["Forgestoker Dragon"]
 ---

@@ -3,10 +3,10 @@ title: Eidolon of Blossoms
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxii
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvxxii
+- monster/cr/0
+- monster/size/m
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Eidolon of Blossoms"]
 ---

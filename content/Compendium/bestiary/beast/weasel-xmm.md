@@ -3,13 +3,13 @@ title: Weasel
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/beast
+- src/5e/xmm
+- monster/cr/0
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/hill
+- monster/size/tiny
+- monster/type/beast
 statblock: inline
 aliases: ["Weasel"]
 ---

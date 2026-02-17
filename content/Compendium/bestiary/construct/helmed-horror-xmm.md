@@ -3,11 +3,11 @@ title: Helmed Horror
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+- src/5e/xmm
+- monster/cr/4
+- monster/environment/any
+- monster/size/medium
+- monster/type/construct
 statblock: inline
 aliases: ["Helmed Horror"]
 ---

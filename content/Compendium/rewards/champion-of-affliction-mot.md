@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/reward/piety-trait
+- src/5e/mot
+- reward/piety-trait
 aliases:
 - Champion of Affliction
 ---

@@ -3,9 +3,9 @@ title: Thayan Spell Tattoo
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
+- src/5e/frhof
+- item/attunement/required
+- item/rarity/uncommon
 aliases: 
 - "Thayan Spell Tattoo"
 ---

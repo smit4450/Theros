@@ -3,12 +3,12 @@ title: Galeb Duhr
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/6
+- monster/environment/hill
+- monster/environment/mountain
+- monster/size/medium
+- monster/type/elemental
 statblock: inline
 aliases: ["Galeb Duhr"]
 ---

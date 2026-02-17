@@ -3,10 +3,10 @@ title: Golden Hind
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxvii
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/beast
+- src/5e/tbvxvii
+- monster/cr/1-4
+- monster/size/m
+- monster/type/beast
 statblock: inline
 aliases: ["Golden Hind"]
 ---

@@ -3,13 +3,13 @@ title: Energy Bow
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/very-rare
+- item/weapon/martial
+- item/weapon/ranged
+- item/weapon/simple
+- item/wondrous/generic-variant
 aliases: 
 - "Energy Bow"
 - "Energy Longbow"

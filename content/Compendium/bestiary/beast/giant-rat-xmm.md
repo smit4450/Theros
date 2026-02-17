@@ -3,14 +3,14 @@ title: Giant Rat
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/beast
+- src/5e/xmm
+- monster/cr/1-8
+- monster/environment/forest
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/small
+- monster/type/beast
 statblock: inline
 aliases: ["Giant Rat"]
 ---

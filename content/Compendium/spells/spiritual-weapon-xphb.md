@@ -3,13 +3,13 @@ title: Spiritual Weapon
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/war-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/level/2nd-level
+- spell/school/evocation
+- spell/subclass/college-of-lore
+- spell/subclass/war-domain
 classes:
 - Bard
 - Bard (College of Lore)

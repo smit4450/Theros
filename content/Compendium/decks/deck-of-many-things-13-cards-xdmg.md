@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-deck
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
+- src/5e/xdmg
 aliases:
 - Deck of Many Things (13 Cards)
 ---

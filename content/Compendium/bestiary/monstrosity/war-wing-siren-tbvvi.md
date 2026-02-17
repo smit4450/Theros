@@ -3,10 +3,10 @@ title: War-Wing Siren
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvvi
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvvi
+- monster/cr/3
+- monster/size/m
+- monster/type/monstrosity
 statblock: inline
 aliases: ["War-Wing Siren"]
 ---

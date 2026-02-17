@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/arcane-trickster
+- spell/list/subclass/arcane-trickster
 aliases:
 - Spells for Arcane Trickster
 ---

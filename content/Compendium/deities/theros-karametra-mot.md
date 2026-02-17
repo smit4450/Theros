@@ -4,10 +4,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/deity/theros
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/nature
+- src/5e/mot
+- deity/theros
+- domain/life
+- domain/nature
 aliases: 
 - Karametra
 ---

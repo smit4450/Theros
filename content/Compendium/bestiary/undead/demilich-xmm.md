@@ -3,11 +3,11 @@ title: Demilich
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/18
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/undead
+- src/5e/xmm
+- monster/cr/18
+- monster/environment/any
+- monster/size/tiny
+- monster/type/undead
 statblock: inline
 aliases: ["Demilich"]
 ---

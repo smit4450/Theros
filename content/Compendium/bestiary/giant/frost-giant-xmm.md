@@ -3,12 +3,12 @@ title: Frost Giant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+- src/5e/xmm
+- monster/cr/8
+- monster/environment/arctic
+- monster/environment/mountain
+- monster/size/huge
+- monster/type/giant
 statblock: inline
 aliases: ["Frost Giant"]
 ---

@@ -3,12 +3,12 @@ title: Hunger of Hadar
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/great-old-one-patron
+- src/5e/xphb
+- spell/class/warlock
+- spell/level/3rd-level
+- spell/school/conjuration
+- spell/subclass/aberrant-sorcery
+- spell/subclass/great-old-one-patron
 classes:
 - Sorcerer (Aberrant Sorcery)
 - Warlock

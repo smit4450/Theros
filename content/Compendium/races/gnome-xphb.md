@@ -3,8 +3,8 @@ title: Gnome
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/gnome
+- src/5e/xphb
+- race/gnome
 aliases: ["Gnome"]
 ---
 # Gnome

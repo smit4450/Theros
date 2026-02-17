@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/subclass/ranger/winter-walker
+- src/5e/frhof
+- subclass/ranger/winter-walker
 aliases:
 - Winter Walker
 ---

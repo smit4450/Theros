@@ -3,12 +3,12 @@ title: Slithering Tracker
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/ooze
+- src/5e/vgm
+- monster/cr/3
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/medium
+- monster/type/ooze
 statblock: inline
 aliases: ["Slithering Tracker"]
 ---

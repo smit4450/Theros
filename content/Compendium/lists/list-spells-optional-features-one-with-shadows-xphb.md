@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/optfeature/one-with-shadows
+- spell/list/optfeature/one-with-shadows
 aliases:
 - Spells for One with Shadows
 ---

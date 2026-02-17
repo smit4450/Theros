@@ -3,11 +3,11 @@ title: Psychic Gray Ooze
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/ooze
+- src/5e/xmm
+- monster/cr/1
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/ooze
 statblock: inline
 aliases: ["Psychic Gray Ooze"]
 ---

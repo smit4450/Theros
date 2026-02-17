@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/light-domain
+- spell/list/subclass/light-domain
 aliases:
 - Spells for Light Domain
 ---

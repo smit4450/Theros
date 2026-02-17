@@ -3,9 +3,9 @@ title: Sled
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/vehicle/land
+- src/5e/xphb
+- item/rarity/none
+- item/vehicle/land
 aliases: 
 - "Sled"
 ---

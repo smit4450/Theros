@@ -3,10 +3,10 @@ title: Spirespine
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxiii
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvxxiii
+- monster/cr/7
+- monster/size/g
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Spirespine"]
 ---

@@ -3,10 +3,10 @@ title: Galaia
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvi
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/construct
+- src/5e/tbvi
+- monster/cr/5
+- monster/size/l
+- monster/type/construct
 statblock: inline
 aliases: ["Galaia"]
 ---

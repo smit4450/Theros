@@ -3,10 +3,10 @@ title: Nessian Game Warden
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvi
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbvi
+- monster/cr/6
+- monster/size/h
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Nessian Game Warden"]
 ---

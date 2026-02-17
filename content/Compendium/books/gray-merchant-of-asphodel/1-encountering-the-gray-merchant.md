@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
+- src/5e/gmoa
 aliases:
 - Encountering The Gray Merchant
 ---

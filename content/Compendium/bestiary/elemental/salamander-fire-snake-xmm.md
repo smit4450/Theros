@@ -3,13 +3,13 @@ title: Salamander Fire Snake
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/fire
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/1
+- monster/environment/fire
+- monster/environment/planar
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/elemental
 statblock: inline
 aliases: ["Salamander Fire Snake"]
 ---

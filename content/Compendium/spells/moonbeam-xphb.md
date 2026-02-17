@@ -3,15 +3,15 @@ title: Moonbeam
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/circle-of-the-moon
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/college-of-the-moon
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/level/2nd-level
+- spell/school/evocation
+- spell/subclass/circle-of-the-moon
+- spell/subclass/college-of-lore
+- spell/subclass/college-of-the-moon
+- spell/subclass/oath-of-the-ancients
 classes:
 - Bard
 - Bard (College of Lore)

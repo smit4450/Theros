@@ -3,10 +3,10 @@ title: Underworld Cerberus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/mot
+- monster/cr/6
+- monster/size/large
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Underworld Cerberus"]
 ---

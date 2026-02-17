@@ -3,12 +3,12 @@ title: Larva
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/environment/lower
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+- src/5e/xmm
+- monster/cr/0
+- monster/environment/lower
+- monster/environment/planar
+- monster/size/medium
+- monster/type/fiend
 statblock: inline
 aliases: ["Larva"]
 ---

@@ -3,12 +3,12 @@ title: "Flamecast Wheel"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+- src/5e/gmoa
+- item/attunement/required
+- item/rarity/rare
+- item/weapon
+- item/weapon/martial
+- item/weapon/melee
 aliases: 
 - "Flamecast Wheel"
 ---

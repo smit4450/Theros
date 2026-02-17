@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/druid/land
+- src/5e/xphb
+- subclass/druid/land
 aliases:
 - Circle of the Land
 ---

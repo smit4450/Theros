@@ -3,9 +3,9 @@ title: Instrument of the Bards
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/varies
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/varies
 aliases: 
 - "Instrument of the Bards"
 ---

@@ -3,18 +3,18 @@ title: Confusion
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/great-old-one-patron
-- ttrpg-cli/spell/subclass/knowledge-domain
-- ttrpg-cli/spell/subclass/trickery-domain
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/level/4th-level
+- spell/school/enchantment
+- spell/subclass/arcane-trickster
+- spell/subclass/eldritch-knight
+- spell/subclass/great-old-one-patron
+- spell/subclass/knowledge-domain
+- spell/subclass/trickery-domain
 classes:
 - Bard
 - Cleric (Knowledge Domain)

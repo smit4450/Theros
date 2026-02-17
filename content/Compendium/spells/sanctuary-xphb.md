@@ -3,13 +3,13 @@ title: Sanctuary
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/college-of-lore
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/feat/magic-initiate/cleric-spells
+- spell/level/1st-level
+- spell/school/abjuration
+- spell/subclass/college-of-lore
 classes:
 - Bard
 - Bard (College of Lore)

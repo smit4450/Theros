@@ -3,10 +3,10 @@ title: Eidolon of the Great Revel
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxii
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvxxii
+- monster/cr/3
+- monster/size/l
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Eidolon of the Great Revel"]
 ---

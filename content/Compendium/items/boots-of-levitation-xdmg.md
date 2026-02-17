@@ -3,9 +3,9 @@ title: Boots of Levitation
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/rare
 aliases: 
 - "Boots of Levitation"
 ---

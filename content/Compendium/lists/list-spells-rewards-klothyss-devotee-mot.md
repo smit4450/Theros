@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/klothyss-devotee
+- spell/list/reward/klothyss-devotee
 aliases:
 - Spells for Klothys's Devotee
 ---

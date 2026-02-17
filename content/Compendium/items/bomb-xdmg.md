@@ -3,9 +3,9 @@ title: Bomb
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/explosive
+- src/5e/xdmg
+- item/rarity/none
+- item/weapon/explosive
 aliases: 
 - "Bomb"
 ---

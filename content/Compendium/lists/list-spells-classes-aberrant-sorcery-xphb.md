@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/aberrant-sorcery
+- spell/list/subclass/aberrant-sorcery
 aliases:
 - Spells for Aberrant Sorcery
 ---

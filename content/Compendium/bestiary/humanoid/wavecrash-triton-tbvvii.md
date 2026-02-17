@@ -3,10 +3,10 @@ title: Wavecrash Triton
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvvii
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvvii
+- monster/cr/7
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Wavecrash Triton"]
 ---

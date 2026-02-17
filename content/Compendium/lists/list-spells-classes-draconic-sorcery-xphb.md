@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/draconic-sorcery
+- spell/list/subclass/draconic-sorcery
 aliases:
 - Spells for Draconic Sorcery
 ---

@@ -3,14 +3,14 @@ title: Kenku
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/shadowfell
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/1-4
+- monster/environment/forest
+- monster/environment/planar
+- monster/environment/shadowfell
+- monster/environment/urban
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Kenku"]
 ---

@@ -3,14 +3,14 @@ title: Calm Emotions
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/college-of-lore
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/level/2nd-level
+- spell/school/enchantment
+- spell/subclass/aberrant-sorcery
+- spell/subclass/archfey-patron
+- spell/subclass/college-of-lore
 classes:
 - Bard
 - Bard (College of Lore)

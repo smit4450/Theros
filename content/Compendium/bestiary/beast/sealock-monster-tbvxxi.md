@@ -3,10 +3,10 @@ title: Sealock Monster
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxxi
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/beast
+- src/5e/tbvxxi
+- monster/cr/6
+- monster/size/l
+- monster/type/beast
 statblock: inline
 aliases: ["Sealock Monster"]
 ---

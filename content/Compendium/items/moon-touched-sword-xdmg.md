@@ -3,11 +3,11 @@ title: Moon-Touched Sword
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/xdmg
+- item/rarity/common
+- item/weapon/martial
+- item/weapon/melee
+- item/wondrous/generic-variant
 aliases: 
 - "Moon-Touched Sword"
 - "Moon-Touched Double-Bladed Scimitar"

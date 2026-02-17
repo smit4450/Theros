@@ -3,13 +3,13 @@ title: Ghast Gravecaller
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+- src/5e/xmm
+- monster/cr/6
+- monster/environment/swamp
+- monster/environment/underdark
+- monster/environment/urban
+- monster/size/medium
+- monster/type/undead
 statblock: inline
 aliases: ["Ghast Gravecaller"]
 ---

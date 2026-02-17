@@ -3,10 +3,10 @@ title: Nemesis of Mortals
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbviv
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/h
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/tbviv
+- monster/cr/4
+- monster/size/h
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Nemesis of Mortals"]
 ---

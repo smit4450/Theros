@@ -3,10 +3,10 @@ title: Molten Bronze Skin
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/generic-variant
+- src/5e/mot
+- item/attunement/required
+- item/rarity/rare
+- item/wondrous/generic-variant
 aliases: 
 - "Molten Bronze Skin"
 ---

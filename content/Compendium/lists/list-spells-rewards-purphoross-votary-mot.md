@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/reward/purphoross-votary
+- spell/list/reward/purphoross-votary
 aliases:
 - Spells for Purphoros's Votary
 ---

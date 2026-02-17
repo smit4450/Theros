@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/school/divination
+- spell/list/school/divination
 aliases:
 - Divination Spells
 ---

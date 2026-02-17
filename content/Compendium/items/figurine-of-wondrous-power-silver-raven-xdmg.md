@@ -3,8 +3,8 @@ title: Figurine of Wondrous Power, Silver Raven
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
+- src/5e/xdmg
+- item/rarity/uncommon
 aliases: 
 - "Figurine of Wondrous Power, Silver Raven"
 ---

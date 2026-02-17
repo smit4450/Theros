@@ -3,15 +3,15 @@ title: Thaumaturgy
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/tiefling
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/college-of-lore
+- src/5e/xphb
+- spell/class/cleric
+- spell/feat/blessed-warrior
+- spell/feat/magic-initiate/cleric-spells
+- spell/level/cantrip
+- spell/optfeature/pact-of-the-tome
+- spell/race/tiefling
+- spell/school/transmutation
+- spell/subclass/college-of-lore
 classes:
 - Bard (College of Lore)
 - Cleric

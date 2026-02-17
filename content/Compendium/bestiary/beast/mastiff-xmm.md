@@ -3,13 +3,13 @@ title: Mastiff
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
+- src/5e/xmm
+- monster/cr/1-8
+- monster/environment/forest
+- monster/environment/hill
+- monster/environment/urban
+- monster/size/medium
+- monster/type/beast
 statblock: inline
 aliases: ["Mastiff"]
 ---

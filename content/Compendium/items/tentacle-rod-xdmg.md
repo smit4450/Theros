@@ -3,10 +3,10 @@ title: Tentacle Rod
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/rod
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/rare
+- item/wondrous/rod
 aliases: 
 - "Tentacle Rod"
 ---

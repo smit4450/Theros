@@ -4,8 +4,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/reward/charm
+- src/5e/xdmg
+- reward/charm
 aliases:
 - Sanctum Charm
 ---

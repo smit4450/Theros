@@ -3,10 +3,10 @@ title: Noble Quarry
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvviii
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/l
-- ttrpg-cli/monster/type/miscellaneous
+- src/5e/tbvviii
+- monster/cr/2
+- monster/size/l
+- monster/type/miscellaneous
 statblock: inline
 aliases: ["Noble Quarry"]
 ---

@@ -3,11 +3,11 @@ title: Empyrean Iota
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type//titan
+- src/5e/xmm
+- monster/cr/1
+- monster/environment/any
+- monster/size/medium
+- monster/type//titan
 statblock: inline
 aliases: ["Empyrean Iota"]
 ---

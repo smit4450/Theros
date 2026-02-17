@@ -3,10 +3,10 @@ title: Labyrinth Champion
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvxvi
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/m
-- ttrpg-cli/monster/type/humanoid
+- src/5e/tbvxvi
+- monster/cr/4
+- monster/size/m
+- monster/type/humanoid
 statblock: inline
 aliases: ["Labyrinth Champion"]
 ---

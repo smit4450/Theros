@@ -3,11 +3,11 @@ title: Hill Giant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+- src/5e/xmm
+- monster/cr/5
+- monster/environment/hill
+- monster/size/huge
+- monster/type/giant
 statblock: inline
 aliases: ["Hill Giant"]
 ---

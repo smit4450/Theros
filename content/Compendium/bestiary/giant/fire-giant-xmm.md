@@ -3,12 +3,12 @@ title: Fire Giant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+- src/5e/xmm
+- monster/cr/9
+- monster/environment/mountain
+- monster/environment/underdark
+- monster/size/huge
+- monster/type/giant
 statblock: inline
 aliases: ["Fire Giant"]
 ---

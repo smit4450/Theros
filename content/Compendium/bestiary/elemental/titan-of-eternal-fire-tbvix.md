@@ -3,10 +3,10 @@ title: Titan of Eternal Fire
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/tbvix
-- ttrpg-cli/monster/cr/27
-- ttrpg-cli/monster/size/g
-- ttrpg-cli/monster/type/elemental
+- src/5e/tbvix
+- monster/cr/27
+- monster/size/g
+- monster/type/elemental
 statblock: inline
 aliases: ["Titan of Eternal Fire"]
 ---

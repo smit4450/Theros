@@ -3,20 +3,20 @@ title: Detect Poison and Disease
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/feat/ritual-caster
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/college-of-lore
+- src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/druid
+- spell/class/paladin
+- spell/class/ranger
+- spell/feat/fey-touched
+- spell/feat/magic-initiate/druid-spells
+- spell/feat/ritual-caster
+- spell/level/1st-level
+- spell/optfeature/pact-of-the-tome
+- spell/ritual
+- spell/school/divination
+- spell/subclass/college-of-lore
 classes:
 - Bard
 - Bard (College of Lore)

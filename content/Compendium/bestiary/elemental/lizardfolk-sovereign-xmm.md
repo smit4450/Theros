@@ -3,12 +3,12 @@ title: Lizardfolk Sovereign
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+- src/5e/xmm
+- monster/cr/4
+- monster/environment/forest
+- monster/environment/swamp
+- monster/size/medium
+- monster/type/elemental
 statblock: inline
 aliases: ["Lizardfolk Sovereign"]
 ---

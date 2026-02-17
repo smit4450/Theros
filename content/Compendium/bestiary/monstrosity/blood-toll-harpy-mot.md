@@ -3,10 +3,10 @@ title: Blood-Toll Harpy
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/mot
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/mot
+- monster/cr/1-8
+- monster/size/medium
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Blood-Toll Harpy"]
 ---

@@ -3,10 +3,10 @@ title: Ring of Elemental Command (Earth)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/wondrous/ring
+- src/5e/xdmg
+- item/attunement/required
+- item/rarity/legendary
+- item/wondrous/ring
 aliases: 
 - "Ring of Elemental Command (Earth)"
 ---

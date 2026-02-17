@@ -3,11 +3,11 @@ title: Adult Green Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon/chromatic
+- src/5e/xmm
+- monster/cr/15
+- monster/environment/forest
+- monster/size/huge
+- monster/type/dragon/chromatic
 statblock: inline
 aliases: ["Adult Green Dragon"]
 ---

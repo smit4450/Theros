@@ -3,15 +3,15 @@ title: Bugbear Stalker
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/feywild
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey/goblinoid
+- src/5e/xmm
+- monster/cr/3
+- monster/environment/feywild
+- monster/environment/forest
+- monster/environment/grassland
+- monster/environment/planar
+- monster/environment/underdark
+- monster/size/medium
+- monster/type/fey/goblinoid
 statblock: inline
 aliases: ["Bugbear Stalker"]
 ---

@@ -3,13 +3,13 @@ title: Flying Snake
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/monstrosity
+- src/5e/xmm
+- monster/cr/1-8
+- monster/environment/desert
+- monster/environment/forest
+- monster/environment/grassland
+- monster/size/tiny
+- monster/type/monstrosity
 statblock: inline
 aliases: ["Flying Snake"]
 ---

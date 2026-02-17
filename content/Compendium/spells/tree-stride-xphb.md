@@ -3,14 +3,14 @@ title: Tree Stride
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/class/ranger
+- spell/level/5th-level
+- spell/school/conjuration
+- spell/subclass/circle-of-the-land/temperate-land
+- spell/subclass/oath-of-the-ancients
 classes:
 - Bard
 - Druid

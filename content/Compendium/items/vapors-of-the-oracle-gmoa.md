@@ -3,9 +3,9 @@ title: "Vapors of the Oracle"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/potion
+- src/5e/gmoa
+- item/rarity/very-rare
+- item/potion
 aliases: 
 - "Vapors of the Oracle"
 ---

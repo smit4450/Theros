@@ -3,22 +3,22 @@ title: Fog Cloud
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/race/triton
-- ttrpg-cli/spell/reward/thassas-devotee
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-the-land/polar-land
-- ttrpg-cli/spell/subclass/circle-of-the-sea
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/class/ranger
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/feat/magic-initiate/wizard-spells
+- spell/level/1st-level
+- spell/race/triton
+- spell/reward/thassas-devotee
+- spell/school/conjuration
+- spell/subclass/arcane-trickster
+- spell/subclass/circle-of-the-land/polar-land
+- spell/subclass/circle-of-the-sea
+- spell/subclass/college-of-lore
+- spell/subclass/eldritch-knight
 classes:
 - Bard
 - Bard (College of Lore)

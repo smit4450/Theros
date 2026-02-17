@@ -3,9 +3,9 @@ title: Ring of Poison Resistance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/ring
+- src/5e/xdmg
+- item/rarity/rare
+- item/wondrous/ring
 aliases: 
 - "Ring of Poison Resistance"
 ---

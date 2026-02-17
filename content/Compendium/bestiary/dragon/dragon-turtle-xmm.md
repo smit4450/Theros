@@ -3,12 +3,12 @@ title: Dragon Turtle
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon
+- src/5e/xmm
+- monster/cr/17
+- monster/environment/coastal
+- monster/environment/underwater
+- monster/size/gargantuan
+- monster/type/dragon
 statblock: inline
 aliases: ["Dragon Turtle"]
 ---

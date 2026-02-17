@@ -3,9 +3,9 @@ title: Holy Avenger
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/crafting/enchantment/weapon
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/attunement/required
+- crafting/enchantment/weapon
+- item/rarity/legendary
+- item/attunement/required
 aliases:
 - Holy Avenger
 ---

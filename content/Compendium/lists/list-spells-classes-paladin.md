@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/class/paladin
+- spell/list/class/paladin
 aliases:
 - Paladin Spells
 ---

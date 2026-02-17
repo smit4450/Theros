@@ -3,10 +3,10 @@ title: Cordon of Arrows
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/transmutation
+- src/5e/xphb
+- spell/class/ranger
+- spell/level/2nd-level
+- spell/school/transmutation
 classes:
 - Ranger
 aliases: ["Cordon of Arrows"]

@@ -3,12 +3,12 @@ title: Oni
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend
+- src/5e/xmm
+- monster/cr/7
+- monster/environment/forest
+- monster/environment/urban
+- monster/size/large
+- monster/type/fiend
 statblock: inline
 aliases: ["Oni"]
 ---

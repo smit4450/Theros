@@ -4,7 +4,7 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/spell/list/subclass/college-of-the-moon
+- spell/list/subclass/college-of-the-moon
 aliases:
 - Spells for College of the Moon
 ---

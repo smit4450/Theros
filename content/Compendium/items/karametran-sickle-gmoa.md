@@ -3,11 +3,11 @@ title: "Karametran Sickle"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/gmoa
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/weapon
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/weapon/melee
+- src/5e/gmoa
+- item/rarity/common
+- item/weapon
+- item/weapon/simple
+- item/weapon/melee
 aliases: 
 - "Karametran Sickle"
 ---

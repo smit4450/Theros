@@ -3,10 +3,10 @@ title: Armor of Agathys
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/abjuration
+- src/5e/xphb
+- spell/class/warlock
+- spell/level/1st-level
+- spell/school/abjuration
 classes:
 - Warlock
 aliases: ["Armor of Agathys"]

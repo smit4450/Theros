@@ -3,11 +3,11 @@ title: Adult White Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/dragon/chromatic
+- src/5e/xmm
+- monster/cr/13
+- monster/environment/arctic
+- monster/size/huge
+- monster/type/dragon/chromatic
 statblock: inline
 aliases: ["Adult White Dragon"]
 ---

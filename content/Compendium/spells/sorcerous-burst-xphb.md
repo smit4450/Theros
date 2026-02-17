@@ -3,11 +3,11 @@ title: Sorcerous Burst
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/evocation
+- src/5e/xphb
+- spell/class/sorcerer
+- spell/level/cantrip
+- spell/optfeature/pact-of-the-tome
+- spell/school/evocation
 classes:
 - Sorcerer
 aliases: ["Sorcerous Burst"]

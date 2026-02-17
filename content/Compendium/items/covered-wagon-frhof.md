@@ -3,9 +3,9 @@ title: Covered Wagon
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/frhof
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/vehicle/land
+- src/5e/frhof
+- item/rarity/none
+- item/vehicle/land
 aliases: 
 - "Covered Wagon"
 ---

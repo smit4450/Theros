@@ -187,6 +187,7 @@ export function slugTag(tag: string) {
     .split("/")
     .map((tagSegment) => sluggify(tagSegment))
     .join("/")
+    .replace(/\/+$/, "") // Remove trailing slashes
 }
 
 export function joinSegments(...args: string[]): string {

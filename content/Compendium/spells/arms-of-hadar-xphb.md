@@ -3,11 +3,11 @@ title: Arms of Hadar
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/aberrant-sorcery
+- src/5e/xphb
+- spell/class/warlock
+- spell/level/1st-level
+- spell/school/conjuration
+- spell/subclass/aberrant-sorcery
 classes:
 - Sorcerer (Aberrant Sorcery)
 - Warlock

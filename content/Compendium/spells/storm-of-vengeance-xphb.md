@@ -3,11 +3,11 @@ title: Storm of Vengeance
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/9th-level
-- ttrpg-cli/spell/school/conjuration
+- src/5e/xphb
+- spell/class/bard
+- spell/class/druid
+- spell/level/9th-level
+- spell/school/conjuration
 classes:
 - Bard
 - Druid
