@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/crafting/enchantments/weapon/weapon.md",
-                "mode": "source",
+                "file": "Compendium/spells/spells.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weapon"
+              "title": "spells"
             }
           }
         ]
@@ -269,9 +269,11 @@
   },
   "active": "b416636de4d13aac",
   "lastOpenFiles": [
-    "Compendium/crafting/enchantments/weapon/index.md",
-    "Compendium/crafting/enchantments/weapon/weapon.md",
+    "Compendium/rewards/rewards.md",
+    "Compendium/races/races.md",
     "Compendium/spells/spells.md",
+    "Compendium/crafting/enchantments/weapon/weapon.md",
+    "Compendium/crafting/enchantments/weapon/index.md",
     "Compendium/spells/shield-spell-xphb.md",
     "Compendium/spells/darkness-xphb.md",
     "Compendium/rules/senses.md",
@@ -293,8 +295,6 @@
     "Compendium/bestiary/legendary-group/mummy-lord-legendary-xmm.md",
     "Compendium/bestiary/legendary-group/lich-legendary-xmm.md",
     "Compendium/bestiary/legendary-group/dracolich-legendary-xmm.md",
-    "Compendium/bestiary/legendary-group/demilich-legendary-xmm.md",
-    "Compendium/bestiary/legendary-group/death-tyrant-legendary-xmm.md",
     "Compendium/supernatural-gifts",
     "mythic-odysseys-of-theros/Character Creation",
     "mythic-odysseys-of-theros/img/086-04-11.webp",
