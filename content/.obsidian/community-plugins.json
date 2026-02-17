@@ -13,5 +13,7 @@
   "initiative-tracker",
   "obsidian-admonition",
   "find-unlinked-files",
-  "folder-notes"
+  "folder-notes",
+  "tag-wrangler",
+  "obsidian-linter"
 ]
