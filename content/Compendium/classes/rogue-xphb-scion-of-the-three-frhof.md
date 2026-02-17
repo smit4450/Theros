@@ -72,7 +72,7 @@ Choose one of the Dead Three: [[faerunian-bane-frhof|Bane]], [[faerunian-bhaal-f
 
 ### Strike Fear (Level 9)
 
-You gain the following [[rogue-xphb#Cunning%20Strike%20(Level%205|Cunning Strike]]) option.
+You gain the following [[rogue-xphb#Cunning Strike (Level 5)|Cunning Strike]] option.
 
 #### Terrify (Cost: `1d6`)
 _Source: FRHoF_
@@ -83,7 +83,7 @@ The [[conditions#Frightened|Frightened]] target repeats the save at the end of e
 
 ### Aura of Malevolence (Level 13)
 
-You radiate malignant power associated with one of the Dead Three. When you use [[rogue-xphb-scion-of-the-three-frhof#Bloodthirst%20(Level%203|Bloodthirst]]) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [[resistance-rules-xphb|Resistance]] granted by your choice in the Dread Allegiance feature. [[damage-xphb|Damage]] dealt by this feature ignores [[resistance-rules-xphb|Resistance]].
+You radiate malignant power associated with one of the Dead Three. When you use [[rogue-xphb-scion-of-the-three-frhof#Bloodthirst (Level 3)|Bloodthirst]] and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [[resistance-rules-xphb|Resistance]] granted by your choice in the Dread Allegiance feature. [[damage-xphb|Damage]] dealt by this feature ignores [[resistance-rules-xphb|Resistance]].
 
 ### Dread Incarnate (Level 17)
 
@@ -92,9 +92,9 @@ You gain the following benefits.
 #### Cutthroat
 _Source: FRHoF_
 
-You regain one expended use of [[rogue-xphb-scion-of-the-three-frhof#Bloodthirst%20(Level%203|Bloodthirst]]) when you finish a [[short-rest-xphb|Short Rest]].
+You regain one expended use of [[rogue-xphb-scion-of-the-three-frhof#Bloodthirst (Level 3)|Bloodthirst]] when you finish a [[short-rest-xphb|Short Rest]].
 
 #### Murderous Intent
 _Source: FRHoF_
 
-When you roll for your [[rogue-xphb#Sneak%20Attack%20(Level%201|Sneak Attack]]) damage, you can treat a roll of a 1 or 2 on the die as a 3.
+When you roll for your [[rogue-xphb#Sneak Attack (Level 1)|Sneak Attack]] damage, you can treat a roll of a 1 or 2 on the die as a 3.

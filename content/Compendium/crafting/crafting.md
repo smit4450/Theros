@@ -12,7 +12,7 @@ Welcome to the crafting section of the compendium. Here you'll find rules and re
 
 ## Main Resources
 
-### [[The%20Arcane%20Forge|The Arcane Forge]]
+### [[The Arcane Forge|The Arcane Forge]]
 The complete crafting rules, including:
 - Crafting magic items (time, cost, and raw materials)
 - Essence harvesting from monsters

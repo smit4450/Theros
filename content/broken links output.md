@@ -1,7 +1,10 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
+- [[Compendium/bestiary/humanoid/oracle-mot]] in [[Compendium/books/mythic-odysseys-of-theros/5-creating-theros-adventures]], [[Compendium/books/mythic-odysseys-of-theros/7-friends-and-foes]]
 - [[faerunian-oghma-frhof]] in [[Compendium/classes/cleric-xphb-knowledge-domain-frhof]]
 - [[faerunian-gond-frhof]] in [[Compendium/classes/cleric-xphb-knowledge-domain-frhof]]
 - [[faerunian-bane-frhof]] in [[Compendium/classes/rogue-xphb-scion-of-the-three-frhof]]
 - [[faerunian-bhaal-frhof]] in [[Compendium/classes/rogue-xphb-scion-of-the-three-frhof]]
 - [[faerunian-myrkul-frhof]] in [[Compendium/classes/rogue-xphb-scion-of-the-three-frhof]]
-- [[Assets/theros/Elspeth Suns Champion.png]] in [[forging]]
+- [[The%20Arcane%20Forge]] in [[Compendium/crafting/crafting]]
+- [[Compendium/spells/shield-xphb]] in [[Compendium/lists/list-spells-classes-abjurer-xphb]], [[Compendium/lists/list-spells-classes-arcane-trickster-xphb]], [[Compendium/lists/list-spells-classes-college-of-lore-xphb]], [[Compendium/lists/list-spells-classes-eldritch-knight-xphb]], [[Compendium/lists/list-spells-classes-sorcerer]], [[Compendium/lists/list-spells-classes-wizard]], [[Compendium/lists/list-spells-feats-magic-initiate-xphb]], [[Compendium/lists/list-spells-school-abjuration]]
+- [[Compendium/spells/giant-insect-xphb]] in [[Compendium/lists/list-spells-classes-druid]], [[Compendium/lists/list-spells-school-conjuration]]

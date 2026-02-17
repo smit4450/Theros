@@ -87,11 +87,11 @@ Additionally, whenever a target fails the saving throw against a [[counterspell-
 
 ### Honed Spellfire (Level 14)
 
-Your [[sorcerer-xphb-spellfire-sorcery-frhof#Spellfire%20Burst%20(Level%203|Spellfire Burst]]) improves. You add your [[sorcerer-xphb|Sorcerer]] level to the [[temporary-hit-points-xphb|Temporary Hit Points]] gained from [[sorcerer-xphb-spellfire-sorcery-frhof#Bolstering%20Flames%20(Level%203|Bolstering Flames]]), and the damage of [[sorcerer-xphb-spellfire-sorcery-frhof#Radiant%20Fire%20(Level%203|Radiant Fire]]) increases to `1d8`.
+Your [[sorcerer-xphb-spellfire-sorcery-frhof#Spellfire Burst (Level 3)|Spellfire Burst]] improves. You add your [[sorcerer-xphb|Sorcerer]] level to the [[temporary-hit-points-xphb|Temporary Hit Points]] gained from [[sorcerer-xphb-spellfire-sorcery-frhof#Bolstering Flames (Level 3)|Bolstering Flames]], and the damage of [[sorcerer-xphb-spellfire-sorcery-frhof#Radiant Fire (Level 3)|Radiant Fire]] increases to `1d8`.
 
 ### Crown of Spellfire (Level 18)
 
-When you use [[sorcerer-xphb#Innate%20Sorcery%20(Level%201|Innate Sorcery]]), you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active. Once you use this feature to alter Innate Sorcery, you can't use it again until you finish a [[long-rest-xphb|Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+When you use [[sorcerer-xphb#Innate Sorcery (Level 1)|Innate Sorcery]], you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active. Once you use this feature to alter Innate Sorcery, you can't use it again until you finish a [[long-rest-xphb|Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 #### Burning Life Force
 _Source: FRHoF_

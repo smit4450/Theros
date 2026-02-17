@@ -61,7 +61,7 @@ Paladins who swear this oath often undertake quests that take them all over the 
 
 ### Elemental Smite (Level 3)
 
-Immediately after you cast [[divine-smite-xphb|Divine Smite]], you can expend one use of your [[paladin-xphb#Channel%20Divinity%20(Level%203|Channel Divinity]]) and invoke one of the following effects.
+Immediately after you cast [[divine-smite-xphb|Divine Smite]], you can expend one use of your [[paladin-xphb#Channel Divinity (Level 3)|Channel Divinity]] and invoke one of the following effects.
 
 ### Dao's Crush (Level 3)
 
@@ -122,4 +122,4 @@ You have a [[fly-speed-xphb|Fly Speed]] of 60 feet and can hover.
 #### Minor Wish
 _Source: FRHoF_
 
-When you or an ally in your [[paladin-xphb#Aura%20of%20Protection%20(Level%206|Aura of Protection]]) fails a [[d20-test-xphb|D20 Test]], you can take a [[reaction-xphb|Reaction]] to make the [[d20-test-xphb|D20 Test]] succeed instead.
+When you or an ally in your [[paladin-xphb#Aura of Protection (Level 6)|Aura of Protection]] fails a [[d20-test-xphb|D20 Test]], you can take a [[reaction-xphb|Reaction]] to make the [[d20-test-xphb|D20 Test]] succeed instead.

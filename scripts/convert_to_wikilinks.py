@@ -7,6 +7,7 @@ This fixes path resolution issues where paths were being treated incorrectly.
 import re
 from pathlib import Path
 from typing import Dict, Set
+from urllib.parse import unquote
 
 
 def extract_filename_and_anchor(link_target: str) -> tuple[str, str | None]:
@@ -16,6 +17,7 @@ def extract_filename_and_anchor(link_target: str) -> tuple[str, str | None]:
     Examples:
         'Compendium/rules/conditions.md#Charmed' -> ('conditions', 'Charmed')
         'Compendium/spells/fireball-xphb.md' -> ('fireball-xphb', None)
+        'classes/sorcerer-xphb.md#Spellfire%20Burst%20(Level%203)' -> ('sorcerer-xphb', 'Spellfire Burst (Level 3)')
     """
     # Remove the .md extension and split on #
     parts = link_target.replace('.md', '').split('#')
@@ -23,6 +25,10 @@ def extract_filename_and_anchor(link_target: str) -> tuple[str, str | None]:
     # Get just the filename from the path
     filename = parts[0].split('/')[-1]
     anchor = parts[1] if len(parts) > 1 else None
+    
+    # Decode URL-encoded characters in the anchor (e.g., %20 -> space)
+    if anchor:
+        anchor = unquote(anchor)
     
     return filename, anchor
 
@@ -55,7 +61,9 @@ def convert_file_links(content: str) -> str:
     """
     # Pattern to match markdown links ending in .md
     # Format: [text](path/to/file.md) or [text](./file.md#anchor) or [text](Compendium/path/to/file.md)
-    pattern = r'\[([^\]]+)\]\(([^\)]+\.md(?:#[^\)]+)?)\)'
+    # Uses (?:[^()]|\([^()]*\))* to allow balanced parentheses in the URL
+    # (e.g., headings like "Spellfire Burst (Level 3)")
+    pattern = r'\[([^\]]+)\]\(((?:[^()]|\([^()]*\))*\.md(?:#(?:[^()]|\([^()]*\))*)?)\)'
     
     # Replace all matches
     converted = re.sub(pattern, convert_markdown_link_to_wikilink, content)
