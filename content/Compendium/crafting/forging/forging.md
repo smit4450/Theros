@@ -13,19 +13,19 @@ Crafting an item out of a rare metal, the cost and time required is determined b
 
 | 2d8  | Rare Metal                      | Cost per Ingot | Rarity    |
 | ---- | ------------------------------- | -------------- | --------- |
-| 2    | [Vertsteel](./vertsteel.md)     | 10.000 gp      | Legendary |
-| 3    | [Imixium](./imixium.md)         | 5.000 gp       | Very Rare |
-| 4    | [Adamantine](./adamantine.md)   | 2.500 gp       | Very Rare |
-| 5    | [Cold Iron](./cold-iron.md)     | 1.000 gp       | Rare      |
-| 6    | [Whiteforged](./whiteforged.md) | 500 gp         | Rare      |
-| 7    | [Silver](./silver.md)           | 100 gp         | Uncommon  |
-| 8-10 | [Masterwork](./masterwork.md)   | N/A            | Common    |
-| 11   | [Orichalcum](./orichalcum.md)   | 100 gp         | Uncommon  |
-| 12   | [Blacksteel](./blacksteel.md)   | 500 gp         | Rare      |
-| 13   | [Zarinthic](./zarinthic.md)     | 1.000 gp       | Rare      |
-| 14   | [Mithral](./mithral.md)         | 2.500 gp       | Very Rare |
-| 15   | [Bloodmetal](./bloodmetal.md)   | 5.000 gp       | Very Rare |
-| 16   | [Sunmetal](./sunmetal.md)       | 10.000 gp      | Legendary |
+| 2    | [[vertsteel|Vertsteel]]     | 10.000 gp      | Legendary |
+| 3    | [[imixium|Imixium]]         | 5.000 gp       | Very Rare |
+| 4    | [[adamantine|Adamantine]]   | 2.500 gp       | Very Rare |
+| 5    | [[cold-iron|Cold Iron]]     | 1.000 gp       | Rare      |
+| 6    | [[whiteforged|Whiteforged]] | 500 gp         | Rare      |
+| 7    | [[silver|Silver]]           | 100 gp         | Uncommon  |
+| 8-10 | [[masterwork|Masterwork]]   | N/A            | Common    |
+| 11   | [[orichalcum|Orichalcum]]   | 100 gp         | Uncommon  |
+| 12   | [[blacksteel|Blacksteel]]   | 500 gp         | Rare      |
+| 13   | [[zarinthic|Zarinthic]]     | 1.000 gp       | Rare      |
+| 14   | [[mithral|Mithral]]         | 2.500 gp       | Very Rare |
+| 15   | [[bloodmetal|Bloodmetal]]   | 5.000 gp       | Very Rare |
+| 16   | [[sunmetal|Sunmetal]]       | 10.000 gp      | Legendary |
 
 #### Rare Metal Ingots
 To create weapons or armor from rare metal, you need ingots of that metal. The cost and rarity of each type of ingot are listed on the table above, and the number of ingots required is listed below.
@@ -50,24 +50,24 @@ Wherever it may be found, getting access to an arcane forge can be an excellent 
 When creating a new magic weapon or armor with a rare metal, you can attempt to combine the two metals into a powerful alloy. When you do the you use the more powerful Magic Weapon or Magic Armor property and add all the properties of both metals on the weapon.
 
 ## Common Metals
-- [Masterwork](./masterwork.md)
+- [[masterwork|Masterwork]]
 
 ## Uncommon Metals
-- [Orichalcum](./orichalcum.md) - 100 gp per ingot
-- [Silver](./silver.md) - 100 gp per ingot
+- [[orichalcum|Orichalcum]] - 100 gp per ingot
+- [[silver|Silver]] - 100 gp per ingot
 
 ## Rare Metals
-- [Blacksteel](./blacksteel.md) - 500 gp per ingot
-- [Cold Iron](./cold-iron.md) - 1,000 gp per ingot
-- [Whiteforged](./whiteforged.md) - 500 gp per ingot
-- [Zarinthic](./zarinthic.md) - 1,000 gp per ingot
+- [[blacksteel|Blacksteel]] - 500 gp per ingot
+- [[cold-iron|Cold Iron]] - 1,000 gp per ingot
+- [[whiteforged|Whiteforged]] - 500 gp per ingot
+- [[zarinthic|Zarinthic]] - 1,000 gp per ingot
 
 ## Very Rare Metals
-- [Adamantine](./adamantine.md) - 2,500 gp per ingot
-- [Bloodmetal](./bloodmetal.md) - 5,000 gp per ingot
-- [Imixium](./imixium.md) - 5,000 gp per ingot
-- [Mithral](./mithral.md) - 2,500 gp per ingot
+- [[adamantine|Adamantine]] - 2,500 gp per ingot
+- [[bloodmetal|Bloodmetal]] - 5,000 gp per ingot
+- [[imixium|Imixium]] - 5,000 gp per ingot
+- [[mithral|Mithral]] - 2,500 gp per ingot
 
 ## Legendary Metals
-- [Sunmetal](./sunmetal.md) - 10,000 gp per ingot
-- [Vertsteel](./vertsteel.md) - 10,000 gp per ingot
+- [[sunmetal|Sunmetal]] - 10,000 gp per ingot
+- [[vertsteel|Vertsteel]] - 10,000 gp per ingot

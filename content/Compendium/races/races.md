@@ -7,18 +7,18 @@ cssclasses:
 ---
 # Index of Races
 
-- [Aasimar](./aasimar-xphb.md)
-- [Centaur](./centaur-mot.md)
-- [Dragonborn](./dragonborn-xphb.md)
-- [Dwarf](./dwarf-xphb.md)
-- [Elf](./elf-xphb.md)
-- [Gnome](./gnome-xphb.md)
-- [Goliath](./goliath-xphb.md)
-- [Halfling](./halfling-xphb.md)
-- [Human](./human-xphb.md)
-- [Leonin](./leonin-mot.md)
-- [Minotaur](./minotaur-mot.md)
-- [Orc](./orc-xphb.md)
-- [Satyr](./satyr-mot.md)
-- [Tiefling](./tiefling-xphb.md)
-- [Triton](./triton-mot.md)
+- [[aasimar-xphb|Aasimar]]
+- [[centaur-mot|Centaur]]
+- [[dragonborn-xphb|Dragonborn]]
+- [[dwarf-xphb|Dwarf]]
+- [[elf-xphb|Elf]]
+- [[gnome-xphb|Gnome]]
+- [[goliath-xphb|Goliath]]
+- [[halfling-xphb|Halfling]]
+- [[human-xphb|Human]]
+- [[leonin-mot|Leonin]]
+- [[minotaur-mot|Minotaur]]
+- [[orc-xphb|Orc]]
+- [[satyr-mot|Satyr]]
+- [[tiefling-xphb|Tiefling]]
+- [[triton-mot|Triton]]

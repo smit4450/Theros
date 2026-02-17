@@ -7,43 +7,43 @@ cssclasses:
 ---
 # Index of Aberration
 
-- [Aberrant Spirit (Beholderkin)](./aberrant-spirit-beholderkin-xphb.md)
-- [Aberrant Spirit (Slaad)](./aberrant-spirit-slaad-xphb.md)
-- [Aberrant Spirit (Star Spawn)](./aberrant-spirit-star-spawn-xphb.md)
-- [Aberrant Spirit](./aberrant-spirit-xphb.md)
-- [Aboleth](./aboleth-xmm.md)
-- [Beholder](./beholder-xmm.md)
-- [Blue Slaad](./blue-slaad-xmm.md)
-- [Chuul](./chuul-xmm.md)
-- [Cloaker](./cloaker-xmm.md)
-- [Darkmantle](./darkmantle-xmm.md)
-- [Death Slaad](./death-slaad-xmm.md)
-- [Flumph](./flumph-xmm.md)
-- [Gibbering Mouther](./gibbering-mouther-xmm.md)
-- [Githyanki Dracomancer](./githyanki-dracomancer-xmm.md)
-- [Githyanki Knight](./githyanki-knight-xmm.md)
-- [Githyanki Warrior](./githyanki-warrior-xmm.md)
-- [Githzerai Monk](./githzerai-monk-xmm.md)
-- [Githzerai Psion](./githzerai-psion-xmm.md)
-- [Githzerai Zerth](./githzerai-zerth-xmm.md)
-- [Gray Slaad](./gray-slaad-xmm.md)
-- [Green Slaad](./green-slaad-xmm.md)
-- [Grell](./grell-xmm.md)
-- [Grick Ancient](./grick-ancient-xmm.md)
-- [Grick](./grick-xmm.md)
-- [Grimlock](./grimlock-xmm.md)
-- [Intellect Devourer](./intellect-devourer-xmm.md)
-- [Kuo-toa Archpriest](./kuo-toa-archpriest-xmm.md)
-- [Kuo-toa Monitor](./kuo-toa-monitor-xmm.md)
-- [Kuo-toa Whip](./kuo-toa-whip-xmm.md)
-- [Kuo-toa](./kuo-toa-xmm.md)
-- [Mind Flayer Arcanist](./mind-flayer-arcanist-xmm.md)
-- [Mind Flayer](./mind-flayer-xmm.md)
-- [Nothic](./nothic-xmm.md)
-- [Otyugh](./otyugh-xmm.md)
-- [Piercer](./piercer-xmm.md)
-- [Red Slaad](./red-slaad-xmm.md)
-- [Roper](./roper-xmm.md)
-- [Slaad Tadpole](./slaad-tadpole-xmm.md)
-- [Spectator](./spectator-xmm.md)
-- [Woe Strider](./woe-strider-mot.md)
+- [[aberrant-spirit-beholderkin-xphb|Aberrant Spirit (Beholderkin)]]
+- [[aberrant-spirit-slaad-xphb|Aberrant Spirit (Slaad)]]
+- [[aberrant-spirit-star-spawn-xphb|Aberrant Spirit (Star Spawn)]]
+- [[aberrant-spirit-xphb|Aberrant Spirit]]
+- [[aboleth-xmm|Aboleth]]
+- [[beholder-xmm|Beholder]]
+- [[blue-slaad-xmm|Blue Slaad]]
+- [[chuul-xmm|Chuul]]
+- [[cloaker-xmm|Cloaker]]
+- [[darkmantle-xmm|Darkmantle]]
+- [[death-slaad-xmm|Death Slaad]]
+- [[flumph-xmm|Flumph]]
+- [[gibbering-mouther-xmm|Gibbering Mouther]]
+- [[githyanki-dracomancer-xmm|Githyanki Dracomancer]]
+- [[githyanki-knight-xmm|Githyanki Knight]]
+- [[githyanki-warrior-xmm|Githyanki Warrior]]
+- [[githzerai-monk-xmm|Githzerai Monk]]
+- [[githzerai-psion-xmm|Githzerai Psion]]
+- [[githzerai-zerth-xmm|Githzerai Zerth]]
+- [[gray-slaad-xmm|Gray Slaad]]
+- [[green-slaad-xmm|Green Slaad]]
+- [[grell-xmm|Grell]]
+- [[grick-ancient-xmm|Grick Ancient]]
+- [[grick-xmm|Grick]]
+- [[grimlock-xmm|Grimlock]]
+- [[intellect-devourer-xmm|Intellect Devourer]]
+- [[kuo-toa-archpriest-xmm|Kuo-toa Archpriest]]
+- [[kuo-toa-monitor-xmm|Kuo-toa Monitor]]
+- [[kuo-toa-whip-xmm|Kuo-toa Whip]]
+- [[kuo-toa-xmm|Kuo-toa]]
+- [[mind-flayer-arcanist-xmm|Mind Flayer Arcanist]]
+- [[mind-flayer-xmm|Mind Flayer]]
+- [[nothic-xmm|Nothic]]
+- [[otyugh-xmm|Otyugh]]
+- [[piercer-xmm|Piercer]]
+- [[red-slaad-xmm|Red Slaad]]
+- [[roper-xmm|Roper]]
+- [[slaad-tadpole-xmm|Slaad Tadpole]]
+- [[spectator-xmm|Spectator]]
+- [[woe-strider-mot|Woe Strider]]

@@ -24,19 +24,19 @@ You can add the following enchantments on anything, be it an existing wondrous i
 
 
 ## Uncommon Enchantments
-- [Darkvision](./darkvision.md)
-- [Glowing](./glowing.md)
-- [Returning](./returning.md)
+- [[darkvision|Darkvision]]
+- [[glowing|Glowing]]
+- [[returning|Returning]]
 
 ## Rare Enchantments
-- [Damage Resistance](./damage-resistance.md)
-- [Ego](./ego.md)
-- [Expert](./expert.md)
-- [Spell Resistance](./spell-resistance.md)
+- [[damage-resistance|Damage Resistance]]
+- [[ego|Ego]]
+- [[expert|Expert]]
+- [[spell-resistance|Spell Resistance]]
 
 ## Very Rare Enchantments
-- [Lucky](./lucky.md)
+- [[lucky|Lucky]]
 
 ## Legendary Enchantments
-- [Invisibility](./invisibility.md)
-- [True Seeing](./true-seeing.md)
+- [[invisibility|Invisibility]]
+- [[true-seeing|True Seeing]]

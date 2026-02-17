@@ -7,38 +7,38 @@ cssclasses:
 ---
 # Index of Backgrounds
 
-- [Acolyte](./acolyte-xphb.md)
-- [Artisan](./artisan-xphb.md)
-- [Athlete](./athlete-mot.md)
-- [Charlatan](./charlatan-xphb.md)
-- [Chondathan Freebooter](./chondathan-freebooter-frhof.md)
-- [Criminal](./criminal-xphb.md)
-- [Dead Magic Dweller](./dead-magic-dweller-frhof.md)
-- [Dragon Cultist](./dragon-cultist-frhof.md)
-- [Emerald Enclave Caretaker](./emerald-enclave-caretaker-frhof.md)
-- [Entertainer](./entertainer-xphb.md)
-- [Farmer](./farmer-xphb.md)
-- [Flaming Fist Mercenary](./flaming-fist-mercenary-frhof.md)
-- [Genie Touched](./genie-touched-frhof.md)
-- [Guard](./guard-xphb.md)
-- [Guide](./guide-xphb.md)
-- [Harper](./harper-frhof.md)
-- [Hermit](./hermit-xphb.md)
-- [Ice Fisher](./ice-fisher-frhof.md)
-- [Knight of the Gauntlet](./knight-of-the-gauntlet-frhof.md)
-- [Lords' Alliance Vassal](./lords-alliance-vassal-frhof.md)
-- [Merchant](./merchant-xphb.md)
-- [Moonwell Pilgrim](./moonwell-pilgrim-frhof.md)
-- [Mulhorandi Tomb Raider](./mulhorandi-tomb-raider-frhof.md)
-- [Mythalkeeper](./mythalkeeper-frhof.md)
-- [Noble](./noble-xphb.md)
-- [Purple Dragon Squire](./purple-dragon-squire-frhof.md)
-- [Rashemi Wanderer](./rashemi-wanderer-frhof.md)
-- [Sage](./sage-xphb.md)
-- [Sailor](./sailor-xphb.md)
-- [Scribe](./scribe-xphb.md)
-- [Shadowmasters Exile](./shadowmasters-exile-frhof.md)
-- [Soldier](./soldier-xphb.md)
-- [Spellfire Initiate](./spellfire-initiate-frhof.md)
-- [Wayfarer](./wayfarer-xphb.md)
-- [Zhentarim Mercenary](./zhentarim-mercenary-frhof.md)
+- [[acolyte-xphb|Acolyte]]
+- [[artisan-xphb|Artisan]]
+- [[athlete-mot|Athlete]]
+- [[charlatan-xphb|Charlatan]]
+- [[chondathan-freebooter-frhof|Chondathan Freebooter]]
+- [[criminal-xphb|Criminal]]
+- [[dead-magic-dweller-frhof|Dead Magic Dweller]]
+- [[dragon-cultist-frhof|Dragon Cultist]]
+- [[emerald-enclave-caretaker-frhof|Emerald Enclave Caretaker]]
+- [[entertainer-xphb|Entertainer]]
+- [[farmer-xphb|Farmer]]
+- [[flaming-fist-mercenary-frhof|Flaming Fist Mercenary]]
+- [[genie-touched-frhof|Genie Touched]]
+- [[guard-xphb|Guard]]
+- [[guide-xphb|Guide]]
+- [[harper-frhof|Harper]]
+- [[hermit-xphb|Hermit]]
+- [[ice-fisher-frhof|Ice Fisher]]
+- [[knight-of-the-gauntlet-frhof|Knight of the Gauntlet]]
+- [[lords-alliance-vassal-frhof|Lords' Alliance Vassal]]
+- [[merchant-xphb|Merchant]]
+- [[moonwell-pilgrim-frhof|Moonwell Pilgrim]]
+- [[mulhorandi-tomb-raider-frhof|Mulhorandi Tomb Raider]]
+- [[mythalkeeper-frhof|Mythalkeeper]]
+- [[noble-xphb|Noble]]
+- [[purple-dragon-squire-frhof|Purple Dragon Squire]]
+- [[rashemi-wanderer-frhof|Rashemi Wanderer]]
+- [[sage-xphb|Sage]]
+- [[sailor-xphb|Sailor]]
+- [[scribe-xphb|Scribe]]
+- [[shadowmasters-exile-frhof|Shadowmasters Exile]]
+- [[soldier-xphb|Soldier]]
+- [[spellfire-initiate-frhof|Spellfire Initiate]]
+- [[wayfarer-xphb|Wayfarer]]
+- [[zhentarim-mercenary-frhof|Zhentarim Mercenary]]

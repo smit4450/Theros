@@ -10,7 +10,7 @@ aliases:
 - Diviner
 ---
 # Diviner
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
+*[[wizard-xphb|Wizard]]: Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 173*  
 
 > [!tldr] Class and Feature Progression

@@ -10,7 +10,7 @@ aliases:
 - Circle of the Moon
 ---
 # Circle of the Moon
-*[Druid](./druid-xphb.md): Druid Subclass*  
+*[[druid-xphb|Druid]]: Druid Subclass*  
 *Source: Player's Handbook (2024) p. 86*  
 
 > [!tldr] Class and Feature Progression

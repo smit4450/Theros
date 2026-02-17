@@ -10,7 +10,7 @@ aliases:
 - Assassin
 ---
 # Assassin
-*[Rogue](./rogue-xphb.md): Rogue Subclass*  
+*[[rogue-xphb|Rogue]]: Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 134*  
 
 > [!tldr] Class and Feature Progression

@@ -10,7 +10,7 @@ aliases:
 - Psi Warrior
 ---
 # Psi Warrior
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
+*[[fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 98*  
 
 > [!tldr] Class and Feature Progression

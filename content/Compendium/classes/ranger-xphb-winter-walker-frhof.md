@@ -10,7 +10,7 @@ aliases:
 - Winter Walker
 ---
 # Winter Walker
-*[Ranger](./ranger-xphb.md): Ranger Subclass*  
+*[[ranger-xphb|Ranger]]: Ranger Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

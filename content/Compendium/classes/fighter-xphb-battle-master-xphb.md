@@ -10,7 +10,7 @@ aliases:
 - Battle Master
 ---
 # Battle Master
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
+*[[fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 93*  
 
 > [!tldr] Class and Feature Progression

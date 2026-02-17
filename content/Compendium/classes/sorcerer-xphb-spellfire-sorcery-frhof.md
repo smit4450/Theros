@@ -10,7 +10,7 @@ aliases:
 - Spellfire Sorcery
 ---
 # Spellfire Sorcery
-*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
+*[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

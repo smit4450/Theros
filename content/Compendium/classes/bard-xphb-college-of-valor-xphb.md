@@ -10,7 +10,7 @@ aliases:
 - College of Valor
 ---
 # College of Valor
-*[Bard](./bard-xphb.md): Bard Subclass*  
+*[[bard-xphb|Bard]]: Bard Subclass*  
 *Source: Player's Handbook (2024) p. 67*  
 
 > [!tldr] Class and Feature Progression

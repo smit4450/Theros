@@ -10,7 +10,7 @@ aliases:
 - Archfey Patron
 ---
 # Archfey Patron
-*[Warlock](./warlock-xphb.md): Warlock Subclass*  
+*[[warlock-xphb|Warlock]]: Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 159*  
 
 > [!tldr] Class and Feature Progression

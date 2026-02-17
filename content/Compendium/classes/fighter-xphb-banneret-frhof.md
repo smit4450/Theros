@@ -10,7 +10,7 @@ aliases:
 - Banneret
 ---
 # Banneret
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
+*[[fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

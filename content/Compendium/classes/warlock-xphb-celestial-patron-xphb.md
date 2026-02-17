@@ -10,7 +10,7 @@ aliases:
 - Celestial Patron
 ---
 # Celestial Patron
-*[Warlock](./warlock-xphb.md): Warlock Subclass*  
+*[[warlock-xphb|Warlock]]: Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 160*  
 
 > [!tldr] Class and Feature Progression

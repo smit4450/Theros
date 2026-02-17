@@ -10,7 +10,7 @@ aliases:
 - Draconic Sorcery
 ---
 # Draconic Sorcery
-*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
+*[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression

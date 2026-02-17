@@ -7,19 +7,19 @@ cssclasses:
 ---
 # Index of Giant
 
-- [Cloud Giant](./cloud-giant-xmm.md)
-- [Cyclops Oracle](./cyclops-oracle-xmm.md)
-- [Cyclops Sentry](./cyclops-sentry-xmm.md)
-- [Doomwake Giant](./doomwake-giant-mot.md)
-- [Ettin](./ettin-xmm.md)
-- [Fire Giant](./fire-giant-xmm.md)
-- [Fomorian](./fomorian-xmm.md)
-- [Frost Giant](./frost-giant-xmm.md)
-- [Hill Giant](./hill-giant-xmm.md)
-- [Hundred-Handed One](./hundred-handed-one-mot.md)
-- [Ogre](./ogre-xmm.md)
-- [Ogrillon Ogre](./ogrillon-ogre-xmm.md)
-- [Stone Giant](./stone-giant-xmm.md)
-- [Storm Giant](./storm-giant-xmm.md)
-- [Troll Limb](./troll-limb-xmm.md)
-- [Troll](./troll-xmm.md)
+- [[cloud-giant-xmm|Cloud Giant]]
+- [[cyclops-oracle-xmm|Cyclops Oracle]]
+- [[cyclops-sentry-xmm|Cyclops Sentry]]
+- [[doomwake-giant-mot|Doomwake Giant]]
+- [[ettin-xmm|Ettin]]
+- [[fire-giant-xmm|Fire Giant]]
+- [[fomorian-xmm|Fomorian]]
+- [[frost-giant-xmm|Frost Giant]]
+- [[hill-giant-xmm|Hill Giant]]
+- [[hundred-handed-one-mot|Hundred-Handed One]]
+- [[ogre-xmm|Ogre]]
+- [[ogrillon-ogre-xmm|Ogrillon Ogre]]
+- [[stone-giant-xmm|Stone Giant]]
+- [[storm-giant-xmm|Storm Giant]]
+- [[troll-limb-xmm|Troll Limb]]
+- [[troll-xmm|Troll]]

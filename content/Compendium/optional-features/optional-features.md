@@ -7,61 +7,61 @@ cssclasses:
 ---
 # Index of Optional-features
 
-- [Agonizing Blast](./agonizing-blast-xphb.md)
-- [Ambush](./ambush-xphb.md)
-- [Armor of Shadows](./armor-of-shadows-xphb.md)
-- [Ascendant Step](./ascendant-step-xphb.md)
-- [Bait and Switch](./bait-and-switch-xphb.md)
-- [Careful Spell](./careful-spell-xphb.md)
-- [Commander's Strike](./commanders-strike-xphb.md)
-- [Commanding Presence](./commanding-presence-xphb.md)
-- [Devil's Sight](./devils-sight-xphb.md)
-- [Devouring Blade](./devouring-blade-xphb.md)
-- [Disarming Attack](./disarming-attack-xphb.md)
-- [Distant Spell](./distant-spell-xphb.md)
-- [Distracting Strike](./distracting-strike-xphb.md)
-- [Eldritch Mind](./eldritch-mind-xphb.md)
-- [Eldritch Smite](./eldritch-smite-xphb.md)
-- [Eldritch Spear](./eldritch-spear-xphb.md)
-- [Empowered Spell](./empowered-spell-xphb.md)
-- [Evasive Footwork](./evasive-footwork-xphb.md)
-- [Extended Spell](./extended-spell-xphb.md)
-- [Feinting Attack](./feinting-attack-xphb.md)
-- [Fiendish Vigor](./fiendish-vigor-xphb.md)
-- [Gaze of Two Minds](./gaze-of-two-minds-xphb.md)
-- [Gift of the Depths](./gift-of-the-depths-xphb.md)
-- [Gift of the Protectors](./gift-of-the-protectors-xphb.md)
-- [Goading Attack](./goading-attack-xphb.md)
-- [Heightened Spell](./heightened-spell-xphb.md)
-- [Investment of the Chain Master](./investment-of-the-chain-master-xphb.md)
-- [Lessons of the First Ones](./lessons-of-the-first-ones-xphb.md)
-- [Lifedrinker](./lifedrinker-xphb.md)
-- [Lunging Attack](./lunging-attack-xphb.md)
-- [Maneuvering Attack](./maneuvering-attack-xphb.md)
-- [Mask of Many Faces](./mask-of-many-faces-xphb.md)
-- [Master of Myriad Forms](./master-of-myriad-forms-xphb.md)
-- [Menacing Attack](./menacing-attack-xphb.md)
-- [Misty Visions](./misty-visions-xphb.md)
-- [One with Shadows](./one-with-shadows-xphb.md)
-- [Otherworldly Leap](./otherworldly-leap-xphb.md)
-- [Pact of the Blade](./pact-of-the-blade-xphb.md)
-- [Pact of the Chain](./pact-of-the-chain-xphb.md)
-- [Pact of the Tome](./pact-of-the-tome-xphb.md)
-- [Parry](./parry-xphb.md)
-- [Precision Attack](./precision-attack-xphb.md)
-- [Pushing Attack](./pushing-attack-xphb.md)
-- [Quickened Spell](./quickened-spell-xphb.md)
-- [Rally](./rally-xphb.md)
-- [Repelling Blast](./repelling-blast-xphb.md)
-- [Riposte](./riposte-xphb.md)
-- [Seeking Spell](./seeking-spell-xphb.md)
-- [Subtle Spell](./subtle-spell-xphb.md)
-- [Sweeping Attack](./sweeping-attack-xphb.md)
-- [Tactical Assessment](./tactical-assessment-xphb.md)
-- [Thirsting Blade](./thirsting-blade-xphb.md)
-- [Transmuted Spell](./transmuted-spell-xphb.md)
-- [Trip Attack](./trip-attack-xphb.md)
-- [Twinned Spell](./twinned-spell-xphb.md)
-- [Visions of Distant Realms](./visions-of-distant-realms-xphb.md)
-- [Whispers of the Grave](./whispers-of-the-grave-xphb.md)
-- [Witch Sight](./witch-sight-xphb.md)
+- [[agonizing-blast-xphb|Agonizing Blast]]
+- [[ambush-xphb|Ambush]]
+- [[armor-of-shadows-xphb|Armor of Shadows]]
+- [[ascendant-step-xphb|Ascendant Step]]
+- [[bait-and-switch-xphb|Bait and Switch]]
+- [[careful-spell-xphb|Careful Spell]]
+- [[commanders-strike-xphb|Commander's Strike]]
+- [[commanding-presence-xphb|Commanding Presence]]
+- [[devils-sight-xphb|Devil's Sight]]
+- [[devouring-blade-xphb|Devouring Blade]]
+- [[disarming-attack-xphb|Disarming Attack]]
+- [[distant-spell-xphb|Distant Spell]]
+- [[distracting-strike-xphb|Distracting Strike]]
+- [[eldritch-mind-xphb|Eldritch Mind]]
+- [[eldritch-smite-xphb|Eldritch Smite]]
+- [[eldritch-spear-xphb|Eldritch Spear]]
+- [[empowered-spell-xphb|Empowered Spell]]
+- [[evasive-footwork-xphb|Evasive Footwork]]
+- [[extended-spell-xphb|Extended Spell]]
+- [[feinting-attack-xphb|Feinting Attack]]
+- [[fiendish-vigor-xphb|Fiendish Vigor]]
+- [[gaze-of-two-minds-xphb|Gaze of Two Minds]]
+- [[gift-of-the-depths-xphb|Gift of the Depths]]
+- [[gift-of-the-protectors-xphb|Gift of the Protectors]]
+- [[goading-attack-xphb|Goading Attack]]
+- [[heightened-spell-xphb|Heightened Spell]]
+- [[investment-of-the-chain-master-xphb|Investment of the Chain Master]]
+- [[lessons-of-the-first-ones-xphb|Lessons of the First Ones]]
+- [[lifedrinker-xphb|Lifedrinker]]
+- [[lunging-attack-xphb|Lunging Attack]]
+- [[maneuvering-attack-xphb|Maneuvering Attack]]
+- [[mask-of-many-faces-xphb|Mask of Many Faces]]
+- [[master-of-myriad-forms-xphb|Master of Myriad Forms]]
+- [[menacing-attack-xphb|Menacing Attack]]
+- [[misty-visions-xphb|Misty Visions]]
+- [[one-with-shadows-xphb|One with Shadows]]
+- [[otherworldly-leap-xphb|Otherworldly Leap]]
+- [[pact-of-the-blade-xphb|Pact of the Blade]]
+- [[pact-of-the-chain-xphb|Pact of the Chain]]
+- [[pact-of-the-tome-xphb|Pact of the Tome]]
+- [[parry-xphb|Parry]]
+- [[precision-attack-xphb|Precision Attack]]
+- [[pushing-attack-xphb|Pushing Attack]]
+- [[quickened-spell-xphb|Quickened Spell]]
+- [[rally-xphb|Rally]]
+- [[repelling-blast-xphb|Repelling Blast]]
+- [[riposte-xphb|Riposte]]
+- [[seeking-spell-xphb|Seeking Spell]]
+- [[subtle-spell-xphb|Subtle Spell]]
+- [[sweeping-attack-xphb|Sweeping Attack]]
+- [[tactical-assessment-xphb|Tactical Assessment]]
+- [[thirsting-blade-xphb|Thirsting Blade]]
+- [[transmuted-spell-xphb|Transmuted Spell]]
+- [[trip-attack-xphb|Trip Attack]]
+- [[twinned-spell-xphb|Twinned Spell]]
+- [[visions-of-distant-realms-xphb|Visions of Distant Realms]]
+- [[whispers-of-the-grave-xphb|Whispers of the Grave]]
+- [[witch-sight-xphb|Witch Sight]]

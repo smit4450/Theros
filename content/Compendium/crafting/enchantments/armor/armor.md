@@ -38,37 +38,37 @@ You can enchant weapons with a property from the list below. Or a GM can roll on
 | 100   | Invulnerability   | Legendary  | Yes |
 
 ## Uncommon Enchantments
-- [Acrobat's Agility](./acrobats-agility.md)
-- [Aura](./aura.md)
-- [Beastly Senses](./beastly-senses.md)
-- [Draconic Mind](./draconic-mind.md)
-- [Elemental Absorption](./elemental-absorption.md)
-- [Elusive](./elusive.md)
-- [Fish Flippers](./fish-flippers.md)
-- [Giant Endurance](./giant-endurance.md)
-- [Implacable](./implacable.md)
-- [Instant Armor](./instant-armor.md)
-- [Monkey's Grip](./monkeys-grip.md)
-- [Noble Speech](./noble-speech.md)
-- [Ogre Power](./ogre-power.md)
-- [Quiet](./quiet.md)
-- [Rejuvenate](./rejuvenate.md)
-- [Water Breathing](./water-breathing.md)
+- [[acrobats-agility|Acrobat's Agility]]
+- [[aura|Aura]]
+- [[beastly-senses|Beastly Senses]]
+- [[draconic-mind|Draconic Mind]]
+- [[elemental-absorption|Elemental Absorption]]
+- [[elusive|Elusive]]
+- [[fish-flippers|Fish Flippers]]
+- [[giant-endurance|Giant Endurance]]
+- [[implacable|Implacable]]
+- [[instant-armor|Instant Armor]]
+- [[monkeys-grip|Monkey's Grip]]
+- [[noble-speech|Noble Speech]]
+- [[ogre-power|Ogre Power]]
+- [[quiet|Quiet]]
+- [[rejuvenate|Rejuvenate]]
+- [[water-breathing|Water Breathing]]
 
 ## Rare Enchantments
-- [Ambusher](./ambusher.md)
-- [Antimage](./antimage.md)
-- [Beastform](./beastform.md)
-- [Elven Make](./elven-make.md)
-- [Feathered Wings](./feathered-wings.md)
-- [Fey Step](./fey-step.md)
-- [Regenerative](./regenerative.md)
+- [[ambusher|Ambusher]]
+- [[antimage|Antimage]]
+- [[beastform|Beastform]]
+- [[elven-make|Elven Make]]
+- [[feathered-wings|Feathered Wings]]
+- [[fey-step|Fey Step]]
+- [[regenerative|Regenerative]]
 
 ## Very Rare Enchantments
-- [Ramming](./ramming.md)
-- [Speed](./speed.md)
-- [Vengeful](./vengeful.md)
+- [[ramming|Ramming]]
+- [[speed|Speed]]
+- [[vengeful|Vengeful]]
 
 ## Legendary Enchantments
-- [Invulnerability](./invulnerability.md)
-- [Thunderbolt](./thunderbolt-armor.md)
+- [[invulnerability|Invulnerability]]
+- [[thunderbolt-armor|Thunderbolt]]

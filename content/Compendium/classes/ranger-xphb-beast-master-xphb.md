@@ -10,7 +10,7 @@ aliases:
 - Beast Master
 ---
 # Beast Master
-*[Ranger](./ranger-xphb.md): Ranger Subclass*  
+*[[ranger-xphb|Ranger]]: Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 123*  
 
 > [!tldr] Class and Feature Progression

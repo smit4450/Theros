@@ -12,7 +12,7 @@ Welcome to the crafting section of the compendium. Here you'll find rules and re
 
 ## Main Resources
 
-### [The Arcane Forge](./The%20Arcane%20Forge.md)
+### [[The%20Arcane%20Forge|The Arcane Forge]]
 The complete crafting rules, including:
 - Crafting magic items (time, cost, and raw materials)
 - Essence harvesting from monsters
@@ -21,15 +21,15 @@ The complete crafting rules, including:
 
 ## Enchantments
 
-### [Enchantments Overview](./enchantments/index.md)
+### [[index|Enchantments Overview]]
 Browse all available enchantments:
-- [Weapon Enchantments](./enchantments/weapon/index.md) - 39 enchantments for weapons
-- [Armor Enchantments](./enchantments/armor/index.md) - 28 enchantments for armor
-- [Universal Enchantments](./enchantments/universal/index.md) - 10 enchantments for any item
+- [[index|Weapon Enchantments]] - 39 enchantments for weapons
+- [[index|Armor Enchantments]] - 28 enchantments for armor
+- [[index|Universal Enchantments]] - 10 enchantments for any item
 
 ## Rare Metals
 
-### [Rare Metal Forging](./forging/index.md)
+### [[index|Rare Metal Forging]]
 Discover the properties of rare metals:
 - Common: Masterwork
 - Uncommon: Orichalcum, Silver

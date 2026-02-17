@@ -10,7 +10,7 @@ aliases:
 - Warrior of Shadow
 ---
 # Warrior of Shadow
-*[Monk](./monk-xphb.md): Monk Subclass*  
+*[[monk-xphb|Monk]]: Monk Subclass*  
 *Source: Player's Handbook (2024) p. 105*  
 
 > [!tldr] Class and Feature Progression

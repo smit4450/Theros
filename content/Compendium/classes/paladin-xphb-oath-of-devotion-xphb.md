@@ -10,7 +10,7 @@ aliases:
 - Oath of Devotion
 ---
 # Oath of Devotion
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
+*[[paladin-xphb|Paladin]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 113. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression

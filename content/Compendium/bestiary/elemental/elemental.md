@@ -7,41 +7,41 @@ cssclasses:
 ---
 # Index of Elemental
 
-- [Aarakocra Aeromancer](./aarakocra-aeromancer-xmm.md)
-- [Aarakocra Skirmisher](./aarakocra-skirmisher-xmm.md)
-- [Air Elemental](./air-elemental-xmm.md)
-- [Azer Pyromancer](./azer-pyromancer-xmm.md)
-- [Azer Sentinel](./azer-sentinel-xmm.md)
-- [Dao](./dao-xmm.md)
-- [Djinni](./djinni-xmm.md)
-- [Dust Mephit](./dust-mephit-xmm.md)
-- [Earth Elemental](./earth-elemental-xmm.md)
-- [Efreeti](./efreeti-xmm.md)
-- [Elemental Cataclysm](./elemental-cataclysm-xmm.md)
-- [Elemental Spirit (Air)](./elemental-spirit-air-xphb.md)
-- [Elemental Spirit (Earth)](./elemental-spirit-earth-xphb.md)
-- [Elemental Spirit (Fire)](./elemental-spirit-fire-xphb.md)
-- [Elemental Spirit (Water)](./elemental-spirit-water-xphb.md)
-- [Elemental Spirit](./elemental-spirit-xphb.md)
-- [Fire Elemental](./fire-elemental-xmm.md)
-- [Galeb Duhr](./galeb-duhr-xmm.md)
-- [Gargoyle](./gargoyle-xmm.md)
-- [Ice Mephit](./ice-mephit-xmm.md)
-- [Invisible Stalker](./invisible-stalker-xmm.md)
-- [Lizardfolk Geomancer](./lizardfolk-geomancer-xmm.md)
-- [Lizardfolk Sovereign](./lizardfolk-sovereign-xmm.md)
-- [Magma Mephit](./magma-mephit-xmm.md)
-- [Magmin](./magmin-xmm.md)
-- [Marid](./marid-xmm.md)
-- [Merfolk Skirmisher](./merfolk-skirmisher-xmm.md)
-- [Merfolk Wavebender](./merfolk-wavebender-xmm.md)
-- [Mud Mephit](./mud-mephit-xmm.md)
-- [Phoenix](./phoenix-mtf.md)
-- [Salamander Fire Snake](./salamander-fire-snake-xmm.md)
-- [Salamander Inferno Master](./salamander-inferno-master-xmm.md)
-- [Salamander](./salamander-xmm.md)
-- [Smoke Mephit](./smoke-mephit-xmm.md)
-- [Steam Mephit](./steam-mephit-xmm.md)
-- [Water Elemental](./water-elemental-xmm.md)
-- [Water Weird](./water-weird-xmm.md)
-- [Xorn](./xorn-xmm.md)
+- [[aarakocra-aeromancer-xmm|Aarakocra Aeromancer]]
+- [[aarakocra-skirmisher-xmm|Aarakocra Skirmisher]]
+- [[air-elemental-xmm|Air Elemental]]
+- [[azer-pyromancer-xmm|Azer Pyromancer]]
+- [[azer-sentinel-xmm|Azer Sentinel]]
+- [[dao-xmm|Dao]]
+- [[djinni-xmm|Djinni]]
+- [[dust-mephit-xmm|Dust Mephit]]
+- [[earth-elemental-xmm|Earth Elemental]]
+- [[efreeti-xmm|Efreeti]]
+- [[elemental-cataclysm-xmm|Elemental Cataclysm]]
+- [[elemental-spirit-air-xphb|Elemental Spirit (Air)]]
+- [[elemental-spirit-earth-xphb|Elemental Spirit (Earth)]]
+- [[elemental-spirit-fire-xphb|Elemental Spirit (Fire)]]
+- [[elemental-spirit-water-xphb|Elemental Spirit (Water)]]
+- [[elemental-spirit-xphb|Elemental Spirit]]
+- [[fire-elemental-xmm|Fire Elemental]]
+- [[galeb-duhr-xmm|Galeb Duhr]]
+- [[gargoyle-xmm|Gargoyle]]
+- [[ice-mephit-xmm|Ice Mephit]]
+- [[invisible-stalker-xmm|Invisible Stalker]]
+- [[lizardfolk-geomancer-xmm|Lizardfolk Geomancer]]
+- [[lizardfolk-sovereign-xmm|Lizardfolk Sovereign]]
+- [[magma-mephit-xmm|Magma Mephit]]
+- [[magmin-xmm|Magmin]]
+- [[marid-xmm|Marid]]
+- [[merfolk-skirmisher-xmm|Merfolk Skirmisher]]
+- [[merfolk-wavebender-xmm|Merfolk Wavebender]]
+- [[mud-mephit-xmm|Mud Mephit]]
+- [[phoenix-mtf|Phoenix]]
+- [[salamander-fire-snake-xmm|Salamander Fire Snake]]
+- [[salamander-inferno-master-xmm|Salamander Inferno Master]]
+- [[salamander-xmm|Salamander]]
+- [[smoke-mephit-xmm|Smoke Mephit]]
+- [[steam-mephit-xmm|Steam Mephit]]
+- [[water-elemental-xmm|Water Elemental]]
+- [[water-weird-xmm|Water Weird]]
+- [[xorn-xmm|Xorn]]

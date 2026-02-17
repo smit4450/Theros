@@ -10,7 +10,7 @@ aliases:
 - Path of the Zealot
 ---
 # Path of the Zealot
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
+*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 57*  
 
 > [!tldr] Class and Feature Progression

@@ -10,7 +10,7 @@ aliases:
 - Warrior of the Elements
 ---
 # Warrior of the Elements
-*[Monk](./monk-xphb.md): Monk Subclass*  
+*[[monk-xphb|Monk]]: Monk Subclass*  
 *Source: Player's Handbook (2024) p. 106*  
 
 > [!tldr] Class and Feature Progression

@@ -7,8 +7,8 @@ cssclasses:
 ---
 # Index of Npc
 
-- [Arasta](./arasta-mot.md)
-- [Hythonia](./hythonia-mot.md)
-- [Polukranos](./polukranos-mot.md)
-- [Siren](./siren-tftyp.md)
-- [Tromokratis](./tromokratis-mot.md)
+- [[arasta-mot|Arasta]]
+- [[hythonia-mot|Hythonia]]
+- [[polukranos-mot|Polukranos]]
+- [[siren-tftyp|Siren]]
+- [[tromokratis-mot|Tromokratis]]

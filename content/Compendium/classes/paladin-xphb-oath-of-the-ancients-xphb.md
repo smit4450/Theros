@@ -10,7 +10,7 @@ aliases:
 - Oath of the Ancients
 ---
 # Oath of the Ancients
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
+*[[paladin-xphb|Paladin]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 115*  
 
 > [!tldr] Class and Feature Progression

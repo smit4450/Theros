@@ -10,7 +10,7 @@ aliases:
 - Evoker
 ---
 # Evoker
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
+*[[wizard-xphb|Wizard]]: Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression

@@ -10,7 +10,7 @@ aliases:
 - Fey Wanderer
 ---
 # Fey Wanderer
-*[Ranger](./ranger-xphb.md): Ranger Subclass*  
+*[[ranger-xphb|Ranger]]: Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 124*  
 
 > [!tldr] Class and Feature Progression

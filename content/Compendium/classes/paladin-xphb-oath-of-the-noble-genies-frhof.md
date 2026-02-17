@@ -10,7 +10,7 @@ aliases:
 - Oath of the Noble Genies
 ---
 # Oath of the Noble Genies
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
+*[[paladin-xphb|Paladin]]: Paladin Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

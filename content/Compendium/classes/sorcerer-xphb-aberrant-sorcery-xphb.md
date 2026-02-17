@@ -10,7 +10,7 @@ aliases:
 - Aberrant Sorcery
 ---
 # Aberrant Sorcery
-*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
+*[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 145*  
 
 > [!tldr] Class and Feature Progression

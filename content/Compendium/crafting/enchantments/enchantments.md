@@ -12,13 +12,13 @@ As part of the creation of a magic item, you may choose to imbue it with an ench
 
 ## Enchantment Types
 
-### [Weapon Enchantments](./weapon/index.md)
+### [[index|Weapon Enchantments]]
 Enchantments that can be applied to weapons.
 
-### [Armor Enchantments](./armor/index.md)
+### [[index|Armor Enchantments]]
 Enchantments that can be applied to armor.
 
-### [Universal Enchantments](./universal/index.md)
+### [[index|Universal Enchantments]]
 Enchantments that can be applied to any item, including weapons, armor, and wondrous items.
 
 ## Enchantment Limitations

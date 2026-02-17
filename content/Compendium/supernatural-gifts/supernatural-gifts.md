@@ -13,15 +13,15 @@ A character in Theros begins with one supernatural gift chosen from those in thi
 
 These supernatural gifts are intended for starting characters, but some might be bestowed by gods as rewards for remarkable deeds.
 
-- [Anvilwrought](./anvilwrought-mot.md)
-- [Heroic Destiny](./heroic-destiny-mot.md)
-- [Iconoclast](./iconoclast-mot.md)
-- [Inscrutable](./inscrutable-mot.md)
-- [Lifelong Companion](./lifelong-companion-mot.md)
-- [Nyxborn](./nyxborn-mot.md)
-- [Oracle](./oracle-mot.md)
-- [Pious](./pious-mot.md)
-- [Unscarred](./unscarred-mot.md)
+- [[anvilwrought-mot|Anvilwrought]]
+- [[heroic-destiny-mot|Heroic Destiny]]
+- [[iconoclast-mot|Iconoclast]]
+- [[inscrutable-mot|Inscrutable]]
+- [[lifelong-companion-mot|Lifelong Companion]]
+- [[nyxborn-mot|Nyxborn]]
+- [[oracle-mot|Oracle]]
+- [[pious-mot|Pious]]
+- [[unscarred-mot|Unscarred]]
 
 > [!note] Heroic Feats
 > 

@@ -10,7 +10,7 @@ aliases:
 - Oath of Vengeance
 ---
 # Oath of Vengeance
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
+*[[paladin-xphb|Paladin]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 116*  
 
 > [!tldr] Class and Feature Progression

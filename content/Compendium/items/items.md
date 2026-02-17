@@ -7,973 +7,973 @@ cssclasses:
 ---
 # Index of Items
 
-- [+1 Ammunition](./1-ammunition-xdmg.md)
-- [+1 Armor](./1-armor-xdmg.md)
-- [+1 Rod of the Pact Keeper](./1-rod-of-the-pact-keeper-xdmg.md)
-- [+1 Shield](./1-shield-xdmg.md)
-- [+1 Wand of the War Mage](./1-wand-of-the-war-mage-xdmg.md)
-- [+1 Weapon](./1-weapon-xdmg.md)
-- [+1 Wraps of Unarmed Power](./1-wraps-of-unarmed-power-xdmg.md)
-- [+2 Ammunition](./2-ammunition-xdmg.md)
-- [+2 Armor](./2-armor-xdmg.md)
-- [+2 Rod of the Pact Keeper](./2-rod-of-the-pact-keeper-xdmg.md)
-- [+2 Shield](./2-shield-xdmg.md)
-- [+2 Wand of the War Mage](./2-wand-of-the-war-mage-xdmg.md)
-- [+2 Weapon](./2-weapon-xdmg.md)
-- [+2 Wraps of Unarmed Power](./2-wraps-of-unarmed-power-xdmg.md)
-- [+3 Ammunition](./3-ammunition-xdmg.md)
-- [+3 Armor](./3-armor-xdmg.md)
-- [+3 Rod of the Pact Keeper](./3-rod-of-the-pact-keeper-xdmg.md)
-- [+3 Shield](./3-shield-xdmg.md)
-- [+3 Wand of the War Mage](./3-wand-of-the-war-mage-xdmg.md)
-- [+3 Weapon](./3-weapon-xdmg.md)
-- [+3 Wraps of Unarmed Power](./3-wraps-of-unarmed-power-xdmg.md)
-- [Acid](./acid-xphb.md)
-- [Adamantine Armor](./adamantine-armor-xdmg.md)
-- [Adamantine Weapon](./adamantine-weapon-xdmg.md)
-- [Adventurer's Ring](./adventurers-ring-frhof.md)
-- [Airship](./airship-xphb.md)
-- [Akmon, Hammer of Purphoros](./akmon-hammer-of-purphoros-mot.md)
-- [Alchemist's Fire](./alchemists-fire-xphb.md)
-- [Alchemist's Supplies](./alchemists-supplies-xphb.md)
-- [Alchemy Jug](./alchemy-jug-xdmg.md)
-- [Ale (mug)](./ale-mug-xphb.md)
-- [Alexandrite](./alexandrite-xdmg.md)
-- [Amber](./amber-xdmg.md)
-- [Amethyst](./amethyst-xdmg.md)
-- [Ammunition of Slaying](./ammunition-of-slaying-xdmg.md)
-- [Amulet of Health](./amulet-of-health-xdmg.md)
-- [Amulet of Proof against Detection and Location](./amulet-of-proof-against-detection-and-location-xdmg.md)
-- [Amulet of the Planes](./amulet-of-the-planes-xdmg.md)
-- [Amulet](./amulet-xphb.md)
-- [Animated Shield](./animated-shield-xdmg.md)
-- [Antimatter Rifle](./antimatter-rifle-xdmg.md)
-- [Antitoxin](./antitoxin-xphb.md)
-- [Apparatus of Kwalish](./apparatus-of-kwalish-xdmg.md)
-- [Aquamarine](./aquamarine-xdmg.md)
-- [Arcane Focus](./arcane-focus-xphb.md)
-- [Armor of Acid Resistance](./armor-of-acid-resistance-xdmg.md)
-- [Armor of Cold Resistance](./armor-of-cold-resistance-xdmg.md)
-- [Armor of Fire Resistance](./armor-of-fire-resistance-xdmg.md)
-- [Armor of Force Resistance](./armor-of-force-resistance-xdmg.md)
-- [Armor of Gleaming](./armor-of-gleaming-xdmg.md)
-- [Armor of Invulnerability](./armor-of-invulnerability-xdmg.md)
-- [Armor of Lightning Resistance](./armor-of-lightning-resistance-xdmg.md)
-- [Armor of Necrotic Resistance](./armor-of-necrotic-resistance-xdmg.md)
-- [Armor of Poison Resistance](./armor-of-poison-resistance-xdmg.md)
-- [Armor of Psychic Resistance](./armor-of-psychic-resistance-xdmg.md)
-- [Armor of Radiant Resistance](./armor-of-radiant-resistance-xdmg.md)
-- [Armor of Resistance](./armor-of-resistance-xdmg.md)
-- [Armor of Thunder Resistance](./armor-of-thunder-resistance-xdmg.md)
-- [Armor of Vulnerability (Bludgeoning)](./armor-of-vulnerability-bludgeoning-xdmg.md)
-- [Armor of Vulnerability (Piercing)](./armor-of-vulnerability-piercing-xdmg.md)
-- [Armor of Vulnerability (Slashing)](./armor-of-vulnerability-slashing-xdmg.md)
-- [Armor of Vulnerability](./armor-of-vulnerability-xdmg.md)
-- [Arrow-Catching Shield](./arrow-catching-shield-xdmg.md)
-- [Arrow](./arrow-xphb.md)
-- [Arrows (20)](./arrows-20-xphb.md)
-- [Artisan's Tools](./artisans-tools-xphb.md)
-- [Assassin's Blood](./assassins-blood-xdmg.md)
-- [Automatic Rifle](./automatic-rifle-xdmg.md)
-- [Axe Beak](./axe-beak-frhof.md)
-- [Axe of the Dwarvish Lords](./axe-of-the-dwarvish-lords-xdmg.md)
-- [Azurite](./azurite-xdmg.md)
-- [Baba Yaga's Dancing Broom](./baba-yagas-dancing-broom-xdmg.md)
-- [Backpack](./backpack-xphb.md)
-- [Bag of Beans](./bag-of-beans-xdmg.md)
-- [Bag of Devouring](./bag-of-devouring-xdmg.md)
-- [Bag of Holding](./bag-of-holding-xdmg.md)
-- [Bag of Tricks, Gray](./bag-of-tricks-gray-xdmg.md)
-- [Bag of Tricks, Rust](./bag-of-tricks-rust-xdmg.md)
-- [Bag of Tricks, Tan](./bag-of-tricks-tan-xdmg.md)
-- [Bag of Tricks](./bag-of-tricks-xdmg.md)
-- [Bagpipes](./bagpipes-xphb.md)
-- [Ball Bearings](./ball-bearings-xphb.md)
-- [Banded Agate](./banded-agate-xdmg.md)
-- [Bandore](./bandore-frhof.md)
-- [Barrel](./barrel-xphb.md)
-- [Basic Poison](./basic-poison-xphb.md)
-- [Basket](./basket-xphb.md)
-- [Battleaxe](./battleaxe-xphb.md)
-- [Bead of Force](./bead-of-force-xdmg.md)
-- [Bead of Nourishment](./bead-of-nourishment-xdmg.md)
-- [Bead of Refreshment](./bead-of-refreshment-xdmg.md)
-- [Bedroll](./bedroll-xphb.md)
-- [Bejeweled gold bracelet](./bejeweled-gold-bracelet-xdmg.md)
-- [Bejeweled ivory drinking horn with gold filigree](./bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg.md)
-- [Bell](./bell-xphb.md)
-- [Belt of Cloud Giant Strength](./belt-of-cloud-giant-strength-xdmg.md)
-- [Belt of Dwarvenkind](./belt-of-dwarvenkind-xdmg.md)
-- [Belt of Fire Giant Strength](./belt-of-fire-giant-strength-xdmg.md)
-- [Belt of Frost Giant Strength](./belt-of-frost-giant-strength-xdmg.md)
-- [Belt of Giant Strength](./belt-of-giant-strength-xdmg.md)
-- [Belt of Hill Giant Strength](./belt-of-hill-giant-strength-xdmg.md)
-- [Belt of Stone Giant Strength](./belt-of-stone-giant-strength-xdmg.md)
-- [Belt of Storm Giant Strength](./belt-of-storm-giant-strength-xdmg.md)
-- [Berserker Axe](./berserker-axe-xdmg.md)
-- [Black Dragon Scale Mail](./black-dragon-scale-mail-xdmg.md)
-- [Black Opal](./black-opal-xdmg.md)
-- [Black Pearl](./black-pearl-xdmg.md)
-- [Black Sapphire](./black-sapphire-xdmg.md)
-- [Black velvet mask stitched with silver thread](./black-velvet-mask-stitched-with-silver-thread-xdmg.md)
-- [Blackrazor](./blackrazor-xdmg.md)
-- [Blanket](./blanket-xphb.md)
-- [Block and Tackle](./block-and-tackle-xphb.md)
-- [Bloodstone](./bloodstone-xdmg.md)
-- [Blowgun](./blowgun-xphb.md)
-- [Blue Dragon Scale Mail](./blue-dragon-scale-mail-xdmg.md)
-- [Blue Quartz](./blue-quartz-xdmg.md)
-- [Blue Sapphire](./blue-sapphire-xdmg.md)
-- [Blue Spinel](./blue-spinel-xdmg.md)
-- [Bolt](./bolt-xphb.md)
-- [Bolts (20)](./bolts-20-xphb.md)
-- [Bomb](./bomb-xdmg.md)
-- [Book of Exalted Deeds](./book-of-exalted-deeds-xdmg.md)
-- [Book of Vile Darkness](./book-of-vile-darkness-xdmg.md)
-- [Book](./book-xphb.md)
-- [Boots of Elvenkind](./boots-of-elvenkind-xdmg.md)
-- [Boots of False Tracks](./boots-of-false-tracks-xdmg.md)
-- [Boots of Levitation](./boots-of-levitation-xdmg.md)
-- [Boots of Speed](./boots-of-speed-xdmg.md)
-- [Boots of Striding and Springing](./boots-of-striding-and-springing-xdmg.md)
-- [Boots of the Winterlands](./boots-of-the-winterlands-xdmg.md)
-- [Bottle stopper cork embossed with gold leaf and set with amethysts](./bottle-stopper-cork-embossed-with-gold-leaf-and-set-with-amethysts-xdmg.md)
-- [Bowl of Commanding Water Elementals](./bowl-of-commanding-water-elementals-xdmg.md)
-- [Box of turquoise animal figurines](./box-of-turquoise-animal-figurines-xdmg.md)
-- [Bracers of Archery](./bracers-of-archery-xdmg.md)
-- [Bracers of Defense](./bracers-of-defense-xdmg.md)
-- [Brass Dragon Scale Mail](./brass-dragon-scale-mail-xdmg.md)
-- [Brass mug with jade inlay](./brass-mug-with-jade-inlay-xdmg.md)
-- [Brazier of Commanding Fire Elementals](./brazier-of-commanding-fire-elementals-xdmg.md)
-- [Bread (loaf)](./bread-loaf-xphb.md)
-- [Breastplate](./breastplate-xphb.md)
-- [Brewer's Supplies](./brewers-supplies-xphb.md)
-- [Bright Fungal Cloak](./bright-fungal-cloak-frhof.md)
-- [Bronze crown](./bronze-crown-xdmg.md)
-- [Bronze Dragon Scale Mail](./bronze-dragon-scale-mail-xdmg.md)
-- [Brooch of Shielding](./brooch-of-shielding-xdmg.md)
-- [Broom of Flying](./broom-of-flying-xdmg.md)
-- [Bucket](./bucket-xphb.md)
-- [Bullseye Lantern](./bullseye-lantern-xphb.md)
-- [Bundle of sheet music representing the lost dirges of a famous composer](./bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg.md)
-- [Burglar's Pack](./burglars-pack-xphb.md)
-- [Burnt Othur Fumes](./burnt-othur-fumes-xdmg.md)
-- [Calligrapher's Supplies](./calligraphers-supplies-xphb.md)
-- [Caltrops](./caltrops-xphb.md)
-- [Camel](./camel-xphb.md)
-- [Candle of Invocation](./candle-of-invocation-xdmg.md)
-- [Candle of the Deep](./candle-of-the-deep-xdmg.md)
-- [Candle](./candle-xphb.md)
-- [Canvas (1 sq. yd.)](./canvas-1-sq-yd-xdmg.md)
-- [Cap of Water Breathing](./cap-of-water-breathing-xdmg.md)
-- [Cape of the Mountebank](./cape-of-the-mountebank-xdmg.md)
-- [Carnelian](./carnelian-xdmg.md)
-- [Carpenter's Tools](./carpenters-tools-xphb.md)
-- [Carpet of Flying, 3 ft. × 5 ft.](./carpet-of-flying-3-ft-5-ft-xdmg.md)
-- [Carpet of Flying, 4 ft. × 6 ft.](./carpet-of-flying-4-ft-6-ft-xdmg.md)
-- [Carpet of Flying, 5 ft. × 7 ft.](./carpet-of-flying-5-ft-7-ft-xdmg.md)
-- [Carpet of Flying, 6 ft. × 9 ft.](./carpet-of-flying-6-ft-9-ft-xdmg.md)
-- [Carpet of Flying](./carpet-of-flying-xdmg.md)
-- [Carriage](./carriage-xphb.md)
-- [Carrion Crawler Mucus](./carrion-crawler-mucus-xdmg.md)
-- [Cart](./cart-xphb.md)
-- [Cartographer's Tools](./cartographers-tools-xphb.md)
-- [Carved bone statuette](./carved-bone-statuette-xdmg.md)
-- [Carved ivory statuette](./carved-ivory-statuette-xdmg.md)
-- [Carved wooden harp with ivory inlay and zircon gems](./carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg.md)
-- [Cast-Off Armor](./cast-off-armor-xdmg.md)
-- [Cauldron of Rebirth](./cauldron-of-rebirth-xdmg.md)
-- [Censer of Controlling Air Elementals](./censer-of-controlling-air-elementals-xdmg.md)
-- [Ceremonial gold armor with black pearls](./ceremonial-gold-armor-with-black-pearls-xdmg.md)
-- [Chain Mail](./chain-mail-xphb.md)
-- [Chain Shirt](./chain-shirt-xphb.md)
-- [Chain](./chain-xphb.md)
-- [Chalcedony](./chalcedony-xdmg.md)
-- [Chariot](./chariot-xphb.md)
-- [Charlatan's Die](./charlatans-die-xdmg.md)
-- [Cheese (wedge)](./cheese-wedge-xphb.md)
-- [Chest](./chest-xphb.md)
-- [Chicken](./chicken-xdmg.md)
-- [Chime of Opening](./chime-of-opening-xdmg.md)
-- [Chrysoberyl](./chrysoberyl-xdmg.md)
-- [Chrysoprase](./chrysoprase-xdmg.md)
-- [Cinnamon](./cinnamon-xdmg.md)
-- [Circlet of Blasting](./circlet-of-blasting-xdmg.md)
-- [Citrine](./citrine-xdmg.md)
-- [Cittern](./cittern-frhof.md)
-- [Climber's Kit](./climbers-kit-xphb.md)
-- [Cloak of Arachnida](./cloak-of-arachnida-xdmg.md)
-- [Cloak of Billowing](./cloak-of-billowing-xdmg.md)
-- [Cloak of Displacement](./cloak-of-displacement-xdmg.md)
-- [Cloak of Elvenkind](./cloak-of-elvenkind-xdmg.md)
-- [Cloak of Invisibility](./cloak-of-invisibility-xdmg.md)
-- [Cloak of Many Fashions](./cloak-of-many-fashions-xdmg.md)
-- [Cloak of Protection](./cloak-of-protection-xdmg.md)
-- [Cloak of the Bat](./cloak-of-the-bat-xdmg.md)
-- [Cloak of the Manta Ray](./cloak-of-the-manta-ray-xdmg.md)
-- [Clockwork Amulet](./clockwork-amulet-xdmg.md)
-- [Cloth-of-gold vestments](./cloth-of-gold-vestments-xdmg.md)
-- [Clothes of Mending](./clothes-of-mending-xdmg.md)
-- [Cloves](./cloves-xdmg.md)
-- [Club](./club-xphb.md)
-- [Cobbler's Tools](./cobblers-tools-xphb.md)
-- [Command Amulet](./command-amulet-xmm.md)
-- [Common Wine (bottle)](./common-wine-bottle-xphb.md)
-- [Component Pouch](./component-pouch-xphb.md)
-- [Cook's Utensils](./cooks-utensils-xphb.md)
-- [Copper chalice with silver filigree](./copper-chalice-with-silver-filigree-xdmg.md)
-- [Copper Dragon Scale Mail](./copper-dragon-scale-mail-xdmg.md)
-- [Copper](./copper-xdmg.md)
-- [Coral](./coral-xdmg.md)
-- [Costume](./costume-xphb.md)
-- [Cotton Cloth (1 sq. yd.)](./cotton-cloth-1-sq-yd-xdmg.md)
-- [Covered Wagon](./covered-wagon-frhof.md)
-- [Cow](./cow-xdmg.md)
-- [Crossbow Bolt Case](./crossbow-bolt-case-xphb.md)
-- [Crowbar](./crowbar-xphb.md)
-- [Crystal Ball of Mind Reading](./crystal-ball-of-mind-reading-xdmg.md)
-- [Crystal Ball of Telepathy](./crystal-ball-of-telepathy-xdmg.md)
-- [Crystal Ball of True Seeing](./crystal-ball-of-true-seeing-xdmg.md)
-- [Crystal Ball](./crystal-ball-xdmg.md)
-- [Crystal](./crystal-xphb.md)
-- [Cube of Force](./cube-of-force-xdmg.md)
-- [Cube of Summoning](./cube-of-summoning-xdmg.md)
-- [Cubic Gate](./cubic-gate-xdmg.md)
-- [Cult of the Dragon Trinket](./cult-of-the-dragon-trinket-frhof.md)
-- [Daern's Instant Fortress](./daerns-instant-fortress-xdmg.md)
-- [Dagger of Venom](./dagger-of-venom-xdmg.md)
-- [Dagger](./dagger-xphb.md)
-- [Dancing Sword](./dancing-sword-xdmg.md)
-- [Dark Shard Amulet](./dark-shard-amulet-xdmg.md)
-- [Dart](./dart-xphb.md)
-- [Decanter of Endless Water](./decanter-of-endless-water-xdmg.md)
-- [Deck of Illusions](./deck-of-illusions-xdmg.md)
-- [Deck of Many Things](./deck-of-many-things-xdmg.md)
-- [Defender](./defender-xdmg.md)
-- [Dekella, Bident of Thassa](./dekella-bident-of-thassa-mot.md)
-- [Demon Armor](./demon-armor-xdmg.md)
-- [Demonomicon of Iggwilv](./demonomicon-of-iggwilv-xdmg.md)
-- [Desert Clothing](./desert-clothing-frhof.md)
-- [Detailed, life-sized dragonborn skull cast in electrum](./detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg.md)
-- [Devil Mask](./devil-mask-frhof.md)
-- [Diamond](./diamond-xdmg.md)
-- [Dice Set](./dice-set-xphb.md)
-- [Dimensional Shackles](./dimensional-shackles-xdmg.md)
-- [Diplomat's Pack](./diplomats-pack-xphb.md)
-- [Disguise Kit](./disguise-kit-xphb.md)
-- [Draft Horse](./draft-horse-xphb.md)
-- [Dragon Scale Mail](./dragon-scale-mail-xdmg.md)
-- [Dragon Slayer](./dragon-slayer-xdmg.md)
-- [Dragonchess Set](./dragonchess-set-xphb.md)
-- [Dread Helm](./dread-helm-xdmg.md)
-- [Driftglobe](./driftglobe-xdmg.md)
-- [Druidic Focus](./druidic-focus-xphb.md)
-- [Drum](./drum-xphb.md)
-- [Dulcimer](./dulcimer-xphb.md)
-- [Dungeoneer's Pack](./dungeoneers-pack-xphb.md)
-- [Dust of Disappearance](./dust-of-disappearance-xdmg.md)
-- [Dust of Dryness](./dust-of-dryness-xdmg.md)
-- [Dust of Sneezing and Choking](./dust-of-sneezing-and-choking-xdmg.md)
-- [Dwarven Plate](./dwarven-plate-xdmg.md)
-- [Dwarven Thrower](./dwarven-thrower-xdmg.md)
-- [Dynamite Stick](./dynamite-stick-xdmg.md)
-- [Ear Horn of Hearing](./ear-horn-of-hearing-xdmg.md)
-- [Efreeti Bottle](./efreeti-bottle-xdmg.md)
-- [Efreeti Chain](./efreeti-chain-xdmg.md)
-- [Elemental Gem, Blue Sapphire](./elemental-gem-blue-sapphire-xdmg.md)
-- [Elemental Gem, Emerald](./elemental-gem-emerald-xdmg.md)
-- [Elemental Gem, Red Corundum](./elemental-gem-red-corundum-xdmg.md)
-- [Elemental Gem](./elemental-gem-xdmg.md)
-- [Elemental Gem, Yellow Diamond](./elemental-gem-yellow-diamond-xdmg.md)
-- [Elephant](./elephant-xphb.md)
-- [Elixir of Health](./elixir-of-health-xdmg.md)
-- [Elven Chain](./elven-chain-xdmg.md)
-- [Emblem](./emblem-xphb.md)
-- [Embroidered glove set with jewel chips](./embroidered-glove-set-with-jewel-chips-xdmg.md)
-- [Embroidered silk and velvet mantle set with numerous moonstones](./embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg.md)
-- [Embroidered silk handkerchief](./embroidered-silk-handkerchief-xdmg.md)
-- [Emerald Enclave Trinket](./emerald-enclave-trinket-frhof.md)
-- [Emerald](./emerald-xdmg.md)
-- [Enduring Spellbook](./enduring-spellbook-xdmg.md)
-- [Energy Bow](./energy-bow-xdmg.md)
-- [Energy Cell](./energy-cell-xdmg.md)
-- [Enspelled Armor (Cantrip)](./enspelled-armor-cantrip-xdmg.md)
-- [Enspelled Armor (Level 1)](./enspelled-armor-level-1-xdmg.md)
-- [Enspelled Armor (Level 2)](./enspelled-armor-level-2-xdmg.md)
-- [Enspelled Armor (Level 3)](./enspelled-armor-level-3-xdmg.md)
-- [Enspelled Armor (Level 4)](./enspelled-armor-level-4-xdmg.md)
-- [Enspelled Armor (Level 5)](./enspelled-armor-level-5-xdmg.md)
-- [Enspelled Armor (Level 6)](./enspelled-armor-level-6-xdmg.md)
-- [Enspelled Armor (Level 7)](./enspelled-armor-level-7-xdmg.md)
-- [Enspelled Armor (Level 8)](./enspelled-armor-level-8-xdmg.md)
-- [Enspelled Armor](./enspelled-armor-xdmg.md)
-- [Enspelled Staff (Cantrip)](./enspelled-staff-cantrip-xdmg.md)
-- [Enspelled Staff (Level 1)](./enspelled-staff-level-1-xdmg.md)
-- [Enspelled Staff (Level 2)](./enspelled-staff-level-2-xdmg.md)
-- [Enspelled Staff (Level 3)](./enspelled-staff-level-3-xdmg.md)
-- [Enspelled Staff (Level 4)](./enspelled-staff-level-4-xdmg.md)
-- [Enspelled Staff (Level 5)](./enspelled-staff-level-5-xdmg.md)
-- [Enspelled Staff (Level 6)](./enspelled-staff-level-6-xdmg.md)
-- [Enspelled Staff (Level 7)](./enspelled-staff-level-7-xdmg.md)
-- [Enspelled Staff (Level 8)](./enspelled-staff-level-8-xdmg.md)
-- [Enspelled Staff](./enspelled-staff-xdmg.md)
-- [Enspelled Weapon (Cantrip)](./enspelled-weapon-cantrip-xdmg.md)
-- [Enspelled Weapon (Level 1)](./enspelled-weapon-level-1-xdmg.md)
-- [Enspelled Weapon (Level 2)](./enspelled-weapon-level-2-xdmg.md)
-- [Enspelled Weapon (Level 3)](./enspelled-weapon-level-3-xdmg.md)
-- [Enspelled Weapon (Level 4)](./enspelled-weapon-level-4-xdmg.md)
-- [Enspelled Weapon (Level 5)](./enspelled-weapon-level-5-xdmg.md)
-- [Enspelled Weapon (Level 6)](./enspelled-weapon-level-6-xdmg.md)
-- [Enspelled Weapon (Level 7)](./enspelled-weapon-level-7-xdmg.md)
-- [Enspelled Weapon (Level 8)](./enspelled-weapon-level-8-xdmg.md)
-- [Enspelled Weapon](./enspelled-weapon-xdmg.md)
-- [Entertainer's Pack](./entertainers-pack-xphb.md)
-- [Ephixis, Bow of Nylea](./ephixis-bow-of-nylea-mot.md)
-- [Ersatz Eye](./ersatz-eye-xdmg.md)
-- [Essence of Ether](./essence-of-ether-xdmg.md)
-- [Eversmoking Bottle](./eversmoking-bottle-xdmg.md)
-- [Executioner's Axe](./executioners-axe-xdmg.md)
-- [Exotic Saddle](./exotic-saddle-xphb.md)
-- [Explorer's Pack](./explorers-pack-xphb.md)
-- [Eye Agate](./eye-agate-xdmg.md)
-- [Eye and Hand of Vecna](./eye-and-hand-of-vecna-xdmg.md)
-- [Eye of Vecna](./eye-of-vecna-xdmg.md)
-- [Eye patch decorated with tiny blue sapphires and moonstones](./eye-patch-decorated-with-tiny-blue-sapphires-and-moonstones-xdmg.md)
-- [Eyes of Charming](./eyes-of-charming-xdmg.md)
-- [Eyes of Minute Seeing](./eyes-of-minute-seeing-xdmg.md)
-- [Eyes of the Eagle](./eyes-of-the-eagle-xdmg.md)
-- [Feed (per day)](./feed-per-day-xphb.md)
-- [Figurine of Wondrous Power, Bronze Griffon](./figurine-of-wondrous-power-bronze-griffon-xdmg.md)
-- [Figurine of Wondrous Power, Ebony Fly](./figurine-of-wondrous-power-ebony-fly-xdmg.md)
-- [Figurine of Wondrous Power, Golden Lions](./figurine-of-wondrous-power-golden-lions-xdmg.md)
-- [Figurine of Wondrous Power, Ivory Goats](./figurine-of-wondrous-power-ivory-goats-xdmg.md)
-- [Figurine of Wondrous Power, Marble Elephant](./figurine-of-wondrous-power-marble-elephant-xdmg.md)
-- [Figurine of Wondrous Power, Obsidian Steed](./figurine-of-wondrous-power-obsidian-steed-xdmg.md)
-- [Figurine of Wondrous Power, Onyx Dog](./figurine-of-wondrous-power-onyx-dog-xdmg.md)
-- [Figurine of Wondrous Power, Serpentine Owl](./figurine-of-wondrous-power-serpentine-owl-xdmg.md)
-- [Figurine of Wondrous Power, Silver Raven](./figurine-of-wondrous-power-silver-raven-xdmg.md)
-- [Figurine of Wondrous Power](./figurine-of-wondrous-power-xdmg.md)
-- [Fine Clothes](./fine-clothes-xphb.md)
-- [Fine gold chain set with a fire opal](./fine-gold-chain-set-with-a-fire-opal-xdmg.md)
-- [Fine Wine (bottle)](./fine-wine-bottle-xphb.md)
-- [Fire Opal](./fire-opal-xdmg.md)
-- [Firearm Bullet](./firearm-bullet-xphb.md)
-- [Firearm Bullets (10)](./firearm-bullets-10-xphb.md)
-- [Flail](./flail-xphb.md)
-- [Flame Tongue](./flame-tongue-xdmg.md)
-- [Flask](./flask-xphb.md)
-- [Flour](./flour-xdmg.md)
-- [Flute](./flute-xphb.md)
-- [Flying Chariot](./flying-chariot-mot.md)
-- [Flying Snake](./flying-snake-frhof.md)
-- [Folding Boat](./folding-boat-xdmg.md)
-- [Forgery Kit](./forgery-kit-xphb.md)
-- [Fragmentation Grenade](./fragmentation-grenade-xdmg.md)
-- [Frost Brand](./frost-brand-xdmg.md)
-- [Galley](./galley-xphb.md)
-- [Gaming Set](./gaming-set-xphb.md)
-- [Garb of Light and Shadow](./garb-of-light-and-shadow-frhof.md)
-- [Garnet](./garnet-xdmg.md)
-- [Gauntlets of Ogre Power](./gauntlets-of-ogre-power-xdmg.md)
-- [Gem of Brightness](./gem-of-brightness-xdmg.md)
-- [Gem of Seeing](./gem-of-seeing-xdmg.md)
-- [Genie Robe](./genie-robe-frhof.md)
-- [Giant Slayer](./giant-slayer-xdmg.md)
-- [Gilded royal coach or funeral barge](./gilded-royal-coach-or-funeral-barge-xdmg.md)
-- [Ginger](./ginger-xdmg.md)
-- [Glaive](./glaive-xphb.md)
-- [Glamoured Studded Leather](./glamoured-studded-leather-xdmg.md)
-- [Glass Bottle](./glass-bottle-xphb.md)
-- [Glassblower's Tools](./glassblowers-tools-xphb.md)
-- [Gloves of Missile Snaring](./gloves-of-missile-snaring-xdmg.md)
-- [Gloves of Swimming and Climbing](./gloves-of-swimming-and-climbing-xdmg.md)
-- [Gloves of Thievery](./gloves-of-thievery-xdmg.md)
-- [Goat](./goat-xdmg.md)
-- [Goggles of Night](./goggles-of-night-xdmg.md)
-- [Gold Bar (5-pound)](./gold-bar-5-pound-xdmg.md)
-- [Gold birdcage with electrum filigree](./gold-birdcage-with-electrum-filigree-xdmg.md)
-- [Gold bracelet](./gold-bracelet-xdmg.md)
-- [Gold circlet set with four aquamarines](./gold-circlet-set-with-four-aquamarines-xdmg.md)
-- [Gold comb shaped like a dragon with red garnets as eyes](./gold-comb-shaped-like-a-dragon-with-red-garnets-as-eyes-xdmg.md)
-- [Gold cup set with emeralds](./gold-cup-set-with-emeralds-xdmg.md)
-- [Gold Dragon Scale Mail](./gold-dragon-scale-mail-xdmg.md)
-- [Gold idol](./gold-idol-xdmg.md)
-- [Gold jewelry box with platinum filigree](./gold-jewelry-box-with-platinum-filigree-xdmg.md)
-- [Gold locket with a painted portrait inside](./gold-locket-with-a-painted-portrait-inside-xdmg.md)
-- [Gold music box](./gold-music-box-xdmg.md)
-- [Gold ring set with bloodstones](./gold-ring-set-with-bloodstones-xdmg.md)
-- [Gold statuette set with rubies](./gold-statuette-set-with-rubies-xdmg.md)
-- [Gold](./gold-xdmg.md)
-- [Grappling Hook](./grappling-hook-xphb.md)
-- [Greataxe](./greataxe-xphb.md)
-- [Greatclub](./greatclub-xphb.md)
-- [Greatsword](./greatsword-xphb.md)
-- [Green Dragon Scale Mail](./green-dragon-scale-mail-xdmg.md)
-- [Grenade Launcher](./grenade-launcher-xdmg.md)
-- [Gunpowder (keg)](./gunpowder-keg-xdmg.md)
-- [Gunpowder (powder horn)](./gunpowder-powder-horn-xdmg.md)
-- [Hag Eye](./hag-eye-xdmg.md)
-- [Halberd](./halberd-xphb.md)
-- [Half Plate Armor of Etherealness](./half-plate-armor-of-etherealness-xdmg.md)
-- [Half Plate Armor](./half-plate-armor-xphb.md)
-- [Hammer of Thunderbolts](./hammer-of-thunderbolts-xdmg.md)
-- [Hand Crossbow](./hand-crossbow-xphb.md)
-- [Hand of Vecna](./hand-of-vecna-xdmg.md)
-- [Handaxe](./handaxe-xphb.md)
-- [Handheld mirror set in a painted wooden frame](./handheld-mirror-set-in-a-painted-wooden-frame-xdmg.md)
-- [Harper Trinket](./harper-trinket-frhof.md)
-- [Hat of Disguise](./hat-of-disguise-xdmg.md)
-- [Hat of Many Spells](./hat-of-many-spells-xdmg.md)
-- [Hat of Vermin](./hat-of-vermin-xdmg.md)
-- [Hat of Wizardry](./hat-of-wizardry-xdmg.md)
-- [Headband of Intellect](./headband-of-intellect-xdmg.md)
-- [Healer's Kit](./healers-kit-xphb.md)
-- [Heavy Crossbow](./heavy-crossbow-xphb.md)
-- [Helm of Brilliance](./helm-of-brilliance-xdmg.md)
-- [Helm of Comprehending Languages](./helm-of-comprehending-languages-xdmg.md)
-- [Helm of Telepathy](./helm-of-telepathy-xdmg.md)
-- [Helm of Teleportation](./helm-of-teleportation-xdmg.md)
-- [Helm of the Gods](./helm-of-the-gods-mot.md)
-- [Hematite](./hematite-xdmg.md)
-- [Herbalism Kit](./herbalism-kit-xphb.md)
-- [Heward's Handy Haversack](./hewards-handy-haversack-xdmg.md)
-- [Heward's Handy Spice Pouch](./hewards-handy-spice-pouch-xdmg.md)
-- [Hide Armor](./hide-armor-xphb.md)
-- [Holy Avenger](./holy-avenger-xdmg.md)
-- [Holy Symbol](./holy-symbol-xphb.md)
-- [Holy Water](./holy-water-xphb.md)
-- [Hooded Lantern](./hooded-lantern-xphb.md)
-- [Horn of Blasting](./horn-of-blasting-xdmg.md)
-- [Horn of Silent Alarm](./horn-of-silent-alarm-xdmg.md)
-- [Horn of Valhalla, Brass](./horn-of-valhalla-brass-xdmg.md)
-- [Horn of Valhalla, Bronze](./horn-of-valhalla-bronze-xdmg.md)
-- [Horn of Valhalla, Iron](./horn-of-valhalla-iron-xdmg.md)
-- [Horn of Valhalla, Silver](./horn-of-valhalla-silver-xdmg.md)
-- [Horn of Valhalla](./horn-of-valhalla-xdmg.md)
-- [Horn](./horn-xphb.md)
-- [Horseshoes of a Zephyr](./horseshoes-of-a-zephyr-xdmg.md)
-- [Horseshoes of Speed](./horseshoes-of-speed-xdmg.md)
-- [Hunting Rifle](./hunting-rifle-xdmg.md)
-- [Hunting Trap](./hunting-trap-xphb.md)
-- [Immovable Rod](./immovable-rod-xdmg.md)
-- [Ink Pen](./ink-pen-xphb.md)
-- [Ink](./ink-xphb.md)
-- [Instrument of Illusions](./instrument-of-illusions-xdmg.md)
-- [Instrument of Scribing](./instrument-of-scribing-xdmg.md)
-- [Instrument of the Bards, Anstruth Harp](./instrument-of-the-bards-anstruth-harp-xdmg.md)
-- [Instrument of the Bards, Canaith Mandolin](./instrument-of-the-bards-canaith-mandolin-xdmg.md)
-- [Instrument of the Bards, Cli Lyre](./instrument-of-the-bards-cli-lyre-xdmg.md)
-- [Instrument of the Bards, Doss Lute](./instrument-of-the-bards-doss-lute-xdmg.md)
-- [Instrument of the Bards, Fochlucan Bandore](./instrument-of-the-bards-fochlucan-bandore-xdmg.md)
-- [Instrument of the Bards, Mac-Fuirmidh Cittern](./instrument-of-the-bards-mac-fuirmidh-cittern-xdmg.md)
-- [Instrument of the Bards, Ollamh Harp](./instrument-of-the-bards-ollamh-harp-xdmg.md)
-- [Instrument of the Bards](./instrument-of-the-bards-xdmg.md)
-- [Ioun Stone, Absorption](./ioun-stone-absorption-xdmg.md)
-- [Ioun Stone, Agility](./ioun-stone-agility-xdmg.md)
-- [Ioun Stone, Awareness](./ioun-stone-awareness-xdmg.md)
-- [Ioun Stone, Fortitude](./ioun-stone-fortitude-xdmg.md)
-- [Ioun Stone, Greater Absorption](./ioun-stone-greater-absorption-xdmg.md)
-- [Ioun Stone, Insight](./ioun-stone-insight-xdmg.md)
-- [Ioun Stone, Intellect](./ioun-stone-intellect-xdmg.md)
-- [Ioun Stone, Leadership](./ioun-stone-leadership-xdmg.md)
-- [Ioun Stone, Mastery](./ioun-stone-mastery-xdmg.md)
-- [Ioun Stone, Protection](./ioun-stone-protection-xdmg.md)
-- [Ioun Stone, Regeneration](./ioun-stone-regeneration-xdmg.md)
-- [Ioun Stone, Reserve](./ioun-stone-reserve-xdmg.md)
-- [Ioun Stone, Strength](./ioun-stone-strength-xdmg.md)
-- [Ioun Stone, Sustenance](./ioun-stone-sustenance-xdmg.md)
-- [Ioun Stone](./ioun-stone-xdmg.md)
-- [Iron Bands of Bilarro](./iron-bands-of-bilarro-xdmg.md)
-- [Iron Flask](./iron-flask-xdmg.md)
-- [Iron Pot](./iron-pot-xphb.md)
-- [Iron Spike](./iron-spike-xphb.md)
-- [Iron Spikes](./iron-spikes-xphb.md)
-- [Iron](./iron-xdmg.md)
-- [Jacinth](./jacinth-xdmg.md)
-- [Jade game board with gold playing pieces](./jade-game-board-with-gold-playing-pieces-xdmg.md)
-- [Jade](./jade-xdmg.md)
-- [Jasper](./jasper-xdmg.md)
-- [Javelin of Lightning](./javelin-of-lightning-xdmg.md)
-- [Javelin](./javelin-xphb.md)
-- [Jet](./jet-xdmg.md)
-- [Jeweled anklet](./jeweled-anklet-xdmg.md)
-- [Jeweled gold crown](./jeweled-gold-crown-xdmg.md)
-- [Jeweled platinum ring](./jeweled-platinum-ring-xdmg.md)
-- [Jeweler's Tools](./jewelers-tools-xphb.md)
-- [Jug](./jug-xphb.md)
-- [Keelboat](./keelboat-xphb.md)
-- [Keoghtom's Ointment](./keoghtoms-ointment-xdmg.md)
-- [Khrusor, Spear of Heliod](./khrusor-spear-of-heliod-mot.md)
-- [Ladder](./ladder-xphb.md)
-- [Lamp](./lamp-xphb.md)
-- [Lance](./lance-xphb.md)
-- [Lantern of Revealing](./lantern-of-revealing-xdmg.md)
-- [Lapis Lazuli](./lapis-lazuli-xdmg.md)
-- [Laser Pistol](./laser-pistol-xdmg.md)
-- [Laser Rifle](./laser-rifle-xdmg.md)
-- [Leather Armor](./leather-armor-xphb.md)
-- [Leatherworker's Tools](./leatherworkers-tools-xphb.md)
-- [Light Crossbow](./light-crossbow-xphb.md)
-- [Light Hammer](./light-hammer-xphb.md)
-- [Linen (1 sq. yd.)](./linen-1-sq-yd-xdmg.md)
-- [Lock of Trickery](./lock-of-trickery-xdmg.md)
-- [Lock](./lock-xphb.md)
-- [Locking Spellbook](./locking-spellbook-frhof.md)
-- [Lolth's Sting](./lolths-sting-xdmg.md)
-- [Longbow](./longbow-xphb.md)
-- [Longship](./longship-xphb.md)
-- [Longsword](./longsword-xphb.md)
-- [Lords' Alliance Trinket](./lords-alliance-trinket-frhof.md)
-- [Luck Blade](./luck-blade-xdmg.md)
-- [Lute of Thunderous Thumping](./lute-of-thunderous-thumping-xdmg.md)
-- [Lute](./lute-xphb.md)
-- [Lyre](./lyre-xphb.md)
-- [Mace of Disruption](./mace-of-disruption-xdmg.md)
-- [Mace of Smiting](./mace-of-smiting-xdmg.md)
-- [Mace of Terror](./mace-of-terror-xdmg.md)
-- [Mace](./mace-xphb.md)
-- [Magnifying Glass](./magnifying-glass-xphb.md)
-- [Malachite](./malachite-xdmg.md)
-- [Malice](./malice-xdmg.md)
-- [Manacles](./manacles-xphb.md)
-- [Mantle of Spell Resistance](./mantle-of-spell-resistance-xdmg.md)
-- [Manual of Bodily Health](./manual-of-bodily-health-xdmg.md)
-- [Manual of Clay Golems](./manual-of-clay-golems-xdmg.md)
-- [Manual of Flesh Golems](./manual-of-flesh-golems-xdmg.md)
-- [Manual of Gainful Exercise](./manual-of-gainful-exercise-xdmg.md)
-- [Manual of Golems](./manual-of-golems-xdmg.md)
-- [Manual of Iron Golems](./manual-of-iron-golems-xdmg.md)
-- [Manual of Quickness of Action](./manual-of-quickness-of-action-xdmg.md)
-- [Manual of Stone Golems](./manual-of-stone-golems-xdmg.md)
-- [Map or Scroll Case](./map-or-scroll-case-xphb.md)
-- [Map](./map-xphb.md)
-- [Mariner's Armor](./mariners-armor-xdmg.md)
-- [Mason's Tools](./masons-tools-xphb.md)
-- [Mastiff](./mastiff-xphb.md)
-- [Mastix, Whip of Erebos](./mastix-whip-of-erebos-mot.md)
-- [Maul](./maul-xphb.md)
-- [Medallion of Thoughts](./medallion-of-thoughts-xdmg.md)
-- [Midnight Tears](./midnight-tears-xdmg.md)
-- [Military Saddle](./military-saddle-xphb.md)
-- [Mirror of Life Trapping](./mirror-of-life-trapping-xdmg.md)
-- [Mirror](./mirror-xphb.md)
-- [Mithral Armor](./mithral-armor-xdmg.md)
-- [Molten Bronze Skin](./molten-bronze-skin-mot.md)
-- [Monster Camouflage](./monster-camouflage-frhof.md)
-- [Moon-Touched Sword](./moon-touched-sword-xdmg.md)
-- [Moonblade](./moonblade-xdmg.md)
-- [Moonstone](./moonstone-xdmg.md)
-- [Morningstar](./morningstar-xphb.md)
-- [Moss Agate](./moss-agate-xdmg.md)
-- [Mule](./mule-xphb.md)
-- [Musical Instrument](./musical-instrument-frhof.md)
-- [Musical Instrument](./musical-instrument-xphb.md)
-- [Musket](./musket-xphb.md)
-- [Mystery Key](./mystery-key-xdmg.md)
-- [Nature's Mantle](./natures-mantle-xdmg.md)
-- [Navigator's Tools](./navigators-tools-xphb.md)
-- [Necklace of Adaptation](./necklace-of-adaptation-xdmg.md)
-- [Necklace of Fireballs](./necklace-of-fireballs-xdmg.md)
-- [Necklace of Prayer Beads](./necklace-of-prayer-beads-xdmg.md)
-- [Necklace string of small pink pearls](./necklace-string-of-small-pink-pearls-xdmg.md)
-- [Needle](./needle-xphb.md)
-- [Needles (50)](./needles-50-xphb.md)
-- [Net](./net-xphb.md)
-- [Nine Lives Stealer](./nine-lives-stealer-xdmg.md)
-- [Nolzur's Marvelous Pigments](./nolzurs-marvelous-pigments-xdmg.md)
-- [Oathbow](./oathbow-xdmg.md)
-- [Obsidian statuette with gold fittings and inlay](./obsidian-statuette-with-gold-fittings-and-inlay-xdmg.md)
-- [Obsidian](./obsidian-xdmg.md)
-- [Oil of Etherealness](./oil-of-etherealness-xdmg.md)
-- [Oil of Sharpness](./oil-of-sharpness-xdmg.md)
-- [Oil of Slipperiness](./oil-of-slipperiness-xdmg.md)
-- [Oil of Taggit](./oil-of-taggit-xdmg.md)
-- [Oil](./oil-xphb.md)
-- [Old masterpiece painting](./old-masterpiece-painting-xdmg.md)
-- [Onyx](./onyx-xdmg.md)
-- [Opal](./opal-xdmg.md)
-- [Orb of Direction](./orb-of-direction-xdmg.md)
-- [Orb of Dragonkind](./orb-of-dragonkind-xdmg.md)
-- [Orb of Time](./orb-of-time-xdmg.md)
-- [Orb](./orb-xphb.md)
-- [Order of the Gauntlet Trinket](./order-of-the-gauntlet-trinket-frhof.md)
-- [Ox](./ox-xdmg.md)
-- [Padded Armor](./padded-armor-xphb.md)
-- [Painted gold war mask](./painted-gold-war-mask-xdmg.md)
-- [Painter's Supplies](./painters-supplies-xphb.md)
-- [Pair of engraved bone dice](./pair-of-engraved-bone-dice-xdmg.md)
-- [Pale Tincture](./pale-tincture-xdmg.md)
-- [Pan Flute](./pan-flute-xphb.md)
-- [Paper](./paper-xphb.md)
-- [Parchment](./parchment-xphb.md)
-- [Pearl of Power](./pearl-of-power-xdmg.md)
-- [Pearl](./pearl-xdmg.md)
-- [Pepper](./pepper-xdmg.md)
-- [Perfume of Bewitching](./perfume-of-bewitching-xdmg.md)
-- [Perfume](./perfume-xphb.md)
-- [Periapt of Health](./periapt-of-health-xdmg.md)
-- [Periapt of Proof against Poison](./periapt-of-proof-against-poison-xdmg.md)
-- [Periapt of Wound Closure](./periapt-of-wound-closure-xdmg.md)
-- [Peridot](./peridot-xdmg.md)
-- [Philter of Love](./philter-of-love-xdmg.md)
-- [Pig](./pig-xdmg.md)
-- [Pike](./pike-xphb.md)
-- [Pipe of Smoke Monsters](./pipe-of-smoke-monsters-xdmg.md)
-- [Pipes of Haunting](./pipes-of-haunting-xdmg.md)
-- [Pipes of the Sewers](./pipes-of-the-sewers-xdmg.md)
-- [Pistol](./pistol-xphb.md)
-- [Plate Armor of Etherealness](./plate-armor-of-etherealness-xdmg.md)
-- [Plate Armor](./plate-armor-xphb.md)
-- [Platinum bracelet set with an emerald](./platinum-bracelet-set-with-an-emerald-xdmg.md)
-- [Platinum](./platinum-xdmg.md)
-- [Playing Cards](./playing-cards-xphb.md)
-- [Poisoner's Kit](./poisoners-kit-xphb.md)
-- [Pole of Angling](./pole-of-angling-xdmg.md)
-- [Pole of Collapsing](./pole-of-collapsing-xdmg.md)
-- [Pole](./pole-xphb.md)
-- [Pony](./pony-xphb.md)
-- [Portable Hole](./portable-hole-xdmg.md)
-- [Portable Ram](./portable-ram-xphb.md)
-- [Pot of Awakening](./pot-of-awakening-xdmg.md)
-- [Potion of Acid Resistance](./potion-of-acid-resistance-xdmg.md)
-- [Potion of Animal Friendship](./potion-of-animal-friendship-xdmg.md)
-- [Potion of Aqueous Form](./potion-of-aqueous-form-mot.md)
-- [Potion of Clairvoyance](./potion-of-clairvoyance-xdmg.md)
-- [Potion of Climbing](./potion-of-climbing-xdmg.md)
-- [Potion of Cloud Giant Strength](./potion-of-cloud-giant-strength-xdmg.md)
-- [Potion of Cold Resistance](./potion-of-cold-resistance-xdmg.md)
-- [Potion of Comprehension](./potion-of-comprehension-xdmg.md)
-- [Potion of Diminution](./potion-of-diminution-xdmg.md)
-- [Potion of Fire Breath](./potion-of-fire-breath-xdmg.md)
-- [Potion of Fire Giant Strength](./potion-of-fire-giant-strength-xdmg.md)
-- [Potion of Fire Resistance](./potion-of-fire-resistance-xdmg.md)
-- [Potion of Flying](./potion-of-flying-xdmg.md)
-- [Potion of Force Resistance](./potion-of-force-resistance-xdmg.md)
-- [Potion of Frost Giant Strength](./potion-of-frost-giant-strength-xdmg.md)
-- [Potion of Gaseous Form](./potion-of-gaseous-form-xdmg.md)
-- [Potion of Giant Strength](./potion-of-giant-strength-xdmg.md)
-- [Potion of Greater Healing](./potion-of-greater-healing-xdmg.md)
-- [Potion of Greater Invisibility](./potion-of-greater-invisibility-xdmg.md)
-- [Potion of Growth](./potion-of-growth-xdmg.md)
-- [Potion of Healing](./potion-of-healing-xdmg.md)
-- [Potion of Heroism](./potion-of-heroism-xdmg.md)
-- [Potion of Hill Giant Strength](./potion-of-hill-giant-strength-xdmg.md)
-- [Potion of Invisibility](./potion-of-invisibility-xdmg.md)
-- [Potion of Invulnerability](./potion-of-invulnerability-xdmg.md)
-- [Potion of Lightning Resistance](./potion-of-lightning-resistance-xdmg.md)
-- [Potion of Longevity](./potion-of-longevity-xdmg.md)
-- [Potion of Mind Reading](./potion-of-mind-reading-xdmg.md)
-- [Potion of Necrotic Resistance](./potion-of-necrotic-resistance-xdmg.md)
-- [Potion of Poison Resistance](./potion-of-poison-resistance-xdmg.md)
-- [Potion of Poison](./potion-of-poison-xdmg.md)
-- [Potion of Psychic Resistance](./potion-of-psychic-resistance-xdmg.md)
-- [Potion of Pugilism](./potion-of-pugilism-xdmg.md)
-- [Potion of Radiant Resistance](./potion-of-radiant-resistance-xdmg.md)
-- [Potion of Resistance](./potion-of-resistance-xdmg.md)
-- [Potion of Speed](./potion-of-speed-xdmg.md)
-- [Potion of Stone Giant Strength](./potion-of-stone-giant-strength-xdmg.md)
-- [Potion of Storm Giant Strength](./potion-of-storm-giant-strength-xdmg.md)
-- [Potion of Superior Healing](./potion-of-superior-healing-xdmg.md)
-- [Potion of Supreme Healing](./potion-of-supreme-healing-xdmg.md)
-- [Potion of Thunder Resistance](./potion-of-thunder-resistance-xdmg.md)
-- [Potion of Vitality](./potion-of-vitality-xdmg.md)
-- [Potion of Water Breathing](./potion-of-water-breathing-xdmg.md)
-- [Potions of Healing](./potions-of-healing-xdmg.md)
-- [Potter's Tools](./potters-tools-xphb.md)
-- [Pouch](./pouch-xphb.md)
-- [Priest's Pack](./priests-pack-xphb.md)
-- [Prosthetic Limb](./prosthetic-limb-frhof.md)
-- [Prosthetic Limb](./prosthetic-limb-xdmg.md)
-- [Psychic Blade](./psychic-blade-xphb.md)
-- [Purple Dragon Knight Trinket](./purple-dragon-knight-trinket-frhof.md)
-- [Purple Worm Poison](./purple-worm-poison-xdmg.md)
-- [Pyxis of Pandemonium](./pyxis-of-pandemonium-mot.md)
-- [Quaal's Feather Token, Anchor](./quaals-feather-token-anchor-xdmg.md)
-- [Quaal's Feather Token, Bird](./quaals-feather-token-bird-xdmg.md)
-- [Quaal's Feather Token, Fan](./quaals-feather-token-fan-xdmg.md)
-- [Quaal's Feather Token, Swan Boat](./quaals-feather-token-swan-boat-xdmg.md)
-- [Quaal's Feather Token, Tree](./quaals-feather-token-tree-xdmg.md)
-- [Quaal's Feather Token, Whip](./quaals-feather-token-whip-xdmg.md)
-- [Quaal's Feather Token](./quaals-feather-token-xdmg.md)
-- [Quarterstaff of the Acrobat](./quarterstaff-of-the-acrobat-xdmg.md)
-- [Quarterstaff](./quarterstaff-xphb.md)
-- [Quartz](./quartz-xdmg.md)
-- [Quiver of Ehlonna](./quiver-of-ehlonna-xdmg.md)
-- [Quiver](./quiver-xphb.md)
-- [Rapier](./rapier-xphb.md)
-- [Rations](./rations-xphb.md)
-- [Red Dragon Scale Mail](./red-dragon-scale-mail-xdmg.md)
-- [Red Wizard Trinket](./red-wizard-trinket-frhof.md)
-- [Reliquary](./reliquary-xphb.md)
-- [Revolver](./revolver-xdmg.md)
-- [Rhodochrosite](./rhodochrosite-xdmg.md)
-- [Riding Horse](./riding-horse-xphb.md)
-- [Riding Saddle](./riding-saddle-xphb.md)
-- [Ring Mail](./ring-mail-xphb.md)
-- [Ring of Acid Resistance](./ring-of-acid-resistance-xdmg.md)
-- [Ring of Animal Influence](./ring-of-animal-influence-xdmg.md)
-- [Ring of Cold Resistance](./ring-of-cold-resistance-xdmg.md)
-- [Ring of Djinni Summoning](./ring-of-djinni-summoning-xdmg.md)
-- [Ring of Elemental Command (Air)](./ring-of-elemental-command-air-xdmg.md)
-- [Ring of Elemental Command (Earth)](./ring-of-elemental-command-earth-xdmg.md)
-- [Ring of Elemental Command (Fire)](./ring-of-elemental-command-fire-xdmg.md)
-- [Ring of Elemental Command (Water)](./ring-of-elemental-command-water-xdmg.md)
-- [Ring of Elemental Command](./ring-of-elemental-command-xdmg.md)
-- [Ring of Evasion](./ring-of-evasion-xdmg.md)
-- [Ring of Feather Falling](./ring-of-feather-falling-xdmg.md)
-- [Ring of Fire Resistance](./ring-of-fire-resistance-xdmg.md)
-- [Ring of Force Resistance](./ring-of-force-resistance-xdmg.md)
-- [Ring of Free Action](./ring-of-free-action-xdmg.md)
-- [Ring of Invisibility](./ring-of-invisibility-xdmg.md)
-- [Ring of Jumping](./ring-of-jumping-xdmg.md)
-- [Ring of Lightning Resistance](./ring-of-lightning-resistance-xdmg.md)
-- [Ring of Mind Shielding](./ring-of-mind-shielding-xdmg.md)
-- [Ring of Necrotic Resistance](./ring-of-necrotic-resistance-xdmg.md)
-- [Ring of Poison Resistance](./ring-of-poison-resistance-xdmg.md)
-- [Ring of Protection](./ring-of-protection-xdmg.md)
-- [Ring of Psychic Resistance](./ring-of-psychic-resistance-xdmg.md)
-- [Ring of Radiant Resistance](./ring-of-radiant-resistance-xdmg.md)
-- [Ring of Regeneration](./ring-of-regeneration-xdmg.md)
-- [Ring of Resistance](./ring-of-resistance-xdmg.md)
-- [Ring of Shooting Stars](./ring-of-shooting-stars-xdmg.md)
-- [Ring of Spell Storing](./ring-of-spell-storing-xdmg.md)
-- [Ring of Spell Turning](./ring-of-spell-turning-xdmg.md)
-- [Ring of Swimming](./ring-of-swimming-xdmg.md)
-- [Ring of Telekinesis](./ring-of-telekinesis-xdmg.md)
-- [Ring of the Ram](./ring-of-the-ram-xdmg.md)
-- [Ring of Three Wishes](./ring-of-three-wishes-xdmg.md)
-- [Ring of Thunder Resistance](./ring-of-thunder-resistance-xdmg.md)
-- [Ring of Warmth](./ring-of-warmth-xdmg.md)
-- [Ring of Water Walking](./ring-of-water-walking-xdmg.md)
-- [Ring of X-ray Vision](./ring-of-x-ray-vision-xdmg.md)
-- [Rival Coin](./rival-coin-xdmg.md)
-- [Robe of Eyes](./robe-of-eyes-xdmg.md)
-- [Robe of Scintillating Colors](./robe-of-scintillating-colors-xdmg.md)
-- [Robe of Stars](./robe-of-stars-xdmg.md)
-- [Robe of the Archmagi](./robe-of-the-archmagi-xdmg.md)
-- [Robe of Useful Items](./robe-of-useful-items-xdmg.md)
-- [Robe](./robe-xphb.md)
-- [Rod of Absorption](./rod-of-absorption-xdmg.md)
-- [Rod of Alertness](./rod-of-alertness-xdmg.md)
-- [Rod of Lordly Might](./rod-of-lordly-might-xdmg.md)
-- [Rod of Resurrection](./rod-of-resurrection-xdmg.md)
-- [Rod of Rulership](./rod-of-rulership-xdmg.md)
-- [Rod of Security](./rod-of-security-xdmg.md)
-- [Rod of the Pact Keeper](./rod-of-the-pact-keeper-xdmg.md)
-- [Rod](./rod-xphb.md)
-- [Rope of Climbing](./rope-of-climbing-xdmg.md)
-- [Rope of Entanglement](./rope-of-entanglement-xdmg.md)
-- [Rope of Mending](./rope-of-mending-xdmg.md)
-- [Rope](./rope-xphb.md)
-- [Rowboat](./rowboat-xphb.md)
-- [Ruby of the War Mage](./ruby-of-the-war-mage-xdmg.md)
-- [Ruby](./ruby-xdmg.md)
-- [Sack](./sack-xphb.md)
-- [Saddle of the Cavalier](./saddle-of-the-cavalier-xdmg.md)
-- [Saffron](./saffron-xdmg.md)
-- [Sailing Ship](./sailing-ship-xphb.md)
-- [Salt](./salt-xdmg.md)
-- [Sardonyx](./sardonyx-xdmg.md)
-- [Scale Mail](./scale-mail-xphb.md)
-- [Scarab of Protection](./scarab-of-protection-xdmg.md)
-- [Scholar's Pack](./scholars-pack-xphb.md)
-- [Scimitar of Speed](./scimitar-of-speed-xdmg.md)
-- [Scimitar](./scimitar-xphb.md)
-- [Scroll of Protection (Aberrations)](./scroll-of-protection-aberrations-xdmg.md)
-- [Scroll of Protection (Beasts)](./scroll-of-protection-beasts-xdmg.md)
-- [Scroll of Protection (Celestials)](./scroll-of-protection-celestials-xdmg.md)
-- [Scroll of Protection (Constructs)](./scroll-of-protection-constructs-xdmg.md)
-- [Scroll of Protection (Dragons)](./scroll-of-protection-dragons-xdmg.md)
-- [Scroll of Protection (Elementals)](./scroll-of-protection-elementals-xdmg.md)
-- [Scroll of Protection (Fey)](./scroll-of-protection-fey-xdmg.md)
-- [Scroll of Protection (Fiends)](./scroll-of-protection-fiends-xdmg.md)
-- [Scroll of Protection (Giants)](./scroll-of-protection-giants-xdmg.md)
-- [Scroll of Protection (Humanoids)](./scroll-of-protection-humanoids-xdmg.md)
-- [Scroll of Protection (Monstrosities)](./scroll-of-protection-monstrosities-xdmg.md)
-- [Scroll of Protection (Oozes)](./scroll-of-protection-oozes-xdmg.md)
-- [Scroll of Protection (Plants)](./scroll-of-protection-plants-xdmg.md)
-- [Scroll of Protection (Undead)](./scroll-of-protection-undead-xdmg.md)
-- [Scroll of Protection](./scroll-of-protection-xdmg.md)
-- [Scroll of Titan Summoning (Animal Lord)](./scroll-of-titan-summoning-animal-lord-xdmg.md)
-- [Scroll of Titan Summoning (Blob of Annihilation)](./scroll-of-titan-summoning-blob-of-annihilation-xdmg.md)
-- [Scroll of Titan Summoning (Colossus)](./scroll-of-titan-summoning-colossus-xdmg.md)
-- [Scroll of Titan Summoning (Elemental Cataclysm)](./scroll-of-titan-summoning-elemental-cataclysm-xdmg.md)
-- [Scroll of Titan Summoning (Empyrean)](./scroll-of-titan-summoning-empyrean-xdmg.md)
-- [Scroll of Titan Summoning (Kraken)](./scroll-of-titan-summoning-kraken-xdmg.md)
-- [Scroll of Titan Summoning (Tarrasque)](./scroll-of-titan-summoning-tarrasque-xdmg.md)
-- [Scroll of Titan Summoning](./scroll-of-titan-summoning-xdmg.md)
-- [Semiautomatic Pistol](./semiautomatic-pistol-xdmg.md)
-- [Sending Stones](./sending-stones-xdmg.md)
-- [Sentinel Shield](./sentinel-shield-xdmg.md)
-- [Serpent Venom](./serpent-venom-xdmg.md)
-- [Set of gold nesting dolls](./set-of-gold-nesting-dolls-xdmg.md)
-- [Shawm](./shawm-xphb.md)
-- [Sheep](./sheep-xdmg.md)
-- [Shield of Expression](./shield-of-expression-xdmg.md)
-- [Shield of Missile Attraction](./shield-of-missile-attraction-xdmg.md)
-- [Shield of the Cavalier](./shield-of-the-cavalier-xdmg.md)
-- [Shield](./shield-xphb.md)
-- [Shortbow](./shortbow-xphb.md)
-- [Shortsword](./shortsword-xphb.md)
-- [Shotgun](./shotgun-xdmg.md)
-- [Shovel](./shovel-xphb.md)
-- [Sickle](./sickle-xphb.md)
-- [Signal Whistle](./signal-whistle-xphb.md)
-- [Silk vestments with gold embroidery](./silk-vestments-with-gold-embroidery-xdmg.md)
-- [Silk](./silk-xdmg.md)
-- [Silver and gold brooch](./silver-and-gold-brooch-xdmg.md)
-- [Silver Bar (2-pound)](./silver-bar-2-pound-xdmg.md)
-- [Silver Bar (5-pound)](./silver-bar-5-pound-xdmg.md)
-- [Silver chalice set with moonstones](./silver-chalice-set-with-moonstones-xdmg.md)
-- [Silver Dragon Scale Mail](./silver-dragon-scale-mail-xdmg.md)
-- [Silver ewer](./silver-ewer-xdmg.md)
-- [Silver necklace with a gemstone pendant](./silver-necklace-with-a-gemstone-pendant-xdmg.md)
-- [Silver](./silver-xdmg.md)
-- [Silvered Weapon](./silvered-weapon-xdmg.md)
-- [Siren Song Lyre](./siren-song-lyre-mot.md)
-- [Sled Dog](./sled-dog-frhof.md)
-- [Sled](./sled-xphb.md)
-- [Sling Bullet](./sling-bullet-xphb.md)
-- [Sling Bullets (20)](./sling-bullets-20-xphb.md)
-- [Sling Bullets of Althemone](./sling-bullets-of-althemone-mot.md)
-- [Sling](./sling-xphb.md)
-- [Slippers of Spider Climbing](./slippers-of-spider-climbing-xdmg.md)
-- [Smith's Tools](./smiths-tools-xphb.md)
-- [Smoke Grenade](./smoke-grenade-xdmg.md)
-- [Smoldering Armor](./smoldering-armor-xdmg.md)
-- [Sovereign Glue](./sovereign-glue-xdmg.md)
-- [Spear](./spear-xphb.md)
-- [Spell Scroll (Cantrip)](./spell-scroll-cantrip-xdmg.md)
-- [Spell Scroll (Level 1)](./spell-scroll-level-1-xdmg.md)
-- [Spell Scroll (Level 2)](./spell-scroll-level-2-xdmg.md)
-- [Spell Scroll (Level 3)](./spell-scroll-level-3-xdmg.md)
-- [Spell Scroll (Level 4)](./spell-scroll-level-4-xdmg.md)
-- [Spell Scroll (Level 5)](./spell-scroll-level-5-xdmg.md)
-- [Spell Scroll (Level 6)](./spell-scroll-level-6-xdmg.md)
-- [Spell Scroll (Level 7)](./spell-scroll-level-7-xdmg.md)
-- [Spell Scroll (Level 8)](./spell-scroll-level-8-xdmg.md)
-- [Spell Scroll (Level 9)](./spell-scroll-level-9-xdmg.md)
-- [Spell Scroll](./spell-scroll-xdmg.md)
-- [Spellguard Shield](./spellguard-shield-xdmg.md)
-- [Sphere of Annihilation](./sphere-of-annihilation-xdmg.md)
-- [Spinel](./spinel-xdmg.md)
-- [Spirit Board](./spirit-board-xdmg.md)
-- [Splint Armor](./splint-armor-xphb.md)
-- [Sprig of Mistletoe](./sprig-of-mistletoe-xphb.md)
-- [Spyglass](./spyglass-xphb.md)
-- [Stabling (per day)](./stabling-per-day-xphb.md)
-- [Staff of Adornment](./staff-of-adornment-xdmg.md)
-- [Staff of Birdcalls](./staff-of-birdcalls-xdmg.md)
-- [Staff of Charming](./staff-of-charming-xdmg.md)
-- [Staff of Fire](./staff-of-fire-xdmg.md)
-- [Staff of Flowers](./staff-of-flowers-xdmg.md)
-- [Staff of Frost](./staff-of-frost-xdmg.md)
-- [Staff of Healing](./staff-of-healing-xdmg.md)
-- [Staff of Power](./staff-of-power-xdmg.md)
-- [Staff of Striking](./staff-of-striking-xdmg.md)
-- [Staff of Swarming Insects](./staff-of-swarming-insects-xdmg.md)
-- [Staff of the Adder](./staff-of-the-adder-xdmg.md)
-- [Staff of the Magi](./staff-of-the-magi-xdmg.md)
-- [Staff of the Python](./staff-of-the-python-xdmg.md)
-- [Staff of the Woodlands](./staff-of-the-woodlands-xdmg.md)
-- [Staff of Thunder and Lightning](./staff-of-thunder-and-lightning-xdmg.md)
-- [Staff of Withering](./staff-of-withering-xdmg.md)
-- [Staff](./staff-xphb.md)
-- [Star rose quartz](./star-rose-quartz-xdmg.md)
-- [Star Ruby](./star-ruby-xdmg.md)
-- [Star Sapphire](./star-sapphire-xdmg.md)
-- [Stone of Controlling Earth Elementals](./stone-of-controlling-earth-elementals-xdmg.md)
-- [Stone of Good Luck](./stone-of-good-luck-xdmg.md)
-- [String](./string-xphb.md)
-- [Studded Leather Armor](./studded-leather-armor-xphb.md)
-- [Sun Blade](./sun-blade-xdmg.md)
-- [Sword of Answering](./sword-of-answering-xdmg.md)
-- [Sword of Kas](./sword-of-kas-xdmg.md)
-- [Sword of Life Stealing](./sword-of-life-stealing-xdmg.md)
-- [Sword of Sharpness](./sword-of-sharpness-xdmg.md)
-- [Sword of Vengeance](./sword-of-vengeance-xdmg.md)
-- [Sword of Wounding](./sword-of-wounding-xdmg.md)
-- [Sylvan Talon](./sylvan-talon-xdmg.md)
-- [Talisman of Pure Good](./talisman-of-pure-good-xdmg.md)
-- [Talisman of the Sphere](./talisman-of-the-sphere-xdmg.md)
-- [Talisman of Ultimate Evil](./talisman-of-ultimate-evil-xdmg.md)
-- [Talking Doll](./talking-doll-xdmg.md)
-- [Tankard of Sobriety](./tankard-of-sobriety-xdmg.md)
-- [Tent](./tent-xphb.md)
-- [Tentacle Rod](./tentacle-rod-xdmg.md)
-- [Thayan Spell Tattoo](./thayan-spell-tattoo-frhof.md)
-- [Thieves' Tools](./thieves-tools-xphb.md)
-- [Three-Dragon Ante Set](./three-dragon-ante-set-xphb.md)
-- [Thunderous Greatclub](./thunderous-greatclub-xdmg.md)
-- [Tiger Eye](./tiger-eye-xdmg.md)
-- [Tinderbox](./tinderbox-xphb.md)
-- [Tinker's Tools](./tinkers-tools-xphb.md)
-- [Tome of Clear Thought](./tome-of-clear-thought-xdmg.md)
-- [Tome of Leadership and Influence](./tome-of-leadership-and-influence-xdmg.md)
-- [Tome of the Stilled Tongue](./tome-of-the-stilled-tongue-xdmg.md)
-- [Tome of Understanding](./tome-of-understanding-xdmg.md)
-- [Topaz](./topaz-xdmg.md)
-- [Torch](./torch-xphb.md)
-- [Torpor](./torpor-xdmg.md)
-- [Tourmaline](./tourmaline-xdmg.md)
-- [Traveler's Clothes](./travelers-clothes-xphb.md)
-- [Trident of Fish Command](./trident-of-fish-command-xdmg.md)
-- [Trident](./trident-xphb.md)
-- [Trinket](./trinket-xphb.md)
-- [Truth Serum](./truth-serum-xdmg.md)
-- [Turquoise](./turquoise-xdmg.md)
-- [Two-Birds Sling](./two-birds-sling-mot.md)
-- [Universal Solvent](./universal-solvent-xdmg.md)
-- [Veteran's Cane](./veterans-cane-xdmg.md)
-- [Vial](./vial-xphb.md)
-- [Vicious Weapon](./vicious-weapon-xdmg.md)
-- [Viol](./viol-xphb.md)
-- [Vorpal Sword](./vorpal-sword-xdmg.md)
-- [Wagon](./wagon-xphb.md)
-- [Walloping Ammunition](./walloping-ammunition-xdmg.md)
-- [Wand of Binding](./wand-of-binding-xdmg.md)
-- [Wand of Conducting](./wand-of-conducting-xdmg.md)
-- [Wand of Enemy Detection](./wand-of-enemy-detection-xdmg.md)
-- [Wand of Fear](./wand-of-fear-xdmg.md)
-- [Wand of Fireballs](./wand-of-fireballs-xdmg.md)
-- [Wand of Lightning Bolts](./wand-of-lightning-bolts-xdmg.md)
-- [Wand of Magic Detection](./wand-of-magic-detection-xdmg.md)
-- [Wand of Magic Missiles](./wand-of-magic-missiles-xdmg.md)
-- [Wand of Orcus](./wand-of-orcus-xdmg.md)
-- [Wand of Paralysis](./wand-of-paralysis-xdmg.md)
-- [Wand of Polymorph](./wand-of-polymorph-xdmg.md)
-- [Wand of Pyrotechnics](./wand-of-pyrotechnics-xdmg.md)
-- [Wand of Secrets](./wand-of-secrets-xdmg.md)
-- [Wand of the War Mage](./wand-of-the-war-mage-xdmg.md)
-- [Wand of Web](./wand-of-web-xdmg.md)
-- [Wand of Wonder](./wand-of-wonder-xdmg.md)
-- [Wand](./wand-xphb.md)
-- [War Pick](./war-pick-xphb.md)
-- [Warhammer](./warhammer-xphb.md)
-- [Warhorse](./warhorse-xphb.md)
-- [Warm Fungal Clothing](./warm-fungal-clothing-frhof.md)
-- [Warship](./warship-xphb.md)
-- [Waterskin](./waterskin-xphb.md)
-- [Wave](./wave-xdmg.md)
-- [Weapon of Warning](./weapon-of-warning-xdmg.md)
-- [Weaver's Tools](./weavers-tools-xphb.md)
-- [Well-made tapestry that is 10 feet by 10 feet](./well-made-tapestry-that-is-10-feet-by-10-feet-xdmg.md)
-- [Well of Many Worlds](./well-of-many-worlds-xdmg.md)
-- [Wheat](./wheat-xdmg.md)
-- [Whelm](./whelm-xdmg.md)
-- [Whip](./whip-xphb.md)
-- [White Dragon Scale Mail](./white-dragon-scale-mail-xdmg.md)
-- [Wind Fan](./wind-fan-xdmg.md)
-- [Windskiff](./windskiff-fraif.md)
-- [Winged Boots](./winged-boots-xdmg.md)
-- [Wings of Flying](./wings-of-flying-xdmg.md)
-- [Winter Camouflage](./winter-camouflage-frhof.md)
-- [Woodcarver's Tools](./woodcarvers-tools-xphb.md)
-- [Wooden Staff](./wooden-staff-xphb.md)
-- [Wraps of Unarmed Power](./wraps-of-unarmed-power-xdmg.md)
-- [Wyvern Poison](./wyvern-poison-xdmg.md)
-- [Yarting](./yarting-frhof.md)
-- [Yellow Sapphire](./yellow-sapphire-xdmg.md)
-- [Yew Wand](./yew-wand-xphb.md)
-- [Zhentarim Trinket](./zhentarim-trinket-frhof.md)
-- [Zircon](./zircon-xdmg.md)
+- [[1-ammunition-xdmg|+1 Ammunition]]
+- [[1-armor-xdmg|+1 Armor]]
+- [[1-rod-of-the-pact-keeper-xdmg|+1 Rod of the Pact Keeper]]
+- [[1-shield-xdmg|+1 Shield]]
+- [[1-wand-of-the-war-mage-xdmg|+1 Wand of the War Mage]]
+- [[1-weapon-xdmg|+1 Weapon]]
+- [[1-wraps-of-unarmed-power-xdmg|+1 Wraps of Unarmed Power]]
+- [[2-ammunition-xdmg|+2 Ammunition]]
+- [[2-armor-xdmg|+2 Armor]]
+- [[2-rod-of-the-pact-keeper-xdmg|+2 Rod of the Pact Keeper]]
+- [[2-shield-xdmg|+2 Shield]]
+- [[2-wand-of-the-war-mage-xdmg|+2 Wand of the War Mage]]
+- [[2-weapon-xdmg|+2 Weapon]]
+- [[2-wraps-of-unarmed-power-xdmg|+2 Wraps of Unarmed Power]]
+- [[3-ammunition-xdmg|+3 Ammunition]]
+- [[3-armor-xdmg|+3 Armor]]
+- [[3-rod-of-the-pact-keeper-xdmg|+3 Rod of the Pact Keeper]]
+- [[3-shield-xdmg|+3 Shield]]
+- [[3-wand-of-the-war-mage-xdmg|+3 Wand of the War Mage]]
+- [[3-weapon-xdmg|+3 Weapon]]
+- [[3-wraps-of-unarmed-power-xdmg|+3 Wraps of Unarmed Power]]
+- [[acid-xphb|Acid]]
+- [[adamantine-armor-xdmg|Adamantine Armor]]
+- [[adamantine-weapon-xdmg|Adamantine Weapon]]
+- [[adventurers-ring-frhof|Adventurer's Ring]]
+- [[airship-xphb|Airship]]
+- [[akmon-hammer-of-purphoros-mot|Akmon, Hammer of Purphoros]]
+- [[alchemists-fire-xphb|Alchemist's Fire]]
+- [[alchemists-supplies-xphb|Alchemist's Supplies]]
+- [[alchemy-jug-xdmg|Alchemy Jug]]
+- [[ale-mug-xphb|Ale (mug)]]
+- [[alexandrite-xdmg|Alexandrite]]
+- [[amber-xdmg|Amber]]
+- [[amethyst-xdmg|Amethyst]]
+- [[ammunition-of-slaying-xdmg|Ammunition of Slaying]]
+- [[amulet-of-health-xdmg|Amulet of Health]]
+- [[amulet-of-proof-against-detection-and-location-xdmg|Amulet of Proof against Detection and Location]]
+- [[amulet-of-the-planes-xdmg|Amulet of the Planes]]
+- [[amulet-xphb|Amulet]]
+- [[animated-shield-xdmg|Animated Shield]]
+- [[antimatter-rifle-xdmg|Antimatter Rifle]]
+- [[antitoxin-xphb|Antitoxin]]
+- [[apparatus-of-kwalish-xdmg|Apparatus of Kwalish]]
+- [[aquamarine-xdmg|Aquamarine]]
+- [[arcane-focus-xphb|Arcane Focus]]
+- [[armor-of-acid-resistance-xdmg|Armor of Acid Resistance]]
+- [[armor-of-cold-resistance-xdmg|Armor of Cold Resistance]]
+- [[armor-of-fire-resistance-xdmg|Armor of Fire Resistance]]
+- [[armor-of-force-resistance-xdmg|Armor of Force Resistance]]
+- [[armor-of-gleaming-xdmg|Armor of Gleaming]]
+- [[armor-of-invulnerability-xdmg|Armor of Invulnerability]]
+- [[armor-of-lightning-resistance-xdmg|Armor of Lightning Resistance]]
+- [[armor-of-necrotic-resistance-xdmg|Armor of Necrotic Resistance]]
+- [[armor-of-poison-resistance-xdmg|Armor of Poison Resistance]]
+- [[armor-of-psychic-resistance-xdmg|Armor of Psychic Resistance]]
+- [[armor-of-radiant-resistance-xdmg|Armor of Radiant Resistance]]
+- [[armor-of-resistance-xdmg|Armor of Resistance]]
+- [[armor-of-thunder-resistance-xdmg|Armor of Thunder Resistance]]
+- [[armor-of-vulnerability-bludgeoning-xdmg|Armor of Vulnerability (Bludgeoning)]]
+- [[armor-of-vulnerability-piercing-xdmg|Armor of Vulnerability (Piercing)]]
+- [[armor-of-vulnerability-slashing-xdmg|Armor of Vulnerability (Slashing)]]
+- [[armor-of-vulnerability-xdmg|Armor of Vulnerability]]
+- [[arrow-catching-shield-xdmg|Arrow-Catching Shield]]
+- [[arrow-xphb|Arrow]]
+- [[arrows-20-xphb|Arrows (20)]]
+- [[artisans-tools-xphb|Artisan's Tools]]
+- [[assassins-blood-xdmg|Assassin's Blood]]
+- [[automatic-rifle-xdmg|Automatic Rifle]]
+- [[axe-beak-frhof|Axe Beak]]
+- [[axe-of-the-dwarvish-lords-xdmg|Axe of the Dwarvish Lords]]
+- [[azurite-xdmg|Azurite]]
+- [[baba-yagas-dancing-broom-xdmg|Baba Yaga's Dancing Broom]]
+- [[backpack-xphb|Backpack]]
+- [[bag-of-beans-xdmg|Bag of Beans]]
+- [[bag-of-devouring-xdmg|Bag of Devouring]]
+- [[bag-of-holding-xdmg|Bag of Holding]]
+- [[bag-of-tricks-gray-xdmg|Bag of Tricks, Gray]]
+- [[bag-of-tricks-rust-xdmg|Bag of Tricks, Rust]]
+- [[bag-of-tricks-tan-xdmg|Bag of Tricks, Tan]]
+- [[bag-of-tricks-xdmg|Bag of Tricks]]
+- [[bagpipes-xphb|Bagpipes]]
+- [[ball-bearings-xphb|Ball Bearings]]
+- [[banded-agate-xdmg|Banded Agate]]
+- [[bandore-frhof|Bandore]]
+- [[barrel-xphb|Barrel]]
+- [[basic-poison-xphb|Basic Poison]]
+- [[basket-xphb|Basket]]
+- [[battleaxe-xphb|Battleaxe]]
+- [[bead-of-force-xdmg|Bead of Force]]
+- [[bead-of-nourishment-xdmg|Bead of Nourishment]]
+- [[bead-of-refreshment-xdmg|Bead of Refreshment]]
+- [[bedroll-xphb|Bedroll]]
+- [[bejeweled-gold-bracelet-xdmg|Bejeweled gold bracelet]]
+- [[bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg|Bejeweled ivory drinking horn with gold filigree]]
+- [[bell-xphb|Bell]]
+- [[belt-of-cloud-giant-strength-xdmg|Belt of Cloud Giant Strength]]
+- [[belt-of-dwarvenkind-xdmg|Belt of Dwarvenkind]]
+- [[belt-of-fire-giant-strength-xdmg|Belt of Fire Giant Strength]]
+- [[belt-of-frost-giant-strength-xdmg|Belt of Frost Giant Strength]]
+- [[belt-of-giant-strength-xdmg|Belt of Giant Strength]]
+- [[belt-of-hill-giant-strength-xdmg|Belt of Hill Giant Strength]]
+- [[belt-of-stone-giant-strength-xdmg|Belt of Stone Giant Strength]]
+- [[belt-of-storm-giant-strength-xdmg|Belt of Storm Giant Strength]]
+- [[berserker-axe-xdmg|Berserker Axe]]
+- [[black-dragon-scale-mail-xdmg|Black Dragon Scale Mail]]
+- [[black-opal-xdmg|Black Opal]]
+- [[black-pearl-xdmg|Black Pearl]]
+- [[black-sapphire-xdmg|Black Sapphire]]
+- [[black-velvet-mask-stitched-with-silver-thread-xdmg|Black velvet mask stitched with silver thread]]
+- [[blackrazor-xdmg|Blackrazor]]
+- [[blanket-xphb|Blanket]]
+- [[block-and-tackle-xphb|Block and Tackle]]
+- [[bloodstone-xdmg|Bloodstone]]
+- [[blowgun-xphb|Blowgun]]
+- [[blue-dragon-scale-mail-xdmg|Blue Dragon Scale Mail]]
+- [[blue-quartz-xdmg|Blue Quartz]]
+- [[blue-sapphire-xdmg|Blue Sapphire]]
+- [[blue-spinel-xdmg|Blue Spinel]]
+- [[bolt-xphb|Bolt]]
+- [[bolts-20-xphb|Bolts (20)]]
+- [[bomb-xdmg|Bomb]]
+- [[book-of-exalted-deeds-xdmg|Book of Exalted Deeds]]
+- [[book-of-vile-darkness-xdmg|Book of Vile Darkness]]
+- [[book-xphb|Book]]
+- [[boots-of-elvenkind-xdmg|Boots of Elvenkind]]
+- [[boots-of-false-tracks-xdmg|Boots of False Tracks]]
+- [[boots-of-levitation-xdmg|Boots of Levitation]]
+- [[boots-of-speed-xdmg|Boots of Speed]]
+- [[boots-of-striding-and-springing-xdmg|Boots of Striding and Springing]]
+- [[boots-of-the-winterlands-xdmg|Boots of the Winterlands]]
+- [[bottle-stopper-cork-embossed-with-gold-leaf-and-set-with-amethysts-xdmg|Bottle stopper cork embossed with gold leaf and set with amethysts]]
+- [[bowl-of-commanding-water-elementals-xdmg|Bowl of Commanding Water Elementals]]
+- [[box-of-turquoise-animal-figurines-xdmg|Box of turquoise animal figurines]]
+- [[bracers-of-archery-xdmg|Bracers of Archery]]
+- [[bracers-of-defense-xdmg|Bracers of Defense]]
+- [[brass-dragon-scale-mail-xdmg|Brass Dragon Scale Mail]]
+- [[brass-mug-with-jade-inlay-xdmg|Brass mug with jade inlay]]
+- [[brazier-of-commanding-fire-elementals-xdmg|Brazier of Commanding Fire Elementals]]
+- [[bread-loaf-xphb|Bread (loaf)]]
+- [[breastplate-xphb|Breastplate]]
+- [[brewers-supplies-xphb|Brewer's Supplies]]
+- [[bright-fungal-cloak-frhof|Bright Fungal Cloak]]
+- [[bronze-crown-xdmg|Bronze crown]]
+- [[bronze-dragon-scale-mail-xdmg|Bronze Dragon Scale Mail]]
+- [[brooch-of-shielding-xdmg|Brooch of Shielding]]
+- [[broom-of-flying-xdmg|Broom of Flying]]
+- [[bucket-xphb|Bucket]]
+- [[bullseye-lantern-xphb|Bullseye Lantern]]
+- [[bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg|Bundle of sheet music representing the lost dirges of a famous composer]]
+- [[burglars-pack-xphb|Burglar's Pack]]
+- [[burnt-othur-fumes-xdmg|Burnt Othur Fumes]]
+- [[calligraphers-supplies-xphb|Calligrapher's Supplies]]
+- [[caltrops-xphb|Caltrops]]
+- [[camel-xphb|Camel]]
+- [[candle-of-invocation-xdmg|Candle of Invocation]]
+- [[candle-of-the-deep-xdmg|Candle of the Deep]]
+- [[candle-xphb|Candle]]
+- [[canvas-1-sq-yd-xdmg|Canvas (1 sq. yd.)]]
+- [[cap-of-water-breathing-xdmg|Cap of Water Breathing]]
+- [[cape-of-the-mountebank-xdmg|Cape of the Mountebank]]
+- [[carnelian-xdmg|Carnelian]]
+- [[carpenters-tools-xphb|Carpenter's Tools]]
+- [[carpet-of-flying-3-ft-5-ft-xdmg|Carpet of Flying, 3 ft. × 5 ft.]]
+- [[carpet-of-flying-4-ft-6-ft-xdmg|Carpet of Flying, 4 ft. × 6 ft.]]
+- [[carpet-of-flying-5-ft-7-ft-xdmg|Carpet of Flying, 5 ft. × 7 ft.]]
+- [[carpet-of-flying-6-ft-9-ft-xdmg|Carpet of Flying, 6 ft. × 9 ft.]]
+- [[carpet-of-flying-xdmg|Carpet of Flying]]
+- [[carriage-xphb|Carriage]]
+- [[carrion-crawler-mucus-xdmg|Carrion Crawler Mucus]]
+- [[cart-xphb|Cart]]
+- [[cartographers-tools-xphb|Cartographer's Tools]]
+- [[carved-bone-statuette-xdmg|Carved bone statuette]]
+- [[carved-ivory-statuette-xdmg|Carved ivory statuette]]
+- [[carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg|Carved wooden harp with ivory inlay and zircon gems]]
+- [[cast-off-armor-xdmg|Cast-Off Armor]]
+- [[cauldron-of-rebirth-xdmg|Cauldron of Rebirth]]
+- [[censer-of-controlling-air-elementals-xdmg|Censer of Controlling Air Elementals]]
+- [[ceremonial-gold-armor-with-black-pearls-xdmg|Ceremonial gold armor with black pearls]]
+- [[chain-mail-xphb|Chain Mail]]
+- [[chain-shirt-xphb|Chain Shirt]]
+- [[chain-xphb|Chain]]
+- [[chalcedony-xdmg|Chalcedony]]
+- [[chariot-xphb|Chariot]]
+- [[charlatans-die-xdmg|Charlatan's Die]]
+- [[cheese-wedge-xphb|Cheese (wedge)]]
+- [[chest-xphb|Chest]]
+- [[chicken-xdmg|Chicken]]
+- [[chime-of-opening-xdmg|Chime of Opening]]
+- [[chrysoberyl-xdmg|Chrysoberyl]]
+- [[chrysoprase-xdmg|Chrysoprase]]
+- [[cinnamon-xdmg|Cinnamon]]
+- [[circlet-of-blasting-xdmg|Circlet of Blasting]]
+- [[citrine-xdmg|Citrine]]
+- [[cittern-frhof|Cittern]]
+- [[climbers-kit-xphb|Climber's Kit]]
+- [[cloak-of-arachnida-xdmg|Cloak of Arachnida]]
+- [[cloak-of-billowing-xdmg|Cloak of Billowing]]
+- [[cloak-of-displacement-xdmg|Cloak of Displacement]]
+- [[cloak-of-elvenkind-xdmg|Cloak of Elvenkind]]
+- [[cloak-of-invisibility-xdmg|Cloak of Invisibility]]
+- [[cloak-of-many-fashions-xdmg|Cloak of Many Fashions]]
+- [[cloak-of-protection-xdmg|Cloak of Protection]]
+- [[cloak-of-the-bat-xdmg|Cloak of the Bat]]
+- [[cloak-of-the-manta-ray-xdmg|Cloak of the Manta Ray]]
+- [[clockwork-amulet-xdmg|Clockwork Amulet]]
+- [[cloth-of-gold-vestments-xdmg|Cloth-of-gold vestments]]
+- [[clothes-of-mending-xdmg|Clothes of Mending]]
+- [[cloves-xdmg|Cloves]]
+- [[club-xphb|Club]]
+- [[cobblers-tools-xphb|Cobbler's Tools]]
+- [[command-amulet-xmm|Command Amulet]]
+- [[common-wine-bottle-xphb|Common Wine (bottle)]]
+- [[component-pouch-xphb|Component Pouch]]
+- [[cooks-utensils-xphb|Cook's Utensils]]
+- [[copper-chalice-with-silver-filigree-xdmg|Copper chalice with silver filigree]]
+- [[copper-dragon-scale-mail-xdmg|Copper Dragon Scale Mail]]
+- [[copper-xdmg|Copper]]
+- [[coral-xdmg|Coral]]
+- [[costume-xphb|Costume]]
+- [[cotton-cloth-1-sq-yd-xdmg|Cotton Cloth (1 sq. yd.)]]
+- [[covered-wagon-frhof|Covered Wagon]]
+- [[cow-xdmg|Cow]]
+- [[crossbow-bolt-case-xphb|Crossbow Bolt Case]]
+- [[crowbar-xphb|Crowbar]]
+- [[crystal-ball-of-mind-reading-xdmg|Crystal Ball of Mind Reading]]
+- [[crystal-ball-of-telepathy-xdmg|Crystal Ball of Telepathy]]
+- [[crystal-ball-of-true-seeing-xdmg|Crystal Ball of True Seeing]]
+- [[crystal-ball-xdmg|Crystal Ball]]
+- [[crystal-xphb|Crystal]]
+- [[cube-of-force-xdmg|Cube of Force]]
+- [[cube-of-summoning-xdmg|Cube of Summoning]]
+- [[cubic-gate-xdmg|Cubic Gate]]
+- [[cult-of-the-dragon-trinket-frhof|Cult of the Dragon Trinket]]
+- [[daerns-instant-fortress-xdmg|Daern's Instant Fortress]]
+- [[dagger-of-venom-xdmg|Dagger of Venom]]
+- [[dagger-xphb|Dagger]]
+- [[dancing-sword-xdmg|Dancing Sword]]
+- [[dark-shard-amulet-xdmg|Dark Shard Amulet]]
+- [[dart-xphb|Dart]]
+- [[decanter-of-endless-water-xdmg|Decanter of Endless Water]]
+- [[deck-of-illusions-xdmg|Deck of Illusions]]
+- [[deck-of-many-things-xdmg|Deck of Many Things]]
+- [[defender-xdmg|Defender]]
+- [[dekella-bident-of-thassa-mot|Dekella, Bident of Thassa]]
+- [[demon-armor-xdmg|Demon Armor]]
+- [[demonomicon-of-iggwilv-xdmg|Demonomicon of Iggwilv]]
+- [[desert-clothing-frhof|Desert Clothing]]
+- [[detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg|Detailed, life-sized dragonborn skull cast in electrum]]
+- [[devil-mask-frhof|Devil Mask]]
+- [[diamond-xdmg|Diamond]]
+- [[dice-set-xphb|Dice Set]]
+- [[dimensional-shackles-xdmg|Dimensional Shackles]]
+- [[diplomats-pack-xphb|Diplomat's Pack]]
+- [[disguise-kit-xphb|Disguise Kit]]
+- [[draft-horse-xphb|Draft Horse]]
+- [[dragon-scale-mail-xdmg|Dragon Scale Mail]]
+- [[dragon-slayer-xdmg|Dragon Slayer]]
+- [[dragonchess-set-xphb|Dragonchess Set]]
+- [[dread-helm-xdmg|Dread Helm]]
+- [[driftglobe-xdmg|Driftglobe]]
+- [[druidic-focus-xphb|Druidic Focus]]
+- [[drum-xphb|Drum]]
+- [[dulcimer-xphb|Dulcimer]]
+- [[dungeoneers-pack-xphb|Dungeoneer's Pack]]
+- [[dust-of-disappearance-xdmg|Dust of Disappearance]]
+- [[dust-of-dryness-xdmg|Dust of Dryness]]
+- [[dust-of-sneezing-and-choking-xdmg|Dust of Sneezing and Choking]]
+- [[dwarven-plate-xdmg|Dwarven Plate]]
+- [[dwarven-thrower-xdmg|Dwarven Thrower]]
+- [[dynamite-stick-xdmg|Dynamite Stick]]
+- [[ear-horn-of-hearing-xdmg|Ear Horn of Hearing]]
+- [[efreeti-bottle-xdmg|Efreeti Bottle]]
+- [[efreeti-chain-xdmg|Efreeti Chain]]
+- [[elemental-gem-blue-sapphire-xdmg|Elemental Gem, Blue Sapphire]]
+- [[elemental-gem-emerald-xdmg|Elemental Gem, Emerald]]
+- [[elemental-gem-red-corundum-xdmg|Elemental Gem, Red Corundum]]
+- [[elemental-gem-xdmg|Elemental Gem]]
+- [[elemental-gem-yellow-diamond-xdmg|Elemental Gem, Yellow Diamond]]
+- [[elephant-xphb|Elephant]]
+- [[elixir-of-health-xdmg|Elixir of Health]]
+- [[elven-chain-xdmg|Elven Chain]]
+- [[emblem-xphb|Emblem]]
+- [[embroidered-glove-set-with-jewel-chips-xdmg|Embroidered glove set with jewel chips]]
+- [[embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg|Embroidered silk and velvet mantle set with numerous moonstones]]
+- [[embroidered-silk-handkerchief-xdmg|Embroidered silk handkerchief]]
+- [[emerald-enclave-trinket-frhof|Emerald Enclave Trinket]]
+- [[emerald-xdmg|Emerald]]
+- [[enduring-spellbook-xdmg|Enduring Spellbook]]
+- [[energy-bow-xdmg|Energy Bow]]
+- [[energy-cell-xdmg|Energy Cell]]
+- [[enspelled-armor-cantrip-xdmg|Enspelled Armor (Cantrip)]]
+- [[enspelled-armor-level-1-xdmg|Enspelled Armor (Level 1)]]
+- [[enspelled-armor-level-2-xdmg|Enspelled Armor (Level 2)]]
+- [[enspelled-armor-level-3-xdmg|Enspelled Armor (Level 3)]]
+- [[enspelled-armor-level-4-xdmg|Enspelled Armor (Level 4)]]
+- [[enspelled-armor-level-5-xdmg|Enspelled Armor (Level 5)]]
+- [[enspelled-armor-level-6-xdmg|Enspelled Armor (Level 6)]]
+- [[enspelled-armor-level-7-xdmg|Enspelled Armor (Level 7)]]
+- [[enspelled-armor-level-8-xdmg|Enspelled Armor (Level 8)]]
+- [[enspelled-armor-xdmg|Enspelled Armor]]
+- [[enspelled-staff-cantrip-xdmg|Enspelled Staff (Cantrip)]]
+- [[enspelled-staff-level-1-xdmg|Enspelled Staff (Level 1)]]
+- [[enspelled-staff-level-2-xdmg|Enspelled Staff (Level 2)]]
+- [[enspelled-staff-level-3-xdmg|Enspelled Staff (Level 3)]]
+- [[enspelled-staff-level-4-xdmg|Enspelled Staff (Level 4)]]
+- [[enspelled-staff-level-5-xdmg|Enspelled Staff (Level 5)]]
+- [[enspelled-staff-level-6-xdmg|Enspelled Staff (Level 6)]]
+- [[enspelled-staff-level-7-xdmg|Enspelled Staff (Level 7)]]
+- [[enspelled-staff-level-8-xdmg|Enspelled Staff (Level 8)]]
+- [[enspelled-staff-xdmg|Enspelled Staff]]
+- [[enspelled-weapon-cantrip-xdmg|Enspelled Weapon (Cantrip)]]
+- [[enspelled-weapon-level-1-xdmg|Enspelled Weapon (Level 1)]]
+- [[enspelled-weapon-level-2-xdmg|Enspelled Weapon (Level 2)]]
+- [[enspelled-weapon-level-3-xdmg|Enspelled Weapon (Level 3)]]
+- [[enspelled-weapon-level-4-xdmg|Enspelled Weapon (Level 4)]]
+- [[enspelled-weapon-level-5-xdmg|Enspelled Weapon (Level 5)]]
+- [[enspelled-weapon-level-6-xdmg|Enspelled Weapon (Level 6)]]
+- [[enspelled-weapon-level-7-xdmg|Enspelled Weapon (Level 7)]]
+- [[enspelled-weapon-level-8-xdmg|Enspelled Weapon (Level 8)]]
+- [[enspelled-weapon-xdmg|Enspelled Weapon]]
+- [[entertainers-pack-xphb|Entertainer's Pack]]
+- [[ephixis-bow-of-nylea-mot|Ephixis, Bow of Nylea]]
+- [[ersatz-eye-xdmg|Ersatz Eye]]
+- [[essence-of-ether-xdmg|Essence of Ether]]
+- [[eversmoking-bottle-xdmg|Eversmoking Bottle]]
+- [[executioners-axe-xdmg|Executioner's Axe]]
+- [[exotic-saddle-xphb|Exotic Saddle]]
+- [[explorers-pack-xphb|Explorer's Pack]]
+- [[eye-agate-xdmg|Eye Agate]]
+- [[eye-and-hand-of-vecna-xdmg|Eye and Hand of Vecna]]
+- [[eye-of-vecna-xdmg|Eye of Vecna]]
+- [[eye-patch-decorated-with-tiny-blue-sapphires-and-moonstones-xdmg|Eye patch decorated with tiny blue sapphires and moonstones]]
+- [[eyes-of-charming-xdmg|Eyes of Charming]]
+- [[eyes-of-minute-seeing-xdmg|Eyes of Minute Seeing]]
+- [[eyes-of-the-eagle-xdmg|Eyes of the Eagle]]
+- [[feed-per-day-xphb|Feed (per day)]]
+- [[figurine-of-wondrous-power-bronze-griffon-xdmg|Figurine of Wondrous Power, Bronze Griffon]]
+- [[figurine-of-wondrous-power-ebony-fly-xdmg|Figurine of Wondrous Power, Ebony Fly]]
+- [[figurine-of-wondrous-power-golden-lions-xdmg|Figurine of Wondrous Power, Golden Lions]]
+- [[figurine-of-wondrous-power-ivory-goats-xdmg|Figurine of Wondrous Power, Ivory Goats]]
+- [[figurine-of-wondrous-power-marble-elephant-xdmg|Figurine of Wondrous Power, Marble Elephant]]
+- [[figurine-of-wondrous-power-obsidian-steed-xdmg|Figurine of Wondrous Power, Obsidian Steed]]
+- [[figurine-of-wondrous-power-onyx-dog-xdmg|Figurine of Wondrous Power, Onyx Dog]]
+- [[figurine-of-wondrous-power-serpentine-owl-xdmg|Figurine of Wondrous Power, Serpentine Owl]]
+- [[figurine-of-wondrous-power-silver-raven-xdmg|Figurine of Wondrous Power, Silver Raven]]
+- [[figurine-of-wondrous-power-xdmg|Figurine of Wondrous Power]]
+- [[fine-clothes-xphb|Fine Clothes]]
+- [[fine-gold-chain-set-with-a-fire-opal-xdmg|Fine gold chain set with a fire opal]]
+- [[fine-wine-bottle-xphb|Fine Wine (bottle)]]
+- [[fire-opal-xdmg|Fire Opal]]
+- [[firearm-bullet-xphb|Firearm Bullet]]
+- [[firearm-bullets-10-xphb|Firearm Bullets (10)]]
+- [[flail-xphb|Flail]]
+- [[flame-tongue-xdmg|Flame Tongue]]
+- [[flask-xphb|Flask]]
+- [[flour-xdmg|Flour]]
+- [[flute-xphb|Flute]]
+- [[flying-chariot-mot|Flying Chariot]]
+- [[flying-snake-frhof|Flying Snake]]
+- [[folding-boat-xdmg|Folding Boat]]
+- [[forgery-kit-xphb|Forgery Kit]]
+- [[fragmentation-grenade-xdmg|Fragmentation Grenade]]
+- [[frost-brand-xdmg|Frost Brand]]
+- [[galley-xphb|Galley]]
+- [[gaming-set-xphb|Gaming Set]]
+- [[garb-of-light-and-shadow-frhof|Garb of Light and Shadow]]
+- [[garnet-xdmg|Garnet]]
+- [[gauntlets-of-ogre-power-xdmg|Gauntlets of Ogre Power]]
+- [[gem-of-brightness-xdmg|Gem of Brightness]]
+- [[gem-of-seeing-xdmg|Gem of Seeing]]
+- [[genie-robe-frhof|Genie Robe]]
+- [[giant-slayer-xdmg|Giant Slayer]]
+- [[gilded-royal-coach-or-funeral-barge-xdmg|Gilded royal coach or funeral barge]]
+- [[ginger-xdmg|Ginger]]
+- [[glaive-xphb|Glaive]]
+- [[glamoured-studded-leather-xdmg|Glamoured Studded Leather]]
+- [[glass-bottle-xphb|Glass Bottle]]
+- [[glassblowers-tools-xphb|Glassblower's Tools]]
+- [[gloves-of-missile-snaring-xdmg|Gloves of Missile Snaring]]
+- [[gloves-of-swimming-and-climbing-xdmg|Gloves of Swimming and Climbing]]
+- [[gloves-of-thievery-xdmg|Gloves of Thievery]]
+- [[goat-xdmg|Goat]]
+- [[goggles-of-night-xdmg|Goggles of Night]]
+- [[gold-bar-5-pound-xdmg|Gold Bar (5-pound)]]
+- [[gold-birdcage-with-electrum-filigree-xdmg|Gold birdcage with electrum filigree]]
+- [[gold-bracelet-xdmg|Gold bracelet]]
+- [[gold-circlet-set-with-four-aquamarines-xdmg|Gold circlet set with four aquamarines]]
+- [[gold-comb-shaped-like-a-dragon-with-red-garnets-as-eyes-xdmg|Gold comb shaped like a dragon with red garnets as eyes]]
+- [[gold-cup-set-with-emeralds-xdmg|Gold cup set with emeralds]]
+- [[gold-dragon-scale-mail-xdmg|Gold Dragon Scale Mail]]
+- [[gold-idol-xdmg|Gold idol]]
+- [[gold-jewelry-box-with-platinum-filigree-xdmg|Gold jewelry box with platinum filigree]]
+- [[gold-locket-with-a-painted-portrait-inside-xdmg|Gold locket with a painted portrait inside]]
+- [[gold-music-box-xdmg|Gold music box]]
+- [[gold-ring-set-with-bloodstones-xdmg|Gold ring set with bloodstones]]
+- [[gold-statuette-set-with-rubies-xdmg|Gold statuette set with rubies]]
+- [[gold-xdmg|Gold]]
+- [[grappling-hook-xphb|Grappling Hook]]
+- [[greataxe-xphb|Greataxe]]
+- [[greatclub-xphb|Greatclub]]
+- [[greatsword-xphb|Greatsword]]
+- [[green-dragon-scale-mail-xdmg|Green Dragon Scale Mail]]
+- [[grenade-launcher-xdmg|Grenade Launcher]]
+- [[gunpowder-keg-xdmg|Gunpowder (keg)]]
+- [[gunpowder-powder-horn-xdmg|Gunpowder (powder horn)]]
+- [[hag-eye-xdmg|Hag Eye]]
+- [[halberd-xphb|Halberd]]
+- [[half-plate-armor-of-etherealness-xdmg|Half Plate Armor of Etherealness]]
+- [[half-plate-armor-xphb|Half Plate Armor]]
+- [[hammer-of-thunderbolts-xdmg|Hammer of Thunderbolts]]
+- [[hand-crossbow-xphb|Hand Crossbow]]
+- [[hand-of-vecna-xdmg|Hand of Vecna]]
+- [[handaxe-xphb|Handaxe]]
+- [[handheld-mirror-set-in-a-painted-wooden-frame-xdmg|Handheld mirror set in a painted wooden frame]]
+- [[harper-trinket-frhof|Harper Trinket]]
+- [[hat-of-disguise-xdmg|Hat of Disguise]]
+- [[hat-of-many-spells-xdmg|Hat of Many Spells]]
+- [[hat-of-vermin-xdmg|Hat of Vermin]]
+- [[hat-of-wizardry-xdmg|Hat of Wizardry]]
+- [[headband-of-intellect-xdmg|Headband of Intellect]]
+- [[healers-kit-xphb|Healer's Kit]]
+- [[heavy-crossbow-xphb|Heavy Crossbow]]
+- [[helm-of-brilliance-xdmg|Helm of Brilliance]]
+- [[helm-of-comprehending-languages-xdmg|Helm of Comprehending Languages]]
+- [[helm-of-telepathy-xdmg|Helm of Telepathy]]
+- [[helm-of-teleportation-xdmg|Helm of Teleportation]]
+- [[helm-of-the-gods-mot|Helm of the Gods]]
+- [[hematite-xdmg|Hematite]]
+- [[herbalism-kit-xphb|Herbalism Kit]]
+- [[hewards-handy-haversack-xdmg|Heward's Handy Haversack]]
+- [[hewards-handy-spice-pouch-xdmg|Heward's Handy Spice Pouch]]
+- [[hide-armor-xphb|Hide Armor]]
+- [[holy-avenger-xdmg|Holy Avenger]]
+- [[holy-symbol-xphb|Holy Symbol]]
+- [[holy-water-xphb|Holy Water]]
+- [[hooded-lantern-xphb|Hooded Lantern]]
+- [[horn-of-blasting-xdmg|Horn of Blasting]]
+- [[horn-of-silent-alarm-xdmg|Horn of Silent Alarm]]
+- [[horn-of-valhalla-brass-xdmg|Horn of Valhalla, Brass]]
+- [[horn-of-valhalla-bronze-xdmg|Horn of Valhalla, Bronze]]
+- [[horn-of-valhalla-iron-xdmg|Horn of Valhalla, Iron]]
+- [[horn-of-valhalla-silver-xdmg|Horn of Valhalla, Silver]]
+- [[horn-of-valhalla-xdmg|Horn of Valhalla]]
+- [[horn-xphb|Horn]]
+- [[horseshoes-of-a-zephyr-xdmg|Horseshoes of a Zephyr]]
+- [[horseshoes-of-speed-xdmg|Horseshoes of Speed]]
+- [[hunting-rifle-xdmg|Hunting Rifle]]
+- [[hunting-trap-xphb|Hunting Trap]]
+- [[immovable-rod-xdmg|Immovable Rod]]
+- [[ink-pen-xphb|Ink Pen]]
+- [[ink-xphb|Ink]]
+- [[instrument-of-illusions-xdmg|Instrument of Illusions]]
+- [[instrument-of-scribing-xdmg|Instrument of Scribing]]
+- [[instrument-of-the-bards-anstruth-harp-xdmg|Instrument of the Bards, Anstruth Harp]]
+- [[instrument-of-the-bards-canaith-mandolin-xdmg|Instrument of the Bards, Canaith Mandolin]]
+- [[instrument-of-the-bards-cli-lyre-xdmg|Instrument of the Bards, Cli Lyre]]
+- [[instrument-of-the-bards-doss-lute-xdmg|Instrument of the Bards, Doss Lute]]
+- [[instrument-of-the-bards-fochlucan-bandore-xdmg|Instrument of the Bards, Fochlucan Bandore]]
+- [[instrument-of-the-bards-mac-fuirmidh-cittern-xdmg|Instrument of the Bards, Mac-Fuirmidh Cittern]]
+- [[instrument-of-the-bards-ollamh-harp-xdmg|Instrument of the Bards, Ollamh Harp]]
+- [[instrument-of-the-bards-xdmg|Instrument of the Bards]]
+- [[ioun-stone-absorption-xdmg|Ioun Stone, Absorption]]
+- [[ioun-stone-agility-xdmg|Ioun Stone, Agility]]
+- [[ioun-stone-awareness-xdmg|Ioun Stone, Awareness]]
+- [[ioun-stone-fortitude-xdmg|Ioun Stone, Fortitude]]
+- [[ioun-stone-greater-absorption-xdmg|Ioun Stone, Greater Absorption]]
+- [[ioun-stone-insight-xdmg|Ioun Stone, Insight]]
+- [[ioun-stone-intellect-xdmg|Ioun Stone, Intellect]]
+- [[ioun-stone-leadership-xdmg|Ioun Stone, Leadership]]
+- [[ioun-stone-mastery-xdmg|Ioun Stone, Mastery]]
+- [[ioun-stone-protection-xdmg|Ioun Stone, Protection]]
+- [[ioun-stone-regeneration-xdmg|Ioun Stone, Regeneration]]
+- [[ioun-stone-reserve-xdmg|Ioun Stone, Reserve]]
+- [[ioun-stone-strength-xdmg|Ioun Stone, Strength]]
+- [[ioun-stone-sustenance-xdmg|Ioun Stone, Sustenance]]
+- [[ioun-stone-xdmg|Ioun Stone]]
+- [[iron-bands-of-bilarro-xdmg|Iron Bands of Bilarro]]
+- [[iron-flask-xdmg|Iron Flask]]
+- [[iron-pot-xphb|Iron Pot]]
+- [[iron-spike-xphb|Iron Spike]]
+- [[iron-spikes-xphb|Iron Spikes]]
+- [[iron-xdmg|Iron]]
+- [[jacinth-xdmg|Jacinth]]
+- [[jade-game-board-with-gold-playing-pieces-xdmg|Jade game board with gold playing pieces]]
+- [[jade-xdmg|Jade]]
+- [[jasper-xdmg|Jasper]]
+- [[javelin-of-lightning-xdmg|Javelin of Lightning]]
+- [[javelin-xphb|Javelin]]
+- [[jet-xdmg|Jet]]
+- [[jeweled-anklet-xdmg|Jeweled anklet]]
+- [[jeweled-gold-crown-xdmg|Jeweled gold crown]]
+- [[jeweled-platinum-ring-xdmg|Jeweled platinum ring]]
+- [[jewelers-tools-xphb|Jeweler's Tools]]
+- [[jug-xphb|Jug]]
+- [[keelboat-xphb|Keelboat]]
+- [[keoghtoms-ointment-xdmg|Keoghtom's Ointment]]
+- [[khrusor-spear-of-heliod-mot|Khrusor, Spear of Heliod]]
+- [[ladder-xphb|Ladder]]
+- [[lamp-xphb|Lamp]]
+- [[lance-xphb|Lance]]
+- [[lantern-of-revealing-xdmg|Lantern of Revealing]]
+- [[lapis-lazuli-xdmg|Lapis Lazuli]]
+- [[laser-pistol-xdmg|Laser Pistol]]
+- [[laser-rifle-xdmg|Laser Rifle]]
+- [[leather-armor-xphb|Leather Armor]]
+- [[leatherworkers-tools-xphb|Leatherworker's Tools]]
+- [[light-crossbow-xphb|Light Crossbow]]
+- [[light-hammer-xphb|Light Hammer]]
+- [[linen-1-sq-yd-xdmg|Linen (1 sq. yd.)]]
+- [[lock-of-trickery-xdmg|Lock of Trickery]]
+- [[lock-xphb|Lock]]
+- [[locking-spellbook-frhof|Locking Spellbook]]
+- [[lolths-sting-xdmg|Lolth's Sting]]
+- [[longbow-xphb|Longbow]]
+- [[longship-xphb|Longship]]
+- [[longsword-xphb|Longsword]]
+- [[lords-alliance-trinket-frhof|Lords' Alliance Trinket]]
+- [[luck-blade-xdmg|Luck Blade]]
+- [[lute-of-thunderous-thumping-xdmg|Lute of Thunderous Thumping]]
+- [[lute-xphb|Lute]]
+- [[lyre-xphb|Lyre]]
+- [[mace-of-disruption-xdmg|Mace of Disruption]]
+- [[mace-of-smiting-xdmg|Mace of Smiting]]
+- [[mace-of-terror-xdmg|Mace of Terror]]
+- [[mace-xphb|Mace]]
+- [[magnifying-glass-xphb|Magnifying Glass]]
+- [[malachite-xdmg|Malachite]]
+- [[malice-xdmg|Malice]]
+- [[manacles-xphb|Manacles]]
+- [[mantle-of-spell-resistance-xdmg|Mantle of Spell Resistance]]
+- [[manual-of-bodily-health-xdmg|Manual of Bodily Health]]
+- [[manual-of-clay-golems-xdmg|Manual of Clay Golems]]
+- [[manual-of-flesh-golems-xdmg|Manual of Flesh Golems]]
+- [[manual-of-gainful-exercise-xdmg|Manual of Gainful Exercise]]
+- [[manual-of-golems-xdmg|Manual of Golems]]
+- [[manual-of-iron-golems-xdmg|Manual of Iron Golems]]
+- [[manual-of-quickness-of-action-xdmg|Manual of Quickness of Action]]
+- [[manual-of-stone-golems-xdmg|Manual of Stone Golems]]
+- [[map-or-scroll-case-xphb|Map or Scroll Case]]
+- [[map-xphb|Map]]
+- [[mariners-armor-xdmg|Mariner's Armor]]
+- [[masons-tools-xphb|Mason's Tools]]
+- [[mastiff-xphb|Mastiff]]
+- [[mastix-whip-of-erebos-mot|Mastix, Whip of Erebos]]
+- [[maul-xphb|Maul]]
+- [[medallion-of-thoughts-xdmg|Medallion of Thoughts]]
+- [[midnight-tears-xdmg|Midnight Tears]]
+- [[military-saddle-xphb|Military Saddle]]
+- [[mirror-of-life-trapping-xdmg|Mirror of Life Trapping]]
+- [[mirror-xphb|Mirror]]
+- [[mithral-armor-xdmg|Mithral Armor]]
+- [[molten-bronze-skin-mot|Molten Bronze Skin]]
+- [[monster-camouflage-frhof|Monster Camouflage]]
+- [[moon-touched-sword-xdmg|Moon-Touched Sword]]
+- [[moonblade-xdmg|Moonblade]]
+- [[moonstone-xdmg|Moonstone]]
+- [[morningstar-xphb|Morningstar]]
+- [[moss-agate-xdmg|Moss Agate]]
+- [[mule-xphb|Mule]]
+- [[musical-instrument-frhof|Musical Instrument]]
+- [[musical-instrument-xphb|Musical Instrument]]
+- [[musket-xphb|Musket]]
+- [[mystery-key-xdmg|Mystery Key]]
+- [[natures-mantle-xdmg|Nature's Mantle]]
+- [[navigators-tools-xphb|Navigator's Tools]]
+- [[necklace-of-adaptation-xdmg|Necklace of Adaptation]]
+- [[necklace-of-fireballs-xdmg|Necklace of Fireballs]]
+- [[necklace-of-prayer-beads-xdmg|Necklace of Prayer Beads]]
+- [[necklace-string-of-small-pink-pearls-xdmg|Necklace string of small pink pearls]]
+- [[needle-xphb|Needle]]
+- [[needles-50-xphb|Needles (50)]]
+- [[net-xphb|Net]]
+- [[nine-lives-stealer-xdmg|Nine Lives Stealer]]
+- [[nolzurs-marvelous-pigments-xdmg|Nolzur's Marvelous Pigments]]
+- [[oathbow-xdmg|Oathbow]]
+- [[obsidian-statuette-with-gold-fittings-and-inlay-xdmg|Obsidian statuette with gold fittings and inlay]]
+- [[obsidian-xdmg|Obsidian]]
+- [[oil-of-etherealness-xdmg|Oil of Etherealness]]
+- [[oil-of-sharpness-xdmg|Oil of Sharpness]]
+- [[oil-of-slipperiness-xdmg|Oil of Slipperiness]]
+- [[oil-of-taggit-xdmg|Oil of Taggit]]
+- [[oil-xphb|Oil]]
+- [[old-masterpiece-painting-xdmg|Old masterpiece painting]]
+- [[onyx-xdmg|Onyx]]
+- [[opal-xdmg|Opal]]
+- [[orb-of-direction-xdmg|Orb of Direction]]
+- [[orb-of-dragonkind-xdmg|Orb of Dragonkind]]
+- [[orb-of-time-xdmg|Orb of Time]]
+- [[orb-xphb|Orb]]
+- [[order-of-the-gauntlet-trinket-frhof|Order of the Gauntlet Trinket]]
+- [[ox-xdmg|Ox]]
+- [[padded-armor-xphb|Padded Armor]]
+- [[painted-gold-war-mask-xdmg|Painted gold war mask]]
+- [[painters-supplies-xphb|Painter's Supplies]]
+- [[pair-of-engraved-bone-dice-xdmg|Pair of engraved bone dice]]
+- [[pale-tincture-xdmg|Pale Tincture]]
+- [[pan-flute-xphb|Pan Flute]]
+- [[paper-xphb|Paper]]
+- [[parchment-xphb|Parchment]]
+- [[pearl-of-power-xdmg|Pearl of Power]]
+- [[pearl-xdmg|Pearl]]
+- [[pepper-xdmg|Pepper]]
+- [[perfume-of-bewitching-xdmg|Perfume of Bewitching]]
+- [[perfume-xphb|Perfume]]
+- [[periapt-of-health-xdmg|Periapt of Health]]
+- [[periapt-of-proof-against-poison-xdmg|Periapt of Proof against Poison]]
+- [[periapt-of-wound-closure-xdmg|Periapt of Wound Closure]]
+- [[peridot-xdmg|Peridot]]
+- [[philter-of-love-xdmg|Philter of Love]]
+- [[pig-xdmg|Pig]]
+- [[pike-xphb|Pike]]
+- [[pipe-of-smoke-monsters-xdmg|Pipe of Smoke Monsters]]
+- [[pipes-of-haunting-xdmg|Pipes of Haunting]]
+- [[pipes-of-the-sewers-xdmg|Pipes of the Sewers]]
+- [[pistol-xphb|Pistol]]
+- [[plate-armor-of-etherealness-xdmg|Plate Armor of Etherealness]]
+- [[plate-armor-xphb|Plate Armor]]
+- [[platinum-bracelet-set-with-an-emerald-xdmg|Platinum bracelet set with an emerald]]
+- [[platinum-xdmg|Platinum]]
+- [[playing-cards-xphb|Playing Cards]]
+- [[poisoners-kit-xphb|Poisoner's Kit]]
+- [[pole-of-angling-xdmg|Pole of Angling]]
+- [[pole-of-collapsing-xdmg|Pole of Collapsing]]
+- [[pole-xphb|Pole]]
+- [[pony-xphb|Pony]]
+- [[portable-hole-xdmg|Portable Hole]]
+- [[portable-ram-xphb|Portable Ram]]
+- [[pot-of-awakening-xdmg|Pot of Awakening]]
+- [[potion-of-acid-resistance-xdmg|Potion of Acid Resistance]]
+- [[potion-of-animal-friendship-xdmg|Potion of Animal Friendship]]
+- [[potion-of-aqueous-form-mot|Potion of Aqueous Form]]
+- [[potion-of-clairvoyance-xdmg|Potion of Clairvoyance]]
+- [[potion-of-climbing-xdmg|Potion of Climbing]]
+- [[potion-of-cloud-giant-strength-xdmg|Potion of Cloud Giant Strength]]
+- [[potion-of-cold-resistance-xdmg|Potion of Cold Resistance]]
+- [[potion-of-comprehension-xdmg|Potion of Comprehension]]
+- [[potion-of-diminution-xdmg|Potion of Diminution]]
+- [[potion-of-fire-breath-xdmg|Potion of Fire Breath]]
+- [[potion-of-fire-giant-strength-xdmg|Potion of Fire Giant Strength]]
+- [[potion-of-fire-resistance-xdmg|Potion of Fire Resistance]]
+- [[potion-of-flying-xdmg|Potion of Flying]]
+- [[potion-of-force-resistance-xdmg|Potion of Force Resistance]]
+- [[potion-of-frost-giant-strength-xdmg|Potion of Frost Giant Strength]]
+- [[potion-of-gaseous-form-xdmg|Potion of Gaseous Form]]
+- [[potion-of-giant-strength-xdmg|Potion of Giant Strength]]
+- [[potion-of-greater-healing-xdmg|Potion of Greater Healing]]
+- [[potion-of-greater-invisibility-xdmg|Potion of Greater Invisibility]]
+- [[potion-of-growth-xdmg|Potion of Growth]]
+- [[potion-of-healing-xdmg|Potion of Healing]]
+- [[potion-of-heroism-xdmg|Potion of Heroism]]
+- [[potion-of-hill-giant-strength-xdmg|Potion of Hill Giant Strength]]
+- [[potion-of-invisibility-xdmg|Potion of Invisibility]]
+- [[potion-of-invulnerability-xdmg|Potion of Invulnerability]]
+- [[potion-of-lightning-resistance-xdmg|Potion of Lightning Resistance]]
+- [[potion-of-longevity-xdmg|Potion of Longevity]]
+- [[potion-of-mind-reading-xdmg|Potion of Mind Reading]]
+- [[potion-of-necrotic-resistance-xdmg|Potion of Necrotic Resistance]]
+- [[potion-of-poison-resistance-xdmg|Potion of Poison Resistance]]
+- [[potion-of-poison-xdmg|Potion of Poison]]
+- [[potion-of-psychic-resistance-xdmg|Potion of Psychic Resistance]]
+- [[potion-of-pugilism-xdmg|Potion of Pugilism]]
+- [[potion-of-radiant-resistance-xdmg|Potion of Radiant Resistance]]
+- [[potion-of-resistance-xdmg|Potion of Resistance]]
+- [[potion-of-speed-xdmg|Potion of Speed]]
+- [[potion-of-stone-giant-strength-xdmg|Potion of Stone Giant Strength]]
+- [[potion-of-storm-giant-strength-xdmg|Potion of Storm Giant Strength]]
+- [[potion-of-superior-healing-xdmg|Potion of Superior Healing]]
+- [[potion-of-supreme-healing-xdmg|Potion of Supreme Healing]]
+- [[potion-of-thunder-resistance-xdmg|Potion of Thunder Resistance]]
+- [[potion-of-vitality-xdmg|Potion of Vitality]]
+- [[potion-of-water-breathing-xdmg|Potion of Water Breathing]]
+- [[potions-of-healing-xdmg|Potions of Healing]]
+- [[potters-tools-xphb|Potter's Tools]]
+- [[pouch-xphb|Pouch]]
+- [[priests-pack-xphb|Priest's Pack]]
+- [[prosthetic-limb-frhof|Prosthetic Limb]]
+- [[prosthetic-limb-xdmg|Prosthetic Limb]]
+- [[psychic-blade-xphb|Psychic Blade]]
+- [[purple-dragon-knight-trinket-frhof|Purple Dragon Knight Trinket]]
+- [[purple-worm-poison-xdmg|Purple Worm Poison]]
+- [[pyxis-of-pandemonium-mot|Pyxis of Pandemonium]]
+- [[quaals-feather-token-anchor-xdmg|Quaal's Feather Token, Anchor]]
+- [[quaals-feather-token-bird-xdmg|Quaal's Feather Token, Bird]]
+- [[quaals-feather-token-fan-xdmg|Quaal's Feather Token, Fan]]
+- [[quaals-feather-token-swan-boat-xdmg|Quaal's Feather Token, Swan Boat]]
+- [[quaals-feather-token-tree-xdmg|Quaal's Feather Token, Tree]]
+- [[quaals-feather-token-whip-xdmg|Quaal's Feather Token, Whip]]
+- [[quaals-feather-token-xdmg|Quaal's Feather Token]]
+- [[quarterstaff-of-the-acrobat-xdmg|Quarterstaff of the Acrobat]]
+- [[quarterstaff-xphb|Quarterstaff]]
+- [[quartz-xdmg|Quartz]]
+- [[quiver-of-ehlonna-xdmg|Quiver of Ehlonna]]
+- [[quiver-xphb|Quiver]]
+- [[rapier-xphb|Rapier]]
+- [[rations-xphb|Rations]]
+- [[red-dragon-scale-mail-xdmg|Red Dragon Scale Mail]]
+- [[red-wizard-trinket-frhof|Red Wizard Trinket]]
+- [[reliquary-xphb|Reliquary]]
+- [[revolver-xdmg|Revolver]]
+- [[rhodochrosite-xdmg|Rhodochrosite]]
+- [[riding-horse-xphb|Riding Horse]]
+- [[riding-saddle-xphb|Riding Saddle]]
+- [[ring-mail-xphb|Ring Mail]]
+- [[ring-of-acid-resistance-xdmg|Ring of Acid Resistance]]
+- [[ring-of-animal-influence-xdmg|Ring of Animal Influence]]
+- [[ring-of-cold-resistance-xdmg|Ring of Cold Resistance]]
+- [[ring-of-djinni-summoning-xdmg|Ring of Djinni Summoning]]
+- [[ring-of-elemental-command-air-xdmg|Ring of Elemental Command (Air)]]
+- [[ring-of-elemental-command-earth-xdmg|Ring of Elemental Command (Earth)]]
+- [[ring-of-elemental-command-fire-xdmg|Ring of Elemental Command (Fire)]]
+- [[ring-of-elemental-command-water-xdmg|Ring of Elemental Command (Water)]]
+- [[ring-of-elemental-command-xdmg|Ring of Elemental Command]]
+- [[ring-of-evasion-xdmg|Ring of Evasion]]
+- [[ring-of-feather-falling-xdmg|Ring of Feather Falling]]
+- [[ring-of-fire-resistance-xdmg|Ring of Fire Resistance]]
+- [[ring-of-force-resistance-xdmg|Ring of Force Resistance]]
+- [[ring-of-free-action-xdmg|Ring of Free Action]]
+- [[ring-of-invisibility-xdmg|Ring of Invisibility]]
+- [[ring-of-jumping-xdmg|Ring of Jumping]]
+- [[ring-of-lightning-resistance-xdmg|Ring of Lightning Resistance]]
+- [[ring-of-mind-shielding-xdmg|Ring of Mind Shielding]]
+- [[ring-of-necrotic-resistance-xdmg|Ring of Necrotic Resistance]]
+- [[ring-of-poison-resistance-xdmg|Ring of Poison Resistance]]
+- [[ring-of-protection-xdmg|Ring of Protection]]
+- [[ring-of-psychic-resistance-xdmg|Ring of Psychic Resistance]]
+- [[ring-of-radiant-resistance-xdmg|Ring of Radiant Resistance]]
+- [[ring-of-regeneration-xdmg|Ring of Regeneration]]
+- [[ring-of-resistance-xdmg|Ring of Resistance]]
+- [[ring-of-shooting-stars-xdmg|Ring of Shooting Stars]]
+- [[ring-of-spell-storing-xdmg|Ring of Spell Storing]]
+- [[ring-of-spell-turning-xdmg|Ring of Spell Turning]]
+- [[ring-of-swimming-xdmg|Ring of Swimming]]
+- [[ring-of-telekinesis-xdmg|Ring of Telekinesis]]
+- [[ring-of-the-ram-xdmg|Ring of the Ram]]
+- [[ring-of-three-wishes-xdmg|Ring of Three Wishes]]
+- [[ring-of-thunder-resistance-xdmg|Ring of Thunder Resistance]]
+- [[ring-of-warmth-xdmg|Ring of Warmth]]
+- [[ring-of-water-walking-xdmg|Ring of Water Walking]]
+- [[ring-of-x-ray-vision-xdmg|Ring of X-ray Vision]]
+- [[rival-coin-xdmg|Rival Coin]]
+- [[robe-of-eyes-xdmg|Robe of Eyes]]
+- [[robe-of-scintillating-colors-xdmg|Robe of Scintillating Colors]]
+- [[robe-of-stars-xdmg|Robe of Stars]]
+- [[robe-of-the-archmagi-xdmg|Robe of the Archmagi]]
+- [[robe-of-useful-items-xdmg|Robe of Useful Items]]
+- [[robe-xphb|Robe]]
+- [[rod-of-absorption-xdmg|Rod of Absorption]]
+- [[rod-of-alertness-xdmg|Rod of Alertness]]
+- [[rod-of-lordly-might-xdmg|Rod of Lordly Might]]
+- [[rod-of-resurrection-xdmg|Rod of Resurrection]]
+- [[rod-of-rulership-xdmg|Rod of Rulership]]
+- [[rod-of-security-xdmg|Rod of Security]]
+- [[rod-of-the-pact-keeper-xdmg|Rod of the Pact Keeper]]
+- [[rod-xphb|Rod]]
+- [[rope-of-climbing-xdmg|Rope of Climbing]]
+- [[rope-of-entanglement-xdmg|Rope of Entanglement]]
+- [[rope-of-mending-xdmg|Rope of Mending]]
+- [[rope-xphb|Rope]]
+- [[rowboat-xphb|Rowboat]]
+- [[ruby-of-the-war-mage-xdmg|Ruby of the War Mage]]
+- [[ruby-xdmg|Ruby]]
+- [[sack-xphb|Sack]]
+- [[saddle-of-the-cavalier-xdmg|Saddle of the Cavalier]]
+- [[saffron-xdmg|Saffron]]
+- [[sailing-ship-xphb|Sailing Ship]]
+- [[salt-xdmg|Salt]]
+- [[sardonyx-xdmg|Sardonyx]]
+- [[scale-mail-xphb|Scale Mail]]
+- [[scarab-of-protection-xdmg|Scarab of Protection]]
+- [[scholars-pack-xphb|Scholar's Pack]]
+- [[scimitar-of-speed-xdmg|Scimitar of Speed]]
+- [[scimitar-xphb|Scimitar]]
+- [[scroll-of-protection-aberrations-xdmg|Scroll of Protection (Aberrations)]]
+- [[scroll-of-protection-beasts-xdmg|Scroll of Protection (Beasts)]]
+- [[scroll-of-protection-celestials-xdmg|Scroll of Protection (Celestials)]]
+- [[scroll-of-protection-constructs-xdmg|Scroll of Protection (Constructs)]]
+- [[scroll-of-protection-dragons-xdmg|Scroll of Protection (Dragons)]]
+- [[scroll-of-protection-elementals-xdmg|Scroll of Protection (Elementals)]]
+- [[scroll-of-protection-fey-xdmg|Scroll of Protection (Fey)]]
+- [[scroll-of-protection-fiends-xdmg|Scroll of Protection (Fiends)]]
+- [[scroll-of-protection-giants-xdmg|Scroll of Protection (Giants)]]
+- [[scroll-of-protection-humanoids-xdmg|Scroll of Protection (Humanoids)]]
+- [[scroll-of-protection-monstrosities-xdmg|Scroll of Protection (Monstrosities)]]
+- [[scroll-of-protection-oozes-xdmg|Scroll of Protection (Oozes)]]
+- [[scroll-of-protection-plants-xdmg|Scroll of Protection (Plants)]]
+- [[scroll-of-protection-undead-xdmg|Scroll of Protection (Undead)]]
+- [[scroll-of-protection-xdmg|Scroll of Protection]]
+- [[scroll-of-titan-summoning-animal-lord-xdmg|Scroll of Titan Summoning (Animal Lord)]]
+- [[scroll-of-titan-summoning-blob-of-annihilation-xdmg|Scroll of Titan Summoning (Blob of Annihilation)]]
+- [[scroll-of-titan-summoning-colossus-xdmg|Scroll of Titan Summoning (Colossus)]]
+- [[scroll-of-titan-summoning-elemental-cataclysm-xdmg|Scroll of Titan Summoning (Elemental Cataclysm)]]
+- [[scroll-of-titan-summoning-empyrean-xdmg|Scroll of Titan Summoning (Empyrean)]]
+- [[scroll-of-titan-summoning-kraken-xdmg|Scroll of Titan Summoning (Kraken)]]
+- [[scroll-of-titan-summoning-tarrasque-xdmg|Scroll of Titan Summoning (Tarrasque)]]
+- [[scroll-of-titan-summoning-xdmg|Scroll of Titan Summoning]]
+- [[semiautomatic-pistol-xdmg|Semiautomatic Pistol]]
+- [[sending-stones-xdmg|Sending Stones]]
+- [[sentinel-shield-xdmg|Sentinel Shield]]
+- [[serpent-venom-xdmg|Serpent Venom]]
+- [[set-of-gold-nesting-dolls-xdmg|Set of gold nesting dolls]]
+- [[shawm-xphb|Shawm]]
+- [[sheep-xdmg|Sheep]]
+- [[shield-of-expression-xdmg|Shield of Expression]]
+- [[shield-of-missile-attraction-xdmg|Shield of Missile Attraction]]
+- [[shield-of-the-cavalier-xdmg|Shield of the Cavalier]]
+- [[shield-xphb|Shield]]
+- [[shortbow-xphb|Shortbow]]
+- [[shortsword-xphb|Shortsword]]
+- [[shotgun-xdmg|Shotgun]]
+- [[shovel-xphb|Shovel]]
+- [[sickle-xphb|Sickle]]
+- [[signal-whistle-xphb|Signal Whistle]]
+- [[silk-vestments-with-gold-embroidery-xdmg|Silk vestments with gold embroidery]]
+- [[silk-xdmg|Silk]]
+- [[silver-and-gold-brooch-xdmg|Silver and gold brooch]]
+- [[silver-bar-2-pound-xdmg|Silver Bar (2-pound)]]
+- [[silver-bar-5-pound-xdmg|Silver Bar (5-pound)]]
+- [[silver-chalice-set-with-moonstones-xdmg|Silver chalice set with moonstones]]
+- [[silver-dragon-scale-mail-xdmg|Silver Dragon Scale Mail]]
+- [[silver-ewer-xdmg|Silver ewer]]
+- [[silver-necklace-with-a-gemstone-pendant-xdmg|Silver necklace with a gemstone pendant]]
+- [[silver-xdmg|Silver]]
+- [[silvered-weapon-xdmg|Silvered Weapon]]
+- [[siren-song-lyre-mot|Siren Song Lyre]]
+- [[sled-dog-frhof|Sled Dog]]
+- [[sled-xphb|Sled]]
+- [[sling-bullet-xphb|Sling Bullet]]
+- [[sling-bullets-20-xphb|Sling Bullets (20)]]
+- [[sling-bullets-of-althemone-mot|Sling Bullets of Althemone]]
+- [[sling-xphb|Sling]]
+- [[slippers-of-spider-climbing-xdmg|Slippers of Spider Climbing]]
+- [[smiths-tools-xphb|Smith's Tools]]
+- [[smoke-grenade-xdmg|Smoke Grenade]]
+- [[smoldering-armor-xdmg|Smoldering Armor]]
+- [[sovereign-glue-xdmg|Sovereign Glue]]
+- [[spear-xphb|Spear]]
+- [[spell-scroll-cantrip-xdmg|Spell Scroll (Cantrip)]]
+- [[spell-scroll-level-1-xdmg|Spell Scroll (Level 1)]]
+- [[spell-scroll-level-2-xdmg|Spell Scroll (Level 2)]]
+- [[spell-scroll-level-3-xdmg|Spell Scroll (Level 3)]]
+- [[spell-scroll-level-4-xdmg|Spell Scroll (Level 4)]]
+- [[spell-scroll-level-5-xdmg|Spell Scroll (Level 5)]]
+- [[spell-scroll-level-6-xdmg|Spell Scroll (Level 6)]]
+- [[spell-scroll-level-7-xdmg|Spell Scroll (Level 7)]]
+- [[spell-scroll-level-8-xdmg|Spell Scroll (Level 8)]]
+- [[spell-scroll-level-9-xdmg|Spell Scroll (Level 9)]]
+- [[spell-scroll-xdmg|Spell Scroll]]
+- [[spellguard-shield-xdmg|Spellguard Shield]]
+- [[sphere-of-annihilation-xdmg|Sphere of Annihilation]]
+- [[spinel-xdmg|Spinel]]
+- [[spirit-board-xdmg|Spirit Board]]
+- [[splint-armor-xphb|Splint Armor]]
+- [[sprig-of-mistletoe-xphb|Sprig of Mistletoe]]
+- [[spyglass-xphb|Spyglass]]
+- [[stabling-per-day-xphb|Stabling (per day)]]
+- [[staff-of-adornment-xdmg|Staff of Adornment]]
+- [[staff-of-birdcalls-xdmg|Staff of Birdcalls]]
+- [[staff-of-charming-xdmg|Staff of Charming]]
+- [[staff-of-fire-xdmg|Staff of Fire]]
+- [[staff-of-flowers-xdmg|Staff of Flowers]]
+- [[staff-of-frost-xdmg|Staff of Frost]]
+- [[staff-of-healing-xdmg|Staff of Healing]]
+- [[staff-of-power-xdmg|Staff of Power]]
+- [[staff-of-striking-xdmg|Staff of Striking]]
+- [[staff-of-swarming-insects-xdmg|Staff of Swarming Insects]]
+- [[staff-of-the-adder-xdmg|Staff of the Adder]]
+- [[staff-of-the-magi-xdmg|Staff of the Magi]]
+- [[staff-of-the-python-xdmg|Staff of the Python]]
+- [[staff-of-the-woodlands-xdmg|Staff of the Woodlands]]
+- [[staff-of-thunder-and-lightning-xdmg|Staff of Thunder and Lightning]]
+- [[staff-of-withering-xdmg|Staff of Withering]]
+- [[staff-xphb|Staff]]
+- [[star-rose-quartz-xdmg|Star rose quartz]]
+- [[star-ruby-xdmg|Star Ruby]]
+- [[star-sapphire-xdmg|Star Sapphire]]
+- [[stone-of-controlling-earth-elementals-xdmg|Stone of Controlling Earth Elementals]]
+- [[stone-of-good-luck-xdmg|Stone of Good Luck]]
+- [[string-xphb|String]]
+- [[studded-leather-armor-xphb|Studded Leather Armor]]
+- [[sun-blade-xdmg|Sun Blade]]
+- [[sword-of-answering-xdmg|Sword of Answering]]
+- [[sword-of-kas-xdmg|Sword of Kas]]
+- [[sword-of-life-stealing-xdmg|Sword of Life Stealing]]
+- [[sword-of-sharpness-xdmg|Sword of Sharpness]]
+- [[sword-of-vengeance-xdmg|Sword of Vengeance]]
+- [[sword-of-wounding-xdmg|Sword of Wounding]]
+- [[sylvan-talon-xdmg|Sylvan Talon]]
+- [[talisman-of-pure-good-xdmg|Talisman of Pure Good]]
+- [[talisman-of-the-sphere-xdmg|Talisman of the Sphere]]
+- [[talisman-of-ultimate-evil-xdmg|Talisman of Ultimate Evil]]
+- [[talking-doll-xdmg|Talking Doll]]
+- [[tankard-of-sobriety-xdmg|Tankard of Sobriety]]
+- [[tent-xphb|Tent]]
+- [[tentacle-rod-xdmg|Tentacle Rod]]
+- [[thayan-spell-tattoo-frhof|Thayan Spell Tattoo]]
+- [[thieves-tools-xphb|Thieves' Tools]]
+- [[three-dragon-ante-set-xphb|Three-Dragon Ante Set]]
+- [[thunderous-greatclub-xdmg|Thunderous Greatclub]]
+- [[tiger-eye-xdmg|Tiger Eye]]
+- [[tinderbox-xphb|Tinderbox]]
+- [[tinkers-tools-xphb|Tinker's Tools]]
+- [[tome-of-clear-thought-xdmg|Tome of Clear Thought]]
+- [[tome-of-leadership-and-influence-xdmg|Tome of Leadership and Influence]]
+- [[tome-of-the-stilled-tongue-xdmg|Tome of the Stilled Tongue]]
+- [[tome-of-understanding-xdmg|Tome of Understanding]]
+- [[topaz-xdmg|Topaz]]
+- [[torch-xphb|Torch]]
+- [[torpor-xdmg|Torpor]]
+- [[tourmaline-xdmg|Tourmaline]]
+- [[travelers-clothes-xphb|Traveler's Clothes]]
+- [[trident-of-fish-command-xdmg|Trident of Fish Command]]
+- [[trident-xphb|Trident]]
+- [[trinket-xphb|Trinket]]
+- [[truth-serum-xdmg|Truth Serum]]
+- [[turquoise-xdmg|Turquoise]]
+- [[two-birds-sling-mot|Two-Birds Sling]]
+- [[universal-solvent-xdmg|Universal Solvent]]
+- [[veterans-cane-xdmg|Veteran's Cane]]
+- [[vial-xphb|Vial]]
+- [[vicious-weapon-xdmg|Vicious Weapon]]
+- [[viol-xphb|Viol]]
+- [[vorpal-sword-xdmg|Vorpal Sword]]
+- [[wagon-xphb|Wagon]]
+- [[walloping-ammunition-xdmg|Walloping Ammunition]]
+- [[wand-of-binding-xdmg|Wand of Binding]]
+- [[wand-of-conducting-xdmg|Wand of Conducting]]
+- [[wand-of-enemy-detection-xdmg|Wand of Enemy Detection]]
+- [[wand-of-fear-xdmg|Wand of Fear]]
+- [[wand-of-fireballs-xdmg|Wand of Fireballs]]
+- [[wand-of-lightning-bolts-xdmg|Wand of Lightning Bolts]]
+- [[wand-of-magic-detection-xdmg|Wand of Magic Detection]]
+- [[wand-of-magic-missiles-xdmg|Wand of Magic Missiles]]
+- [[wand-of-orcus-xdmg|Wand of Orcus]]
+- [[wand-of-paralysis-xdmg|Wand of Paralysis]]
+- [[wand-of-polymorph-xdmg|Wand of Polymorph]]
+- [[wand-of-pyrotechnics-xdmg|Wand of Pyrotechnics]]
+- [[wand-of-secrets-xdmg|Wand of Secrets]]
+- [[wand-of-the-war-mage-xdmg|Wand of the War Mage]]
+- [[wand-of-web-xdmg|Wand of Web]]
+- [[wand-of-wonder-xdmg|Wand of Wonder]]
+- [[wand-xphb|Wand]]
+- [[war-pick-xphb|War Pick]]
+- [[warhammer-xphb|Warhammer]]
+- [[warhorse-xphb|Warhorse]]
+- [[warm-fungal-clothing-frhof|Warm Fungal Clothing]]
+- [[warship-xphb|Warship]]
+- [[waterskin-xphb|Waterskin]]
+- [[wave-xdmg|Wave]]
+- [[weapon-of-warning-xdmg|Weapon of Warning]]
+- [[weavers-tools-xphb|Weaver's Tools]]
+- [[well-made-tapestry-that-is-10-feet-by-10-feet-xdmg|Well-made tapestry that is 10 feet by 10 feet]]
+- [[well-of-many-worlds-xdmg|Well of Many Worlds]]
+- [[wheat-xdmg|Wheat]]
+- [[whelm-xdmg|Whelm]]
+- [[whip-xphb|Whip]]
+- [[white-dragon-scale-mail-xdmg|White Dragon Scale Mail]]
+- [[wind-fan-xdmg|Wind Fan]]
+- [[windskiff-fraif|Windskiff]]
+- [[winged-boots-xdmg|Winged Boots]]
+- [[wings-of-flying-xdmg|Wings of Flying]]
+- [[winter-camouflage-frhof|Winter Camouflage]]
+- [[woodcarvers-tools-xphb|Woodcarver's Tools]]
+- [[wooden-staff-xphb|Wooden Staff]]
+- [[wraps-of-unarmed-power-xdmg|Wraps of Unarmed Power]]
+- [[wyvern-poison-xdmg|Wyvern Poison]]
+- [[yarting-frhof|Yarting]]
+- [[yellow-sapphire-xdmg|Yellow Sapphire]]
+- [[yew-wand-xphb|Yew Wand]]
+- [[zhentarim-trinket-frhof|Zhentarim Trinket]]
+- [[zircon-xdmg|Zircon]]

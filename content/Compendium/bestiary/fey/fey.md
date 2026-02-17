@@ -7,44 +7,44 @@ cssclasses:
 ---
 # Index of Fey
 
-- [Alseid](./alseid-mot.md)
-- [Annis Hag (Coven; Death)](./annis-hag-coven-death-vgm.md)
-- [Annis Hag (Coven; Nature)](./annis-hag-coven-nature-vgm.md)
-- [Annis Hag (Coven; Prophecy)](./annis-hag-coven-prophecy-vgm.md)
-- [Annis Hag (Coven)](./annis-hag-coven-vgm.md)
-- [Annis Hag](./annis-hag-vgm.md)
-- [Arch-hag](./arch-hag-xmm.md)
-- [Blink Dog](./blink-dog-xmm.md)
-- [Bugbear Stalker](./bugbear-stalker-xmm.md)
-- [Bugbear Warrior](./bugbear-warrior-xmm.md)
-- [Bullywug Bog Sage](./bullywug-bog-sage-xmm.md)
-- [Bullywug Warrior](./bullywug-warrior-xmm.md)
-- [Centaur Trooper](./centaur-trooper-xmm.md)
-- [Centaur Warden](./centaur-warden-xmm.md)
-- [Dire Worg](./dire-worg-xmm.md)
-- [Dryad](./dryad-xmm.md)
-- [Fey Spirit (Fuming)](./fey-spirit-fuming-xphb.md)
-- [Fey Spirit (Mirthful)](./fey-spirit-mirthful-xphb.md)
-- [Fey Spirit (Tricksy)](./fey-spirit-tricksy-xphb.md)
-- [Fey Spirit](./fey-spirit-xphb.md)
-- [Goblin Boss](./goblin-boss-xmm.md)
-- [Goblin Hexer](./goblin-hexer-xmm.md)
-- [Goblin Minion](./goblin-minion-xmm.md)
-- [Goblin Warrior](./goblin-warrior-xmm.md)
-- [Green Hag](./green-hag-xmm.md)
-- [Hobgoblin Captain](./hobgoblin-captain-xmm.md)
-- [Hobgoblin Warlord](./hobgoblin-warlord-xmm.md)
-- [Hobgoblin Warrior](./hobgoblin-warrior-xmm.md)
-- [Lampad](./lampad-mot.md)
-- [Naiad](./naiad-mot.md)
-- [Oread](./oread-mot.md)
-- [Otherworldly Steed (Fey)](./otherworldly-steed-fey-xphb.md)
-- [Pixie Wonderbringer](./pixie-wonderbringer-xmm.md)
-- [Pixie](./pixie-xmm.md)
-- [Satyr Reveler](./satyr-reveler-mot.md)
-- [Satyr Revelmaster](./satyr-revelmaster-xmm.md)
-- [Satyr Thornbearer](./satyr-thornbearer-mot.md)
-- [Satyr](./satyr-xmm.md)
-- [Sea Hag](./sea-hag-xmm.md)
-- [Sprite](./sprite-xmm.md)
-- [Worg](./worg-xmm.md)
+- [[alseid-mot|Alseid]]
+- [[annis-hag-coven-death-vgm|Annis Hag (Coven; Death)]]
+- [[annis-hag-coven-nature-vgm|Annis Hag (Coven; Nature)]]
+- [[annis-hag-coven-prophecy-vgm|Annis Hag (Coven; Prophecy)]]
+- [[annis-hag-coven-vgm|Annis Hag (Coven)]]
+- [[annis-hag-vgm|Annis Hag]]
+- [[arch-hag-xmm|Arch-hag]]
+- [[blink-dog-xmm|Blink Dog]]
+- [[bugbear-stalker-xmm|Bugbear Stalker]]
+- [[bugbear-warrior-xmm|Bugbear Warrior]]
+- [[bullywug-bog-sage-xmm|Bullywug Bog Sage]]
+- [[bullywug-warrior-xmm|Bullywug Warrior]]
+- [[centaur-trooper-xmm|Centaur Trooper]]
+- [[centaur-warden-xmm|Centaur Warden]]
+- [[dire-worg-xmm|Dire Worg]]
+- [[dryad-xmm|Dryad]]
+- [[fey-spirit-fuming-xphb|Fey Spirit (Fuming)]]
+- [[fey-spirit-mirthful-xphb|Fey Spirit (Mirthful)]]
+- [[fey-spirit-tricksy-xphb|Fey Spirit (Tricksy)]]
+- [[fey-spirit-xphb|Fey Spirit]]
+- [[goblin-boss-xmm|Goblin Boss]]
+- [[goblin-hexer-xmm|Goblin Hexer]]
+- [[goblin-minion-xmm|Goblin Minion]]
+- [[goblin-warrior-xmm|Goblin Warrior]]
+- [[green-hag-xmm|Green Hag]]
+- [[hobgoblin-captain-xmm|Hobgoblin Captain]]
+- [[hobgoblin-warlord-xmm|Hobgoblin Warlord]]
+- [[hobgoblin-warrior-xmm|Hobgoblin Warrior]]
+- [[lampad-mot|Lampad]]
+- [[naiad-mot|Naiad]]
+- [[oread-mot|Oread]]
+- [[otherworldly-steed-fey-xphb|Otherworldly Steed (Fey)]]
+- [[pixie-wonderbringer-xmm|Pixie Wonderbringer]]
+- [[pixie-xmm|Pixie]]
+- [[satyr-reveler-mot|Satyr Reveler]]
+- [[satyr-revelmaster-xmm|Satyr Revelmaster]]
+- [[satyr-thornbearer-mot|Satyr Thornbearer]]
+- [[satyr-xmm|Satyr]]
+- [[sea-hag-xmm|Sea Hag]]
+- [[sprite-xmm|Sprite]]
+- [[worg-xmm|Worg]]

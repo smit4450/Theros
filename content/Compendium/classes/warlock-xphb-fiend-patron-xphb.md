@@ -10,7 +10,7 @@ aliases:
 - Fiend Patron
 ---
 # Fiend Patron
-*[Warlock](./warlock-xphb.md): Warlock Subclass*  
+*[[warlock-xphb|Warlock]]: Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression

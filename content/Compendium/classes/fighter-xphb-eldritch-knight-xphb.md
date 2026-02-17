@@ -10,7 +10,7 @@ aliases:
 - Eldritch Knight
 ---
 # Eldritch Knight
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
+*[[fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 96*  
 
 > [!tldr] Class and Feature Progression

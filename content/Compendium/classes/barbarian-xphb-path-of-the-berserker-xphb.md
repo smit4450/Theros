@@ -10,7 +10,7 @@ aliases:
 - Path of the Berserker
 ---
 # Path of the Berserker
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
+*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression

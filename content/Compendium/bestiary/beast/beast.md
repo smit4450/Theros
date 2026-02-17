@@ -7,106 +7,106 @@ cssclasses:
 ---
 # Index of Beast
 
-- [Allosaurus](./allosaurus-xmm.md)
-- [Ankylosaurus](./ankylosaurus-xmm.md)
-- [Ape](./ape-xmm.md)
-- [Archelon](./archelon-xmm.md)
-- [Baboon](./baboon-xmm.md)
-- [Badger](./badger-xmm.md)
-- [Bat](./bat-xmm.md)
-- [Beast of the Land](./beast-of-the-land-xphb.md)
-- [Beast of the Sea](./beast-of-the-sea-xphb.md)
-- [Beast of the Sky](./beast-of-the-sky-xphb.md)
-- [Bestial Spirit (Air)](./bestial-spirit-air-xphb.md)
-- [Bestial Spirit (Land)](./bestial-spirit-land-xphb.md)
-- [Bestial Spirit (Water)](./bestial-spirit-water-xphb.md)
-- [Bestial Spirit](./bestial-spirit-xphb.md)
-- [Black Bear](./black-bear-xmm.md)
-- [Blood Hawk](./blood-hawk-xmm.md)
-- [Boar](./boar-xmm.md)
-- [Brown Bear](./brown-bear-xmm.md)
-- [Camel](./camel-xmm.md)
-- [Cat](./cat-xmm.md)
-- [Constrictor Snake](./constrictor-snake-xmm.md)
-- [Crab](./crab-xmm.md)
-- [Crocodile](./crocodile-xmm.md)
-- [Deer](./deer-xmm.md)
-- [Dire Wolf](./dire-wolf-xmm.md)
-- [Draft Horse](./draft-horse-xmm.md)
-- [Eagle](./eagle-xmm.md)
-- [Elephant](./elephant-xmm.md)
-- [Elk](./elk-xmm.md)
-- [Frog](./frog-xmm.md)
-- [Giant Ape](./giant-ape-xmm.md)
-- [Giant Badger](./giant-badger-xmm.md)
-- [Giant Bat](./giant-bat-xmm.md)
-- [Giant Boar](./giant-boar-xmm.md)
-- [Giant Centipede](./giant-centipede-xmm.md)
-- [Giant Constrictor Snake](./giant-constrictor-snake-xmm.md)
-- [Giant Crab](./giant-crab-xmm.md)
-- [Giant Crocodile](./giant-crocodile-xmm.md)
-- [Giant Fire Beetle](./giant-fire-beetle-xmm.md)
-- [Giant Fly](./giant-fly-xdmg.md)
-- [Giant Frog](./giant-frog-xmm.md)
-- [Giant Goat](./giant-goat-xmm.md)
-- [Giant Hyena](./giant-hyena-xmm.md)
-- [Giant Insect (Centipede)](./giant-insect-centipede-xphb.md)
-- [Giant Insect (Spider)](./giant-insect-spider-xphb.md)
-- [Giant Insect (Wasp)](./giant-insect-wasp-xphb.md)
-- [Giant Insect](./giant-insect-xphb.md)
-- [Giant Lizard](./giant-lizard-xmm.md)
-- [Giant Octopus](./giant-octopus-xmm.md)
-- [Giant Rat](./giant-rat-xmm.md)
-- [Giant Scorpion](./giant-scorpion-xmm.md)
-- [Giant Seahorse](./giant-seahorse-xmm.md)
-- [Giant Shark](./giant-shark-xmm.md)
-- [Giant Spider](./giant-spider-xmm.md)
-- [Giant Squid](./giant-squid-xmm.md)
-- [Giant Toad](./giant-toad-xmm.md)
-- [Giant Venomous Snake](./giant-venomous-snake-xmm.md)
-- [Giant Wasp](./giant-wasp-xmm.md)
-- [Giant Weasel](./giant-weasel-xmm.md)
-- [Giant Wolf Spider](./giant-wolf-spider-xmm.md)
-- [Goat](./goat-xmm.md)
-- [Hawk](./hawk-xmm.md)
-- [Hippopotamus](./hippopotamus-xmm.md)
-- [Hunter Shark](./hunter-shark-xmm.md)
-- [Hyena](./hyena-xmm.md)
-- [Jackal](./jackal-xmm.md)
-- [Killer Whale](./killer-whale-xmm.md)
-- [Lion](./lion-xmm.md)
-- [Lizard](./lizard-xmm.md)
-- [Mammoth](./mammoth-xmm.md)
-- [Mastiff](./mastiff-xmm.md)
-- [Mule](./mule-xmm.md)
-- [Octopus](./octopus-xmm.md)
-- [Owl](./owl-xmm.md)
-- [Panther](./panther-xmm.md)
-- [Piranha](./piranha-xmm.md)
-- [Plesiosaurus](./plesiosaurus-xmm.md)
-- [Polar Bear](./polar-bear-xmm.md)
-- [Pony](./pony-xmm.md)
-- [Pteranodon](./pteranodon-xmm.md)
-- [Rat](./rat-xmm.md)
-- [Raven](./raven-xmm.md)
-- [Reef Shark](./reef-shark-xmm.md)
-- [Rhinoceros](./rhinoceros-xmm.md)
-- [Riding Horse](./riding-horse-xmm.md)
-- [Saber-Toothed Tiger](./saber-toothed-tiger-xmm.md)
-- [Scorpion](./scorpion-xmm.md)
-- [Seahorse](./seahorse-xmm.md)
-- [Spider](./spider-xmm.md)
-- [Swarm of Bats](./swarm-of-bats-xmm.md)
-- [Swarm of Insects](./swarm-of-insects-xmm.md)
-- [Swarm of Piranhas](./swarm-of-piranhas-xmm.md)
-- [Swarm of Rats](./swarm-of-rats-xmm.md)
-- [Swarm of Ravens](./swarm-of-ravens-xmm.md)
-- [Swarm of Venomous Snakes](./swarm-of-venomous-snakes-xmm.md)
-- [Tiger](./tiger-xmm.md)
-- [Triceratops](./triceratops-xmm.md)
-- [Tyrannosaurus Rex](./tyrannosaurus-rex-xmm.md)
-- [Venomous Snake](./venomous-snake-xmm.md)
-- [Vulture](./vulture-xmm.md)
-- [Warhorse](./warhorse-xmm.md)
-- [Weasel](./weasel-xmm.md)
-- [Wolf](./wolf-xmm.md)
+- [[allosaurus-xmm|Allosaurus]]
+- [[ankylosaurus-xmm|Ankylosaurus]]
+- [[ape-xmm|Ape]]
+- [[archelon-xmm|Archelon]]
+- [[baboon-xmm|Baboon]]
+- [[badger-xmm|Badger]]
+- [[bat-xmm|Bat]]
+- [[beast-of-the-land-xphb|Beast of the Land]]
+- [[beast-of-the-sea-xphb|Beast of the Sea]]
+- [[beast-of-the-sky-xphb|Beast of the Sky]]
+- [[bestial-spirit-air-xphb|Bestial Spirit (Air)]]
+- [[bestial-spirit-land-xphb|Bestial Spirit (Land)]]
+- [[bestial-spirit-water-xphb|Bestial Spirit (Water)]]
+- [[bestial-spirit-xphb|Bestial Spirit]]
+- [[black-bear-xmm|Black Bear]]
+- [[blood-hawk-xmm|Blood Hawk]]
+- [[boar-xmm|Boar]]
+- [[brown-bear-xmm|Brown Bear]]
+- [[camel-xmm|Camel]]
+- [[cat-xmm|Cat]]
+- [[constrictor-snake-xmm|Constrictor Snake]]
+- [[crab-xmm|Crab]]
+- [[crocodile-xmm|Crocodile]]
+- [[deer-xmm|Deer]]
+- [[dire-wolf-xmm|Dire Wolf]]
+- [[draft-horse-xmm|Draft Horse]]
+- [[eagle-xmm|Eagle]]
+- [[elephant-xmm|Elephant]]
+- [[elk-xmm|Elk]]
+- [[frog-xmm|Frog]]
+- [[giant-ape-xmm|Giant Ape]]
+- [[giant-badger-xmm|Giant Badger]]
+- [[giant-bat-xmm|Giant Bat]]
+- [[giant-boar-xmm|Giant Boar]]
+- [[giant-centipede-xmm|Giant Centipede]]
+- [[giant-constrictor-snake-xmm|Giant Constrictor Snake]]
+- [[giant-crab-xmm|Giant Crab]]
+- [[giant-crocodile-xmm|Giant Crocodile]]
+- [[giant-fire-beetle-xmm|Giant Fire Beetle]]
+- [[giant-fly-xdmg|Giant Fly]]
+- [[giant-frog-xmm|Giant Frog]]
+- [[giant-goat-xmm|Giant Goat]]
+- [[giant-hyena-xmm|Giant Hyena]]
+- [[giant-insect-centipede-xphb|Giant Insect (Centipede)]]
+- [[giant-insect-spider-xphb|Giant Insect (Spider)]]
+- [[giant-insect-wasp-xphb|Giant Insect (Wasp)]]
+- [[giant-insect-xphb|Giant Insect]]
+- [[giant-lizard-xmm|Giant Lizard]]
+- [[giant-octopus-xmm|Giant Octopus]]
+- [[giant-rat-xmm|Giant Rat]]
+- [[giant-scorpion-xmm|Giant Scorpion]]
+- [[giant-seahorse-xmm|Giant Seahorse]]
+- [[giant-shark-xmm|Giant Shark]]
+- [[giant-spider-xmm|Giant Spider]]
+- [[giant-squid-xmm|Giant Squid]]
+- [[giant-toad-xmm|Giant Toad]]
+- [[giant-venomous-snake-xmm|Giant Venomous Snake]]
+- [[giant-wasp-xmm|Giant Wasp]]
+- [[giant-weasel-xmm|Giant Weasel]]
+- [[giant-wolf-spider-xmm|Giant Wolf Spider]]
+- [[goat-xmm|Goat]]
+- [[hawk-xmm|Hawk]]
+- [[hippopotamus-xmm|Hippopotamus]]
+- [[hunter-shark-xmm|Hunter Shark]]
+- [[hyena-xmm|Hyena]]
+- [[jackal-xmm|Jackal]]
+- [[killer-whale-xmm|Killer Whale]]
+- [[lion-xmm|Lion]]
+- [[lizard-xmm|Lizard]]
+- [[mammoth-xmm|Mammoth]]
+- [[mastiff-xmm|Mastiff]]
+- [[mule-xmm|Mule]]
+- [[octopus-xmm|Octopus]]
+- [[owl-xmm|Owl]]
+- [[panther-xmm|Panther]]
+- [[piranha-xmm|Piranha]]
+- [[plesiosaurus-xmm|Plesiosaurus]]
+- [[polar-bear-xmm|Polar Bear]]
+- [[pony-xmm|Pony]]
+- [[pteranodon-xmm|Pteranodon]]
+- [[rat-xmm|Rat]]
+- [[raven-xmm|Raven]]
+- [[reef-shark-xmm|Reef Shark]]
+- [[rhinoceros-xmm|Rhinoceros]]
+- [[riding-horse-xmm|Riding Horse]]
+- [[saber-toothed-tiger-xmm|Saber-Toothed Tiger]]
+- [[scorpion-xmm|Scorpion]]
+- [[seahorse-xmm|Seahorse]]
+- [[spider-xmm|Spider]]
+- [[swarm-of-bats-xmm|Swarm of Bats]]
+- [[swarm-of-insects-xmm|Swarm of Insects]]
+- [[swarm-of-piranhas-xmm|Swarm of Piranhas]]
+- [[swarm-of-rats-xmm|Swarm of Rats]]
+- [[swarm-of-ravens-xmm|Swarm of Ravens]]
+- [[swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]]
+- [[tiger-xmm|Tiger]]
+- [[triceratops-xmm|Triceratops]]
+- [[tyrannosaurus-rex-xmm|Tyrannosaurus Rex]]
+- [[venomous-snake-xmm|Venomous Snake]]
+- [[vulture-xmm|Vulture]]
+- [[warhorse-xmm|Warhorse]]
+- [[weasel-xmm|Weasel]]
+- [[wolf-xmm|Wolf]]

@@ -7,37 +7,37 @@ cssclasses:
 ---
 # Index of Construct
 
-- [Animated Armor](./animated-armor-xmm.md)
-- [Animated Broom](./animated-broom-xmm.md)
-- [Animated Flying Sword](./animated-flying-sword-xmm.md)
-- [Animated Object (Huge)](./animated-object-huge-xphb.md)
-- [Animated Object (Large)](./animated-object-large-xphb.md)
-- [Animated Object (Medium or Smaller)](./animated-object-medium-or-smaller-xphb.md)
-- [Animated Object](./animated-object-xphb.md)
-- [Animated Rug of Smothering](./animated-rug-of-smothering-xmm.md)
-- [Anvilwrought Raptor](./anvilwrought-raptor-mot.md)
-- [Brazen Gorgon](./brazen-gorgon-xmm.md)
-- [Bronze Sable](./bronze-sable-mot.md)
-- [Burnished Hart](./burnished-hart-mot.md)
-- [Clay Golem](./clay-golem-xmm.md)
-- [Colossus of Akros](./colossus-of-akros-mot.md)
-- [Colossus](./colossus-xmm.md)
-- [Construct Spirit (Clay)](./construct-spirit-clay-xphb.md)
-- [Construct Spirit (Metal)](./construct-spirit-metal-xphb.md)
-- [Construct Spirit (Stone)](./construct-spirit-stone-xphb.md)
-- [Construct Spirit](./construct-spirit-xphb.md)
-- [Domestic Wonder](./domestic-wonder-fraif.md)
-- [Flesh Golem](./flesh-golem-xmm.md)
-- [Gold-Forged Sentinel](./gold-forged-sentinel-mot.md)
-- [Gorgon](./gorgon-xmm.md)
-- [Helmed Horror](./helmed-horror-xmm.md)
-- [Homunculus](./homunculus-xmm.md)
-- [Iron Golem](./iron-golem-xmm.md)
-- [Modron Duodrone](./modron-duodrone-xmm.md)
-- [Modron Monodrone](./modron-monodrone-xmm.md)
-- [Modron Pentadrone](./modron-pentadrone-xmm.md)
-- [Modron Quadrone](./modron-quadrone-xmm.md)
-- [Modron Tridrone](./modron-tridrone-xmm.md)
-- [Scarecrow](./scarecrow-xmm.md)
-- [Shield Guardian](./shield-guardian-xmm.md)
-- [Stone Golem](./stone-golem-xmm.md)
+- [[animated-armor-xmm|Animated Armor]]
+- [[animated-broom-xmm|Animated Broom]]
+- [[animated-flying-sword-xmm|Animated Flying Sword]]
+- [[animated-object-huge-xphb|Animated Object (Huge)]]
+- [[animated-object-large-xphb|Animated Object (Large)]]
+- [[animated-object-medium-or-smaller-xphb|Animated Object (Medium or Smaller)]]
+- [[animated-object-xphb|Animated Object]]
+- [[animated-rug-of-smothering-xmm|Animated Rug of Smothering]]
+- [[anvilwrought-raptor-mot|Anvilwrought Raptor]]
+- [[brazen-gorgon-xmm|Brazen Gorgon]]
+- [[bronze-sable-mot|Bronze Sable]]
+- [[burnished-hart-mot|Burnished Hart]]
+- [[clay-golem-xmm|Clay Golem]]
+- [[colossus-of-akros-mot|Colossus of Akros]]
+- [[colossus-xmm|Colossus]]
+- [[construct-spirit-clay-xphb|Construct Spirit (Clay)]]
+- [[construct-spirit-metal-xphb|Construct Spirit (Metal)]]
+- [[construct-spirit-stone-xphb|Construct Spirit (Stone)]]
+- [[construct-spirit-xphb|Construct Spirit]]
+- [[domestic-wonder-fraif|Domestic Wonder]]
+- [[flesh-golem-xmm|Flesh Golem]]
+- [[gold-forged-sentinel-mot|Gold-Forged Sentinel]]
+- [[gorgon-xmm|Gorgon]]
+- [[helmed-horror-xmm|Helmed Horror]]
+- [[homunculus-xmm|Homunculus]]
+- [[iron-golem-xmm|Iron Golem]]
+- [[modron-duodrone-xmm|Modron Duodrone]]
+- [[modron-monodrone-xmm|Modron Monodrone]]
+- [[modron-pentadrone-xmm|Modron Pentadrone]]
+- [[modron-quadrone-xmm|Modron Quadrone]]
+- [[modron-tridrone-xmm|Modron Tridrone]]
+- [[scarecrow-xmm|Scarecrow]]
+- [[shield-guardian-xmm|Shield Guardian]]
+- [[stone-golem-xmm|Stone Golem]]

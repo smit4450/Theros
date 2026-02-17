@@ -11,7 +11,7 @@ aliases:
 - War Domain
 ---
 # War Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*[[cleric-xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 76*  
 
 > [!tldr] Class and Feature Progression

@@ -7,53 +7,53 @@ cssclasses:
 ---
 # Index of Undead
 
-- [Avatar of Death](./avatar-of-death-xdmg.md)
-- [Banshee](./banshee-xmm.md)
-- [Beholder Zombie](./beholder-zombie-xmm.md)
-- [Bone Naga](./bone-naga-xmm.md)
-- [Crawling Claw](./crawling-claw-xmm.md)
-- [Death Knight Aspirant](./death-knight-aspirant-xmm.md)
-- [Death Knight](./death-knight-xmm.md)
-- [Death Tyrant](./death-tyrant-xmm.md)
-- [Demilich](./demilich-xmm.md)
-- [Dracolich](./dracolich-xmm.md)
-- [Flameskull](./flameskull-xmm.md)
-- [Flaming Skeleton](./flaming-skeleton-xmm.md)
-- [Flitterstep Eidolon](./flitterstep-eidolon-mot.md)
-- [Ghast Gravecaller](./ghast-gravecaller-xmm.md)
-- [Ghast](./ghast-xmm.md)
-- [Ghost](./ghost-xmm.md)
-- [Ghostblade Eidolon](./ghostblade-eidolon-mot.md)
-- [Ghoul](./ghoul-xmm.md)
-- [Graveyard Revenant](./graveyard-revenant-xmm.md)
-- [Haunting Revenant](./haunting-revenant-xmm.md)
-- [Lacedon Ghoul](./lacedon-ghoul-xmm.md)
-- [Lich](./lich-xmm.md)
-- [Minotaur Skeleton](./minotaur-skeleton-xmm.md)
-- [Mummy Lord](./mummy-lord-xmm.md)
-- [Mummy](./mummy-xmm.md)
-- [Ogre Zombie](./ogre-zombie-xmm.md)
-- [Phylaskia](./phylaskia-mot.md)
-- [Poltergeist](./poltergeist-xmm.md)
-- [Returned Drifter](./returned-drifter-mot.md)
-- [Returned Kakomantis](./returned-kakomantis-mot.md)
-- [Returned Palamnite](./returned-palamnite-mot.md)
-- [Returned Sentry](./returned-sentry-mot.md)
-- [Revenant](./revenant-xmm.md)
-- [Shadow](./shadow-xmm.md)
-- [Skeleton](./skeleton-xmm.md)
-- [Specter](./specter-xmm.md)
-- [Swarm of Crawling Claws](./swarm-of-crawling-claws-xmm.md)
-- [Undead Spirit (Ghostly)](./undead-spirit-ghostly-xphb.md)
-- [Undead Spirit (Putrid)](./undead-spirit-putrid-xphb.md)
-- [Undead Spirit (Skeletal)](./undead-spirit-skeletal-xphb.md)
-- [Undead Spirit](./undead-spirit-xphb.md)
-- [Vampire Nightbringer](./vampire-nightbringer-xmm.md)
-- [Vampire Spawn](./vampire-spawn-xmm.md)
-- [Vampire Umbral Lord](./vampire-umbral-lord-xmm.md)
-- [Vampire](./vampire-xmm.md)
-- [Warhorse Skeleton](./warhorse-skeleton-xmm.md)
-- [Wight](./wight-xmm.md)
-- [Will-o'-Wisp](./will-o-wisp-xmm.md)
-- [Wraith](./wraith-xmm.md)
-- [Zombie](./zombie-xmm.md)
+- [[avatar-of-death-xdmg|Avatar of Death]]
+- [[banshee-xmm|Banshee]]
+- [[beholder-zombie-xmm|Beholder Zombie]]
+- [[bone-naga-xmm|Bone Naga]]
+- [[crawling-claw-xmm|Crawling Claw]]
+- [[death-knight-aspirant-xmm|Death Knight Aspirant]]
+- [[death-knight-xmm|Death Knight]]
+- [[death-tyrant-xmm|Death Tyrant]]
+- [[demilich-xmm|Demilich]]
+- [[dracolich-xmm|Dracolich]]
+- [[flameskull-xmm|Flameskull]]
+- [[flaming-skeleton-xmm|Flaming Skeleton]]
+- [[flitterstep-eidolon-mot|Flitterstep Eidolon]]
+- [[ghast-gravecaller-xmm|Ghast Gravecaller]]
+- [[ghast-xmm|Ghast]]
+- [[ghost-xmm|Ghost]]
+- [[ghostblade-eidolon-mot|Ghostblade Eidolon]]
+- [[ghoul-xmm|Ghoul]]
+- [[graveyard-revenant-xmm|Graveyard Revenant]]
+- [[haunting-revenant-xmm|Haunting Revenant]]
+- [[lacedon-ghoul-xmm|Lacedon Ghoul]]
+- [[lich-xmm|Lich]]
+- [[minotaur-skeleton-xmm|Minotaur Skeleton]]
+- [[mummy-lord-xmm|Mummy Lord]]
+- [[mummy-xmm|Mummy]]
+- [[ogre-zombie-xmm|Ogre Zombie]]
+- [[phylaskia-mot|Phylaskia]]
+- [[poltergeist-xmm|Poltergeist]]
+- [[returned-drifter-mot|Returned Drifter]]
+- [[returned-kakomantis-mot|Returned Kakomantis]]
+- [[returned-palamnite-mot|Returned Palamnite]]
+- [[returned-sentry-mot|Returned Sentry]]
+- [[revenant-xmm|Revenant]]
+- [[shadow-xmm|Shadow]]
+- [[skeleton-xmm|Skeleton]]
+- [[specter-xmm|Specter]]
+- [[swarm-of-crawling-claws-xmm|Swarm of Crawling Claws]]
+- [[undead-spirit-ghostly-xphb|Undead Spirit (Ghostly)]]
+- [[undead-spirit-putrid-xphb|Undead Spirit (Putrid)]]
+- [[undead-spirit-skeletal-xphb|Undead Spirit (Skeletal)]]
+- [[undead-spirit-xphb|Undead Spirit]]
+- [[vampire-nightbringer-xmm|Vampire Nightbringer]]
+- [[vampire-spawn-xmm|Vampire Spawn]]
+- [[vampire-umbral-lord-xmm|Vampire Umbral Lord]]
+- [[vampire-xmm|Vampire]]
+- [[warhorse-skeleton-xmm|Warhorse Skeleton]]
+- [[wight-xmm|Wight]]
+- [[will-o-wisp-xmm|Will-o'-Wisp]]
+- [[wraith-xmm|Wraith]]
+- [[zombie-xmm|Zombie]]

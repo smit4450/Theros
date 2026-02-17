@@ -10,7 +10,7 @@ aliases:
 - Scion of the Three
 ---
 # Scion of the Three
-*[Rogue](./rogue-xphb.md): Rogue Subclass*  
+*[[rogue-xphb|Rogue]]: Rogue Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

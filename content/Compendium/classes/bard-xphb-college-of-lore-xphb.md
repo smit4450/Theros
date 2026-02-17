@@ -10,7 +10,7 @@ aliases:
 - College of Lore
 ---
 # College of Lore
-*[Bard](./bard-xphb.md): Bard Subclass*  
+*[[bard-xphb|Bard]]: Bard Subclass*  
 *Source: Player's Handbook (2024) p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression

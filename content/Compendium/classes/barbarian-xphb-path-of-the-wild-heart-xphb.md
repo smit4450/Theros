@@ -10,7 +10,7 @@ aliases:
 - Path of the Wild Heart
 ---
 # Path of the Wild Heart
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
+*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 55*  
 
 > [!tldr] Class and Feature Progression

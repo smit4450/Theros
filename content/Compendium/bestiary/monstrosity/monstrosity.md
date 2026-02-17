@@ -7,79 +7,79 @@ cssclasses:
 ---
 # Index of Monstrosity
 
-- [Abominable Yeti](./abominable-yeti-xmm.md)
-- [Amphisbaena](./amphisbaena-gos.md)
-- [Ankheg](./ankheg-xmm.md)
-- [Aphemia](./aphemia-mot.md)
-- [Axe Beak](./axe-beak-xmm.md)
-- [Basilisk](./basilisk-xmm.md)
-- [Behir](./behir-xmm.md)
-- [Blood-Toll Harpy](./blood-toll-harpy-mot.md)
-- [Broken King Antigonos](./broken-king-antigonos-mot.md)
-- [Bulette Pup](./bulette-pup-xmm.md)
-- [Bulette](./bulette-xmm.md)
-- [Carrion Crawler](./carrion-crawler-xmm.md)
-- [Catoblepas](./catoblepas-vgm.md)
-- [Chimera](./chimera-xmm.md)
-- [Cockatrice Regent](./cockatrice-regent-xmm.md)
-- [Cockatrice](./cockatrice-xmm.md)
-- [Death Dog](./death-dog-xmm.md)
-- [Displacer Beast](./displacer-beast-xmm.md)
-- [Doppelganger](./doppelganger-xmm.md)
-- [Drider](./drider-xmm.md)
-- [Ettercap](./ettercap-xmm.md)
-- [Fleecemane Lion](./fleecemane-lion-mot.md)
-- [Flying Snake](./flying-snake-xmm.md)
-- [Giant Axe Beak](./giant-axe-beak-xmm.md)
-- [Giant Vulture](./giant-vulture-xmm.md)
-- [Griffon](./griffon-xmm.md)
-- [Harpy](./harpy-xmm.md)
-- [Hippocamp](./hippocamp-mot.md)
-- [Hippogriff](./hippogriff-xmm.md)
-- [Hook Horror](./hook-horror-xmm.md)
-- [Hydra](./hydra-xmm.md)
-- [Ironscale Hydra](./ironscale-hydra-mot.md)
-- [Kenku](./kenku-xmm.md)
-- [Kraken](./kraken-xmm.md)
-- [Leucrotta](./leucrotta-vgm.md)
-- [Manticore](./manticore-xmm.md)
-- [Medusa](./medusa-mot.md)
-- [Medusa](./medusa-xmm.md)
-- [Merrow](./merrow-xmm.md)
-- [Mimic](./mimic-xmm.md)
-- [Minotaur of Baphomet](./minotaur-of-baphomet-xmm.md)
-- [Nyx-Fleece Ram](./nyx-fleece-ram-mot.md)
-- [Owlbear](./owlbear-xmm.md)
-- [Peryton](./peryton-xmm.md)
-- [Phase Spider](./phase-spider-xmm.md)
-- [Primeval Owlbear](./primeval-owlbear-xmm.md)
-- [Purple Worm](./purple-worm-xmm.md)
-- [Quaggoth Thonot](./quaggoth-thonot-xmm.md)
-- [Quaggoth](./quaggoth-xmm.md)
-- [Remorhaz](./remorhaz-xmm.md)
-- [Roc](./roc-xmm.md)
-- [Rust Monster](./rust-monster-xmm.md)
-- [Stirge](./stirge-xmm.md)
-- [Swarm of Stirges](./swarm-of-stirges-xmm.md)
-- [Tarrasque](./tarrasque-xmm.md)
-- [Theran Chimera](./theran-chimera-mot.md)
-- [Thri-kreen Marauder](./thri-kreen-marauder-xmm.md)
-- [Thri-kreen Psion](./thri-kreen-psion-xmm.md)
-- [Troglodyte](./troglodyte-xmm.md)
-- [Two-Headed Cerberus](./two-headed-cerberus-mot.md)
-- [Typhon](./typhon-mot.md)
-- [Umber Hulk](./umber-hulk-xmm.md)
-- [Underworld Cerberus](./underworld-cerberus-mot.md)
-- [Werebear](./werebear-xmm.md)
-- [Wereboar](./wereboar-xmm.md)
-- [Wererat](./wererat-xmm.md)
-- [Weretiger](./weretiger-xmm.md)
-- [Werewolf](./werewolf-xmm.md)
-- [Winter Wolf](./winter-wolf-xmm.md)
-- [Yeti](./yeti-xmm.md)
-- [Young Remorhaz](./young-remorhaz-xmm.md)
-- [Yuan-ti Abomination](./yuan-ti-abomination-xmm.md)
-- [Yuan-ti Infiltrator](./yuan-ti-infiltrator-xmm.md)
-- [Yuan-ti Malison (Type 1)](./yuan-ti-malison-type-1-xmm.md)
-- [Yuan-ti Malison (Type 2)](./yuan-ti-malison-type-2-xmm.md)
-- [Yuan-ti Malison (Type 3)](./yuan-ti-malison-type-3-xmm.md)
+- [[abominable-yeti-xmm|Abominable Yeti]]
+- [[amphisbaena-gos|Amphisbaena]]
+- [[ankheg-xmm|Ankheg]]
+- [[aphemia-mot|Aphemia]]
+- [[axe-beak-xmm|Axe Beak]]
+- [[basilisk-xmm|Basilisk]]
+- [[behir-xmm|Behir]]
+- [[blood-toll-harpy-mot|Blood-Toll Harpy]]
+- [[broken-king-antigonos-mot|Broken King Antigonos]]
+- [[bulette-pup-xmm|Bulette Pup]]
+- [[bulette-xmm|Bulette]]
+- [[carrion-crawler-xmm|Carrion Crawler]]
+- [[catoblepas-vgm|Catoblepas]]
+- [[chimera-xmm|Chimera]]
+- [[cockatrice-regent-xmm|Cockatrice Regent]]
+- [[cockatrice-xmm|Cockatrice]]
+- [[death-dog-xmm|Death Dog]]
+- [[displacer-beast-xmm|Displacer Beast]]
+- [[doppelganger-xmm|Doppelganger]]
+- [[drider-xmm|Drider]]
+- [[ettercap-xmm|Ettercap]]
+- [[fleecemane-lion-mot|Fleecemane Lion]]
+- [[flying-snake-xmm|Flying Snake]]
+- [[giant-axe-beak-xmm|Giant Axe Beak]]
+- [[giant-vulture-xmm|Giant Vulture]]
+- [[griffon-xmm|Griffon]]
+- [[harpy-xmm|Harpy]]
+- [[hippocamp-mot|Hippocamp]]
+- [[hippogriff-xmm|Hippogriff]]
+- [[hook-horror-xmm|Hook Horror]]
+- [[hydra-xmm|Hydra]]
+- [[ironscale-hydra-mot|Ironscale Hydra]]
+- [[kenku-xmm|Kenku]]
+- [[kraken-xmm|Kraken]]
+- [[leucrotta-vgm|Leucrotta]]
+- [[manticore-xmm|Manticore]]
+- [[medusa-mot|Medusa]]
+- [[medusa-xmm|Medusa]]
+- [[merrow-xmm|Merrow]]
+- [[mimic-xmm|Mimic]]
+- [[minotaur-of-baphomet-xmm|Minotaur of Baphomet]]
+- [[nyx-fleece-ram-mot|Nyx-Fleece Ram]]
+- [[owlbear-xmm|Owlbear]]
+- [[peryton-xmm|Peryton]]
+- [[phase-spider-xmm|Phase Spider]]
+- [[primeval-owlbear-xmm|Primeval Owlbear]]
+- [[purple-worm-xmm|Purple Worm]]
+- [[quaggoth-thonot-xmm|Quaggoth Thonot]]
+- [[quaggoth-xmm|Quaggoth]]
+- [[remorhaz-xmm|Remorhaz]]
+- [[roc-xmm|Roc]]
+- [[rust-monster-xmm|Rust Monster]]
+- [[stirge-xmm|Stirge]]
+- [[swarm-of-stirges-xmm|Swarm of Stirges]]
+- [[tarrasque-xmm|Tarrasque]]
+- [[theran-chimera-mot|Theran Chimera]]
+- [[thri-kreen-marauder-xmm|Thri-kreen Marauder]]
+- [[thri-kreen-psion-xmm|Thri-kreen Psion]]
+- [[troglodyte-xmm|Troglodyte]]
+- [[two-headed-cerberus-mot|Two-Headed Cerberus]]
+- [[typhon-mot|Typhon]]
+- [[umber-hulk-xmm|Umber Hulk]]
+- [[underworld-cerberus-mot|Underworld Cerberus]]
+- [[werebear-xmm|Werebear]]
+- [[wereboar-xmm|Wereboar]]
+- [[wererat-xmm|Wererat]]
+- [[weretiger-xmm|Weretiger]]
+- [[werewolf-xmm|Werewolf]]
+- [[winter-wolf-xmm|Winter Wolf]]
+- [[yeti-xmm|Yeti]]
+- [[young-remorhaz-xmm|Young Remorhaz]]
+- [[yuan-ti-abomination-xmm|Yuan-ti Abomination]]
+- [[yuan-ti-infiltrator-xmm|Yuan-ti Infiltrator]]
+- [[yuan-ti-malison-type-1-xmm|Yuan-ti Malison (Type 1)]]
+- [[yuan-ti-malison-type-2-xmm|Yuan-ti Malison (Type 2)]]
+- [[yuan-ti-malison-type-3-xmm|Yuan-ti Malison (Type 3)]]

@@ -7,82 +7,82 @@ cssclasses:
 ---
 # Index of Rewards
 
-- [Arcane Study Charm](./arcane-study-charm-xdmg.md)
-- [Athreos's Devotee](./athreoss-devotee-mot.md)
-- [Athreos's Disciple](./athreoss-disciple-mot.md)
-- [Athreos's Votary](./athreoss-votary-mot.md)
-- [Blessing of Health](./blessing-of-health-xdmg.md)
-- [Blessing of Magic Resistance](./blessing-of-magic-resistance-xdmg.md)
-- [Blessing of Protection](./blessing-of-protection-xdmg.md)
-- [Blessing of Understanding](./blessing-of-understanding-xdmg.md)
-- [Blessing of Valhalla](./blessing-of-valhalla-xdmg.md)
-- [Blessing of Weapon Enhancement](./blessing-of-weapon-enhancement-xdmg.md)
-- [Blessing of Wound Closure](./blessing-of-wound-closure-xdmg.md)
-- [Champion of Affliction](./champion-of-affliction-mot.md)
-- [Champion of Deception](./champion-of-deception-mot.md)
-- [Champion of Destiny](./champion-of-destiny-mot.md)
-- [Champion of Harvests](./champion-of-harvests-mot.md)
-- [Champion of Horizons](./champion-of-horizons-mot.md)
-- [Champion of Slaughter](./champion-of-slaughter-mot.md)
-- [Champion of Storms](./champion-of-storms-mot.md)
-- [Champion of the Dead](./champion-of-the-dead-mot.md)
-- [Champion of the Forge](./champion-of-the-forge-mot.md)
-- [Champion of the Hunt](./champion-of-the-hunt-mot.md)
-- [Champion of the Passage](./champion-of-the-passage-mot.md)
-- [Champion of the Polis](./champion-of-the-polis-mot.md)
-- [Champion of the Sea](./champion-of-the-sea-mot.md)
-- [Champion of the Sun](./champion-of-the-sun-mot.md)
-- [Champion of Victory](./champion-of-victory-mot.md)
-- [Charm of Animal Conjuring](./charm-of-animal-conjuring-xdmg.md)
-- [Charm of Darkvision](./charm-of-darkvision-xdmg.md)
-- [Charm of Feather Falling](./charm-of-feather-falling-xdmg.md)
-- [Charm of Heroism](./charm-of-heroism-xdmg.md)
-- [Charm of Restoration](./charm-of-restoration-xdmg.md)
-- [Charm of the Slayer](./charm-of-the-slayer-xdmg.md)
-- [Charm of Vitality](./charm-of-vitality-xdmg.md)
-- [Ephara's Devotee](./epharas-devotee-mot.md)
-- [Ephara's Disciple](./epharas-disciple-mot.md)
-- [Ephara's Votary](./epharas-votary-mot.md)
-- [Erebos's Devotee](./ereboss-devotee-mot.md)
-- [Erebos's Disciple](./ereboss-disciple-mot.md)
-- [Erebos's Votary](./ereboss-votary-mot.md)
-- [Heliod's Devotee](./heliods-devotee-mot.md)
-- [Heliod's Disciple](./heliods-disciple-mot.md)
-- [Heliod's Votary](./heliods-votary-mot.md)
-- [Iroas's Devotee](./iroass-devotee-mot.md)
-- [Iroas's Disciple](./iroass-disciple-mot.md)
-- [Iroas's Votary](./iroass-votary-mot.md)
-- [Karametra's Devotee](./karametras-devotee-mot.md)
-- [Karametra's Disciple](./karametras-disciple-mot.md)
-- [Karametra's Votary](./karametras-votary-mot.md)
-- [Keranos's Devotee](./keranoss-devotee-mot.md)
-- [Keranos's Disciple](./keranoss-disciple-mot.md)
-- [Keranos's Votary](./keranoss-votary-mot.md)
-- [Klothys's Devotee](./klothyss-devotee-mot.md)
-- [Klothys's Disciple](./klothyss-disciple-mot.md)
-- [Klothys's Votary](./klothyss-votary-mot.md)
-- [Kruphix's Devotee](./kruphixs-devotee-mot.md)
-- [Kruphix's Disciple](./kruphixs-disciple-mot.md)
-- [Kruphix's Votary](./kruphixs-votary-mot.md)
-- [Mogis's Devotee](./mogiss-devotee-mot.md)
-- [Mogis's Disciple](./mogiss-disciple-mot.md)
-- [Mogis's Votary](./mogiss-votary-mot.md)
-- [Nylea's Devotee](./nyleas-devotee-mot.md)
-- [Nylea's Disciple](./nyleas-disciple-mot.md)
-- [Nylea's Votary](./nyleas-votary-mot.md)
-- [Observatory Charm](./observatory-charm-xdmg.md)
-- [Pharika's Devotee](./pharikas-devotee-mot.md)
-- [Pharika's Disciple](./pharikas-disciple-mot.md)
-- [Pharika's Votary](./pharikas-votary-mot.md)
-- [Phenax's Devotee](./phenaxs-devotee-mot.md)
-- [Phenax's Disciple](./phenaxs-disciple-mot.md)
-- [Phenax's Votary](./phenaxs-votary-mot.md)
-- [Purphoros's Devotee](./purphoross-devotee-mot.md)
-- [Purphoros's Disciple](./purphoross-disciple-mot.md)
-- [Purphoros's Votary](./purphoross-votary-mot.md)
-- [Reliquary Charm](./reliquary-charm-xdmg.md)
-- [Sanctuary Charm](./sanctuary-charm-xdmg.md)
-- [Sanctum Charm](./sanctum-charm-xdmg.md)
-- [Thassa's Devotee](./thassas-devotee-mot.md)
-- [Thassa's Disciple](./thassas-disciple-mot.md)
-- [Thassa's Votary](./thassas-votary-mot.md)
+- [[arcane-study-charm-xdmg|Arcane Study Charm]]
+- [[athreoss-devotee-mot|Athreos's Devotee]]
+- [[athreoss-disciple-mot|Athreos's Disciple]]
+- [[athreoss-votary-mot|Athreos's Votary]]
+- [[blessing-of-health-xdmg|Blessing of Health]]
+- [[blessing-of-magic-resistance-xdmg|Blessing of Magic Resistance]]
+- [[blessing-of-protection-xdmg|Blessing of Protection]]
+- [[blessing-of-understanding-xdmg|Blessing of Understanding]]
+- [[blessing-of-valhalla-xdmg|Blessing of Valhalla]]
+- [[blessing-of-weapon-enhancement-xdmg|Blessing of Weapon Enhancement]]
+- [[blessing-of-wound-closure-xdmg|Blessing of Wound Closure]]
+- [[champion-of-affliction-mot|Champion of Affliction]]
+- [[champion-of-deception-mot|Champion of Deception]]
+- [[champion-of-destiny-mot|Champion of Destiny]]
+- [[champion-of-harvests-mot|Champion of Harvests]]
+- [[champion-of-horizons-mot|Champion of Horizons]]
+- [[champion-of-slaughter-mot|Champion of Slaughter]]
+- [[champion-of-storms-mot|Champion of Storms]]
+- [[champion-of-the-dead-mot|Champion of the Dead]]
+- [[champion-of-the-forge-mot|Champion of the Forge]]
+- [[champion-of-the-hunt-mot|Champion of the Hunt]]
+- [[champion-of-the-passage-mot|Champion of the Passage]]
+- [[champion-of-the-polis-mot|Champion of the Polis]]
+- [[champion-of-the-sea-mot|Champion of the Sea]]
+- [[champion-of-the-sun-mot|Champion of the Sun]]
+- [[champion-of-victory-mot|Champion of Victory]]
+- [[charm-of-animal-conjuring-xdmg|Charm of Animal Conjuring]]
+- [[charm-of-darkvision-xdmg|Charm of Darkvision]]
+- [[charm-of-feather-falling-xdmg|Charm of Feather Falling]]
+- [[charm-of-heroism-xdmg|Charm of Heroism]]
+- [[charm-of-restoration-xdmg|Charm of Restoration]]
+- [[charm-of-the-slayer-xdmg|Charm of the Slayer]]
+- [[charm-of-vitality-xdmg|Charm of Vitality]]
+- [[epharas-devotee-mot|Ephara's Devotee]]
+- [[epharas-disciple-mot|Ephara's Disciple]]
+- [[epharas-votary-mot|Ephara's Votary]]
+- [[ereboss-devotee-mot|Erebos's Devotee]]
+- [[ereboss-disciple-mot|Erebos's Disciple]]
+- [[ereboss-votary-mot|Erebos's Votary]]
+- [[heliods-devotee-mot|Heliod's Devotee]]
+- [[heliods-disciple-mot|Heliod's Disciple]]
+- [[heliods-votary-mot|Heliod's Votary]]
+- [[iroass-devotee-mot|Iroas's Devotee]]
+- [[iroass-disciple-mot|Iroas's Disciple]]
+- [[iroass-votary-mot|Iroas's Votary]]
+- [[karametras-devotee-mot|Karametra's Devotee]]
+- [[karametras-disciple-mot|Karametra's Disciple]]
+- [[karametras-votary-mot|Karametra's Votary]]
+- [[keranoss-devotee-mot|Keranos's Devotee]]
+- [[keranoss-disciple-mot|Keranos's Disciple]]
+- [[keranoss-votary-mot|Keranos's Votary]]
+- [[klothyss-devotee-mot|Klothys's Devotee]]
+- [[klothyss-disciple-mot|Klothys's Disciple]]
+- [[klothyss-votary-mot|Klothys's Votary]]
+- [[kruphixs-devotee-mot|Kruphix's Devotee]]
+- [[kruphixs-disciple-mot|Kruphix's Disciple]]
+- [[kruphixs-votary-mot|Kruphix's Votary]]
+- [[mogiss-devotee-mot|Mogis's Devotee]]
+- [[mogiss-disciple-mot|Mogis's Disciple]]
+- [[mogiss-votary-mot|Mogis's Votary]]
+- [[nyleas-devotee-mot|Nylea's Devotee]]
+- [[nyleas-disciple-mot|Nylea's Disciple]]
+- [[nyleas-votary-mot|Nylea's Votary]]
+- [[observatory-charm-xdmg|Observatory Charm]]
+- [[pharikas-devotee-mot|Pharika's Devotee]]
+- [[pharikas-disciple-mot|Pharika's Disciple]]
+- [[pharikas-votary-mot|Pharika's Votary]]
+- [[phenaxs-devotee-mot|Phenax's Devotee]]
+- [[phenaxs-disciple-mot|Phenax's Disciple]]
+- [[phenaxs-votary-mot|Phenax's Votary]]
+- [[purphoross-devotee-mot|Purphoros's Devotee]]
+- [[purphoross-disciple-mot|Purphoros's Disciple]]
+- [[purphoross-votary-mot|Purphoros's Votary]]
+- [[reliquary-charm-xdmg|Reliquary Charm]]
+- [[sanctuary-charm-xdmg|Sanctuary Charm]]
+- [[sanctum-charm-xdmg|Sanctum Charm]]
+- [[thassas-devotee-mot|Thassa's Devotee]]
+- [[thassas-disciple-mot|Thassa's Disciple]]
+- [[thassas-votary-mot|Thassa's Votary]]

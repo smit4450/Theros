@@ -7,61 +7,61 @@ cssclasses:
 ---
 # Index of Humanoid
 
-- [Aberrant Cultist](./aberrant-cultist-xmm.md)
-- [Akroan Hoplite](./akroan-hoplite-mot.md)
-- [Archdruid](./archdruid-vgm.md)
-- [Archer](./archer-vgm.md)
-- [Archmage](./archmage-xmm.md)
-- [Archpriest](./archpriest-xmm.md)
-- [Assassin](./assassin-xmm.md)
-- [Bandit Captain](./bandit-captain-xmm.md)
-- [Bandit Crime Lord](./bandit-crime-lord-xmm.md)
-- [Bandit Deceiver](./bandit-deceiver-xmm.md)
-- [Bandit](./bandit-xmm.md)
-- [Berserker Commander](./berserker-commander-xmm.md)
-- [Berserker](./berserker-xmm.md)
-- [Blackguard](./blackguard-vgm.md)
-- [Commoner](./commoner-xmm.md)
-- [Cultist Fanatic](./cultist-fanatic-xmm.md)
-- [Cultist Hierophant](./cultist-hierophant-xmm.md)
-- [Cultist](./cultist-xmm.md)
-- [Death Cultist](./death-cultist-xmm.md)
-- [Druid](./druid-xmm.md)
-- [Elemental Cultist](./elemental-cultist-xmm.md)
-- [Fiend Cultist](./fiend-cultist-xmm.md)
-- [Gladiator](./gladiator-xmm.md)
-- [Guard Captain](./guard-captain-xmm.md)
-- [Guard](./guard-xmm.md)
-- [Knight](./knight-xmm.md)
-- [Leonin Iconoclast](./leonin-iconoclast-mot.md)
-- [Mage Apprentice](./mage-apprentice-xmm.md)
-- [Mage](./mage-xmm.md)
-- [Master Thief](./master-thief-vgm.md)
-- [Meletian Hoplite](./meletian-hoplite-mot.md)
-- [Noble Prodigy](./noble-prodigy-xmm.md)
-- [Noble](./noble-xmm.md)
-- [Oracle](./oracle-mot.md)
-- [Performer Legend](./performer-legend-xmm.md)
-- [Performer Maestro](./performer-maestro-xmm.md)
-- [Performer](./performer-xmm.md)
-- [Pirate Admiral](./pirate-admiral-xmm.md)
-- [Pirate Captain](./pirate-captain-xmm.md)
-- [Pirate](./pirate-xmm.md)
-- [Priest Acolyte](./priest-acolyte-xmm.md)
-- [Priest](./priest-xmm.md)
-- [Questing Knight](./questing-knight-xmm.md)
-- [Scout Captain](./scout-captain-xmm.md)
-- [Scout](./scout-xmm.md)
-- [Setessan Hoplite](./setessan-hoplite-mot.md)
-- [Soldier](./soldier-ggr.md)
-- [Spy Master](./spy-master-xmm.md)
-- [Spy](./spy-xmm.md)
-- [Tough Boss](./tough-boss-xmm.md)
-- [Tough](./tough-xmm.md)
-- [Triton Master of Waves](./triton-master-of-waves-mot.md)
-- [Triton Shorestalker](./triton-shorestalker-mot.md)
-- [Vampire Familiar](./vampire-familiar-xmm.md)
-- [War Priest](./war-priest-vgm.md)
-- [Warrior Commander](./warrior-commander-xmm.md)
-- [Warrior Infantry](./warrior-infantry-xmm.md)
-- [Warrior Veteran](./warrior-veteran-xmm.md)
+- [[aberrant-cultist-xmm|Aberrant Cultist]]
+- [[akroan-hoplite-mot|Akroan Hoplite]]
+- [[archdruid-vgm|Archdruid]]
+- [[archer-vgm|Archer]]
+- [[archmage-xmm|Archmage]]
+- [[archpriest-xmm|Archpriest]]
+- [[assassin-xmm|Assassin]]
+- [[bandit-captain-xmm|Bandit Captain]]
+- [[bandit-crime-lord-xmm|Bandit Crime Lord]]
+- [[bandit-deceiver-xmm|Bandit Deceiver]]
+- [[bandit-xmm|Bandit]]
+- [[berserker-commander-xmm|Berserker Commander]]
+- [[berserker-xmm|Berserker]]
+- [[blackguard-vgm|Blackguard]]
+- [[commoner-xmm|Commoner]]
+- [[cultist-fanatic-xmm|Cultist Fanatic]]
+- [[cultist-hierophant-xmm|Cultist Hierophant]]
+- [[cultist-xmm|Cultist]]
+- [[death-cultist-xmm|Death Cultist]]
+- [[druid-xmm|Druid]]
+- [[elemental-cultist-xmm|Elemental Cultist]]
+- [[fiend-cultist-xmm|Fiend Cultist]]
+- [[gladiator-xmm|Gladiator]]
+- [[guard-captain-xmm|Guard Captain]]
+- [[guard-xmm|Guard]]
+- [[knight-xmm|Knight]]
+- [[leonin-iconoclast-mot|Leonin Iconoclast]]
+- [[mage-apprentice-xmm|Mage Apprentice]]
+- [[mage-xmm|Mage]]
+- [[master-thief-vgm|Master Thief]]
+- [[meletian-hoplite-mot|Meletian Hoplite]]
+- [[noble-prodigy-xmm|Noble Prodigy]]
+- [[noble-xmm|Noble]]
+- [[oracle-mot|Oracle]]
+- [[performer-legend-xmm|Performer Legend]]
+- [[performer-maestro-xmm|Performer Maestro]]
+- [[performer-xmm|Performer]]
+- [[pirate-admiral-xmm|Pirate Admiral]]
+- [[pirate-captain-xmm|Pirate Captain]]
+- [[pirate-xmm|Pirate]]
+- [[priest-acolyte-xmm|Priest Acolyte]]
+- [[priest-xmm|Priest]]
+- [[questing-knight-xmm|Questing Knight]]
+- [[scout-captain-xmm|Scout Captain]]
+- [[scout-xmm|Scout]]
+- [[setessan-hoplite-mot|Setessan Hoplite]]
+- [[soldier-ggr|Soldier]]
+- [[spy-master-xmm|Spy Master]]
+- [[spy-xmm|Spy]]
+- [[tough-boss-xmm|Tough Boss]]
+- [[tough-xmm|Tough]]
+- [[triton-master-of-waves-mot|Triton Master of Waves]]
+- [[triton-shorestalker-mot|Triton Shorestalker]]
+- [[vampire-familiar-xmm|Vampire Familiar]]
+- [[war-priest-vgm|War Priest]]
+- [[warrior-commander-xmm|Warrior Commander]]
+- [[warrior-infantry-xmm|Warrior Infantry]]
+- [[warrior-veteran-xmm|Warrior Veteran]]

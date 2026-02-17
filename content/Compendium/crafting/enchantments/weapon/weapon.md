@@ -46,48 +46,48 @@ You can enchant weapons with a property from the list below. Or a GM can roll on
 You can enchant weapons with a property from the list below.
 
 ## Uncommon Enchantments
-- [Binding Chains](./binding-chains.md)
-- [Cruel](./cruel.md)
-- [Marking](./marking.md)
-- [Maneuvering](./maneuvering.md)
-- [Primordial](./primordial.md)
-- [Stalking](./stalking.md)
-- [Throwing](./throwing.md)
-- [Transforming](./transforming.md)
-- [Warning](./warning.md)
+- [[binding-chains|Binding Chains]]
+- [[cruel|Cruel]]
+- [[marking|Marking]]
+- [[maneuvering|Maneuvering]]
+- [[primordial|Primordial]]
+- [[stalking|Stalking]]
+- [[throwing|Throwing]]
+- [[transforming|Transforming]]
+- [[warning|Warning]]
 
 ## Rare Enchantments
-- [Cursing](./cursing.md)
-- [Dueling](./dueling.md)
-- [Explosive](./explosive.md)
-- [Flame Tongue](./flame-tongue.md)
-- [Life Stealing](./life-stealing.md)
-- [Mind Breaker](./mind-breaker.md)
-- [Planebound](./planebound.md)
-- [Repulsive](./repulsive.md)
-- [Skin Melter](./skin-melter.md)
-- [Spellbreaker](./spellbreaker.md)
-- [Swatting](./swatting.md)
-- [Venom](./venom.md)
-- [Vicious](./vicious.md)
-- [Withering](./withering.md)
-- [Wounding](./wounding.md)
+- [[cursing|Cursing]]
+- [[dueling|Dueling]]
+- [[explosive|Explosive]]
+- [[flame-tongue|Flame Tongue]]
+- [[life-stealing|Life Stealing]]
+- [[mind-breaker|Mind Breaker]]
+- [[planebound|Planebound]]
+- [[repulsive|Repulsive]]
+- [[skin-melter|Skin Melter]]
+- [[spellbreaker|Spellbreaker]]
+- [[swatting|Swatting]]
+- [[venom|Venom]]
+- [[vicious|Vicious]]
+- [[withering|Withering]]
+- [[wounding|Wounding]]
 
 ## Very Rare Enchantments
-- [Dancing](./dancing.md)
-- [Frost Brand](./frost-brand.md)
-- [Maddening](./maddening.md)
-- [Magi](./magi.md)
-- [Mighty Cleaving](./mighty-cleaving.md)
-- [Oathsworn](./oathsworn.md)
-- [Parrying](./parrying.md)
-- [Quickness](./quickness.md)
-- [Ruin](./ruin.md)
-- [Sharpness](./sharpness.md)
-- [Slaying](./slaying.md)
-- [Striking](./striking.md)
+- [[dancing|Dancing]]
+- [[frost-brand|Frost Brand]]
+- [[maddening|Maddening]]
+- [[magi|Magi]]
+- [[mighty-cleaving|Mighty Cleaving]]
+- [[oathsworn|Oathsworn]]
+- [[parrying|Parrying]]
+- [[quickness|Quickness]]
+- [[ruin|Ruin]]
+- [[sharpness|Sharpness]]
+- [[slaying|Slaying]]
+- [[striking|Striking]]
 
 ## Legendary Enchantments
-- [Holy Avenger](./holy-avenger.md)
-- [Thunderbolt](./thunderbolt.md)
-- [Vorpal](./vorpal.md)
+- [[holy-avenger|Holy Avenger]]
+- [[thunderbolt|Thunderbolt]]
+- [[vorpal|Vorpal]]

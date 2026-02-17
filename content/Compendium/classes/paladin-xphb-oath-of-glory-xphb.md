@@ -10,7 +10,7 @@ aliases:
 - Oath of Glory
 ---
 # Oath of Glory
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
+*[[paladin-xphb|Paladin]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 114*  
 
 > [!tldr] Class and Feature Progression

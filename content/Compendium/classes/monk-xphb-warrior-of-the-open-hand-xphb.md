@@ -10,7 +10,7 @@ aliases:
 - Warrior of the Open Hand
 ---
 # Warrior of the Open Hand
-*[Monk](./monk-xphb.md): Monk Subclass*  
+*[[monk-xphb|Monk]]: Monk Subclass*  
 *Source: Player's Handbook (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression

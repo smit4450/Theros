@@ -11,7 +11,7 @@ aliases:
 - Light Domain
 ---
 # Light Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*[[cleric-xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 74*  
 
 > [!tldr] Class and Feature Progression

@@ -10,7 +10,7 @@ aliases:
 - Circle of the Sea
 ---
 # Circle of the Sea
-*[Druid](./druid-xphb.md): Druid Subclass*  
+*[[druid-xphb|Druid]]: Druid Subclass*  
 *Source: Player's Handbook (2024) p. 87*  
 
 > [!tldr] Class and Feature Progression
