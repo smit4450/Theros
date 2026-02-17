@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2eb27277009f6735",
+        "id": "a00a0d40a2e6db19",
         "type": "tabs",
         "children": [
           {
-            "id": "b416636de4d13aac",
+            "id": "44ab9fd6bc28b079",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sorcerer-xphb-spellfire-sorcery-frhof"
-            }
-          },
-          {
-            "id": "478d3819e8fb66eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "broken links output.md",
+                "file": "Utilities/tag-reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "broken links output"
+              "title": "tag-reference"
             }
           }
         ]
@@ -117,21 +103,10 @@
             }
           },
           {
-            "id": "d881e2eecd3774ed",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
             "id": "57679822267ec9ac",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -210,26 +185,6 @@
             }
           },
           {
-            "id": "70c3e7a7d516f99f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "48060dd846d26de3",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
             "id": "e158d5bdba4e0451",
             "type": "leaf",
             "state": {
@@ -239,8 +194,7 @@
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b8e9d6446c871088",
@@ -260,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,36 +234,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b416636de4d13aac",
+  "active": "44ab9fd6bc28b079",
   "lastOpenFiles": [
-    "broken links output.md",
-    "Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md",
-    "Compendium/classes/classes.md",
-    "Compendium/spells/spells.md",
-    "Compendium/decks/decks.md",
-    "Compendium/crafting/crafting.md",
-    "Compendium/bastions/bastions.md",
-    "Compendium/backgrounds/backgrounds.md",
+    "z_Templates/Event.md",
+    "z_Templates/Lore.md",
+    "z_Templates/Quest.md",
+    "z_Templates/Faction.md",
+    "z_Templates/NPC.md",
+    "z_Templates/Location.md",
+    "z_Templates",
+    "Utilities/tag-audit.md",
+    "Utilities/tag-reference.md",
+    "Compendium/realms-of-gods-and-mortals/realms-of-gods-and-mortals.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/phoberos-and-skophos/phoberos-and-skophos.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/oreskos/oreskos.md",
+    "Compendium/realms-of-gods-and-mortals/the-underworld/the-underworld.md",
     "Compendium/rewards/rewards.md",
-    "Compendium/races/races.md",
-    "Compendium/crafting/enchantments/weapon/weapon.md",
-    "Compendium/crafting/enchantments/weapon/index.md",
-    "Compendium/spells/shield-spell-xphb.md",
-    "Compendium/spells/darkness-xphb.md",
-    "Compendium/rules/senses.md",
-    "Compendium/rules/variant-rules/darkness-rules-xphb.md",
-    "Compendium/rules/item-types.md",
-    "Compendium/tables/cover-table-xphb.md",
-    "Compendium/rules/variant-rules/firearms-rules-xdmg.md",
-    "Compendium/rules/variant-rules/explosives-rules-xdmg.md",
-    "Compendium/bestiary/legendary-group/arasta-legendary-mot.md",
-    "Compendium/spells/giant-insect-spell-xphb.md",
-    "Compendium/bestiary/humanoid/oracle-npc-mot.md",
-    "Compendium/books/players-handbook-2024/phb-12-credits.md",
-    "Compendium/books/dungeon-masters-guide-2024/dmg-12-credits.md",
-    "Compendium/vehicles/apparatus-of-kwalish-vehicle-xdmg.md",
-    "Compendium/supernatural-gifts",
-    "mythic-odysseys-of-theros/Character Creation",
+    "Compendium/realms-of-gods-and-mortals/nyx/nyx.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/mortal-realm.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-poleis/the-poleis.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-meletian-calendar.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/world-map.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-poleis",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-poleis/akros/akros.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-poleis/meletis/meletis.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-poleis/setessa/setessa.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/realms-of-the-returned/realms-of-the-returned.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-siren-sea/the-siren-sea.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/skola-vale/skola-vale.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-katachthon-mountains/the-katachthon-mountains.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-oraniad-mountains/the-oraniad-mountains.md",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-oraniad-mountains",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-katachthon-mountains",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/skola-vale",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-siren-sea",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/realms-of-the-returned",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/phoberos-and-skophos",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/oreskos",
+    "Compendium/realms-of-gods-and-mortals/mortal-realm/the-poleis/setessa",
+    "Backgrounds/AgoraHD.jpg",
+    "Backgrounds/AbandonedTempleHD.jpg",
     "mythic-odysseys-of-theros/img/086-04-11.webp",
     "mythic-odysseys-of-theros/img/084-02-03-heliod.webp",
     "mythic-odysseys-of-theros/img/081-map-4-2-asora.webp",
@@ -319,16 +282,6 @@
     "mythic-odysseys-of-theros/img/059-03-05.webp",
     "mythic-odysseys-of-theros/img/061-03-07.webp",
     "mythic-odysseys-of-theros/img/057-03-03.webp",
-    "mythic-odysseys-of-theros/img/022-02-01.webp",
-    "mythic-odysseys-of-theros/img/003-00-03-a.webp",
-    "mythic-odysseys-of-theros/img",
-    "mythic-odysseys-of-theros",
-    "Compendium/crafting/forging",
-    "Compendium/crafting",
-    "Compendium/crafting/enchantments/armor",
-    "Compendium/crafting/enchantments/weapon",
-    "Compendium/crafting/enchantments/universal",
-    "Compendium/crafting/enchantments",
     "DM Notes/Diagram.canvas",
     "DM Notes/Planes.canvas"
   ]
