@@ -57,7 +57,7 @@ _Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-A [[shield-xphb|Shield]] can be donned or doffed as an action.
+A [[shield-spell-xphb|Shield]] can be donned or doffed as an action.
 
 ## End Concentration
 _Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

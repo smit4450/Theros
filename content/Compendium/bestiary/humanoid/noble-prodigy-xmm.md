@@ -74,7 +74,7 @@ Nobles encompass a variety of people with social influence. They might be rulers
       \ (level 7 version)"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The noble casts [[shield-xphb|Shield]] in response\
+  - "desc": "The noble casts [[shield-spell-xphb|Shield]] in response\
       \ to that spell's trigger, using the same spellcasting ability as Spellcasting.\n"
     "name": "Shield (2/Day)"
 "source":

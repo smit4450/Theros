@@ -11,7 +11,7 @@ aliases:
 - "Shield of Missile Attraction"
 ---
 # Shield of Missile Attraction
-*Armor ([[shield-xphb|shield]]), cursed item, rare (requires attunement)*  
+*Armor ([[shield-spell-xphb|shield]]), cursed item, rare (requires attunement)*  
 ![](Compendium/items/img/shield-of-missile-attraction.webp#right)
 
 - **Armor Class**: 2

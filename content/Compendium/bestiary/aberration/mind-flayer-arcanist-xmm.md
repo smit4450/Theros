@@ -113,7 +113,7 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
       \ only), [[sending-xphb|Sending]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The mind flayer casts [[shield-xphb|Shield]] in response\
+  - "desc": "The mind flayer casts [[shield-spell-xphb|Shield]] in response\
       \ to that spell's trigger, using the same spellcasting ability as Spellcasting.\n"
     "name": "Shield (2/Day)"
 "source":

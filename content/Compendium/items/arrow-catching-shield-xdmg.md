@@ -11,7 +11,7 @@ aliases:
 - "Arrow-Catching Shield"
 ---
 # Arrow-Catching Shield
-*Armor ([[shield-xphb|shield]]), rare (requires attunement)*  
+*Armor ([[shield-spell-xphb|shield]]), rare (requires attunement)*  
 
 
 - **Armor Class**: 2

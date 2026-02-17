@@ -11,7 +11,7 @@ aliases:
 - "Shield of the Cavalier"
 ---
 # Shield of the Cavalier
-*Armor ([[shield-xphb|shield]]), very rare (requires attunement)*  
+*Armor ([[shield-spell-xphb|shield]]), very rare (requires attunement)*  
 ![](Compendium/items/img/shield-of-the-cavalier.webp#right)
 
 - **Armor Class**: 2

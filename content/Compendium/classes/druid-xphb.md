@@ -55,13 +55,13 @@ aliases:
 - **Skill Proficiencies**: *Choose 2:* [[skills#Animal%20Handling|Animal Handling]], [[skills#Arcana|Arcana]], [[skills#Insight|Insight]], [[skills#Medicine|Medicine]], [[skills#Nature|Nature]], [[skills#Perception|Perception]], [[skills#Religion|Religion]], or [[skills#Survival|Survival]]
 - **Weapon Proficiencies**: Simple weapons
 - **Tool Proficiencies**: [[herbalism-kit-xphb|Herbalism Kit]]
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]] and [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]] and [[shield-spell-xphb|Shields]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[leather-armor-xphb|Leather Armor]], [[shield-xphb|Shield]], [[sickle-xphb|Sickle]], [[druidic-focus-xphb|Druidic Focus (Quarterstaff)]], [[explorers-pack-xphb|Explorer's Pack]], [[herbalism-kit-xphb|Herbalism kit]], 9 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [[leather-armor-xphb|Leather Armor]], [[shield-spell-xphb|Shield]], [[sickle-xphb|Sickle]], [[druidic-focus-xphb|Druidic Focus (Quarterstaff)]], [[explorers-pack-xphb|Explorer's Pack]], [[herbalism-kit-xphb|Herbalism kit]], 9 GP; or (B) 50 GP
 
 ## Multiclassing Druid
 
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[shield-spell-xphb|Shields]]
 
 ## Druid
 

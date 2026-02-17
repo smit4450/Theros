@@ -10,7 +10,7 @@ aliases:
 - "Shield"
 ---
 # Shield
-*Armor ([[shield-xphb|shield]])*  
+*Armor ([[shield-spell-xphb|shield]])*  
 ![](Compendium/items/img/shield.webp#right)
 
 - **Armor Class**: 2

@@ -54,14 +54,14 @@ aliases:
 - **Saving Throw Proficiencies**: Constitution, Strength
 - **Skill Proficiencies**: *Choose 2:* [[skills#Animal%20Handling|Animal Handling]], [[skills#Athletics|Athletics]], [[skills#Intimidation|Intimidation]], [[skills#Nature|Nature]], [[skills#Perception|Perception]], or [[skills#Survival|Survival]]
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], and [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], and [[shield-spell-xphb|Shields]]
 
 **Starting Equipment:** *Choose A or B:* (A) [[greataxe-xphb|Greataxe]], 4 [[handaxe-xphb|Handaxes]], [[explorers-pack-xphb|Explorer's Pack]], and 15 GP; or (B) 75 GP
 
 ## Multiclassing Barbarian
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [[shield-xphb|Shields]]
+- **Armor Training**: [[shield-spell-xphb|Shields]]
 
 ## Barbarian
 
@@ -109,7 +109,7 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing any armor, your base [[armor-class-xphb|Armor Class]] equals 10 plus your Dexterity and Constitution modifiers. You can use a [[shield-xphb|Shield]] and still gain this benefit.
+While you aren't wearing any armor, your base [[armor-class-xphb|Armor Class]] equals 10 plus your Dexterity and Constitution modifiers. You can use a [[shield-spell-xphb|Shield]] and still gain this benefit.
 
 ### Weapon Mastery (Level 1)
 

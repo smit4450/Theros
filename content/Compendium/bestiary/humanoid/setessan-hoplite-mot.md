@@ -67,7 +67,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[[leather-armor-xphb|leather]], [[shield-xphb|shield]]"
+"ac_class": "[[leather-armor-xphb|leather]], [[shield-spell-xphb|shield]]"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "3"

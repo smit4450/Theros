@@ -24,7 +24,7 @@ Archdruids watch over the natural wonders of their domains. They seldom interact
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[[hide-armor-xphb|hide armor]], [[shield-xphb|shield]]"
+"ac_class": "[[hide-armor-xphb|hide armor]], [[shield-spell-xphb|shield]]"
 "hp": !!int "132"
 "hit_dice": "24d8 + 24"
 "modifier": !!int "2"

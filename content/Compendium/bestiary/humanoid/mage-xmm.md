@@ -101,7 +101,7 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
     "name": "Misty Step (3/Day)"
 "reactions":
   - "desc": "The mage casts [[counterspell-xphb|Counterspell]]\
-      \ or [[shield-xphb|Shield]] in response to the spell's trigger,\
+      \ or [[shield-spell-xphb|Shield]] in response to the spell's trigger,\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Protective Magic (3/Day)"
 "source":

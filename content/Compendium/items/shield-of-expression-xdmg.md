@@ -10,7 +10,7 @@ aliases:
 - "Shield of Expression"
 ---
 # Shield of Expression
-*Armor ([[shield-xphb|shield]]), common*  
+*Armor ([[shield-spell-xphb|shield]]), common*  
 
 
 - **Armor Class**: 2

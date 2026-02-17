@@ -11,7 +11,7 @@ aliases:
 - "Animated Shield"
 ---
 # Animated Shield
-*Armor ([[shield-xphb|shield]]), very rare (requires attunement)*  
+*Armor ([[shield-spell-xphb|shield]]), very rare (requires attunement)*  
 ![](Compendium/items/img/animated-shield.webp#right)
 
 - **Armor Class**: 2

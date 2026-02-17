@@ -54,7 +54,7 @@ aliases:
 - **Saving Throw Proficiencies**: Dexterity, Strength
 - **Skill Proficiencies**: *Choose 3:* [[skills#Animal%20Handling|Animal Handling]], [[skills#Athletics|Athletics]], [[skills#Insight|Insight]], [[skills#Investigation|Investigation]], [[skills#Nature|Nature]], [[skills#Perception|Perception]], [[skills#Stealth|Stealth]], or [[skills#Survival|Survival]]
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], and [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], and [[shield-spell-xphb|Shields]]
 
 **Starting Equipment:** *Choose A or B:* (A) [[studded-leather-armor-xphb|Studded Leather Armor]], [[scimitar-xphb|Scimitar]], [[shortsword-xphb|Shortsword]], [[longbow-xphb|Longbow]], [[arrows-20-xphb|20 Arrows]], [[quiver-xphb|Quiver]], [[druidic-focus-xphb|Druidic Focus]] ([[sprig-of-mistletoe-xphb|sprig of mistletoe]]), [[explorers-pack-xphb|Explorer's Pack]], and 7 GP; or (B) 150 GP
 
@@ -62,7 +62,7 @@ aliases:
 
 - **Skill Proficiencies**: *Choose 1:* [[skills#Animal%20Handling|Animal Handling]], [[skills#Athletics|Athletics]], [[skills#Insight|Insight]], [[skills#Investigation|Investigation]], [[skills#Nature|Nature]], [[skills#Perception|Perception]], [[skills#Stealth|Stealth]], or [[skills#Survival|Survival]]
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-spell-xphb|Shields]]
 
 ## Ranger
 

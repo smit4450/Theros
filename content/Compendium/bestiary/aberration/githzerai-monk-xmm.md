@@ -100,7 +100,7 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Psi-Powered Leap (2/Day)"
 "reactions":
   - "desc": "The githzerai casts [[feather-fall-xphb|Feather Fall]]\
-      \ or [[shield-xphb|Shield]] in response to the spell's trigger,\
+      \ or [[shield-spell-xphb|Shield]] in response to the spell's trigger,\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psionic Defense (2/Day)"
 "source":

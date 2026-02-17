@@ -31,5 +31,5 @@ aliases:
 | &emsp;[[splint-armor-xphb|Splint Armor]] | 17 | Str 15 | [[disadvantage-xphb|Disadvantage]] | 60 lb. | 200 GP |
 | &emsp;[[plate-armor-xphb|Plate Armor]] | 18 | Str 15 | [[disadvantage-xphb|Disadvantage]] | 65 lb. | 1,500 GP |
 | *Shield ([[actions#Utilize|Utilize]] Action to Don or Doff)* |
-| &emsp;[[shield-xphb|Shield]] | +2 | — | — | 6 lb. | 10 GP |
+| &emsp;[[shield-spell-xphb|Shield]] | +2 | — | — | 6 lb. | 10 GP |
 ^armor

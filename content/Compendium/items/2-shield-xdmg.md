@@ -10,7 +10,7 @@ aliases:
 - "+2 Shield"
 ---
 # +2 Shield
-*Armor ([[shield-xphb|shield]]), rare*  
+*Armor ([[shield-spell-xphb|shield]]), rare*  
 
 
 - **Armor Class**: 2

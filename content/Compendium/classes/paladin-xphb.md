@@ -54,14 +54,14 @@ aliases:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [[skills#Athletics|Athletics]], [[skills#Insight|Insight]], [[skills#Intimidation|Intimidation]], [[skills#Medicine|Medicine]], [[skills#Persuasion|Persuasion]], or [[skills#Religion|Religion]]
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[item-types#Heavy%20Armor|Heavy armor]], and [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[item-types#Heavy%20Armor|Heavy armor]], and [[shield-spell-xphb|Shields]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[chain-mail-xphb|Chain Mail]], [[shield-xphb|Shield]], [[longsword-xphb|Longsword]], 6 [[javelin-xphb|Javelins]], [[holy-symbol-xphb|Holy Symbol]], [[priests-pack-xphb|Priest's Pack]], and 9 GP; or (B) 150 GP
+**Starting Equipment:** *Choose A or B:* (A) [[chain-mail-xphb|Chain Mail]], [[shield-spell-xphb|Shield]], [[longsword-xphb|Longsword]], 6 [[javelin-xphb|Javelins]], [[holy-symbol-xphb|Holy Symbol]], [[priests-pack-xphb|Priest's Pack]], and 9 GP; or (B) 150 GP
 
 ## Multiclassing Paladin
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-spell-xphb|Shields]]
 
 ## Paladin
 

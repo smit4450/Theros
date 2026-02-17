@@ -10,7 +10,7 @@ aliases:
 - "Sentinel Shield"
 ---
 # Sentinel Shield
-*Armor ([[shield-xphb|shield]]), uncommon*  
+*Armor ([[shield-spell-xphb|shield]]), uncommon*  
 
 
 - **Armor Class**: 2

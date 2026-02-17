@@ -131,7 +131,7 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
     "name": "Spellcasting"
 "reactions":
   - "desc": "The lich casts [[counterspell-xphb|Counterspell]]\
-      \ or [[shield-xphb|Shield]] in response to the spell's trigger,\
+      \ or [[shield-spell-xphb|Shield]] in response to the spell's trigger,\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Protective Magic"
 "regional_effects":

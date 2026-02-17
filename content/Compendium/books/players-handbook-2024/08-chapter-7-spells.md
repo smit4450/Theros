@@ -516,7 +516,7 @@ The spells are presented in alphabetical order.
 - [[sequester-xphb|Sequester]]  
 - [[shapechange-xphb|Shapechange]]  
 - [[shatter-xphb|Shatter]]  
-- [[shield-xphb|Shield]]  
+- [[shield-spell-xphb|Shield]]  
 - [[shield-of-faith-xphb|Shield of Faith]]  
 - [[shillelagh-xphb|Shillelagh]]  
 - [[shining-smite-xphb|Shining Smite]]  

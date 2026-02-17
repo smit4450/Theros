@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a63bd1b39c74711",
+            "id": "b416636de4d13aac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/crafting/enchantments/weapon/weapon.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "weapon"
             }
           }
         ]
@@ -263,10 +267,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b74a3a1f4b57ccef",
+  "active": "b416636de4d13aac",
   "lastOpenFiles": [
-    "Compendium/spells/darkness-xphb.md",
+    "Compendium/crafting/enchantments/weapon/index.md",
+    "Compendium/crafting/enchantments/weapon/weapon.md",
     "Compendium/spells/spells.md",
+    "Compendium/spells/shield-spell-xphb.md",
+    "Compendium/spells/darkness-xphb.md",
     "Compendium/rules/senses.md",
     "Compendium/rules/variant-rules/darkness-rules-xphb.md",
     "Compendium/rules/item-types.md",
@@ -288,9 +295,6 @@
     "Compendium/bestiary/legendary-group/dracolich-legendary-xmm.md",
     "Compendium/bestiary/legendary-group/demilich-legendary-xmm.md",
     "Compendium/bestiary/legendary-group/death-tyrant-legendary-xmm.md",
-    "Compendium/bestiary/legendary-group/arch-hag-legendary-xmm.md",
-    "Compendium/bestiary/legendary-group/shadow-dragon-legendary-xmm.md",
-    "Compendium/bestiary/legendary-group/unicorn-legendary-xmm.md",
     "Compendium/supernatural-gifts",
     "mythic-odysseys-of-theros/Character Creation",
     "mythic-odysseys-of-theros/img/086-04-11.webp",

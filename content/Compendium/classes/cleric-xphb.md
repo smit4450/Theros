@@ -54,13 +54,13 @@ aliases:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [[skills#History|History]], [[skills#Insight|Insight]], [[skills#Medicine|Medicine]], [[skills#Persuasion|Persuasion]], or [[skills#Religion|Religion]]
 - **Weapon Proficiencies**: Simple weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], and [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], and [[shield-spell-xphb|Shields]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[chain-shirt-xphb|Chain Shirt]], [[shield-xphb|Shield]], [[mace-xphb|Mace]], [[holy-symbol-xphb|Holy Symbol]], [[priests-pack-xphb|Priest's Pack]], 7 GP; or (B) 110 GP
+**Starting Equipment:** *Choose A or B:* (A) [[chain-shirt-xphb|Chain Shirt]], [[shield-spell-xphb|Shield]], [[mace-xphb|Mace]], [[holy-symbol-xphb|Holy Symbol]], [[priests-pack-xphb|Priest's Pack]], 7 GP; or (B) 110 GP
 
 ## Multiclassing Cleric
 
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-spell-xphb|Shields]]
 
 ## Cleric
 

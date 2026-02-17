@@ -54,14 +54,14 @@ aliases:
 - **Saving Throw Proficiencies**: Constitution, Strength
 - **Skill Proficiencies**: *Choose 2:* [[skills#Acrobatics|Acrobatics]], [[skills#Animal%20Handling|Animal Handling]], [[skills#Athletics|Athletics]], [[skills#History|History]], [[skills#Insight|Insight]], [[skills#Intimidation|Intimidation]], [[skills#Perception|Perception]], [[skills#Persuasion|Persuasion]], or [[skills#Survival|Survival]]
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[item-types#Heavy%20Armor|Heavy armor]], and [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[item-types#Heavy%20Armor|Heavy armor]], and [[shield-spell-xphb|Shields]]
 
 **Starting Equipment:** *Choose A, B, or C:* (A) [[chain-mail-xphb|Chain Mail]], [[greatsword-xphb|Greatsword]], [[flail-xphb|Flail]], 8 [[javelin-xphb|Javelins]], [[dungeoneers-pack-xphb|Dungeoneer's Pack]], and 4 GP; (B) [[studded-leather-armor-xphb|Studded Leather Armor]], [[scimitar-xphb|Scimitar]], [[shortsword-xphb|Shortsword]], [[longbow-xphb|Longbow]], [[arrows-20-xphb|20 Arrows]], [[quiver-xphb|Quiver]], [[dungeoneers-pack-xphb|Dungeoneer's Pack]], and 11 GP; or (C) 155 GP
 
 ## Multiclassing Fighter
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-spell-xphb|Shields]]
 
 ## Fighter
 

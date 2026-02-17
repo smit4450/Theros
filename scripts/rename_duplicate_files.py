@@ -108,6 +108,10 @@ RENAME_MAPPINGS = {
     # Giant Insect spell vs bestiary - add '-spell' to spell
     r"Compendium[/\\]spells[/\\]giant-insect-xphb\.md$": 
         r"Compendium/spells/giant-insect-spell-xphb.md",
+    
+    # Shield spell vs item - add '-spell' to spell
+    r"Compendium[/\\]spells[/\\]shield-xphb\.md$": 
+        r"Compendium/spells/shield-spell-xphb.md",
 }
 
 

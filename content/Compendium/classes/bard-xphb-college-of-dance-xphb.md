@@ -55,7 +55,7 @@ Bards of the College of Dance know that the Words of Creation can't be contained
 
 ### Dazzling Footwork (Level 3)
 
-While you aren't wearing armor or wielding a [[shield-xphb|Shield]], you gain the following benefits.
+While you aren't wearing armor or wielding a [[shield-spell-xphb|Shield]], you gain the following benefits.
 
 ### Dance Virtuoso (Level 3)
 
