@@ -1,6 +1,7 @@
 """
 Convert markdown-style links to wiki links for Quartz/Obsidian compatibility.
-This fixes path resolution issues where absolute paths were being treated as relative.
+This converts all markdown links to .md files (both relative and absolute paths) into wikilinks.
+This fixes path resolution issues where paths were being treated incorrectly.
 """
 
 import re
@@ -50,11 +51,11 @@ def convert_markdown_link_to_wikilink(match: re.Match) -> str:
 
 def convert_file_links(content: str) -> str:
     """
-    Convert all Compendium markdown links to wiki links in the content.
+    Convert all markdown links to .md files to wiki links in the content.
     """
-    # Pattern to match markdown links that start with Compendium/
-    # Format: [text](Compendium/path/to/file.md) or [text](Compendium/path/to/file.md#anchor)
-    pattern = r'\[([^\]]+)\]\((Compendium/[^\)]+\.md(?:#[^\)]+)?)\)'
+    # Pattern to match markdown links ending in .md
+    # Format: [text](path/to/file.md) or [text](./file.md#anchor) or [text](Compendium/path/to/file.md)
+    pattern = r'\[([^\]]+)\]\(([^\)]+\.md(?:#[^\)]+)?)\)'
     
     # Replace all matches
     converted = re.sub(pattern, convert_markdown_link_to_wikilink, content)
@@ -67,8 +68,8 @@ def process_file(filepath: Path) -> bool:
     try:
         content = filepath.read_text(encoding='utf-8')
         
-        # Check if file has Compendium links
-        if 'Compendium/' not in content:
+        # Check if file has markdown links to .md files
+        if '](' not in content or '.md' not in content:
             return False
         
         new_content = convert_file_links(content)
