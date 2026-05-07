@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "smit4450.github.io/Theros",
+    baseUrl: "theros.harrisonsmith.me",
     ignorePatterns: ["private", "templates", ".obsidian", "Utilities", "z_Templates"],
     defaultDateType: "modified",
     theme: {
