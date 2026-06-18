@@ -1,0 +1,73 @@
+---
+title: Reaper of the Wilds
+obsidianUIMode: preview
+cssclasses: json5e-object
+tags:
+- src/5e/tbvvi
+- monster/cr/6
+- monster/size/m
+- monster/type/monstrosity
+statblock: inline
+aliases: ["Reaper of the Wilds"]
+---
+# Reaper of the Wilds
+*Source: Theros Bestiary TBVVI*  
+
+
+
+![Reaper of the Wilds](Homebrew/bestiary/monstrosity/img/reaper-of-the-wilds.webp#right)  
+
+```statblock
+"name": "Reaper of the Wilds (TBVVI)"
+"size": "Medium"
+"type": "monstrosity"
+"subtype": "medusa, gorgon"
+"alignment": "Lawful Evil"
+"ac": !!int "15"
+"hp": !!int "153"
+"hit_dice": "17d8 + 85"
+"modifier": !!int "2"
+"stats":
+  - !!int "18"
+  - !!int "15"
+  - !!int "20"
+  - !!int "12"
+  - !!int "13"
+  - !!int "15"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[[skills#Deception|Deception]]"
+    "desc": "+5"
+  - "name": "[[skills#Insight|Insight]]"
+    "desc": "+4"
+  - "name": "[[skills#Perception|Perception]]"
+    "desc": "+4"
+  - "name": "[[skills#Stealth|Stealth]]"
+    "desc": "+5"
+  - "name": "[[skills#Medicine|Medicine]]"
+    "desc": "+4"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
+"languages": "Common"
+"cr": "6"
+"traits":
+  - "desc": "The gorgon is an expert in extending its own life to immortality, and it enjoys a high-stake deal. If a creature successfully restrains the gorgon, it will share one of its medicinal secrets in exchange for its freedom."
+    "name": "Gorgon's Trial"
+  - "desc": "The gorgon doesn't require food, drink, or sleep."
+    "name": "Immortal Nature"
+  - "desc": "The reaper has [[advantage-xphb|Advantage]] on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "As soon as a creature within 30 feet of the gorgon sees the gorgon's face, it may make a DC 14 Constitution saving throw. On a success, that creature may use a reaction to shield its eyes or avert them. If the saving throw fails by 5 or more, or if the creature is unable to react, the creature is instantly [[conditions#Petrified|petrified]]. Otherwise, a creature that fails the save begins to turn to stone and is [[conditions#Restrained|restrained]]. The [[conditions#Restrained|restrained]] creature must repeat the saving throw at the end of its next turn, becoming [[conditions#Petrified|petrified]] on a failure or ending the effect on a success. The petrification lasts until the creature is unpetrified by a god.If the gorgon sees its own face reflected on a polished surface within 30 ft. of it and in an area of bright light, the gorgon is, due to its curse, affected by its own visage.This trait has no effect if the gorgon's face is not its normal flesh state. The trait remains active even if the gorgon is [[conditions#Incapacitated|incapacitated]], killed, and even beheaded."
+    "name": "Petrifying Visage"
+"actions":
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 6) bludgeoning damage."
+    "name": "Snake Hair"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 7 (2d6) bludgeoning damage, and the target is [[conditions#Grappled|grappled]] (escape DC 18) if it is a Large or smaller creature. Until this grapple ends, the target is [[conditions#Restrained|restrained]], and the reaper can’t constrict another target."
+    "name": "Constrict"
+"reactions":
+  - "desc": "Whenever a creature within 30 feet of the reaper is reduced to 0 [[hit-points-xphb|Hit Points]] or becomes [[conditions#Incapacitated|incapacitated]] or [[conditions#Petrified|petrified]], the reaper may reroll one die and choose either value rolled when it makes its next ability check, attack roll, or saving throw."
+    "name": "Gain the Upper Hand"
+"source":
+  - "TBVVI"
+"image": "Homebrew/bestiary/monstrosity/token/reaper-of-the-wilds-tbvvi.webp"
+```
+^statblock

@@ -1,0 +1,61 @@
+---
+title: Sentry of the Underworld
+obsidianUIMode: preview
+cssclasses: json5e-object
+tags:
+- src/5e/tbvv
+- monster/cr/2
+- monster/size/l
+- monster/type/undead
+statblock: inline
+aliases: ["Sentry of the Underworld"]
+---
+# Sentry of the Underworld
+*Source: Theros Bestiary TBVV*  
+
+<small><blockquote>When Athreos gathers the newly dead to be ferried across the Five Rivers That Ring the World, he sends skeletal griffins to fetch those who stray.</blockquote></small>
+
+![Sentry of the Underworld](Homebrew/bestiary/undead/img/sentry-of-the-underworld.webp#right)  
+
+```statblock
+"name": "Sentry of the Underworld (TBVV)"
+"size": "Large"
+"type": "undead"
+"subtype": "griffon"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "56"
+"hit_dice": "7d10 + 21"
+"modifier": !!int "2"
+"stats":
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "2"
+  - !!int "13"
+  - !!int "8"
+"speed": "30 ft., fly 80 ft."
+"skillsaves":
+  - "name": "[[skills#Perception|Perception]]"
+    "desc": "+5"
+"damage_vulnerabilities": "bludgeoning"
+"damage_immunities": "poison"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]], [[conditions#Poisoned|poisoned]]"
+"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception 10"
+"languages": ""
+"cr": "2"
+"traits":
+  - "desc": "The sentry has [[advantage-xphb|Advantage]] on Wisdom (Perception) checks that rely on sight."
+    "name": "Keen Sight"
+"actions":
+  - "desc": "The sentry makes two attacks: one with its beak and one with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
+    "name": "Beak"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
+    "name": "Claws"
+"source":
+  - "TBVV"
+"image": "Homebrew/bestiary/undead/token/sentry-of-the-underworld-tbvv.webp"
+```
+^statblock

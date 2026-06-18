@@ -1,0 +1,79 @@
+---
+title: Eidolon of the Great Revel
+obsidianUIMode: preview
+cssclasses: json5e-object
+tags:
+- src/5e/tbvxxii
+- monster/cr/3
+- monster/size/l
+- monster/type/miscellaneous
+statblock: inline
+aliases: ["Eidolon of the Great Revel"]
+---
+# Eidolon of the Great Revel
+*Source: Theros Bestiary TBVXXII*  
+
+<blockquote><small>Xenagos reveled while Theros burned.</small></blockquote>
+
+![Eidolon of the Great Revel](Homebrew/bestiary/miscellaneous/img/eidolon-of-the-great-revel.webp#right)  
+
+```statblock
+"name": "Eidolon of the Great Revel (TBVXXII)"
+"size": "Large"
+"type": "2nd-level necromancy undead"
+"alignment": "Unaligned"
+"ac": !!int "14"
+"hp": !!int "14"
+"hit_dice": "2d10 + 4"
+"modifier": !!int "2"
+"stats":
+  - !!int "10"
+  - !!int "15"
+  - !!int "14"
+  - !!int "11"
+  - !!int "11"
+  - !!int "10"
+"speed": "40 ft."
+"skillsaves":
+  - "name": "[[skills#Perception|Perception]]"
+    "desc": "+2"
+  - "name": "[[skills#Stealth|Stealth]]"
+    "desc": "+4"
+  - "name": "[[skills#Performance|Performance]]"
+    "desc": "+2"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
+    "desc": "+4"
+"damage_resistances": "necrotic, bludgeoning, piercing, and slashing from nonmagical attacks"
+"damage_immunities": "poison, fire"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]], [[conditions#Restrained|restrained]]"
+"senses": "passive Perception 10"
+"languages": "Common, Sylvan"
+"cr": "3"
+"traits":
+  - "desc": "Attack rolls against the eidolon are made with [[disadvantage-xphb|Disadvantage]] unless the eidolon is [[conditions#Incapacitated|incapacitated]]."
+    "name": "Blurred Form"
+  - "desc": "At the start of each of the eidolon's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the eidolon or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage."
+    "name": "Fire Aura"
+  - "desc": "The eidolon sheds bright light in a 30-foot radius and dim light for an additional 30 feet."
+    "name": "Illumination"
+  - "desc": "The eidolon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+  - "desc": "In addition to being a creature, the eidolon is a 2nd-level divine necromancy spell with no target. Its weapon attacks are magical."
+    "name": "Spell Nature"
+  - "desc": "The eidolon has [[advantage-xphb|Advantage]] on saving throws against any effect that turns undead."
+    "name": "Turn Resistance"
+  - "desc": "The eidolon doesn't require air, food, drink, or sleep."
+    "name": "Undead Nature"
+"actions":
+  - "desc": "The eidolon makes two attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) fire damage."
+    "name": "Fiery Touch"
+"reactions":
+  - "desc": "When any creature casts a cantrip or spell 3rd-level or lower, the eidolon deals 9 (2d8) fire damage to that spell's caster."
+    "name": "Pyromania"
+"source":
+  - "TBVXXII"
+"image": "Homebrew/bestiary/miscellaneous/token/eidolon-of-the-great-revel-tbvxxii.webp"
+```
+^statblock
