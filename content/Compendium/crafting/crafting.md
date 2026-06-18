@@ -21,15 +21,15 @@ The complete crafting rules, including:
 
 ## Enchantments
 
-### [[index|Enchantments Overview]]
+### [[enchantments|Enchantments Overview]]
 Browse all available enchantments:
-- [[index|Weapon Enchantments]] - 39 enchantments for weapons
-- [[index|Armor Enchantments]] - 28 enchantments for armor
-- [[index|Universal Enchantments]] - 10 enchantments for any item
+- [[weapon|Weapon Enchantments]] - 39 enchantments for weapons
+- [[armor|Armor Enchantments]] - 28 enchantments for armor
+- [[universal|Universal Enchantments]] - 10 enchantments for any item
 
 ## Rare Metals
 
-### [[index|Rare Metal Forging]]
+### [[forging|Rare Metal Forging]]
 Discover the properties of rare metals:
 - Common: Masterwork
 - Uncommon: Orichalcum, Silver
