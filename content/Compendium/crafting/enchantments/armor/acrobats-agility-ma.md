@@ -1,0 +1,18 @@
+---
+title: Acrobat's Agility
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- crafting/enchantment/armor
+- item/rarity/uncommon
+- item/attunement/required
+- src/5e/ma
+aliases:
+- Acrobat's Agility
+---
+# Acrobat's Agility
+*Armor Enchantment, Uncommon (requires attunement)*
+
+Your Dexterity score is 19 while you wear this armor. This has no effect if your Dexterity is already 19 or higher without it.
+
+*Source: Mystic Arts*

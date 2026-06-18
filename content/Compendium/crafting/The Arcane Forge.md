@@ -3,7 +3,7 @@ title: The Arcane Forge
 tags:
   - rule/
   - crafting/
-  - src/5e/gmoa
+  - src/5e/ma
   - src/homebrew
 aliases:
   - Arcane Forge

@@ -1,0 +1,18 @@
+---
+title: Beastly Senses
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- crafting/enchantment/armor
+- item/rarity/uncommon
+- item/attunement/required
+- src/5e/ma
+aliases:
+- Beastly Senses
+---
+# Beastly Senses
+*Armor Enchantment, Uncommon (requires attunement)*
+
+Your Wisdom score is 19 while you wear this armor. This has no effect if your Wisdom is already 19 or higher without it.
+
+*Source: Mystic Arts*
