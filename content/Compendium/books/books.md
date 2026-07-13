@@ -10,4 +10,5 @@ cssclasses:
 - [Monster Manual 2025](./monster-manual-2025/monster-manual-2025.md)
 - [Mythic Odysseys of Theros](./mythic-odysseys-of-theros/mythic-odysseys-of-theros.md)
 - [Players Handbook 2024](./players-handbook-2024/players-handbook-2024.md)
+- [The Arcane Forge](./the-arcane-forge/the-arcane-forge.md)
 - [The Gray Merchant of Asphodel](./the-gray-merchant-of-asphodel/the-gray-merchant-of-asphodel.md)

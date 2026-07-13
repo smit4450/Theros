@@ -1,0 +1,20 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- compendium/src/5e/ma
+- item/rarity/very-rare
+aliases:
+- "Vengeful"
+---
+# Vengeful
+*Very rare*  
+
+
+
+*Armor Enchantment, Very Rare*
+
+When you take damage from an attack while wearing this armor, you can take a reaction to force the creature that hit you to succeed on a DC 15 Dexterity saving throw or take the same amount of damage as force damage. It takes half as much damage on a success. Once this property is used, it cannot be used again until the next dawn.
+
+*Source: Mystic Arts*
