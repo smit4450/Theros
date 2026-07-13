@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Rare*
+*Weapon Enchantment*
 
 When a creature takes damage from this weapon, it cannot teleport or leave this plane of existence until the end of its next turn.
 

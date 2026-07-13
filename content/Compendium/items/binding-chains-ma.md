@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Uncommon*
+*Weapon Enchantment*
 
 When you hit a target with this weapon, you may attempt to grapple it as a bonus action.
 

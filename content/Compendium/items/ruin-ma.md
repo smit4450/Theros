@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Very Rare (requires attunement)*
+*Weapon Enchantment*
 
 This weapon deals an extra 2d8 lightning damage. While attuned to this weapon, you are immune to being charmed or frightened.
 

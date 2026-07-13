@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Uncommon (requires attunement)*
+*Weapon Enchantment*
 
 As long as this weapon is within your reach and you are attuned to it, you and allies within 30 feet of you gain the following benefits.
 

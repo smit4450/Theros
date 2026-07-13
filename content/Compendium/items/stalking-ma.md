@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Uncommon*
+*Weapon Enchantment*
 
 When you use this weapon to make an attack with advantage, you can roll the weapon's damage dice twice and use either roll.
 

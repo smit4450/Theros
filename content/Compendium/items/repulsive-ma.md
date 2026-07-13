@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Rare*
+*Weapon Enchantment*
 
 When you hit a large or smaller creature with this weapon, you can move it up to 10 feet along the ground in any direction.
 

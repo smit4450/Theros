@@ -13,9 +13,9 @@ aliases:
 
 
 
-*Armor Enchantment, Uncommon*
+*Armor Enchantment*
 
-You can use a Magic action to create a 15-foot Emanation originating from you until the start of your next turn. Whenever a creature enters the emanation, or starts its turn in there, it takes damage equal to your proficiency bonus.
+You can use a [[actions#Magic|Magic]] action to create a 15-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you until the start of your next turn. Whenever a creature enters the emanation, or starts its turn in there, it takes damage equal to your proficiency bonus.
 
 You determine the aura's damage type when you create the armor. You can chose from the table below, or by rolling on it:
 

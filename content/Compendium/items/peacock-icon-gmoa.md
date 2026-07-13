@@ -17,7 +17,7 @@ aliases:
 
 This icon is a metal statuette made from some unknown alloy that gives it an iridescent, rainbow effect, and its form is of a male peacock with feathers raised. It can grant Aspect of Peacock for 3 hours. Once it has been used, it can't be used again until 3 days have passed.
 
-**Aspect of Peacock.** You're able to see in all directions and have advantage on Wisdom (Perception) checks that rely on sight. This effect persists even if you are asleep or unconscious unless you use a bonus action to disable this effect.
+**Aspect of Peacock.** You're able to see in all directions and have [[advantage-xphb|advantage]] on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight. This effect persists even if you are asleep or unconscious unless you use a [[bonus-action-xphb|bonus action]] to disable this effect.
 
 ## Paid
 

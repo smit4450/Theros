@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Universal Enchantment, Rare (requires attunement)*
+*Universal Enchantment*
 
 Choose one of your skill proficiencies with which you lack expertise. While you are attune to this item, you have expertise in that skill.
 

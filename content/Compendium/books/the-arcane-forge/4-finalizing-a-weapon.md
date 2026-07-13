@@ -12,19 +12,31 @@ aliases:
 
 When you've crafted the item and enchanted it, all that's left to do is some finalization.
 
-#### Determine Rarity The rarity of the completed item is equal to the rarity of the rarest metal, enchantment, or spellcasting property on the item. Every enchantment or inclusion of a spellcasting property increases the rarity by one step. For example, a Masterwork Longsword is Uncommon Item, but once you've added the Maneuvering Enchantment it becomes a Rare item, if you then later reenchant the weapon to include the Vorpal enchantment, it's now a legendary weapon.
+## Determine Rarity
+
+The rarity of the completed item is equal to the rarity of the rarest metal, enchantment, or spellcasting property on the item. Every enchantment or inclusion of a spellcasting property increases the rarity by one step. For example, a Masterwork Longsword is Uncommon Item, but once you've added the Maneuvering Enchantment it becomes a Rare item, if you then later reenchant the weapon to include the Vorpal enchantment, it's now a legendary weapon.
 
 The completed item's rarity doesn't affect the time and cost required to make the item.
 
-#### Determine Attunement If any part of your magic item requires attunement, the item as a whole requires attunement.
+## Determine Attunement
 
-#### Name the Item No magic item is complete without a name, and there are a few ways to give it a memorable name.
+If any part of your magic item requires attunement, the item as a whole requires attunement.
 
-###### Using the Listed Names You can simply use the listed enchantments as inspiration. An Adamantine Longsword with the Mighty Cleaving enchantment might be the Adamantine Sword of Mighty Cleaving, whereas a Mithral Longsword with the Luck enchantment might be the Lucky Mithral Longsword.
+## Name the Item
 
-###### Creating Evocative Names You can chose to give your weapon a name evocative of your character or of the weapon's properties without naming them explicitly. Names like Slayer or Skewer, or Lady come to mind. Or maybe your character names it after someone they love, and their Bloodmetal Vorpal Greatsword could be called Rosie.
+No magic item is complete without a name, and there are a few ways to give it a memorable name.
 
-###### Bit of Both You could also find the fun within between evocative names and listed names. A greatsword with the Swatting enchantment that is honed in on the humanoid creature type might be mostly used for killing goblins. And thus: you've got a Greatsword of Goblinswatting.
+### Using the Listed Names
+
+You can simply use the listed enchantments as inspiration. An Adamantine Longsword with the Mighty Cleaving enchantment might be the Adamantine Sword of Mighty Cleaving, whereas a Mithral Longsword with the Luck enchantment might be the Lucky Mithral Longsword.
+
+### Creating Evocative Names
+
+You can chose to give your weapon a name evocative of your character or of the weapon's properties without naming them explicitly. Names like Slayer or Skewer, or Lady come to mind. Or maybe your character names it after someone they love, and their Bloodmetal Vorpal Greatsword could be called Rosie.
+
+### Bit of Both
+
+You could also find the fun within between evocative names and listed names. A greatsword with the Swatting enchantment that is honed in on the humanoid creature type might be mostly used for killing goblins. And thus: you've got a Greatsword of Goblinswatting.
 
 ## Example Marvels
 

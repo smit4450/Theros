@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Very Rare*
+*Weapon Enchantment*
 
 If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against another creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage. You cannot attack the same creature more than once with this property as a part of the same attack.
 

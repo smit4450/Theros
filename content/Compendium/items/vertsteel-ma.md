@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Legendary (10,000 gp per ingot)*
+*Rare Metal (10,000 gp per ingot)*
 
 To bind the eternal storm of Pandemonium, the dwarves created a new metal through the magic of true names. Said to be indestructible by all means but the utterance of its name, vertsteel reflects light in brilliant shades of green.
 

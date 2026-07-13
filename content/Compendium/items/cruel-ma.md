@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Uncommon*
+*Weapon Enchantment*
 
 When you kill a creature with this weapon, you gain 5 temporary hit points.
 

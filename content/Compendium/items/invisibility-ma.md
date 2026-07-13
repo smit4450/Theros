@@ -14,8 +14,8 @@ aliases:
 
 
 
-*Universal Enchantment, Legendary (requires attunement)*
+*Universal Enchantment*
 
-While holding or wearing this item, you can take a Magic action to become Invisible. You remain invisible until you use a Bonus Action to become visible again or until you are no longer holding or wearing this item.
+While holding or wearing this item, you can take a [[actions#Magic|Magic]] action to become [[conditions#Invisible|Invisible]]. You remain invisible until you use a Bonus Action to become visible again or until you are no longer holding or wearing this item.
 
 *Source: Mystic Arts*

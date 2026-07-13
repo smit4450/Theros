@@ -12,9 +12,13 @@ aliases:
 
 To create other magic items other than spell scrolls and potions, follow the rules below. In these rules, “you” refers to the character crafting the magic items.
 
-###### Arcana Proficiency To craft a magic item, you must have proficiency in Arcana.
+## Arcana Proficiency
 
-###### Tools The **Magic Item Tools** table lists which tool is required to make a magic item of each category. You or one of your assistants must use the required tool to make an item and have proficiency with that tool. For more information on the tools, see _Equipment._
+To craft a magic item, you must have proficiency in Arcana.
+
+## Tools
+
+The **Magic Item Tools** table lists which tool is required to make a magic item of each category. You or one of your assistants must use the required tool to make an item and have proficiency with that tool. For more information on the tools, see _Equipment._
 
 | Item Category | Required Tool |
 |---------------|---------------|
@@ -29,9 +33,13 @@ To create other magic items other than spell scrolls and potions, follow the rul
 | Wondrous Item | Tinker’s Tools or the tool required to make the nonmagical item on which the magic item is based (if any) |
 ^item-category-required-tool
 
-###### Spells If a magic item allows its user to cast any spells from it, you must have all those spells prepared every day you spend crafting the item.
+## Spells
 
-###### Time and Cost Crafting a magic item takes an amount of time and money based on the item’s rarity as shown in the **Magic Item Crafting Time and Cost** table.
+If a magic item allows its user to cast any spells from it, you must have all those spells prepared every day you spend crafting the item.
+
+## Time and Cost
+
+Crafting a magic item takes an amount of time and money based on the item’s rarity as shown in the **Magic Item Crafting Time and Cost** table.
 
 - **Work per Day.** For each day of crafting, you must work for 8 hours. If an item requires multiple days, those days needn’t be consecutive.  
 - **Assistants.** Characters can combine their efforts to shorten the crafting time. Divide the time needed to create an item by the number of characters working on it. Normally, only one other character can assist you, but the GM might allow more assistants. Any assistants must have proficiency with the tool required to make the item they are assisting in the creation of.  
@@ -83,9 +91,9 @@ In this example, the player wanted to make a specific item, and the GM offered a
 
 When players defeat a monster in battle, they may be able to harvest an essence from it. They do this by a combination of actions:
 
-***Study the Creature.*** You can use the Study action to attempt to identify an essence that could be extracted from a creature. Make an arcana check with a DC of 10 + the creature's CR. On a success, you learn what part of the creature would have to be harvested to gain that essence.
+***Study the Creature.*** You can use the [[actions#Study|Study]] action to attempt to identify an essence that could be extracted from a creature. Make an arcana check with a DC of 10 + the creature's CR. On a success, you learn what part of the creature would have to be harvested to gain that essence.
 
-***Harvest the Essence.*** You can use the Utilize action to attempt to harvest a specific essence from a creature that died within the last round. Make a survival check with a DC of 10 + the creature's CR. On a success, you harvest that essence. On a failure, the essence is destroyed.
+***Harvest the Essence.*** You can use the [[actions#Utilize|Utilize]] action to attempt to harvest a specific essence from a creature that died within the last round. Make a survival check with a DC of 10 + the creature's CR. On a success, you harvest that essence. On a failure, the essence is destroyed.
 
 As the GM it's up to you to take a look at the creature's monster statblock and determine what useful parts there are and describe the player's success or failure. Alternatively, you can ask your table to contribute any ideas.
 

@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Uncommon (100 gp per ingot)*
+*Rare Metal (100 gp per ingot)*
 
 In the Age of Heroes, humans discovered orichalcum. Sometimes called true bronze, this metal and the ease with which it took to enchantment became the foundation of human civilization as it was carved out of the wilderness. This brass metal occasionally reflects light with a near golden sheen.
 

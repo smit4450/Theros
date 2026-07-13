@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Uncommon (requires attunement)*
+*Weapon Enchantment*
 
 You can use a bonus action to change the shape and statistics of this weapon into those of any other weapon that belongs to the same category (i.e. a simple weapon can only become another simple weapon, and a martial weapon can only become another martial weapon).
 

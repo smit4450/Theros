@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Rare*
+*Weapon Enchantment*
 
 When you deal damage with this weapon to a creature concentrating on a spell, it has disadvantage on the concentration check it makes as a result of that damage.
 

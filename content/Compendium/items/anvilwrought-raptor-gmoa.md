@@ -36,9 +36,9 @@ Add the ability to record all sounds the raptor hears for up to one minute as an
 
 "speed": "10 ft., fly 60 ft." "skillsaves":
 
-- "name": "Perception"  
+- "name": "[[skills#Perception|Perception]]"  
 
-"desc": "+3" "damage_immunities": "poison, psychic" "condition_immunities": "charmed, exhaustion, frightened, petrified," "senses": "darkvision 120 ft., Passive Perception 13" "languages": "understands all but can't speak" "cr": "1" "traits":
+"desc": "+3" "damage_immunities": "poison, psychic" "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]], [[conditions#Petrified|petrified]]," "senses": "darkvision 120 ft., Passive Perception 13" "languages": "understands all but can't speak" "cr": "1" "traits":
 
 - "desc": "The raptor always surprises enemies at the start of combat."  
 

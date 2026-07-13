@@ -84,7 +84,7 @@ Story items are included in their own roll tables to avoid introducing unexpecte
 
 ## Gray Merchant Coins
 
-The Gray Merchant leaves a trail of gold coins that fall from the bag he carries. See the Gray Merchant's gold coins item entry for details.
+The Gray Merchant leaves a trail of gold coins that fall from the bag he carries. See the [[gray-merchants-gold-coin-gmoa|Gray Merchant's gold coins]] item entry for details.
 
 ## Background Lore
 

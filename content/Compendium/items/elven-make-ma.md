@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Armor Enchantment, Rare (requires attunement)*
+*Armor Enchantment*
 
 You are considered trained with this armor even if you are not proficient with it.
 

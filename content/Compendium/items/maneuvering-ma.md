@@ -14,8 +14,8 @@ aliases:
 
 
 
-*Weapon Enchantment, Uncommon (requires attunement)*
+*Weapon Enchantment*
 
-When you hit a creature with this weapon, you don't provoke Opportunity Attacks from that creature for the rest of the turn.
+When you hit a creature with this weapon, you don't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]] from that creature for the rest of the turn.
 
 *Source: Mystic Arts*

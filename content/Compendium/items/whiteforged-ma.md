@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Rare (500 gp per ingot)*
+*Rare Metal (500 gp per ingot)*
 
 Only the most noble of Knights-Errant in the oldest days of Brightwell could earn the trust of a metallic dragon enough to forge a blade from their dragon's breath. This weapon has a brilliant chrome shine.
 

@@ -18,7 +18,7 @@ aliases:
 
 This burnished plate armor looks as though someone might have polished it today, but its menacing aura marks it as having been crafted by archons, celestial beings who long ago ruled Theros as tyrants and continue to claim they serve a purpose higher than the gods.
 
-**Ancestral Rage.** The sight of the armor triggers inherited instincts that drive Therans into reckless action. While you wear the armor, humanoids have advantage on melee attacks against you. Until the start of their next turn, you have advantage against humanoids that have made melee attacks against you.
+**Ancestral Rage.** The sight of the armor triggers inherited instincts that drive Therans into reckless action. While you wear the armor, humanoids have [[advantage-xphb|advantage]] on melee attacks against you. Until the start of their next turn, you have [[advantage-xphb|advantage]] against humanoids that have made melee attacks against you.
 
 ## Paid
 
@@ -26,7 +26,7 @@ You gain the following attributes when wearing the armor:
 
 **Dexterous Defense.** You add your Dexterity modifier to your AC against melee attacks.
 
-**Authoritative Presence.** You gain a +3 bonus to Charisma (Intimidation) checks but suffer a -3 penalty to Charisma (Persuasion) checks.
+**Authoritative Presence.** You gain a +3 bonus to Charisma ([[skills#Intimidation|Intimidation]]) checks but suffer a -3 penalty to Charisma ([[skills#Persuasion|Persuasion]]) checks.
 
 ## Overpaid
 

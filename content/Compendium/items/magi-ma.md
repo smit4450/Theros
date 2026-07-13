@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Very Rare (requires attunement)*
+*Weapon Enchantment*
 
 While you hold this weapon, your spell save DC increases by 2 and you get a +2 bonus to spell attack rolls.
 

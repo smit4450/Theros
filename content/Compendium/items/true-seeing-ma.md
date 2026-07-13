@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Universal Enchantment, Legendary (requires attunement)*
+*Universal Enchantment*
 
 You have truesight out to 30 feet while attuned to this item.
 

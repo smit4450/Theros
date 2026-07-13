@@ -23,10 +23,10 @@ This metal rod is 2 feet long and causes anyone who touches it to receive a harm
 
 ## Paid
 
-Once a day, with the rod in hand, you can cast the call lightning spell at 9th level.
+Once a day, with the rod in hand, you can cast the [[call-lightning-xphb|call lightning]] spell at 9th level.
 
 ## Overpaid
 
-Once a day for the first ten days after you attune to the rod, you may cast the commune spell without requiring material components to contact Keranos, god of storms.
+Once a day for the first ten days after you attune to the rod, you may cast the [[commune-xphb|commune]] spell without requiring material components to contact Keranos, god of storms.
 
 *Source: The Gray Merchant of Asphodel*

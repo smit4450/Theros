@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Armor Enchantment, Uncommon (requires attunement)*
+*Armor Enchantment*
 
 You cannot be moved along the ground against your will.
 

@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Armor Enchantment, Uncommon (requires attunement)*
+*Armor Enchantment*
 
 You gain a climb speed equal to your walking speed.
 

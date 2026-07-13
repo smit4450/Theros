@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Uncommon (100 gp per ingot)*
+*Rare Metal (100 gp per ingot)*
 
 Working silver into usable weapons is a rare skill in most societies, mostly because it's usefulness is limited. But when fighting lycanthropes and vampires, there is no metal better suited for the task.
 

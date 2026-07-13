@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Armor Enchantment, Uncommon (requires attunement)*
+*Armor Enchantment*
 
 Your Charisma score is 19 while you wear this armor. This has no effect if your Charisma is already 19 or higher without it.
 

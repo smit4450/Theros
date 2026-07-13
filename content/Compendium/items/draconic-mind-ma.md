@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Armor Enchantment, Uncommon (requires attunement)*
+*Armor Enchantment*
 
 Your Intelligence score is 19 while you wear this armor. This has no effect if your Intelligence is already 19 or higher without it.
 

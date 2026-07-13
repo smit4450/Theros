@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Armor Enchantment, Rare*
+*Armor Enchantment*
 
 You gain a fly speed equal to your walking speed.
 

@@ -16,25 +16,25 @@ aliases:
 
 *Price: 500,000-750,000 gp | high sentimentality*
 
-This shortbow and quiver set is blessed by Nylea, god of the hunt. It hums with a sound that resembles distant birdsong. When held, it changes the sound of your footsteps into rustling wind and a light breeze, a perfect mix of sound that deceives the ear into thinking no one is approaching. With the bow in hand, you have advantage on Dexterity (Stealth) checks and can speak with animals as if using the speak with animals spell. You gain a +3 bonus to attack rolls made with this magic weapon.
+This [[shortbow-xphb|shortbow]] and quiver set is blessed by Nylea, god of the hunt. It hums with a sound that resembles distant birdsong. When held, it changes the sound of your footsteps into rustling wind and a light breeze, a perfect mix of sound that deceives the ear into thinking no one is approaching. With the bow in hand, you have [[advantage-xphb|advantage]] on Dexterity ([[skills#Stealth|Stealth]]) checks and can speak with animals as if using the [[speak-with-animals-xphb|speak with animals]] spell. You gain a +3 bonus to attack rolls made with this magic weapon.
 
 ## Paid
 
 You gain the following attributes when using the weapon:
 
-**Studied Attack.** You can use an action to study a creature by making a DC 20 Intelligence (Nature)
+**Studied Attack.** You can use an action to study a creature by making a DC 20 Intelligence ([[skills#Nature|Nature]])
 
-or Wisdom (Survival) check. You have advantage if performing the check on a favored enemy or a creature on which you have the hunter's mark spell active. On a successful check, for the next 24 hours, any attack made with the bow that hits the targeted creature is automatically a critical hit.
+or Wisdom ([[skills#Survival|Survival]]) check. You have [[advantage-xphb|advantage]] if performing the check on a favored enemy or a creature on which you have the [[hunters-mark-xphb|hunter's mark]] spell active. On a successful check, for the next 24 hours, any attack made with the bow that hits the targeted creature is automatically a critical hit.
 
 **Replenishing Quiver.** The quiver can hold up to 20 arrows. When you score a critical hit against a creature using the bow, the spent arrow teleports back into the quiver and is ready to use again.
 
-**Coordinated Hunt.** While you are attuned to the bow, any creature you control has advantage on attack rolls against creatures you attacked on your last turn.
+**Coordinated Hunt.** While you are attuned to the bow, any creature you control has [[advantage-xphb|advantage]] on attack rolls against creatures you attacked on your last turn.
 
-**Nylea's Guidance.** During a long rest,
+**Nylea's Guidance.** During a [[long-rest-xphb|long rest]],
 
-**Nylea whispers guidance to you.** You gain a +2 to your choice of Dexterity, Intelligence, or Wisdom until your next long rest.
+**Nylea whispers guidance to you.** You gain a +2 to your choice of Dexterity, Intelligence, or Wisdom until your next [[long-rest-xphb|long rest]].
 
-**Fickle Patron.** Nylea is a fickle god whom you can easily offend. The following activities cause the bow to lose all magical properties and function as a regular shortbow until you regain her blessing by making an appropriate sacrifice to her and succeeding a DC 20 Intelligence (Religion) check:
+**Fickle Patron.** Nylea is a fickle god whom you can easily offend. The following activities cause the bow to lose all magical properties and function as a regular [[shortbow-xphb|shortbow]] until you regain her blessing by making an appropriate sacrifice to her and succeeding a DC 20 Intelligence ([[skills#Religion|Religion]]) check:
 
 - Hunt for sport  
 - Fail to use an action to request her blessing before attacking a beast that isn't attacking you or an ally. You may request her blessing as part of the Studied Attack action, but you must explicitly declare the request.  
@@ -43,7 +43,7 @@ or Wisdom (Survival) check. You have advantage if performing the check on a favo
 
 ## Overpaid
 
-Once a day for the first 10 days after you attune to the bow, you can cast the commune spell without requiring material components to contact Nylea.
+Once a day for the first 10 days after you attune to the bow, you can cast the [[commune-xphb|commune]] spell without requiring material components to contact Nylea.
 
 ## Destroying the Bow of Nylea's Hunter
 

@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Rare*
+*Weapon Enchantment*
 
 When you kill a creature with an attack using this weapon, roll the weapon's damage dice again. Creatures within 5 feet of the killed creature take damage equal to the result.
 

@@ -19,7 +19,7 @@ The expression on this mask is eerily neutral, so unfeeling you wonder what thou
 
 ## Paid
 
-While you wear this mask, you are immune to the frightened condition.
+While you wear this mask, you are immune to the [[conditions#Frightened|frightened]] condition.
 
 ## Overpaid
 

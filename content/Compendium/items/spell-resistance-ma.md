@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Universal Enchantment, Rare (requires attunement)*
+*Universal Enchantment*
 
 You have advantage on saving throws against spells while attuned to this item.
 

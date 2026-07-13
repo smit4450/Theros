@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Rare (1,000 gp per ingot)*
+*Rare Metal (1,000 gp per ingot)*
 
 Devils mastered the creation of cold iron to wage war with the fey. Its very touch wounds them, and its mere presence wilts the vibrant colors of the feywild. This metal reflects light in dullish browns, almost like it's long since rusted.
 

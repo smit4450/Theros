@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Universal Enchantment, Uncommon (requires attunement)*
+*Universal Enchantment*
 
 You can use a bonus action to make this magic item appear in your hand as long as you and it are on the same plane of existence. If the item is a shield, this counts as donning it.
 

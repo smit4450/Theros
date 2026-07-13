@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Armor Enchantment, Uncommon*
+*Armor Enchantment*
 
 You can don or doff this armor as an action.
 

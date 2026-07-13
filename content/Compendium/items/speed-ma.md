@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Armor Enchantment, Very Rare (requires attunement)*
+*Armor Enchantment*
 
 You can take a bonus action to activate this armor for 10 minutes. When you do your speed is doubled, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. Once this property is used, it cannot be used again until the next dawn.
 

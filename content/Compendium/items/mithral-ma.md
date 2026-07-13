@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Very Rare (2,500 gp per ingot)*
+*Rare Metal (2,500 gp per ingot)*
 
 Elves fought their long wars against both dragons and titans, in their pursuit of weapons for these wars they discovered mithral deep within the mountains of Mythalen. Mithral reflects light with a slightly bluish hue.
 

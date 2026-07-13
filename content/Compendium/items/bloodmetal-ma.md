@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Very Rare (5,000 gp per ingot)*
+*Rare Metal (5,000 gp per ingot)*
 
 During the early days of the Age of Heroes, Varic the Corpse created Bloodmetal to hold the wizards of Thalanil to account. This metal cut through the weave, even if it was dormant within spellcasters. This metal reflects light in shades of red.
 

@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Very Rare (requires attunement)*
+*Weapon Enchantment*
 
 You can make one attack with this weapon as a bonus action on each of your turns.
 

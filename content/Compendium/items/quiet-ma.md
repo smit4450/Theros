@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Armor Enchantment, Uncommon (requires attunement)*
+*Armor Enchantment*
 
 While you wear this armor, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks.
 

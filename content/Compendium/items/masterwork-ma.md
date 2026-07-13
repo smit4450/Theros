@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Common*
+*Rare Metal*
 
 Ordinary humanoid creatures from all walks of life have managed, through great time and effort, to create masterwork weapons and armor. To the eyes of even ordinary laymen, this metal appears extraordinary in its make and quality. No rare metal are required to craft masterwork equipment.
 

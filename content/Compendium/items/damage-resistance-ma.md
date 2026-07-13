@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Universal Enchantment, Rare (requires attunement)*
+*Universal Enchantment*
 
 You have resistance to one type of damage while attuned to this item. Choose the type from the table below.
 

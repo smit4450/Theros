@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Universal Enchantment, Uncommon*
+*Universal Enchantment*
 
 You have darkvision out to 60 feet while holding or wearing this item. If you already have darkvision, wearing this armor increases its range by 60 feet.
 

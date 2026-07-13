@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Armor Enchantment, Rare (requires attunement)*
+*Armor Enchantment*
 
 You gain blindsight out to 30 feet and you cannot be surprised.
 

@@ -14,8 +14,8 @@ aliases:
 
 
 
-*Armor Enchantment, Rare (requires attunement)*
+*Armor Enchantment*
 
-You can take a Magic action to spend a Hit Point Dice to regain hit points.
+You can take a [[actions#Magic|Magic]] action to spend a [[hit-point-dice-xphb|Hit Point Dice]] to regain hit points.
 
 *Source: Mystic Arts*

@@ -15,7 +15,7 @@ aliases:
 
 *Price: 1,000-5,000 gp | low sentimentality*
 
-This wreath is only given to champions of the Iroan Games held in Akros. People assume anyone who possesses or wears such a wreath won one of the sporting events at the Games. While you hold or wear the wreath, you have advantage on any Charisma checks in which you make an appeal to athleticism or athletic fame. If you won this wreath yourself at the Iroan Games, you may choose to have advantage on Strength (Athletics) or Dexterity (Acrobatics) checks up to three times a day.
+This wreath is only given to champions of the Iroan Games held in Akros. People assume anyone who possesses or wears such a wreath won one of the sporting events at the Games. While you hold or wear the wreath, you have [[advantage-xphb|advantage]] on any Charisma checks in which you make an appeal to athleticism or athletic fame. If you won this wreath yourself at the Iroan Games, you may choose to have advantage on Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) checks up to three times a day.
 
 ## Paid
 

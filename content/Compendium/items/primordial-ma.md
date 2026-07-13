@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Uncommon*
+*Weapon Enchantment*
 
 This weapon is imbued with the power of the outer planes. When you create this weapon choose a type of damage from the table, or roll randomly. The weapon deals an extra 1d8 damage of that type.
 

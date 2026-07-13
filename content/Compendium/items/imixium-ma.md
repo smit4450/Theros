@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Very Rare (5,000 gp per ingot)*
+*Rare Metal (5,000 gp per ingot)*
 
 Cults of Elemental Evil created the potent Imixium by channeling primordial powers through adamantine until they had created a stark black metal with vibrant red edges.
 

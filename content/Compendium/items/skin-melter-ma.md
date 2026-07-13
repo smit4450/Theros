@@ -14,8 +14,8 @@ aliases:
 
 
 
-*Weapon Enchantment, Rare (requires attunement)*
+*Weapon Enchantment*
 
-When you hit a creature with this weapon it takes an extra 1d10 acid damage and is Frightened of you until the end of its next turn.
+When you hit a creature with this weapon it takes an extra 1d10 acid damage and is [[conditions#Frightened|Frightened]] of you until the end of its next turn.
 
 *Source: Mystic Arts*

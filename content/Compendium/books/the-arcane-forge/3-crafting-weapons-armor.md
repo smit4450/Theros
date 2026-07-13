@@ -44,16 +44,16 @@ You can add the following enchantments on anything, be it an existing wondrous i
 
 | dice: d10 | Enchantment | Rarity | Attunement? |
 |-----------|-------------|--------|-------------|
-| 1 | Damage Resistance | Rare | Yes |
-| 2 | Darkvision | Uncommon | No |
-| 3 | Ego | Rare | Yes |
-| 4 | Expert | Rare | Yes |
-| 5 | Glowing | Uncommon | No |
-| 6 | Invisibility | Legendary | Yes |
-| 7 | Lucky | Very Rare | Yes |
-| 8 | Returning | Uncommon | Yes |
-| 9 | Spell Resistance | Rare | Yes |
-| 10 | True Seeing | Legendary | Yes |
+| 1 | [[damage-resistance-ma|Damage Resistance]] | Rare | Yes |
+| 2 | [[darkvision-ma|Darkvision]] | Uncommon | No |
+| 3 | [[ego-ma|Ego]] | Rare | Yes |
+| 4 | [[expert-ma|Expert]] | Rare | Yes |
+| 5 | [[glowing-ma|Glowing]] | Uncommon | No |
+| 6 | [[invisibility-ma|Invisibility]] | Legendary | Yes |
+| 7 | [[lucky-ma|Lucky]] | Very Rare | Yes |
+| 8 | [[returning-ma|Returning]] | Uncommon | Yes |
+| 9 | [[spell-resistance-ma|Spell Resistance]] | Rare | Yes |
+| 10 | [[true-seeing-ma|True Seeing]] | Legendary | Yes |
 ^enchantment-rarity-attunement
 
 ## Weapon Enchantments
@@ -62,45 +62,45 @@ You can enchant weapons with a property from the list below. Or a GM can roll on
 
 | dice: d100 | Enchantment | Rarity | Attunement? |
 |------------|-------------|--------|-------------|
-| 01–05 | Binding Chains | Uncommon | No |
-| 06–10 | Cruel | Uncommon | No |
-| 11–15 | Marking | Uncommon | Yes |
-| 16–20 | Maneuvering | Uncommon | Yes |
-| 21–25 | Primordial | Uncommon | No |
-| 26–30 | Stalking | Uncommon | No |
-| 31–35 | Throwing | Uncommon | Yes |
-| 36–40 | Transforming | Uncommon | Yes |
-| 41–44 | Warning | Uncommon | Yes |
-| 45–47 | Cursing | Rare | Yes |
-| 48–50 | Dueling | Rare | Yes |
-| 51–52 | Explosive | Rare | No |
-| 53–54 | Flame Tongue | Rare | Yes |
-| 55–57 | Life Stealing | Rare | Yes |
-| 58–60 | Mind Breaker | Rare | Yes |
-| 61–62 | Repulsive | Rare | No |
-| 63–64 | Planebound | Rare | No |
-| 65–66 | Skin Melter | Rare | Yes |
-| 67–69 | Spellbreaker | Rare | No |
-| 70–72 | Venom | Rare | No |
-| 73–75 | Vicious | Rare | No |
-| 76–78 | Withering | Rare | Yes |
-| 79–80 | Swatting | Rare | No |
-| 81–82 | Wounding | Rare | Yes |
-| 83–84 | Dancing | Very Rare | Yes |
-| 85–86 | Frost Brand | Very Rare | Yes |
-| 87–88 | Maddening | Very Rare | No |
-| 89 | Magi | Very Rare | Yes |
-| 90 | Mighty Cleaving | Very Rare | No |
-| 91 | Oathsworn | Very Rare | Yes |
-| 92 | Parrying | Very Rare | Yes |
-| 93 | Quickness | Very Rare | Yes |
-| 94 | Ruin | Very Rare | Yes |
-| 95 | Sharpness | Very Rare | Yes |
-| 96 | Slaying | Very Rare | Yes |
-| 97 | Striking | Very Rare | Yes |
-| 98 | Holy Avenger | Legendary | Yes |
+| 01–05 | [[binding-chains-ma|Binding Chains]] | Uncommon | No |
+| 06–10 | [[cruel-ma|Cruel]] | Uncommon | No |
+| 11–15 | [[marking-ma|Marking]] | Uncommon | Yes |
+| 16–20 | [[maneuvering-ma|Maneuvering]] | Uncommon | Yes |
+| 21–25 | [[primordial-ma|Primordial]] | Uncommon | No |
+| 26–30 | [[stalking-ma|Stalking]] | Uncommon | No |
+| 31–35 | [[throwing-ma|Throwing]] | Uncommon | Yes |
+| 36–40 | [[transforming-ma|Transforming]] | Uncommon | Yes |
+| 41–44 | [[warning-ma|Warning]] | Uncommon | Yes |
+| 45–47 | [[cursing-ma|Cursing]] | Rare | Yes |
+| 48–50 | [[dueling-ma|Dueling]] | Rare | Yes |
+| 51–52 | [[explosive-ma|Explosive]] | Rare | No |
+| 53–54 | [[flame-tongue-ma|Flame Tongue]] | Rare | Yes |
+| 55–57 | [[life-stealing-ma|Life Stealing]] | Rare | Yes |
+| 58–60 | [[mind-breaker-ma|Mind Breaker]] | Rare | Yes |
+| 61–62 | [[repulsive-ma|Repulsive]] | Rare | No |
+| 63–64 | [[planebound-ma|Planebound]] | Rare | No |
+| 65–66 | [[skin-melter-ma|Skin Melter]] | Rare | Yes |
+| 67–69 | [[spellbreaker-ma|Spellbreaker]] | Rare | No |
+| 70–72 | [[venom-ma|Venom]] | Rare | No |
+| 73–75 | [[vicious-ma|Vicious]] | Rare | No |
+| 76–78 | [[withering-ma|Withering]] | Rare | Yes |
+| 79–80 | [[swatting-ma|Swatting]] | Rare | No |
+| 81–82 | [[wounding-ma|Wounding]] | Rare | Yes |
+| 83–84 | [[dancing-ma|Dancing]] | Very Rare | Yes |
+| 85–86 | [[frost-brand-ma|Frost Brand]] | Very Rare | Yes |
+| 87–88 | [[maddening-ma|Maddening]] | Very Rare | No |
+| 89 | [[magi-ma|Magi]] | Very Rare | Yes |
+| 90 | [[mighty-cleaving-ma|Mighty Cleaving]] | Very Rare | No |
+| 91 | [[oathsworn-ma|Oathsworn]] | Very Rare | Yes |
+| 92 | [[parrying-ma|Parrying]] | Very Rare | Yes |
+| 93 | [[quickness-ma|Quickness]] | Very Rare | Yes |
+| 94 | [[ruin-ma|Ruin]] | Very Rare | Yes |
+| 95 | [[sharpness-ma|Sharpness]] | Very Rare | Yes |
+| 96 | [[slaying-ma|Slaying]] | Very Rare | Yes |
+| 97 | [[striking-ma|Striking]] | Very Rare | Yes |
+| 98 | [[holy-avenger-ma|Holy Avenger]] | Legendary | Yes |
 | 99 | Thunderbolt | Legendary | Yes |
-| 100 | Vorpal | Legendary | Yes |
+| 100 | [[vorpal-ma|Vorpal]] | Legendary | Yes |
 ^enchantment-rarity-attunement
 
 ## Armor Enchantments
@@ -110,30 +110,30 @@ You can enchant weapons with a property from the list below. Or a GM can roll on
 | dice: d100 | Enchantment | Rarity | Attunement? |
 |------------|-------------|--------|-------------|
 | 01–05 | Acrobat’s Agility | Uncommon | Yes |
-| 06–10 | Beastly Senses | Uncommon | Yes |
-| 11–15 | Draconic Mind | Uncommon | Yes |
-| 16–20 | Fish Flippers | Uncommon | Yes |
-| 21–25 | Giant Endurance | Uncommon | Yes |
-| 26–30 | Implacable | Uncommon | Yes |
-| 31–35 | Instant Armor | Uncommon | No |
+| 06–10 | [[beastly-senses-ma|Beastly Senses]] | Uncommon | Yes |
+| 11–15 | [[draconic-mind-ma|Draconic Mind]] | Uncommon | Yes |
+| 16–20 | [[fish-flippers-ma|Fish Flippers]] | Uncommon | Yes |
+| 21–25 | [[giant-endurance-ma|Giant Endurance]] | Uncommon | Yes |
+| 26–30 | [[implacable-ma|Implacable]] | Uncommon | Yes |
+| 31–35 | [[instant-armor-ma|Instant Armor]] | Uncommon | No |
 | 36–40 | Monkey’s Grip | Uncommon | Yes |
-| 41–45 | Noble Speech | Uncommon | Yes |
-| 46–50 | Ogre Power | Uncommon | Yes |
-| 51–55 | Quiet | Uncommon | Yes |
-| 56–60 | Rejuvenate | Uncommon | Yes |
-| 61–65 | Water Breathing | Uncommon | No |
-| 66–68 | Ambusher | Rare | Yes |
-| 69–71 | Antimage | Rare | Yes |
-| 72–74 | Beastform | Rare | No |
-| 75–77 | Elven Make | Rare | Yes |
-| 78–80 | Feathered Wings | Rare | No |
-| 81–85 | Fey Step | Rare | Yes |
-| 86–90 | Regenerative | Rare | Yes |
-| 91–93 | Speed | Very Rare | Yes |
-| 94–95 | Vengeful | Very Rare | No |
-| 96–98 | Ramming | Very Rare | No |
+| 41–45 | [[noble-speech-ma|Noble Speech]] | Uncommon | Yes |
+| 46–50 | [[ogre-power-ma|Ogre Power]] | Uncommon | Yes |
+| 51–55 | [[quiet-ma|Quiet]] | Uncommon | Yes |
+| 56–60 | [[rejuvenate-ma|Rejuvenate]] | Uncommon | Yes |
+| 61–65 | [[water-breathing-ma|Water Breathing]] | Uncommon | No |
+| 66–68 | [[ambusher-ma|Ambusher]] | Rare | Yes |
+| 69–71 | [[antimage-ma|Antimage]] | Rare | Yes |
+| 72–74 | [[beastform-ma|Beastform]] | Rare | No |
+| 75–77 | [[elven-make-ma|Elven Make]] | Rare | Yes |
+| 78–80 | [[feathered-wings-ma|Feathered Wings]] | Rare | No |
+| 81–85 | [[fey-step-ma|Fey Step]] | Rare | Yes |
+| 86–90 | [[regenerative-ma|Regenerative]] | Rare | Yes |
+| 91–93 | [[speed-ma|Speed]] | Very Rare | Yes |
+| 94–95 | [[vengeful-ma|Vengeful]] | Very Rare | No |
+| 96–98 | [[ramming-ma|Ramming]] | Very Rare | No |
 | 99 | Thunderbolt | Legendary | Yes |
-| 100 | Invulnerability | Legendary | Yes |
+| 100 | [[invulnerability-ma|Invulnerability]] | Legendary | Yes |
 ^enchantment-rarity-attunement
 
 ## Rare Metal Forging
@@ -144,19 +144,19 @@ Crafting an item out of a rare metal, the cost and time required is determined b
 
 | dice: 2d8 | Rare Metal | Cost per Ingot | Rarity |
 |-----------|------------|----------------|--------|
-| 2 | Vertsteel | 10.000 gp | Legendary |
-| 3 | Imixium | 5.000 gp | Very Rare |
-| 4 | Adamantine | 2.500 gp | Very Rare |
-| 5 | Cold Iron | 1.000 gp | Rare |
-| 6 | Whiteforged | 500 gp | Rare |
-| 7 | Silver | 100 gp | Uncommon |
-| 8-10 | Masterwork | N/A | Common |
-| 11 | Orichalcum | 100 gp | Uncommon |
-| 12 | Blacksteel | 500 gp | Rare |
-| 13 | Zarinthic | 1.000 gp | Rare |
-| 14 | Mithral | 2.500 gp | Very Rare |
-| 15 | Bloodmetal | 5.000 gp | Very Rare |
-| 16 | Sunmetal | 10.000 gp | Legendary |
+| 2 | [[vertsteel-ma|Vertsteel]] | 10.000 gp | Legendary |
+| 3 | [[imixium-ma|Imixium]] | 5.000 gp | Very Rare |
+| 4 | [[adamantine-ma|Adamantine]] | 2.500 gp | Very Rare |
+| 5 | [[cold-iron-ma|Cold Iron]] | 1.000 gp | Rare |
+| 6 | [[whiteforged-ma|Whiteforged]] | 500 gp | Rare |
+| 7 | [[silver-ma|Silver]] | 100 gp | Uncommon |
+| 8-10 | [[masterwork-ma|Masterwork]] | N/A | Common |
+| 11 | [[orichalcum-ma|Orichalcum]] | 100 gp | Uncommon |
+| 12 | [[blacksteel-ma|Blacksteel]] | 500 gp | Rare |
+| 13 | [[zarinthic-ma|Zarinthic]] | 1.000 gp | Rare |
+| 14 | [[mithral-ma|Mithral]] | 2.500 gp | Very Rare |
+| 15 | [[bloodmetal-ma|Bloodmetal]] | 5.000 gp | Very Rare |
+| 16 | [[sunmetal-ma|Sunmetal]] | 10.000 gp | Legendary |
 ^2-rare-metal-cost-per-ingot-rarity
 
 ### Rare Metal Ingots

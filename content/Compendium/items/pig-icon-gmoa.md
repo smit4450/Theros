@@ -17,7 +17,7 @@ aliases:
 
 This icon is a cherry wood statuette of a pig rooting for food. It can grant Aspect of Pig for 1 hour. Once it has been used, it can't be used again until 3 days have passed.
 
-**Aspect of Pig.** Your nose turns into a pig's snout and anything edible smells and tastes appetizing. You have advantage on Wisdom (Perception) checks that rely on smell and are resistant to poison damage. You're immune to the poisoned condition.
+**Aspect of Pig.** Your nose turns into a pig's snout and anything edible smells and tastes appetizing. You have [[advantage-xphb|advantage]] on Wisdom ([[skills#Perception|Perception]]) checks that rely on smell and are resistant to poison damage. You're immune to the [[conditions#Poisoned|poisoned]] condition.
 
 ## Paid
 

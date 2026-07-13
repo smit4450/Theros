@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Very Rare*
+*Weapon Enchantment*
 
 When you hit a creature with this weapon, it must succeed a DC 15 Wisdom saving throw or go berserk until the end of its next turn. While berserk, the target attacks the nearest creature it can see. If no creature is near enough to move to and attack, the target attacks an object. A creature that succeeds on the saving throw is immune to this effect for 24 hours.
 

@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Legendary (10,000 gp per ingot)*
+*Rare Metal (10,000 gp per ingot)*
 
 Since the Age of Dawn, the Edenican Elves have mastered the forges and created the greatest metal of them all: Sunmetal. No matter where the metal is located, it always reflects the light of the dawn.
 

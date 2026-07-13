@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Universal Enchantment, Rare (requires attunement)*
+*Universal Enchantment*
 
 When you attune to this item, you gain one of the following abilities. Whenever you finish a long rest while attuned to this item, you can change your chosen ability.
 

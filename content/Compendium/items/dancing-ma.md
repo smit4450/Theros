@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Very Rare (requires attunement)*
+*Weapon Enchantment*
 
 You can take a bonus action to toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls.
 

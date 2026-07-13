@@ -14,8 +14,8 @@ aliases:
 
 
 
-*Universal Enchantment, Very Rare (requires attunement)*
+*Universal Enchantment*
 
-If the item is on your person, you can call on its luck (no action required) to reroll one failed D20 Test if you aren't Incapacitated. You must use the second roll. Once used, this property can't be used again until the next dawn.
+If the item is on your person, you can call on its luck (no action required) to reroll one failed [[d20-test-xphb|D20 Test]] if you aren't [[conditions#Incapacitated|Incapacitated]]. You must use the second roll. Once used, this property can't be used again until the next dawn.
 
 *Source: Mystic Arts*

@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Very Rare (requires attunement)*
+*Weapon Enchantment*
 
 When you're hit with an attack, you can use your reaction to increase your AC against that attack by a number equal to your proficiency bonus. If this turns the attack into a miss, you can make a melee attack roll with the weapon against the creature that attacked you as a part of the same attack.
 

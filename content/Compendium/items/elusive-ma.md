@@ -13,8 +13,8 @@ aliases:
 
 
 
-*Armor Enchantment, Uncommon*
+*Armor Enchantment*
 
-Your movement does not provoke Opportunity Attacks.
+Your movement does not provoke [[actions#Opportunity%20Attack|Opportunity Attacks]].
 
 *Source: Mystic Arts*

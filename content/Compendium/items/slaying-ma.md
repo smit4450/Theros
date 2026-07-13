@@ -14,7 +14,7 @@ aliases:
 
 
 
-*Weapon Enchantment, Very Rare (requires attunement)*
+*Weapon Enchantment*
 
 When creating a slaying weapon you determine what creature type it's designed to slay, or roll randomly on the creature type table. Slaying enchantments are different depending on if they're for ammunition or a weapon.
 

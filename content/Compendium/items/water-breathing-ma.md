@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Armor Enchantment, Uncommon*
+*Armor Enchantment*
 
 You can breathe underwater while wearing this armor.
 

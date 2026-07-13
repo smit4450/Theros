@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Rare (500 gp per ingot)*
+*Rare Metal (500 gp per ingot)*
 
 After Blackstreet ran red with molten coal over the brass conduits in the street, the Atroxians discovered a new form of arcane metal: Blacksteel. Items forged from blacksteel take on a dull-looking gray hue with sharp white edges.
 

@@ -13,7 +13,7 @@ aliases:
 
 
 
-*Rare Metal, Very Rare (2,500 gp per ingot)*
+*Rare Metal (2,500 gp per ingot)*
 
 Adamantine has been forged into both weapons and armor by Dwarves since time immemorial. Adamantine reflects light with a slightly greenish hue.
 
