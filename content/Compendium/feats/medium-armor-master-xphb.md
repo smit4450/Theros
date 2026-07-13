@@ -1,13 +1,12 @@
 ---
-title: Medium Armor Master
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Medium Armor Master
+- "Medium Armor Master"
 ---
 # Medium Armor Master
 *Source: Player's Handbook (2024) p. 205*  

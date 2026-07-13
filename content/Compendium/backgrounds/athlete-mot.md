@@ -1,20 +1,21 @@
 ---
-title: Athlete
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - background
-- src/5e/mot
-aliases: ["Athlete"]
+- compendium/src/5e/mot
+aliases:
+- "Athlete"
 ---
 # Athlete
 *Source: Mythic Odysseys of Theros p. 31*  
-![](Compendium/backgrounds/img/athlete.webp#right)
+![](/Compendium/backgrounds/img/athlete.webp#right)
 
-- **Skill Proficiencies.** [[skills#Acrobatics|Acrobatics]], [[skills#Athletics|Athletics]]  
+- **Skill Proficiencies.** [Acrobatics](/Compendium/rules/skills.md#Acrobatics), [Athletics](/Compendium/rules/skills.md#Athletics)  
 - **Languages.** One of your choice  
 - **Tool Proficiencies.** Vehicles (land)  
-- **Equipment.** A bronze discus or leather ball, a lucky charm or past trophy, a set of [[travelers-clothes-xphb|traveler's clothes]], and a [[pouch-xphb|pouch]] containing 10 gp  
+- **Equipment.** A bronze discus or leather ball, a lucky charm or past trophy, a set of [traveler's clothes](/Compendium/items/travelers-clothes-xphb.md), and a [pouch](/Compendium/items/pouch-xphb.md) containing 10 gp  
 
 You strive to perfect yourself physically and in execution of everything you do. The thrill of competition lights fire in your blood, and the roar of the crowd drives you forward. Tales of your exploits precede you and might open doors or loosen tongues.
 

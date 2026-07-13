@@ -1,12 +1,11 @@
 ---
-title: Island Environments
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Island Environments
+- "Island Environments"
 ---
 # Island Environments
 *Source: Mythic Odysseys of Theros p. 177* 

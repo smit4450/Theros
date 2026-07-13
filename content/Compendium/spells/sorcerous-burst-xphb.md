@@ -1,16 +1,19 @@
 ---
-title: Sorcerous Burst
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/sorcerer
+- spell/feat/magic-initiate
+- spell/feat/spell-sniper
 - spell/level/cantrip
 - spell/optfeature/pact-of-the-tome
 - spell/school/evocation
 classes:
 - Sorcerer
-aliases: ["Sorcerous Burst"]
+aliases:
+- "Sorcerous Burst"
 ---
 # Sorcerous Burst
 *cantrip, Evocation*  
@@ -27,6 +30,6 @@ If you roll an 8 on a `d8` for this spell, you can roll another `d8`, and add it
 
 **Cantrip Upgrade.** The damage increases by `1d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [[list-spells-classes-sorcerer|Sorcerer]]
+**Classes**: [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,9 +1,9 @@
 ---
-title: Vicious Weapon
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/age/futuristic
 - item/age/modern
 - item/gear/spellcasting-focus
@@ -13,7 +13,7 @@ tags:
 - item/weapon/ranged
 - item/weapon/simple
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Vicious Weapon"
 - "Vicious Antimatter Rifle"
 - "Vicious Automatic Rifle"
@@ -71,7 +71,7 @@ aliases:
 ---
 # Vicious Weapon
 *Rare*  
-![](Compendium/items/img/vicious-weapon.webp#right)
+![Vicious Weapon (Rapier)](/Compendium/items/img/vicious-weapon.webp#right)
 
 
 This magic weapon deals an extra `2d6` damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage.
@@ -135,14 +135,14 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Vicious Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Burst%20Fire|Burst Fire]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Burst Fire](/Compendium/rules/item-properties.md#Burst%20Fire), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Vicious Battleaxe
@@ -150,40 +150,40 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Vicious Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading)
 - **Weight**: 1.0 lbs.
 
 ### Vicious Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Vicious Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### Vicious Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]], special
+- **Properties**: [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed), special
 - **Weight**: 6.0 lbs.
 
 ### Vicious Flail
@@ -194,127 +194,127 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 ### Vicious Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Vicious Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Vicious Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Light|Light]], [[item-properties#Loading|Loading]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Light](/Compendium/rules/item-properties.md#Light), [Loading](/Compendium/rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Heavy](/Compendium/rules/item-properties.md#Heavy), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Vicious Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Finesse|Finesse]], [[item-properties#Two-Handed|Two-Handed]], special
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Finesse](/Compendium/rules/item-properties.md#Finesse), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed), special
 - **Weight**: 2.0 lbs.
 
 ### Vicious Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Vicious Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Vicious Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Vicious Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Vicious Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Longsword
@@ -322,7 +322,7 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Mace
@@ -333,7 +333,7 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 ### Vicious Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Vicious Morningstar
@@ -345,20 +345,20 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Vicious Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Vicious Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Quarterstaff
@@ -366,66 +366,66 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Vicious Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Semiautomatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Vicious Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition)
 
 ### Vicious Spear
 
@@ -433,7 +433,7 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown), [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Staff
@@ -441,7 +441,7 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Vicious Trident
@@ -450,7 +450,7 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown), [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Vicious War Pick
@@ -458,7 +458,7 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Warhammer
@@ -466,13 +466,13 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 ### Vicious Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Reach](/Compendium/rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Wooden Staff
@@ -480,14 +480,14 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Vicious Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
 

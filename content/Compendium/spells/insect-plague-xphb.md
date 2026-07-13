@@ -1,9 +1,9 @@
 ---
-title: Insect Plague
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -19,7 +19,8 @@ classes:
 - Druid (Circle of the Land, Tropical Land)
 - Sorcerer
 - Warlock (Fiend Patron)
-aliases: ["Insect Plague"]
+aliases:
+- "Insect Plague"
 ---
 # Insect Plague
 *5th-level, Conjuration*  
@@ -30,12 +31,12 @@ aliases: ["Insect Plague"]
 - **Components:** V, S, M (a locust)
 - **Duration:** Concentration, up to 10 minutes
 
-Swarming locusts fill a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point you choose within range. The [[sphere-area-of-effect-xphb|Sphere]] remains for the duration, and its area is [[lightly-obscured-xphb|Lightly Obscured]] and [[difficult-terrain-xphb|Difficult Terrain]].
+Swarming locusts fill a 20-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point you choose within range. The [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) remains for the duration, and its area is [Lightly Obscured](/Compendium/rules/variant-rules/lightly-obscured-xphb.md) and [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md).
 
 When the swarm appears, each creature in it makes a Constitution saving throw, taking `4d10` Piercing damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [Druid (Circle of the Land, Tropical Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid|Druid]]; [[list-spells-classes-sorcerer|Sorcerer]]; [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Tropical Land)](/Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Fiend Patron)](/Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

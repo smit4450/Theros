@@ -1,64 +1,63 @@
 ---
-title: Hippopotamus
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/4
 - monster/environment/forest
 - monster/environment/grassland
 - monster/environment/swamp
 - monster/size/large
 - monster/type/beast
-statblock: inline
-aliases: ["Hippopotamus"]
+aliases:
+- "Hippopotamus"
 ---
 # Hippopotamus
 *Source: Monster Manual (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/beast/img/hippopotamus.webp#right)
 
-![](Compendium/bestiary/beast/img/hippopotamus.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
-![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
-![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
-![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
-```statblock
-"name": "Hippopotamus (XMM)"
-"size": "Large"
-"type": "beast"
-"alignment": "Unaligned"
-"ac": !!int "14"
-"hp": !!int "82"
-"hit_dice": "11d10 + 22"
-"modifier": !!int "-2"
-"stats":
-  - !!int "21"
-  - !!int "7"
-  - !!int "15"
-  - !!int "2"
-  - !!int "12"
-  - !!int "4"
-"speed": "30 ft., swim 30 ft."
-"saves":
-  - "strength": !!int "7"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+3"
-"senses": "passive Perception 13"
-"languages": ""
-"cr": "4"
-"traits":
-  - "desc": "The hippopotamus can hold its breath for 10 minutes."
-    "name": "Hold Breath"
-"actions":
-  - "desc": "The hippopotamus makes two Bite attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 16 (2d10 + 5) Piercing\
-      \ damage."
-    "name": "Bite"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/beast/token/hippopotamus-xmm.webp"
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
+> [!gallery]
+![A druid calls on animals of the hills and mountains to aid her cause](/Compendium/bestiary/beast/img/animals-hills-and-mountains.webp)
+![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
+![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
+
+```ad-statblock
+title: Hippopotamus
+![](/Compendium/bestiary/beast/token/hippopotamus-xmm.webp#token)
+*Large beast, Unaligned*
+
+- **Armor Class** 14 
+- **Hit Points** 82 (`11d10 + 22`) 
+- **Speed** 30 ft., swim 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)| 7 (-2)|15 (+2)| 2 (-4)|12 (+1)| 4 (-3)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Strength +7
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3
+- **Senses** passive Perception 13
+- **Languages** —
+- **Challenge** 4
+
+## Traits
+
+***Hold Breath.*** The hippopotamus can hold its breath for 10 minutes.
+
+## Actions
+
+***Multiattack.*** The hippopotamus makes two Bite attacks.
+
+***Bite.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 16 (`2d10 + 5`) Piercing damage.
 ```
 ^statblock
+
+## Environment
+
+forest, grassland, swamp

@@ -1,9 +1,9 @@
 ---
-title: Plant Growth
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/druid
 - spell/class/ranger
@@ -19,13 +19,14 @@ classes:
 - Paladin (Oath of the Ancients)
 - Ranger
 - Warlock (Archfey Patron)
-aliases: ["Plant Growth"]
+aliases:
+- "Plant Growth"
 ---
 # Plant Growth
 *3rd-level, Transmutation*  
 
 
-- **Casting time:** 1 Action
+- **Casting time:** 1 Action (Overgrowth)
 - **Range:** 150 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -34,7 +35,7 @@ This spell channels vitality into plants. The casting time you use determines wh
 
 ## Overgrowth
 
-Choose a point within range. All normal plants in a 100-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected.
+Choose a point within range. All normal plants in a 100-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected.
 
 ## Enrichment
 
@@ -42,6 +43,6 @@ All plants in a half-mile radius centered on a point within range become enriche
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger|Ranger]]; [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/Compendium/lists/list-spells-classes-ranger.md); [Warlock (Archfey Patron)](/Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

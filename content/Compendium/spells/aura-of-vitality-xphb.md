@@ -1,9 +1,9 @@
 ---
-title: Aura of Vitality
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -11,15 +11,14 @@ tags:
 - spell/level/3rd-level
 - spell/school/abjuration
 - spell/subclass/college-of-lore
-- spell/subclass/spellfire-sorcery
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Druid
 - Paladin
-- Sorcerer (Spellfire Sorcery)
-aliases: ["Aura of Vitality"]
+aliases:
+- "Aura of Vitality"
 ---
 # Aura of Vitality
 *3rd-level, Abjuration*  
@@ -30,8 +29,8 @@ aliases: ["Aura of Vitality"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. When you create the aura and at the start of each of your turns while it persists, you can restore `2d6` [[hit-points-xphb|Hit Points]] to one creature in it.
+An aura radiates from you in a 30-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) for the duration. When you create the aura and at the start of each of your turns while it persists, you can restore `2d6` [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) to one creature in it.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-paladin|Paladin]]; [Sorcerer (Spellfire Sorcery)](Compendium/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB")
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Paladin](/Compendium/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 244*

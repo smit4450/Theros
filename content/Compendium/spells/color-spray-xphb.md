@@ -1,9 +1,9 @@
 ---
-title: Color Spray
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/wizard
@@ -23,7 +23,8 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Color Spray"]
+aliases:
+- "Color Spray"
 ---
 # Color Spray
 *1st-level, Illusion*  
@@ -34,8 +35,8 @@ aliases: ["Color Spray"]
 - **Components:** V, S, M (a pinch of colorful sand)
 - **Duration:** Instantaneous
 
-You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]] originating from you must succeed on a Constitution saving throw or have the [[conditions#Blinded|Blinded]] condition until the end of your next turn.
+You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md) originating from you must succeed on a Constitution saving throw or have the [Blinded](/Compendium/rules/conditions.md#Blinded) condition until the end of your next turn.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Illusionist)](/Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

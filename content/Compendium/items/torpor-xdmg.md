@@ -1,21 +1,21 @@
 ---
-title: Torpor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/gear/
 - item/rarity/none
-aliases: 
+aliases:
 - "Torpor"
 ---
 # Torpor
 *Adventuring gear, poison (ingested)*  
 
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [Poison](/Compendium/rules/item-properties.md#Poison)
 - **Cost**: 600 gp
 
-A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for `4d6` hours. The creature's [[speed-xphb|Speed]] is halved while the creature is [[conditions#Poisoned|Poisoned]] in this way.
+A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition for `4d6` hours. The creature's [Speed](/Compendium/rules/variant-rules/speed-xphb.md) is halved while the creature is [Poisoned](/Compendium/rules/conditions.md#Poisoned) in this way.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

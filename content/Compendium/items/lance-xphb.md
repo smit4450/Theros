@@ -1,21 +1,21 @@
 ---
-title: Lance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/melee
-aliases: 
+aliases:
 - "Lance"
 ---
 # Lance
 *Weapon*  
-![](Compendium/items/img/lance.webp#right)
+![](/Compendium/items/img/lance.webp#right)
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach)
 - **Cost**: 10 gp
 - **Weight**: 6.0 lbs.
 

@@ -1,12 +1,12 @@
 ---
-title: Detailed, life-sized dragonborn skull cast in electrum
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/gear/treasure-art-object
 - item/rarity/none
-aliases: 
+aliases:
 - "Detailed, life-sized dragonborn skull cast in electrum"
 ---
 # Detailed, life-sized dragonborn skull cast in electrum

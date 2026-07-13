@@ -1,12 +1,11 @@
 ---
-title: Realms of Gods and Mortals
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Realms of Gods and Mortals
+- "Realms of Gods and Mortals"
 ---
 # Realms of Gods and Mortals
 *Source: Mythic Odysseys of Theros, p. 83* 
@@ -23,7 +22,7 @@ aliases:
 > 
 > "My home was beyond your infinite forest," she said.
 
-![Soaring above the polis of...](Compendium/books/mythic-odysseys-of-theros/img/054-03-01.webp#center "Soaring above the polis of Meletis in their flying chariot, heroes of the Reverent Army send off the unrivaled Meletian fleet")
+![Soaring above the polis of Meletis in their flying chariot, heroes of the Reverent Army send off the unrivaled Meletian fleet](/Compendium/books/mythic-odysseys-of-theros/img/054-03-01.webp#center)
 
 The world of Theros, as its inhabitants understand, includes three realms: the mortal world, the divine realm of Nyx, and the Underworld. They are three distinct planes of existence, tucked into their own pocket of the multiverse and shielded from the rest of the cosmos by the power of the gods. This chapter discusses each of these realms in turn, with a focus on the mortal realm where the schemes of the gods intersect with mortal lives.
 
@@ -46,8 +45,8 @@ The badlands of Phoberos, northwest of Akros, are the frontier where Akroan sold
 The necropoleis of Asphodel and Odunos are home to the Returned—zombie-like beings who have escaped the clutches of the underworld at the cost of their identities. The lands around these cities are bleak and barren, as if the Returned brought the pall of the underworld out with them into the mortal realm.
 
 > [!gallery]
-> ![Map 3.1: The World of Theros](Compendium/books/mythic-odysseys-of-theros/img/055-map-3-1-world-of-theros.webp#gallery)
-> ![Player Version](Compendium/books/mythic-odysseys-of-theros/img/056-map-3-1-world-of-theros-player.webp#gallery)
+> ![Map 3.1: The World of Theros](/Compendium/books/mythic-odysseys-of-theros/img/055-map-3-1-world-of-theros.webp#gallery)
+> ![Player Version](/Compendium/books/mythic-odysseys-of-theros/img/056-map-3-1-world-of-theros-player.webp#gallery)
 
 > [!note] Exploring Theros
 > 
@@ -86,7 +85,7 @@ The people of the poleis enjoy the opportunity for some recreation, as time and 
 
 Gymnasia are popular gathering places, offering athletic training as well as space for philosophical discussion and friendly socializing. A resident of the city might visit a gymnasium one day to exercise, the next to view a wrestling match between celebrated competitors, and the next to hear a renowned philosopher give a lecture on ethics.
 
-Another important venue for recreation is the theater. The works of celebrated playwrights, past and present, are regularly produced by casts of professional actors. On occasion, a storyteller, accompanied by a small orchestra, draws crowds to a theater for a recitation of one of the great epics, such as *The* *Theriad* or *The* *Callapheia*. Such a performance might stretch over two or three days.
+Another important venue for recreation is the theater. The works of celebrated playwrights, past and present, are regularly produced by casts of professional actors. On occasion, a storyteller, accompanied by a small orchestra, draws crowds to a theater for a recitation of one of the great epics, such as *The Theriad* or *The Callapheia*. Such a performance might stretch over two or three days.
 
 ### The Meletian Calendar
 
@@ -96,7 +95,7 @@ The beginning of the year is considered the end of winter, so the new year begin
 
 The Meletian Calendar table summarizes the months, their lengths, and the god each is associated with.
 
-![[the-meletian-calendar-meletian-calendar-mot|The Meletian Calendar; Meletian Calendar]]
+![The Meletian Calendar; Meletian Calendar](/Compendium/tables/the-meletian-calendar-meletian-calendar-mot.md)
 
 ## Akros
 
@@ -150,7 +149,7 @@ Akros maintains a standoffish—and often hostile—stance toward its neighbors,
 
 During the Iroan Games, everyone is welcome in the stadium. Satyrs flock to the city to witness the competition, and some take up permanent residence, celebrating the outcome of one year's games until it's time to start watching the next.
 
-![The Kolophon stands watch over the polis of Akros](Compendium/books/mythic-odysseys-of-theros/img/056-03-02.webp#center)
+![The Kolophon stands watch over the polis of Akros](/Compendium/books/mythic-odysseys-of-theros/img/056-03-02.webp#center)
 
 ### Features of Akros
 
@@ -174,7 +173,7 @@ The uppermost tier of the city, perched on a rocky outcropping at the southweste
 
 Arable land is scattered across small plateaus and valleys in Akros, meaning that the serf communities that farm the land are small and just as scattered. Volcanic rifts, landslides, and venomous animals make travel dangerous for anyone who doesn't know the terrain, and visitors wishing to avoid suspicion from patrolling stratians would be wise to stick to the roads.
 
-![](Compendium/books/mythic-odysseys-of-theros/img/057-03-03.webp#center)
+![](/Compendium/books/mythic-odysseys-of-theros/img/057-03-03.webp#center)
 
 #### Outposts
 
@@ -213,7 +212,7 @@ The archon Agnomakhos ruled the area that is now Meletis for centuries. Impressi
 
 For a time, Kynaios and Tiro ruled Meletis, striving to govern in accordance with the highest philosophical and ethical principles, which ultimately led them to relinquish their power and establish a philosopher-led republic. After the kings' deaths, the council of scholars known as the Twelve took up rule of the polis, with the sage Elpidios serving as the senior member.
 
-![The sea wall and statues o...](Compendium/books/mythic-odysseys-of-theros/img/058-03-04.webp#center "The sea wall and statues of the polis's founders guard Meletis Bay")
+![The sea wall and statues of the polis's founders guard Meletis Bay](/Compendium/books/mythic-odysseys-of-theros/img/058-03-04.webp#center)
 
 ### People of Meletis
 
@@ -245,7 +244,7 @@ The mark of a true thaumaturge, though, is a gift or positive omen from the gods
 
 #### The Reverent Army
 
-The hoplites of Meletis practice battlefield tactics in an environment saturated with religious devotion. The military force of the polis is called the Reverent Army, and aims as much to exalt the glory of the pantheon as to defend Meletis. The soldiers are clever and resourceful, believing their piety leads the gods to smile upon them. More likely, though, their extensive training in battlefield tactics and magic gives them an edge over other soldiers, with most [[meletian-hoplite-mot|Meletian hoplites]] knowing at least a little magic.
+The hoplites of Meletis practice battlefield tactics in an environment saturated with religious devotion. The military force of the polis is called the Reverent Army, and aims as much to exalt the glory of the pantheon as to defend Meletis. The soldiers are clever and resourceful, believing their piety leads the gods to smile upon them. More likely, though, their extensive training in battlefield tactics and magic gives them an edge over other soldiers, with most [Meletian hoplites](/Compendium/bestiary/humanoid/meletian-hoplite-mot.md) knowing at least a little magic.
 
 #### Nonhumans in Meletis
 
@@ -259,7 +258,7 @@ Few leonin journey to Meletis, knowing little of the land beyond what their stor
 
 Most satyrs have little patience for Meletian philosophy, visiting largely out of curiosity or on elaborate larks. Minotaurs are rarely seen in Meletis, though those who visit with peaceful intentions are welcome.
 
-![](Compendium/books/mythic-odysseys-of-theros/img/059-03-05.webp#center)
+![](/Compendium/books/mythic-odysseys-of-theros/img/059-03-05.webp#center)
 
 ### Features of Meletis
 
@@ -319,7 +318,7 @@ The polis of Meletis embodies the heart and mind of what it means to be Meletian
 
 At the northern edge of Meletian territory, between the sea and the Nessian Wood, roam the centaurs of the Lagonna band. Unlike the ferocious Pheres band, the Lagonna-band centaurs are generally peaceful and don't engage in raids upon Meletian territory. They are frequent visitors in Listes, Krimnos, and Meletis itself, and often carry goods between Meletis and Setessa, since they are more at home in the Nessian Wood than most Meletian merchants.
 
-![People from across Theros ...](Compendium/books/mythic-odysseys-of-theros/img/060-03-06.webp#center "People from across Theros visit Meletis, leaving their marks on the polis's architecture and philosophies")
+![People from across Theros visit Meletis, leaving their marks on the polis's architecture and philosophies](/Compendium/books/mythic-odysseys-of-theros/img/060-03-06.webp#center)
 
 ## Setessa
 
@@ -395,9 +394,9 @@ The most impressive part of the market is the raptor hall, where falconers show 
 
 #### Caryatid Groves
 
-Scattered throughout the city are several groves that are sacred to Karametra and Nylea, made up of slender trees with almost humanlike forms. It is said that whoever enters one of these sacred groves in search of peace will find it—and take root, becoming part of the grove. The trees here are caryatids, capable of animating in defense of the groves or the city (as [[animated-tree-egw|animated trees]]) but otherwise resting in silent stillness.
+Scattered throughout the city are several groves that are sacred to Karametra and Nylea, made up of slender trees with almost humanlike forms. It is said that whoever enters one of these sacred groves in search of peace will find it—and take root, becoming part of the grove. The trees here are caryatids, capable of animating in defense of the groves or the city (as animated trees) but otherwise resting in silent stillness.
 
-![Nature and civilization me...](Compendium/books/mythic-odysseys-of-theros/img/061-03-07.webp#center "Nature and civilization meld harmoniously in the polis of Setessa")
+![Nature and civilization meld harmoniously in the polis of Setessa](/Compendium/books/mythic-odysseys-of-theros/img/061-03-07.webp#center)
 
 ### Setessa's Surroundings
 
@@ -467,7 +466,7 @@ Sun Guide prides might be found throughout Oreskos, but most orbit the lake know
 
 Among the greatest hunters of Oreskos, the Swiftclaws are known for speed and efficiency. Their hunts are known to be among the shortest and most fruitful. While their martial prowess earns them respect, it also affords many leonin more time to share tales and study the lore of their people. As a result, some of the greatest leonin storytellers and historians number among the Swiftclaws. Fighters and rogues are also common among the Swiftclaws, and many bards and wizards come from these prides as well.
 
-![Speaker Brimaz looks beyon...](Compendium/books/mythic-odysseys-of-theros/img/062-03-08.webp#center "Speaker Brimaz looks beyond Oreskos and wonders if there is a future for his people in the outside world")
+![Speaker Brimaz looks beyond Oreskos and wonders if there is a future for his people in the outside world](/Compendium/books/mythic-odysseys-of-theros/img/062-03-08.webp#center)
 
 ### Grasslands of Oreskos
 
@@ -517,7 +516,7 @@ Burial rites among the Felhide minotaurs involve devouring those who fell in bat
 
 Ragegore minotaurs are the most ferocious of their kind, deeply infected by the bloodlust of Mogis. Ragegores never withdraw from a battle, entering a frenzy of furious delight at the sight of an enemy's blood. While in the heat of battle, a Ragegore minotaur seems to feel no pain and barely notices wounds that would kill a human. Some Ragegores have been known to fall dead immediately at the cessation of battle, their life sustained only by their fury.
 
-![For centuries, the minotau...](Compendium/books/mythic-odysseys-of-theros/img/063-03-09.webp#center "For centuries, the minotaur polis of Skophos was unknown to outsiders. It remains unexplored")
+![For centuries, the minotaur polis of Skophos was unknown to outsiders. It remains unexplored](/Compendium/books/mythic-odysseys-of-theros/img/063-03-09.webp#center)
 
 ### City of Skophos
 
@@ -579,11 +578,11 @@ Traders recognize Gray Merchants by their hooded gray cloaks and their carts pil
 
 #### Kakomanteis
 
-[[returned-kakomantis-mot|Returned kakomanteis]] employ powerful magic at a price paid in blood. Some theorize that in life each kakomantis was a spell caster, and the trip along the Path of Phenax corrupted their abilities. Regardless of how they came upon their grisly magic, kakomanteis keep small animals, such as rodents, snakes, and insects, close at hand to power their spells, though more potent magical effects demand more significant sacrifices.
+[Returned kakomanteis](/Compendium/bestiary/undead/returned-kakomantis-mot.md) employ powerful magic at a price paid in blood. Some theorize that in life each kakomantis was a spell caster, and the trip along the Path of Phenax corrupted their abilities. Regardless of how they came upon their grisly magic, kakomanteis keep small animals, such as rodents, snakes, and insects, close at hand to power their spells, though more potent magical effects demand more significant sacrifices.
 
 #### Palamnites
 
-While most of the Returned are listless and quiet, [[returned-palamnite-mot|palamnites]] burn with envy and rage. They are vicious killers, destroying what no longer brings them joy. Palamnites burn villages, slaughter innocents, and steal wealth only to discard it later. Most stories of vengeful Returned stem from reports of these tortured souls.
+While most of the Returned are listless and quiet, [palamnites](/Compendium/bestiary/undead/returned-palamnite-mot.md) burn with envy and rage. They are vicious killers, destroying what no longer brings them joy. Palamnites burn villages, slaughter innocents, and steal wealth only to discard it later. Most stories of vengeful Returned stem from reports of these tortured souls.
 
 #### Pseudammas
 
@@ -607,7 +606,7 @@ A cabal of mages known as the Order of Phaios defend Asphodel with their magic. 
 
 Asphodel perches at the edge of a sprawling marsh called the Hetos Mire. The necropolis stands on an elevated piece of land surrounded by treacherous bogs and tangled thickets. The inhospitable territory serves the Returned as a first line of defense against any intruders. Near the southern edge of Hetos stands an ages-old, crimson cypress called the Blood Tree. Color from the tree bleeds into the surrounding bog, making the swamp waters look like a charnel pit. Vicious and venomous swamp creatures are drawn to the Blood Tree and frequently drag prey into its foul midst.
 
-![](Compendium/books/mythic-odysseys-of-theros/img/064-03-10.webp#center)
+![](/Compendium/books/mythic-odysseys-of-theros/img/064-03-10.webp#center)
 
 ### Odunos
 
@@ -660,7 +659,7 @@ Tales tell of the lost island of Arixmethes, whose population was wiped out by d
 
 #### Cronemouth Cove
 
-This tiny island lies in the midst of perpetual doldrums and holds a known gate to the Underworld. It is guarded by a coven of [[sea-hag-xmm|sea hags]] who share a single tongue that is perpetually trying to escape from their clutches, wriggling out of reach with a mind of its own.
+This tiny island lies in the midst of perpetual doldrums and holds a known gate to the Underworld. It is guarded by a coven of [sea hags](/Compendium/bestiary/fey/sea-hag-xmm.md) who share a single tongue that is perpetually trying to escape from their clutches, wriggling out of reach with a mind of its own.
 
 #### Ketaphos
 
@@ -668,9 +667,9 @@ Famed for its role in *The Callapheia*, the island of Ketaphos supposedly exists
 
 #### Skathos
 
-The island of Skathos was once a sacred meeting place for a secret cult of Pharika whose rites revolved around consuming a magical flower native to the island. The island is now home to the [[medusa-mot|medusa]] queen, [[hythonia-legendary-mot|Hythonia]] (described in "chapter 6").
+The island of Skathos was once a sacred meeting place for a secret cult of Pharika whose rites revolved around consuming a magical flower native to the island. The island is now home to the [medusa](/Compendium/bestiary/monstrosity/medusa-mot.md) queen, [Hythonia](/Compendium/bestiary/npc/hythonia-mot.md) (described in "chapter 6").
 
-![](Compendium/books/mythic-odysseys-of-theros/img/065-03-11.webp#center)
+![](/Compendium/books/mythic-odysseys-of-theros/img/065-03-11.webp#center)
 
 ## Skola Vale
 
@@ -734,7 +733,7 @@ Purphoros's forge lies in the deepest part of Mount Velus, near a vast lava pool
 
 ### Mount Vesios
 
-Mount Vesios, also known as the Little Sister, is a smaller volcano that resembles Mount Velus and erupts concurrently with Velus. A monastery on its western slope houses scholars and spellcasters who study the volcano, believing that through it, they might be able to control the eruptions of Mount Velus. Numerous [[oread-mot|oreads]] and Akroan flamespeakers offer their omens from the volcano's heights.
+Mount Vesios, also known as the Little Sister, is a smaller volcano that resembles Mount Velus and erupts concurrently with Velus. A monastery on its western slope houses scholars and spellcasters who study the volcano, believing that through it, they might be able to control the eruptions of Mount Velus. Numerous [oreads](/Compendium/bestiary/fey/oread-mot.md) and Akroan flamespeakers offer their omens from the volcano's heights.
 
 ## The Oraniad Mountains
 
@@ -758,7 +757,7 @@ An eerie natural formation of hexagonal pillars creates a natural staircase up t
 
 Among the northern Oraniads stands a blizzard-gripped mountain that resembles a volcano. What breathes forth from the crater isn't fire, though. The caldera's interior is coated with ice so cold it freezes anything it touches. Even the fumes that issue forth cause instant frostbite. At the volcano's heart stands a glass statue of a haunting, androgynous figure offering a diamond crown. None who have attempted to claim this strange gift have survived. Even the gods prove reticent to speak of the place, denying its existence or speaking of it with shame.
 
-![The miracles and conflicts...](Compendium/books/mythic-odysseys-of-theros/img/066-03-12.webp#center "The miracles and conflicts of the gods play out endlessly in the stars of Nyx")
+![The miracles and conflicts of the gods play out endlessly in the stars of Nyx](/Compendium/books/mythic-odysseys-of-theros/img/066-03-12.webp#center)
 
 ## Realms of the Gods
 
@@ -800,7 +799,7 @@ Although vast beyond understanding, the Underworld's most noteworthy regions are
 
 The Tartyx forms the boundary between the mortal realm and the Underworld. It is also known as the Rivers That Ring the World, as it is formed from the confluence of five tributaries, each originating in one of the Underworld's five wards. The Tartyx is vast, with one far shore impossible to see from the other. Countless drifting islands dot the river, some forested by leafless trees, others heaped with crumbling ruins. Still others are the domains of powerful demons and strange entities that death proves not quite able to claim. None of these tiny lands are hospitable to either the living or the dead. Even the waters of the Tartyx hold their own threats, both mysterious creatures that slither beneath its rippling waters, and their own infamous power to wash away memories and all sense of identity.
 
-![Shore of the Tartyx River](Compendium/books/mythic-odysseys-of-theros/img/067-03-13.webp#center)
+![Shore of the Tartyx River](/Compendium/books/mythic-odysseys-of-theros/img/067-03-13.webp#center)
 
 #### Agonas
 
@@ -834,7 +833,7 @@ Vast oceans fill Nerono, a realm dotted by lonely islands and crisscrossed by ai
 
 When a soul reaches Nerono, sirens, naiads (see "chapter 6"), or sphinxes might guide them into the ward.
 
-![The Underworld ward of Nerono](Compendium/books/mythic-odysseys-of-theros/img/068-03-14.webp#center)
+![The Underworld ward of Nerono](/Compendium/books/mythic-odysseys-of-theros/img/068-03-14.webp#center)
 
 #### Tizerus
 

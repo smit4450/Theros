@@ -1,28 +1,25 @@
 ---
-title: Lightning Cannon
 obsidianUIMode: preview
 cssclasses:
 - json5e-object
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - object/size/medium
 - object/type/siege-weapon
 aliases:
-- Lightning Cannon
+- "Lightning Cannon"
 ---
 # Lightning Cannon
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 96*  
+*Source: Dungeon Master's Guide (2024) p. 96* 
 
-A Lightning Cannon is a small, bronze cannon inlaid with arcane runes and mounted on a heavy tripod device. It launches balls of crackling electricity. Aiming a Lightning Cannon requires the [[actions#Utilize|Utilize]] action, then a crew member can take the Lightning Ball action.
-
+A Lightning Cannon is a small, bronze cannon inlaid with arcane runes and mounted on a heavy tripod device. It launches balls of crackling electricity. Aiming a Lightning Cannon requires the [Utilize](/Compendium/rules/actions.md#Utilize) action, then a crew member can take the Lightning Ball action.
 ```ad-statblock
 title: Lightning Cannon
-![](Compendium/objects/token/lightning-cannon-xdmg.webp#token)
+![](/Compendium/objects/token/lightning-cannon-xdmg.webp#token)
 *Medium Siege weapon*
 
-- **Armor Class** 19
-- **Hit Points** 30
+- **Armor Class** 19 
+- **Hit Points** 30 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

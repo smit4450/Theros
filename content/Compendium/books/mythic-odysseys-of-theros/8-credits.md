@@ -1,17 +1,16 @@
 ---
-title: Credits
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Mythic Odysseys of Theros* 
 
-![](Compendium/books/mythic-odysseys-of-theros/img/credits.webp#center)
+![](/Compendium/books/mythic-odysseys-of-theros/img/credits.webp#center)
 
 - **Lead Designers.** F. Wesley Schneider, James Wyatt  
 - **Designers.** Ari Levitch, Jeremy Crawford, Kate Baker, Bill Benham, Orion D. Black, John Compton, Kelly Digges, James Introcaso, Adam Lee, Ben Petrisor, Jessica Price, Morrigan Robbins, Amber Scott, Greg A. Vaughn  
@@ -43,8 +42,8 @@ aliases:
 - Many thanks to the hundreds of playtesters whose efforts made this a better book. We couldn't have created this without you!  
 
 > [!gallery]
-> ![On the Cover: The invulner...](Compendium/books/mythic-odysseys-of-theros/img/credits2.webp#gallery "On the Cover: The invulnerable hero, Haktos the Unscarred, leaps into battle with a Nyxborn hydra, taking part in the most recent telling of a myth repeated through the ages. Jason Rainville brings this legend to life.")
-> ![On the Alt-Cover: While th...](Compendium/books/mythic-odysseys-of-theros/img/credits3.webp#gallery "On the Alt-Cover: While the gods look on, the immortal struggle between Haktos and the hydra plays out in the stars of Nyx, a glimpse of eternity captured by Kevin Tong.")
+> ![On the Cover: The invulnerable hero, Haktos the Unscarred, leaps into battle with a Nyxborn hydra, taking part in the most recent telling of a myth repeated through the ages. Jason Rainville brings this legend to life.](/Compendium/books/mythic-odysseys-of-theros/img/credits2.webp#gallery)
+> ![On the Alt-Cover: While the gods look on, the immortal struggle between Haktos and the hydra plays out in the stars of Nyx, a glimpse of eternity captured by Kevin Tong.](/Compendium/books/mythic-odysseys-of-theros/img/credits3.webp#gallery)
 
 > [!quote] A quote from > [!note]
 > The Callapheia  

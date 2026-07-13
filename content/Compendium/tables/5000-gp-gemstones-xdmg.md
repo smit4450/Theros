@@ -1,12 +1,11 @@
 ---
-title: 5,000 GP Gemstones
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- 5,000 GP Gemstones
+- "5,000 GP Gemstones"
 ---
 # 5,000 GP Gemstones
 *Source: Dungeon Master's Guide (2024) p. 214* 
@@ -15,8 +14,8 @@ aliases:
 
 | dice: 1d4 | Stone |
 |-----------|-------|
-| 1 | [[black-sapphire-xdmg|Black sapphire]] (lustrous black with glowing highlights) |
-| 2 | [[diamond-xdmg|Diamond]] (blue white, canary, pink, brown, or blue) |
-| 3 | [[jacinth-xdmg|Jacinth]] (fiery orange) |
-| 4 | [[ruby-xdmg|Ruby]] (clear red to deep crimson) |
+| 1 | [Black sapphire](/Compendium/items/black-sapphire-xdmg.md) (lustrous black with glowing highlights) |
+| 2 | [Diamond](/Compendium/items/diamond-xdmg.md) (blue white, canary, pink, brown, or blue) |
+| 3 | [Jacinth](/Compendium/items/jacinth-xdmg.md) (fiery orange) |
+| 4 | [Ruby](/Compendium/items/ruby-xdmg.md) (clear red to deep crimson) |
 ^5000-gp-gemstones

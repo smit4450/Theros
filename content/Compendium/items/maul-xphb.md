@@ -1,21 +1,21 @@
 ---
-title: Maul
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/melee
-aliases: 
+aliases:
 - "Maul"
 ---
 # Maul
 *Weapon*  
-![](Compendium/items/img/maul.webp#right)
+![](/Compendium/items/img/maul.webp#right)
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Cost**: 10 gp
 - **Weight**: 10.0 lbs.
 

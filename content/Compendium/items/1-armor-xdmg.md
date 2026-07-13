@@ -1,15 +1,15 @@
 ---
-title: +1 Armor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/light
 - item/armor/medium
 - item/rarity/rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "+1 Armor"
 - "+1 Breastplate"
 - "+1 Chain Mail"

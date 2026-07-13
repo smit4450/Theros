@@ -1,17 +1,17 @@
 ---
-title: Spell Scroll (Cantrip)
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/common
 - item/wondrous/scroll
-aliases: 
+aliases:
 - "Spell Scroll (Cantrip)"
 ---
 # Spell Scroll (Cantrip)
 *Scroll, common*  
-![](Compendium/items/img/spell-scroll.webp#right)
+![](/Compendium/items/img/spell-scroll.webp#right)
 
 - **Cost**: 30 gp
 

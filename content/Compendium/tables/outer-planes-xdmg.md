@@ -1,12 +1,11 @@
 ---
-title: Outer Planes
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Outer Planes
+- "Outer Planes"
 ---
 # Outer Planes
 *Source: Dungeon Master's Guide (2024) p. 174* 

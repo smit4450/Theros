@@ -1,12 +1,12 @@
 ---
-title: Potion of Heroism
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/rare
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Heroism"
 ---
 # Potion of Heroism
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain 10 [[temporary-hit-points-xphb|Temporary Hit Points]] that last for 1 hour. For the same duration, you are under the effect of the [[bless-xphb|Bless]] spell (no [[conditions#Concentration|Concentration]] required).
+When you drink this potion, you gain 10 [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md) that last for 1 hour. For the same duration, you are under the effect of the [Bless](/Compendium/spells/bless-xphb.md) spell (no [Concentration](/Compendium/rules/conditions.md#Concentration) required).
 
 This potion's blue liquid bubbles and steams as if boiling.
 

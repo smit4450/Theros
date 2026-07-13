@@ -1,16 +1,12 @@
 ---
-title: Index of Npc
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
-# Index of Npc
+# Index of NPC
 
-- [[arasta-mot|Arasta]]
-- [[hythonia-mot|Hythonia]]
-- [[polukranos-mot|Polukranos]]
-- [[siren-tftyp|Siren]]
-- [[tromokratis-mot|Tromokratis]]
+- [Arasta](./arasta-mot.md)
+- [Hythonia](./hythonia-mot.md)
+- [Polukranos](./polukranos-mot.md)
+- [Tromokratis](./tromokratis-mot.md)

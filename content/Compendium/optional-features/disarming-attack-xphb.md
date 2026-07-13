@@ -1,13 +1,12 @@
 ---
-title: Disarming Attack
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - optional-feature/mv-b
 aliases:
-- Disarming Attack
+- "Disarming Attack"
 ---
 # Disarming Attack
 *Source: Player's Handbook (2024) p. 95*  

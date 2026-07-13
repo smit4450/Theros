@@ -1,12 +1,12 @@
 ---
-title: Belt of Hill Giant Strength
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/rare
-aliases: 
+aliases:
 - "Belt of Hill Giant Strength"
 ---
 # Belt of Hill Giant Strength

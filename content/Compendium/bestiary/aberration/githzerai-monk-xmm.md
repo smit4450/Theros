@@ -1,21 +1,21 @@
 ---
-title: Githzerai Monk
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/2
 - monster/environment/limbo
 - monster/environment/planar
 - monster/size/medium
 - monster/type/aberration/gith
-statblock: inline
-aliases: ["Githzerai Monk"]
+aliases:
+- "Githzerai Monk"
 ---
 # Githzerai Monk
 *Source: Monster Manual (2024) p. 136*  
+![](/Compendium/bestiary/aberration/img/githzerai.webp#right)
 
-![](Compendium/bestiary/aberration/img/githzerai.webp#right|850)  
 Githzerai monks pursue control of their minds by honing their physical and psionic talents. They might be found beyond githzerai sanctuaries, testing themselves amid the dangerous extremes of the multiverse.
 
 ## Githzerai
@@ -23,7 +23,7 @@ Githzerai monks pursue control of their minds by honing their physical and psion
 *Explorers at Reality's Extremes*
 
 - **Habitat.** Planar (Limbo)  
-- **Treasure.** [[random-magic-items-arcana|Arcana]], Individual  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md), Individual  
 
 Githzerai are gaunt, humanlike beings, physically identical to githyanki. They share a history with githyanki as creatures physically and psychically transformed by mind flayers (see the "Githyanki" section). Githzerai know that in body and mind, their species was manipulated by their former illithid oppressors. Rather than giving in to this programming, githzerai follow the teachings of their first leader, Zerthimon, and reshape their minds and bodies to find peace.
 
@@ -51,60 +51,53 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 > 
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
+
 ## Statblock
 
-```statblock
-"name": "Githzerai Monk (XMM)"
-"size": "Medium"
-"type": "aberration"
-"subtype": "gith"
-"alignment": "Lawful Neutral"
-"ac": !!int "14"
-"hp": !!int "38"
-"hit_dice": "7d8 + 7"
-"modifier": !!int "4"
-"stats":
-  - !!int "12"
-  - !!int "15"
-  - !!int "12"
-  - !!int "13"
-  - !!int "14"
-  - !!int "10"
-"speed": "40 ft."
-"saves":
-  - "strength": !!int "3"
-  - "dexterity": !!int "4"
-  - "intelligence": !!int "3"
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[[skills#Insight|Insight]]"
-    "desc": "+4"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+4"
-"senses": "passive Perception 14"
-"languages": "Common, Gith"
-"cr": "2"
-"actions":
-  - "desc": "The githzerai makes two Psi Strike attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Bludgeoning\
-      \ damage plus 9 (2d8) Psychic damage."
-    "name": "Psi Strike"
-  - "desc": "The githzerai casts one of the following spells, requiring no spell components\
-      \ and using Wisdom as the spellcasting ability:\n\n**At will:** [[mage-hand-xphb|Mage Hand]]\
-      \ (the hand is Invisible)\n\n**1/day:** [[see-invisibility-xphb|See Invisibility]]"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The githzerai casts [[jump-xphb|Jump]], requiring\
-      \ no spell components and using the same spellcasting ability as Spellcasting.\n"
-    "name": "Psi-Powered Leap (2/Day)"
-"reactions":
-  - "desc": "The githzerai casts [[feather-fall-xphb|Feather Fall]]\
-      \ or [[shield-spell-xphb|Shield]] in response to the spell's trigger,\
-      \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
-    "name": "Psionic Defense (2/Day)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/aberration/token/githzerai-monk-xmm.webp"
+```ad-statblock
+title: Githzerai Monk
+![](/Compendium/bestiary/aberration/token/githzerai-monk-xmm.webp#token)
+*Medium aberration (gith), Lawful Neutral*
+
+- **Armor Class** 14 
+- **Hit Points** 38 (`7d8 + 7`) 
+- **Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|15 (+2)|12 (+1)|13 (+1)|14 (+2)|10 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Strength +3, Dexterity +4, Intelligence +3, Wisdom +4
+- **Skills** [Insight](/Compendium/rules/skills.md#Insight) +4, [Perception](/Compendium/rules/skills.md#Perception) +4
+- **Senses** passive Perception 14
+- **Languages** Common, Gith
+- **Challenge** 2
+
+## Actions
+
+***Multiattack.*** The githzerai makes two Psi Strike attacks.
+
+***Psi Strike.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Bludgeoning damage plus 9 (`2d8`) Psychic damage.
+
+***Spellcasting.*** The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability:
+
+**At will:** [Mage Hand](/Compendium/spells/mage-hand-xphb.md) (the hand is Invisible)
+
+**1/day:** [See Invisibility](/Compendium/spells/see-invisibility-xphb.md)
+
+## Bonus Actions
+
+***Psi-Powered Leap (2/Day).*** The githzerai casts [Jump](/Compendium/spells/jump-xphb.md), requiring no spell components and using the same spellcasting ability as Spellcasting.
+
+
+## Reactions
+
+***Psionic Defense (2/Day).*** The githzerai casts [Feather Fall](/Compendium/spells/feather-fall-xphb.md) or [Shield](/Compendium/spells/shield-xphb.md) in response to the spell's trigger, requiring no spell components and using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
+
+## Environment
+
+planar, limbo

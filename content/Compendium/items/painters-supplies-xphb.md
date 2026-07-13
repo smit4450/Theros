@@ -1,12 +1,12 @@
 ---
-title: "Painter's Supplies"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/artisans-tools
 - item/rarity/none
-aliases: 
+aliases:
 - "Painter's Supplies"
 ---
 # Painter's Supplies
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Wisdom  
 - **Utilize.** Paint a recognizable image of something you've seen (DC 10)  
-- **Craft.** [[druidic-focus-xphb|Druidic Focus]], [[holy-symbol-xphb|Holy Symbol]]  
+- **Craft.** [Druidic Focus](/Compendium/items/druidic-focus-xphb.md), [Holy Symbol](/Compendium/items/holy-symbol-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

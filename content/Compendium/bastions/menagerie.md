@@ -1,13 +1,12 @@
 ---
-title: Menagerie
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion
 tags:
 - bastion
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Menagerie
+- "Menagerie"
 ---
 # Menagerie
 *Level 13 Bastion facility*  
@@ -29,22 +28,22 @@ Creatures in your Menagerie count as Bastion Defenders. Deduct any you lose from
 
 | Creature | Size | Cost |
 |----------|------|------|
-| [[ape-xmm|Ape]] | Medium | 500 GP |
-| [[black-bear-xmm|Black Bear]] | Medium | 500 GP |
-| [[brown-bear-xmm|Brown Bear]] | Large | 1,000 GP |
-| [[constrictor-snake-xmm|Constrictor Snake]] | Large | 250 GP |
-| [[crocodile-xmm|Crocodile]] | Large | 500 GP |
-| [[dire-wolf-xmm|Dire Wolf]] | Large | 1,000 GP |
-| [[giant-vulture-xmm|Giant Vulture]] | Large | 1,000 GP |
-| [[hyena-xmm|Hyena]] | Medium | 50 GP |
-| [[jackal-xmm|Jackal]] | Small | 50 GP |
-| [[lion-xmm|Lion]] | Large | 1,000 GP |
-| [[owlbear-xmm|Owlbear]] | Large | 3,500 GP |
-| [[panther-xmm|Panther]] | Medium | 250 GP |
-| [[tiger-xmm|Tiger]] | Large | 1,000 GP |
+| [Ape](/Compendium/bestiary/beast/ape-xmm.md) | Medium | 500 GP |
+| [Black Bear](/Compendium/bestiary/beast/black-bear-xmm.md) | Medium | 500 GP |
+| [Brown Bear](/Compendium/bestiary/beast/brown-bear-xmm.md) | Large | 1,000 GP |
+| [Constrictor Snake](/Compendium/bestiary/beast/constrictor-snake-xmm.md) | Large | 250 GP |
+| [Crocodile](/Compendium/bestiary/beast/crocodile-xmm.md) | Large | 500 GP |
+| [Dire Wolf](/Compendium/bestiary/beast/dire-wolf-xmm.md) | Large | 1,000 GP |
+| [Giant Vulture](/Compendium/bestiary/monstrosity/giant-vulture-xmm.md) | Large | 1,000 GP |
+| [Hyena](/Compendium/bestiary/beast/hyena-xmm.md) | Medium | 50 GP |
+| [Jackal](/Compendium/bestiary/beast/jackal-xmm.md) | Small | 50 GP |
+| [Lion](/Compendium/bestiary/beast/lion-xmm.md) | Large | 1,000 GP |
+| [Owlbear](/Compendium/bestiary/monstrosity/owlbear-xmm.md) | Large | 3,500 GP |
+| [Panther](/Compendium/bestiary/beast/panther-xmm.md) | Medium | 250 GP |
+| [Tiger](/Compendium/bestiary/beast/tiger-xmm.md) | Large | 1,000 GP |
 ^menagerie-creatures
 
-With the DM's consent, you can add different creatures than those shown in the Menagerie Creatures table to your Menagerie. The cost of a creature depends on its Challenge Rating, as shown on the Creature Costs by Challenge Rating table. Typically only Beasts and some Monstrosities can be kept in a Menagerie, though the DM might allow other creatures.
+With the DM's consent, you can add different creatures than those shown in the Menagerie Creatures table to your Menagerie. The cost of a creature depends on its [Challenge Rating](/Compendium/rules/variant-rules/challenge-rating-xphb.md), as shown on the Creature Costs by Challenge Rating table. Typically only Beasts and some Monstrosities can be kept in a Menagerie, though the DM might allow other creatures.
 
 **Creature Costs by Challenge Rating**
 

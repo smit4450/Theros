@@ -1,27 +1,27 @@
 ---
-title: Staff of Frost
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/very-rare
 - item/weapon/melee
 - item/weapon/simple
-aliases: 
+aliases:
 - "Staff of Frost"
 ---
 # Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
-![](Compendium/items/img/staff-of-frost.webp#right)
+![](/Compendium/items/img/staff-of-frost.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-You have [[resistance-rules-xphb|Resistance]] to Cold damage while you hold this staff.
+You have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to Cold damage while you hold this staff.
 
 ## Spells
 
@@ -29,10 +29,10 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[cone-of-cold-xphb|Cone of Cold]] | 5 |
-| [[fog-cloud-xphb|Fog Cloud]] | 1 |
-| [[ice-storm-xphb|Ice Storm]] | 4 |
-| [[wall-of-ice-xphb|Wall of Ice]] | 4 |
+| [Cone of Cold](/Compendium/spells/cone-of-cold-xphb.md) | 5 |
+| [Fog Cloud](/Compendium/spells/fog-cloud-xphb.md) | 1 |
+| [Ice Storm](/Compendium/spells/ice-storm-xphb.md) | 4 |
+| [Wall of Ice](/Compendium/spells/wall-of-ice-xphb.md) | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges

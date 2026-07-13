@@ -1,16 +1,16 @@
 ---
-title: Flying Chariot
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - item/rarity/rare
-aliases: 
+aliases:
 - "Flying Chariot"
 ---
 # Flying Chariot
 *Wondrous item, rare*  
-![](Compendium/items/img/flying-chariot.webp#right)
+![](/Compendium/items/img/flying-chariot.webp#right)
 
 
 The chariot's riders and creatures pulling the chariot gain a +1 bonus to their AC.

@@ -1,12 +1,11 @@
 ---
-title: Fortifications; Maintenance Costs
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Fortifications; Maintenance Costs
+- "Fortifications; Maintenance Costs"
 ---
 # Fortifications; Maintenance Costs
 *Source: Dungeon Master's Guide (2024) p. 80* 

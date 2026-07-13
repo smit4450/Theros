@@ -1,54 +1,43 @@
 ---
-title: Index of Bastions
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
 # Index of Bastions
 
-- [[amethyst-dragon-den-frhof|Amethyst Dragon Den]]
-- [[arcane-study|Arcane Study]]
-- [[archive|Archive]]
-- [[armory|Armory]]
-- [[barrack|Barrack]]
-- [[bedroom|Bedroom]]
-- [[courtyard|Courtyard]]
-- [[cult-of-the-dragon-archive-frhof|Cult of the Dragon Archive]]
-- [[demiplane|Demiplane]]
-- [[dining-room|Dining Room]]
-- [[emerald-enclave-grove-frhof|Emerald Enclave Grove]]
-- [[gaming-hall|Gaming Hall]]
-- [[garden|Garden]]
-- [[greenhouse|Greenhouse]]
-- [[guildhall|Guildhall]]
-- [[harper-hideout-frhof|Harper Hideout]]
-- [[kitchen|Kitchen]]
-- [[laboratory|Laboratory]]
-- [[library|Library]]
-- [[lords-alliance-noble-residence-frhof|Lords' Alliance Noble Residence]]
-- [[meditation-chamber|Meditation Chamber]]
-- [[menagerie|Menagerie]]
-- [[observatory|Observatory]]
-- [[order-of-the-gauntlet-tournament-field-frhof|Order of the Gauntlet Tournament Field]]
-- [[parlor|Parlor]]
-- [[pub|Pub]]
-- [[red-wizard-necropolis-frhof|Red Wizard Necropolis]]
-- [[reliquary|Reliquary]]
-- [[sacristy|Sacristy]]
-- [[sanctuary|Sanctuary]]
-- [[sanctum|Sanctum]]
-- [[scriptorium|Scriptorium]]
-- [[smithy|Smithy]]
-- [[stable|Stable]]
-- [[storage|Storage]]
-- [[storehouse|Storehouse]]
-- [[teleportation-circle|Teleportation Circle]]
-- [[theater|Theater]]
-- [[training-area|Training Area]]
-- [[trophy-room|Trophy Room]]
-- [[war-room|War Room]]
-- [[workshop|Workshop]]
-- [[zhentarim-travel-station-frhof|Zhentarim Travel Station]]
+- [Arcane Study](./arcane-study.md)
+- [Archive](./archive.md)
+- [Armory](./armory.md)
+- [Barrack](./barrack.md)
+- [Bedroom](./bedroom.md)
+- [Courtyard](./courtyard.md)
+- [Demiplane](./demiplane.md)
+- [Dining Room](./dining-room.md)
+- [Gaming Hall](./gaming-hall.md)
+- [Garden](./garden.md)
+- [Greenhouse](./greenhouse.md)
+- [Guildhall](./guildhall.md)
+- [Kitchen](./kitchen.md)
+- [Laboratory](./laboratory.md)
+- [Library](./library.md)
+- [Meditation Chamber](./meditation-chamber.md)
+- [Menagerie](./menagerie.md)
+- [Observatory](./observatory.md)
+- [Parlor](./parlor.md)
+- [Pub](./pub.md)
+- [Reliquary](./reliquary.md)
+- [Sacristy](./sacristy.md)
+- [Sanctuary](./sanctuary.md)
+- [Sanctum](./sanctum.md)
+- [Scriptorium](./scriptorium.md)
+- [Smithy](./smithy.md)
+- [Stable](./stable.md)
+- [Storage](./storage.md)
+- [Storehouse](./storehouse.md)
+- [Teleportation Circle](./teleportation-circle.md)
+- [Theater](./theater.md)
+- [Training Area](./training-area.md)
+- [Trophy Room](./trophy-room.md)
+- [War Room](./war-room.md)
+- [Workshop](./workshop.md)

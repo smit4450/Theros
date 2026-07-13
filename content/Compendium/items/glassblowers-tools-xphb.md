@@ -1,12 +1,12 @@
 ---
-title: "Glassblower's Tools"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/artisans-tools
 - item/rarity/none
-aliases: 
+aliases:
 - "Glassblower's Tools"
 ---
 # Glassblower's Tools
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
-- **Craft.** [[glass-bottle-xphb|Glass Bottle]], [[magnifying-glass-xphb|Magnifying Glass]], [[spyglass-xphb|Spyglass]], [[vial-xphb|Vial]]  
+- **Craft.** [Glass Bottle](/Compendium/items/glass-bottle-xphb.md), [Magnifying Glass](/Compendium/items/magnifying-glass-xphb.md), [Spyglass](/Compendium/items/spyglass-xphb.md), [Vial](/Compendium/items/vial-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

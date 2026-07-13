@@ -1,12 +1,11 @@
 ---
-title: Psychic Wind Location Effects
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Psychic Wind Location Effects
+- "Psychic Wind Location Effects"
 ---
 # Psychic Wind Location Effects
 *Source: Dungeon Master's Guide (2024) p. 185* 

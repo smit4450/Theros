@@ -1,17 +1,17 @@
 ---
-title: Shield
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/shield/
-aliases: 
+aliases:
 - "Shield"
 ---
 # Shield
-*Armor ([[shield-spell-xphb|shield]])*  
-![](Compendium/items/img/shield.webp#right)
+*Armor (shield)*  
+![](/Compendium/items/img/shield.webp#right)
 
 - **Armor Class**: 2
 - **Cost**: 10 gp

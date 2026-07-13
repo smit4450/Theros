@@ -1,11 +1,11 @@
 ---
-title: Rope of Mending
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/common
-aliases: 
+aliases:
 - "Rope of Mending"
 ---
 # Rope of Mending
@@ -13,6 +13,6 @@ aliases:
 
 
 
-This 50-foot coil of rope can repair itself when cut into any number of smaller pieces. As a [[actions#Magic|Magic]] action, you can cause all pieces of the rope that are in contact with each other and not otherwise in use to knit back together. A Rope of Mending is forever shortened if a section of it is lost or destroyed.
+This 50-foot coil of rope can repair itself when cut into any number of smaller pieces. As a [Magic](/Compendium/rules/actions.md#Magic) action, you can cause all pieces of the rope that are in contact with each other and not otherwise in use to knit back together. A Rope of Mending is forever shortened if a section of it is lost or destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 302*

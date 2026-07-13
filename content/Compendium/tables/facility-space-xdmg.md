@@ -1,12 +1,11 @@
 ---
-title: Facility Space
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Facility Space
+- "Facility Space"
 ---
 # Facility Space
 *Source: Dungeon Master's Guide (2024) p. 335* 

@@ -1,16 +1,15 @@
 ---
-title: Champion
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - subclass/fighter/champion
 aliases:
-- Champion
+- "Champion"
 ---
 # Champion
-*[[fighter-xphb|Fighter]]: Fighter Subclass*  
+*[Fighter](./fighter-xphb.md): Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 96. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -44,24 +43,23 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Champion (Level 3)
+![](/Compendium/classes/img/champion-fighter.webp#right)
 
 *Pursue Physical Excellence in Combat*
 
 A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.
 
+## Subclass Features
+
 ### Improved Critical (Level 3)
 
-Your attack rolls with weapons and Unarmed Strikes can score a [[critical-hit-xphb|Critical Hit]] on a roll of 19 or 20 on the `d20`.
+Your attack rolls with weapons and Unarmed Strikes can score a [Critical Hit](/Compendium/rules/variant-rules/critical-hit-xphb.md) on a roll of 19 or 20 on the `d20`.
 
 ### Remarkable Athlete (Level 3)
 
-Thanks to your athleticism, you have [[advantage-xphb|Advantage]] on [[initiative-xphb|Initiative]] rolls and Strength ([[skills#Athletics|Athletics]]) checks.
+Thanks to your athleticism, you have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on [Initiative](/Compendium/rules/variant-rules/initiative-xphb.md) rolls and Strength ([Athletics](/Compendium/rules/skills.md#Athletics)) checks.
 
-In addition, immediately after you score a [[critical-hit-xphb|Critical Hit]], you can move up to half your [[speed-xphb|Speed]] without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].
+In addition, immediately after you score a [Critical Hit](/Compendium/rules/variant-rules/critical-hit-xphb.md), you can move up to half your [Speed](/Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack).
 
 ### Additional Fighting Style (Level 7)
 
@@ -69,20 +67,16 @@ You gain another Fighting Style feat of your choice.
 
 ### Heroic Warrior (Level 10)
 
-The thrill of battle drives you toward victory. During combat, you can give yourself [[heroic-inspiration-xphb|Heroic Inspiration]] whenever you start your turn without it.
+The thrill of battle drives you toward victory. During combat, you can give yourself [Heroic Inspiration](/Compendium/rules/variant-rules/heroic-inspiration-xphb.md) whenever you start your turn without it.
 
 ### Superior Critical (Level 15)
 
-Your attack rolls with weapons and Unarmed Strikes can now score a [[critical-hit-xphb|Critical Hit]] on a roll of 18–20 on the `d20`.
+Your attack rolls with weapons and Unarmed Strikes can now score a [Critical Hit](/Compendium/rules/variant-rules/critical-hit-xphb.md) on a roll of 18–20 on the `d20`.
 
 ### Survivor (Level 18)
 
 You attain the pinnacle of resilience in battle, giving you these benefits.
 
-#### Defy Death
+**Defy Death.** You have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on [Death Saving Throws](/Compendium/rules/variant-rules/death-saving-throw-xphb.md). Moreover, when you roll 18–20 on a [Death Saving Throw](/Compendium/rules/variant-rules/death-saving-throw-xphb.md), you gain the benefit of rolling a 20 on it.
 
-You have [[advantage-xphb|Advantage]] on [[death-saving-throw-xphb|Death Saving Throws]]. Moreover, when you roll 18–20 on a [[death-saving-throw-xphb|Death Saving Throw]], you gain the benefit of rolling a 20 on it.
-
-#### Heroic Rally
-
-At the start of each of your turns, you regain [[hit-points-xphb|Hit Points]] equal to 5 plus your Constitution modifier if you are [[conditions#Bloodied|Bloodied]] and have at least 1 [[hit-points-xphb|Hit Point]].
+**Heroic Rally.** At the start of each of your turns, you regain [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) equal to 5 plus your Constitution modifier if you are [Bloodied](/Compendium/rules/conditions.md#Bloodied) and have at least 1 [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md).

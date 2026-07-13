@@ -1,21 +1,21 @@
 ---
-title: Young Blue Dragon
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/9
 - monster/environment/coastal
 - monster/environment/desert
 - monster/size/large
 - monster/type/dragon/chromatic
-statblock: inline
-aliases: ["Young Blue Dragon"]
+aliases:
+- "Young Blue Dragon"
 ---
 # Young Blue Dragon
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/dragon/img/blue-dragon.webp#right)
 
-![](Compendium/bestiary/dragon/img/blue-dragon.webp#right|850)  
 Young blue dragons seek to establish themselves as forces to be feared. Many claim isolated communities to rule over or ancient ruins where they might find magical paths to power. These blue dragons might temporarily cooperate with other dragons or powerful villains to gain followers and influence.
 
 ## Blue Dragons
@@ -23,7 +23,7 @@ Young blue dragons seek to establish themselves as forces to be feared. Many cla
 *Dragons of Tyranny and Tempests*
 
 - **Habitat.** Desert  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Arrogant and imperious, blue dragons are chromatic dragons that crave control and collect followers like other dragons hoard treasure. They seek to transform their territories into empires, domains to be feared by nations.
 
@@ -34,51 +34,40 @@ Regalia of rulership and artistic masterpieces fill blue dragons' hoards. These 
 ### Blue Dragon Lairs
 
 Blue dragons dwell in arid lands. Their lairs might be death traps meant to entomb invaders or ostentatious fortresses where they plot domination.
+
 ## Statblock
 
-```statblock
-"name": "Young Blue Dragon (XMM)"
-"size": "Large"
-"type": "dragon"
-"subtype": "chromatic"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"hp": !!int "152"
-"hit_dice": "16d10 + 64"
-"modifier": !!int "4"
-"stats":
-  - !!int "21"
-  - !!int "10"
-  - !!int "19"
-  - !!int "14"
-  - !!int "13"
-  - !!int "17"
-"speed": "40 ft., burrow 20 ft., fly 80 ft."
-"saves":
-  - "dexterity": !!int "4"
-  - "wisdom": !!int "5"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+9"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
-"damage_immunities": "lightning"
-"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
-  \ 120 ft., passive Perception 19"
-"languages": "Common, Draconic"
-"cr": "9"
-"actions":
-  - "desc": "The dragon makes three Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +9, reach 10 ft. *Hit:* 12 (2d6 + 5) Slashing\
-      \ damage plus 5 (1d10) Lightning damage."
-    "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 16, each creature in a 60-foot-long, 5-foot-wide\
-      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
-      \ 55 (10d10) Lightning damage. *Success:* Half damage."
-    "name": "Lightning Breath (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/dragon/token/young-blue-dragon-xmm.webp"
+```ad-statblock
+title: Young Blue Dragon
+![](/Compendium/bestiary/dragon/token/young-blue-dragon-xmm.webp#token)
+*Large dragon (chromatic), Lawful Evil*
+
+- **Armor Class** 18 
+- **Hit Points** 152 (`16d10 + 64`) 
+- **Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Dexterity +4, Wisdom +5
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +9, [Stealth](/Compendium/rules/skills.md#Stealth) +4
+- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 19
+- **Damage Immunities** lightning
+- **Languages** Common, Draconic
+- **Challenge** 9
+
+## Actions
+
+***Multiattack.*** The dragon makes three Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `+9`, reach 10 ft. *Hit:* 12 (`2d6 + 5`) Slashing damage plus 5 (`1d10`) Lightning damage.
+
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 16, each creature in a 60-foot-long, 5-foot-wide [Line](/Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* 55 (`10d10`) Lightning damage. *Success:* Half damage.
 ```
 ^statblock
+
+## Environment
+
+coastal, desert

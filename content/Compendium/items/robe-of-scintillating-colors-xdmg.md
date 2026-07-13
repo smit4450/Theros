@@ -1,12 +1,12 @@
 ---
-title: Robe of Scintillating Colors
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Robe of Scintillating Colors"
 ---
 # Robe of Scintillating Colors
@@ -14,6 +14,6 @@ aliases:
 
 
 
-This robe has 3 charges, and it regains `1d3` expended charges daily at dawn. While you wear it, you can take a [[actions#Magic|Magic]] action and expend 1 charge to cause the garment to display a shifting pattern of dazzling hues until the end of your next turn. During this time, the robe sheds [[bright-light-xphb|Bright Light]] in a 30-foot radius and [[dim-light-xphb|Dim Light]] for an additional 30 feet, and creatures that can see you have [[disadvantage-xphb|Disadvantage]] on attack rolls against you. Any creature in the [[bright-light-xphb|Bright Light]] that can see you when the robe's power is activated must succeed on a DC 15 Wisdom saving throw or have the [[conditions#Stunned|Stunned]] condition until the effect ends.
+This robe has 3 charges, and it regains `1d3` expended charges daily at dawn. While you wear it, you can take a [Magic](/Compendium/rules/actions.md#Magic) action and expend 1 charge to cause the garment to display a shifting pattern of dazzling hues until the end of your next turn. During this time, the robe sheds [Bright Light](/Compendium/rules/variant-rules/bright-light-xphb.md) in a 30-foot radius and [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 30 feet, and creatures that can see you have [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against you. Any creature in the [Bright Light](/Compendium/rules/variant-rules/bright-light-xphb.md) that can see you when the robe's power is activated must succeed on a DC 15 Wisdom saving throw or have the [Stunned](/Compendium/rules/conditions.md#Stunned) condition until the effect ends.
 
 *Source: Dungeon Master's Guide (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

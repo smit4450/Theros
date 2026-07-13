@@ -1,12 +1,12 @@
 ---
-title: Arcane Focus
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/spellcasting-focus
 - item/rarity/none
-aliases: 
+aliases:
 - "Arcane Focus"
 ---
 # Arcane Focus
@@ -16,10 +16,10 @@ aliases:
 
 **Items in this group:**
 
-- [[crystal-xphb|Crystal]]
-- [[orb-xphb|Orb]]
-- [[rod-xphb|Rod]]
-- [[staff-xphb|Staff]]
-- [[wand-xphb|Wand]]
+- [Crystal](/Compendium/items/crystal-xphb.md)
+- [Orb](/Compendium/items/orb-xphb.md)
+- [Rod](/Compendium/items/rod-xphb.md)
+- [Staff](/Compendium/items/staff-xphb.md)
+- [Wand](/Compendium/items/wand-xphb.md)
 
 *Source: Player's Handbook (2024) p. 224*

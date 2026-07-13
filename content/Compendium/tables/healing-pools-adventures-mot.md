@@ -1,12 +1,11 @@
 ---
-title: Healing Pools Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Healing Pools Adventures
+- "Healing Pools Adventures"
 ---
 # Healing Pools Adventures
 *Source: Mythic Odysseys of Theros p. 162* 

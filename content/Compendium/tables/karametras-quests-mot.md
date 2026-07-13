@@ -1,12 +1,11 @@
 ---
-title: "Karametra's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Karametra's Quests
+- "Karametra's Quests"
 ---
 # Karametra's Quests
 *Source: Mythic Odysseys of Theros p. 136* 

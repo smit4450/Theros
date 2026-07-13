@@ -1,12 +1,11 @@
 ---
-title: Temple of Mystery Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Temple of Mystery Adventures
+- "Temple of Mystery Adventures"
 ---
 # Temple of Mystery Adventures
 *Source: Mythic Odysseys of Theros p. 150* 

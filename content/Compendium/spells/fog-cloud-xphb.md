@@ -1,9 +1,9 @@
 ---
-title: Fog Cloud
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/druid
 - spell/class/ranger
@@ -30,7 +30,8 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Fog Cloud"]
+aliases:
+- "Fog Cloud"
 ---
 # Fog Cloud
 *1st-level, Conjuration*  
@@ -41,10 +42,10 @@ aliases: ["Fog Cloud"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-You create a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] of fog centered on a point within range. The [[sphere-area-of-effect-xphb|Sphere]] is [[heavily-obscured-xphb|Heavily Obscured]]. It lasts for the duration or until a strong wind (such as one created by [[gust-of-wind-xphb|Gust of Wind]]) disperses it.
+You create a 20-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) of fog centered on a point within range. The [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) is [Heavily Obscured](/Compendium/rules/variant-rules/heavily-obscured-xphb.md). It lasts for the duration or until a strong wind (such as one created by [Gust of Wind](/Compendium/spells/gust-of-wind-xphb.md)) disperses it.
 
 **Using a Higher-Level Spell Slot.** The fog's radius increases by 20 feet for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Druid (Circle of the Land, Polar Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Sea)](Compendium/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger|Ranger]]; [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Polar Land)](/Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Sea)](/Compendium/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

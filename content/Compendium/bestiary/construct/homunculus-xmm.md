@@ -1,20 +1,20 @@
 ---
-title: Homunculus
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/0
 - monster/environment/any
 - monster/size/tiny
 - monster/type/construct
-statblock: inline
-aliases: ["Homunculus"]
+aliases:
+- "Homunculus"
 ---
 # Homunculus
 *Source: Monster Manual (2024) p. 172. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![Homunculi are as varied as the magic-users who create them](/Compendium/bestiary/construct/img/homunculus.webp#right)
 
-![Homunculi are as varied as...](Compendium/bestiary/construct/img/homunculus.webp#right|850)  
 ## Homunculus
 
 *Winged Servant Given Magical Life*
@@ -39,48 +39,39 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 | 7 | Underdeveloped and fleshy with beady eyes. |
 | 8 | Woven and patchwork, like a well-loved toy. |
 ^homunculus-features
-```statblock
-"name": "Homunculus (XMM)"
-"size": "Tiny"
-"type": "construct"
-"alignment": "Neutral"
-"ac": !!int "13"
-"hp": !!int "4"
-"hit_dice": "1d4 + 2"
-"modifier": !!int "2"
-"stats":
-  - !!int "4"
-  - !!int "15"
-  - !!int "14"
-  - !!int "10"
-  - !!int "10"
-  - !!int "7"
-"speed": "20 ft., fly 40 ft."
-"saves":
-  - "wisdom": !!int "2"
-  - "charisma": !!int "0"
-"damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Poisoned|poisoned]]"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 10"
-"languages": "understands Common plus one other language but can't speak"
-"cr": "0"
-"traits":
-  - "desc": "While the homunculus is on the same plane of existence as its master,\
-      \ the two of them can communicate telepathically with each other."
-    "name": "Telepathic Bond"
-"actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage, and\
-      \ the target is subjected to the following effect. *Constitution Saving Throw:*\
-      \ DC 12. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
-      \ condition until the end of the homunculus's next turn. *By 5Th Failure:* The\
-      \ target has the [[conditions#Poisoned|Poisoned]] condition\
-      \ for 1 minute. While [[conditions#Poisoned|Poisoned]], the\
-      \ target has the [[conditions#Unconscious|Unconscious]] condition,\
-      \ which ends early if the target takes any damage."
-    "name": "Bite"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/construct/token/homunculus-xmm.webp"
+
+```ad-statblock
+title: Homunculus
+![](/Compendium/bestiary/construct/token/homunculus-xmm.webp#token)
+*Tiny construct, Neutral*
+
+- **Armor Class** 13 
+- **Hit Points** 4 (`1d4 + 2`) 
+- **Speed** 20 ft., fly 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 4 (-3)|15 (+2)|14 (+2)|10 (+0)|10 (+0)| 7 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Wisdom +2, Charisma +0
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [poisoned](/Compendium/rules/conditions.md#Poisoned)
+- **Languages** understands Common plus one other language but can't speak
+- **Challenge** 0
+
+## Traits
+
+***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, the two of them can communicate telepathically with each other.
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 1 Piercing damage, and the target is subjected to the following effect. *Constitution Saving Throw:* DC 12. *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the end of the homunculus's next turn. *By 5Th Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition for 1 minute. While [Poisoned](/Compendium/rules/conditions.md#Poisoned), the target has the [Unconscious](/Compendium/rules/conditions.md#Unconscious) condition, which ends early if the target takes any damage.
 ```
 ^statblock
+
+## Environment
+
+any

@@ -1,9 +1,9 @@
 ---
-title: Blight
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/druid
 - spell/class/sorcerer
@@ -23,7 +23,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Blight"]
+aliases:
+- "Blight"
 ---
 # Blight
 *4th-level, Necromancy*  
@@ -40,6 +41,6 @@ Alternatively, target a nonmagical plant that isn't a creature, such as a tree o
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [Druid (Circle of the Land, Arid Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arid Land)](/Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,9 +1,9 @@
 ---
-title: Finger of Death
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/warlock
@@ -15,7 +15,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Finger of Death"]
+aliases:
+- "Finger of Death"
 ---
 # Finger of Death
 *7th-level, Necromancy*  
@@ -28,8 +29,8 @@ aliases: ["Finger of Death"]
 
 You unleash negative energy toward a creature you can see within range. The target makes a Constitution saving throw, taking `7d8 + 30` Necrotic damage on a failed save or half as much damage on a successful one.
 
-A Humanoid killed by this spell rises at the start of your next turn as a [[zombie-xmm|Zombie]] that follows your verbal orders.
+A Humanoid killed by this spell rises at the start of your next turn as a [Zombie](/Compendium/bestiary/undead/zombie-xmm.md) that follows your verbal orders.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,9 +1,9 @@
 ---
-title: +2 Weapon
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/age/futuristic
 - item/age/modern
 - item/rarity/rare
@@ -12,7 +12,7 @@ tags:
 - item/weapon/ranged
 - item/weapon/simple
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "+2 Weapon"
 - "+2 Antimatter Rifle"
 - "+2 Automatic Rifle"
@@ -130,14 +130,14 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### +2 Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Burst%20Fire|Burst Fire]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Burst Fire](/Compendium/rules/item-properties.md#Burst%20Fire), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### +2 Battleaxe
@@ -145,40 +145,40 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### +2 Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading)
 - **Weight**: 1.0 lbs.
 
 ### +2 Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +2 Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### +2 Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### +2 Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]], special
+- **Properties**: [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed), special
 - **Weight**: 6.0 lbs.
 
 ### +2 Flail
@@ -189,127 +189,127 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 ### +2 Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### +2 Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### +2 Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### +2 Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### +2 Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### +2 Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Light|Light]], [[item-properties#Loading|Loading]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Light](/Compendium/rules/item-properties.md#Light), [Loading](/Compendium/rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### +2 Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### +2 Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Heavy](/Compendium/rules/item-properties.md#Heavy), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### +2 Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +2 Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Finesse|Finesse]], [[item-properties#Two-Handed|Two-Handed]], special
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Finesse](/Compendium/rules/item-properties.md#Finesse), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed), special
 - **Weight**: 2.0 lbs.
 
 ### +2 Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### +2 Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### +2 Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach)
 - **Weight**: 6.0 lbs.
 
 ### +2 Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### +2 Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### +2 Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### +2 Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### +2 Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### +2 Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### +2 Longsword
@@ -317,7 +317,7 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### +2 Mace
@@ -328,7 +328,7 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 ### +2 Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### +2 Morningstar
@@ -340,20 +340,20 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### +2 Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### +2 Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### +2 Quarterstaff
@@ -361,66 +361,66 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### +2 Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### +2 Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### +2 Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### +2 Semiautomatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### +2 Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### +2 Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +2 Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### +2 Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +2 Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition)
 
 ### +2 Spear
 
@@ -428,7 +428,7 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown), [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### +2 Trident
@@ -437,7 +437,7 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown), [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### +2 War Pick
@@ -445,7 +445,7 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### +2 Warhammer
@@ -453,20 +453,20 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 ### +2 Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Reach](/Compendium/rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 ### +2 Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
 

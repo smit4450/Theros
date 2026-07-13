@@ -1,9 +1,10 @@
 ---
-title: Dispel Magic
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
+- spell/class/artificer
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -19,14 +20,12 @@ tags:
 - spell/subclass/clockwork-sorcery
 - spell/subclass/college-of-lore
 - spell/subclass/eldritch-knight
-- spell/subclass/knowledge-domain
 - spell/subclass/oath-of-devotion
-- spell/subclass/spellfire-sorcery
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Cleric
-- Cleric (Knowledge Domain)
 - Druid
 - Fighter (Eldritch Knight)
 - Paladin
@@ -35,11 +34,11 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Sorcerer (Clockwork Sorcery)
-- Sorcerer (Spellfire Sorcery)
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Dispel Magic"]
+aliases:
+- "Dispel Magic"
 ---
 # Dispel Magic
 *3rd-level, Abjuration*  
@@ -54,6 +53,6 @@ Choose one creature, object, or magical effect within range. Any ongoing spell o
 
 **Using a Higher-Level Spell Slot.** You automatically end a spell on the target if the spell's level is equal to or less than the level of the spell slot you use.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-ranger|Ranger]]; [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Compendium/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Artificer](/Compendium/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Devotion)](/Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/Compendium/lists/list-spells-classes-paladin.md); [Ranger](/Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](/Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Compendium/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](/Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

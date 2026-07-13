@@ -1,16 +1,16 @@
 ---
-title: Armor of Acid Resistance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/light
 - item/armor/medium
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Acid Resistance"
 - "Breastplate of Acid Resistance"
 - "Chain Mail of Acid Resistance"
@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [[resistance-rules-xphb|Resistance]] to acid damage while you wear this armor.
+You have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to acid damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Acid Resistance](#Breastplate%20of%20Acid%20Resistance)

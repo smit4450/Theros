@@ -1,20 +1,20 @@
 ---
-title: Warrior Veteran
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/3
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Warrior Veteran"]
+aliases:
+- "Warrior Veteran"
 ---
 # Warrior Veteran
 *Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![An aasimar commander leads warriors charging into battle](/Compendium/bestiary/humanoid/img/warriors.webp#right)
 
-![An aasimar commander leads...](Compendium/bestiary/humanoid/img/warriors.webp#right|850)  
 Warrior veterans have participated in numerous battles and can hold their own against lesser rivals and monsters.
 
 ## Warriors
@@ -22,7 +22,7 @@ Warrior veterans have participated in numerous battles and can hold their own ag
 *Soldiers and Scrappers*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Warriors are professionals who make a living through their prowess in battle. They might be skilled in using a variety of tactics or trained to take advantage of unusual battlefields. Warriors often work together, whether in armies or in teams with deliberate goals.
 
@@ -48,49 +48,44 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
+
 ## Statblock
 
-```statblock
-"name": "Warrior Veteran (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "17"
-"hp": !!int "65"
-"hit_dice": "10d8 + 20"
-"modifier": !!int "3"
-"stats":
-  - !!int "16"
-  - !!int "13"
-  - !!int "14"
-  - !!int "10"
-  - !!int "11"
-  - !!int "10"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[[skills#Athletics|Athletics]]"
-    "desc": "+5"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+2"
-"senses": "passive Perception 12"
-"languages": "Common plus one other language"
-"cr": "3"
-"actions":
-  - "desc": "The warrior makes two Greatsword or Heavy Crossbow attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing\
-      \ damage."
-    "name": "Greatsword"
-  - "desc": "*Ranged Attack Roll:* +3, range 100/400 ft. *Hit:* 12 (2d10 + 1)\
-      \ Piercing damage."
-    "name": "Heavy Crossbow"
-"reactions":
-  - "desc": "Trigger: The warrior is hit by a melee attack roll while holding a weapon.\
-      \ _Response:_ The warrior adds 2 to its AC against that attack, possibly causing\
-      \ it to miss."
-    "name": "Parry"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/humanoid/token/warrior-veteran-xmm.webp"
+```ad-statblock
+title: Warrior Veteran
+![](/Compendium/bestiary/humanoid/token/warrior-veteran-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 17 
+- **Hit Points** 65 (`10d8 + 20`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Athletics](/Compendium/rules/skills.md#Athletics) +5, [Perception](/Compendium/rules/skills.md#Perception) +2
+- **Senses** passive Perception 12
+- **Gear** [greatsword](/Compendium/items/greatsword-xphb.md), [heavy crossbow](/Compendium/items/heavy-crossbow-xphb.md), [splint armor](/Compendium/items/splint-armor-xphb.md)
+- **Languages** Common plus one other language
+- **Challenge** 3
+
+## Actions
+
+***Multiattack.*** The warrior makes two Greatsword or Heavy Crossbow attacks.
+
+***Greatsword.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 10 (`2d6 + 3`) Slashing damage.
+
+***Heavy Crossbow.*** *Ranged Attack Roll:* `+3`, range 100/400 ft. *Hit:* 12 (`2d10 + 1`) Piercing damage.
+
+## Reactions
+
+***Parry.*** Trigger: The warrior is hit by a melee attack roll while holding a weapon. _Response:_ The warrior adds 2 to its AC against that attack, possibly causing it to miss.
 ```
 ^statblock
+
+## Environment
+
+any

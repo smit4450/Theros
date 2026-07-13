@@ -1,54 +1,49 @@
 ---
-title: Giant Insect (Centipede)
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - monster/cr/
 - monster/size/large
 - monster/type/beast
-statblock: inline
-aliases: ["Giant Insect (Centipede)"]
+aliases:
+- "Giant Insect (Centipede)"
 ---
 # Giant Insect (Centipede)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
-```statblock
-"name": "Giant Insect (Centipede) (XPHB)"
-"size": "Large"
-"type": "beast"
-"alignment": "Unaligned"
-"ac_class": "11 + the spell's level"
-"modifier": !!int "1"
-"stats":
-  - !!int "17"
-  - !!int "13"
-  - !!int "15"
-  - !!int "4"
-  - !!int "14"
-  - !!int "3"
-"speed": "40 ft., climb 40 ft."
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 12"
-"languages": "understands the languages you know"
-"traits":
-  - "desc": "The insect can climb difficult surfaces, including along ceilings, without\
-      \ needing to make an ability check."
-    "name": "Spider Climb"
-"actions":
-  - "desc": "The insect makes a number of attacks equal to half this spell's level\
-      \ (round down)."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10\
-      \ ft. *Hit:* 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison\
-      \ damage."
-    "name": "Poison Jab"
-"bonus_actions":
-  - "desc": "*Constitution Saving Throw:* Your spell save DC, one creature the insect\
-      \ can see within 10 feet. *Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
-      \ condition until the start of the insect's next turn."
-    "name": "Venomous Spew (Centipede Only)"
-"source":
-  - "XPHB"
+```ad-statblock
+title: Giant Insect (Centipede)
+*Large beast, Unaligned*
+
+- **Armor Class** (11 + the spell's level)
+- **Hit Points** 30 + 10 for each spell level above 4  (30 + 10 for each spell level above 4)
+- **Speed** 40 ft., climb 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|13 (+1)|15 (+2)| 4 (-3)|14 (+2)| 3 (-4)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Languages** understands the languages you know
+- **Challenge** 
+
+## Traits
+
+***Spider Climb.*** The insect can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+
+## Actions
+
+***Multiattack.*** The insect makes a number of attacks equal to half this spell's level (round down).
+
+***Poison Jab.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 ft. *Hit:* `1d6 + 3` + the spell's level Piercing damage plus `1d4` Poison damage.
+
+## Bonus Actions
+
+***Venomous Spew (Centipede Only).*** *Constitution Saving Throw:* Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the start of the insect's next turn.
 ```
 ^statblock

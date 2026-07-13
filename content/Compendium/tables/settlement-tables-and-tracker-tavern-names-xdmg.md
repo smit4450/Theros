@@ -1,12 +1,11 @@
 ---
-title: Settlement Tables and Tracker; Tavern Names
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Settlement Tables and Tracker; Tavern Names
+- "Settlement Tables and Tracker; Tavern Names"
 ---
 # Settlement Tables and Tracker; Tavern Names
 *Source: Dungeon Master's Guide (2024) p. 93* 

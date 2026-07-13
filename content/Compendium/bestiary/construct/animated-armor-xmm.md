@@ -1,20 +1,20 @@
 ---
-title: Animated Armor
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1
 - monster/environment/urban
 - monster/size/medium
 - monster/type/construct
-statblock: inline
-aliases: ["Animated Armor"]
+aliases:
+- "Animated Armor"
 ---
 # Animated Armor
 *Source: Monster Manual (2024) p. 16. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/construct/img/animated-objects.webp#right)
 
-![](Compendium/bestiary/construct/img/animated-objects.webp#right|850)  
 Animated suits of armor might move with steady deliberateness or awkward gaits. They're often constructed from plate armor, making them easy to mistake for soldiers or helmed horrors. Other types of armor or even metal statuary might also become animated armor.
 
 ## Animated Objects
@@ -47,42 +47,39 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 | 9 | Wild magic, a spell that went awry, or a chaotic Artifact. |
 | 10 | The will of a powerful psychic being. |
 ^animated-object-catalysts
+
 ## Statblock
 
-```statblock
-"name": "Animated Armor (XMM)"
-"size": "Medium"
-"type": "construct"
-"alignment": "Unaligned"
-"ac": !!int "18"
-"hp": !!int "33"
-"hit_dice": "6d8 + 6"
-"modifier": !!int "2"
-"stats":
-  - !!int "14"
-  - !!int "11"
-  - !!int "13"
-  - !!int "1"
-  - !!int "3"
-  - !!int "1"
-"speed": "25 ft."
-"damage_immunities": "poison, psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
-  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]]"
-"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
-  \ 6"
-"languages": ""
-"cr": "1"
-"actions":
-  - "desc": "The armor makes two Slam attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Bludgeoning\
-      \ damage."
-    "name": "Slam"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/construct/token/animated-armor-xmm.webp"
+```ad-statblock
+title: Animated Armor
+![](/Compendium/bestiary/construct/token/animated-armor-xmm.webp#token)
+*Medium construct, Unaligned*
+
+- **Armor Class** 18 
+- **Hit Points** 33 (`6d8 + 6`) 
+- **Speed** 25 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|11 (+0)|13 (+1)| 1 (-5)| 3 (-4)| 1 (-5)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception 6
+- **Damage Immunities** poison, psychic
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [deafened](/Compendium/rules/conditions.md#Deafened), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned)
+- **Languages** —
+- **Challenge** 1
+
+## Actions
+
+***Multiattack.*** The armor makes two Slam attacks.
+
+***Slam.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 5 (`1d6 + 2`) Bludgeoning damage.
 ```
 ^statblock
+
+## Environment
+
+urban

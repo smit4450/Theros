@@ -1,12 +1,12 @@
 ---
-title: Crystal Ball of True Seeing
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/legendary
-aliases: 
+aliases:
 - "Crystal Ball of True Seeing"
 ---
 # Crystal Ball of True Seeing
@@ -15,6 +15,6 @@ aliases:
 
 - **Weight**: 3.0 lbs.
 
-While touching this crystal orb, you can cast [[scrying-xphb|Scrying]] (save DC 17) with it. In addition, you have [[senses#Truesight|Truesight]] with a range of 120 feet centered on the spell's sensor.
+While touching this crystal orb, you can cast [Scrying](/Compendium/spells/scrying-xphb.md) (save DC 17) with it. In addition, you have [Truesight](/Compendium/rules/senses.md#Truesight) with a range of 120 feet centered on the spell's sensor.
 
 *Source: Dungeon Master's Guide (2024) p. 159. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

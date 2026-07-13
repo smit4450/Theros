@@ -1,12 +1,11 @@
 ---
-title: Describe Appearance and Personality; Intelligence
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Describe Appearance and Personality; Intelligence
+- "Describe Appearance and Personality; Intelligence"
 ---
 # Describe Appearance and Personality; Intelligence
 *Source: Player's Handbook (2024) p. 38* 

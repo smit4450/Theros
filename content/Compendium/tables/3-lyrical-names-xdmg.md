@@ -1,12 +1,11 @@
 ---
-title: "3: Lyrical Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- 3: Lyrical Names
+- "3: Lyrical Names"
 ---
 # 3: Lyrical Names
 *Source: Dungeon Master's Guide (2024) p. 84* 

@@ -1,13 +1,12 @@
 ---
-title: Druid
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
 - class/druid
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Druid
+- "Druid"
 ---
 # Druid
 *Source: Player's Handbook (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -43,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](/Compendium/classes/img/druid.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Druid level
@@ -52,16 +53,20 @@ aliases:
 ## Starting Druid
 
 - **Saving Throw Proficiencies**: Intelligence, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [[skills#Animal%20Handling|Animal Handling]], [[skills#Arcana|Arcana]], [[skills#Insight|Insight]], [[skills#Medicine|Medicine]], [[skills#Nature|Nature]], [[skills#Perception|Perception]], [[skills#Religion|Religion]], or [[skills#Survival|Survival]]
+- **Skill Proficiencies**: *Choose 2:* [Animal Handling](/Compendium/rules/skills.md#Animal%20Handling), [Arcana](/Compendium/rules/skills.md#Arcana), [Insight](/Compendium/rules/skills.md#Insight), [Medicine](/Compendium/rules/skills.md#Medicine), [Nature](/Compendium/rules/skills.md#Nature), [Perception](/Compendium/rules/skills.md#Perception), [Religion](/Compendium/rules/skills.md#Religion), or [Survival](/Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons
-- **Tool Proficiencies**: [[herbalism-kit-xphb|Herbalism Kit]]
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]] and [[shield-spell-xphb|Shields]]
+- **Tool Proficiencies**: [Herbalism Kit](/Compendium/items/herbalism-kit-xphb.md)
+- **Armor Training**: [Light armor](/Compendium/rules/item-types.md#Light%20Armor) and [Shields](/Compendium/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [[leather-armor-xphb|Leather Armor]], [[shield-spell-xphb|Shield]], [[sickle-xphb|Sickle]], [[druidic-focus-xphb|Druidic Focus (Quarterstaff)]], [[explorers-pack-xphb|Explorer's Pack]], [[herbalism-kit-xphb|Herbalism kit]], 9 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](/Compendium/items/leather-armor-xphb.md), [Shield](/Compendium/items/shield-xphb.md), [Sickle](/Compendium/items/sickle-xphb.md), [Druidic Focus (Quarterstaff)](/Compendium/items/druidic-focus-xphb.md), [Explorer's Pack](/Compendium/items/explorers-pack-xphb.md), [Herbalism kit](/Compendium/items/herbalism-kit-xphb.md), 9 GP; or (B) 50 GP
 
 ## Multiclassing Druid
 
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[shield-spell-xphb|Shields]]
+- **Armor Training**: [Light armor](/Compendium/rules/item-types.md#Light%20Armor), [Shields](/Compendium/items/shield-xphb.md)
+
+> [!gallery]
+![A Druid channels the power of nature through their magic](/Compendium/classes/img/057-03-033-druid-in-nature.webp)
+![A Druid in wolf form howls at the moon](/Compendium/classes/img/060-03-036-wolf-form-druid.webp)
 
 ## Druid
 
@@ -75,79 +80,62 @@ Druids are concerned with the delicate ecological balance that sustains plant an
 
 ### Druidic (Level 1)
 
-You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[speak-with-animals-xphb|Speak with Animals]] spell prepared.
+You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [Speak with Animals](/Compendium/spells/speak-with-animals-xphb.md) spell prepared.
 
-You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check but can't decipher it without magic.
+You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence ([Investigation](/Compendium/rules/skills.md#Investigation)) check but can't decipher it without magic.
 
 ### Primal Order (Level 1)
 
 You have dedicated yourself to one of the following sacred roles of your choice.
 
+Options (choose 1):
+
 - **Magician**  
-
-    You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence ([[skills#Arcana|Arcana]] or [[skills#Nature|Nature]]) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).  
-
+    You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence ([Arcana](/Compendium/rules/skills.md#Arcana) or [Nature](/Compendium/rules/skills.md#Nature)) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).  
 - **Warden**  
-
     Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.  
 
 ### Spellcasting (Level 1)
 
 You have learned to cast spells through studying the mystical forces of nature. See "chapter 7" for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the Druid spell list later in the class's description.
 
-#### Cantrips
-
-You know two cantrips of your choice from the Druid spell list. [[druidcraft-xphb|Druidcraft]] and [[produce-flame-xphb|Produce Flame]] are recommended.
+**Cantrips.** You know two cantrips of your choice from the Druid spell list. [Druidcraft](/Compendium/spells/druidcraft-xphb.md) and [Produce Flame](/Compendium/spells/produce-flame-xphb.md) are recommended.
 
 Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the Druid spell list.
 
 When you reach Druid levels 4 and 10, you learn another cantrip of your choice from the Druid spell list, as shown in the Cantrips column of the Druid Features table.
 
-#### Spell Slots
+**Spell Slots.** The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
-The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[long-rest-xphb|Long Rest]].
-
-#### Prepared Spells of Level 1+
-
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [[animal-friendship-xphb|Animal Friendship]], [[cure-wounds-xphb|Cure Wounds]], [[faerie-fire-xphb|Faerie Fire]], and [[thunderwave-xphb|Thunderwave]] are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [Animal Friendship](/Compendium/spells/animal-friendship-xphb.md), [Cure Wounds](/Compendium/spells/cure-wounds-xphb.md), [Faerie Fire](/Compendium/spells/faerie-fire-xphb.md), and [Thunderwave](/Compendium/spells/thunderwave-xphb.md) are recommended.
 
 The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
 If another Druid feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you.
 
-#### Changing Your Prepared Spells
+**Changing Your Prepared Spells.** Whenever you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
 
-Whenever you finish a [[long-rest-xphb|Long Rest]], you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
+**Spellcasting Ability.** Wisdom is your spellcasting ability for your Druid spells.
 
-#### Spellcasting Ability
-
-Wisdom is your spellcasting ability for your Druid spells.
-
-#### Spellcasting Focus
-
-You can use a [[druidic-focus-xphb|Druidic Focus]] as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your Druid spells.
+**Spellcasting Focus.** You can use a [Druidic Focus](/Compendium/items/druidic-focus-xphb.md) as a [Spellcasting Focus](/Compendium/rules/variant-rules/spellcasting-focus-xphb.md) for your Druid spells.
 
 ### Wild Companion (Level 2)
 
-You can summon a nature spirit that assumes an animal form to aid you. As a [[actions#Magic|Magic]] action, you can expend a spell slot or a use of Wild Shape to cast the [[find-familiar-xphb|Find Familiar]] spell without Material components.
+You can summon a nature spirit that assumes an animal form to aid you. As a [Magic](/Compendium/rules/actions.md#Magic) action, you can expend a spell slot or a use of Wild Shape to cast the [Find Familiar](/Compendium/spells/find-familiar-xphb.md) spell without Material components.
 
-When you cast the spell in this way, the familiar is Fey and disappears when you finish a [[long-rest-xphb|Long Rest]].
+When you cast the spell in this way, the familiar is Fey and disappears when you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ### Wild Shape (Level 2)
 
-The power of nature allows you to assume the form of an animal. As a [[bonus-action-xphb|Bonus Action]], you shape-shift into a Beast form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [[conditions#Incapacitated|Incapacitated]] condition, or die. You can also leave the form early as a [[bonus-action-xphb|Bonus Action]].
+The power of nature allows you to assume the form of an animal. As a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md), you shape-shift into a Beast form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition, or die. You can also leave the form early as a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md).
 
-#### Number of Uses
-
-You can use Wild Shape twice. You regain one expended use when you finish a [[short-rest-xphb|Short Rest]], and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
+**Number of Uses.** You can use Wild Shape twice. You regain one expended use when you finish a [Short Rest](/Compendium/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
 You gain additional uses when you reach certain Druid levels, as shown in the Wild Shape column of the Druid Features table.
 
-#### Known Forms
+**Known Forms.** You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum [Challenge Rating](/Compendium/rules/variant-rules/challenge-rating-xphb.md) of 1/4 and that lack a [Fly Speed](/Compendium/rules/variant-rules/fly-speed-xphb.md) (see appendix B for stat block options). The [Rat](/Compendium/bestiary/beast/rat-xmm.md), [Riding Horse](/Compendium/bestiary/beast/riding-horse-xmm.md), [Spider](/Compendium/bestiary/beast/spider-xmm.md), and [Wolf](/Compendium/bestiary/beast/wolf-xmm.md) are recommended. Whenever you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), you can replace one of your known forms with another eligible form.
 
-You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum [[challenge-rating-xphb|Challenge Rating]] of 1/4 and that lack a [[fly-speed-xphb|Fly Speed]] (see appendix B for stat block options). The [[rat-xmm|Rat]], [[riding-horse-xmm|Riding Horse]], [[spider-xmm|Spider]], and [[wolf-xmm|Wolf]] are recommended. Whenever you finish a [[long-rest-xphb|Long Rest]], you can replace one of your known forms with another eligible form.
-
-When you reach certain Druid levels, your number of known forms and the maximum [[challenge-rating-xphb|Challenge Rating]] for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a [[fly-speed-xphb|Fly Speed]].
+When you reach certain Druid levels, your number of known forms and the maximum [Challenge Rating](/Compendium/rules/variant-rules/challenge-rating-xphb.md) for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a [Fly Speed](/Compendium/rules/variant-rules/fly-speed-xphb.md).
 
 When choosing known forms, you may look in the "Monster Manual" or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.
 
@@ -160,13 +148,11 @@ When choosing known forms, you may look in the "Monster Manual" or elsewhere for
 | 8 | 8 | 1 | Yes |
 ^beast-shapes
 
-#### Rules While Transformed
+**Rules While Shape-Shifted.** While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
-
-- **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [[temporary-hit-points-xphb|Temporary Hit Points]] equal to your Druid level.  
-- **Game Statistics.** Your game statistics are replaced by the Beast's stat block, but you retain your creature type; [[hit-points-xphb|Hit Points]]; [[hit-point-dice-xphb|Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your [[proficiency-xphb|Proficiency Bonus]] for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.  
-- **No Spellcasting.** You can't cast spells, but shape-shifting doesn't break your [[conditions#Concentration|Concentration]] or otherwise interfere with a spell you've already cast.  
+- **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Druid level.  
+- **Game Statistics.** Your game statistics are replaced by the Beast's stat block, but you retain your creature type; [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md); [Hit Point Dice](/Compendium/rules/variant-rules/hit-point-dice-xphb.md); Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your [Proficiency Bonus](/Compendium/rules/variant-rules/proficiency-xphb.md) for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.  
+- **No Spellcasting.** You can't cast spells, but shape-shifting doesn't break your [Concentration](/Compendium/rules/conditions.md#Concentration) or otherwise interfere with a spell you've already cast.  
 - **Objects.** Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.  
 
 ### Druid Subclass (Level 3)
@@ -175,13 +161,13 @@ You gain a Druid subclass of your choice. A subclass is a specialization that gr
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
+You gain the [Ability Score Improvement](/Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
 ### Wild Resurgence (Level 5)
 
 Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
 
-In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a [[long-rest-xphb|Long Rest]].
+In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ### Subclass Feature (Level 6)
 
@@ -191,17 +177,16 @@ You gain a feature from your Druid Subclass.
 
 The might of the elements flows through you. You gain one of the following options of your choice.
 
-### Potent Spellcasting (Level 7)
+Options (choose 1):
 
-Add your Wisdom modifier to the damage you deal with any Druid cantrip.
-
-### Primal Strike (Level 7)
-
-Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra `1d8` Cold, Fire, Lightning, or Thunder damage (choose when you hit).
+- **Potent Spellcasting**  
+    Add your Wisdom modifier to the damage you deal with any Druid cantrip.  
+- **Primal Strike**  
+    Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra `1d8` Cold, Fire, Lightning, or Thunder damage (choose when you hit).  
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 10)
 
@@ -209,7 +194,7 @@ You gain a feature from your Druid Subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 14)
 
@@ -219,17 +204,13 @@ You gain a feature from your Druid Subclass.
 
 The option you chose for Elemental Fury grows more powerful, as detailed below.
 
-#### Potent Spellcasting
+**Potent Spellcasting.** When you cast a Druid cantrip with a range of 10 feet or greater, the spell's range increases by 300 feet.
 
-When you cast a Druid cantrip with a range of 10 feet or greater, the spell's range increases by 300 feet.
-
-#### Primal Strike
-
-The extra damage of your Primal Strike increases to `2d8`.
+**Primal Strike.** The extra damage of your Primal Strike increases to `2d8`.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Beast Spells (Level 18)
 
@@ -237,20 +218,14 @@ While using Wild Shape, you can cast spells in Beast form, except for any spell 
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [[boon-of-dimensional-travel-xphb|Boon of Dimensional Travel]] is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](/Compendium/feats/boon-of-dimensional-travel-xphb.md) is recommended.
 
 ### Archdruid (Level 20)
 
 The vitality of nature constantly blooms within you, granting you the following benefits.
 
-#### Evergreen Wild Shape
+**Evergreen Wild Shape.** Whenever you roll [Initiative](/Compendium/rules/variant-rules/initiative-xphb.md) and have no uses of Wild Shape left, you regain one expended use of it.
 
-Whenever you roll [[initiative-xphb|Initiative]] and have no uses of Wild Shape left, you regain one expended use of it.
+**Nature Magician.** You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
-#### Nature Magician
-
-You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a [[long-rest-xphb|Long Rest]].
-
-#### Longevity
-
-The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
+**Longevity.** The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.

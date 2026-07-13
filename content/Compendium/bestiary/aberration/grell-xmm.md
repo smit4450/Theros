@@ -1,20 +1,20 @@
 ---
-title: Grell
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/3
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
-statblock: inline
-aliases: ["Grell"]
+aliases:
+- "Grell"
 ---
 # Grell
 *Source: Monster Manual (2024) p. 157*  
+![](/Compendium/books/monster-manual-2025/img/grell.webp#right)
 
-![](Compendium/books/monster-manual-2025/img/grell.webp#right)  
 ## Grell
 
 *Bizarre Hunter That Travels between Worlds*
@@ -44,54 +44,43 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 > 
 > For meal, my hunger grinds within my teeth. For might, my hunger clenches in my grip. But for what we're told we mustn't know, my hunger snaps a raptor's beak and makes my mind a muscle that knows only how to chew.
 
-```statblock
-"name": "Grell (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "55"
-"hit_dice": "10d8 + 10"
-"modifier": !!int "6"
-"stats":
-  - !!int "15"
-  - !!int "14"
-  - !!int "13"
-  - !!int "12"
-  - !!int "11"
-  - !!int "9"
-"speed": "10 ft., fly 30 ft. (hover)"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+4"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+6"
-"damage_immunities": "lightning"
-"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Prone|prone]]"
-"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
-  \ 14"
-"languages": "Deep Speech"
-"cr": "3"
-"traits":
-  - "desc": "The grell needn't spend extra movement to move a creature it is grappling."
-    "name": "Abduct"
-"actions":
-  - "desc": "The grell makes one Beak attack and one Paralyzing Tentacles attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Piercing\
-      \ damage."
-    "name": "Beak"
-  - "desc": "*Melee Attack Roll:* +4, reach 10 ft. *Hit:* 7 (1d10 + 2) Piercing\
-      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
-      \ condition (escape DC 12) from two of ten tentacles. The target is also subjected\
-      \ to the following effect. *Constitution Saving Throw:* DC 11. *Failure:* The\
-      \ target has the [[conditions#Poisoned|Poisoned]] condition\
-      \ and repeats the save at the end of each of its turns, ending the effect on\
-      \ itself on a success. After 1 minute, it succeeds automatically. While [[conditions#Poisoned|Poisoned]],\
-      \ the target has the [[conditions#Paralyzed|Paralyzed]] condition."
-    "name": "Paralyzing Tentacles"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/aberration/token/grell-xmm.webp"
+
+```ad-statblock
+title: Grell
+![](/Compendium/bestiary/aberration/token/grell-xmm.webp#token)
+*Medium aberration, Neutral Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 55 (`10d8 + 10`) 
+- **Speed** 10 ft., fly 30 ft. (hover)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|13 (+1)|12 (+1)|11 (+0)| 9 (-1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +4, [Stealth](/Compendium/rules/skills.md#Stealth) +6
+- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception 14
+- **Damage Immunities** lightning
+- **Condition Immunities** [blinded](/Compendium/rules/conditions.md#Blinded), [prone](/Compendium/rules/conditions.md#Prone)
+- **Languages** Deep Speech
+- **Challenge** 3
+
+## Traits
+
+***Abduct.*** The grell needn't spend extra movement to move a creature it is grappling.
+
+## Actions
+
+***Multiattack.*** The grell makes one Beak attack and one Paralyzing Tentacles attack.
+
+***Beak.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 11 (`2d8 + 2`) Piercing damage.
+
+***Paralyzing Tentacles.*** *Melee Attack Roll:* `+4`, reach 10 ft. *Hit:* 7 (`1d10 + 2`) Piercing damage. If the target is a Medium or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 12) from two of ten tentacles. The target is also subjected to the following effect. *Constitution Saving Throw:* DC 11. *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. While [Poisoned](/Compendium/rules/conditions.md#Poisoned), the target has the [Paralyzed](/Compendium/rules/conditions.md#Paralyzed) condition.
 ```
 ^statblock
+
+## Environment
+
+underdark

@@ -1,13 +1,12 @@
 ---
-title: Champion of the Sea
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - reward/piety-trait
 aliases:
-- Champion of the Sea
+- "Champion of the Sea"
 ---
 # Champion of the Sea
 *Piety Trait*  

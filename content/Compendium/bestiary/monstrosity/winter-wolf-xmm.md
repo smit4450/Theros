@@ -1,20 +1,20 @@
 ---
-title: Winter Wolf
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/3
 - monster/environment/arctic
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
-aliases: ["Winter Wolf"]
+aliases:
+- "Winter Wolf"
 ---
 # Winter Wolf
 *Source: Monster Manual (2024) p. 334. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/books/monster-manual-2025/img/winter-wolf.webp#right)
 
-![](Compendium/books/monster-manual-2025/img/winter-wolf.webp#right)  
 ## Winter Wolf
 
 *Cold-hearted Pack Hunter*
@@ -32,48 +32,40 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 > 
 > You'll never reach it, but at least your last thoughts will be warm.
 
-```statblock
-"name": "Winter Wolf (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "75"
-"hit_dice": "10d10 + 20"
-"modifier": !!int "1"
-"stats":
-  - !!int "18"
-  - !!int "13"
-  - !!int "14"
-  - !!int "7"
-  - !!int "12"
-  - !!int "8"
-"speed": "50 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
-"damage_immunities": "cold"
-"senses": "passive Perception 15"
-"languages": "Common, Giant"
-"cr": "3"
-"traits":
-  - "desc": "The wolf has [[advantage-xphb|Advantage]]\
-      \ on an attack roll against a creature if at least one of the wolf's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
-      \ condition."
-    "name": "Pack Tactics"
-"actions":
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing\
-      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
-      \ condition."
-    "name": "Bite"
-  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
-      \ *Failure:* 18 (4d8) Cold damage. *Success:* Half damage."
-    "name": "Cold Breath (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/monstrosity/token/winter-wolf-xmm.webp"
+
+```ad-statblock
+title: Winter Wolf
+![](/Compendium/bestiary/monstrosity/token/winter-wolf-xmm.webp#token)
+*Large monstrosity, Neutral Evil*
+
+- **Armor Class** 13 
+- **Hit Points** 75 (`10d10 + 20`) 
+- **Speed** 50 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|13 (+1)|14 (+2)| 7 (-2)|12 (+1)| 8 (-1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5, [Stealth](/Compendium/rules/skills.md#Stealth) +5
+- **Senses** passive Perception 15
+- **Damage Immunities** cold
+- **Languages** Common, Giant
+- **Challenge** 3
+
+## Traits
+
+***Pack Tactics.*** The wolf has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 11 (`2d6 + 4`) Piercing damage. If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
+
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw:* DC 12, each creature in a 15-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* 18 (`4d8`) Cold damage. *Success:* Half damage.
 ```
 ^statblock
+
+## Environment
+
+arctic

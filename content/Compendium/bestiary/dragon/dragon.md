@@ -1,62 +1,67 @@
 ---
-title: Index of Dragon
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
 # Index of Dragon
 
-- [[adult-black-dragon-xmm|Adult Black Dragon]]
-- [[adult-blue-dragon-xmm|Adult Blue Dragon]]
-- [[adult-brass-dragon-xmm|Adult Brass Dragon]]
-- [[adult-bronze-dragon-xmm|Adult Bronze Dragon]]
-- [[adult-copper-dragon-xmm|Adult Copper Dragon]]
-- [[adult-gold-dragon-xmm|Adult Gold Dragon]]
-- [[adult-green-dragon-xmm|Adult Green Dragon]]
-- [[adult-red-dragon-xmm|Adult Red Dragon]]
-- [[adult-silver-dragon-xmm|Adult Silver Dragon]]
-- [[adult-white-dragon-xmm|Adult White Dragon]]
-- [[ancient-black-dragon-xmm|Ancient Black Dragon]]
-- [[ancient-blue-dragon-xmm|Ancient Blue Dragon]]
-- [[ancient-brass-dragon-xmm|Ancient Brass Dragon]]
-- [[ancient-bronze-dragon-xmm|Ancient Bronze Dragon]]
-- [[ancient-copper-dragon-xmm|Ancient Copper Dragon]]
-- [[ancient-gold-dragon-xmm|Ancient Gold Dragon]]
-- [[ancient-green-dragon-xmm|Ancient Green Dragon]]
-- [[ancient-red-dragon-xmm|Ancient Red Dragon]]
-- [[ancient-silver-dragon-xmm|Ancient Silver Dragon]]
-- [[ancient-white-dragon-xmm|Ancient White Dragon]]
-- [[black-dragon-wyrmling-xmm|Black Dragon Wyrmling]]
-- [[blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]]
-- [[brass-dragon-wyrmling-xmm|Brass Dragon Wyrmling]]
-- [[bronze-dragon-wyrmling-xmm|Bronze Dragon Wyrmling]]
-- [[copper-dragon-wyrmling-xmm|Copper Dragon Wyrmling]]
-- [[draconic-spirit-xphb|Draconic Spirit]]
-- [[dragon-turtle-xmm|Dragon Turtle]]
-- [[faerie-dragon-adult-xmm|Faerie Dragon Adult]]
-- [[faerie-dragon-youth-xmm|Faerie Dragon Youth]]
-- [[gold-dragon-wyrmling-xmm|Gold Dragon Wyrmling]]
-- [[green-dragon-wyrmling-xmm|Green Dragon Wyrmling]]
-- [[half-dragon-xmm|Half-Dragon]]
-- [[juvenile-shadow-dragon-xmm|Juvenile Shadow Dragon]]
-- [[kobold-warrior-xmm|Kobold Warrior]]
-- [[pseudodragon-xmm|Pseudodragon]]
-- [[red-dragon-wyrmling-xmm|Red Dragon Wyrmling]]
-- [[shadow-dragon-xmm|Shadow Dragon]]
-- [[silver-dragon-wyrmling-xmm|Silver Dragon Wyrmling]]
-- [[white-dragon-wyrmling-xmm|White Dragon Wyrmling]]
-- [[winged-kobold-xmm|Winged Kobold]]
-- [[wyvern-xmm|Wyvern]]
-- [[young-black-dragon-xmm|Young Black Dragon]]
-- [[young-blue-dragon-xmm|Young Blue Dragon]]
-- [[young-brass-dragon-xmm|Young Brass Dragon]]
-- [[young-bronze-dragon-xmm|Young Bronze Dragon]]
-- [[young-copper-dragon-xmm|Young Copper Dragon]]
-- [[young-gold-dragon-xmm|Young Gold Dragon]]
-- [[young-green-dragon-xmm|Young Green Dragon]]
-- [[young-red-dragon-xmm|Young Red Dragon]]
-- [[young-silver-dragon-xmm|Young Silver Dragon]]
-- [[young-white-dragon-xmm|Young White Dragon]]
+- [Adult Black Dragon](./adult-black-dragon-xmm.md)
+- [Adult Blue Dragon](./adult-blue-dragon-xmm.md)
+- [Adult Brass Dragon](./adult-brass-dragon-xmm.md)
+- [Adult Bronze Dragon](./adult-bronze-dragon-xmm.md)
+- [Adult Copper Dragon](./adult-copper-dragon-xmm.md)
+- [Adult Gold Dragon](./adult-gold-dragon-xmm.md)
+- [Adult Green Dragon](./adult-green-dragon-xmm.md)
+- [Adult Red Dragon](./adult-red-dragon-xmm.md)
+- [Adult Silver Dragon](./adult-silver-dragon-xmm.md)
+- [Adult White Dragon](./adult-white-dragon-xmm.md)
+- [Ancient Black Dragon](./ancient-black-dragon-xmm.md)
+- [Ancient Blue Dragon](./ancient-blue-dragon-xmm.md)
+- [Ancient Brass Dragon](./ancient-brass-dragon-xmm.md)
+- [Ancient Bronze Dragon](./ancient-bronze-dragon-xmm.md)
+- [Ancient Copper Dragon](./ancient-copper-dragon-xmm.md)
+- [Ancient Gold Dragon](./ancient-gold-dragon-xmm.md)
+- [Ancient Green Dragon](./ancient-green-dragon-xmm.md)
+- [Ancient Red Dragon](./ancient-red-dragon-xmm.md)
+- [Ancient Silver Dragon](./ancient-silver-dragon-xmm.md)
+- [Ancient White Dragon](./ancient-white-dragon-xmm.md)
+- [Black Dragon Wyrmling](./black-dragon-wyrmling-xmm.md)
+- [Blue Dragon Wyrmling](./blue-dragon-wyrmling-xmm.md)
+- [Brass Dragon Wyrmling](./brass-dragon-wyrmling-xmm.md)
+- [Bronze Dragon Wyrmling](./bronze-dragon-wyrmling-xmm.md)
+- [Copper Dragon Wyrmling](./copper-dragon-wyrmling-xmm.md)
+- [Draconic Spirit](./draconic-spirit-xphb.md)
+- [Draconic Spirit (Acid)](./draconic-spirit-acid-xphb.md)
+- [Draconic Spirit (Cold)](./draconic-spirit-cold-xphb.md)
+- [Draconic Spirit (Fire)](./draconic-spirit-fire-xphb.md)
+- [Draconic Spirit (Lightning)](./draconic-spirit-lightning-xphb.md)
+- [Draconic Spirit (Poison)](./draconic-spirit-poison-xphb.md)
+- [Dragon Turtle](./dragon-turtle-xmm.md)
+- [Faerie Dragon Adult](./faerie-dragon-adult-xmm.md)
+- [Faerie Dragon Youth](./faerie-dragon-youth-xmm.md)
+- [Forgestoker Dragon](./forgestoker-dragon-tbvvi.md)
+- [Gold Dragon Wyrmling](./gold-dragon-wyrmling-xmm.md)
+- [Green Dragon Wyrmling](./green-dragon-wyrmling-xmm.md)
+- [Half-Dragon](./half-dragon-xmm.md)
+- [Juvenile Shadow Dragon](./juvenile-shadow-dragon-xmm.md)
+- [Kobold Warrior](./kobold-warrior-xmm.md)
+- [Pseudodragon](./pseudodragon-xmm.md)
+- [Red Dragon Wyrmling](./red-dragon-wyrmling-xmm.md)
+- [Shadow Dragon](./shadow-dragon-xmm.md)
+- [Silver Dragon Wyrmling](./silver-dragon-wyrmling-xmm.md)
+- [Spawn of Thraxes](./spawn-of-thraxes-tbvvi.md)
+- [Stormbreath Dragon](./stormbreath-dragon-tbvvi.md)
+- [White Dragon Wyrmling](./white-dragon-wyrmling-xmm.md)
+- [Winged Kobold](./winged-kobold-xmm.md)
+- [Wyvern](./wyvern-xmm.md)
+- [Young Black Dragon](./young-black-dragon-xmm.md)
+- [Young Blue Dragon](./young-blue-dragon-xmm.md)
+- [Young Brass Dragon](./young-brass-dragon-xmm.md)
+- [Young Bronze Dragon](./young-bronze-dragon-xmm.md)
+- [Young Copper Dragon](./young-copper-dragon-xmm.md)
+- [Young Gold Dragon](./young-gold-dragon-xmm.md)
+- [Young Green Dragon](./young-green-dragon-xmm.md)
+- [Young Red Dragon](./young-red-dragon-xmm.md)
+- [Young Silver Dragon](./young-silver-dragon-xmm.md)
+- [Young White Dragon](./young-white-dragon-xmm.md)

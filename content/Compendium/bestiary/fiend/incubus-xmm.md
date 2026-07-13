@@ -1,22 +1,22 @@
 ---
-title: Incubus
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/4
 - monster/environment/lower
 - monster/environment/planar
 - monster/environment/urban
 - monster/size/medium
 - monster/type/fiend
-statblock: inline
-aliases: ["Incubus"]
+aliases:
+- "Incubus"
 ---
 # Incubus
-*Source: Monster Manual (2024) p. 178, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 178. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/fiend/img/incubus.webp#right)
 
-![](Compendium/bestiary/fiend/img/incubus.webp#right|850)  
 ## Incubus
 
 *Life-Leeching Dream Stalker*
@@ -37,74 +37,56 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 | 1 | An angry family member or authority figure. |
 | 2 | Being chased through the wilderness. |
 | 3 | Being devoured by animals or monsters. |
-| 4 | [[falling-xphb|Falling]], drowning, or suffocating. |
+| 4 | [Falling](/Compendium/traps-hazards/falling-xphb.md), drowning, or suffocating. |
 | 5 | A ruinous public embarrassment. |
 | 6 | A shadowy intruder or monstrous silhouette. |
 | 7 | A traumatic past event. |
 | 8 | A visitor with an eerie or enigmatic message. |
 ^incubus-nightmares
-```statblock
-"name": "Incubus (XMM)"
-"size": "Medium"
-"type": "fiend"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "66"
-"hit_dice": "12d8 + 12"
-"modifier": !!int "3"
-"stats":
-  - !!int "8"
-  - !!int "17"
-  - !!int "13"
-  - !!int "15"
-  - !!int "12"
-  - !!int "20"
-"speed": "30 ft., fly 60 ft."
-"skillsaves":
-  - "name": "[[skills#Deception|Deception]]"
-    "desc": "+9"
-  - "name": "[[skills#Insight|Insight]]"
-    "desc": "+5"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-  - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+9"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+7"
-"damage_resistances": "cold, fire, poison, psychic"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 15"
-"languages": "Abyssal, Common, Infernal; telepathy 60 ft."
-"cr": "4"
-"traits":
-  - "desc": "When the incubus finishes a [[long-rest-xphb|Long Rest]],\
-      \ it can shape-shift into a [[succubus-xmm|Succubus]],\
-      \ using that stat block instead of this one. Any equipment it's wearing or carrying\
-      \ isn't transformed."
-    "name": "Succubus Form"
-"actions":
-  - "desc": "The incubus makes two Restless Touch attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 15 (3d6 + 5) Psychic\
-      \ damage, and the target is cursed for 24 hours or until the incubus dies. Until\
-      \ the curse ends, the target gains no benefit from finishing Short Rests."
-    "name": "Restless Touch"
-  - "desc": "The incubus casts one of the following spells, requiring no Material\
-      \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-      \n**At will:** [[disguise-self-xphb|Disguise Self]], [[etherealness-xphb|Etherealness]]\n\
-      \n**1/day each:** [[dream-xphb|Dream]], [[hypnotic-pattern-xphb|Hypnotic Pattern]]"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "*Wisdom Saving Throw:* DC 15, one creature the incubus can see within\
-      \ 60 feet. *Failure:* If the target has 20 [[hit-points-xphb|Hit Points]]\
-      \ or fewer, it has the [[conditions#Unconscious|Unconscious]]\
-      \ condition for 1 hour, until it takes damage, or until a creature within 5\
-      \ feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8)\
-      \ Psychic damage."
-    "name": "Nightmare (Recharge 6)"
-"source":
-  - "XMM"
-  - "FRHoF"
-"image": "Compendium/bestiary/fiend/token/incubus-xmm.webp"
+
+```ad-statblock
+title: Incubus
+![](/Compendium/bestiary/fiend/token/incubus-xmm.webp#token)
+*Medium fiend, Neutral Evil*
+
+- **Armor Class** 15 
+- **Hit Points** 66 (`12d8 + 12`) 
+- **Speed** 30 ft., fly 60 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +9, [Insight](/Compendium/rules/skills.md#Insight) +5, [Perception](/Compendium/rules/skills.md#Perception) +5, [Persuasion](/Compendium/rules/skills.md#Persuasion) +9, [Stealth](/Compendium/rules/skills.md#Stealth) +7
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Damage Resistances** cold, fire, poison, psychic
+- **Languages** Abyssal, Common, Infernal; telepathy 60 ft.
+- **Challenge** 4
+
+## Traits
+
+***Succubus Form.*** When the incubus finishes a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), it can shape-shift into a [Succubus](/Compendium/bestiary/fiend/succubus-xmm.md), using that stat block instead of this one. Any equipment it's wearing or carrying isn't transformed.
+
+## Actions
+
+***Multiattack.*** The incubus makes two Restless Touch attacks.
+
+***Restless Touch.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 15 (`3d6 + 5`) Psychic damage, and the target is cursed for 24 hours or until the incubus dies. Until the curse ends, the target gains no benefit from finishing Short Rests.
+
+***Spellcasting.*** The incubus casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):
+
+**At will:** [Disguise Self](/Compendium/spells/disguise-self-xphb.md), [Etherealness](/Compendium/spells/etherealness-xphb.md)
+
+**1/day each:** [Dream](/Compendium/spells/dream-xphb.md), [Hypnotic Pattern](/Compendium/spells/hypnotic-pattern-xphb.md)
+
+## Bonus Actions
+
+***Nightmare (Recharge 6).*** *Wisdom Saving Throw:* DC 15, one creature the incubus can see within 60 feet. *Failure:* If the target has 20 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) or fewer, it has the [Unconscious](/Compendium/rules/conditions.md#Unconscious) condition for 1 hour, until it takes damage, or until a creature within 5 feet of it takes an action to wake it. Otherwise, the target takes 18 (`4d8`) Psychic damage.
 ```
 ^statblock
+
+## Environment
+
+planar, lower, urban

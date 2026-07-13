@@ -1,18 +1,19 @@
 ---
-title: Horn of Silent Alarm
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
+- item/gear/instrument
 - item/rarity/common
-aliases: 
+aliases:
 - "Horn of Silent Alarm"
 ---
 # Horn of Silent Alarm
-*Wondrous item, common*  
+*Wondrous item, instrument ([horn](/Compendium/items/horn-xphb.md)), common*  
 
 
 
-This horn has 4 charges and regains `1d4` expended charges daily at dawn. As a [[actions#Magic|Magic]] action, you can blow the horn while expending 1 charge. One creature of your choice hears the horn's blare, provided that creature is within 600 feet of the horn. No other creature hears the horn.
+This horn has 4 charges and regains `1d4` expended charges daily at dawn. As a [Magic](/Compendium/rules/actions.md#Magic) action, you can blow the horn while expending 1 charge. One creature of your choice hears the horn's blare, provided that creature is within 600 feet of the horn. No other creature hears the horn.
 
 *Source: Dungeon Master's Guide (2024) p. 270*

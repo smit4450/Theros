@@ -1,16 +1,16 @@
 ---
-title: Demon Armor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/light
 - item/armor/medium
 - item/attunement/required
 - item/rarity/very-rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Demon Armor"
 - "Demon Breastplate"
 - "Demon Chain Mail"
@@ -27,15 +27,15 @@ aliases:
 ---
 # Demon Armor
 *Cursed item, very rare (requires attunement)*  
-![](Compendium/items/img/demon-armor.webp#right)
+![Demon Armor (Plate Armor)](/Compendium/items/img/demon-armor.webp#right)
 
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 
-While wearing this armor, you gain a +1 bonus to [[armor-class-xphb|Armor Class]], and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `1d8` Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
+While wearing this armor, you gain a +1 bonus to [Armor Class](/Compendium/rules/variant-rules/armor-class-xphb.md), and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `1d8` Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
 
 ## Curse
 
-Once you don this cursed armor, you can't doff it unless you are targeted by a [[remove-curse-xphb|Remove Curse]] spell or similar magic. While wearing the armor, you have [[disadvantage-xphb|Disadvantage]] on attack rolls against demons and on saving throws against their spells and special abilities.
+Once you don this cursed armor, you can't doff it unless you are targeted by a [Remove Curse](/Compendium/spells/remove-curse-xphb.md) spell or similar magic. While wearing the armor, you have [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against demons and on saving throws against their spells and special abilities.
 
 **Variants**:
 - [Demon Breastplate](#Demon%20Breastplate)
@@ -54,13 +54,13 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 ### Demon Breastplate
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Weight**: 20.0 lbs.
 
 ### Demon Chain Mail
 
 - **Armor Class**: 16
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Strength**: Requires 13 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 55.0 lbs.
@@ -68,39 +68,39 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 ### Demon Chain Shirt
 
 - **Armor Class**: 13 + Dex modifier (max of +2)
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Weight**: 20.0 lbs.
 
 ### Demon Half Plate Armor
 
 - **Armor Class**: 15 + Dex modifier (max of +2)
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
 
 ### Demon Hide Armor
 
 - **Armor Class**: 12 + Dex modifier (max of +2)
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Weight**: 12.0 lbs.
 
 ### Demon Leather Armor
 
 - **Armor Class**: 11 + Dex modifier
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Weight**: 10.0 lbs.
 
 ### Demon Padded Armor
 
 - **Armor Class**: 11 + Dex modifier
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 8.0 lbs.
 
 ### Demon Plate Armor
 
 - **Armor Class**: 18
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
@@ -108,21 +108,21 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 ### Demon Ring Mail
 
 - **Armor Class**: 14
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
 
 ### Demon Scale Mail
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 45.0 lbs.
 
 ### Demon Splint Armor
 
 - **Armor Class**: 17
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
@@ -130,7 +130,7 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 ### Demon Studded Leather Armor
 
 - **Armor Class**: 12 + Dex modifier
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 - **Weight**: 13.0 lbs.
 
 

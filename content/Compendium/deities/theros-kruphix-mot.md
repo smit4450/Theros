@@ -1,19 +1,18 @@
 ---
-title: Kruphix
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/knowledge
 - domain/trickery
-aliases: 
-- Kruphix
+aliases:
+- "Kruphix"
 ---
 # Kruphix
 *Source: Mythic Odysseys of Theros p. 61* 
-![](Compendium/deities/img/mot-040-02-03-kruphix.webp#symbol)
+![](/Compendium/deities/img/mot-040-02-03-kruphix.webp#symbol)
 
 - **Alignment**: Neutral
 - **Domains**: Knowledge, Trickery
@@ -57,7 +56,7 @@ Many pray to Kruphix when they need to find something lost, but few dedicate the
 
 Rituals honoring Kruphix are usually performed at boundaries, both temporal and spatial: shorelines, riverbanks, equinoxes, and sunsets. One of the god's greatest festivals is the Agrypnion ("the Watching"), which marks the end of winter and the close of the year.
 
-![](Compendium/deities/img/mot-041-02-12.webp#center)
+![](/Compendium/deities/img/mot-041-02-12.webp#center)
 
 > [!readaloud] Myths of Kruphix
 > 
@@ -141,7 +140,7 @@ Kruphix doesn't care about the righteousness of a cause, only about upholding im
 
 ### Benefits of Piety
 
-- [[kruphixs-devotee-mot|Kruphix's Devotee]]  
-- [[kruphixs-votary-mot|Kruphix's Votary]]  
-- [[kruphixs-disciple-mot|Kruphix's Disciple]]  
-- [[champion-of-horizons-mot|Champion of Horizons]]
+- [Kruphix's Devotee](/Compendium/rewards/kruphixs-devotee-mot.md)  
+- [Kruphix's Votary](/Compendium/rewards/kruphixs-votary-mot.md)  
+- [Kruphix's Disciple](/Compendium/rewards/kruphixs-disciple-mot.md)  
+- [Champion of Horizons](/Compendium/rewards/champion-of-horizons-mot.md)

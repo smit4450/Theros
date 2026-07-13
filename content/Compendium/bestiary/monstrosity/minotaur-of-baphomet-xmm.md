@@ -1,26 +1,26 @@
 ---
-title: Minotaur of Baphomet
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/3
 - monster/environment/underdark
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
-aliases: ["Minotaur of Baphomet"]
+aliases:
+- "Minotaur of Baphomet"
 ---
 # Minotaur of Baphomet
 *Source: Monster Manual (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/monstrosity/img/minotaur-of-baphomet.webp#right)
 
-![](Compendium/bestiary/monstrosity/img/minotaur-of-baphomet.webp#right|850)  
 ## Minotaur of Baphomet
 
 *Berserker of the Demon Lord of Beasts*
 
 - **Habitat.** Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Baphomet, Demon Lord of Beasts, claims to have created minotaurs and demands their worship. While most minotaurs live free of the demon lord's bonds, those that serve him become minotaurs of Baphomet. These brutes resemble the hulking, horned demon lord more than others of their kind, and they wreak havoc in that foul immortal's name. Rarely, non-minotaurs cursed by magic-users or spiteful deities might transform into these monsters.
 
@@ -35,44 +35,35 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 | 3 | A poisonous swamp with labyrinthine paths. |
 | 4 | The ruins of a buried palace or temple. |
 ^minotaur-mazes
-```statblock
-"name": "Minotaur of Baphomet (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Chaotic Evil"
-"ac": !!int "14"
-"hp": !!int "85"
-"hit_dice": "10d10 + 30"
-"modifier": !!int "0"
-"stats":
-  - !!int "18"
-  - !!int "11"
-  - !!int "16"
-  - !!int "6"
-  - !!int "16"
-  - !!int "9"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
-  - "name": "[[skills#Survival|Survival]]"
-    "desc": "+7"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 17"
-"languages": "Abyssal"
-"cr": "3"
-"actions":
-  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 10 (1d12 + 4) Slashing\
-      \ damage plus 10 (3d6) Necrotic damage."
-    "name": "Abyssal Glaive"
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 18 (4d6 + 4) Piercing\
-      \ damage. If the target is a Large or smaller creature and the minotaur moved\
-      \ 10+ feet straight toward it immediately before the hit, the target takes an\
-      \ extra 10 (3d6) Piercing damage and has the [[conditions#Prone|Prone]]\
-      \ condition."
-    "name": "Gore (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/monstrosity/token/minotaur-of-baphomet-xmm.webp"
+
+```ad-statblock
+title: Minotaur of Baphomet
+![](/Compendium/bestiary/monstrosity/token/minotaur-of-baphomet-xmm.webp#token)
+*Large monstrosity, Chaotic Evil*
+
+- **Armor Class** 14 
+- **Hit Points** 85 (`10d10 + 30`) 
+- **Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|11 (+0)|16 (+3)| 6 (-2)|16 (+3)| 9 (-1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +7, [Survival](/Compendium/rules/skills.md#Survival) +7
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 17
+- **Languages** Abyssal
+- **Challenge** 3
+
+## Actions
+
+***Abyssal Glaive.*** *Melee Attack Roll:* `+6`, reach 10 ft. *Hit:* 10 (`1d12 + 4`) Slashing damage plus 10 (`3d6`) Necrotic damage.
+
+***Gore (Recharge 5-6).*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 18 (`4d6 + 4`) Piercing damage. If the target is a Large or smaller creature and the minotaur moved 10+ feet straight toward it immediately before the hit, the target takes an extra 10 (`3d6`) Piercing damage and has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
 ```
 ^statblock
+
+## Environment
+
+underdark

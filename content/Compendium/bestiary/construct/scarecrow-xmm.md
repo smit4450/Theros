@@ -1,20 +1,20 @@
 ---
-title: Scarecrow
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/construct
-statblock: inline
-aliases: ["Scarecrow"]
+aliases:
+- "Scarecrow"
 ---
 # Scarecrow
 *Source: Monster Manual (2024) p. 269*  
+![](/Compendium/bestiary/construct/img/scarecrow.webp#right)
 
-![](Compendium/bestiary/construct/img/scarecrow.webp#right|850)  
 ## Scarecrow
 
 *Servant of Superstition*
@@ -39,45 +39,38 @@ Although scarecrows take their name from rural effigies, they might take varied 
 | 7 | A sackcloth head atop straw-stuffed clothes. |
 | 8 | Wedding clothes that were never worn. |
 ^scarecrow-frames
-```statblock
-"name": "Scarecrow (XMM)"
-"size": "Medium"
-"type": "construct"
-"alignment": "Chaotic Evil"
-"ac": !!int "11"
-"hp": !!int "27"
-"hit_dice": "6d8"
-"modifier": !!int "3"
-"stats":
-  - !!int "11"
-  - !!int "13"
-  - !!int "11"
-  - !!int "10"
-  - !!int "10"
-  - !!int "13"
-"speed": "30 ft."
-"damage_vulnerabilities": "fire"
-"damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Unconscious|unconscious]]"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 10"
-"languages": "Common plus one other language"
-"cr": "1"
-"actions":
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Slashing\
-      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
-      \ condition until the end of the scarecrow's next turn."
-    "name": "Fearsome Claw"
-  - "desc": "*Wisdom Saving Throw:* DC 11, one creature the scarecrow can see within\
-      \ 30 feet. *Failure:* The target has the [[conditions#Frightened|Frightened]]\
-      \ condition until the end of the scarecrow's next turn. While [[conditions#Frightened|Frightened]],\
-      \ the target has the [[conditions#Paralyzed|Paralyzed]] condition."
-    "name": "Terrifying Glare"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/construct/token/scarecrow-xmm.webp"
+
+```ad-statblock
+title: Scarecrow
+![](/Compendium/bestiary/construct/token/scarecrow-xmm.webp#token)
+*Medium construct, Chaotic Evil*
+
+- **Armor Class** 11 
+- **Hit Points** 27 (`6d8`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|13 (+1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Vulnerabilities** fire
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [unconscious](/Compendium/rules/conditions.md#Unconscious)
+- **Languages** Common plus one other language
+- **Challenge** 1
+
+## Actions
+
+***Fearsome Claw.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 6 (`2d4 + 1`) Slashing damage, and the target has the [Frightened](/Compendium/rules/conditions.md#Frightened) condition until the end of the scarecrow's next turn.
+
+***Terrifying Glare.*** *Wisdom Saving Throw:* DC 11, one creature the scarecrow can see within 30 feet. *Failure:* The target has the [Frightened](/Compendium/rules/conditions.md#Frightened) condition until the end of the scarecrow's next turn. While [Frightened](/Compendium/rules/conditions.md#Frightened), the target has the [Paralyzed](/Compendium/rules/conditions.md#Paralyzed) condition.
 ```
 ^statblock
+
+## Environment
+
+grassland

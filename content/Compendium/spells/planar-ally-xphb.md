@@ -1,9 +1,9 @@
 ---
-title: Planar Ally
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/level/6th-level
@@ -11,7 +11,8 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Planar Ally"]
+aliases:
+- "Planar Ally"
 ---
 # Planar Ally
 *6th-level, Conjuration*  
@@ -32,6 +33,6 @@ A task that can be measured in minutes requires a payment worth 100 GP per minut
 
 After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md)
 
 *Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

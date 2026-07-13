@@ -1,12 +1,11 @@
 ---
-title: "Introduction: Welcome to Adventure"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Introduction: Welcome to Adventure
+- "Introduction: Welcome to Adventure"
 ---
 # Introduction: Welcome to Adventure
 *Source: Player's Handbook (2024), p. 4* 
@@ -90,5 +89,5 @@ The worlds of the multiverse share characteristics, but each world is set apart 
 > - **Upgraded Weapons, Tools, and Crafting.** Mastery properties transform how weapon wielders use their weapons, and every character can enjoy new tool and crafting rules in "chapter 6".  
 > - **Dazzling Spells.** "Chapter 7" bursts with new spells and old ones that have been enhanced.  
 > 
-> If you can't find a rule, check the index. If a rule's name has changed from what was printed in the 2014 *Player's Handbook*, the index points you to the new name. For example, if you look up Inspiration in the index, it points you to the rules for [[heroic-inspiration-xphb|Heroic Inspiration]] in the rules glossary.
+> If you can't find a rule, check the index. If a rule's name has changed from what was printed in the 2014 *Player's Handbook*, the index points you to the new name. For example, if you look up Inspiration in the index, it points you to the rules for [Heroic Inspiration](/Compendium/rules/variant-rules/heroic-inspiration-xphb.md) in the rules glossary.
 ^whats-new-in-the-2024-version

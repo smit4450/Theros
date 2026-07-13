@@ -1,12 +1,11 @@
 ---
-title: Omens of Erebos
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Omens of Erebos
+- "Omens of Erebos"
 ---
 # Omens of Erebos
 *Source: Mythic Odysseys of Theros p. 111* 

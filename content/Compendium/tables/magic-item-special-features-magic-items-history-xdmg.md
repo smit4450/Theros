@@ -1,12 +1,11 @@
 ---
-title: "Magic Item Special Features; Magic Item's History"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Magic Item Special Features; Magic Item's History
+- "Magic Item Special Features; Magic Item's History"
 ---
 # Magic Item Special Features; Magic Item's History
 *Source: Dungeon Master's Guide (2024) p. 222* 

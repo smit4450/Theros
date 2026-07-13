@@ -1,22 +1,22 @@
 ---
-title: Light Crossbow
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/ranged
 - item/weapon/simple
-aliases: 
+aliases:
 - "Light Crossbow"
 ---
 # Light Crossbow
 *Weapon*  
-![](Compendium/items/img/light-crossbow.webp#right)
+![](/Compendium/items/img/light-crossbow.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Cost**: 25 gp
 - **Weight**: 5.0 lbs.
 

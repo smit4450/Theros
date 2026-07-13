@@ -1,9 +1,9 @@
 ---
-title: Steel Wind Strike
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/ranger
 - spell/class/wizard
@@ -15,7 +15,8 @@ classes:
 - Cleric (War Domain)
 - Ranger
 - Wizard
-aliases: ["Steel Wind Strike"]
+aliases:
+- "Steel Wind Strike"
 ---
 # Steel Wind Strike
 *5th-level, Conjuration*  
@@ -30,6 +31,6 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 
 You then teleport to an unoccupied space you can see within 5 feet of one of the targets.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/Compendium/lists/list-spells-classes-ranger.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 320*

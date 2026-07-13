@@ -1,20 +1,20 @@
 ---
-title: Bandit
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-8
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Bandit"]
+aliases:
+- "Bandit"
 ---
 # Bandit
 *Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/humanoid/img/bandits.webp#right)
 
-![](Compendium/bestiary/humanoid/img/bandits.webp#right|850)  
 Bandits are inexperienced ne'er-do-wells who typically follow the orders of higher-ranking bandits.
 
 ## Bandits
@@ -43,37 +43,38 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 5 | Secretly works for a government or a regional ruler to sow chaos. |
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
+
 ## Statblock
 
-```statblock
-"name": "Bandit (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "12"
-"hp": !!int "11"
-"hit_dice": "2d8 + 2"
-"modifier": !!int "1"
-"stats":
-  - !!int "11"
-  - !!int "12"
-  - !!int "12"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-"speed": "30 ft."
-"senses": "passive Perception 10"
-"languages": "Common, Thieves' cant"
-"cr": "1/8"
-"actions":
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing\
-      \ damage."
-    "name": "Scimitar"
-  - "desc": "*Ranged Attack Roll:* +3, range 80/320 ft. *Hit:* 5 (1d8 + 1) Piercing\
-      \ damage."
-    "name": "Light Crossbow"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/humanoid/token/bandit-xmm.webp"
+```ad-statblock
+title: Bandit
+![](/Compendium/bestiary/humanoid/token/bandit-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 12 
+- **Hit Points** 11 (`2d8 + 2`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** passive Perception 10
+- **Gear** [leather armor](/Compendium/items/leather-armor-xphb.md), [light crossbow](/Compendium/items/light-crossbow-xphb.md), [scimitar](/Compendium/items/scimitar-xphb.md)
+- **Languages** Common, Thieves' cant
+- **Challenge** 1/8
+
+## Actions
+
+***Scimitar.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 4 (`1d6 + 1`) Slashing damage.
+
+***Light Crossbow.*** *Ranged Attack Roll:* `+3`, range 80/320 ft. *Hit:* 5 (`1d8 + 1`) Piercing damage.
 ```
 ^statblock
+
+## Environment
+
+any

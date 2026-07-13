@@ -1,22 +1,22 @@
 ---
-title: Wand of Polymorph
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/very-rare
 - item/wondrous/wand
-aliases: 
+aliases:
 - "Wand of Polymorph"
 ---
 # Wand of Polymorph
 *Wand, very rare (requires attunement by a spellcaster)*  
-![](Compendium/items/img/wand-of-polymorph.webp#right)
+![](/Compendium/items/img/wand-of-polymorph.webp#right)
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can expend 1 charge to cast [[polymorph-xphb|Polymorph]] (save DC 15) from it.
+This wand has 7 charges. While holding it, you can expend 1 charge to cast [Polymorph](/Compendium/spells/polymorph-xphb.md) (save DC 15) from it.
 
 ## Regaining Charges
 

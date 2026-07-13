@@ -1,13 +1,12 @@
 ---
-title: Boon of Skill
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Boon of Skill
+- "Boon of Skill"
 ---
 # Boon of Skill
 *Source: Player's Handbook (2024) p. 211*  
@@ -20,4 +19,4 @@ You gain the following benefits.
 
 **All-Around Adept.** You gain proficiency in all skills.
 
-**Expertise.** Choose one skill in which you lack [[expertise-xphb|Expertise]]. You gain [[expertise-xphb|Expertise]] in that skill.
+**Expertise.** Choose one skill in which you lack [Expertise](/Compendium/rules/variant-rules/expertise-xphb.md). You gain [Expertise](/Compendium/rules/variant-rules/expertise-xphb.md) in that skill.

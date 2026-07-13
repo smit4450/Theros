@@ -1,12 +1,11 @@
 ---
-title: Embarking on Adventure; Adventures at Sea
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Embarking on Adventure; Adventures at Sea
+- "Embarking on Adventure; Adventures at Sea"
 ---
 # Embarking on Adventure; Adventures at Sea
 *Source: Mythic Odysseys of Theros p. 176* 

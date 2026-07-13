@@ -1,15 +1,15 @@
 ---
-title: Ammunition of Slaying
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/age/futuristic
 - item/gear/ammunition
 - item/gear/ammunition-firearm
 - item/rarity/very-rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Ammunition of Slaying"
 - "Arrow of Slaying"
 - "Bolt of Slaying"
@@ -20,7 +20,7 @@ aliases:
 ---
 # Ammunition of Slaying
 *Ammunition, very rare*  
-![](Compendium/items/img/ammunition-of-slaying.webp#right)
+![Ammunition of Slaying (Arrow)](/Compendium/items/img/ammunition-of-slaying.webp#right)
 
 
 This magic ammunition is meant to slay creatures of a particular type, which the DM chooses or determines randomly by rolling on the table below. If a creature of that type takes damage from the ammunition, the creature makes a DC 17 Constitution saving throw, taking an extra `6d10` Force damage on a failed save or half as much extra damage on a successful one.

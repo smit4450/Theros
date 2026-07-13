@@ -1,12 +1,11 @@
 ---
-title: "Thassa's Monsters"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Thassa's Monsters
+- "Thassa's Monsters"
 ---
 # Thassa's Monsters
 *Source: Mythic Odysseys of Theros p. 172* 
@@ -15,16 +14,16 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/2 | [[hippocamp-mot|Hippocamp]] |
-| 1 | Siren ([[harpy-xmm|harpy]])* |
-| 2 | [[naiad-mot|Naiad]] |
-| 2 | [[triton-shorestalker-mot|Triton shorestalker]] |
-| 5 | [[water-elemental-xmm|Water elemental]] |
-| 8 | [[triton-master-of-waves-mot|Triton master of waves]] |
-| 13 | [[storm-giant-xmm|Storm giant]] |
-| 17 | [[dragon-turtle-xmm|Dragon turtle]] |
-| 23 | [[kraken-legendary-xmm|Kraken]]* |
-| 26 | [[tromokratis-legendary-mot|Tromokratis]] |
+| 1/2 | [Hippocamp](/Compendium/bestiary/monstrosity/hippocamp-mot.md) |
+| 1 | Siren ([harpy](/Compendium/bestiary/monstrosity/harpy-xmm.md))* |
+| 2 | [Naiad](/Compendium/bestiary/fey/naiad-mot.md) |
+| 2 | [Triton shorestalker](/Compendium/bestiary/humanoid/triton-shorestalker-mot.md) |
+| 5 | [Water elemental](/Compendium/bestiary/elemental/water-elemental-xmm.md) |
+| 8 | [Triton master of waves](/Compendium/bestiary/humanoid/triton-master-of-waves-mot.md) |
+| 13 | [Storm giant](/Compendium/bestiary/giant/storm-giant-xmm.md) |
+| 17 | [Dragon turtle](/Compendium/bestiary/dragon/dragon-turtle-xmm.md) |
+| 23 | [Kraken](/Compendium/bestiary/monstrosity/kraken-xmm.md)* |
+| 26 | [Tromokratis](/Compendium/bestiary/npc/tromokratis-mot.md) |
 ^thassas-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

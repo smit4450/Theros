@@ -1,16 +1,16 @@
 ---
-title: Manual of Bodily Health
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Manual of Bodily Health"
 ---
 # Manual of Bodily Health
 *Wondrous item, very rare*  
-![](Compendium/items/img/manual-of-bodily-health.webp#right)
+![](/Compendium/items/img/manual-of-bodily-health.webp#right)
 
 - **Weight**: 5.0 lbs.
 

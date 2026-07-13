@@ -1,16 +1,16 @@
 ---
-title: Deck of Many Things
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/legendary
-aliases: 
+aliases:
 - "Deck of Many Things"
 ---
 # Deck of Many Things
 *Wondrous item, legendary*  
-![](Compendium/items/img/deck-of-many-things.webp#right)
+![](/Compendium/items/img/deck-of-many-things.webp#right)
 
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of the Deck of Many Things table when randomly determining cards drawn from the deck.
@@ -55,11 +55,11 @@ You can increase one of your ability scores by 2, to a maximum of 22, provided y
 
 ## Comet
 
-The next time you enter combat against one or more [[hostile-attitude-xphb|Hostile]] creatures, you can select one of them as your foe when you roll [[initiative-xphb|Initiative]]. If you reduce your foe to 0 [[hit-points-xphb|Hit Points]] during that combat, you have [[advantage-xphb|Advantage]] on [[death-saving-throw-xphb|Death Saving Throws]] for 1 year. If someone else reduces your chosen foe to 0 [[hit-points-xphb|Hit Points]] or you don't choose a foe, this card has no effect.
+The next time you enter combat against one or more [Hostile](/Compendium/rules/variant-rules/hostile-attitude-xphb.md) creatures, you can select one of them as your foe when you roll [Initiative](/Compendium/rules/variant-rules/initiative-xphb.md). If you reduce your foe to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) during that combat, you have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on [Death Saving Throws](/Compendium/rules/variant-rules/death-saving-throw-xphb.md) for 1 year. If someone else reduces your chosen foe to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) or you don't choose a foe, this card has no effect.
 
 ## Donjon
 
-You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [[wish-xphb|Wish]] spell can reveal the location of your prison. You draw no more cards.
+You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [Wish](/Compendium/spells/wish-xphb.md) spell can reveal the location of your prison. You draw no more cards.
 
 ## Euryale
 
@@ -82,7 +82,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and torments you,
 
 ## Fool
 
-You have [[disadvantage-xphb|Disadvantage]] on [[d20-test-xphb|D20 Tests]] for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
+You have [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on [D20 Tests](/Compendium/rules/variant-rules/d20-test-xphb.md) for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
 
 ## Gem
 
@@ -90,7 +90,7 @@ Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP e
 
 ## Jester
 
-You have [[advantage-xphb|Advantage]] on [[d20-test-xphb|D20 Tests]] for the next 72 hours, or you can draw two additional cards beyond your declared draws.
+You have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on [D20 Tests](/Compendium/rules/variant-rules/d20-test-xphb.md) for the next 72 hours, or you can draw two additional cards beyond your declared draws.
 
 ## Key
 
@@ -98,11 +98,11 @@ A Rare or rarer magic weapon with which you are proficient appears on your perso
 
 ## Knight
 
-You gain the service of a [[knight-xmm|Knight]], who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your DM to create a name and backstory for this NPC. The DM can use a different stat block to represent the knight, as desired.
+You gain the service of a [Knight](/Compendium/bestiary/humanoid/knight-xmm.md), who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your DM to create a name and backstory for this NPC. The DM can use a different stat block to represent the knight, as desired.
 
 ## Moon
 
-You gain the ability to cast [[wish-xphb|Wish]] `1d3` times.
+You gain the ability to cast [Wish](/Compendium/spells/wish-xphb.md) `1d3` times.
 
 ## Puzzle
 
@@ -110,7 +110,7 @@ Permanently reduce your Intelligence or Wisdom by `1d4 + 1` (to a minimum score 
 
 ## Rogue
 
-An NPC of the DM's choice becomes [[hostile-attitude-xphb|Hostile]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish-xphb|Wish]] spell or divine intervention can end the NPC's hostility toward you.
+An NPC of the DM's choice becomes [Hostile](/Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [Wish](/Compendium/spells/wish-xphb.md) spell or divine intervention can end the NPC's hostility toward you.
 
 ## Ruin
 
@@ -122,7 +122,7 @@ At any time you choose within one year of drawing this card, you can ask a quest
 
 ## Skull
 
-An [[avatar-of-death-xdmg|Avatar of Death]] appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [[hit-points-xphb|Hit Points]] or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
+An [Avatar of Death](/Compendium/bestiary/undead/avatar-of-death-xdmg.md) appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
 
 ## Star
 
@@ -130,7 +130,7 @@ Increase one of your ability scores by 2, to a maximum of 24.
 
 ## Sun
 
-A magic item (chosen by the DM) appears on your person. In addition, you gain 10 [[temporary-hit-points-xphb|Temporary Hit Points]] daily at dawn until you die.
+A magic item (chosen by the DM) appears on your person. In addition, you gain 10 [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md) daily at dawn until you die.
 
 ## Talons
 
@@ -138,10 +138,10 @@ Every magic item you wear or carry disintegrates. Artifacts in your possession v
 
 ## Throne
 
-You gain proficiency and [[expertise-xphb|Expertise]] in your choice of [[skills#History|History]], [[skills#Insight|Insight]], [[skills#Intimidation|Intimidation]], or [[skills#Persuasion|Persuasion]]. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.
+You gain proficiency and [Expertise](/Compendium/rules/variant-rules/expertise-xphb.md) in your choice of [History](/Compendium/rules/skills.md#History), [Insight](/Compendium/rules/skills.md#Insight), [Intimidation](/Compendium/rules/skills.md#Intimidation), or [Persuasion](/Compendium/rules/skills.md#Persuasion). In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.
 
 ## Void
 
-Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A [[wish-xphb|Wish]] spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
+Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A [Wish](/Compendium/spells/wish-xphb.md) spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
 
 *Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*

@@ -1,12 +1,12 @@
 ---
-title: Potion of Acid Resistance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/uncommon
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Acid Resistance"
 ---
 # Potion of Acid Resistance
@@ -15,6 +15,6 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you have [[resistance-rules-xphb|Resistance]] to acid damage for 1 hour.
+When you drink this potion, you have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to acid damage for 1 hour.
 
 *Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

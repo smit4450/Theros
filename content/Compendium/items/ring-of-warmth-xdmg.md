@@ -1,18 +1,18 @@
 ---
-title: Ring of Warmth
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Warmth"
 ---
 # Ring of Warmth
 *Ring, uncommon (requires attunement)*  
-![](Compendium/items/img/ring-of-warmth.webp#right)
+![](/Compendium/items/img/ring-of-warmth.webp#right)
 
 
 If you take Cold damage while wearing this ring, the ring reduces the damage you take by `2d8`.

@@ -1,12 +1,11 @@
 ---
-title: Artifacts; Weapons of the Gods Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Artifacts; Weapons of the Gods Adventures
+- "Artifacts; Weapons of the Gods Adventures"
 ---
 # Artifacts; Weapons of the Gods Adventures
 *Source: Mythic Odysseys of Theros p. 198* 

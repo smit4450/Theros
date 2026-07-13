@@ -1,12 +1,11 @@
 ---
-title: Describe Appearance and Personality; Wisdom
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Describe Appearance and Personality; Wisdom
+- "Describe Appearance and Personality; Wisdom"
 ---
 # Describe Appearance and Personality; Wisdom
 *Source: Player's Handbook (2024) p. 38* 

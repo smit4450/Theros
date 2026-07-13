@@ -1,17 +1,17 @@
 ---
-title: Chain Mail
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/armor/heavy
 - item/rarity/none
-aliases: 
+aliases:
 - "Chain Mail"
 ---
 # Chain Mail
 *Heavy armor*  
-![](Compendium/items/img/chain-mail.webp#right)
+![](/Compendium/items/img/chain-mail.webp#right)
 
 - **Armor Class**: 16
 - **Strength**: Requires 13 STR.

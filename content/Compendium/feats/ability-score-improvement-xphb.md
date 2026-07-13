@@ -1,13 +1,12 @@
 ---
-title: Ability Score Improvement
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Ability Score Improvement
+- "Ability Score Improvement"
 ---
 # Ability Score Improvement
 *Source: Player's Handbook (2024) p. 202. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

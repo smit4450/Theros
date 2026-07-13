@@ -1,9 +1,9 @@
 ---
-title: Antilife Shell
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/druid
 - spell/level/5th-level
@@ -11,7 +11,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Antilife Shell"]
+aliases:
+- "Antilife Shell"
 ---
 # Antilife Shell
 *5th-level, Abjuration*  
@@ -22,10 +23,10 @@ aliases: ["Antilife Shell"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-An aura extends from you in a 10-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. The aura prevents creatures other than Constructs and Undead from passing or reaching through it. An affected creature can cast spells or make attacks with Ranged or Reach weapons through the barrier.
+An aura extends from you in a 10-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) for the duration. The aura prevents creatures other than Constructs and Undead from passing or reaching through it. An affected creature can cast spells or make attacks with Ranged or Reach weapons through the barrier.
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid](/Compendium/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

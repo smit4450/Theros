@@ -1,20 +1,20 @@
 ---
-title: Cultist Fanatic
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/2
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Cultist Fanatic"]
+aliases:
+- "Cultist Fanatic"
 ---
 # Cultist Fanatic
-*Source: Monster Manual (2024) p. 85, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 85. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/humanoid/img/cultists.webp#right)
 
-![](Compendium/bestiary/humanoid/img/cultists.webp#right|850)  
 Cultist fanatics lead small cults or cells within larger cults. They're privy to more of a cult's mysteries than lower-ranking cultists are, granting them access to magical powers from their patrons.
 
 ## Cultists
@@ -22,7 +22,7 @@ Cultist fanatics lead small cults or cells within larger cults. They're privy to
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
+- **Treasure.** Individual, [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -70,54 +70,49 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
+
 ## Statblock
 
-```statblock
-"name": "Cultist Fanatic (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "13"
-"hp": !!int "44"
-"hit_dice": "8d8 + 8"
-"modifier": !!int "2"
-"stats":
-  - !!int "11"
-  - !!int "14"
-  - !!int "12"
-  - !!int "10"
-  - !!int "14"
-  - !!int "13"
-"speed": "30 ft."
-"saves":
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[[skills#Deception|Deception]]"
-    "desc": "+3"
-  - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+3"
-  - "name": "[[skills#Religion|Religion]]"
-    "desc": "+2"
-"senses": "passive Perception 12"
-"languages": "Common"
-"cr": "2"
-"actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Slashing\
-      \ damage plus 7 (2d6) Necrotic damage."
-    "name": "Pact Blade"
-  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 12, +4 to hit with spell attacks):\n\n**At will:**\
-      \ [[light-xphb|Light]], [[thaumaturgy-xphb|Thaumaturgy]]\n\
-      \n**2/day:** [[command-xphb|Command]]\n\n**1/day:** [[hold-person-xphb|Hold\
-      \ Person]]"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The cultist casts the [[spiritual-weapon-xphb|Spiritual Weapon]]\
-      \ spell, using the same spellcasting ability as Spellcasting.\n"
-    "name": "Spiritual Weapon (2/Day)"
-"source":
-  - "XMM"
-  - "FRHoF"
-"image": "Compendium/bestiary/humanoid/token/cultist-fanatic-xmm.webp"
+```ad-statblock
+title: Cultist Fanatic
+![](/Compendium/bestiary/humanoid/token/cultist-fanatic-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 13 
+- **Hit Points** 44 (`8d8 + 8`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|14 (+2)|12 (+1)|10 (+0)|14 (+2)|13 (+1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Wisdom +4
+- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +3, [Persuasion](/Compendium/rules/skills.md#Persuasion) +3, [Religion](/Compendium/rules/skills.md#Religion) +2
+- **Senses** passive Perception 12
+- **Gear** [holy symbol](/Compendium/items/holy-symbol-xphb.md), [leather armor](/Compendium/items/leather-armor-xphb.md)
+- **Languages** Common
+- **Challenge** 2
+
+## Actions
+
+***Pact Blade.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Slashing damage plus 7 (`2d6`) Necrotic damage.
+
+***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12, `+4` to hit with spell attacks):
+
+**At will:** [Light](/Compendium/spells/light-xphb.md), [Thaumaturgy](/Compendium/spells/thaumaturgy-xphb.md)
+
+**2/day:** [Command](/Compendium/spells/command-xphb.md)
+
+**1/day:** [Hold Person](/Compendium/spells/hold-person-xphb.md)
+
+## Bonus Actions
+
+***Spiritual Weapon (2/Day).*** The cultist casts the [Spiritual Weapon](/Compendium/spells/spiritual-weapon-xphb.md) spell, using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
+
+## Environment
+
+any

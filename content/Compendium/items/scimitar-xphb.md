@@ -1,21 +1,21 @@
 ---
-title: Scimitar
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/melee
-aliases: 
+aliases:
 - "Scimitar"
 ---
 # Scimitar
 *Weapon*  
-![](Compendium/items/img/scimitar.webp#right)
+![](/Compendium/items/img/scimitar.webp#right)
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light)
 - **Cost**: 25 gp
 - **Weight**: 3.0 lbs.
 

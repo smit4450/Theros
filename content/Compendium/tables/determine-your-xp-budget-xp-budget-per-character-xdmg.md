@@ -1,38 +1,148 @@
 ---
-title: Determine Your XP Budget; XP Budget per Character
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Determine Your XP Budget; XP Budget per Character
+- "Determine Your XP Budget; XP Budget per Character"
 ---
 # Determine Your XP Budget; XP Budget per Character
 *Source: Dungeon Master's Guide (2024) p. 114* 
 
+
 **XP Budget per Character**
 
-|    |    |    |    |
-|----|----|----|----|
-| 1 | 50 | 75 | 100 |
-| 2 | 100 | 150 | 200 |
-| 3 | 150 | 225 | 400 |
-| 4 | 250 | 375 | 500 |
-| 5 | 500 | 750 | 1,100 |
-| 6 | 600 | 1,000 | 1,400 |
-| 7 | 750 | 1,300 | 1,700 |
-| 8 | 1,000 | 1,700 | 2,100 |
-| 9 | 1,300 | 2,000 | 2,600 |
-| 10 | 1,600 | 2,300 | 3,100 |
-| 11 | 1,900 | 2,900 | 4,100 |
-| 12 | 2,200 | 3,700 | 4,700 |
-| 13 | 2,600 | 4,200 | 5,400 |
-| 14 | 2,900 | 4,900 | 6,200 |
-| 15 | 3,300 | 5,400 | 7,800 |
-| 16 | 3,800 | 6,100 | 9,800 |
-| 17 | 4,500 | 7,200 | 11,700 |
-| 18 | 5,000 | 8,700 | 14,200 |
-| 19 | 5,500 | 10,700 | 17,200 |
-| 20 | 6,400 | 13,200 | 22,000 |
+<table>
+<tr>
+  <th></th>
+  <th colspan="3">Encounter Difficulty</th>
+</tr>
+<tr>
+  <th>Party's Level</th>
+  <th>Low</th>
+  <th>Moderate</th>
+  <th>High</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>50</td>
+  <td>75</td>
+  <td>100</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>100</td>
+  <td>150</td>
+  <td>200</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>150</td>
+  <td>225</td>
+  <td>400</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>250</td>
+  <td>375</td>
+  <td>500</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>500</td>
+  <td>750</td>
+  <td>1,100</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>600</td>
+  <td>1,000</td>
+  <td>1,400</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>750</td>
+  <td>1,300</td>
+  <td>1,700</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>1,000</td>
+  <td>1,700</td>
+  <td>2,100</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td>1,300</td>
+  <td>2,000</td>
+  <td>2,600</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>1,600</td>
+  <td>2,300</td>
+  <td>3,100</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td>1,900</td>
+  <td>2,900</td>
+  <td>4,100</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td>2,200</td>
+  <td>3,700</td>
+  <td>4,700</td>
+</tr>
+<tr>
+  <td>13</td>
+  <td>2,600</td>
+  <td>4,200</td>
+  <td>5,400</td>
+</tr>
+<tr>
+  <td>14</td>
+  <td>2,900</td>
+  <td>4,900</td>
+  <td>6,200</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td>3,300</td>
+  <td>5,400</td>
+  <td>7,800</td>
+</tr>
+<tr>
+  <td>16</td>
+  <td>3,800</td>
+  <td>6,100</td>
+  <td>9,800</td>
+</tr>
+<tr>
+  <td>17</td>
+  <td>4,500</td>
+  <td>7,200</td>
+  <td>11,700</td>
+</tr>
+<tr>
+  <td>18</td>
+  <td>5,000</td>
+  <td>8,700</td>
+  <td>14,200</td>
+</tr>
+<tr>
+  <td>19</td>
+  <td>5,500</td>
+  <td>10,700</td>
+  <td>17,200</td>
+</tr>
+<tr>
+  <td>20</td>
+  <td>6,400</td>
+  <td>13,200</td>
+  <td>22,000</td>
+</tr>
+</table>
 ^xp-budget-per-character

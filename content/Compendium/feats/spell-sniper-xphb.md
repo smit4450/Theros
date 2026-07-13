@@ -1,13 +1,12 @@
 ---
-title: Spell Sniper
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Spell Sniper
+- "Spell Sniper"
 ---
 # Spell Sniper
 *Source: Player's Handbook (2024) p. 208*  
@@ -18,8 +17,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
-**Bypass Cover.** Your attack rolls for spells ignore [[cover-table-xphb|Half Cover]] and [[cover-table-xphb|Three-Quarters Cover]].
+**Bypass Cover.** Your attack rolls for spells ignore [Half Cover](/Compendium/rules/variant-rules/cover-xphb.md) and [Three-Quarters Cover](/Compendium/rules/variant-rules/cover-xphb.md).
 
-**Casting in Melee.** Being within 5 feet of an enemy doesn't impose [[disadvantage-xphb|Disadvantage]] on your attack rolls with spells.
+**Casting in Melee.** Being within 5 feet of an enemy doesn't impose [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on your attack rolls with spells.
 
 **Increased Range.** When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.

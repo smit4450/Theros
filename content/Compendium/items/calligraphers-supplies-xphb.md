@@ -1,12 +1,12 @@
 ---
-title: "Calligrapher's Supplies"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/artisans-tools
 - item/rarity/none
-aliases: 
+aliases:
 - "Calligrapher's Supplies"
 ---
 # Calligrapher's Supplies
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Dexterity  
 - **Utilize.** Write text with impressive flourishes that guard against forgery (DC 15)  
-- **Craft.** [[ink-xphb|Ink]], [[spell-scroll-xdmg|Spell Scroll]]  
+- **Craft.** [Ink](/Compendium/items/ink-xphb.md), [Spell Scroll](/Compendium/items/spell-scroll-xdmg.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

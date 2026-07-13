@@ -1,21 +1,21 @@
 ---
-title: Young Red Dragon
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/10
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/dragon/chromatic
-statblock: inline
-aliases: ["Young Red Dragon"]
+aliases:
+- "Young Red Dragon"
 ---
 # Young Red Dragon
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/dragon/img/red-dragon.webp#right)
 
-![](Compendium/bestiary/dragon/img/red-dragon.webp#right|850)  
 Young red dragons number among the most unpredictable of their kind. They seek territories rich with treasures and potential followers, raiding, burning, and slaughtering to enforce their will. Unless these dragons meet significant resistance, they cement their power and begin reigns of terror that can last for centuries.
 
 ## Red Dragons
@@ -34,50 +34,40 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 ### Red Dragon Lairs
 
 Red dragons make their lairs in smoldering, unapproachable places such as volcanic mountains, burning wastelands, and ruins they've stolen from other creatures.
+
 ## Statblock
 
-```statblock
-"name": "Young Red Dragon (XMM)"
-"size": "Large"
-"type": "dragon"
-"subtype": "chromatic"
-"alignment": "Chaotic Evil"
-"ac": !!int "18"
-"hp": !!int "178"
-"hit_dice": "17d10 + 85"
-"modifier": !!int "4"
-"stats":
-  - !!int "23"
-  - !!int "10"
-  - !!int "21"
-  - !!int "14"
-  - !!int "11"
-  - !!int "19"
-"speed": "40 ft., climb 40 ft., fly 80 ft."
-"saves":
-  - "dexterity": !!int "4"
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+8"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
-"damage_immunities": "fire"
-"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
-  \ 120 ft., passive Perception 18"
-"languages": "Common, Draconic"
-"cr": "10"
-"actions":
-  - "desc": "The dragon makes three Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +10, reach 10 ft. *Hit:* 13 (2d6 + 6) Slashing\
-      \ damage plus 3 (1d6) Fire damage."
-    "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 17, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
-      \ *Failure:* 56 (16d6) Fire damage. *Success:* Half damage."
-    "name": "Fire Breath (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/dragon/token/young-red-dragon-xmm.webp"
+```ad-statblock
+title: Young Red Dragon
+![](/Compendium/bestiary/dragon/token/young-red-dragon-xmm.webp#token)
+*Large dragon (chromatic), Chaotic Evil*
+
+- **Armor Class** 18 
+- **Hit Points** 178 (`17d10 + 85`) 
+- **Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Dexterity +4, Wisdom +4
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +8, [Stealth](/Compendium/rules/skills.md#Stealth) +4
+- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 18
+- **Damage Immunities** fire
+- **Languages** Common, Draconic
+- **Challenge** 10
+
+## Actions
+
+***Multiattack.*** The dragon makes three Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `+10`, reach 10 ft. *Hit:* 13 (`2d6 + 6`) Slashing damage plus 3 (`1d6`) Fire damage.
+
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 17, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* 56 (`16d6`) Fire damage. *Success:* Half damage.
 ```
 ^statblock
+
+## Environment
+
+hill, mountain

@@ -1,19 +1,18 @@
 ---
-title: Ephara
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/knowledge
 - domain/light
-aliases: 
-- Ephara
+aliases:
+- "Ephara"
 ---
 # Ephara
 *Source: Mythic Odysseys of Theros p. 40* 
-![](Compendium/deities/img/mot-026-02-03-ephara.webp#symbol)
+![](/Compendium/deities/img/mot-026-02-03-ephara.webp#symbol)
 
 - **Alignment**: Lawful Neutral
 - **Domains**: Knowledge, Light
@@ -53,7 +52,7 @@ To an extent, Ephara's devout show their faith by going about their lives and co
 
 Ephara's face is a common sight in cities. Marble buildings, stone walls, and similar surfaces usually feature a sculpture or relief of her visage. People often swear oaths or engage in verbal disputes in front of these images, believing she won't let a falsehood told in front of her go unpunished. Whether she actually intervenes is unclear, but conflicts that play out this way are often resolved peacefully, without a need for the justice system to get involved.
 
-![](Compendium/deities/img/mot-027-02-05.webp#center)
+![](/Compendium/deities/img/mot-027-02-05.webp#center)
 
 > [!readaloud] Myths of Ephara
 > 
@@ -134,7 +133,7 @@ Your piety score to Ephara decreases if you diminish Ephara's influence in the w
 
 ### Benefits of Piety
 
-- [[epharas-devotee-mot|Ephara's Devotee]]  
-- [[epharas-votary-mot|Ephara's Votary]]  
-- [[epharas-disciple-mot|Ephara's Disciple]]  
-- [[champion-of-the-polis-mot|Champion of the Polis]]
+- [Ephara's Devotee](/Compendium/rewards/epharas-devotee-mot.md)  
+- [Ephara's Votary](/Compendium/rewards/epharas-votary-mot.md)  
+- [Ephara's Disciple](/Compendium/rewards/epharas-disciple-mot.md)  
+- [Champion of the Polis](/Compendium/rewards/champion-of-the-polis-mot.md)

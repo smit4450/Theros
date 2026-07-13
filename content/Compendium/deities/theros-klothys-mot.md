@@ -1,19 +1,18 @@
 ---
-title: Klothys
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/knowledge
 - domain/war
-aliases: 
-- Klothys
+aliases:
+- "Klothys"
 ---
 # Klothys
 *Source: Mythic Odysseys of Theros p. 58* 
-![](Compendium/deities/img/mot-038-02-03-klothys.webp#symbol)
+![](/Compendium/deities/img/mot-038-02-03-klothys.webp#symbol)
 
 - **Alignment**: Neutral
 - **Domains**: Knowledge, War
@@ -53,7 +52,7 @@ Of course, Klothys trusts no other god as much as she does Kruphix, who also rec
 
 Klothys doesn't trace her origins to mortal devotion, and she has languished in obscurity for almost the whole of human history. Unlike the other gods (except Kruphix), she doesn't need worship to sustain or empower her, and she doesn't seek out reverence or demand it. By and large, mortals are irrelevant to her, except insofar as they have played a role in tangling the strands of destiny by defying nature's order.
 
-![](Compendium/deities/img/mot-039-02-11.webp#center)
+![](/Compendium/deities/img/mot-039-02-11.webp#center)
 
 > [!readaloud] Myths of Klothys
 > 
@@ -133,7 +132,7 @@ Your piety score to Klothys decreases if you diminish her influence in the world
 
 ### Benefits of Piety
 
-- [[klothyss-devotee-mot|Klothys's Devotee]]  
-- [[klothyss-votary-mot|Klothys's Votary]]  
-- [[klothyss-disciple-mot|Klothys's Disciple]]  
-- [[champion-of-destiny-mot|Champion of Destiny]]
+- [Klothys's Devotee](/Compendium/rewards/klothyss-devotee-mot.md)  
+- [Klothys's Votary](/Compendium/rewards/klothyss-votary-mot.md)  
+- [Klothys's Disciple](/Compendium/rewards/klothyss-disciple-mot.md)  
+- [Champion of Destiny](/Compendium/rewards/champion-of-destiny-mot.md)

@@ -1,9 +1,9 @@
 ---
-title: Comprehend Languages
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/warlock
@@ -17,23 +17,20 @@ tags:
 - spell/ritual
 - spell/school/divination
 - spell/subclass/arcane-trickster
-- spell/subclass/banneret
 - spell/subclass/college-of-lore
 - spell/subclass/diviner
 - spell/subclass/eldritch-knight
-- spell/subclass/knowledge-domain
 classes:
 - Bard
 - Bard (College of Lore)
-- Cleric (Knowledge Domain)
-- Fighter (Banneret)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Comprehend Languages"]
+aliases:
+- "Comprehend Languages"
 ---
 # Comprehend Languages
 *1st-level, Divination (ritual)*  
@@ -46,6 +43,6 @@ aliases: ["Comprehend Languages"]
 
 For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode symbols or secret messages.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Fighter (Banneret)](Compendium/lists/list-spells-classes-banneret-frhof.md "subclass=FRHoF;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Compendium/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

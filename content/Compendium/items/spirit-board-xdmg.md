@@ -1,16 +1,16 @@
 ---
-title: Spirit Board
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Spirit Board"
 ---
 # Spirit Board
 *Wondrous item, very rare*  
-![](Compendium/items/img/spirit-board.webp#right)
+![](/Compendium/items/img/spirit-board.webp#right)
 
 
 This ornate wooden board has the letters of the Common alphabet printed on one side, alongside the words "Yes" and "No" and symbols representing "Weal" and "Woe." The board comes with a heart-shaped, wooden planchette. This planchette must be resting on the lettered side of the board for the board's magic to function.
@@ -19,8 +19,8 @@ This board has 3 charges and regains 1 expended charge daily at dawn. While touc
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[augury-xphb|Augury]] | 1 |
-| [[commune-xphb|Commune]] | 3 |
+| [Augury](/Compendium/spells/augury-xphb.md) | 1 |
+| [Commune](/Compendium/spells/commune-xphb.md) | 3 |
 ^spell-charge-cost
 
 *Source: Dungeon Master's Guide (2024) p. 306*

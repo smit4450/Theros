@@ -1,12 +1,11 @@
 ---
-title: Monsters by Habitat; Coastal Monsters
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 aliases:
-- Monsters by Habitat; Coastal Monsters
+- "Monsters by Habitat; Coastal Monsters"
 ---
 # Monsters by Habitat; Coastal Monsters
 *Source: Monster Manual (2024) p. 375* 
@@ -15,24 +14,24 @@ aliases:
 
 | CR | Monsters |
 |----|----------|
-| 0 | [[crab-xmm|Crab]], [[eagle-xmm|Eagle]], [[hawk-xmm|Hawk]], [[lizard-xmm|Lizard]] |
-| 1/8 | [[blood-hawk-xmm|Blood Hawk]], [[giant-crab-xmm|Giant Crab]], [[kobold-warrior-xmm|Kobold Warrior]], [[merfolk-skirmisher-xmm|Merfolk Skirmisher]], [[venomous-snake-xmm|Venomous Snake]] |
-| 1/4 | [[giant-lizard-xmm|Giant Lizard]], [[giant-venomous-snake-xmm|Giant Venomous Snake]], [[giant-wolf-spider-xmm|Giant Wolf Spider]], [[kuo-toa-xmm|Kuo-toa]], [[pseudodragon-xmm|Pseudodragon]], [[pteranodon-xmm|Pteranodon]], [[winged-kobold-xmm|Winged Kobold]] |
-| 1/2 | [[crocodile-xmm|Crocodile]], [[sahuagin-warrior-xmm|Sahuagin Warrior]] |
-| 1 | [[giant-eagle-xmm|Giant Eagle]], [[giant-toad-xmm|Giant Toad]], [[harpy-xmm|Harpy]], [[kuo-toa-whip-xmm|Kuo-toa Whip]] |
-| 2 | [[bronze-dragon-wyrmling-xmm|Bronze Dragon Wyrmling]], [[griffon-xmm|Griffon]], [[merrow-xmm|Merrow]], [[plesiosaurus-xmm|Plesiosaurus]], [[sahuagin-priest-xmm|Sahuagin Priest]], [[sea-hag-xmm|Sea Hag]], [[swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]] |
-| 3 | [[blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]], [[kuo-toa-monitor-xmm|Kuo-toa Monitor]], [[manticore-xmm|Manticore]] |
-| 4 | [[chuul-xmm|Chuul]] |
-| 5 | [[giant-crocodile-xmm|Giant Crocodile]], [[sahuagin-baron-xmm|Sahuagin Baron]], [[water-elemental-xmm|Water Elemental]] |
-| 6 | [[cyclops-sentry-xmm|Cyclops Sentry]], [[kuo-toa-archpriest-xmm|Kuo-toa Archpriest]], [[merfolk-wavebender-xmm|Merfolk Wavebender]] |
-| 8 | [[hydra-xmm|Hydra]], [[young-bronze-dragon-xmm|Young Bronze Dragon]] |
-| 9 | [[young-blue-dragon-xmm|Young Blue Dragon]] |
-| 10 | [[cyclops-oracle-xmm|Cyclops Oracle]] |
-| 11 | [[djinni-xmm|Djinni]], [[marid-xmm|Marid]], [[roc-xmm|Roc]] |
-| 13 | [[storm-giant-xmm|Storm Giant]] |
-| 15 | [[adult-bronze-dragon-xmm|Adult Bronze Dragon]] |
-| 16 | [[adult-blue-dragon-xmm|Adult Blue Dragon]] |
-| 17 | [[dragon-turtle-xmm|Dragon Turtle]] |
-| 22 | [[ancient-bronze-dragon-xmm|Ancient Bronze Dragon]] |
-| 23 | [[ancient-blue-dragon-xmm|Ancient Blue Dragon]] |
+| 0 | [Crab](/Compendium/bestiary/beast/crab-xmm.md), [Eagle](/Compendium/bestiary/beast/eagle-xmm.md), [Hawk](/Compendium/bestiary/beast/hawk-xmm.md), [Lizard](/Compendium/bestiary/beast/lizard-xmm.md) |
+| 1/8 | [Blood Hawk](/Compendium/bestiary/beast/blood-hawk-xmm.md), [Giant Crab](/Compendium/bestiary/beast/giant-crab-xmm.md), [Kobold Warrior](/Compendium/bestiary/dragon/kobold-warrior-xmm.md), [Merfolk Skirmisher](/Compendium/bestiary/elemental/merfolk-skirmisher-xmm.md), [Venomous Snake](/Compendium/bestiary/beast/venomous-snake-xmm.md) |
+| 1/4 | [Giant Lizard](/Compendium/bestiary/beast/giant-lizard-xmm.md), [Giant Venomous Snake](/Compendium/bestiary/beast/giant-venomous-snake-xmm.md), [Giant Wolf Spider](/Compendium/bestiary/beast/giant-wolf-spider-xmm.md), [Kuo-toa](/Compendium/bestiary/aberration/kuo-toa-xmm.md), [Pseudodragon](/Compendium/bestiary/dragon/pseudodragon-xmm.md), [Pteranodon](/Compendium/bestiary/beast/pteranodon-xmm.md), [Winged Kobold](/Compendium/bestiary/dragon/winged-kobold-xmm.md) |
+| 1/2 | [Crocodile](/Compendium/bestiary/beast/crocodile-xmm.md), [Sahuagin Warrior](/Compendium/bestiary/fiend/sahuagin-warrior-xmm.md) |
+| 1 | [Giant Eagle](/Compendium/bestiary/celestial/giant-eagle-xmm.md), [Giant Toad](/Compendium/bestiary/beast/giant-toad-xmm.md), [Harpy](/Compendium/bestiary/monstrosity/harpy-xmm.md), [Kuo-toa Whip](/Compendium/bestiary/aberration/kuo-toa-whip-xmm.md) |
+| 2 | [Bronze Dragon Wyrmling](/Compendium/bestiary/dragon/bronze-dragon-wyrmling-xmm.md), [Griffon](/Compendium/bestiary/monstrosity/griffon-xmm.md), [Merrow](/Compendium/bestiary/monstrosity/merrow-xmm.md), [Plesiosaurus](/Compendium/bestiary/beast/plesiosaurus-xmm.md), [Sahuagin Priest](/Compendium/bestiary/fiend/sahuagin-priest-xmm.md), [Sea Hag](/Compendium/bestiary/fey/sea-hag-xmm.md), [Swarm of Venomous Snakes](/Compendium/bestiary/beast/swarm-of-venomous-snakes-xmm.md) |
+| 3 | [Blue Dragon Wyrmling](/Compendium/bestiary/dragon/blue-dragon-wyrmling-xmm.md), [Kuo-toa Monitor](/Compendium/bestiary/aberration/kuo-toa-monitor-xmm.md), [Manticore](/Compendium/bestiary/monstrosity/manticore-xmm.md) |
+| 4 | [Chuul](/Compendium/bestiary/aberration/chuul-xmm.md) |
+| 5 | [Giant Crocodile](/Compendium/bestiary/beast/giant-crocodile-xmm.md), [Sahuagin Baron](/Compendium/bestiary/fiend/sahuagin-baron-xmm.md), [Water Elemental](/Compendium/bestiary/elemental/water-elemental-xmm.md) |
+| 6 | [Cyclops Sentry](/Compendium/bestiary/giant/cyclops-sentry-xmm.md), [Kuo-toa Archpriest](/Compendium/bestiary/aberration/kuo-toa-archpriest-xmm.md), [Merfolk Wavebender](/Compendium/bestiary/elemental/merfolk-wavebender-xmm.md) |
+| 8 | [Hydra](/Compendium/bestiary/monstrosity/hydra-xmm.md), [Young Bronze Dragon](/Compendium/bestiary/dragon/young-bronze-dragon-xmm.md) |
+| 9 | [Young Blue Dragon](/Compendium/bestiary/dragon/young-blue-dragon-xmm.md) |
+| 10 | [Cyclops Oracle](/Compendium/bestiary/giant/cyclops-oracle-xmm.md) |
+| 11 | [Djinni](/Compendium/bestiary/elemental/djinni-xmm.md), [Marid](/Compendium/bestiary/elemental/marid-xmm.md), [Roc](/Compendium/bestiary/monstrosity/roc-xmm.md) |
+| 13 | [Storm Giant](/Compendium/bestiary/giant/storm-giant-xmm.md) |
+| 15 | [Adult Bronze Dragon](/Compendium/bestiary/dragon/adult-bronze-dragon-xmm.md) |
+| 16 | [Adult Blue Dragon](/Compendium/bestiary/dragon/adult-blue-dragon-xmm.md) |
+| 17 | [Dragon Turtle](/Compendium/bestiary/dragon/dragon-turtle-xmm.md) |
+| 22 | [Ancient Bronze Dragon](/Compendium/bestiary/dragon/ancient-bronze-dragon-xmm.md) |
+| 23 | [Ancient Blue Dragon](/Compendium/bestiary/dragon/ancient-blue-dragon-xmm.md) |
 ^coastal-monsters

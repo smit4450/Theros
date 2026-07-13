@@ -1,9 +1,9 @@
 ---
-title: Nine Lives Stealer
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/age/futuristic
 - item/age/modern
 - item/attunement/required
@@ -14,7 +14,7 @@ tags:
 - item/weapon/ranged
 - item/weapon/simple
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Nine Lives Stealer"
 - "Nine Lives Stealer Antimatter Rifle"
 - "Nine Lives Stealer Automatic Rifle"
@@ -72,14 +72,14 @@ aliases:
 ---
 # Nine Lives Stealer
 *Very rare (requires attunement)*  
-![](Compendium/items/img/nine-lives-stealer.webp#right)
+![Nine Lives Stealer (Greatsword)](/Compendium/items/img/nine-lives-stealer.webp#right)
 
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.
 
 ## Life Stealing
 
-The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than 100 [[hit-points-xphb|Hit Points]] with this weapon and roll a 20 on the `d20` for the attack roll, the creature must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body. Constructs and Undead succeed on the save automatically. The weapon loses 1 charge if the creature is slain. When the weapon has no charges remaining, it loses this property.
+The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than 100 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) with this weapon and roll a 20 on the `d20` for the attack roll, the creature must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body. Constructs and Undead succeed on the save automatically. The weapon loses 1 charge if the creature is slain. When the weapon has no charges remaining, it loses this property.
 
 **Variants**:
 - [Nine Lives Stealer Antimatter Rifle](#Nine%20Lives%20Stealer%20Antimatter%20Rifle)
@@ -140,14 +140,14 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Nine Lives Stealer Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Burst%20Fire|Burst Fire]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Burst Fire](/Compendium/rules/item-properties.md#Burst%20Fire), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Nine Lives Stealer Battleaxe
@@ -155,40 +155,40 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Nine Lives Stealer Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading)
 - **Weight**: 1.0 lbs.
 
 ### Nine Lives Stealer Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Nine Lives Stealer Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### Nine Lives Stealer Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]], special
+- **Properties**: [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed), special
 - **Weight**: 6.0 lbs.
 
 ### Nine Lives Stealer Flail
@@ -199,127 +199,127 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 ### Nine Lives Stealer Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Nine Lives Stealer Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Nine Lives Stealer Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Nine Lives Stealer Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Nine Lives Stealer Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Nine Lives Stealer Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Light|Light]], [[item-properties#Loading|Loading]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Light](/Compendium/rules/item-properties.md#Light), [Loading](/Compendium/rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Nine Lives Stealer Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Heavy](/Compendium/rules/item-properties.md#Heavy), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Nine Lives Stealer Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Finesse|Finesse]], [[item-properties#Two-Handed|Two-Handed]], special
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Finesse](/Compendium/rules/item-properties.md#Finesse), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed), special
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Nine Lives Stealer Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach)
 - **Weight**: 6.0 lbs.
 
 ### Nine Lives Stealer Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Nine Lives Stealer Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Nine Lives Stealer Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Nine Lives Stealer Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Longsword
@@ -327,7 +327,7 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Nine Lives Stealer Mace
@@ -338,7 +338,7 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 ### Nine Lives Stealer Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Nine Lives Stealer Morningstar
@@ -350,20 +350,20 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Nine Lives Stealer Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Nine Lives Stealer Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Nine Lives Stealer Quarterstaff
@@ -371,66 +371,66 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Nine Lives Stealer Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Nine Lives Stealer Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Nine Lives Stealer Semiautomatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Nine Lives Stealer Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Reload](/Compendium/rules/item-properties.md#Reload), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Nine Lives Stealer Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition)
 
 ### Nine Lives Stealer Spear
 
@@ -438,7 +438,7 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown), [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Nine Lives Stealer Staff
@@ -446,7 +446,7 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Nine Lives Stealer Trident
@@ -455,7 +455,7 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown), [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Nine Lives Stealer War Pick
@@ -463,7 +463,7 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Warhammer
@@ -471,13 +471,13 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 ### Nine Lives Stealer Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Reach](/Compendium/rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 ### Nine Lives Stealer Wooden Staff
@@ -485,14 +485,14 @@ The weapon has `1d8 + 1` charges. When you attack a creature that has fewer than
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Nine Lives Stealer Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
 

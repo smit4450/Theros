@@ -1,12 +1,12 @@
 ---
-title: Drum
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/instrument
 - item/rarity/none
-aliases: 
+aliases:
 - "Drum"
 ---
 # Drum

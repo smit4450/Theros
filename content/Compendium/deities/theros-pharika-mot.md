@@ -1,20 +1,19 @@
 ---
-title: Pharika
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/death
 - domain/knowledge
 - domain/life
-aliases: 
-- Pharika
+aliases:
+- "Pharika"
 ---
 # Pharika
 *Source: Mythic Odysseys of Theros p. 70* 
-![](Compendium/deities/img/mot-046-02-03-pharika.webp#symbol)
+![](/Compendium/deities/img/mot-046-02-03-pharika.webp#symbol)
 
 - **Alignment**: Neutral Evil
 - **Domains**: Death, Knowledge, Life
@@ -52,9 +51,9 @@ No god is more precious to Pharika than Nylea. She adores Nylea as the source of
 
 The diseased and the dying alike often make written entreaties to Pharika for a remedy. Prayers are written on scraps of paper or shards of pottery, sealed in small pots, and buried in bogs, leaving them as secrets for others to exhume years later. Many people pray to her before undergoing a medical procedure, picking herbs, or confronting a venomous animal. Nights of a waxing crescent moon (roughly the first week of each month, when a sliver of moon lingers in the early evening) are sacred to Pharika and are thought to be an auspicious time to harvest medicinal plants.
 
-Pharika's followers include members of several small mystery cults, which embrace varying aspects of her divine nature. The most infamous of these is the Cult of Frozen Faith, led by a medusa. Initiates receive a lethal dose of poison, become [[conditions#Petrified|petrified]], and then are restored to flesh one year later. Petitioners who have Pharika's favor emerge alive and healthy; those she doesn't care for fail to survive the transformation.
+Pharika's followers include members of several small mystery cults, which embrace varying aspects of her divine nature. The most infamous of these is the Cult of Frozen Faith, led by a medusa. Initiates receive a lethal dose of poison, become [petrified](/Compendium/rules/conditions.md#Petrified), and then are restored to flesh one year later. Petitioners who have Pharika's favor emerge alive and healthy; those she doesn't care for fail to survive the transformation.
 
-![](Compendium/deities/img/mot-047-02-15.webp#center)
+![](/Compendium/deities/img/mot-047-02-15.webp#center)
 
 > [!readaloud] Myths of Pharika
 > 
@@ -136,7 +135,7 @@ Your piety score to Pharika decreases if you diminish Pharika's influence in the
 
 ### Benefits of Piety
 
-- [[pharikas-devotee-mot|Pharika's Devotee]]  
-- [[pharikas-votary-mot|Pharika's Votary]]  
-- [[pharikas-disciple-mot|Pharika's Disciple]]  
-- [[champion-of-affliction-mot|Champion of Affliction]]
+- [Pharika's Devotee](/Compendium/rewards/pharikas-devotee-mot.md)  
+- [Pharika's Votary](/Compendium/rewards/pharikas-votary-mot.md)  
+- [Pharika's Disciple](/Compendium/rewards/pharikas-disciple-mot.md)  
+- [Champion of Affliction](/Compendium/rewards/champion-of-affliction-mot.md)

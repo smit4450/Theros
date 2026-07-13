@@ -1,21 +1,21 @@
 ---
-title: Thaumaturgy
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/cleric
 - spell/feat/blessed-warrior
 - spell/feat/magic-initiate/cleric-spells
 - spell/level/cantrip
 - spell/optfeature/pact-of-the-tome
-- spell/race/tiefling
 - spell/school/transmutation
 - spell/subclass/college-of-lore
 classes:
 - Bard (College of Lore)
 - Cleric
-aliases: ["Thaumaturgy"]
+aliases:
+- "Thaumaturgy"
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  
@@ -34,7 +34,7 @@ You alter the appearance of your eyes for 1 minute.
 
 ## Booming Voice
 
-Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [[advantage-xphb|Advantage]] on Charisma ([[skills#Intimidation|Intimidation]]) checks.
+Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on Charisma ([Intimidation](/Compendium/rules/skills.md#Intimidation)) checks.
 
 ## Fire Play
 
@@ -54,6 +54,6 @@ You cause harmless tremors in the ground for 1 minute.
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/Compendium/lists/list-spells-classes-cleric.md)
 
 *Source: Player's Handbook (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

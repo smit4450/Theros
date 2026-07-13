@@ -1,12 +1,11 @@
 ---
-title: "1: Common Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- 1: Common Names
+- "1: Common Names"
 ---
 # 1: Common Names
 *Source: Dungeon Master's Guide (2024) p. 84* 

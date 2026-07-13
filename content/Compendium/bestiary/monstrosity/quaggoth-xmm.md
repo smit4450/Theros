@@ -1,20 +1,20 @@
 ---
-title: Quaggoth
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/2
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
-aliases: ["Quaggoth"]
+aliases:
+- "Quaggoth"
 ---
 # Quaggoth
 *Source: Monster Manual (2024) p. 251*  
+![](/Compendium/bestiary/monstrosity/img/quaggoths.webp#right)
 
-![](Compendium/bestiary/monstrosity/img/quaggoths.webp#right|850)  
 For quaggoths, every fight means life or death. They battle with wild fury and do anything to survive.
 
 ## Quaggoths
@@ -27,47 +27,43 @@ For quaggoths, every fight means life or death. They battle with wild fury and d
 Beastly hunters endemic to subterranean depths, quaggoths scrape harsh existences from the Underdark. While they can survive on bitter lichens and toxic fungi, they viciously attack anything they can make a meal of, from giant spiders to explorers. Quaggoths sometimes serve as muscle for Underdark-dwelling villains.
 
 Quaggoths frequently collect in small bands led by the most fearsome group member. These bands are proud and quick to hold grudges. Anyone who harms a quaggoth—or who is suspected of doing so—earns the enmity of that quaggoth's band regardless of reason or fault. These grudges sometimes extend to whole communities rather than individuals. Generations of quaggoths might seek revenge against a settlement's inhabitants for decades-old slights. Only the leader of a quaggoth band can demand that a grudge ends.
+
 ## Statblock
 
-```statblock
-"name": "Quaggoth (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Chaotic Neutral"
-"ac": !!int "13"
-"hp": !!int "45"
-"hit_dice": "6d8 + 18"
-"modifier": !!int "1"
-"stats":
-  - !!int "17"
-  - !!int "12"
-  - !!int "16"
-  - !!int "6"
-  - !!int "12"
-  - !!int "7"
-"speed": "30 ft., climb 30 ft."
-"skillsaves":
-  - "name": "[[skills#Athletics|Athletics]]"
-    "desc": "+5"
-"damage_immunities": "poison"
-"condition_immunities": "[[conditions#Poisoned|poisoned]]"
-"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
-  \ 11"
-"languages": "Undercommon"
-"cr": "2"
-"traits":
-  - "desc": "While [[conditions#Bloodied|Bloodied]], the quaggoth\
-      \ has [[advantage-xphb|Advantage]] on attack\
-      \ rolls."
-    "name": "Bloodied Fury"
-"actions":
-  - "desc": "The quaggoth makes two Claw attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing\
-      \ damage, or 13 (3d6 + 3) Slashing damage if the quaggoth is [[conditions#Bloodied|Bloodied]]."
-    "name": "Claw"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/monstrosity/token/quaggoth-xmm.webp"
+```ad-statblock
+title: Quaggoth
+![](/Compendium/bestiary/monstrosity/token/quaggoth-xmm.webp#token)
+*Medium monstrosity, Chaotic Neutral*
+
+- **Armor Class** 13 
+- **Hit Points** 45 (`6d8 + 18`) 
+- **Speed** 30 ft., climb 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|12 (+1)|16 (+3)| 6 (-2)|12 (+1)| 7 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Athletics](/Compendium/rules/skills.md#Athletics) +5
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
+- **Languages** Undercommon
+- **Challenge** 2
+
+## Traits
+
+***Bloodied Fury.*** While [Bloodied](/Compendium/rules/conditions.md#Bloodied), the quaggoth has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls.
+
+## Actions
+
+***Multiattack.*** The quaggoth makes two Claw attacks.
+
+***Claw.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Slashing damage, or 13 (`3d6 + 3`) Slashing damage if the quaggoth is [Bloodied](/Compendium/rules/conditions.md#Bloodied).
 ```
 ^statblock
+
+## Environment
+
+underdark

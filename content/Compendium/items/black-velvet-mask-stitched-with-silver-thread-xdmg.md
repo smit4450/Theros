@@ -1,12 +1,12 @@
 ---
-title: Black velvet mask stitched with silver thread
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/gear/treasure-art-object
 - item/rarity/none
-aliases: 
+aliases:
 - "Black velvet mask stitched with silver thread"
 ---
 # Black velvet mask stitched with silver thread

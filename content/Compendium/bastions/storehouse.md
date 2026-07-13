@@ -1,13 +1,12 @@
 ---
-title: Storehouse
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion
 tags:
 - bastion
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Storehouse
+- "Storehouse"
 ---
 # Storehouse
 *Level 5 Bastion facility*  

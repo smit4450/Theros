@@ -1,27 +1,27 @@
 ---
-title: Ioun Stone, Regeneration
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/legendary
-aliases: 
+aliases:
 - "Ioun Stone, Regeneration"
 ---
 # Ioun Stone, Regeneration
 *Wondrous item, legendary (requires attunement)*  
-![](Compendium/items/img/ioun-stone.webp#right)
+![](/Compendium/items/img/ioun-stone.webp#right)
 
 
 Roughly marble sized, *Ioun Stones* are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun Stones* exist, each type a distinct combination of shape and color.
 
-When you take a [[actions#Magic|Magic]] action to toss an *Ioun Stone* into the air, the stone orbits your head at a distance of `1d3` feet, conferring its benefit to you while doing so. You can have up to three *Ioun Stones* orbiting your head at the same time.
+When you take a [Magic](/Compendium/rules/actions.md#Magic) action to toss an *Ioun Stone* into the air, the stone orbits your head at a distance of `1d3` feet, conferring its benefit to you while doing so. You can have up to three *Ioun Stones* orbiting your head at the same time.
 
 Each *Ioun Stone* orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it.
 
-As a [[actions#Utilize|Utilize]] action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement-xphb|Attunement]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
+As a [Utilize](/Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [Attunement](/Compendium/rules/variant-rules/attunement-xphb.md) to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
-You regain 15 [[hit-points-xphb|Hit Points]] at the end of each hour this pearly white spindle orbits your head if you have at least 1 [[hit-points-xphb|Hit Point]].
+You regain 15 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) at the end of each hour this pearly white spindle orbits your head if you have at least 1 [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md).
 
 *Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

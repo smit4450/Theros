@@ -1,20 +1,20 @@
 ---
-title: Gibbering Mouther
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/2
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
-statblock: inline
-aliases: ["Gibbering Mouther"]
+aliases:
+- "Gibbering Mouther"
 ---
 # Gibbering Mouther
 *Source: Monster Manual (2024) p. 133. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/aberration/img/gibbering-mouther.webp#right)
 
-![](Compendium/bestiary/aberration/img/gibbering-mouther.webp#right|850)  
 ## Gibbering Mouther
 
 *Ravenous Chorus of Unreality*
@@ -42,56 +42,46 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 > 
 > Alas, the Elder Elves made a fatal mistake. When the Dragon's Tear comet next returned, the Vast Gate—still keyed to the Far Realm of alien entities—linked to the comet and opened again. And what emerged, ululating profanities, sang unnameable hungers into an unguarded world.
 
-```statblock
-"name": "Gibbering Mouther (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Chaotic Neutral"
-"ac": !!int "9"
-"hp": !!int "52"
-"hit_dice": "7d8 + 21"
-"modifier": !!int "-1"
-"stats":
-  - !!int "10"
-  - !!int "8"
-  - !!int "16"
-  - !!int "3"
-  - !!int "10"
-  - !!int "6"
-"speed": "20 ft., swim 20 ft."
-"condition_immunities": "[[conditions#Prone|prone]]"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 10"
-"languages": ""
-"cr": "2"
-"traits":
-  - "desc": "The ground in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the mouther is [[difficult-terrain-xphb|Difficult Terrain]]."
-    "name": "Aberrant Ground"
-  - "desc": "The mouther babbles incoherently while it doesn't have the [[conditions#Incapacitated|Incapacitated]]\
-      \ condition. *Wisdom Saving Throw:* DC 10, any creature that starts its turn\
-      \ within 20 feet of the mouther while it is babbling. *Failure:* The target\
-      \ rolls 1d8 to determine what it does during the current turn:\n\n- **1-4.**\
-      \ The target does nothing.  \n- **5-6.** The target takes no action or [[bonus-action-xphb|Bonus\
-      \ Action]] and uses all\
-      \ its movement to move in a random direction.  \n- **7-8.** The target makes\
-      \ a melee attack against a randomly determined creature within its reach or\
-      \ does nothing if it can't make such an attack.  "
-    "name": "Gibbering"
-"actions":
-  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 7 (2d6) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
-      \ condition. The target dies if it is reduced to 0 [[hit-points-xphb|Hit Points]]\
-      \ by this attack. Its body is then absorbed into the mouther, leaving only equipment\
-      \ behind."
-    "name": "Bite"
-  - "desc": "*Dexterity Saving Throw:* DC 10, each creature in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
-      \ centered on a point within 30 feet. *Failure:* 7 (2d6) Radiant damage, and\
-      \ the target has the [[conditions#Blinded|Blinded]] condition\
-      \ until the end of the mouther's next turn."
-    "name": "Blinding Spittle (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/aberration/token/gibbering-mouther-xmm.webp"
+
+```ad-statblock
+title: Gibbering Mouther
+![](/Compendium/bestiary/aberration/token/gibbering-mouther-xmm.webp#token)
+*Medium aberration, Chaotic Neutral*
+
+- **Armor Class** 9 
+- **Hit Points** 52 (`7d8 + 21`) 
+- **Speed** 20 ft., swim 20 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)| 8 (-1)|16 (+3)| 3 (-4)|10 (+0)| 6 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Condition Immunities** [prone](/Compendium/rules/conditions.md#Prone)
+- **Languages** —
+- **Challenge** 2
+
+## Traits
+
+***Aberrant Ground.*** The ground in a 10-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the mouther is [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md).
+
+***Gibbering.*** The mouther babbles incoherently while it doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition. *Wisdom Saving Throw:* DC 10, any creature that starts its turn within 20 feet of the mouther while it is babbling. *Failure:* The target rolls `1d8` to determine what it does during the current turn:
+
+- **1-4.** The target does nothing.  
+- **5-6.** The target takes no action or [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md) and uses all its movement to move in a random direction.  
+- **7-8.** The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.  
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `+2`, reach 5 ft. *Hit:* 7 (`2d6`) Piercing damage. If the target is a Medium or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition. The target dies if it is reduced to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) by this attack. Its body is then absorbed into the mouther, leaving only equipment behind.
+
+***Blinding Spittle (Recharge 5-6).*** *Dexterity Saving Throw:* DC 10, each creature in a 10-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within 30 feet. *Failure:* 7 (`2d6`) Radiant damage, and the target has the [Blinded](/Compendium/rules/conditions.md#Blinded) condition until the end of the mouther's next turn.
 ```
 ^statblock
+
+## Environment
+
+underdark

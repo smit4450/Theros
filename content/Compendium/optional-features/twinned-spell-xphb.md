@@ -1,15 +1,14 @@
 ---
-title: Twinned Spell
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - optional-feature/mm
 aliases:
-- Twinned Spell
+- "Twinned Spell"
 ---
 # Twinned Spell
 *Source: Player's Handbook (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
-When you cast a spell, such as [[charm-person-xphb|Charm Person]], that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
+When you cast a spell, such as [Charm Person](/Compendium/spells/charm-person-xphb.md), that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.

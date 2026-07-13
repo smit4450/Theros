@@ -1,16 +1,15 @@
 ---
-title: Wild Magic Sorcery
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - subclass/sorcerer/wild-magic
 aliases:
-- Wild Magic Sorcery
+- "Wild Magic Sorcery"
 ---
 # Wild Magic Sorcery
-*[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
+*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 149*  
 
 > [!tldr] Class and Feature Progression
@@ -44,14 +43,13 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Wild Magic Sorcery (Level 3)
+![](/Compendium/classes/img/wild-magic-sorcerer.webp#right)
 
 *Unleash Chaotic Magic*
 
 Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. Whatever its source, this magic churns within you, waiting for any outlet.
+
+## Subclass Features
 
 ### Wild Magic Surge (Level 3)
 
@@ -59,24 +57,24 @@ Your spellcasting can unleash surges of untamed magic. Once per turn, you can ro
 
 If the magical effect is a spell, it is too wild to be affected by your Metamagic.
 
-![[wild-magic-surge-xphb|Wild Magic Surge]]
+![Wild Magic Surge](/Compendium/tables/wild-magic-surge-xphb.md)
 
 ### Tides of Chaos (Level 3)
 
-You can manipulate chaos itself to give yourself [[advantage-xphb|Advantage]] on one [[d20-test-xphb|D20 Test]] before you roll the `d20`. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a [[long-rest-xphb|Long Rest]] before you can use this feature again.
+You can manipulate chaos itself to give yourself [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on one [D20 Test](/Compendium/rules/variant-rules/d20-test-xphb.md) before you roll the `d20`. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) before you can use this feature again.
 
-If you do cast a Sorcerer spell with a spell slot before you finish a [[long-rest-xphb|Long Rest]], you automatically roll on the [[wild-magic-surge-xphb|Wild Magic Surge]] table.
+If you do cast a Sorcerer spell with a spell slot before you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), you automatically roll on the [Wild Magic Surge](/Compendium/tables/wild-magic-surge-xphb.md) table.
 
 ### Bend Luck (Level 6)
 
-You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the `d20` for a [[d20-test-xphb|D20 Test]], you can take a [[reaction-xphb|Reaction]] and spend 1 Sorcery Point to roll `1d4` and apply the number rolled as a bonus or penalty (your choice) to the `d20` roll.
+You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the `d20` for a [D20 Test](/Compendium/rules/variant-rules/d20-test-xphb.md), you can take a [Reaction](/Compendium/rules/variant-rules/reaction-xphb.md) and spend 1 Sorcery Point to roll `1d4` and apply the number rolled as a bonus or penalty (your choice) to the `d20` roll.
 
 ### Controlled Chaos (Level 14)
 
-You gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild [[actions#Magic|Magic]] Surge table, you can roll twice and use either number.
+You gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild Magic Surge table, you can roll twice and use either number.
 
 ### Tamed Surge (Level 18)
 
-Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the [[wild-magic-surge-xphb|Wild Magic Surge]] table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
+Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the [Wild Magic Surge](/Compendium/tables/wild-magic-surge-xphb.md) table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
 
-Once you use this feature, you can't do so again until you finish a [[long-rest-xphb|Long Rest]].
+Once you use this feature, you can't do so again until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).

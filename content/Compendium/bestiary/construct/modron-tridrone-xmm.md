@@ -1,21 +1,21 @@
 ---
-title: Modron Tridrone
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-2
 - monster/environment/mechanus
 - monster/environment/planar
 - monster/size/medium
 - monster/type/construct
-statblock: inline
-aliases: ["Modron Tridrone"]
+aliases:
+- "Modron Tridrone"
 ---
 # Modron Tridrone
 *Source: Monster Manual (2024) p. 217*  
+![](/Compendium/bestiary/construct/img/modron-tridrone.webp#right)
 
-![](Compendium/bestiary/construct/img/modron-tridrone.webp#right|850)  
 Tridrones oversee lesser modrons and lead them in battle. They're suspicious of any data provided by non-modrons.
 
 ## Modrons
@@ -55,43 +55,42 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > 
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
+
 ## Statblock
 
-```statblock
-"name": "Modron Tridrone (XMM)"
-"size": "Medium"
-"type": "construct"
-"alignment": "Lawful Neutral"
-"ac": !!int "15"
-"hp": !!int "16"
-"hit_dice": "3d8 + 3"
-"modifier": !!int "1"
-"stats":
-  - !!int "12"
-  - !!int "13"
-  - !!int "12"
-  - !!int "9"
-  - !!int "10"
-  - !!int "9"
-"speed": "30 ft."
-"condition_immunities": "[[conditions#Charmed|charmed]]"
-"senses": "[[senses#Truesight|Truesight]] 120 ft., passive Perception\
-  \ 10"
-"languages": "Modron"
-"cr": "1/2"
-"traits":
-  - "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
-      \ it was wearing or carrying."
-    "name": "Disintegration"
-"actions":
-  - "desc": "The modron makes three Clockwork Spear attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* +3, reach 5 ft. or range 120 ft. *Hit:*\
-      \ 4 (1d6 + 1) Force damage. *Hit or Miss:* The spear magically returns to\
-      \ the modron's hand immediately after a ranged attack."
-    "name": "Clockwork Spear"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/construct/token/modron-tridrone-xmm.webp"
+```ad-statblock
+title: Modron Tridrone
+![](/Compendium/bestiary/construct/token/modron-tridrone-xmm.webp#token)
+*Medium construct, Lawful Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 16 (`3d8 + 3`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|13 (+1)|12 (+1)| 9 (-1)|10 (+0)| 9 (-1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Truesight](/Compendium/rules/senses.md#Truesight) 120 ft., passive Perception 10
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed)
+- **Languages** Modron
+- **Challenge** 1/2
+
+## Traits
+
+***Disintegration.*** If the modron dies, it disintegrates into dust, leaving behind anything it was wearing or carrying.
+
+## Actions
+
+***Multiattack.*** The modron makes three Clockwork Spear attacks.
+
+***Clockwork Spear.*** *Melee  or Ranged Attack Roll:* `+3`, reach 5 ft. or range 120 ft. *Hit:* 4 (`1d6 + 1`) Force damage. *Hit or Miss:* The spear magically returns to the modron's hand immediately after a ranged attack.
 ```
 ^statblock
+
+## Environment
+
+planar, mechanus

@@ -1,11 +1,11 @@
 ---
-title: Boots of False Tracks
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/common
-aliases: 
+aliases:
 - "Boots of False Tracks"
 ---
 # Boots of False Tracks

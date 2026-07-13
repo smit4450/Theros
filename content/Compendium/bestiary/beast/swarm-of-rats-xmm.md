@@ -1,9 +1,9 @@
 ---
-title: Swarm of Rats
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-4
 - monster/environment/forest
 - monster/environment/swamp
@@ -11,57 +11,54 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/beast
-statblock: inline
-aliases: ["Swarm of Rats"]
+aliases:
+- "Swarm of Rats"
 ---
 # Swarm of Rats
 *Source: Monster Manual (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/beast/img/rats.webp#right)
 
-![](Compendium/bestiary/beast/img/rats.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
-![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
-![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
-![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
-```statblock
-"name": "Swarm of Rats (XMM)"
-"size": "Medium"
-"type": "beast"
-"alignment": "Unaligned"
-"ac": !!int "10"
-"hp": !!int "14"
-"hit_dice": "4d8 - 4"
-"modifier": !!int "0"
-"stats":
-  - !!int "9"
-  - !!int "11"
-  - !!int "9"
-  - !!int "2"
-  - !!int "10"
-  - !!int "3"
-"speed": "30 ft., climb 30 ft."
-"damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
-  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
-  \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
-"senses": "[[senses#Darkvision|Darkvision]] 30 ft., passive Perception\
-  \ 10"
-"languages": ""
-"cr": "1/4"
-"traits":
-  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
-      \ swarm can move through any opening large enough for a Tiny rat. The swarm\
-      \ can't regain [[hit-points-xphb|Hit Points]]\
-      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
-    "name": "Swarm"
-"actions":
-  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 5 (2d4) Piercing damage,\
-      \ or 2 (1d4) Piercing damage if the swarm is [[conditions#Bloodied|Bloodied]]."
-    "name": "Bites"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/beast/token/swarm-of-rats-xmm.webp"
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
+> [!gallery]
+![A druid calls on animals of the hills and mountains to aid her cause](/Compendium/bestiary/beast/img/animals-hills-and-mountains.webp)
+![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
+![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
+
+```ad-statblock
+title: Swarm of Rats
+![](/Compendium/bestiary/beast/token/swarm-of-rats-xmm.webp#token)
+*Medium beast, Unaligned*
+
+- **Armor Class** 10 
+- **Hit Points** 14 (`4d8 - 4`) 
+- **Speed** 30 ft., climb 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 9 (-1)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 3 (-4)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 30 ft., passive Perception 10
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [stunned](/Compendium/rules/conditions.md#Stunned)
+- **Languages** —
+- **Challenge** 1/4
+
+## Traits
+
+***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) or gain [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md).
+
+## Actions
+
+***Bites.*** *Melee Attack Roll:* `+2`, reach 5 ft. *Hit:* 5 (`2d4`) Piercing damage, or 2 (`1d4`) Piercing damage if the swarm is [Bloodied](/Compendium/rules/conditions.md#Bloodied).
 ```
 ^statblock
+
+## Environment
+
+forest, swamp, underdark, urban

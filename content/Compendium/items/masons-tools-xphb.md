@@ -1,12 +1,12 @@
 ---
-title: "Mason's Tools"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/artisans-tools
 - item/rarity/none
-aliases: 
+aliases:
 - "Mason's Tools"
 ---
 # Mason's Tools
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Strength  
 - **Utilize.** Chisel a symbol or hole in stone (DC 10)  
-- **Craft.** [[block-and-tackle-xphb|Block and Tackle]]  
+- **Craft.** [Block and Tackle](/Compendium/items/block-and-tackle-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

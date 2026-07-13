@@ -1,18 +1,20 @@
 ---
-title: Hex
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/warlock
 - spell/feat/fey-touched
+- spell/feat/magic-initiate
 - spell/level/1st-level
 - spell/school/enchantment
 - spell/subclass/great-old-one-patron
 classes:
 - Warlock
 - Warlock (Great Old One Patron)
-aliases: ["Hex"]
+aliases:
+- "Hex"
 ---
 # Hex
 *1st-level, Enchantment*  
@@ -23,12 +25,12 @@ aliases: ["Hex"]
 - **Components:** V, S, M (the petrified eye of a newt)
 - **Duration:** Concentration, up to 1 hour
 
-You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra `1d6` Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has [[disadvantage-xphb|Disadvantage]] on ability checks made with the chosen ability.
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra `1d6` Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on ability checks made with the chosen ability.
 
-If the target drops to 0 [[hit-points-xphb|Hit Points]] before this spell ends, you can take a [[bonus-action-xphb|Bonus Action]] on a later turn to curse a new creature.
+If the target drops to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) before this spell ends, you can take a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md) on a later turn to curse a new creature.
 
-**Using a Higher-Level Spell Slot.** Your [[conditions#Concentration|Concentration]] can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
+**Using a Higher-Level Spell Slot.** Your [Concentration](/Compendium/rules/conditions.md#Concentration) can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
 
-**Classes**: [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-warlock|Warlock]]
+**Classes**: [Warlock (Great Old One Patron)](/Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/Compendium/lists/list-spells-classes-warlock.md)
 
 *Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

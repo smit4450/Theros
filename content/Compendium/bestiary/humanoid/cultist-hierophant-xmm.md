@@ -1,20 +1,20 @@
 ---
-title: Cultist Hierophant
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/10
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Cultist Hierophant"]
+aliases:
+- "Cultist Hierophant"
 ---
 # Cultist Hierophant
 *Source: Monster Manual (2024) p. 85*  
+![](/Compendium/bestiary/humanoid/img/cultist-hierophant.webp#right)
 
-![](Compendium/bestiary/humanoid/img/cultist-hierophant.webp#right|850)  
 Cultist hierophants are leaders who oversee the lives of their underlings, dictate the edicts of the cult, and interpret their patron's will. They possess supernatural powers gained from the cult's patron, supernatural sources, or the power of their own fanaticism. These leaders know their cult's deepest secrets and often control strange relics, mystical sites, and monstrous servants.
 
 ## Cultists
@@ -22,7 +22,7 @@ Cultist hierophants are leaders who oversee the lives of their underlings, dicta
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
+- **Treasure.** Individual, [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -70,56 +70,48 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
-![](Compendium/bestiary/humanoid/img/cultists.webp#center)  
+
+![](/Compendium/bestiary/humanoid/img/cultists.webp#center)
+
 ## Statblock
 
-```statblock
-"name": "Cultist Hierophant (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "16"
-"hp": !!int "144"
-"hit_dice": "17d8 + 68"
-"modifier": !!int "8"
-"stats":
-  - !!int "14"
-  - !!int "18"
-  - !!int "18"
-  - !!int "13"
-  - !!int "16"
-  - !!int "20"
-"speed": "30 ft."
-"saves":
-  - "wisdom": !!int "7"
-  - "charisma": !!int "9"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
-  - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+9"
-  - "name": "[[skills#Religion|Religion]]"
-    "desc": "+5"
-"senses": "passive Perception 17"
-"languages": "Celestial, Common"
-"cr": "10"
-"actions":
-  - "desc": "The cultist makes three attacks, using Pact Blade or Radiant Ray in any\
-      \ combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 12 (2d6 + 5) Slashing\
-      \ damage plus 18 (4d8) Radiant damage."
-    "name": "Pact Blade"
-  - "desc": "*Ranged Attack Roll:* +9, range 120 ft. *Hit:* 31 (4d12 + 5) Radiant\
-      \ damage."
-    "name": "Radiant Ray"
-  - "desc": "The cultist casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 17):\n\n**At will:** [[thaumaturgy-xphb|Thaumaturgy]]\n\
-      \n**1/day each:** [[jallarzis-storm-of-radiance-xphb|Jallarzi's Storm of Radiance]]\
-      \ (level 7 version), [[mass-suggestion-xphb|Mass Suggestion]]"
-    "name": "Spellcasting"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/humanoid/token/cultist-hierophant-xmm.webp"
+```ad-statblock
+title: Cultist Hierophant
+![](/Compendium/bestiary/humanoid/token/cultist-hierophant-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 16 
+- **Hit Points** 144 (`17d8 + 68`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|18 (+4)|18 (+4)|13 (+1)|16 (+3)|20 (+5)|
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Wisdom +7, Charisma +9
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +7, [Persuasion](/Compendium/rules/skills.md#Persuasion) +9, [Religion](/Compendium/rules/skills.md#Religion) +5
+- **Senses** passive Perception 17
+- **Gear** [breastplate](/Compendium/items/breastplate-xphb.md), [holy symbol](/Compendium/items/holy-symbol-xphb.md)
+- **Languages** Celestial, Common
+- **Challenge** 10
+
+## Actions
+
+***Multiattack.*** The cultist makes three attacks, using Pact Blade or Radiant Ray in any combination.
+
+***Pact Blade.*** *Melee Attack Roll:* `+9`, reach 5 ft. *Hit:* 12 (`2d6 + 5`) Slashing damage plus 18 (`4d8`) Radiant damage.
+
+***Radiant Ray.*** *Ranged Attack Roll:* `+9`, range 120 ft. *Hit:* 31 (`4d12 + 5`) Radiant damage.
+
+***Spellcasting.*** The cultist casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 17):
+
+**At will:** [Thaumaturgy](/Compendium/spells/thaumaturgy-xphb.md)
+
+**1/day each:** [Jallarzi's Storm of Radiance](/Compendium/spells/jallarzis-storm-of-radiance-xphb.md) (level 7 version), [Mass Suggestion](/Compendium/spells/mass-suggestion-xphb.md)
 ```
 ^statblock
+
+## Environment
+
+any

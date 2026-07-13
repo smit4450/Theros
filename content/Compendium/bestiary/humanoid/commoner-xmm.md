@@ -1,20 +1,20 @@
 ---
-title: Commoner
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/0
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Commoner"]
+aliases:
+- "Commoner"
 ---
 # Commoner
 *Source: Monster Manual (2024) p. 77. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/humanoid/img/commoner.webp#right)
 
-![](Compendium/bestiary/humanoid/img/commoner.webp#right|850)  
 ## Commoner
 
 *Everyday Folk*
@@ -101,36 +101,38 @@ Town crier
 Weaver
 
 Youngster
-```statblock
-"name": "Commoner (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "10"
-"hp": !!int "4"
-"hit_dice": "1d8"
-"modifier": !!int "0"
-"stats":
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-"speed": "30 ft."
-"senses": "passive Perception 10"
-"languages": "Common"
-"cr": "0"
-"traits":
-  - "desc": "The commoner has proficiency in one skill of the DM's choice and has\
-      \ [[advantage-xphb|Advantage]] whenever it\
-      \ makes an ability check using that skill."
-    "name": "Training"
-"actions":
-  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 2 (1d4) Bludgeoning damage."
-    "name": "Club"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/humanoid/token/commoner-xmm.webp"
+
+```ad-statblock
+title: Commoner
+![](/Compendium/bestiary/humanoid/token/commoner-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 10 
+- **Hit Points** 4 (`1d8`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** passive Perception 10
+- **Gear** [club](/Compendium/items/club-xphb.md)
+- **Languages** Common
+- **Challenge** 0
+
+## Traits
+
+***Training.*** The commoner has proficiency in one skill of the DM's choice and has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) whenever it makes an ability check using that skill.
+
+## Actions
+
+***Club.*** *Melee Attack Roll:* `+2`, reach 5 ft. *Hit:* 2 (`1d4`) Bludgeoning damage.
 ```
 ^statblock
+
+## Environment
+
+any

@@ -1,12 +1,11 @@
 ---
-title: Settlements by Size
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Settlements by Size
+- "Settlements by Size"
 ---
 # Settlements by Size
 *Source: Dungeon Master's Guide (2024) p. 93* 

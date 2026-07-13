@@ -1,12 +1,12 @@
 ---
-title: "Alchemist's Supplies"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/artisans-tools
 - item/rarity/none
-aliases: 
+aliases:
 - "Alchemist's Supplies"
 ---
 # Alchemist's Supplies
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)  
-- **Craft.** [[acid-xphb|Acid]], [[alchemists-fire-xphb|Alchemist's Fire]], [[component-pouch-xphb|Component Pouch]], [[oil-xphb|Oil]], [[paper-xphb|Paper]], [[perfume-xphb|Perfume]]  
+- **Craft.** [Acid](/Compendium/items/acid-xphb.md), [Alchemist's Fire](/Compendium/items/alchemists-fire-xphb.md), [Component Pouch](/Compendium/items/component-pouch-xphb.md), [Oil](/Compendium/items/oil-xphb.md), [Paper](/Compendium/items/paper-xphb.md), [Perfume](/Compendium/items/perfume-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

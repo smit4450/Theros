@@ -1,19 +1,19 @@
 ---
-title: Cloak of Displacement
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/rare
-aliases: 
+aliases:
 - "Cloak of Displacement"
 ---
 # Cloak of Displacement
 *Wondrous item, rare (requires attunement)*  
-![](Compendium/items/img/cloak-of-displacement.webp#right)
+![](/Compendium/items/img/cloak-of-displacement.webp#right)
 
 
-While you wear this cloak, it magically projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have [[disadvantage-xphb|Disadvantage]] on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while your [[speed-xphb|Speed]] is 0.
+While you wear this cloak, it magically projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while your [Speed](/Compendium/rules/variant-rules/speed-xphb.md) is 0.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

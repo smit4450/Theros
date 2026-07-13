@@ -1,19 +1,18 @@
 ---
-title: Athreos
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/death
 - domain/grave
-aliases: 
-- Athreos
+aliases:
+- "Athreos"
 ---
 # Athreos
 *Source: Mythic Odysseys of Theros p. 37* 
-![](Compendium/deities/img/mot-024-02-03-athreos.webp#symbol)
+![](/Compendium/deities/img/mot-024-02-03-athreos.webp#symbol)
 
 - **Alignment**: Lawful Evil
 - **Domains**: Death, Grave
@@ -45,7 +44,7 @@ Most funeral traditions include small offerings and words of reverence to Athreo
 
 During the feast of the Necrologion, which gives its name to the eighth month in the calendar of Meletis, pious souls silently spend the day reading ancient memoirs or writing messages for their own descendants.
 
-![](Compendium/deities/img/mot-025-02-04.webp#center)
+![](/Compendium/deities/img/mot-025-02-04.webp#center)
 
 > [!readaloud] Myths of Athreos
 > 
@@ -127,7 +126,7 @@ Your piety score to Athreos decreases if you diminish the River Guide's influenc
 
 ### Benefits of Piety
 
-- [[athreoss-devotee-mot|Athreos's Devotee]]  
-- [[athreoss-votary-mot|Athreos's Votary]]  
-- [[athreoss-disciple-mot|Athreos's Disciple]]  
-- [[champion-of-the-passage-mot|Champion of the Passage]]
+- [Athreos's Devotee](/Compendium/rewards/athreoss-devotee-mot.md)  
+- [Athreos's Votary](/Compendium/rewards/athreoss-votary-mot.md)  
+- [Athreos's Disciple](/Compendium/rewards/athreoss-disciple-mot.md)  
+- [Champion of the Passage](/Compendium/rewards/champion-of-the-passage-mot.md)

@@ -1,11 +1,11 @@
 ---
-title: Cap of Water Breathing
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/uncommon
-aliases: 
+aliases:
 - "Cap of Water Breathing"
 ---
 # Cap of Water Breathing
@@ -13,6 +13,6 @@ aliases:
 
 
 
-While wearing this cap underwater, you can take a [[actions#Magic|Magic]] action to create a bubble of air around your head. This bubble allows you to breathe normally underwater. This bubble stays with you until the cap is removed or you are no longer underwater.
+While wearing this cap underwater, you can take a [Magic](/Compendium/rules/actions.md#Magic) action to create a bubble of air around your head. This bubble allows you to breathe normally underwater. This bubble stays with you until the cap is removed or you are no longer underwater.
 
 *Source: Dungeon Master's Guide (2024) p. 242*

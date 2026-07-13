@@ -1,12 +1,11 @@
 ---
-title: Round Down
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Round Down
+- "Round Down"
 ---
 # Round Down
 *Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

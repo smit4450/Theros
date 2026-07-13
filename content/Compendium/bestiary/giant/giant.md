@@ -1,27 +1,37 @@
 ---
-title: Index of Giant
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
 # Index of Giant
 
-- [[cloud-giant-xmm|Cloud Giant]]
-- [[cyclops-oracle-xmm|Cyclops Oracle]]
-- [[cyclops-sentry-xmm|Cyclops Sentry]]
-- [[doomwake-giant-mot|Doomwake Giant]]
-- [[ettin-xmm|Ettin]]
-- [[fire-giant-xmm|Fire Giant]]
-- [[fomorian-xmm|Fomorian]]
-- [[frost-giant-xmm|Frost Giant]]
-- [[hill-giant-xmm|Hill Giant]]
-- [[hundred-handed-one-mot|Hundred-Handed One]]
-- [[ogre-xmm|Ogre]]
-- [[ogrillon-ogre-xmm|Ogrillon Ogre]]
-- [[stone-giant-xmm|Stone Giant]]
-- [[storm-giant-xmm|Storm Giant]]
-- [[troll-limb-xmm|Troll Limb]]
-- [[troll-xmm|Troll]]
+- [Arbor Colossus](./arbor-colossus-tbvix.md)
+- [Bearer of the Heavens](./bearer-of-the-heavens-tbvix.md)
+- [Benthic Giant](./benthic-giant-tbvix.md)
+- [Cloud Giant](./cloud-giant-xmm.md)
+- [Cyclops Oracle](./cyclops-oracle-xmm.md)
+- [Cyclops Sentry](./cyclops-sentry-xmm.md)
+- [Doomwake Giant](./doomwake-giant-mot.md)
+- [Doomwake Giant](./doomwake-giant-tbvix.md)
+- [Ettin](./ettin-xmm.md)
+- [Fire Giant](./fire-giant-xmm.md)
+- [Fomorian](./fomorian-xmm.md)
+- [Frost Giant](./frost-giant-xmm.md)
+- [Gluttonous Cyclops](./gluttonous-cyclops-tbvix.md)
+- [Hill Giant](./hill-giant-xmm.md)
+- [Hundred-Handed One](./hundred-handed-one-mot.md)
+- [Hundred-Handed One](./hundred-handed-one-tbvix.md)
+- [Ill-Tempered Cyclops](./ill-tempered-cyclops-tbvix.md)
+- [Marshmist Titan](./marshmist-titan-tbvix.md)
+- [Ogre](./ogre-xmm.md)
+- [Ogrillon Ogre](./ogrillon-ogre-xmm.md)
+- [Pharagax Giant](./pharagax-giant-tbvix.md)
+- [Quarry Colossus](./quarry-colossus-tbvix.md)
+- [Silent Artisan](./silent-artisan-tbvix.md)
+- [Stone Giant](./stone-giant-xmm.md)
+- [Storm Giant](./storm-giant-xmm.md)
+- [Thunder Brute](./thunder-brute-tbvix.md)
+- [Titan of Erebos](./titan-of-erebos-tbvix.md)
+- [Troll](./troll-xmm.md)
+- [Troll Limb](./troll-limb-xmm.md)

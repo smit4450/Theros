@@ -1,12 +1,11 @@
 ---
-title: "Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations
+- "Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations"
 ---
 # Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 106* 

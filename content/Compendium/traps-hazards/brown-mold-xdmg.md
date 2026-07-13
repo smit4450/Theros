@@ -1,12 +1,11 @@
 ---
-title: Brown Mold
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Brown Mold
+- "Brown Mold"
 ---
 # Brown Mold
 *Generic Hazard*  
@@ -15,6 +14,6 @@ Brown mold resembles a furry, light-brown carpet. This fungus feeds on warmth, d
 
 When a creature enters a space within 5 feet of the mold for the first time on a turn or starts its turn there, the creature makes a DC 12 Constitution saving throw, taking 22 (`4d10`) Cold damage on a failed save or half as much damage on a successful one.
 
-Brown mold has [[immunity-xphb|Immunity]] to Fire damage, and any source of fire brought within 5 feet of it causes the mold to instantly expand across a surface and toward the fire, creating a new patch that covers a 10-foot square. A patch of brown mold exposed to an effect that deals any amount of Cold damage is destroyed instantly.
+Brown mold has [Immunity](/Compendium/rules/variant-rules/immunity-xphb.md) to Fire damage, and any source of fire brought within 5 feet of it causes the mold to instantly expand across a surface and toward the fire, creating a new patch that covers a 10-foot square. A patch of brown mold exposed to an effect that deals any amount of Cold damage is destroyed instantly.
 
 *Source: Dungeon Master's Guide (2024) p. 76*

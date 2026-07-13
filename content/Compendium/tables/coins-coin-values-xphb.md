@@ -1,12 +1,11 @@
 ---
-title: Coins; Coin Values
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Coins; Coin Values
+- "Coins; Coin Values"
 ---
 # Coins; Coin Values
 *Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

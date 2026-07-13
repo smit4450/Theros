@@ -1,12 +1,11 @@
 ---
-title: "5: Sinister Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- 5: Sinister Names
+- "5: Sinister Names"
 ---
 # 5: Sinister Names
 *Source: Dungeon Master's Guide (2024) p. 84* 

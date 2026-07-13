@@ -1,13 +1,12 @@
 ---
-title: "Karametra's Devotee"
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - reward/piety-trait
 aliases:
-- Karametra's Devotee
+- "Karametra's Devotee"
 ---
 # Karametra's Devotee
 *Piety Trait*  

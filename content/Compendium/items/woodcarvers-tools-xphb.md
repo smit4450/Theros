@@ -1,12 +1,12 @@
 ---
-title: "Woodcarver's Tools"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/artisans-tools
 - item/rarity/none
-aliases: 
+aliases:
 - "Woodcarver's Tools"
 ---
 # Woodcarver's Tools
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Dexterity  
 - **Utilize.** Carve a pattern in wood (DC 10)  
-- **Craft.** [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], Ranged weapons (except [[pistol-xphb|Pistol]], [[musket-xphb|Musket]], and  [[sling-xphb|Sling]]), [[arcane-focus-xphb|Arcane Focus]], [[arrows-20-xphb|Arrows]], [[bolts-20-xphb|Bolts]], [[druidic-focus-xphb|Druidic Focus]], [[ink-pen-xphb|Ink Pen]], [[needles-50-xphb|Needles]]  
+- **Craft.** [Club](/Compendium/items/club-xphb.md), [Greatclub](/Compendium/items/greatclub-xphb.md), [Quarterstaff](/Compendium/items/quarterstaff-xphb.md), Ranged weapons (except [Pistol](/Compendium/items/pistol-xphb.md), [Musket](/Compendium/items/musket-xphb.md), and [Sling](/Compendium/items/sling-xphb.md)), [Arcane Focus](/Compendium/items/arcane-focus-xphb.md), [Arrows](/Compendium/items/arrows-20-xphb.md), [Bolts](/Compendium/items/bolts-20-xphb.md), [Druidic Focus](/Compendium/items/druidic-focus-xphb.md), [Ink Pen](/Compendium/items/ink-pen-xphb.md), [Needles](/Compendium/items/needles-50-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,17 +1,17 @@
 ---
-title: Potion of Storm Giant Strength
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/legendary
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Storm Giant Strength"
 ---
 # Potion of Storm Giant Strength
 *Potion, legendary*  
-![](Compendium/items/img/potion-of-storm-giant-strength.webp#right)
+![](/Compendium/items/img/potion-of-storm-giant-strength.webp#right)
 
 - **Weight**: 0.5 lbs.
 

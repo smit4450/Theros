@@ -1,12 +1,11 @@
 ---
-title: "Variant: Training to Gain Levels; Training to Gain Levels"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Variant: Training to Gain Levels; Training to Gain Levels
+- "Variant: Training to Gain Levels; Training to Gain Levels"
 ---
 # Variant: Training to Gain Levels; Training to Gain Levels
 *Source: Dungeon Master's Guide (2024) p. 49* 

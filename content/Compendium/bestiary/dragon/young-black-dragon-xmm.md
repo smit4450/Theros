@@ -1,20 +1,20 @@
 ---
-title: Young Black Dragon
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/7
 - monster/environment/swamp
 - monster/size/large
 - monster/type/dragon/chromatic
-statblock: inline
-aliases: ["Young Black Dragon"]
+aliases:
+- "Young Black Dragon"
 ---
 # Young Black Dragon
 *Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/dragon/img/black-dragon.webp#right)
 
-![](Compendium/bestiary/dragon/img/black-dragon.webp#right|850)  
 Most young black dragons claim a hidden lair—typically a dismal place accessible through deadly ruins or a treacherous bog. They delight in exploiting fearful servants and might terrorize small communities or impress groups of kobolds or troglodytes into their service. Some ally themselves with powerful undead such as death knights and vampires or aberrations such as aboleths and kuo-toa.
 
 ## Black Dragons
@@ -22,7 +22,7 @@ Most young black dragons claim a hidden lair—typically a dismal place accessib
 *Dragons of Decay and Despair*
 
 - **Habitat.** Swamp  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 
@@ -33,54 +33,44 @@ Black dragons hoard tarnished symbols of hope and relics of fallen empires. The 
 ### Black Dragon Lairs
 
 Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by decay.
+
 ## Statblock
 
-```statblock
-"name": "Young Black Dragon (XMM)"
-"size": "Large"
-"type": "dragon"
-"subtype": "chromatic"
-"alignment": "Chaotic Evil"
-"ac": !!int "18"
-"hp": !!int "127"
-"hit_dice": "15d10 + 45"
-"modifier": !!int "5"
-"stats":
-  - !!int "19"
-  - !!int "14"
-  - !!int "17"
-  - !!int "12"
-  - !!int "11"
-  - !!int "15"
-"speed": "40 ft., fly 80 ft., swim 40 ft."
-"saves":
-  - "dexterity": !!int "5"
-  - "wisdom": !!int "3"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
-"damage_immunities": "acid"
-"senses": "[[senses#Blindsight|Blindsight]] 30 ft., [[senses#Darkvision|Darkvision]]\
-  \ 120 ft., passive Perception 16"
-"languages": "Common, Draconic"
-"cr": "7"
-"traits":
-  - "desc": "The dragon can breathe air and water."
-    "name": "Amphibious"
-"actions":
-  - "desc": "The dragon makes three Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 9 (2d4 + 4) Slashing\
-      \ damage plus 3 (1d6) Acid damage."
-    "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 14, each creature in a 30-foot-long, 5-foot-wide\
-      \ [[line-area-of-effect-xphb|Line]]. *Failure:*\
-      \ 49 (14d6) Acid damage. *Success:* Half damage."
-    "name": "Acid Breath (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/dragon/token/young-black-dragon-xmm.webp"
+```ad-statblock
+title: Young Black Dragon
+![](/Compendium/bestiary/dragon/token/young-black-dragon-xmm.webp#token)
+*Large dragon (chromatic), Chaotic Evil*
+
+- **Armor Class** 18 
+- **Hit Points** 127 (`15d10 + 45`) 
+- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|14 (+2)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +5, Wisdom +3
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +6, [Stealth](/Compendium/rules/skills.md#Stealth) +5
+- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Damage Immunities** acid
+- **Languages** Common, Draconic
+- **Challenge** 7
+
+## Traits
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 9 (`2d4 + 4`) Slashing damage plus 3 (`1d6`) Acid damage.
+
+***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 14, each creature in a 30-foot-long, 5-foot-wide [Line](/Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* 49 (`14d6`) Acid damage. *Success:* Half damage.
 ```
 ^statblock
+
+## Environment
+
+swamp

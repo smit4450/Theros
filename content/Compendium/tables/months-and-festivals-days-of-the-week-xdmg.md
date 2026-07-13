@@ -1,12 +1,11 @@
 ---
-title: Months and Festivals; Days of the Week
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Months and Festivals; Days of the Week
+- "Months and Festivals; Days of the Week"
 ---
 # Months and Festivals; Days of the Week
 *Source: Dungeon Master's Guide (2024) p. 146* 

@@ -1,12 +1,12 @@
 ---
-title: Ring of Cold Resistance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/rare
 - item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Cold Resistance"
 ---
 # Ring of Cold Resistance
@@ -14,6 +14,6 @@ aliases:
 
 
 
-You have [[resistance-rules-xphb|Resistance]] to cold damage while wearing this ring. The ring is set with tourmaline.
+You have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to cold damage while wearing this ring. The ring is set with tourmaline.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,423 +1,422 @@
 ---
-title: Monsters A to Z
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 aliases:
-- Monsters A to Z
+- "Monsters A to Z"
 ---
 # Monsters A to Z
 *Source: Monster Manual (2025), p. 10* 
 
-- [[aarakocra-aeromancer-xmm|Aarakocra Aeromancer]]  
-- [[aarakocra-skirmisher-xmm|Aarakocra Skirmisher]]  
-- [[aboleth-legendary-xmm|Aboleth]]  
-- [[air-elemental-xmm|Air Elemental]]  
-- [[animal-lord-xmm|Animal Lord]]  
-- [[animated-armor-xmm|Animated Armor]]  
-- [[animated-broom-xmm|Animated Broom]]  
-- [[animated-flying-sword-xmm|Animated Flying Sword]]  
-- [[animated-rug-of-smothering-xmm|Animated Rug of Smothering]]  
-- [[ankheg-xmm|Ankheg]]  
-- [[arcanaloth-xmm|Arcanaloth]]  
-- [[arch-hag-legendary-xmm|Arch-hag]]  
-- [[assassin-xmm|Assassin]]  
-- [[awakened-shrub-xmm|Awakened Shrub]]  
-- [[awakened-tree-xmm|Awakened Tree]]  
-- [[axe-beak-xmm|Axe Beak]]  
-- [[giant-axe-beak-xmm|Giant Axe Beak]]  
-- [[azer-pyromancer-xmm|Azer Pyromancer]]  
-- [[azer-sentinel-xmm|Azer Sentinel]]  
-- [[balor-xmm|Balor]]  
-- [[bandit-xmm|Bandit]]  
-- [[bandit-captain-xmm|Bandit Captain]]  
-- [[bandit-crime-lord-xmm|Bandit Crime Lord]]  
-- [[bandit-deceiver-xmm|Bandit Deceiver]]  
-- [[banshee-xmm|Banshee]]  
-- [[barbed-devil-xmm|Barbed Devil]]  
-- [[barlgura-xmm|Barlgura]]  
-- [[basilisk-xmm|Basilisk]]  
-- [[bearded-devil-xmm|Bearded Devil]]  
-- [[behir-xmm|Behir]]  
-- [[beholder-legendary-xmm|Beholder]]  
-- [[berserker-xmm|Berserker]]  
-- [[berserker-commander-xmm|Berserker Commander]]  
-- [[black-dragon-wyrmling-xmm|Black Dragon Wyrmling]]  
-- [[young-black-dragon-xmm|Young Black Dragon]]  
-- [[adult-black-dragon-xmm|Adult Black Dragon]]  
-- [[ancient-black-dragon-xmm|Ancient Black Dragon]]  
-- [[black-pudding-xmm|Black Pudding]]  
-- [[needle-blight-xmm|Needle Blight]]  
-- [[twig-blight-xmm|Twig Blight]]  
-- [[tree-blight-xmm|Tree Blight]]  
-- [[vine-blight-xmm|Vine Blight]]  
-- [[gulthias-blight-xmm|Gulthias Blight]]  
-- [[blink-dog-xmm|Blink Dog]]  
-- [[blob-of-annihilation-xmm|Blob of Annihilation]]  
-- [[blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]]  
-- [[young-blue-dragon-xmm|Young Blue Dragon]]  
-- [[adult-blue-dragon-xmm|Adult Blue Dragon]]  
-- [[ancient-blue-dragon-xmm|Ancient Blue Dragon]]  
-- [[bone-devil-xmm|Bone Devil]]  
-- [[bone-naga-xmm|Bone Naga]]  
-- [[brass-dragon-wyrmling-xmm|Brass Dragon Wyrmling]]  
-- [[young-brass-dragon-xmm|Young Brass Dragon]]  
-- [[adult-brass-dragon-xmm|Adult Brass Dragon]]  
-- [[ancient-brass-dragon-xmm|Ancient Brass Dragon]]  
-- [[bronze-dragon-wyrmling-xmm|Bronze Dragon Wyrmling]]  
-- [[young-bronze-dragon-xmm|Young Bronze Dragon]]  
-- [[adult-bronze-dragon-xmm|Adult Bronze Dragon]]  
-- [[ancient-bronze-dragon-xmm|Ancient Bronze Dragon]]  
-- [[bugbear-stalker-xmm|Bugbear Stalker]]  
-- [[bugbear-warrior-xmm|Bugbear Warrior]]  
-- [[bulette-xmm|Bulette]]  
-- [[bulette-pup-xmm|Bulette Pup]]  
-- [[bullywug-bog-sage-xmm|Bullywug Bog Sage]]  
-- [[bullywug-warrior-xmm|Bullywug Warrior]]  
-- [[cambion-xmm|Cambion]]  
-- [[carrion-crawler-xmm|Carrion Crawler]]  
-- [[centaur-trooper-xmm|Centaur Trooper]]  
-- [[centaur-warden-xmm|Centaur Warden]]  
-- [[chain-devil-xmm|Chain Devil]]  
-- [[chasme-xmm|Chasme]]  
-- [[chimera-xmm|Chimera]]  
-- [[chuul-xmm|Chuul]]  
-- [[clay-golem-xmm|Clay Golem]]  
-- [[cloaker-xmm|Cloaker]]  
-- [[cloud-giant-xmm|Cloud Giant]]  
-- [[cockatrice-xmm|Cockatrice]]  
-- [[cockatrice-regent-xmm|Cockatrice Regent]]  
-- [[colossus-xmm|Colossus]]  
-- [[commoner-xmm|Commoner]]  
-- [[copper-dragon-wyrmling-xmm|Copper Dragon Wyrmling]]  
-- [[young-copper-dragon-xmm|Young Copper Dragon]]  
-- [[adult-copper-dragon-xmm|Adult Copper Dragon]]  
-- [[ancient-copper-dragon-xmm|Ancient Copper Dragon]]  
-- [[couatl-xmm|Couatl]]  
-- [[crawling-claw-xmm|Crawling Claw]]  
-- [[swarm-of-crawling-claws-xmm|Swarm of Crawling Claws]]  
-- [[cultist-xmm|Cultist]]  
-- [[cultist-fanatic-xmm|Cultist Fanatic]]  
-- [[cultist-hierophant-xmm|Cultist Hierophant]]  
-- [[aberrant-cultist-xmm|Aberrant Cultist]]  
-- [[death-cultist-xmm|Death Cultist]]  
-- [[elemental-cultist-xmm|Elemental Cultist]]  
-- [[fiend-cultist-xmm|Fiend Cultist]]  
-- [[cyclops-oracle-xmm|Cyclops Oracle]]  
-- [[cyclops-sentry-xmm|Cyclops Sentry]]  
-- [[dao-xmm|Dao]]  
-- [[darkmantle-xmm|Darkmantle]]  
-- [[death-dog-xmm|Death Dog]]  
-- [[death-knight-xmm|Death Knight]]  
-- [[death-knight-aspirant-xmm|Death Knight Aspirant]]  
-- [[death-tyrant-legendary-xmm|Death Tyrant]]  
-- [[demilich-legendary-xmm|Demilich]]  
-- [[deva-xmm|Deva]]  
-- [[displacer-beast-xmm|Displacer Beast]]  
-- [[djinni-xmm|Djinni]]  
-- [[doppelganger-xmm|Doppelganger]]  
-- [[dracolich-legendary-xmm|Dracolich]]  
-- [[dragon-turtle-xmm|Dragon Turtle]]  
-- [[dretch-xmm|Dretch]]  
-- [[swarm-of-dretches-xmm|Swarm of Dretches]]  
-- [[drider-xmm|Drider]]  
-- [[druid-xmm|Druid]]  
-- [[dryad-xmm|Dryad]]  
-- [[earth-elemental-xmm|Earth Elemental]]  
-- [[efreeti-xmm|Efreeti]]  
-- [[elemental-cataclysm-xmm|Elemental Cataclysm]]  
-- [[empyrean-iota-xmm|Empyrean Iota]]  
-- [[empyrean-xmm|Empyrean]]  
-- [[erinyes-xmm|Erinyes]]  
-- [[ettercap-xmm|Ettercap]]  
-- [[ettin-xmm|Ettin]]  
-- [[faerie-dragon-adult-xmm|Faerie Dragon Adult]]  
-- [[faerie-dragon-youth-xmm|Faerie Dragon Youth]]  
-- [[fire-elemental-xmm|Fire Elemental]]  
-- [[fire-giant-xmm|Fire Giant]]  
-- [[flameskull-xmm|Flameskull]]  
-- [[flesh-golem-xmm|Flesh Golem]]  
-- [[flumph-xmm|Flumph]]  
-- [[fomorian-xmm|Fomorian]]  
-- [[frost-giant-xmm|Frost Giant]]  
-- [[gas-spore-fungus-xmm|Gas Spore Fungus]]  
-- [[shrieker-fungus-xmm|Shrieker Fungus]]  
-- [[violet-fungus-xmm|Violet Fungus]]  
-- [[violet-fungus-necrohulk-xmm|Violet Fungus Necrohulk]]  
-- [[galeb-duhr-xmm|Galeb Duhr]]  
-- [[gargoyle-xmm|Gargoyle]]  
-- [[gelatinous-cube-xmm|Gelatinous Cube]]  
-- [[ghast-xmm|Ghast]]  
-- [[ghast-gravecaller-xmm|Ghast Gravecaller]]  
-- [[ghost-xmm|Ghost]]  
-- [[ghoul-xmm|Ghoul]]  
-- [[lacedon-ghoul-xmm|Lacedon Ghoul]]  
-- [[gibbering-mouther-xmm|Gibbering Mouther]]  
-- [[githyanki-warrior-xmm|Githyanki Warrior]]  
-- [[githyanki-dracomancer-xmm|Githyanki Dracomancer]]  
-- [[githyanki-knight-xmm|Githyanki Knight]]  
-- [[githzerai-monk-xmm|Githzerai Monk]]  
-- [[githzerai-psion-xmm|Githzerai Psion]]  
-- [[githzerai-zerth-xmm|Githzerai Zerth]]  
-- [[glabrezu-xmm|Glabrezu]]  
-- [[gladiator-xmm|Gladiator]]  
-- [[gnoll-pack-lord-xmm|Gnoll Pack Lord]]  
-- [[gnoll-warrior-xmm|Gnoll Warrior]]  
-- [[gnoll-demoniac-xmm|Gnoll Demoniac]]  
-- [[gnoll-fang-of-yeenoghu-xmm|Gnoll Fang of Yeenoghu]]  
-- [[goblin-minion-xmm|Goblin Minion]]  
-- [[goblin-warrior-xmm|Goblin Warrior]]  
-- [[goblin-boss-xmm|Goblin Boss]]  
-- [[goblin-hexer-xmm|Goblin Hexer]]  
-- [[gold-dragon-wyrmling-xmm|Gold Dragon Wyrmling]]  
-- [[young-gold-dragon-xmm|Young Gold Dragon]]  
-- [[adult-gold-dragon-xmm|Adult Gold Dragon]]  
-- [[ancient-gold-dragon-xmm|Ancient Gold Dragon]]  
-- [[gorgon-xmm|Gorgon]]  
-- [[brazen-gorgon-xmm|Brazen Gorgon]]  
-- [[goristro-xmm|Goristro]]  
-- [[gray-ooze-xmm|Gray Ooze]]  
-- [[psychic-gray-ooze-xmm|Psychic Gray Ooze]]  
-- [[green-dragon-wyrmling-xmm|Green Dragon Wyrmling]]  
-- [[young-green-dragon-xmm|Young Green Dragon]]  
-- [[adult-green-dragon-xmm|Adult Green Dragon]]  
-- [[ancient-green-dragon-xmm|Ancient Green Dragon]]  
-- [[green-hag-xmm|Green Hag]]  
-- [[grell-xmm|Grell]]  
-- [[grick-xmm|Grick]]  
-- [[grick-ancient-xmm|Grick Ancient]]  
-- [[griffon-xmm|Griffon]]  
-- [[grimlock-xmm|Grimlock]]  
-- [[guardian-naga-xmm|Guardian Naga]]  
-- [[guard-xmm|Guard]]  
-- [[guard-captain-xmm|Guard Captain]]  
-- [[half-dragon-xmm|Half-Dragon]]  
-- [[harpy-xmm|Harpy]]  
-- [[hell-hound-xmm|Hell Hound]]  
-- [[helmed-horror-xmm|Helmed Horror]]  
-- [[hezrou-xmm|Hezrou]]  
-- [[hill-giant-xmm|Hill Giant]]  
-- [[hippogriff-xmm|Hippogriff]]  
-- [[hobgoblin-warrior-xmm|Hobgoblin Warrior]]  
-- [[hobgoblin-captain-xmm|Hobgoblin Captain]]  
-- [[hobgoblin-warlord-xmm|Hobgoblin Warlord]]  
-- [[homunculus-xmm|Homunculus]]  
-- [[hook-horror-xmm|Hook Horror]]  
-- [[horned-devil-xmm|Horned Devil]]  
-- [[hydra-xmm|Hydra]]  
-- [[ice-devil-xmm|Ice Devil]]  
-- [[imp-xmm|Imp]]  
-- [[incubus-xmm|Incubus]]  
-- [[intellect-devourer-xmm|Intellect Devourer]]  
-- [[invisible-stalker-xmm|Invisible Stalker]]  
-- [[iron-golem-xmm|Iron Golem]]  
-- [[jackalwere-xmm|Jackalwere]]  
-- [[kenku-xmm|Kenku]]  
-- [[knight-xmm|Knight]]  
-- [[questing-knight-xmm|Questing Knight]]  
-- [[kobold-warrior-xmm|Kobold Warrior]]  
-- [[winged-kobold-xmm|Winged Kobold]]  
-- [[kraken-legendary-xmm|Kraken]]  
-- [[kuo-toa-xmm|Kuo-toa]]  
-- [[kuo-toa-monitor-xmm|Kuo-toa Monitor]]  
-- [[kuo-toa-whip-xmm|Kuo-toa Whip]]  
-- [[kuo-toa-archpriest-xmm|Kuo-toa Archpriest]]  
-- [[lamia-xmm|Lamia]]  
-- [[larva-xmm|Larva]]  
-- [[swarm-of-larvae-xmm|Swarm of Larvae]]  
-- [[lemure-xmm|Lemure]]  
-- [[swarm-of-lemures-xmm|Swarm of Lemures]]  
-- [[lich-legendary-xmm|Lich]]  
-- [[lizardfolk-geomancer-xmm|Lizardfolk Geomancer]]  
-- [[lizardfolk-sovereign-xmm|Lizardfolk Sovereign]]  
-- [[mage-apprentice-xmm|Mage Apprentice]]  
-- [[archmage-xmm|Archmage]]  
-- [[mage-xmm|Mage]]  
-- [[magmin-xmm|Magmin]]  
-- [[manes-xmm|Manes]]  
-- [[manes-vaporspawn-xmm|Manes Vaporspawn]]  
-- [[manticore-xmm|Manticore]]  
-- [[marid-xmm|Marid]]  
-- [[marilith-xmm|Marilith]]  
-- [[medusa-xmm|Medusa]]  
-- [[dust-mephit-xmm|Dust Mephit]]  
-- [[ice-mephit-xmm|Ice Mephit]]  
-- [[magma-mephit-xmm|Magma Mephit]]  
-- [[mud-mephit-xmm|Mud Mephit]]  
-- [[smoke-mephit-xmm|Smoke Mephit]]  
-- [[steam-mephit-xmm|Steam Mephit]]  
-- [[merfolk-skirmisher-xmm|Merfolk Skirmisher]]  
-- [[merfolk-wavebender-xmm|Merfolk Wavebender]]  
-- [[merrow-xmm|Merrow]]  
-- [[mezzoloth-xmm|Mezzoloth]]  
-- [[mimic-xmm|Mimic]]  
-- [[mind-flayer-xmm|Mind Flayer]]  
-- [[mind-flayer-arcanist-xmm|Mind Flayer Arcanist]]  
-- [[minotaur-of-baphomet-xmm|Minotaur of Baphomet]]  
-- [[modron-monodrone-xmm|Modron Monodrone]]  
-- [[modron-duodrone-xmm|Modron Duodrone]]  
-- [[modron-tridrone-xmm|Modron Tridrone]]  
-- [[modron-pentadrone-xmm|Modron Pentadrone]]  
-- [[modron-quadrone-xmm|Modron Quadrone]]  
-- [[mummy-xmm|Mummy]]  
-- [[mummy-lord-legendary-xmm|Mummy Lord]]  
-- [[myconid-sprout-xmm|Myconid Sprout]]  
-- [[myconid-adult-xmm|Myconid Adult]]  
-- [[myconid-sovereign-xmm|Myconid Sovereign]]  
-- [[myconid-spore-servant-xmm|Myconid Spore Servant]]  
-- [[nalfeshnee-xmm|Nalfeshnee]]  
-- [[night-hag-xmm|Night Hag]]  
-- [[nightmare-xmm|Nightmare]]  
-- [[noble-xmm|Noble]]  
-- [[noble-prodigy-xmm|Noble Prodigy]]  
-- [[nothic-xmm|Nothic]]  
-- [[nycaloth-xmm|Nycaloth]]  
-- [[ochre-jelly-xmm|Ochre Jelly]]  
-- [[ogre-xmm|Ogre]]  
-- [[ogrillon-ogre-xmm|Ogrillon Ogre]]  
-- [[oni-xmm|Oni]]  
-- [[otyugh-xmm|Otyugh]]  
-- [[owlbear-xmm|Owlbear]]  
-- [[primeval-owlbear-xmm|Primeval Owlbear]]  
-- [[pegasus-xmm|Pegasus]]  
-- [[performer-xmm|Performer]]  
-- [[performer-legend-xmm|Performer Legend]]  
-- [[performer-maestro-xmm|Performer Maestro]]  
-- [[peryton-xmm|Peryton]]  
-- [[phase-spider-xmm|Phase Spider]]  
-- [[piercer-xmm|Piercer]]  
-- [[pirate-xmm|Pirate]]  
-- [[pirate-admiral-xmm|Pirate Admiral]]  
-- [[pirate-captain-xmm|Pirate Captain]]  
-- [[pit-fiend-xmm|Pit Fiend]]  
-- [[pixie-xmm|Pixie]]  
-- [[pixie-wonderbringer-xmm|Pixie Wonderbringer]]  
-- [[planetar-xmm|Planetar]]  
-- [[poltergeist-xmm|Poltergeist]]  
-- [[priest-acolyte-xmm|Priest Acolyte]]  
-- [[archpriest-xmm|Archpriest]]  
-- [[priest-xmm|Priest]]  
-- [[pseudodragon-xmm|Pseudodragon]]  
-- [[purple-worm-xmm|Purple Worm]]  
-- [[quaggoth-xmm|Quaggoth]]  
-- [[quaggoth-thonot-xmm|Quaggoth Thonot]]  
-- [[quasit-xmm|Quasit]]  
-- [[rakshasa-xmm|Rakshasa]]  
-- [[red-dragon-wyrmling-xmm|Red Dragon Wyrmling]]  
-- [[young-red-dragon-xmm|Young Red Dragon]]  
-- [[adult-red-dragon-xmm|Adult Red Dragon]]  
-- [[ancient-red-dragon-xmm|Ancient Red Dragon]]  
-- [[remorhaz-xmm|Remorhaz]]  
-- [[young-remorhaz-xmm|Young Remorhaz]]  
-- [[revenant-xmm|Revenant]]  
-- [[graveyard-revenant-xmm|Graveyard Revenant]]  
-- [[haunting-revenant-xmm|Haunting Revenant]]  
-- [[roc-xmm|Roc]]  
-- [[roper-xmm|Roper]]  
-- [[rust-monster-xmm|Rust Monster]]  
-- [[sahuagin-warrior-xmm|Sahuagin Warrior]]  
-- [[sahuagin-baron-xmm|Sahuagin Baron]]  
-- [[sahuagin-priest-xmm|Sahuagin Priest]]  
-- [[salamander-fire-snake-xmm|Salamander Fire Snake]]  
-- [[salamander-xmm|Salamander]]  
-- [[salamander-inferno-master-xmm|Salamander Inferno Master]]  
-- [[satyr-xmm|Satyr]]  
-- [[satyr-revelmaster-xmm|Satyr Revelmaster]]  
-- [[scarecrow-xmm|Scarecrow]]  
-- [[scout-xmm|Scout]]  
-- [[scout-captain-xmm|Scout Captain]]  
-- [[sea-hag-xmm|Sea Hag]]  
-- [[shadow-xmm|Shadow]]  
-- [[shadow-demon-xmm|Shadow Demon]]  
-- [[juvenile-shadow-dragon-xmm|Juvenile Shadow Dragon]]  
-- [[shadow-dragon-legendary-xmm|Shadow Dragon]]  
-- [[shambling-mound-xmm|Shambling Mound]]  
-- [[shield-guardian-xmm|Shield Guardian]]  
-- [[silver-dragon-wyrmling-xmm|Silver Dragon Wyrmling]]  
-- [[young-silver-dragon-xmm|Young Silver Dragon]]  
-- [[adult-silver-dragon-xmm|Adult Silver Dragon]]  
-- [[ancient-silver-dragon-xmm|Ancient Silver Dragon]]  
-- [[skeleton-xmm|Skeleton]]  
-- [[warhorse-skeleton-xmm|Warhorse Skeleton]]  
-- [[flaming-skeleton-xmm|Flaming Skeleton]]  
-- [[minotaur-skeleton-xmm|Minotaur Skeleton]]  
-- [[slaad-tadpole-xmm|Slaad Tadpole]]  
-- [[blue-slaad-xmm|Blue Slaad]]  
-- [[red-slaad-xmm|Red Slaad]]  
-- [[gray-slaad-xmm|Gray Slaad]]  
-- [[green-slaad-xmm|Green Slaad]]  
-- [[death-slaad-xmm|Death Slaad]]  
-- [[solar-xmm|Solar]]  
-- [[spectator-xmm|Spectator]]  
-- [[specter-xmm|Specter]]  
-- [[sphinx-of-wonder-xmm|Sphinx of Wonder]]  
-- [[sphinx-of-secrets-xmm|Sphinx of Secrets]]  
-- [[sphinx-of-lore-xmm|Sphinx of Lore]]  
-- [[sphinx-of-valor-xmm|Sphinx of Valor]]  
-- [[spy-xmm|Spy]]  
-- [[spy-master-xmm|Spy Master]]  
-- [[spined-devil-xmm|Spined Devil]]  
-- [[spirit-naga-xmm|Spirit Naga]]  
-- [[sprite-xmm|Sprite]]  
-- [[stirge-xmm|Stirge]]  
-- [[swarm-of-stirges-xmm|Swarm of Stirges]]  
-- [[stone-giant-xmm|Stone Giant]]  
-- [[stone-golem-xmm|Stone Golem]]  
-- [[storm-giant-xmm|Storm Giant]]  
-- [[succubus-xmm|Succubus]]  
-- [[tarrasque-xmm|Tarrasque]]  
-- [[thri-kreen-marauder-xmm|Thri-kreen Marauder]]  
-- [[thri-kreen-psion-xmm|Thri-kreen Psion]]  
-- [[tough-xmm|Tough]]  
-- [[tough-boss-xmm|Tough Boss]]  
-- [[treant-xmm|Treant]]  
-- [[troglodyte-xmm|Troglodyte]]  
-- [[troll-xmm|Troll]]  
-- [[troll-limb-xmm|Troll Limb]]  
-- [[ultroloth-xmm|Ultroloth]]  
-- [[umber-hulk-xmm|Umber Hulk]]  
-- [[unicorn-legendary-xmm|Unicorn]]  
-- [[vampire-familiar-xmm|Vampire Familiar]]  
-- [[vampire-spawn-xmm|Vampire Spawn]]  
-- [[vampire-nightbringer-xmm|Vampire Nightbringer]]  
-- [[vampire-legendary-xmm|Vampire]]  
-- [[vampire-umbral-lord-xmm|Vampire Umbral Lord]]  
-- [[vrock-xmm|Vrock]]  
-- [[warrior-infantry-xmm|Warrior Infantry]]  
-- [[warrior-veteran-xmm|Warrior Veteran]]  
-- [[warrior-commander-xmm|Warrior Commander]]  
-- [[water-elemental-xmm|Water Elemental]]  
-- [[water-weird-xmm|Water Weird]]  
-- [[werebear-xmm|Werebear]]  
-- [[wereboar-xmm|Wereboar]]  
-- [[wererat-xmm|Wererat]]  
-- [[weretiger-xmm|Weretiger]]  
-- [[werewolf-xmm|Werewolf]]  
-- [[white-dragon-wyrmling-xmm|White Dragon Wyrmling]]  
-- [[young-white-dragon-xmm|Young White Dragon]]  
-- [[adult-white-dragon-xmm|Adult White Dragon]]  
-- [[ancient-white-dragon-xmm|Ancient White Dragon]]  
-- [[wight-xmm|Wight]]  
-- [[will-o-wisp-xmm|Will-o'-Wisp]]  
-- [[winter-wolf-xmm|Winter Wolf]]  
-- [[dire-worg-xmm|Dire Worg]]  
-- [[worg-xmm|Worg]]  
-- [[wraith-xmm|Wraith]]  
-- [[wyvern-xmm|Wyvern]]  
-- [[xorn-xmm|Xorn]]  
-- [[yeti-xmm|Yeti]]  
-- [[abominable-yeti-xmm|Abominable Yeti]]  
-- [[yochlol-xmm|Yochlol]]  
-- [[yuan-ti-infiltrator-xmm|Yuan-ti Infiltrator]]  
-- [[yuan-ti-malison-type-1-xmm|Yuan-ti Malison (Type 1)]]  
-- [[yuan-ti-malison-type-2-xmm|Yuan-ti Malison (Type 2)]]  
-- [[yuan-ti-malison-type-3-xmm|Yuan-ti Malison (Type 3)]]  
-- [[yuan-ti-abomination-xmm|Yuan-ti Abomination]]  
-- [[ogre-zombie-xmm|Ogre Zombie]]  
-- [[zombie-xmm|Zombie]]  
-- [[beholder-zombie-xmm|Beholder Zombie]]  
+- [Aarakocra Aeromancer](/Compendium/bestiary/elemental/aarakocra-aeromancer-xmm.md)  
+- [Aarakocra Skirmisher](/Compendium/bestiary/elemental/aarakocra-skirmisher-xmm.md)  
+- [Aboleth](/Compendium/bestiary/aberration/aboleth-xmm.md)  
+- [Air Elemental](/Compendium/bestiary/elemental/air-elemental-xmm.md)  
+- [Animal Lord](/Compendium/bestiary/celestial/animal-lord-xmm.md)  
+- [Animated Armor](/Compendium/bestiary/construct/animated-armor-xmm.md)  
+- [Animated Broom](/Compendium/bestiary/construct/animated-broom-xmm.md)  
+- [Animated Flying Sword](/Compendium/bestiary/construct/animated-flying-sword-xmm.md)  
+- [Animated Rug of Smothering](/Compendium/bestiary/construct/animated-rug-of-smothering-xmm.md)  
+- [Ankheg](/Compendium/bestiary/monstrosity/ankheg-xmm.md)  
+- [Arcanaloth](/Compendium/bestiary/fiend/arcanaloth-xmm.md)  
+- [Arch-hag](/Compendium/bestiary/fey/arch-hag-xmm.md)  
+- [Assassin](/Compendium/bestiary/humanoid/assassin-xmm.md)  
+- [Awakened Shrub](/Compendium/bestiary/plant/awakened-shrub-xmm.md)  
+- [Awakened Tree](/Compendium/bestiary/plant/awakened-tree-xmm.md)  
+- [Axe Beak](/Compendium/bestiary/monstrosity/axe-beak-xmm.md)  
+- [Giant Axe Beak](/Compendium/bestiary/monstrosity/giant-axe-beak-xmm.md)  
+- [Azer Pyromancer](/Compendium/bestiary/elemental/azer-pyromancer-xmm.md)  
+- [Azer Sentinel](/Compendium/bestiary/elemental/azer-sentinel-xmm.md)  
+- [Balor](/Compendium/bestiary/fiend/balor-xmm.md)  
+- [Bandit](/Compendium/bestiary/humanoid/bandit-xmm.md)  
+- [Bandit Captain](/Compendium/bestiary/humanoid/bandit-captain-xmm.md)  
+- [Bandit Crime Lord](/Compendium/bestiary/humanoid/bandit-crime-lord-xmm.md)  
+- [Bandit Deceiver](/Compendium/bestiary/humanoid/bandit-deceiver-xmm.md)  
+- [Banshee](/Compendium/bestiary/undead/banshee-xmm.md)  
+- [Barbed Devil](/Compendium/bestiary/fiend/barbed-devil-xmm.md)  
+- [Barlgura](/Compendium/bestiary/fiend/barlgura-xmm.md)  
+- [Basilisk](/Compendium/bestiary/monstrosity/basilisk-xmm.md)  
+- [Bearded Devil](/Compendium/bestiary/fiend/bearded-devil-xmm.md)  
+- [Behir](/Compendium/bestiary/monstrosity/behir-xmm.md)  
+- [Beholder](/Compendium/bestiary/aberration/beholder-xmm.md)  
+- [Berserker](/Compendium/bestiary/humanoid/berserker-xmm.md)  
+- [Berserker Commander](/Compendium/bestiary/humanoid/berserker-commander-xmm.md)  
+- [Black Dragon Wyrmling](/Compendium/bestiary/dragon/black-dragon-wyrmling-xmm.md)  
+- [Young Black Dragon](/Compendium/bestiary/dragon/young-black-dragon-xmm.md)  
+- [Adult Black Dragon](/Compendium/bestiary/dragon/adult-black-dragon-xmm.md)  
+- [Ancient Black Dragon](/Compendium/bestiary/dragon/ancient-black-dragon-xmm.md)  
+- [Black Pudding](/Compendium/bestiary/ooze/black-pudding-xmm.md)  
+- [Needle Blight](/Compendium/bestiary/plant/needle-blight-xmm.md)  
+- [Twig Blight](/Compendium/bestiary/plant/twig-blight-xmm.md)  
+- [Tree Blight](/Compendium/bestiary/plant/tree-blight-xmm.md)  
+- [Vine Blight](/Compendium/bestiary/plant/vine-blight-xmm.md)  
+- [Gulthias Blight](/Compendium/bestiary/plant/gulthias-blight-xmm.md)  
+- [Blink Dog](/Compendium/bestiary/fey/blink-dog-xmm.md)  
+- [Blob of Annihilation](/Compendium/bestiary/ooze/blob-of-annihilation-xmm.md)  
+- [Blue Dragon Wyrmling](/Compendium/bestiary/dragon/blue-dragon-wyrmling-xmm.md)  
+- [Young Blue Dragon](/Compendium/bestiary/dragon/young-blue-dragon-xmm.md)  
+- [Adult Blue Dragon](/Compendium/bestiary/dragon/adult-blue-dragon-xmm.md)  
+- [Ancient Blue Dragon](/Compendium/bestiary/dragon/ancient-blue-dragon-xmm.md)  
+- [Bone Devil](/Compendium/bestiary/fiend/bone-devil-xmm.md)  
+- [Bone Naga](/Compendium/bestiary/undead/bone-naga-xmm.md)  
+- [Brass Dragon Wyrmling](/Compendium/bestiary/dragon/brass-dragon-wyrmling-xmm.md)  
+- [Young Brass Dragon](/Compendium/bestiary/dragon/young-brass-dragon-xmm.md)  
+- [Adult Brass Dragon](/Compendium/bestiary/dragon/adult-brass-dragon-xmm.md)  
+- [Ancient Brass Dragon](/Compendium/bestiary/dragon/ancient-brass-dragon-xmm.md)  
+- [Bronze Dragon Wyrmling](/Compendium/bestiary/dragon/bronze-dragon-wyrmling-xmm.md)  
+- [Young Bronze Dragon](/Compendium/bestiary/dragon/young-bronze-dragon-xmm.md)  
+- [Adult Bronze Dragon](/Compendium/bestiary/dragon/adult-bronze-dragon-xmm.md)  
+- [Ancient Bronze Dragon](/Compendium/bestiary/dragon/ancient-bronze-dragon-xmm.md)  
+- [Bugbear Stalker](/Compendium/bestiary/fey/bugbear-stalker-xmm.md)  
+- [Bugbear Warrior](/Compendium/bestiary/fey/bugbear-warrior-xmm.md)  
+- [Bulette](/Compendium/bestiary/monstrosity/bulette-xmm.md)  
+- [Bulette Pup](/Compendium/bestiary/monstrosity/bulette-pup-xmm.md)  
+- [Bullywug Bog Sage](/Compendium/bestiary/fey/bullywug-bog-sage-xmm.md)  
+- [Bullywug Warrior](/Compendium/bestiary/fey/bullywug-warrior-xmm.md)  
+- [Cambion](/Compendium/bestiary/fiend/cambion-xmm.md)  
+- [Carrion Crawler](/Compendium/bestiary/monstrosity/carrion-crawler-xmm.md)  
+- [Centaur Trooper](/Compendium/bestiary/fey/centaur-trooper-xmm.md)  
+- [Centaur Warden](/Compendium/bestiary/fey/centaur-warden-xmm.md)  
+- [Chain Devil](/Compendium/bestiary/fiend/chain-devil-xmm.md)  
+- [Chasme](/Compendium/bestiary/fiend/chasme-xmm.md)  
+- [Chimera](/Compendium/bestiary/monstrosity/chimera-xmm.md)  
+- [Chuul](/Compendium/bestiary/aberration/chuul-xmm.md)  
+- [Clay Golem](/Compendium/bestiary/construct/clay-golem-xmm.md)  
+- [Cloaker](/Compendium/bestiary/aberration/cloaker-xmm.md)  
+- [Cloud Giant](/Compendium/bestiary/giant/cloud-giant-xmm.md)  
+- [Cockatrice](/Compendium/bestiary/monstrosity/cockatrice-xmm.md)  
+- [Cockatrice Regent](/Compendium/bestiary/monstrosity/cockatrice-regent-xmm.md)  
+- [Colossus](/Compendium/bestiary/construct/colossus-xmm.md)  
+- [Commoner](/Compendium/bestiary/humanoid/commoner-xmm.md)  
+- [Copper Dragon Wyrmling](/Compendium/bestiary/dragon/copper-dragon-wyrmling-xmm.md)  
+- [Young Copper Dragon](/Compendium/bestiary/dragon/young-copper-dragon-xmm.md)  
+- [Adult Copper Dragon](/Compendium/bestiary/dragon/adult-copper-dragon-xmm.md)  
+- [Ancient Copper Dragon](/Compendium/bestiary/dragon/ancient-copper-dragon-xmm.md)  
+- [Couatl](/Compendium/bestiary/celestial/couatl-xmm.md)  
+- [Crawling Claw](/Compendium/bestiary/undead/crawling-claw-xmm.md)  
+- [Swarm of Crawling Claws](/Compendium/bestiary/undead/swarm-of-crawling-claws-xmm.md)  
+- [Cultist](/Compendium/bestiary/humanoid/cultist-xmm.md)  
+- [Cultist Fanatic](/Compendium/bestiary/humanoid/cultist-fanatic-xmm.md)  
+- [Cultist Hierophant](/Compendium/bestiary/humanoid/cultist-hierophant-xmm.md)  
+- [Aberrant Cultist](/Compendium/bestiary/humanoid/aberrant-cultist-xmm.md)  
+- [Death Cultist](/Compendium/bestiary/humanoid/death-cultist-xmm.md)  
+- [Elemental Cultist](/Compendium/bestiary/humanoid/elemental-cultist-xmm.md)  
+- [Fiend Cultist](/Compendium/bestiary/humanoid/fiend-cultist-xmm.md)  
+- [Cyclops Oracle](/Compendium/bestiary/giant/cyclops-oracle-xmm.md)  
+- [Cyclops Sentry](/Compendium/bestiary/giant/cyclops-sentry-xmm.md)  
+- [Dao](/Compendium/bestiary/elemental/dao-xmm.md)  
+- [Darkmantle](/Compendium/bestiary/aberration/darkmantle-xmm.md)  
+- [Death Dog](/Compendium/bestiary/monstrosity/death-dog-xmm.md)  
+- [Death Knight](/Compendium/bestiary/undead/death-knight-xmm.md)  
+- [Death Knight Aspirant](/Compendium/bestiary/undead/death-knight-aspirant-xmm.md)  
+- [Death Tyrant](/Compendium/bestiary/undead/death-tyrant-xmm.md)  
+- [Demilich](/Compendium/bestiary/undead/demilich-xmm.md)  
+- [Deva](/Compendium/bestiary/celestial/deva-xmm.md)  
+- [Displacer Beast](/Compendium/bestiary/monstrosity/displacer-beast-xmm.md)  
+- [Djinni](/Compendium/bestiary/elemental/djinni-xmm.md)  
+- [Doppelganger](/Compendium/bestiary/monstrosity/doppelganger-xmm.md)  
+- [Dracolich](/Compendium/bestiary/undead/dracolich-xmm.md)  
+- [Dragon Turtle](/Compendium/bestiary/dragon/dragon-turtle-xmm.md)  
+- [Dretch](/Compendium/bestiary/fiend/dretch-xmm.md)  
+- [Swarm of Dretches](/Compendium/bestiary/fiend/swarm-of-dretches-xmm.md)  
+- [Drider](/Compendium/bestiary/monstrosity/drider-xmm.md)  
+- [Druid](/Compendium/bestiary/humanoid/druid-xmm.md)  
+- [Dryad](/Compendium/bestiary/fey/dryad-xmm.md)  
+- [Earth Elemental](/Compendium/bestiary/elemental/earth-elemental-xmm.md)  
+- [Efreeti](/Compendium/bestiary/elemental/efreeti-xmm.md)  
+- [Elemental Cataclysm](/Compendium/bestiary/elemental/elemental-cataclysm-xmm.md)  
+- [Empyrean Iota](/Compendium/bestiary/miscellaneous/empyrean-iota-xmm.md)  
+- [Empyrean](/Compendium/bestiary/miscellaneous/empyrean-xmm.md)  
+- [Erinyes](/Compendium/bestiary/fiend/erinyes-xmm.md)  
+- [Ettercap](/Compendium/bestiary/monstrosity/ettercap-xmm.md)  
+- [Ettin](/Compendium/bestiary/giant/ettin-xmm.md)  
+- [Faerie Dragon Adult](/Compendium/bestiary/dragon/faerie-dragon-adult-xmm.md)  
+- [Faerie Dragon Youth](/Compendium/bestiary/dragon/faerie-dragon-youth-xmm.md)  
+- [Fire Elemental](/Compendium/bestiary/elemental/fire-elemental-xmm.md)  
+- [Fire Giant](/Compendium/bestiary/giant/fire-giant-xmm.md)  
+- [Flameskull](/Compendium/bestiary/undead/flameskull-xmm.md)  
+- [Flesh Golem](/Compendium/bestiary/construct/flesh-golem-xmm.md)  
+- [Flumph](/Compendium/bestiary/aberration/flumph-xmm.md)  
+- [Fomorian](/Compendium/bestiary/giant/fomorian-xmm.md)  
+- [Frost Giant](/Compendium/bestiary/giant/frost-giant-xmm.md)  
+- [Gas Spore Fungus](/Compendium/bestiary/plant/gas-spore-fungus-xmm.md)  
+- [Shrieker Fungus](/Compendium/bestiary/plant/shrieker-fungus-xmm.md)  
+- [Violet Fungus](/Compendium/bestiary/plant/violet-fungus-xmm.md)  
+- [Violet Fungus Necrohulk](/Compendium/bestiary/plant/violet-fungus-necrohulk-xmm.md)  
+- [Galeb Duhr](/Compendium/bestiary/elemental/galeb-duhr-xmm.md)  
+- [Gargoyle](/Compendium/bestiary/elemental/gargoyle-xmm.md)  
+- [Gelatinous Cube](/Compendium/bestiary/ooze/gelatinous-cube-xmm.md)  
+- [Ghast](/Compendium/bestiary/undead/ghast-xmm.md)  
+- [Ghast Gravecaller](/Compendium/bestiary/undead/ghast-gravecaller-xmm.md)  
+- [Ghost](/Compendium/bestiary/undead/ghost-xmm.md)  
+- [Ghoul](/Compendium/bestiary/undead/ghoul-xmm.md)  
+- [Lacedon Ghoul](/Compendium/bestiary/undead/lacedon-ghoul-xmm.md)  
+- [Gibbering Mouther](/Compendium/bestiary/aberration/gibbering-mouther-xmm.md)  
+- [Githyanki Warrior](/Compendium/bestiary/aberration/githyanki-warrior-xmm.md)  
+- [Githyanki Dracomancer](/Compendium/bestiary/aberration/githyanki-dracomancer-xmm.md)  
+- [Githyanki Knight](/Compendium/bestiary/aberration/githyanki-knight-xmm.md)  
+- [Githzerai Monk](/Compendium/bestiary/aberration/githzerai-monk-xmm.md)  
+- [Githzerai Psion](/Compendium/bestiary/aberration/githzerai-psion-xmm.md)  
+- [Githzerai Zerth](/Compendium/bestiary/aberration/githzerai-zerth-xmm.md)  
+- [Glabrezu](/Compendium/bestiary/fiend/glabrezu-xmm.md)  
+- [Gladiator](/Compendium/bestiary/humanoid/gladiator-xmm.md)  
+- [Gnoll Pack Lord](/Compendium/bestiary/fiend/gnoll-pack-lord-xmm.md)  
+- [Gnoll Warrior](/Compendium/bestiary/fiend/gnoll-warrior-xmm.md)  
+- [Gnoll Demoniac](/Compendium/bestiary/fiend/gnoll-demoniac-xmm.md)  
+- [Gnoll Fang of Yeenoghu](/Compendium/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md)  
+- [Goblin Minion](/Compendium/bestiary/fey/goblin-minion-xmm.md)  
+- [Goblin Warrior](/Compendium/bestiary/fey/goblin-warrior-xmm.md)  
+- [Goblin Boss](/Compendium/bestiary/fey/goblin-boss-xmm.md)  
+- [Goblin Hexer](/Compendium/bestiary/fey/goblin-hexer-xmm.md)  
+- [Gold Dragon Wyrmling](/Compendium/bestiary/dragon/gold-dragon-wyrmling-xmm.md)  
+- [Young Gold Dragon](/Compendium/bestiary/dragon/young-gold-dragon-xmm.md)  
+- [Adult Gold Dragon](/Compendium/bestiary/dragon/adult-gold-dragon-xmm.md)  
+- [Ancient Gold Dragon](/Compendium/bestiary/dragon/ancient-gold-dragon-xmm.md)  
+- [Gorgon](/Compendium/bestiary/construct/gorgon-xmm.md)  
+- [Brazen Gorgon](/Compendium/bestiary/construct/brazen-gorgon-xmm.md)  
+- [Goristro](/Compendium/bestiary/fiend/goristro-xmm.md)  
+- [Gray Ooze](/Compendium/bestiary/ooze/gray-ooze-xmm.md)  
+- [Psychic Gray Ooze](/Compendium/bestiary/ooze/psychic-gray-ooze-xmm.md)  
+- [Green Dragon Wyrmling](/Compendium/bestiary/dragon/green-dragon-wyrmling-xmm.md)  
+- [Young Green Dragon](/Compendium/bestiary/dragon/young-green-dragon-xmm.md)  
+- [Adult Green Dragon](/Compendium/bestiary/dragon/adult-green-dragon-xmm.md)  
+- [Ancient Green Dragon](/Compendium/bestiary/dragon/ancient-green-dragon-xmm.md)  
+- [Green Hag](/Compendium/bestiary/fey/green-hag-xmm.md)  
+- [Grell](/Compendium/bestiary/aberration/grell-xmm.md)  
+- [Grick](/Compendium/bestiary/aberration/grick-xmm.md)  
+- [Grick Ancient](/Compendium/bestiary/aberration/grick-ancient-xmm.md)  
+- [Griffon](/Compendium/bestiary/monstrosity/griffon-xmm.md)  
+- [Grimlock](/Compendium/bestiary/aberration/grimlock-xmm.md)  
+- [Guardian Naga](/Compendium/bestiary/celestial/guardian-naga-xmm.md)  
+- [Guard](/Compendium/bestiary/humanoid/guard-xmm.md)  
+- [Guard Captain](/Compendium/bestiary/humanoid/guard-captain-xmm.md)  
+- [Half-Dragon](/Compendium/bestiary/dragon/half-dragon-xmm.md)  
+- [Harpy](/Compendium/bestiary/monstrosity/harpy-xmm.md)  
+- [Hell Hound](/Compendium/bestiary/fiend/hell-hound-xmm.md)  
+- [Helmed Horror](/Compendium/bestiary/construct/helmed-horror-xmm.md)  
+- [Hezrou](/Compendium/bestiary/fiend/hezrou-xmm.md)  
+- [Hill Giant](/Compendium/bestiary/giant/hill-giant-xmm.md)  
+- [Hippogriff](/Compendium/bestiary/monstrosity/hippogriff-xmm.md)  
+- [Hobgoblin Warrior](/Compendium/bestiary/fey/hobgoblin-warrior-xmm.md)  
+- [Hobgoblin Captain](/Compendium/bestiary/fey/hobgoblin-captain-xmm.md)  
+- [Hobgoblin Warlord](/Compendium/bestiary/fey/hobgoblin-warlord-xmm.md)  
+- [Homunculus](/Compendium/bestiary/construct/homunculus-xmm.md)  
+- [Hook Horror](/Compendium/bestiary/monstrosity/hook-horror-xmm.md)  
+- [Horned Devil](/Compendium/bestiary/fiend/horned-devil-xmm.md)  
+- [Hydra](/Compendium/bestiary/monstrosity/hydra-xmm.md)  
+- [Ice Devil](/Compendium/bestiary/fiend/ice-devil-xmm.md)  
+- [Imp](/Compendium/bestiary/fiend/imp-xmm.md)  
+- [Incubus](/Compendium/bestiary/fiend/incubus-xmm.md)  
+- [Intellect Devourer](/Compendium/bestiary/aberration/intellect-devourer-xmm.md)  
+- [Invisible Stalker](/Compendium/bestiary/elemental/invisible-stalker-xmm.md)  
+- [Iron Golem](/Compendium/bestiary/construct/iron-golem-xmm.md)  
+- [Jackalwere](/Compendium/bestiary/fiend/jackalwere-xmm.md)  
+- [Kenku](/Compendium/bestiary/monstrosity/kenku-xmm.md)  
+- [Knight](/Compendium/bestiary/humanoid/knight-xmm.md)  
+- [Questing Knight](/Compendium/bestiary/humanoid/questing-knight-xmm.md)  
+- [Kobold Warrior](/Compendium/bestiary/dragon/kobold-warrior-xmm.md)  
+- [Winged Kobold](/Compendium/bestiary/dragon/winged-kobold-xmm.md)  
+- [Kraken](/Compendium/bestiary/monstrosity/kraken-xmm.md)  
+- [Kuo-toa](/Compendium/bestiary/aberration/kuo-toa-xmm.md)  
+- [Kuo-toa Monitor](/Compendium/bestiary/aberration/kuo-toa-monitor-xmm.md)  
+- [Kuo-toa Whip](/Compendium/bestiary/aberration/kuo-toa-whip-xmm.md)  
+- [Kuo-toa Archpriest](/Compendium/bestiary/aberration/kuo-toa-archpriest-xmm.md)  
+- [Lamia](/Compendium/bestiary/fiend/lamia-xmm.md)  
+- [Larva](/Compendium/bestiary/fiend/larva-xmm.md)  
+- [Swarm of Larvae](/Compendium/bestiary/fiend/swarm-of-larvae-xmm.md)  
+- [Lemure](/Compendium/bestiary/fiend/lemure-xmm.md)  
+- [Swarm of Lemures](/Compendium/bestiary/fiend/swarm-of-lemures-xmm.md)  
+- [Lich](/Compendium/bestiary/undead/lich-xmm.md)  
+- [Lizardfolk Geomancer](/Compendium/bestiary/elemental/lizardfolk-geomancer-xmm.md)  
+- [Lizardfolk Sovereign](/Compendium/bestiary/elemental/lizardfolk-sovereign-xmm.md)  
+- [Mage Apprentice](/Compendium/bestiary/humanoid/mage-apprentice-xmm.md)  
+- [Archmage](/Compendium/bestiary/humanoid/archmage-xmm.md)  
+- [Mage](/Compendium/bestiary/humanoid/mage-xmm.md)  
+- [Magmin](/Compendium/bestiary/elemental/magmin-xmm.md)  
+- [Manes](/Compendium/bestiary/fiend/manes-xmm.md)  
+- [Manes Vaporspawn](/Compendium/bestiary/fiend/manes-vaporspawn-xmm.md)  
+- [Manticore](/Compendium/bestiary/monstrosity/manticore-xmm.md)  
+- [Marid](/Compendium/bestiary/elemental/marid-xmm.md)  
+- [Marilith](/Compendium/bestiary/fiend/marilith-xmm.md)  
+- [Medusa](/Compendium/bestiary/monstrosity/medusa-xmm.md)  
+- [Dust Mephit](/Compendium/bestiary/elemental/dust-mephit-xmm.md)  
+- [Ice Mephit](/Compendium/bestiary/elemental/ice-mephit-xmm.md)  
+- [Magma Mephit](/Compendium/bestiary/elemental/magma-mephit-xmm.md)  
+- [Mud Mephit](/Compendium/bestiary/elemental/mud-mephit-xmm.md)  
+- [Smoke Mephit](/Compendium/bestiary/elemental/smoke-mephit-xmm.md)  
+- [Steam Mephit](/Compendium/bestiary/elemental/steam-mephit-xmm.md)  
+- [Merfolk Skirmisher](/Compendium/bestiary/elemental/merfolk-skirmisher-xmm.md)  
+- [Merfolk Wavebender](/Compendium/bestiary/elemental/merfolk-wavebender-xmm.md)  
+- [Merrow](/Compendium/bestiary/monstrosity/merrow-xmm.md)  
+- [Mezzoloth](/Compendium/bestiary/fiend/mezzoloth-xmm.md)  
+- [Mimic](/Compendium/bestiary/monstrosity/mimic-xmm.md)  
+- [Mind Flayer](/Compendium/bestiary/aberration/mind-flayer-xmm.md)  
+- [Mind Flayer Arcanist](/Compendium/bestiary/aberration/mind-flayer-arcanist-xmm.md)  
+- [Minotaur of Baphomet](/Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md)  
+- [Modron Monodrone](/Compendium/bestiary/construct/modron-monodrone-xmm.md)  
+- [Modron Duodrone](/Compendium/bestiary/construct/modron-duodrone-xmm.md)  
+- [Modron Tridrone](/Compendium/bestiary/construct/modron-tridrone-xmm.md)  
+- [Modron Pentadrone](/Compendium/bestiary/construct/modron-pentadrone-xmm.md)  
+- [Modron Quadrone](/Compendium/bestiary/construct/modron-quadrone-xmm.md)  
+- [Mummy](/Compendium/bestiary/undead/mummy-xmm.md)  
+- [Mummy Lord](/Compendium/bestiary/undead/mummy-lord-xmm.md)  
+- [Myconid Sprout](/Compendium/bestiary/plant/myconid-sprout-xmm.md)  
+- [Myconid Adult](/Compendium/bestiary/plant/myconid-adult-xmm.md)  
+- [Myconid Sovereign](/Compendium/bestiary/plant/myconid-sovereign-xmm.md)  
+- [Myconid Spore Servant](/Compendium/bestiary/plant/myconid-spore-servant-xmm.md)  
+- [Nalfeshnee](/Compendium/bestiary/fiend/nalfeshnee-xmm.md)  
+- [Night Hag](/Compendium/bestiary/fiend/night-hag-xmm.md)  
+- [Nightmare](/Compendium/bestiary/fiend/nightmare-xmm.md)  
+- [Noble](/Compendium/bestiary/humanoid/noble-xmm.md)  
+- [Noble Prodigy](/Compendium/bestiary/humanoid/noble-prodigy-xmm.md)  
+- [Nothic](/Compendium/bestiary/aberration/nothic-xmm.md)  
+- [Nycaloth](/Compendium/bestiary/fiend/nycaloth-xmm.md)  
+- [Ochre Jelly](/Compendium/bestiary/ooze/ochre-jelly-xmm.md)  
+- [Ogre](/Compendium/bestiary/giant/ogre-xmm.md)  
+- [Ogrillon Ogre](/Compendium/bestiary/giant/ogrillon-ogre-xmm.md)  
+- [Oni](/Compendium/bestiary/fiend/oni-xmm.md)  
+- [Otyugh](/Compendium/bestiary/aberration/otyugh-xmm.md)  
+- [Owlbear](/Compendium/bestiary/monstrosity/owlbear-xmm.md)  
+- [Primeval Owlbear](/Compendium/bestiary/monstrosity/primeval-owlbear-xmm.md)  
+- [Pegasus](/Compendium/bestiary/celestial/pegasus-xmm.md)  
+- [Performer](/Compendium/bestiary/humanoid/performer-xmm.md)  
+- [Performer Legend](/Compendium/bestiary/humanoid/performer-legend-xmm.md)  
+- [Performer Maestro](/Compendium/bestiary/humanoid/performer-maestro-xmm.md)  
+- [Peryton](/Compendium/bestiary/monstrosity/peryton-xmm.md)  
+- [Phase Spider](/Compendium/bestiary/monstrosity/phase-spider-xmm.md)  
+- [Piercer](/Compendium/bestiary/aberration/piercer-xmm.md)  
+- [Pirate](/Compendium/bestiary/humanoid/pirate-xmm.md)  
+- [Pirate Admiral](/Compendium/bestiary/humanoid/pirate-admiral-xmm.md)  
+- [Pirate Captain](/Compendium/bestiary/humanoid/pirate-captain-xmm.md)  
+- [Pit Fiend](/Compendium/bestiary/fiend/pit-fiend-xmm.md)  
+- [Pixie](/Compendium/bestiary/fey/pixie-xmm.md)  
+- [Pixie Wonderbringer](/Compendium/bestiary/fey/pixie-wonderbringer-xmm.md)  
+- [Planetar](/Compendium/bestiary/celestial/planetar-xmm.md)  
+- [Poltergeist](/Compendium/bestiary/undead/poltergeist-xmm.md)  
+- [Priest Acolyte](/Compendium/bestiary/humanoid/priest-acolyte-xmm.md)  
+- [Archpriest](/Compendium/bestiary/humanoid/archpriest-xmm.md)  
+- [Priest](/Compendium/bestiary/humanoid/priest-xmm.md)  
+- [Pseudodragon](/Compendium/bestiary/dragon/pseudodragon-xmm.md)  
+- [Purple Worm](/Compendium/bestiary/monstrosity/purple-worm-xmm.md)  
+- [Quaggoth](/Compendium/bestiary/monstrosity/quaggoth-xmm.md)  
+- [Quaggoth Thonot](/Compendium/bestiary/monstrosity/quaggoth-thonot-xmm.md)  
+- [Quasit](/Compendium/bestiary/fiend/quasit-xmm.md)  
+- [Rakshasa](/Compendium/bestiary/fiend/rakshasa-xmm.md)  
+- [Red Dragon Wyrmling](/Compendium/bestiary/dragon/red-dragon-wyrmling-xmm.md)  
+- [Young Red Dragon](/Compendium/bestiary/dragon/young-red-dragon-xmm.md)  
+- [Adult Red Dragon](/Compendium/bestiary/dragon/adult-red-dragon-xmm.md)  
+- [Ancient Red Dragon](/Compendium/bestiary/dragon/ancient-red-dragon-xmm.md)  
+- [Remorhaz](/Compendium/bestiary/monstrosity/remorhaz-xmm.md)  
+- [Young Remorhaz](/Compendium/bestiary/monstrosity/young-remorhaz-xmm.md)  
+- [Revenant](/Compendium/bestiary/undead/revenant-xmm.md)  
+- [Graveyard Revenant](/Compendium/bestiary/undead/graveyard-revenant-xmm.md)  
+- [Haunting Revenant](/Compendium/bestiary/undead/haunting-revenant-xmm.md)  
+- [Roc](/Compendium/bestiary/monstrosity/roc-xmm.md)  
+- [Roper](/Compendium/bestiary/aberration/roper-xmm.md)  
+- [Rust Monster](/Compendium/bestiary/monstrosity/rust-monster-xmm.md)  
+- [Sahuagin Warrior](/Compendium/bestiary/fiend/sahuagin-warrior-xmm.md)  
+- [Sahuagin Baron](/Compendium/bestiary/fiend/sahuagin-baron-xmm.md)  
+- [Sahuagin Priest](/Compendium/bestiary/fiend/sahuagin-priest-xmm.md)  
+- [Salamander Fire Snake](/Compendium/bestiary/elemental/salamander-fire-snake-xmm.md)  
+- [Salamander](/Compendium/bestiary/elemental/salamander-xmm.md)  
+- [Salamander Inferno Master](/Compendium/bestiary/elemental/salamander-inferno-master-xmm.md)  
+- [Satyr](/Compendium/bestiary/fey/satyr-xmm.md)  
+- [Satyr Revelmaster](/Compendium/bestiary/fey/satyr-revelmaster-xmm.md)  
+- [Scarecrow](/Compendium/bestiary/construct/scarecrow-xmm.md)  
+- [Scout](/Compendium/bestiary/humanoid/scout-xmm.md)  
+- [Scout Captain](/Compendium/bestiary/humanoid/scout-captain-xmm.md)  
+- [Sea Hag](/Compendium/bestiary/fey/sea-hag-xmm.md)  
+- [Shadow](/Compendium/bestiary/undead/shadow-xmm.md)  
+- [Shadow Demon](/Compendium/bestiary/fiend/shadow-demon-xmm.md)  
+- [Juvenile Shadow Dragon](/Compendium/bestiary/dragon/juvenile-shadow-dragon-xmm.md)  
+- [Shadow Dragon](/Compendium/bestiary/dragon/shadow-dragon-xmm.md)  
+- [Shambling Mound](/Compendium/bestiary/plant/shambling-mound-xmm.md)  
+- [Shield Guardian](/Compendium/bestiary/construct/shield-guardian-xmm.md)  
+- [Silver Dragon Wyrmling](/Compendium/bestiary/dragon/silver-dragon-wyrmling-xmm.md)  
+- [Young Silver Dragon](/Compendium/bestiary/dragon/young-silver-dragon-xmm.md)  
+- [Adult Silver Dragon](/Compendium/bestiary/dragon/adult-silver-dragon-xmm.md)  
+- [Ancient Silver Dragon](/Compendium/bestiary/dragon/ancient-silver-dragon-xmm.md)  
+- [Skeleton](/Compendium/bestiary/undead/skeleton-xmm.md)  
+- [Warhorse Skeleton](/Compendium/bestiary/undead/warhorse-skeleton-xmm.md)  
+- [Flaming Skeleton](/Compendium/bestiary/undead/flaming-skeleton-xmm.md)  
+- [Minotaur Skeleton](/Compendium/bestiary/undead/minotaur-skeleton-xmm.md)  
+- [Slaad Tadpole](/Compendium/bestiary/aberration/slaad-tadpole-xmm.md)  
+- [Blue Slaad](/Compendium/bestiary/aberration/blue-slaad-xmm.md)  
+- [Red Slaad](/Compendium/bestiary/aberration/red-slaad-xmm.md)  
+- [Gray Slaad](/Compendium/bestiary/aberration/gray-slaad-xmm.md)  
+- [Green Slaad](/Compendium/bestiary/aberration/green-slaad-xmm.md)  
+- [Death Slaad](/Compendium/bestiary/aberration/death-slaad-xmm.md)  
+- [Solar](/Compendium/bestiary/celestial/solar-xmm.md)  
+- [Spectator](/Compendium/bestiary/aberration/spectator-xmm.md)  
+- [Specter](/Compendium/bestiary/undead/specter-xmm.md)  
+- [Sphinx of Wonder](/Compendium/bestiary/celestial/sphinx-of-wonder-xmm.md)  
+- [Sphinx of Secrets](/Compendium/bestiary/celestial/sphinx-of-secrets-xmm.md)  
+- [Sphinx of Lore](/Compendium/bestiary/celestial/sphinx-of-lore-xmm.md)  
+- [Sphinx of Valor](/Compendium/bestiary/celestial/sphinx-of-valor-xmm.md)  
+- [Spy](/Compendium/bestiary/humanoid/spy-xmm.md)  
+- [Spy Master](/Compendium/bestiary/humanoid/spy-master-xmm.md)  
+- [Spined Devil](/Compendium/bestiary/fiend/spined-devil-xmm.md)  
+- [Spirit Naga](/Compendium/bestiary/fiend/spirit-naga-xmm.md)  
+- [Sprite](/Compendium/bestiary/fey/sprite-xmm.md)  
+- [Stirge](/Compendium/bestiary/monstrosity/stirge-xmm.md)  
+- [Swarm of Stirges](/Compendium/bestiary/monstrosity/swarm-of-stirges-xmm.md)  
+- [Stone Giant](/Compendium/bestiary/giant/stone-giant-xmm.md)  
+- [Stone Golem](/Compendium/bestiary/construct/stone-golem-xmm.md)  
+- [Storm Giant](/Compendium/bestiary/giant/storm-giant-xmm.md)  
+- [Succubus](/Compendium/bestiary/fiend/succubus-xmm.md)  
+- [Tarrasque](/Compendium/bestiary/monstrosity/tarrasque-xmm.md)  
+- [Thri-kreen Marauder](/Compendium/bestiary/monstrosity/thri-kreen-marauder-xmm.md)  
+- [Thri-kreen Psion](/Compendium/bestiary/monstrosity/thri-kreen-psion-xmm.md)  
+- [Tough](/Compendium/bestiary/humanoid/tough-xmm.md)  
+- [Tough Boss](/Compendium/bestiary/humanoid/tough-boss-xmm.md)  
+- [Treant](/Compendium/bestiary/plant/treant-xmm.md)  
+- [Troglodyte](/Compendium/bestiary/monstrosity/troglodyte-xmm.md)  
+- [Troll](/Compendium/bestiary/giant/troll-xmm.md)  
+- [Troll Limb](/Compendium/bestiary/giant/troll-limb-xmm.md)  
+- [Ultroloth](/Compendium/bestiary/fiend/ultroloth-xmm.md)  
+- [Umber Hulk](/Compendium/bestiary/monstrosity/umber-hulk-xmm.md)  
+- [Unicorn](/Compendium/bestiary/celestial/unicorn-xmm.md)  
+- [Vampire Familiar](/Compendium/bestiary/humanoid/vampire-familiar-xmm.md)  
+- [Vampire Spawn](/Compendium/bestiary/undead/vampire-spawn-xmm.md)  
+- [Vampire Nightbringer](/Compendium/bestiary/undead/vampire-nightbringer-xmm.md)  
+- [Vampire](/Compendium/bestiary/undead/vampire-xmm.md)  
+- [Vampire Umbral Lord](/Compendium/bestiary/undead/vampire-umbral-lord-xmm.md)  
+- [Vrock](/Compendium/bestiary/fiend/vrock-xmm.md)  
+- [Warrior Infantry](/Compendium/bestiary/humanoid/warrior-infantry-xmm.md)  
+- [Warrior Veteran](/Compendium/bestiary/humanoid/warrior-veteran-xmm.md)  
+- [Warrior Commander](/Compendium/bestiary/humanoid/warrior-commander-xmm.md)  
+- [Water Elemental](/Compendium/bestiary/elemental/water-elemental-xmm.md)  
+- [Water Weird](/Compendium/bestiary/elemental/water-weird-xmm.md)  
+- [Werebear](/Compendium/bestiary/monstrosity/werebear-xmm.md)  
+- [Wereboar](/Compendium/bestiary/monstrosity/wereboar-xmm.md)  
+- [Wererat](/Compendium/bestiary/monstrosity/wererat-xmm.md)  
+- [Weretiger](/Compendium/bestiary/monstrosity/weretiger-xmm.md)  
+- [Werewolf](/Compendium/bestiary/monstrosity/werewolf-xmm.md)  
+- [White Dragon Wyrmling](/Compendium/bestiary/dragon/white-dragon-wyrmling-xmm.md)  
+- [Young White Dragon](/Compendium/bestiary/dragon/young-white-dragon-xmm.md)  
+- [Adult White Dragon](/Compendium/bestiary/dragon/adult-white-dragon-xmm.md)  
+- [Ancient White Dragon](/Compendium/bestiary/dragon/ancient-white-dragon-xmm.md)  
+- [Wight](/Compendium/bestiary/undead/wight-xmm.md)  
+- [Will-o'-Wisp](/Compendium/bestiary/undead/will-o-wisp-xmm.md)  
+- [Winter Wolf](/Compendium/bestiary/monstrosity/winter-wolf-xmm.md)  
+- [Dire Worg](/Compendium/bestiary/fey/dire-worg-xmm.md)  
+- [Worg](/Compendium/bestiary/fey/worg-xmm.md)  
+- [Wraith](/Compendium/bestiary/undead/wraith-xmm.md)  
+- [Wyvern](/Compendium/bestiary/dragon/wyvern-xmm.md)  
+- [Xorn](/Compendium/bestiary/elemental/xorn-xmm.md)  
+- [Yeti](/Compendium/bestiary/monstrosity/yeti-xmm.md)  
+- [Abominable Yeti](/Compendium/bestiary/monstrosity/abominable-yeti-xmm.md)  
+- [Yochlol](/Compendium/bestiary/fiend/yochlol-xmm.md)  
+- [Yuan-ti Infiltrator](/Compendium/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md)  
+- [Yuan-ti Malison (Type 1)](/Compendium/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md)  
+- [Yuan-ti Malison (Type 2)](/Compendium/bestiary/monstrosity/yuan-ti-malison-type-2-xmm.md)  
+- [Yuan-ti Malison (Type 3)](/Compendium/bestiary/monstrosity/yuan-ti-malison-type-3-xmm.md)  
+- [Yuan-ti Abomination](/Compendium/bestiary/monstrosity/yuan-ti-abomination-xmm.md)  
+- [Ogre Zombie](/Compendium/bestiary/undead/ogre-zombie-xmm.md)  
+- [Zombie](/Compendium/bestiary/undead/zombie-xmm.md)  
+- [Beholder Zombie](/Compendium/bestiary/undead/beholder-zombie-xmm.md)  
 
 ## Monsters (A)
 
@@ -426,24 +425,24 @@ aliases:
 **Aarakocra.** *Winged Guardians of the Sky*
 
 - **Habitat.** Mountain, Planar (Elemental Plane of Air)  
-- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md), Individual  
 
 Aarakocra are birdlike folk who soar the skies of countless worlds and the endless expanses of the Elemental Plane of Air. They often resemble avians common to the lands where they dwell; some resemble hawks or condors, while others appear similar to hummingbirds or archaeopteryxes. In many lands, aarakocra tell of their ancient heroics resisting the wicked Queen of Chaos alongside the mysterious Wind Dukes of Aaqa.
 
 > [!embed-monster]- Aarakocra Aeromancer
-> ![[aarakocra-aeromancer-xmm#^statblock|Aarakocra Aeromancer]]
+> ![Aarakocra Aeromancer](/Compendium/bestiary/elemental/aarakocra-aeromancer-xmm.md#^statblock)
 
 > [!embed-monster]- Aarakocra Skirmisher
-> ![[aarakocra-skirmisher-xmm#^statblock|Aarakocra Skirmisher]]
+> ![Aarakocra Skirmisher](/Compendium/bestiary/elemental/aarakocra-skirmisher-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/031-01-001-two-aarakocra.webp#center)
+![](/Compendium/books/monster-manual-2025/img/031-01-001-two-aarakocra.webp#center)
 
 ### Aboleth
 
 **Aboleth.** *Ageless Alien Mastermind*
 
 - **Habitat.** Underdark, Underwater  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 In aquatic abysses, aboleths dream of dead empires and orchestrate plots that unfold across ages. These elusive, amphibious immortals physically and mentally overwhelm their victims and transform creatures with a slimy, aberrant infection, reshaping other beings to serve them beneath the waves.
 
@@ -469,10 +468,10 @@ Aboleths' alien goals and methods are often mysterious to other creatures. Roll 
 
 **Aboleth Lairs.** Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spaces for their terrestrial servants and to hold treasures that would be damaged by water.
 
-![A gnome cultist consults an all-knowing aboleth](Compendium/books/monster-manual-2025/img/032-01-002-aboleth-and-cultist.webp#center)
+![A gnome cultist consults an all-knowing aboleth](/Compendium/books/monster-manual-2025/img/032-01-002-aboleth-and-cultist.webp#center)
 
 > [!embed-monster]- Aboleth
-> ![[aboleth-xmm#^statblock|Aboleth]]
+> ![Aboleth](/Compendium/bestiary/aberration/aboleth-xmm.md#^statblock)
 
 ### Air Elemental
 
@@ -501,17 +500,17 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 | 6 | Swirling storm clouds. |
 ^air-elemental-compositions
 
-![](Compendium/books/monster-manual-2025/img/033-01-003-air-elemental.webp#center)
+![](/Compendium/books/monster-manual-2025/img/033-01-003-air-elemental.webp#center)
 
 > [!embed-monster]- Air Elemental
-> ![[air-elemental-xmm#^statblock|Air Elemental]]
+> ![Air Elemental](/Compendium/bestiary/elemental/air-elemental-xmm.md#^statblock)
 
 ### Animal Lord
 
 **Animal Lord.** *Immortal Regent of the Wild*
 
 - **Habitat.** Planar (Beastlands)  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Animal lords are the immortal spirits of legendary animals. They serve as the divine protectors of animals of their kind, and they appear as hybrids of humanoids and the animals they defend. They frequently change into giant, idealized versions of the animals they're associated with—albeit with glowing eyes. When contending with people, they sometimes appear as humanlike beings with subtle, animal-like features. No matter their appearance, animal lords exhibit the instincts and predilections of the animals they represent, tempered by their intellect and experience.
 
@@ -575,10 +574,10 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 | 10 | Whale |
 ^sage-animal-lord-appearances
 
-![](Compendium/books/monster-manual-2025/img/034-01-004-animal-lords.webp#center)
+![](/Compendium/books/monster-manual-2025/img/034-01-004-animal-lords.webp#center)
 
 > [!embed-monster]- Animal Lord
-> ![[animal-lord-xmm#^statblock|Animal Lord]]
+> ![Animal Lord](/Compendium/bestiary/celestial/animal-lord-xmm.md#^statblock)
 
 ### Animated Objects
 
@@ -611,19 +610,19 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 | 10 | The will of a powerful psychic being. |
 ^animated-object-catalysts
 
-![](Compendium/books/monster-manual-2025/img/035-01-005-group-of-animated-items.webp#center)
+![](/Compendium/books/monster-manual-2025/img/035-01-005-group-of-animated-items.webp#center)
 
 > [!embed-monster]- Animated Armor
-> ![[animated-armor-xmm#^statblock|Animated Armor]]
+> ![Animated Armor](/Compendium/bestiary/construct/animated-armor-xmm.md#^statblock)
 
 > [!embed-monster]- Animated Broom
-> ![[animated-broom-xmm#^statblock|Animated Broom]]
+> ![Animated Broom](/Compendium/bestiary/construct/animated-broom-xmm.md#^statblock)
 
 > [!embed-monster]- Animated Flying Sword
-> ![[animated-flying-sword-xmm#^statblock|Animated Flying Sword]]
+> ![Animated Flying Sword](/Compendium/bestiary/construct/animated-flying-sword-xmm.md#^statblock)
 
 > [!embed-monster]- Animated Rug of Smothering
-> ![[animated-rug-of-smothering-xmm#^statblock|Animated Rug of Smothering]]
+> ![Animated Rug of Smothering](/Compendium/bestiary/construct/animated-rug-of-smothering-xmm.md#^statblock)
 
 ### Ankheg
 
@@ -656,33 +655,33 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 | 8 | A viciously mauled scarecrow. |
 ^ankheg-tunnel-discoveries
 
-![](Compendium/books/monster-manual-2025/img/036-01-006-ankheg.webp#center)
+![](/Compendium/books/monster-manual-2025/img/036-01-006-ankheg.webp#center)
 
 > [!embed-monster]- Ankheg
-> ![[ankheg-xmm#^statblock|Ankheg]]
+> ![Ankheg](/Compendium/bestiary/monstrosity/ankheg-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/037-01-007-arcanaloth.webp#center)
+![](/Compendium/books/monster-manual-2025/img/037-01-007-arcanaloth.webp#center)
 
 ### Arcanaloth
 
 **Arcanaloth.** *Yugoloth of Magical Manipulation*
 
 - **Habitat.** Planar (Lower Planes)  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 While all yugoloths are fiendish manifestations of wickedness and greed, arcanaloths bend their considerable intellects toward hoarding and exploiting secrets. They then deploy these secrets to ensnare countless victims and lesser villains, beguiling foes with false promises and powerful magic.
 
 Arcanaloths possess considerable spellcasting prowess and frequently disguise themselves with magic. While they prefer to let magical servants or other yugoloths do their fighting for them, arcanaloths can defend themselves with arcane might, banishing opponents into the pages of their magic tomes.
 
 > [!embed-monster]- Arcanaloth
-> ![[arcanaloth-xmm#^statblock|Arcanaloth]]
+> ![Arcanaloth](/Compendium/bestiary/fiend/arcanaloth-xmm.md#^statblock)
 
 ### Arch-hag
 
 **Arch-hag.** *Hag of Forbidden Secrets and Magical Malice*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Immortal and unpredictable, arch-hags hoard secrets and strike magical bargains, altering fate to indulge their fickle whims. These timeless schemers pursue the secrets of the multiverse and work strange magic in pursuit of their inscrutable goals.
 
@@ -714,17 +713,17 @@ Every arch-hag has a unique weakness tied to a fateful encounter the hag had in 
 
 **Arch-hag Lairs.** Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop a storm cloud, or—in the case of the arch-hag Baba Yaga—a hut atop giant chicken legs. The interiors of these lairs frequently change or exhibit bewildering features.
 
-![](Compendium/books/monster-manual-2025/img/038-01-008-arch-hags.webp#center)
+![](/Compendium/books/monster-manual-2025/img/038-01-008-arch-hags.webp#center)
 
 > [!embed-monster]- Arch-hag
-> ![[arch-hag-xmm#^statblock|Arch-hag]]
+> ![Arch-hag](/Compendium/bestiary/fey/arch-hag-xmm.md#^statblock)
 
 ### Assassin
 
 **Assassin.** *Contract Killer*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md), Individual  
 
 Assassins are professional killers skilled at stealthily approaching their victims and striking unseen. Most assassins kill for a reason, perhaps hiring themselves out to wealthy patrons or slaying for an unscrupulous cause. They use poisons and other deadly tools, and they might carry equipment to help them break into secure areas or avoid capture.
 
@@ -742,10 +741,10 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 | 6 | Using poison with a distinctive color or smell. |
 ^assassin-modus-operandi
 
-![](Compendium/books/monster-manual-2025/img/039-01-009-assassin.webp#center)
+![](/Compendium/books/monster-manual-2025/img/039-01-009-assassin.webp#center)
 
 > [!embed-monster]- Assassin
-> ![[assassin-xmm#^statblock|Assassin]]
+> ![Assassin](/Compendium/bestiary/humanoid/assassin-xmm.md#^statblock)
 
 ### Awakened Plants
 
@@ -754,19 +753,19 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 - **Habitat.** Forest  
 - **Treasure.** None  
 
-Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[awaken-xphb|Awaken]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
+Magic can invest plants with mobility, sapience, and even a voice. Spells such as [Awaken](/Compendium/spells/awaken-xphb.md) or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
 > [!quote] A quote from Rivergleam, Pixie  
 > 
 > Just because we protect the forest doesn't mean it's defenseless.
 
-![](Compendium/books/monster-manual-2025/img/040-01-010-awakened-plant.webp#center)
+![](/Compendium/books/monster-manual-2025/img/040-01-010-awakened-plant.webp#center)
 
 > [!embed-monster]- Awakened Shrub
-> ![[awakened-shrub-xmm#^statblock|Awakened Shrub]]
+> ![Awakened Shrub](/Compendium/bestiary/plant/awakened-shrub-xmm.md#^statblock)
 
 > [!embed-monster]- Awakened Tree
-> ![[awakened-tree-xmm#^statblock|Awakened Tree]]
+> ![Awakened Tree](/Compendium/bestiary/plant/awakened-tree-xmm.md#^statblock)
 
 ### Axe Beaks
 
@@ -783,30 +782,30 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 > 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
 
-![](Compendium/books/monster-manual-2025/img/041-01-011-axe-beak.webp#center)
+![](/Compendium/books/monster-manual-2025/img/041-01-011-axe-beak.webp#center)
 
 > [!embed-monster]- Axe Beak
-> ![[axe-beak-xmm#^statblock|Axe Beak]]
+> ![Axe Beak](/Compendium/bestiary/monstrosity/axe-beak-xmm.md#^statblock)
 
 > [!embed-monster]- Giant Axe Beak
-> ![[giant-axe-beak-xmm#^statblock|Giant Axe Beak]]
+> ![Giant Axe Beak](/Compendium/bestiary/monstrosity/giant-axe-beak-xmm.md#^statblock)
 
 ### Azers
 
 **Azers.** *Fiery Smiths of Living Metal*
 
 - **Habitat.** Mountain, Planar (Elemental Plane of Fire)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Azers are living bronze folk who work the primal elements of creation to craft weapons and magical wonders among the multiverse's mightiest infernos.
 
 > [!embed-monster]- Azer Pyromancer
-> ![[azer-pyromancer-xmm#^statblock|Azer Pyromancer]]
+> ![Azer Pyromancer](/Compendium/bestiary/elemental/azer-pyromancer-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/042-01-012-azers.webp#center)
+![](/Compendium/books/monster-manual-2025/img/042-01-012-azers.webp#center)
 
 > [!embed-monster]- Azer Sentinel
-> ![[azer-sentinel-xmm#^statblock|Azer Sentinel]]
+> ![Azer Sentinel](/Compendium/bestiary/elemental/azer-sentinel-xmm.md#^statblock)
 
 ## Monsters (B)
 
@@ -815,14 +814,14 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 **Balor.** *Demon of Overwhelming Rage*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these demonic warlords seethe with wrath, their rage erupting in waves of fire and as a pair of vicious weapons: a sword of crackling lightning and a whip of lashing flames. A balor's fury persists until the moment of its demise, at which point it explodes—a last act of vengeance against those who slew it. Demon lords and evil gods harness balors' rage by making balors commanders of armies or guardians of grave secrets.
 
-![](Compendium/books/monster-manual-2025/img/043-02-001-balor.webp#center)
+![](/Compendium/books/monster-manual-2025/img/043-02-001-balor.webp#center)
 
 > [!embed-monster]- Balor
-> ![[balor-xmm#^statblock|Balor]]
+> ![Balor](/Compendium/bestiary/fiend/balor-xmm.md#^statblock)
 
 ### Bandits
 
@@ -851,26 +850,26 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
 
-![](Compendium/books/monster-manual-2025/img/044-02-002-group-of-bandits.webp#center)
+![](/Compendium/books/monster-manual-2025/img/044-02-002-group-of-bandits.webp#center)
 
 > [!embed-monster]- Bandit
-> ![[bandit-xmm#^statblock|Bandit]]
+> ![Bandit](/Compendium/bestiary/humanoid/bandit-xmm.md#^statblock)
 
 > [!embed-monster]- Bandit Captain
-> ![[bandit-captain-xmm#^statblock|Bandit Captain]]
+> ![Bandit Captain](/Compendium/bestiary/humanoid/bandit-captain-xmm.md#^statblock)
 
 > [!embed-monster]- Bandit Deceiver
-> ![[bandit-deceiver-xmm#^statblock|Bandit Deceiver]]
+> ![Bandit Deceiver](/Compendium/bestiary/humanoid/bandit-deceiver-xmm.md#^statblock)
 
 > [!embed-monster]- Bandit Crime Lord
-> ![[bandit-crime-lord-xmm#^statblock|Bandit Crime Lord]]
+> ![Bandit Crime Lord](/Compendium/bestiary/humanoid/bandit-crime-lord-xmm.md#^statblock)
 
 ### Banshee
 
 **Banshee.** *Wailing Harbinger of Death*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Heralds of doom and plagues on the living, banshees are spirits obsessed by unresolved bitterness or sorrow. These storied phantoms slay any who glimpse them or hear their baleful wails. Although any tormented soul can arise as a banshee, some elven communities particularly fear them and believe that those who hoard or destroy beauty—natural or otherwise—risk returning as a banshee.
 
@@ -888,10 +887,10 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 | 6 | Slay those more beautiful than it was in life. |
 ^banshee-sorrows
 
-![](Compendium/books/monster-manual-2025/img/045-02-003-banshees.webp#center)
+![](/Compendium/books/monster-manual-2025/img/045-02-003-banshees.webp#center)
 
 > [!embed-monster]- Banshee
-> ![[banshee-xmm#^statblock|Banshee]]
+> ![Banshee](/Compendium/bestiary/undead/banshee-xmm.md#^statblock)
 
 ### Barbed Devil
 
@@ -906,10 +905,10 @@ Barbed devils often serve as guards and accountants for ice devil generals, pit 
 
 Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they pride themselves on having the multiverse's greatest collection of one kind of thing—typically items of rare pedigree or emblems of power. Barbed devils refuse to steal what they covet; instead they strike bargains to claim both treasure and mortal souls.
 
-![](Compendium/books/monster-manual-2025/img/046-02-004-barbed-devil.webp#center)
+![](/Compendium/books/monster-manual-2025/img/046-02-004-barbed-devil.webp#center)
 
 > [!embed-monster]- Barbed Devil
-> ![[barbed-devil-xmm#^statblock|Barbed Devil]]
+> ![Barbed Devil](/Compendium/bestiary/fiend/barbed-devil-xmm.md#^statblock)
 
 ### Barlgura
 
@@ -924,10 +923,10 @@ Barlguras cooperate with other demons, particularly other barlguras, so long as 
 
 Barlguras vary in appearance, but all have powerful frames and hands capable of climbing swiftly and delivering crushing blows. If brute force isn't enough to overwhelm their foes, barlguras can use demonic magic to conjure terrifying illusions and grasping vines. Most barlguras resemble nightmarish apes, and some bear exaggerated versions of features of predators common to the lands the barlguras inhabit. Many embed trophies from past hunts in their demonic bodies.
 
-![](Compendium/books/monster-manual-2025/img/047-02-005-barlgura.webp#center)
+![](/Compendium/books/monster-manual-2025/img/047-02-005-barlgura.webp#center)
 
 > [!embed-monster]- Barlgura
-> ![[barlgura-xmm#^statblock|Barlgura]]
+> ![Barlgura](/Compendium/bestiary/fiend/barlgura-xmm.md#^statblock)
 
 ### Basilisk
 
@@ -938,7 +937,7 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
 
 Basilisks are ponderous predators with eight clawed legs, crystalline spines, and mighty jaws. Rather than chasing prey, they use their supernatural gaze to turn creatures to stone and then consume these victims at their leisure. While basilisks are most comfortable in subterranean lairs, many are captured and kept by unscrupulous folk seeking guardians for their treasures.
 
-The remains of [[conditions#Petrified|Petrified]] creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the [[conditions#Petrified|Petrified]] Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
+The remains of [Petrified](/Compendium/rules/conditions.md#Petrified) creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the Petrified Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
 
 > [!quote] A quote from X the Mystic's  
 > 
@@ -958,17 +957,17 @@ The remains of [[conditions#Petrified|Petrified]] creatures litter the area wher
 | 8 | A victim now being used as a nest for insects or other vermin. |
 ^petrified-basilisk-victims
 
-![](Compendium/books/monster-manual-2025/img/048-02-006-basilisk.webp#center)
+![](/Compendium/books/monster-manual-2025/img/048-02-006-basilisk.webp#center)
 
 > [!embed-monster]- Basilisk
-> ![[basilisk-xmm#^statblock|Basilisk]]
+> ![Basilisk](/Compendium/bestiary/monstrosity/basilisk-xmm.md#^statblock)
 
 ### Bearded Devil
 
 **Bearded Devil.** *Devil of Force and Intimidation*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Bearded devils, also known as barbazus, fill the legions of the Nine Hells. These cruel soldiers follow the orders of diabolical generals as they defend infernal realms, invade Material Plane worlds, and clash against demons in planes-spanning conflicts.
 
@@ -976,12 +975,12 @@ Left to their own devices, bearded devils encourage mortals to act callously and
 
 Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. These squirming, barb-riddled beards carry poison capable of preventing magical healing. Bearded devils are also known for their distinctive glaives, through which they channel hellish energy. Those struck by these unnatural weapons suffer infernal wounds that grow worse until stanched or magically healed.
 
-![](Compendium/books/monster-manual-2025/img/049-02-007-bearded-devil.webp#center)
+![](/Compendium/books/monster-manual-2025/img/049-02-007-bearded-devil.webp#center)
 
 > [!embed-monster]- Bearded Devil
-> ![[bearded-devil-xmm#^statblock|Bearded Devil]]
+> ![Bearded Devil](/Compendium/bestiary/fiend/bearded-devil-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/050-02-008-behir.webp#center)
+![](/Compendium/books/monster-manual-2025/img/050-02-008-behir.webp#center)
 
 ### Behir
 
@@ -1001,14 +1000,14 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
 > You wouldn't believe all the great stuff I've swallowed! Now just climb on in here, and you can keep whatever you find.
 
 > [!embed-monster]- Behir
-> ![[behir-xmm#^statblock|Behir]]
+> ![Behir](/Compendium/bestiary/monstrosity/behir-xmm.md#^statblock)
 
 ### Beholder
 
 **Beholder.** *Infamous Many-Eyed Tyrant*
 
 - **Habitat.** Underdark  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Beholders—also known as eye tyrants—number among the most notorious inhabitants of the Underdark. Few creatures in the multiverse are as loathed and feared as these maniacal horrors.
 
@@ -1018,38 +1017,38 @@ Beholders possess utterly alien minds. Most exhibit paranoid, narcissistic, and 
 
 Few creatures loathe beholders more than other beholders. Every beholder views itself as the physical and intellectual pinnacle of its species. To them, all other beholders are aberrant rivals to be dominated or destroyed. Conflicts between beholders can last for decades and lay waste to vast subterranean realms.
 
-Beholders are a particular threat to adventurers because both gravitate toward mysterious ruins and sites of great magic. Many beholders collect the magic items and [[conditions#Petrified|petrified]] bodies of heroes they've defeated, displaying them as trophies.
+Beholders are a particular threat to adventurers because both gravitate toward mysterious ruins and sites of great magic. Many beholders collect the magic items and [petrified](/Compendium/rules/conditions.md#Petrified) bodies of heroes they've defeated, displaying them as trophies.
 
 **Beholder Lairs.** Beholders lurk in cavern complexes they've carved using their eye rays deep in the Underdark or in lairs created for them by their servants.
 
-![](Compendium/books/monster-manual-2025/img/051-02-009-beholder.webp#center)
+![](/Compendium/books/monster-manual-2025/img/051-02-009-beholder.webp#center)
 
 > [!embed-monster]- Beholder
-> ![[beholder-xmm#^statblock|Beholder]]
+> ![Beholder](/Compendium/bestiary/aberration/beholder-xmm.md#^statblock)
 
 ### Berserkers
 
 **Berserkers.** *Raging Invaders and Impassioned Warriors*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 
 > [!embed-monster]- Berserker Commander
-> ![[berserker-commander-xmm#^statblock|Berserker Commander]]
+> ![Berserker Commander](/Compendium/bestiary/humanoid/berserker-commander-xmm.md#^statblock)
 
 > [!embed-monster]- Berserker
-> ![[berserker-xmm#^statblock|Berserker]]
+> ![Berserker](/Compendium/bestiary/humanoid/berserker-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/052-02-010-group-of-berserkers.webp#center)
+![](/Compendium/books/monster-manual-2025/img/052-02-010-group-of-berserkers.webp#center)
 
 ### Black Dragons
 
 **Black Dragons.** *Dragons of Decay and Despair*
 
 - **Habitat.** Swamp  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 
@@ -1060,22 +1059,22 @@ Black dragons hoard tarnished symbols of hope and relics of fallen empires. The 
 **Black Dragon Lairs.** Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by decay.
 
 > [!embed-monster]- Black Dragon Wyrmling
-> ![[black-dragon-wyrmling-xmm#^statblock|Black Dragon Wyrmling]]
+> ![Black Dragon Wyrmling](/Compendium/bestiary/dragon/black-dragon-wyrmling-xmm.md#^statblock)
 
-![Black Dragon Wyrmling](Compendium/books/monster-manual-2025/img/053-02-011-black-dragon-wyrmling.webp#center)
+![Black Dragon Wyrmling](/Compendium/books/monster-manual-2025/img/053-02-011-black-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Young Black Dragon
-> ![[young-black-dragon-xmm#^statblock|Young Black Dragon]]
+> ![Young Black Dragon](/Compendium/bestiary/dragon/young-black-dragon-xmm.md#^statblock)
 
-![An adult black dragon uses...](Compendium/books/monster-manual-2025/img/054-02-012-adult-black-dragon.webp#center "An adult black dragon uses its acid breath to melt the construct defenders of a clockwork fortress")
+![An adult black dragon uses its acid breath to melt the construct defenders of a clockwork fortress](/Compendium/books/monster-manual-2025/img/054-02-012-adult-black-dragon.webp#center)
 
 > [!embed-monster]- Adult Black Dragon
-> ![[adult-black-dragon-xmm#^statblock|Adult Black Dragon]]
+> ![Adult Black Dragon](/Compendium/bestiary/dragon/adult-black-dragon-xmm.md#^statblock)
 
-![As terrifying as it is tit...](Compendium/books/monster-manual-2025/img/055-02-013-ancient-black-dragon.webp#center "As terrifying as it is titanic, an ancient black dragon eradicates unwanted life in its despoiled territory")
+![As terrifying as it is titanic, an ancient black dragon eradicates unwanted life in its despoiled territory](/Compendium/books/monster-manual-2025/img/055-02-013-ancient-black-dragon.webp#center)
 
 > [!embed-monster]- Ancient Black Dragon
-> ![[ancient-black-dragon-xmm#^statblock|Ancient Black Dragon]]
+> ![Ancient Black Dragon](/Compendium/bestiary/dragon/ancient-black-dragon-xmm.md#^statblock)
 
 ### Black Pudding
 
@@ -1100,10 +1099,10 @@ Various supernatural conditions might bring black puddings into being. Roll on o
 | 6 | Necrotic material animated by aimless spirits. |
 ^black-pudding-sources
 
-![](Compendium/books/monster-manual-2025/img/056-02-014-black-pudding.webp#center)
+![](/Compendium/books/monster-manual-2025/img/056-02-014-black-pudding.webp#center)
 
 > [!embed-monster]- Black Pudding
-> ![[black-pudding-xmm#^statblock|Black Pudding]]
+> ![Black Pudding](/Compendium/bestiary/ooze/black-pudding-xmm.md#^statblock)
 
 ### Blights
 
@@ -1118,26 +1117,26 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > 
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
-![Twig Blight](Compendium/books/monster-manual-2025/img/057-638741964748722131.webp#center)
+![Twig Blight](/Compendium/books/monster-manual-2025/img/057-638741964748722131.webp#center)
 
 > [!embed-monster]- Twig Blight
-> ![[twig-blight-xmm#^statblock|Twig Blight]]
+> ![Twig Blight](/Compendium/bestiary/plant/twig-blight-xmm.md#^statblock)
 
 > [!embed-monster]- Needle Blight
-> ![[needle-blight-xmm#^statblock|Needle Blight]]
+> ![Needle Blight](/Compendium/bestiary/plant/needle-blight-xmm.md#^statblock)
 
-![Left to Right: Vine Blight...](Compendium/books/monster-manual-2025/img/058-02-016-vine-tree-needle-blights.webp#center "Left to Right: Vine Blight, Tree Blight, and Needle Blight")
+![Left to Right: Vine Blight, Tree Blight, and Needle Blight](/Compendium/books/monster-manual-2025/img/058-02-016-vine-tree-needle-blights.webp#center)
 
 > [!embed-monster]- Vine Blight
-> ![[vine-blight-xmm#^statblock|Vine Blight]]
+> ![Vine Blight](/Compendium/bestiary/plant/vine-blight-xmm.md#^statblock)
 
 > [!embed-monster]- Tree Blight
-> ![[tree-blight-xmm#^statblock|Tree Blight]]
+> ![Tree Blight](/Compendium/bestiary/plant/tree-blight-xmm.md#^statblock)
 
-![Gulthias Blight](Compendium/books/monster-manual-2025/img/059-02-017-gulthias-blight.webp#center)
+![Gulthias Blight](/Compendium/books/monster-manual-2025/img/059-02-017-gulthias-blight.webp#center)
 
 > [!embed-monster]- Gulthias Blight
-> ![[gulthias-blight-xmm#^statblock|Gulthias Blight]]
+> ![Gulthias Blight](/Compendium/bestiary/plant/gulthias-blight-xmm.md#^statblock)
 
 ### Blink Dog
 
@@ -1148,10 +1147,10 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 
 Blink dogs glimmer with a magic that allows them to teleport, "blinking" from one spot to another. These dogs use this power to chase prey, baffle foes, and express joy. They're frequently found among Feywild folk, such as centaurs and pixies—often as members of rollicking hunts between worlds.
 
-![](Compendium/books/monster-manual-2025/img/060-02-018-blink-dog.webp#center)
+![](/Compendium/books/monster-manual-2025/img/060-02-018-blink-dog.webp#center)
 
 > [!embed-monster]- Blink Dog
-> ![[blink-dog-xmm#^statblock|Blink Dog]]
+> ![Blink Dog](/Compendium/bestiary/fey/blink-dog-xmm.md#^statblock)
 
 ### Blob of Annihilation
 
@@ -1176,11 +1175,11 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 
 | dice: 1d10 | The Blob Contains... |
 |------------|----------------------|
-| 1 | An [[amulet-of-the-planes-xdmg|Amulet of the Planes]]. |
+| 1 | An [Amulet of the Planes](/Compendium/items/amulet-of-the-planes-xdmg.md). |
 | 2 | An Artifact of the DM's choice. |
 | 3 | The corpses of two gods who were entangled in battle when the blob consumed them. |
 | 4 | A Cubic Gate. |
-| 5 | A [[deck-of-many-things-cards-xdmg|Deck of Many Things]]. |
+| 5 | A [Deck of Many Things](/Compendium/items/deck-of-many-things-xdmg.md). |
 | 6 | A magic key that opens a door in Sigil that no other key and no spell can open. |
 | 7 | The preserved corpse of an empyrean. |
 | 8 | The remains of half a kraken. |
@@ -1188,17 +1187,17 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 | 10 | A tarrasque that just died. |
 ^blob-of-annihilation-contents
 
-![](Compendium/books/monster-manual-2025/img/061-02-019-blob-of-annihilation.webp#center)
+![](/Compendium/books/monster-manual-2025/img/061-02-019-blob-of-annihilation.webp#center)
 
 > [!embed-monster]- Blob of Annihilation
-> ![[blob-of-annihilation-xmm#^statblock|Blob of Annihilation]]
+> ![Blob of Annihilation](/Compendium/bestiary/ooze/blob-of-annihilation-xmm.md#^statblock)
 
 ### Blue Dragons
 
 **Blue Dragons.** *Dragons of Tyranny and Tempests*
 
 - **Habitat.** Desert  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Arrogant and imperious, blue dragons are chromatic dragons that crave control and collect followers like other dragons hoard treasure. They seek to transform their territories into empires, domains to be feared by nations.
 
@@ -1208,30 +1207,30 @@ Regalia of rulership and artistic masterpieces fill blue dragons' hoards. These 
 
 **Blue Dragon Lairs.** Blue dragons dwell in arid lands. Their lairs might be death traps meant to entomb invaders or ostentatious fortresses where they plot domination.
 
-![Blue Dragon Wyrmling](Compendium/books/monster-manual-2025/img/062-02-020-blue-dragon-wyrmling.webp#center)
+![Blue Dragon Wyrmling](/Compendium/books/monster-manual-2025/img/062-02-020-blue-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Blue Dragon Wyrmling
-> ![[blue-dragon-wyrmling-xmm#^statblock|Blue Dragon Wyrmling]]
+> ![Blue Dragon Wyrmling](/Compendium/bestiary/dragon/blue-dragon-wyrmling-xmm.md#^statblock)
 
 > [!embed-monster]- Young Blue Dragon
-> ![[young-blue-dragon-xmm#^statblock|Young Blue Dragon]]
+> ![Young Blue Dragon](/Compendium/bestiary/dragon/young-blue-dragon-xmm.md#^statblock)
 
-![An adult blue dragon invad...](Compendium/books/monster-manual-2025/img/063-02-021-adult-blue-dragon.webp#center "An adult blue dragon invades the territory of a silver dragon rival")
+![An adult blue dragon invades the territory of a silver dragon rival](/Compendium/books/monster-manual-2025/img/063-02-021-adult-blue-dragon.webp#center)
 
 > [!embed-monster]- Adult Blue Dragon
-> ![[adult-blue-dragon-xmm#^statblock|Adult Blue Dragon]]
+> ![Adult Blue Dragon](/Compendium/bestiary/dragon/adult-blue-dragon-xmm.md#^statblock)
 
-![Shattering the enemy's def...](Compendium/books/monster-manual-2025/img/064-02-022-ancient-blue-dragon.webp#center "Shattering the enemy's defenses, an ancient blue dragon leads its armies in conquest")
+![Shattering the enemy's defenses, an ancient blue dragon leads its armies in conquest](/Compendium/books/monster-manual-2025/img/064-02-022-ancient-blue-dragon.webp#center)
 
 > [!embed-monster]- Ancient Blue Dragon
-> ![[ancient-blue-dragon-xmm#^statblock|Ancient Blue Dragon]]
+> ![Ancient Blue Dragon](/Compendium/bestiary/dragon/ancient-blue-dragon-xmm.md#^statblock)
 
 ### Bone Devil
 
 **Bone Devil.** *Devil of Dread and Obedience*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [[random-magic-items-implements|Implements]]  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 Bone devils are gaunt, nightmarish Fiends with pallid skin stretched tight over frames that combine human and insectile features. Also known as osyluths, these Fiends command weaker devils and other beings aligned with infernal legions. Bone devils ensure that the commands of hellish sovereigns are exacted efficiently and that non-devils fulfill their commitments to the Nine Hells. They slay those who renege on infernal deals, sending treacherous mortal souls to face unspeakable punishments.
 
@@ -1253,17 +1252,17 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 | 4 | Slay someone or steal something as part of its pact with a wicked magic-user. |
 ^bone-devil-objectives
 
-![](Compendium/books/monster-manual-2025/img/065-02-023-bone-devil.webp#center)
+![](/Compendium/books/monster-manual-2025/img/065-02-023-bone-devil.webp#center)
 
 > [!embed-monster]- Bone Devil
-> ![[bone-devil-xmm#^statblock|Bone Devil]]
+> ![Bone Devil](/Compendium/bestiary/fiend/bone-devil-xmm.md#^statblock)
 
 ### Bone Naga
 
 **Bone Naga.** *Deathless Serpentine Mind Bender*
 
 - **Habitat.** Underdark  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Nagas are immortal but not invincible, and powerful magic can end their lives. Bone nagas are skeletal terrors raised from the remains of magically slain nagas or nagas that were killed but that hadn't yet rejuvenated. They are granted unlife through rituals practiced by cultists, yuan-ti, and morbid spirit nagas. These Undead nagas possess magical abilities similar to those they had in life, along with an eerie gaze that can beguile other creatures.
 
@@ -1271,17 +1270,17 @@ Bone nagas typically obey those who resurrected them, serving their creators as 
 
 In rare cases, bone nagas continue to pursue the goals they had while alive instead of serving other creatures. Most free-willed bone nagas are evil beings raised from spirit naga remains, but in unusual instances, bone nagas created from guardian nagas continue good, albeit confused, existences.
 
-![](Compendium/books/monster-manual-2025/img/066-02-024-bone-naga.webp#center)
+![](/Compendium/books/monster-manual-2025/img/066-02-024-bone-naga.webp#center)
 
 > [!embed-monster]- Bone Naga
-> ![[bone-naga-xmm#^statblock|Bone Naga]]
+> ![Bone Naga](/Compendium/bestiary/undead/bone-naga-xmm.md#^statblock)
 
 ### Brass Dragons
 
 **Brass Dragons.** *Dragons of Lore and Rapport*
 
 - **Habitat.** Desert  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Gregarious and outgoing, brass dragons relish sharing knowledge and stories. Although these metallic dragons favor arid lands, they cheerfully journey considerable distances to visit friendly creatures, pass on what they've learned, and collect news. Though good natured, brass dragons don't shirk from combat when necessary, thwarting foes with magical sleep and searing them with flame.
 
@@ -1291,30 +1290,30 @@ Brass dragons collect eclectic objects. While such items might seem like knickkn
 
 **Brass Dragon Lairs.** Brass dragons usually dwell in secret caves and canyons near well-traveled routes.
 
-![Brass Dragon Wyrmling](Compendium/books/monster-manual-2025/img/067-02-025-brass-dragon-wyrmling.webp#center)
+![Brass Dragon Wyrmling](/Compendium/books/monster-manual-2025/img/067-02-025-brass-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Brass Dragon Wyrmling
-> ![[brass-dragon-wyrmling-xmm#^statblock|Brass Dragon Wyrmling]]
+> ![Brass Dragon Wyrmling](/Compendium/bestiary/dragon/brass-dragon-wyrmling-xmm.md#^statblock)
 
 > [!embed-monster]- Young Brass Dragon
-> ![[young-brass-dragon-xmm#^statblock|Young Brass Dragon]]
+> ![Young Brass Dragon](/Compendium/bestiary/dragon/young-brass-dragon-xmm.md#^statblock)
 
-![An adult brass dragon rids...](Compendium/books/monster-manual-2025/img/068-02-026-adult-brass-dragon.webp#center "An adult brass dragon rids its new lair of unwelcome undead")
+![An adult brass dragon rids its new lair of unwelcome undead](/Compendium/books/monster-manual-2025/img/068-02-026-adult-brass-dragon.webp#center)
 
 > [!embed-monster]- Adult Brass Dragon
-> ![[adult-brass-dragon-xmm#^statblock|Adult Brass Dragon]]
+> ![Adult Brass Dragon](/Compendium/bestiary/dragon/adult-brass-dragon-xmm.md#^statblock)
 
-![An ancient brass dragon pr...](Compendium/books/monster-manual-2025/img/069-02-027-ancient-brass-dragon.webp#center "An ancient brass dragon protects travelers from an oncoming sandstorm")
+![An ancient brass dragon protects travelers from an oncoming sandstorm](/Compendium/books/monster-manual-2025/img/069-02-027-ancient-brass-dragon.webp#center)
 
 > [!embed-monster]- Ancient Brass Dragon
-> ![[ancient-brass-dragon-xmm#^statblock|Ancient Brass Dragon]]
+> ![Ancient Brass Dragon](/Compendium/bestiary/dragon/ancient-brass-dragon-xmm.md#^statblock)
 
 ### Bronze Dragons
 
 **Bronze Dragons.** *Dragons of Potential and Preservation*
 
 - **Habitat.** Coastal  
-- **Treasure.** [[random-magic-items-implements|Implements]]  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 Where bronze dragons dwell, wonders flourish. Imaginative yet mindful, these metallic dragons work toward greatness and help others achieve all they can. They strive to preserve innovations, from the works of past civilizations to new discoveries, and they share such works widely. When dealing with shorter-lived beings, bronze dragons prefer to win them over through conversation and cultivation, but they don't shy from battle when villains keep others from achieving their potential.
 
@@ -1322,40 +1321,40 @@ Bronze dragons enjoy the power and endless possibilities of the sea, and they of
 
 **Bronze Dragon Lairs.** Bronze dragons usually make their homes near or under the sea.
 
-![Bronze Dragon Wyrmling](Compendium/books/monster-manual-2025/img/070-02-028-bronze-dragon-wyrmling.webp#center)
+![Bronze Dragon Wyrmling](/Compendium/books/monster-manual-2025/img/070-02-028-bronze-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Bronze Dragon Wyrmling
-> ![[bronze-dragon-wyrmling-xmm#^statblock|Bronze Dragon Wyrmling]]
+> ![Bronze Dragon Wyrmling](/Compendium/bestiary/dragon/bronze-dragon-wyrmling-xmm.md#^statblock)
 
 > [!embed-monster]- Young Bronze Dragon
-> ![[young-bronze-dragon-xmm#^statblock|Young Bronze Dragon]]
+> ![Young Bronze Dragon](/Compendium/bestiary/dragon/young-bronze-dragon-xmm.md#^statblock)
 
-![An adult bronze dragon def...](Compendium/books/monster-manual-2025/img/071-02-029-adult-bronze-dragon.webp#center "An adult bronze dragon defends the deep from a ravenous giant shark")
+![An adult bronze dragon defends the deep from a ravenous giant shark](/Compendium/books/monster-manual-2025/img/071-02-029-adult-bronze-dragon.webp#center)
 
 > [!embed-monster]- Adult Bronze Dragon
-> ![[adult-bronze-dragon-xmm#^statblock|Adult Bronze Dragon]]
+> ![Adult Bronze Dragon](/Compendium/bestiary/dragon/adult-bronze-dragon-xmm.md#^statblock)
 
-![An ancient bronze dragon u...](Compendium/books/monster-manual-2025/img/072-02-030-ancient-bronze-dragon.webp#center "An ancient bronze dragon uses its repulsion breath to protect a community from rampaging Water elementals")
+![An ancient bronze dragon uses its repulsion breath to protect a community from rampaging Water elementals](/Compendium/books/monster-manual-2025/img/072-02-030-ancient-bronze-dragon.webp#center)
 
 > [!embed-monster]- Ancient Bronze Dragon
-> ![[ancient-bronze-dragon-xmm#^statblock|Ancient Bronze Dragon]]
+> ![Ancient Bronze Dragon](/Compendium/bestiary/dragon/ancient-bronze-dragon-xmm.md#^statblock)
 
 ### Bugbears
 
 **Bugbears.** *Lurking Goblinoid Brutes*
 
 - **Habitat.** Forest, Grassland, Planar (Feywild), Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Bugbears embody fear of the wilds and the menace of natural places. They're notoriously stealthy, and foes that venture into their territories often vanish without a trace.
 
 > [!embed-monster]- Bugbear Stalker
-> ![[bugbear-stalker-xmm#^statblock|Bugbear Stalker]]
+> ![Bugbear Stalker](/Compendium/bestiary/fey/bugbear-stalker-xmm.md#^statblock)
 
 > [!embed-monster]- Bugbear Warrior
-> ![[bugbear-warrior-xmm#^statblock|Bugbear Warrior]]
+> ![Bugbear Warrior](/Compendium/bestiary/fey/bugbear-warrior-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/073-02-031-bugbears.webp#center)
+![](/Compendium/books/monster-manual-2025/img/073-02-031-bugbears.webp#center)
 
 ### Bulettes
 
@@ -1367,29 +1366,29 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
 Also called "land sharks," bulettes are single-minded predators that burrow under, leap over, and burst through obstacles in pursuit of their quarry. They burrow rapidly just below ground. On sensing movement, they erupt from below, attempting to catch prey in their oversize maws.
 
 > [!embed-monster]- Bulette
-> ![[bulette-xmm#^statblock|Bulette]]
+> ![Bulette](/Compendium/bestiary/monstrosity/bulette-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/074-02-032-bulettes.webp#center)
+![](/Compendium/books/monster-manual-2025/img/074-02-032-bulettes.webp#center)
 
 > [!embed-monster]- Bulette Pup
-> ![[bulette-pup-xmm#^statblock|Bulette Pup]]
+> ![Bulette Pup](/Compendium/bestiary/monstrosity/bulette-pup-xmm.md#^statblock)
 
 ### Bullywugs
 
 **Bullywugs.** *Amphibious Appreciators of Marsh and Muck*
 
 - **Habitat.** Swamp  
-- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md), Individual  
 
 Fey embodiments of swamplands, bullywugs protect the murky wilds and consider themselves cosmically favored for that role. These human-size, toad- or frog-like creatures have close relationships with the creatures of the swamp.
 
 > [!embed-monster]- Bullywug Bog Sage
-> ![[bullywug-bog-sage-xmm#^statblock|Bullywug Bog Sage]]
+> ![Bullywug Bog Sage](/Compendium/bestiary/fey/bullywug-bog-sage-xmm.md#^statblock)
 
 > [!embed-monster]- Bullywug Warrior
-> ![[bullywug-warrior-xmm#^statblock|Bullywug Warrior]]
+> ![Bullywug Warrior](/Compendium/bestiary/fey/bullywug-warrior-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/075-02-033-bullywugs.webp#center)
+![](/Compendium/books/monster-manual-2025/img/075-02-033-bullywugs.webp#center)
 
 ## Monsters (C)
 
@@ -1398,7 +1397,7 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
 **Cambion.** *Mortal Infused with Fiendish Might*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Cambions are former mortals corrupted by fiendish power or possessed by insidious forces. While tieflings are free-willed individuals with a hint of fiendish ancestry, cambions are inherently tied to or remade by the wicked magic of the Lower Planes.
 
@@ -1422,10 +1421,10 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 | 6 | Taking part in fiendish rituals. |
 ^cambion-origins
 
-![](Compendium/books/monster-manual-2025/img/076-03-001-cambion.webp#center)
+![](/Compendium/books/monster-manual-2025/img/076-03-001-cambion.webp#center)
 
 > [!embed-monster]- Cambion
-> ![[cambion-xmm#^statblock|Cambion]]
+> ![Cambion](/Compendium/bestiary/fiend/cambion-xmm.md#^statblock)
 
 ### Carrion Crawler
 
@@ -1436,40 +1435,40 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 
 Ravenous corpse eaters, carrion crawlers gravitate toward places of slaughter and decay. In such charnel environs, they feast on the dead with no qualms about their meals' origins or freshness.
 
-Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [[conditions#Paralyzed|paralyzed]] and consumed.
+Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [paralyzed](/Compendium/rules/conditions.md#Paralyzed) and consumed.
 
 Carrion crawlers scour sewers, battlefields, necropolises, and fetid wildernesses for corpses, clinging to ceilings to ambush smaller prey and to avoid competing hunters. They're drawn to light and the scent of blood, recognizing them as signs of food.
 
 These scavengers avoid ingesting inorganic material. Crypts with funeral armors sucked clean of their corpses and eerily pristine catacombs are signs of infestation by carrion crawlers.
 
-![](Compendium/books/monster-manual-2025/img/077-03-002-carrion-crawlers.webp#center)
+![](/Compendium/books/monster-manual-2025/img/077-03-002-carrion-crawlers.webp#center)
 
 > [!embed-monster]- Carrion Crawler
-> ![[carrion-crawler-xmm#^statblock|Carrion Crawler]]
+> ![Carrion Crawler](/Compendium/bestiary/monstrosity/carrion-crawler-xmm.md#^statblock)
 
 ### Centaurs
 
 **Centaurs.** *Defenders of the Feywild*
 
 - **Habitat.** Forest, Grassland, Planar (Feywild)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Centaurs are defenders of forests, plains, and sites of primeval power. With upper bodies like humans' and the lower bodies of horses, centaurs charge into battle against those who would harm their allies.
 
-![](Compendium/books/monster-manual-2025/img/078-03-003-centaurs.webp#center)
+![](/Compendium/books/monster-manual-2025/img/078-03-003-centaurs.webp#center)
 
 > [!embed-monster]- Centaur Warden
-> ![[centaur-warden-xmm#^statblock|Centaur Warden]]
+> ![Centaur Warden](/Compendium/bestiary/fey/centaur-warden-xmm.md#^statblock)
 
 > [!embed-monster]- Centaur Trooper
-> ![[centaur-trooper-xmm#^statblock|Centaur Trooper]]
+> ![Centaur Trooper](/Compendium/bestiary/fey/centaur-trooper-xmm.md#^statblock)
 
 ### Chain Devil
 
 **Chain Devil.** *Devil of Pain and Control*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [[random-magic-items-implements|Implements]]  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 Also known as kytons, chain devils consider themselves morbid artisans who use deception, menace, and vicious metal to coerce prisoners into betraying themselves. Many serve powerful devils, wrenching secrets from imprisoned souls using deadly, animate chains. Left to their own devices, chain devils encourage ruthless individuals to pursue forbidden magic, leading their pupils down paths to the Nine Hells.
 
@@ -1485,24 +1484,24 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 | 4 | The viewer at their lowest point in life. |
 ^chain-devil-masks
 
-![](Compendium/books/monster-manual-2025/img/079-03-004-chain-devil.webp#center)
+![](/Compendium/books/monster-manual-2025/img/079-03-004-chain-devil.webp#center)
 
 > [!embed-monster]- Chain Devil
-> ![[chain-devil-xmm#^statblock|Chain Devil]]
+> ![Chain Devil](/Compendium/bestiary/fiend/chain-devil-xmm.md#^statblock)
 
 ### Chasme
 
 **Chasme.** *Demon of Betrayal and Sycophancy*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitate foes by producing a mind-numbing droning, then use their proboscises to drain victims of life. In the Abyss, most chasmes obsequiously serve more powerful demons and search for captives to press into demonic hordes.
 
-![Chasme](Compendium/books/monster-manual-2025/img/080-03-005-chasme.webp#center)
+![Chasme](/Compendium/books/monster-manual-2025/img/080-03-005-chasme.webp#center)
 
 > [!embed-monster]- Chasme
-> ![[chasme-xmm#^statblock|Chasme]]
+> ![Chasme](/Compendium/bestiary/fiend/chasme-xmm.md#^statblock)
 
 ### Chimera
 
@@ -1515,17 +1514,17 @@ Violent and unpredictable, chimeras combine the deadliest traits of lions, rams,
 
 Owing to their draconic instincts, chimeras are greedy creatures that hoard treasures within cavernous lairs. They're undiscerning about what they collect, gathering shiny objects alongside trophies and bones from their recent kills. Brave souls seeking to distract or temporarily appease a chimera can do so by offering it treasure and food.
 
-![](Compendium/books/monster-manual-2025/img/081-03-006-chimera.webp#center)
+![](/Compendium/books/monster-manual-2025/img/081-03-006-chimera.webp#center)
 
 > [!embed-monster]- Chimera
-> ![[chimera-xmm#^statblock|Chimera]]
+> ![Chimera](/Compendium/bestiary/monstrosity/chimera-xmm.md#^statblock)
 
 ### Chuul
 
 **Chuul.** *Chitinous Servant of Primeval Powers*
 
 - **Habitat.** Coastal, Swamp, Underdark  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Chuuls originated in forgotten ages when aboleths and stranger beings ruled alien empires beneath the waves. The aboleths transformed numerous deep-sea predators into servants that could venture beyond the seas to claim more magic and creatures to exploit. Chuuls are the most enduring of these bizarre servants.
 
@@ -1533,17 +1532,17 @@ Many chuuls serve aboleth overlords, carrying out their whims amid lightless sea
 
 Chuuls don't age and can lie dormant in hidden places for millennia before threats, ancient orders, or strange compulsions awaken them.
 
-![](Compendium/books/monster-manual-2025/img/082-03-007-chuul.webp#center)
+![](/Compendium/books/monster-manual-2025/img/082-03-007-chuul.webp#center)
 
 > [!embed-monster]- Chuul
-> ![[chuul-xmm#^statblock|Chuul]]
+> ![Chuul](/Compendium/bestiary/aberration/chuul-xmm.md#^statblock)
 
 ### Clay Golem
 
 **Clay Golem.** *Guardian of Home and Heart*
 
 - **Habitat.** Urban  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Clay golems are magical defenders made from earth and clay to protect places or communities. The materials used in creating clay golems originate from near the location the golems protect and often have special significance to their creators, such as clay from a holy site or bricks from a magical ruin. While some clay golems are masterfully sculpted to resemble living beings, others have only vaguely humanlike forms.
 
@@ -1559,17 +1558,17 @@ These golems obey their creators' orders and protect what their makers value mos
 | 4 | Remove any who enter its creator's workshop. |
 ^clay-golem-orders
 
-![](Compendium/books/monster-manual-2025/img/083-03-008-clay-golem.webp#center)
+![](/Compendium/books/monster-manual-2025/img/083-03-008-clay-golem.webp#center)
 
 > [!embed-monster]- Clay Golem
-> ![[clay-golem-xmm#^statblock|Clay Golem]]
+> ![Clay Golem](/Compendium/bestiary/construct/clay-golem-xmm.md#^statblock)
 
 ### Cloaker
 
 **Cloaker.** *Haunter in the Dark*
 
 - **Habitat.** Underdark  
-- **Treasure.** [[random-magic-items-implements|Implements]]  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 Cloakers are mysterious Underdark predators, named by adventurers for their resemblance to hanging cloaks when they cling to walls. What cloakers call themselves is unknown, if they refer to themselves at all. Though they're undeniably intelligent, their behavior is often inscrutable.
 
@@ -1577,26 +1576,26 @@ Cloakers sometimes gather in Underdark enclaves, but they rarely build settlemen
 
 Cloakers delight in frightening foes. In addition to their methods of ambush, cloakers can create illusory duplicates of themselves and emit surreal moans that non-cloakers find terrifying in unexplainable, primal ways. Cloakers might antagonize explorers lost in the Underdark for days, terrorizing and scattering them before attacking. They rarely converse with other beings, except to whisper eerie riddles to those they're about to consume.
 
-![](Compendium/books/monster-manual-2025/img/084-03-009-cloaker.webp#center)
+![](/Compendium/books/monster-manual-2025/img/084-03-009-cloaker.webp#center)
 
 > [!embed-monster]- Cloaker
-> ![[cloaker-xmm#^statblock|Cloaker]]
+> ![Cloaker](/Compendium/bestiary/aberration/cloaker-xmm.md#^statblock)
 
 ### Cloud Giant
 
 **Cloud Giant.** *Giant of the Loftiest Heights*
 
 - **Habitat.** Mountain  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Cloud giants use the power of the skies to observe and subtly influence the world. These giants resemble humans with hair ranging from silver to blue and with skin in cloudlike shades from stark white to twilight hues. Curved canines grow in their upper jaws, extending past their lower lips. In battle, they attack with weapons wreathed in storm clouds and throw roaring thunderheads.
 
 Most cloud giants inhabit citadels crowning tremendous mountains or magical palaces that drift amid the clouds. Many of these giants believe they possess similarly lofty status or purpose. Some view themselves as godlike beings who can manipulate and steal from terrestrial beings with impunity. Others claim their long lives and place among the clouds grant them unique perspectives, so they chronicle what they witness in the world below without interfering. In either case, cloud giants often possess fabulous magical treasures, either claimed from across the world or created by (and gigantically sized for) themselves.
 
-![](Compendium/books/monster-manual-2025/img/085-03-010-cloud-giants.webp#center)
+![](/Compendium/books/monster-manual-2025/img/085-03-010-cloud-giants.webp#center)
 
 > [!embed-monster]- Cloud Giant
-> ![[cloud-giant-xmm#^statblock|Cloud Giant]]
+> ![Cloud Giant](/Compendium/bestiary/giant/cloud-giant-xmm.md#^statblock)
 
 ### Cockatrices
 
@@ -1608,19 +1607,19 @@ Most cloud giants inhabit citadels crowning tremendous mountains or magical pala
 Cockatrices combine the features of irate roosters and starving reptiles. They petrify those they bite, their slightest peck turning their prey to stone.
 
 > [!embed-monster]- Cockatrice
-> ![[cockatrice-xmm#^statblock|Cockatrice]]
+> ![Cockatrice](/Compendium/bestiary/monstrosity/cockatrice-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/086-03-011-cockatrice.webp#center)
+![](/Compendium/books/monster-manual-2025/img/086-03-011-cockatrice.webp#center)
 
 > [!embed-monster]- Cockatrice Regent
-> ![[cockatrice-regent-xmm#^statblock|Cockatrice Regent]]
+> ![Cockatrice Regent](/Compendium/bestiary/monstrosity/cockatrice-regent-xmm.md#^statblock)
 
 ### Colossus
 
 **Colossus.** *Titanic Vessel of Divine Might*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Colossi are massive Constructs created by the devout to reflect the nature of a deity, which could be benevolent or wicked. Colossi thrum with incredible magic and work divine will on the land.
 
@@ -1628,10 +1627,10 @@ Droves of faithful artisans craft a colossus in a shape to honor their deity, th
 
 Most colossi were created in ages past and now lie dormant in secluded wilderness, awakening only when disturbed or called on to serve once more.
 
-![](Compendium/books/monster-manual-2025/img/087-03-012-colossus.webp#center)
+![](/Compendium/books/monster-manual-2025/img/087-03-012-colossus.webp#center)
 
 > [!embed-monster]- Colossus
-> ![[colossus-xmm#^statblock|Colossus]]
+> ![Colossus](/Compendium/bestiary/construct/colossus-xmm.md#^statblock)
 
 ### Commoner
 
@@ -1720,17 +1719,17 @@ Weaver
 
 Youngster
 
-![Commoners of varied specie...](Compendium/books/monster-manual-2025/img/088-03-013-commoners.webp#center "Commoners of varied species and professions go about their day")
+![Commoners of varied species and professions go about their day](/Compendium/books/monster-manual-2025/img/088-03-013-commoners.webp#center)
 
 > [!embed-monster]- Commoner
-> ![[commoner-xmm#^statblock|Commoner]]
+> ![Commoner](/Compendium/bestiary/humanoid/commoner-xmm.md#^statblock)
 
 ### Copper Dragons
 
 **Copper Dragons.** *Dragons of Curiosity and Community*
 
 - **Habitat.** Hill  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Relentlessly friendly and curious, most copper dragons view the world as a place of endless wonder and possibility. These gregarious dragons are fonts of patience, hospitality, and humor, and they seek to improve the lives—or, at least, the mood—of those they interact with. If forced to fight to defend themselves or their friends, these dragons favor using their slowing breath and physical attacks to subdue antagonists. Only in cases of extreme peril or emotion do they use their deadly acid breath.
 
@@ -1739,29 +1738,29 @@ Copper dragons typically live in caverns amid picturesque hills and rock formati
 **Copper Dragon Lairs.** Copper dragons typically inhabit multi-chamber caves and renovated ruins.
 
 > [!embed-monster]- Copper Dragon Wyrmling
-> ![[copper-dragon-wyrmling-xmm#^statblock|Copper Dragon Wyrmling]]
+> ![Copper Dragon Wyrmling](/Compendium/bestiary/dragon/copper-dragon-wyrmling-xmm.md#^statblock)
 
-![Copper Dragon Wyrmling](Compendium/books/monster-manual-2025/img/089-03-014-copper-dragon-wyrmling.webp#center)
+![Copper Dragon Wyrmling](/Compendium/books/monster-manual-2025/img/089-03-014-copper-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Young Copper Dragon
-> ![[young-copper-dragon-xmm#^statblock|Young Copper Dragon]]
+> ![Young Copper Dragon](/Compendium/bestiary/dragon/young-copper-dragon-xmm.md#^statblock)
 
-![Surrounded by guardians of...](Compendium/books/monster-manual-2025/img/090-03-015-adult-copper-dragon.webp#center "Surrounded by guardians of the forest, an adult copper dragon bequeaths a magic sword to a worthy hero")
+![Surrounded by guardians of the forest, an adult copper dragon bequeaths a magic sword to a worthy hero](/Compendium/books/monster-manual-2025/img/090-03-015-adult-copper-dragon.webp#center)
 
 > [!embed-monster]- Adult Copper Dragon
-> ![[adult-copper-dragon-xmm#^statblock|Adult Copper Dragon]]
+> ![Adult Copper Dragon](/Compendium/bestiary/dragon/adult-copper-dragon-xmm.md#^statblock)
 
-![An ancient copper dragon w...](Compendium/books/monster-manual-2025/img/091-03-016-ancient-copper-dragon.webp#center "An ancient copper dragon watches over its allies' boisterous young")
+![An ancient copper dragon watches over its allies' boisterous young](/Compendium/books/monster-manual-2025/img/091-03-016-ancient-copper-dragon.webp#center)
 
 > [!embed-monster]- Ancient Copper Dragon
-> ![[ancient-copper-dragon-xmm#^statblock|Ancient Copper Dragon]]
+> ![Ancient Copper Dragon](/Compendium/bestiary/dragon/ancient-copper-dragon-xmm.md#^statblock)
 
 ### Couatl
 
 **Couatl.** *Guardian Manifestation of the Divine*
 
 - **Habitat.** Desert, Forest, Grassland, Urban  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Embodiments of prophecy and protectors of divine secrets, couatls ensure fate unfolds as it should. They resemble serpents with rainbow wings, and each is a manifestation of a divine edict, a truth or fate that a righteous god decrees must hold true for all time. Most couatls appear in places of ancient power, where they guard hidden magic or ensure foretold acts do or don't come to pass. Rarely, couatls watch over communities or travel lands in disguise, interpreting omens or manipulating factors to set fate on its proper course.
 
@@ -1769,10 +1768,10 @@ Motivated by eternal mandates, couatls sometimes behave in inscrutable or antago
 
 Each couatl goes through a period of renewal at the end of an age. In a couatl's lifecycle, an age might correspond to a celestial calendar or some divine chronology. Near the age's end, the couatl lays a wondrous, rainbow-hued egg. When the age ends, the couatl dies. For a period—perhaps a single day, perhaps until an annual solar event—the couatl's work is unattended. Once this time passes, the same couatl that laid the egg hatches from it, fully grown and renewed to serve for another age.
 
-![](Compendium/books/monster-manual-2025/img/092-03-017-cuoatl.webp#center)
+![](/Compendium/books/monster-manual-2025/img/092-03-017-cuoatl.webp#center)
 
 > [!embed-monster]- Couatl
-> ![[couatl-xmm#^statblock|Couatl]]
+> ![Couatl](/Compendium/bestiary/celestial/couatl-xmm.md#^statblock)
 
 ### Crawling Claws
 
@@ -1787,20 +1786,20 @@ Crawling claws are severed hands that move and act of their own murderous accord
 > 
 > Is it possible for any creature, any living being, to be inherently evil? Such an assertion may itself facilitate the committing of evil acts. By defining a person as evil, we give them free rein to behave as they will, absolving them from the wickedness of their words and the evil of their hands.
 
-![](Compendium/books/monster-manual-2025/img/093-03-018-crawling-claws.webp#center)
+![](/Compendium/books/monster-manual-2025/img/093-03-018-crawling-claws.webp#center)
 
 > [!embed-monster]- Crawling Claw
-> ![[crawling-claw-xmm#^statblock|Crawling Claw]]
+> ![Crawling Claw](/Compendium/bestiary/undead/crawling-claw-xmm.md#^statblock)
 
 > [!embed-monster]- Swarm of Crawling Claws
-> ![[swarm-of-crawling-claws-xmm#^statblock|Swarm of Crawling Claws]]
+> ![Swarm of Crawling Claws](/Compendium/bestiary/undead/swarm-of-crawling-claws-xmm.md#^statblock)
 
 ### Cultists
 
 **Cultists.** *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
+- **Treasure.** Individual, [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -1842,47 +1841,47 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
-![A death cultist and his fo...](Compendium/books/monster-manual-2025/img/094-03-019-death-cultists.webp#center "A death cultist and his followers summon Orcus, Demon Lord of Undeath")
+![A death cultist and his followers summon Orcus, Demon Lord of Undeath](/Compendium/books/monster-manual-2025/img/094-03-019-death-cultists.webp#center)
 
 > [!embed-monster]- Cultist
-> ![[cultist-xmm#^statblock|Cultist]]
+> ![Cultist](/Compendium/bestiary/humanoid/cultist-xmm.md#^statblock)
 
 > [!embed-monster]- Cultist Fanatic
-> ![[cultist-fanatic-xmm#^statblock|Cultist Fanatic]]
+> ![Cultist Fanatic](/Compendium/bestiary/humanoid/cultist-fanatic-xmm.md#^statblock)
 
 > [!embed-monster]- Cultist Hierophant
-> ![[cultist-hierophant-xmm#^statblock|Cultist Hierophant]]
+> ![Cultist Hierophant](/Compendium/bestiary/humanoid/cultist-hierophant-xmm.md#^statblock)
 
-![An aberrant cultist and an...](Compendium/books/monster-manual-2025/img/095-03-020-elemental-aberrant-cultists.webp#center "An aberrant cultist and an elemental cultist clash, unleashing the magic of their otherworldly patrons")
+![An aberrant cultist and an elemental cultist clash, unleashing the magic of their otherworldly patrons](/Compendium/books/monster-manual-2025/img/095-03-020-elemental-aberrant-cultists.webp#center)
 
 > [!embed-monster]- Aberrant Cultist
-> ![[aberrant-cultist-xmm#^statblock|Aberrant Cultist]]
+> ![Aberrant Cultist](/Compendium/bestiary/humanoid/aberrant-cultist-xmm.md#^statblock)
 
 > [!embed-monster]- Death Cultist
-> ![[death-cultist-xmm#^statblock|Death Cultist]]
+> ![Death Cultist](/Compendium/bestiary/humanoid/death-cultist-xmm.md#^statblock)
 
 > [!embed-monster]- Elemental Cultist
-> ![[elemental-cultist-xmm#^statblock|Elemental Cultist]]
+> ![Elemental Cultist](/Compendium/bestiary/humanoid/elemental-cultist-xmm.md#^statblock)
 
 > [!embed-monster]- Fiend Cultist
-> ![[fiend-cultist-xmm#^statblock|Fiend Cultist]]
+> ![Fiend Cultist](/Compendium/bestiary/humanoid/fiend-cultist-xmm.md#^statblock)
 
 ### Cyclopes
 
 **Cyclopes.** *Monocular Servants of Destiny*
 
 - **Habitat.** Coastal, Desert, Grassland, Hill, Mountain, Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 
 > [!embed-monster]- Cyclops Oracle
-> ![[cyclops-oracle-xmm#^statblock|Cyclops Oracle]]
+> ![Cyclops Oracle](/Compendium/bestiary/giant/cyclops-oracle-xmm.md#^statblock)
 
 > [!embed-monster]- Cyclops Sentry
-> ![[cyclops-sentry-xmm#^statblock|Cyclops Sentry]]
+> ![Cyclops Sentry](/Compendium/bestiary/giant/cyclops-sentry-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/096-03-021-cyclops.webp#center)
+![](/Compendium/books/monster-manual-2025/img/096-03-021-cyclops.webp#center)
 
 ## Monsters (D)
 
@@ -1891,7 +1890,7 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
 **Dao.** *Genie of the Earth*
 
 - **Habitat.** Planar (Elemental Plane of Earth), Underdark  
-- **Treasure.** [[random-magic-items-implements|Implements]]  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 Genies of minerals and gemstones, dao embody the resolve of rock. Using innate magic, they move through the earth unimpeded, exploring depths inaccessible to most. Dao delight in the treasures of the earth, whether raw gemstones, jewelry crafted from pure metals, or wondrous fossils. In exchange for such treasures, dao might reveal underground mysteries, such as paths through the Underdark, buried ruins, or whole subterranean realms.
 
@@ -1901,10 +1900,10 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 > 
 > On the Elemental Plane of Earth, galaxies of gemstones twinkle over vaults of treasure. If dao are there, so is wealth worth hunting.
 
-![](Compendium/books/monster-manual-2025/img/097-04-001-dao.webp#center)
+![](/Compendium/books/monster-manual-2025/img/097-04-001-dao.webp#center)
 
 > [!embed-monster]- Dao
-> ![[dao-xmm#^statblock|Dao]]
+> ![Dao](/Compendium/bestiary/elemental/dao-xmm.md#^statblock)
 
 ### Darkmantle
 
@@ -1921,10 +1920,10 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 > 
 > Just assume there's no such thing as a stalactite.
 
-![Darkmantle](Compendium/books/monster-manual-2025/img/098-04-002-darkmantle.webp#center)
+![Darkmantle](/Compendium/books/monster-manual-2025/img/098-04-002-darkmantle.webp#center)
 
 > [!embed-monster]- Darkmantle
-> ![[darkmantle-xmm#^statblock|Darkmantle]]
+> ![Darkmantle](/Compendium/bestiary/aberration/darkmantle-xmm.md#^statblock)
 
 ### Death Dog
 
@@ -1935,7 +1934,7 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 
 Death dogs are plagues on the arid lands they inhabit. These vicious, two-headed canines ambush creatures they perceive as weaker than themselves, favoring the wounded or infirm. They attack recklessly, infecting as many creatures as possible with their diseased jaws. If driven off, death dogs linger close to their victims, letting infection weaken their prey before they attack again.
 
-Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [[conditions#Poisoned|Poisoned]] condition from a death dog's Bite.
+Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition from a death dog's Bite.
 
 > [!quote] A quote from Tablet Fragment  
 > 
@@ -1953,27 +1952,27 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 | 6 | Wicked symbols to gradually appear on and spread across the victim's body. |
 ^death-dog-malady-symptoms
 
-![](Compendium/books/monster-manual-2025/img/099-04-003-death-dog.webp#center)
+![](/Compendium/books/monster-manual-2025/img/099-04-003-death-dog.webp#center)
 
 > [!embed-monster]- Death Dog
-> ![[death-dog-xmm#^statblock|Death Dog]]
+> ![Death Dog](/Compendium/bestiary/monstrosity/death-dog-xmm.md#^statblock)
 
 ### Death Knights
 
 **Death Knights.** *Haunted Commanders of Unliving Legions*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Champions of evil, death knights are armor-clad, skeletal warlords. Combining devastating martial prowess and blasphemous magic, these undying tyrants lead unholy legions against the living or brood in cursed citadels. Every death knight is haunted by a legacy of tragedy and dishonor that drives it to commit greater evils.
 
-![A death knight and its asp...](Compendium/books/monster-manual-2025/img/100-04-004-death-knight.webp#center "A death knight and its aspirants march to war against the living")
+![A death knight and its aspirants march to war against the living](/Compendium/books/monster-manual-2025/img/100-04-004-death-knight.webp#center)
 
 > [!embed-monster]- Death Knight
-> ![[death-knight-xmm#^statblock|Death Knight]]
+> ![Death Knight](/Compendium/bestiary/undead/death-knight-xmm.md#^statblock)
 
 > [!embed-monster]- Death Knight Aspirant
-> ![[death-knight-aspirant-xmm#^statblock|Death Knight Aspirant]]
+> ![Death Knight Aspirant](/Compendium/bestiary/undead/death-knight-aspirant-xmm.md#^statblock)
 
 ### Death Tyrant
 
@@ -1994,35 +1993,35 @@ No matter how death tyrants come into being, bizarre impulses drive their deathl
 > 
 > A cluster of tiny lights descended from a dark crevice in the ceiling. These motes cast an eerie glow on the great, alien skull that hung beneath them.
 
-![](Compendium/books/monster-manual-2025/img/101-04-005-death-tyrant.webp#center)
+![](/Compendium/books/monster-manual-2025/img/101-04-005-death-tyrant.webp#center)
 
 > [!embed-monster]- Death Tyrant
-> ![[death-tyrant-xmm#^statblock|Death Tyrant]]
+> ![Death Tyrant](/Compendium/bestiary/undead/death-tyrant-xmm.md#^statblock)
 
 ### Demilich
 
 **Demilich.** *What Lies beyond Lichdom*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 A demilich is a skull harboring the remnants of a lich's wicked essence. If the burden of immortality overwhelms a lich, its consciousness turns inward as its body rots away. But if its remains are disturbed, a demilich rises. Demiliches usually appear as skulls adorned with gems or arcane sigils.
 
 **Demilich Lairs.** Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of these is the Tomb of Horrors, lair of the infamous Acererak.
 
-![](Compendium/books/monster-manual-2025/img/102-04-006-demilich.webp#center)
+![](/Compendium/books/monster-manual-2025/img/102-04-006-demilich.webp#center)
 
 > [!embed-monster]- Demilich
-> ![[demilich-xmm#^statblock|Demilich]]
+> ![Demilich](/Compendium/bestiary/undead/demilich-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/103-04-007-deva.webp#center)
+![](/Compendium/books/monster-manual-2025/img/103-04-007-deva.webp#center)
 
 ### Deva
 
 **Deva.** *World-Changing Angelic Messenger*
 
 - **Habitat.** Planar (Upper Planes)  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Devas are emissaries of divine will. These immortal messengers adopt the shapes of mystical beasts or idealized, winged mortals. As with all angels, their true forms are known only to the gods they serve.
 
@@ -2041,7 +2040,7 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 ^deva-messages
 
 > [!embed-monster]- Deva
-> ![[deva-xmm#^statblock|Deva]]
+> ![Deva](/Compendium/bestiary/celestial/deva-xmm.md#^statblock)
 
 ### Displacer Beast
 
@@ -2060,26 +2059,26 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 > 
 > The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
 
-![](Compendium/books/monster-manual-2025/img/104-04-008-displacer-beasts.webp#center)
+![](/Compendium/books/monster-manual-2025/img/104-04-008-displacer-beasts.webp#center)
 
 > [!embed-monster]- Displacer Beast
-> ![[displacer-beast-xmm#^statblock|Displacer Beast]]
+> ![Displacer Beast](/Compendium/bestiary/monstrosity/displacer-beast-xmm.md#^statblock)
 
 ### Djinni
 
 **Djinni.** *Genie of the Air*
 
 - **Habitat.** Coastal, Planar (Elemental Plane of Air)  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 As genies of wind and skies, djinn personify freedom and might. They can control wind and travel as swiftly as a breeze. They might be as serene as drifting clouds or as tempestuous as storms, but most djinn relish their freedom and desire to discover the wonders of the multiverse. Djinn often know many stories, and they might share such lore with those who offer their own exciting stories in trade.
 
 While many djinn create airy palaces on stormy coasts or high in the clouds, untold numbers dwell on the Elemental Plane of Air. In floating cities, djinn collect tales and experiences from across the planes of existence, sharing them in fabulous forums, libraries, and theaters. The greatest of these cities is the Citadel of Ice and Steel, in which wind-sculpted towers contain a city-size trove of incredible knowledge and treasures that defy belief.
 
-![](Compendium/books/monster-manual-2025/img/105-04-009-djinni.webp#center)
+![](/Compendium/books/monster-manual-2025/img/105-04-009-djinni.webp#center)
 
 > [!embed-monster]- Djinni
-> ![[djinni-xmm#^statblock|Djinni]]
+> ![Djinni](/Compendium/bestiary/elemental/djinni-xmm.md#^statblock)
 
 ### Doppelganger
 
@@ -2108,10 +2107,10 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 > 
 > Meeting yourself is the surest way to realize you're not as charming as you think you are.
 
-![](Compendium/books/monster-manual-2025/img/106-04-010-doppelganger.webp#center)
+![](/Compendium/books/monster-manual-2025/img/106-04-010-doppelganger.webp#center)
 
 > [!embed-monster]- Doppelganger
-> ![[doppelganger-xmm#^statblock|Doppelganger]]
+> ![Doppelganger](/Compendium/bestiary/monstrosity/doppelganger-xmm.md#^statblock)
 
 ### Dracolich
 
@@ -2148,10 +2147,10 @@ There are untold profane routes by which a dragon might become a dracolich. Howe
 > 
 > And naught will be left save shattered thrones with no rulers. But the dead dragons shall rule the world entire...
 
-![](Compendium/books/monster-manual-2025/img/107-04-011-dracolich.webp#center)
+![](/Compendium/books/monster-manual-2025/img/107-04-011-dracolich.webp#center)
 
 > [!embed-monster]- Dracolich
-> ![[dracolich-xmm#^statblock|Dracolich]]
+> ![Dracolich](/Compendium/bestiary/undead/dracolich-xmm.md#^statblock)
 
 ### Dragon Turtle
 
@@ -2164,10 +2163,10 @@ Dragon turtles are mighty creatures with shells large enough to be mistaken for 
 
 Many dragon turtles live in secluded lairs or ruins deep underwater, and they might not be spotted by surface dwellers for generations. Like both their namesakes, dragon turtles can have exceptionally long lives. Some recall the wonders of ages past or remarkable individuals that passed through their realms long ago. Such dragon turtles might be convinced to share their tales or provide guidance through their territories in exchange for treasures they've never glimpsed on the ocean floor.
 
-![](Compendium/books/monster-manual-2025/img/108-04-012-dragon-turtle.webp#center)
+![](/Compendium/books/monster-manual-2025/img/108-04-012-dragon-turtle.webp#center)
 
 > [!embed-monster]- Dragon Turtle
-> ![[dragon-turtle-xmm#^statblock|Dragon Turtle]]
+> ![Dragon Turtle](/Compendium/bestiary/dragon/dragon-turtle-xmm.md#^statblock)
 
 ### Dretches
 
@@ -2182,20 +2181,20 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 > 
 > Ah, the infinite wonders of the Abyss. If there's anything you don't like, you'll find it here.
 
-![](Compendium/books/monster-manual-2025/img/109-04-013-dretches.webp#center)
+![](/Compendium/books/monster-manual-2025/img/109-04-013-dretches.webp#center)
 
 > [!embed-monster]- Dretch
-> ![[dretch-xmm#^statblock|Dretch]]
+> ![Dretch](/Compendium/bestiary/fiend/dretch-xmm.md#^statblock)
 
 > [!embed-monster]- Swarm of Dretches
-> ![[swarm-of-dretches-xmm#^statblock|Swarm of Dretches]]
+> ![Swarm of Dretches](/Compendium/bestiary/fiend/swarm-of-dretches-xmm.md#^statblock)
 
 ### Drider
 
 **Drider.** *Spiderlike Underdark Hunter*
 
 - **Habitat.** Forest, Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Driders combine the features of drow and giant spiders. The wicked god Lolth is fond of transforming her drow worshipers into driders, as either a blessing or a curse. These driders often become fanatical servants of their god, or they are overwhelmed by their transformation and live only to indulge their predatory arachnid instincts.
 
@@ -2213,17 +2212,17 @@ Driders also appear when whole communities are transformed by a wicked god's wra
 | 6 | A punishment from a spiteful god, like Lolth or the Queen of Air and Darkness. |
 ^drider-metamorphoses
 
-![](Compendium/books/monster-manual-2025/img/110-04-014-drider.webp#center)
+![](/Compendium/books/monster-manual-2025/img/110-04-014-drider.webp#center)
 
 > [!embed-monster]- Drider
-> ![[drider-xmm#^statblock|Drider]]
+> ![Drider](/Compendium/bestiary/monstrosity/drider-xmm.md#^statblock)
 
 ### Druid
 
 **Druid.** *Steward and Sage of Nature*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
+- **Treasure.** Individual, [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Druids use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. Roll on or choose a result from the Druidic Traditions table to inspire a druid's magical practices.
 
@@ -2239,10 +2238,10 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 | 6 | A warden who minds the underpinnings of reality and protects against extraplanar threats. |
 ^druid-traditions
 
-![](Compendium/books/monster-manual-2025/img/111-04-015-druid.webp#center)
+![](/Compendium/books/monster-manual-2025/img/111-04-015-druid.webp#center)
 
 > [!embed-monster]- Druid
-> ![[druid-xmm#^statblock|Druid]]
+> ![Druid](/Compendium/bestiary/humanoid/druid-xmm.md#^statblock)
 
 ### Dryad
 
@@ -2260,15 +2259,15 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 | 1 | An acres-large clonal colony—a stand of identical, interconnected trees. |
 | 2 | A fortress-like tree, like a baobab or sequoia. |
 | 3 | A living lock—a plant that seals evil below or blocks the path to a dungeon. |
-| 4 | A lonely tree that stands atop a windswept mountain or amid a [[conditions#Petrified|petrified]] forest. |
+| 4 | A lonely tree that stands atop a windswept mountain or amid a [petrified](/Compendium/rules/conditions.md#Petrified) forest. |
 | 5 | A plant with magic fruit or remarkable seeds. |
 | 6 | A shambling mound or treant that the dryad lives in or around as a Fey symbiote. |
 ^dryad-sanctuaries
 
-![](Compendium/books/monster-manual-2025/img/112-04-016-dryads.webp#center)
+![](/Compendium/books/monster-manual-2025/img/112-04-016-dryads.webp#center)
 
 > [!embed-monster]- Dryad
-> ![[dryad-xmm#^statblock|Dryad]]
+> ![Dryad](/Compendium/bestiary/fey/dryad-xmm.md#^statblock)
 
 ## Monsters (E)
 
@@ -2301,17 +2300,17 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 > 
 > The foundations of our homes, the strength of our weapons, the vaults of our greatest secrets—earth is nothing less than the grip of reality itself. It is the mightiest element. This cannot be denied.
 
-![](Compendium/books/monster-manual-2025/img/113-05-001-earth-elemental.webp#center)
+![](/Compendium/books/monster-manual-2025/img/113-05-001-earth-elemental.webp#center)
 
 > [!embed-monster]- Earth Elemental
-> ![[earth-elemental-xmm#^statblock|Earth Elemental]]
+> ![Earth Elemental](/Compendium/bestiary/elemental/earth-elemental-xmm.md#^statblock)
 
 ### Efreeti
 
 **Efreeti.** *Genie of Fire*
 
 - **Habitat.** Desert, Planar (Elemental Plane of Fire)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Efreet burn with the energy and unpredictability of fire. Their innate magic allows them to conjure flames from nothing and shape treasures within magical infernos. Many efreet have wicked reputations, as their fickle natures and love for dramatic conflagrations can be destructive. Other efreet delight in fire's beauty, be it the delicacy of a candle flame or the shared wonder of fireworks. These genies might aid mortals in exchange for treasures or the liberation of captive Elementals.
 
@@ -2321,10 +2320,10 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 > 
 > Imagine seas of platinum and liquid flame, the Crimson Pillar with fires hot enough to sear the gods, and the infinite delights of the City of Brass. Now imagine what my master offers...
 
-![](Compendium/books/monster-manual-2025/img/114-05-002-efreeti.webp#center)
+![](/Compendium/books/monster-manual-2025/img/114-05-002-efreeti.webp#center)
 
 > [!embed-monster]- Efreeti
-> ![[efreeti-xmm#^statblock|Efreeti]]
+> ![Efreeti](/Compendium/bestiary/elemental/efreeti-xmm.md#^statblock)
 
 ### Elemental Cataclysm
 
@@ -2353,19 +2352,19 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 | 8 | Series of dramatic rock formations. |
 ^elemental-alterations
 
-![](Compendium/books/monster-manual-2025/img/115-05-003-elemental-cataclysm.webp#center)
+![](/Compendium/books/monster-manual-2025/img/115-05-003-elemental-cataclysm.webp#center)
 
-![](Compendium/books/monster-manual-2025/img/116-05-004-landscape.webp#center)
+![](/Compendium/books/monster-manual-2025/img/116-05-004-landscape.webp#center)
 
 > [!embed-monster]- Elemental Cataclysm
-> ![[elemental-cataclysm-xmm#^statblock|Elemental Cataclysm]]
+> ![Elemental Cataclysm](/Compendium/bestiary/elemental/elemental-cataclysm-xmm.md#^statblock)
 
 ### Empyreans
 
 **Empyreans.** *Scions of the Gods*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Empyreans are the spawn of deities. While not gods themselves, they possess divine influence and powers related to their divine parents. Some empyreans are near-demigods with fantastic might and the power to reshape mortal lives. Others are little more than divine thoughts or moments of immortal attention made manifest. Whether empyreans are idealized beings or vestiges of divinity, their appearances are influenced by their creators. Roll on or choose a result from the Empyrean Influences table to inspire what aspects of an empyrean's heritage manifest in its physical form.
 
@@ -2385,20 +2384,20 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > 
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
 
-![Celestial and fiendish emp...](Compendium/books/monster-manual-2025/img/117-05-005-empyrean.webp#center "Celestial and fiendish empyreans observe the cosmos attended by sigil-like empyrean iotas")
+![Celestial and fiendish empyreans observe the cosmos attended by sigil-like empyrean iotas](/Compendium/books/monster-manual-2025/img/117-05-005-empyrean.webp#center)
 
 > [!embed-monster]- Empyrean Iota
-> ![[empyrean-iota-xmm#^statblock|Empyrean Iota]]
+> ![Empyrean Iota](/Compendium/bestiary/miscellaneous/empyrean-iota-xmm.md#^statblock)
 
 > [!embed-monster]- Empyrean
-> ![[empyrean-xmm#^statblock|Empyrean]]
+> ![Empyrean](/Compendium/bestiary/miscellaneous/empyrean-xmm.md#^statblock)
 
 ### Erinyes
 
 **Erinyes.** *Devil of Vengeance and Righteous Wrath*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Erinyes, also known as furies, are winged devils clad in fiendish armor. These fallen angels exact a merciless form of divine justice, hunting down oath breakers and dragging the rightfully damned to the Nine Hells in the grip of their magical ropes. Few ever glimpse what lies within these devils' armored exteriors, and erinyes ensure that those who do can never speak of what they've seen.
 
@@ -2406,17 +2405,17 @@ Erinyes often serve archdevils and guard the order of the Nine Hells against tre
 
 When not in the service of a diabolical master, erinyes hunt wicked souls. They pursue quarries relentlessly, across the multiverse and for ages if need be. While they might be summoned to serve evil magic-users, erinyes also listen for oaths and curses sworn in their names. In rare cases, wronged mortals who call out with just rage might be heard by an erinyes who appears to take vengeance on their behalf. Once erinyes are so summoned, they won't leave without claiming the soul of either their quarry or the mortal who summoned them.
 
-![](Compendium/books/monster-manual-2025/img/118-05-006-erinyes.webp#center)
+![](/Compendium/books/monster-manual-2025/img/118-05-006-erinyes.webp#center)
 
 > [!embed-monster]- Erinyes
-> ![[erinyes-xmm#^statblock|Erinyes]]
+> ![Erinyes](/Compendium/bestiary/fiend/erinyes-xmm.md#^statblock)
 
 ### Ettercap
 
 **Ettercap.** *Venomous Arachnid Abductor*
 
 - **Habitat.** Forest  
-- **Treasure.** [[random-magic-items-implements|Implements]]  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 Spiderlike hunters, ettercaps lurk in forested depths and seek prey to drag into their web-choked lairs. These vicious predators have arachnid features and hunched, bipedal frames, and they're notorious for their venomous bites and ability to shoot out webs to entrap their victims. Ettercaps often hunt in small groups alongside giant spiders and mundane spider swarms.
 
@@ -2424,10 +2423,10 @@ Ettercaps frequently overhunt their environment. Left unchecked, ettercaps might
 
 Ettercaps avoid fire, which can quickly burn through their webs and the dead trees where they make their homes.
 
-![](Compendium/books/monster-manual-2025/img/119-05-007-ettercap.webp#center)
+![](/Compendium/books/monster-manual-2025/img/119-05-007-ettercap.webp#center)
 
 > [!embed-monster]- Ettercap
-> ![[ettercap-xmm#^statblock|Ettercap]]
+> ![Ettercap](/Compendium/bestiary/monstrosity/ettercap-xmm.md#^statblock)
 
 ### Ettin
 
@@ -2462,10 +2461,10 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 > 
 > Twice the malice, aggressiveness, and appetite—the ettin demonstrates that two heads aren't necessarily better than one.
 
-![](Compendium/books/monster-manual-2025/img/120-05-008-ettin.webp#center)
+![](/Compendium/books/monster-manual-2025/img/120-05-008-ettin.webp#center)
 
 > [!embed-monster]- Ettin
-> ![[ettin-xmm#^statblock|Ettin]]
+> ![Ettin](/Compendium/bestiary/giant/ettin-xmm.md#^statblock)
 
 ## Monsters (F)
 
@@ -2474,17 +2473,17 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 **Faerie Dragons.** *Whimsical Draconic Tricksters*
 
 - **Habitat.** Forest  
-- **Treasure.** [[random-magic-items-implements|Implements]]  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 Faerie dragons are cat-size pranksters with draconic features, butterfly-like wings, and scales of warm hues as youths and cool hues as adults.
 
-![](Compendium/books/monster-manual-2025/img/121-06-001-faerie-dragons.webp#center)
+![](/Compendium/books/monster-manual-2025/img/121-06-001-faerie-dragons.webp#center)
 
 > [!embed-monster]- Faerie Dragon Adult
-> ![[faerie-dragon-adult-xmm#^statblock|Faerie Dragon Adult]]
+> ![Faerie Dragon Adult](/Compendium/bestiary/dragon/faerie-dragon-adult-xmm.md#^statblock)
 
 > [!embed-monster]- Faerie Dragon Youth
-> ![[faerie-dragon-youth-xmm#^statblock|Faerie Dragon Youth]]
+> ![Faerie Dragon Youth](/Compendium/bestiary/dragon/faerie-dragon-youth-xmm.md#^statblock)
 
 ### Fire Elemental
 
@@ -2515,17 +2514,17 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 > 
 > All the elements bow to fire. The strongest earth melts. Water boils. Even air ignites. We are all souls of flame, and we know what it is to burn.
 
-![](Compendium/books/monster-manual-2025/img/122-06-002-fire-elemental.webp#center)
+![](/Compendium/books/monster-manual-2025/img/122-06-002-fire-elemental.webp#center)
 
 > [!embed-monster]- Fire Elemental
-> ![[fire-elemental-xmm#^statblock|Fire Elemental]]
+> ![Fire Elemental](/Compendium/bestiary/elemental/fire-elemental-xmm.md#^statblock)
 
 ### Fire Giant
 
 **Fire Giant.** *Giant of the Smoldering Depths*
 
 - **Habitat.** Mountain, Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Fire giants inhabit the hollow vaults and molten rivers of mountainous depths. There, they use subterranean heat and riches to craft wonders, from titanic weapons of war to delicate works of art.
 
@@ -2533,17 +2532,17 @@ Fire giants have broad frames, skin tones in a variety of rocklike shades, and h
 
 Most fire giants dwell in volcanically active mountains or cavernous depths that house their fortress-forges. Evil fire giants tend to be martially minded, and they craft mighty arms to conquer their neighbors and seize valuable resources. More temperate fire giants trade their works for what they need, and they might share the ancient techniques of Giant artisans with other craftspeople. In either case, fire giants are prone to undertaking ambitious designs, and they rarely appreciate interruptions in their titanic workshops.
 
-![](Compendium/books/monster-manual-2025/img/123-06-003-fire-giants.webp#center)
+![](/Compendium/books/monster-manual-2025/img/123-06-003-fire-giants.webp#center)
 
 > [!embed-monster]- Fire Giant
-> ![[fire-giant-xmm#^statblock|Fire Giant]]
+> ![Fire Giant](/Compendium/bestiary/giant/fire-giant-xmm.md#^statblock)
 
 ### Flameskull
 
 **Flameskull.** *Skull Smoldering with Magical Obsession*
 
 - **Habitat.** Underdark  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Flameskulls are flying skulls that blaze with magical fire and the half-remembered arcana of dead spellcasters. They rise from the remains of dead magic-users who were reanimated by sinister necromancers or whose magical pursuits drive them beyond death. Flameskulls might serve as guardians for their creators or pursue ambitions left unfulfilled in life. They lash out at foes with destructive spells and bursts of fire, wielding magic without the need for most components.
 
@@ -2565,17 +2564,17 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 > 
 > I never cared for warmth. I never needed a body. My will is enough, and my work will be the legacy that makes my every sacrifice worthwhile!
 
-![](Compendium/books/monster-manual-2025/img/124-06-004-flame-skulls.webp#center)
+![](/Compendium/books/monster-manual-2025/img/124-06-004-flame-skulls.webp#center)
 
 > [!embed-monster]- Flameskull
-> ![[flameskull-xmm#^statblock|Flameskull]]
+> ![Flameskull](/Compendium/bestiary/undead/flameskull-xmm.md#^statblock)
 
 ### Flesh Golem
 
 **Flesh Golem.** *Dead Flesh Given New Life*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Flesh golems are roughly human-shaped collections of body parts bound together by misused magic or strange science. They serve their reckless creators, but many possess disjointed memories and instincts from their component parts. If wounded, these golems might go berserk and vent their confusion on anything in their sight, including their creators.
 
@@ -2597,17 +2596,17 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 > 
 > The barrier between the mortal and the divine lies shattered—open is the mold for new gods. It was I who invaded the divine. Not with a spear but with a stitch. Not with my heresies but with my heart.
 
-![](Compendium/books/monster-manual-2025/img/125-06-005-flesh-golem.webp#center)
+![](/Compendium/books/monster-manual-2025/img/125-06-005-flesh-golem.webp#center)
 
 > [!embed-monster]- Flesh Golem
-> ![[flesh-golem-xmm#^statblock|Flesh Golem]]
+> ![Flesh Golem](/Compendium/bestiary/construct/flesh-golem-xmm.md#^statblock)
 
 ### Flumph
 
 **Flumph.** *Strange Ally from a Strange Place*
 
 - **Habitat.** Underdark  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Bizarre creatures with aberrant agendas inhabit the Underdark. Flumphs number among the few that are helpful to strangers.
 
@@ -2647,10 +2646,10 @@ Flumphs dwell in psychically charged regions or near creatures with psionic magi
 
 *Rarely seen; potentially no human equivalent
 
-![](Compendium/books/monster-manual-2025/img/126-06-006-flumph.webp#center)
+![](/Compendium/books/monster-manual-2025/img/126-06-006-flumph.webp#center)
 
 > [!embed-monster]- Flumph
-> ![[flumph-xmm#^statblock|Flumph]]
+> ![Flumph](/Compendium/bestiary/aberration/flumph-xmm.md#^statblock)
 
 ### Fomorian
 
@@ -2675,17 +2674,17 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 > 
 > All-Father Annam banished his son, Karontor, for Karontor's part in the fomorian assault on the Feywild. That day, the ordning—the hierarchy of the giants and their gods—changed forever, and the fomorians were part of it no more.
 
-![](Compendium/books/monster-manual-2025/img/127-00-067-fomorian.webp#center)
+![](/Compendium/books/monster-manual-2025/img/127-00-067-fomorian.webp#center)
 
 > [!embed-monster]- Fomorian
-> ![[fomorian-xmm#^statblock|Fomorian]]
+> ![Fomorian](/Compendium/bestiary/giant/fomorian-xmm.md#^statblock)
 
 ### Frost Giant
 
 **Frost Giant.** *Giant of the Ice and Snow*
 
 - **Habitat.** Arctic, Mountain  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 From glacial mountain heights and vast tundras rise the homes of frost giants. These giants have skin and hair of icy hues. Their natural immunity to cold allows them to flourish in places inhospitable to most other creatures. They use this resilience to aid them when hunting and in combat, bolstering their allies with chilling war cries.
 
@@ -2695,10 +2694,10 @@ Frost giants often travel far to find food and goods. This leads many to become 
 > 
 > The small folk have barely anything worth looting, so they shouldn't much mind when we take it from them.
 
-![](Compendium/books/monster-manual-2025/img/128-06-008-frost-giants.webp#center)
+![](/Compendium/books/monster-manual-2025/img/128-06-008-frost-giants.webp#center)
 
 > [!embed-monster]- Frost Giant
-> ![[frost-giant-xmm#^statblock|Frost Giant]]
+> ![Frost Giant](/Compendium/bestiary/giant/frost-giant-xmm.md#^statblock)
 
 ### Fungi
 
@@ -2710,20 +2709,20 @@ Frost giants often travel far to find food and goods. This leads many to become 
 The dank, sunless Underdark is a fertile breeding ground for weird and dangerous fungi.
 
 > [!embed-monster]- Gas Spore Fungus
-> ![[gas-spore-fungus-xmm#^statblock|Gas Spore Fungus]]
+> ![Gas Spore Fungus](/Compendium/bestiary/plant/gas-spore-fungus-xmm.md#^statblock)
 
-![A gas spore and clusters o...](Compendium/books/monster-manual-2025/img/129-06-009-fungi.webp#center "A gas spore and clusters of shriekers and violet fungi grow in the Underdark")
+![A gas spore and clusters of shriekers and violet fungi grow in the Underdark](/Compendium/books/monster-manual-2025/img/129-06-009-fungi.webp#center)
 
 > [!embed-monster]- Shrieker Fungus
-> ![[shrieker-fungus-xmm#^statblock|Shrieker Fungus]]
+> ![Shrieker Fungus](/Compendium/bestiary/plant/shrieker-fungus-xmm.md#^statblock)
 
-![Violet Fungus Necrohulk](Compendium/books/monster-manual-2025/img/130-06-010-violet-fungus-necrohulk.webp#center)
+![Violet Fungus Necrohulk](/Compendium/books/monster-manual-2025/img/130-06-010-violet-fungus-necrohulk.webp#center)
 
 > [!embed-monster]- Violet Fungus
-> ![[violet-fungus-xmm#^statblock|Violet Fungus]]
+> ![Violet Fungus](/Compendium/bestiary/plant/violet-fungus-xmm.md#^statblock)
 
 > [!embed-monster]- Violet Fungus Necrohulk
-> ![[violet-fungus-necrohulk-xmm#^statblock|Violet Fungus Necrohulk]]
+> ![Violet Fungus Necrohulk](/Compendium/bestiary/plant/violet-fungus-necrohulk-xmm.md#^statblock)
 
 ## Monsters (G)
 
@@ -2740,10 +2739,10 @@ Galeb duhr are effectively immortal, with lifespans similar in length to mountai
 
 Some mountain dwellers view galeb duhr as aloof allies and might entrust these long-lived beings with secrets or treasures for future generations. Others speak of galeb duhr songs, barely audible harmonizations by groups of galeb duhr that are said to influence earthquakes and volcanic eruptions.
 
-![](Compendium/books/monster-manual-2025/img/131-07-001-galeb-duhr.webp#center)
+![](/Compendium/books/monster-manual-2025/img/131-07-001-galeb-duhr.webp#center)
 
 > [!embed-monster]- Galeb Duhr
-> ![[galeb-duhr-xmm#^statblock|Galeb Duhr]]
+> ![Galeb Duhr](/Compendium/bestiary/elemental/galeb-duhr-xmm.md#^statblock)
 
 ### Gargoyle
 
@@ -2777,7 +2776,7 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 | 1 | Burls and bark on a giant tree. |
 | 2 | Monuments in a graveyard or memorial. |
 | 3 | Outcroppings on a cliff or rock formation |
-| 4 | The [[conditions#Petrified|petrified]] victims of a basilisk or medusa. |
+| 4 | The [petrified](/Compendium/rules/conditions.md#Petrified) victims of a basilisk or medusa. |
 | 5 | Reliefs on a sculpted gate or wall. |
 | 6 | Rubble in a ruin or junkyard. |
 | 7 | Stalactites or icicles on a cavern ceiling. |
@@ -2788,10 +2787,10 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 > 
 > Where evil passes in the Elemental Plane of Earth, it stains the rock and spoils the soil. Malice vanishes amid other elements, but in the dismal dark, the wicked shape it into nightmares.
 
-![](Compendium/books/monster-manual-2025/img/132-07-002-gargoyle.webp#center)
+![](/Compendium/books/monster-manual-2025/img/132-07-002-gargoyle.webp#center)
 
 > [!embed-monster]- Gargoyle
-> ![[gargoyle-xmm#^statblock|Gargoyle]]
+> ![Gargoyle](/Compendium/bestiary/elemental/gargoyle-xmm.md#^statblock)
 
 ### Gelatinous Cube
 
@@ -2814,10 +2813,10 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 | 6 | Tablet bearing a mysterious message. |
 ^gelatinous-cube-debris
 
-![Gelatinous Cube](Compendium/books/monster-manual-2025/img/133-07-003-gelatinous-cube.webp#center)
+![Gelatinous Cube](/Compendium/books/monster-manual-2025/img/133-07-003-gelatinous-cube.webp#center)
 
 > [!embed-monster]- Gelatinous Cube
-> ![[gelatinous-cube-xmm#^statblock|Gelatinous Cube]]
+> ![Gelatinous Cube](/Compendium/bestiary/ooze/gelatinous-cube-xmm.md#^statblock)
 
 ### Ghasts
 
@@ -2828,13 +2827,13 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 
 Ghasts are reeking, undying corpses closely related to ghouls. They hunger for the vices they enjoyed in life as much as they do for rotting flesh.
 
-![Ghast](Compendium/books/monster-manual-2025/img/134-07-004-ghast.webp#center)
+![Ghast](/Compendium/books/monster-manual-2025/img/134-07-004-ghast.webp#center)
 
 > [!embed-monster]- Ghast
-> ![[ghast-xmm#^statblock|Ghast]]
+> ![Ghast](/Compendium/bestiary/undead/ghast-xmm.md#^statblock)
 
 > [!embed-monster]- Ghast Gravecaller
-> ![[ghast-gravecaller-xmm#^statblock|Ghast Gravecaller]]
+> ![Ghast Gravecaller](/Compendium/bestiary/undead/ghast-gravecaller-xmm.md#^statblock)
 
 ### Ghost
 
@@ -2847,10 +2846,10 @@ Ghosts arise when living creatures die in a state of extreme emotion or having l
 
 Ghosts typically appear as semitransparent versions of the creatures they were in life, though some bear evidence of the wounds that killed them or have nightmarish distortions to their forms. Many have extreme reactions to actions, objects, or individuals that remind them of emotionally charged aspects of their lives. Particularly desperate or vengeful ghosts might possess the living to fulfill their ends.
 
-![](Compendium/books/monster-manual-2025/img/135-07-005-ghost.webp#center)
+![](/Compendium/books/monster-manual-2025/img/135-07-005-ghost.webp#center)
 
 > [!embed-monster]- Ghost
-> ![[ghost-xmm#^statblock|Ghost]]
+> ![Ghost](/Compendium/bestiary/undead/ghost-xmm.md#^statblock)
 
 ### Ghouls
 
@@ -2865,13 +2864,13 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 > 
 > On a plain of teeth, in a temple of filth, the starving king wastes no morsel. Every coffin a banquet. Every slab a platter. Now is the time of feasting!
 
-![](Compendium/books/monster-manual-2025/img/136-07-006-ghoul.webp#center)
+![](/Compendium/books/monster-manual-2025/img/136-07-006-ghoul.webp#center)
 
 > [!embed-monster]- Ghoul
-> ![[ghoul-xmm#^statblock|Ghoul]]
+> ![Ghoul](/Compendium/bestiary/undead/ghoul-xmm.md#^statblock)
 
 > [!embed-monster]- Lacedon Ghoul
-> ![[lacedon-ghoul-xmm#^statblock|Lacedon Ghoul]]
+> ![Lacedon Ghoul](/Compendium/bestiary/undead/lacedon-ghoul-xmm.md#^statblock)
 
 ### Gibbering Mouther
 
@@ -2900,17 +2899,17 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 > 
 > Alas, the Elder Elves made a fatal mistake. When the Dragon's Tear comet next returned, the Vast Gate—still keyed to the Far Realm of alien entities—linked to the comet and opened again. And what emerged, ululating profanities, sang unnameable hungers into an unguarded world.
 
-![](Compendium/books/monster-manual-2025/img/137-07-007-gibbering-mouther.webp#center)
+![](/Compendium/books/monster-manual-2025/img/137-07-007-gibbering-mouther.webp#center)
 
 > [!embed-monster]- Gibbering Mouther
-> ![[gibbering-mouther-xmm#^statblock|Gibbering Mouther]]
+> ![Gibbering Mouther](/Compendium/bestiary/aberration/gibbering-mouther-xmm.md#^statblock)
 
 ### Githyanki
 
 **Githyanki.** *Invaders from the Astral Plane*
 
 - **Habitat.** Planar (Astral Plane)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Githyanki were once an ordinary people, but the deeds of a vile mind flayer empire etched conflict on their being. Gaunt, humanlike creatures, githyanki have serrated ears and speckled skin ranging through shades of yellow, green, and brown. While some githyanki follow their own paths, many are influenced by a past that forever altered their fates.
 
@@ -2920,23 +2919,23 @@ The victory of the gith was short-lived. As Gith was forging her own burgeoning 
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
 
-![Left to Right: Githyanki D...](Compendium/books/monster-manual-2025/img/138-07-008-group-of-githyanki.webp#center "Left to Right: Githyanki Dracomancer, Githyanki Knight, and Githyanki Warrior")
+![Left to Right: Githyanki Dracomancer, Githyanki Knight, and Githyanki Warrior](/Compendium/books/monster-manual-2025/img/138-07-008-group-of-githyanki.webp#center)
 
 > [!embed-monster]- Githyanki Warrior
-> ![[githyanki-warrior-xmm#^statblock|Githyanki Warrior]]
+> ![Githyanki Warrior](/Compendium/bestiary/aberration/githyanki-warrior-xmm.md#^statblock)
 
 > [!embed-monster]- Githyanki Knight
-> ![[githyanki-knight-xmm#^statblock|Githyanki Knight]]
+> ![Githyanki Knight](/Compendium/bestiary/aberration/githyanki-knight-xmm.md#^statblock)
 
 > [!embed-monster]- Githyanki Dracomancer
-> ![[githyanki-dracomancer-xmm#^statblock|Githyanki Dracomancer]]
+> ![Githyanki Dracomancer](/Compendium/bestiary/aberration/githyanki-dracomancer-xmm.md#^statblock)
 
 ### Githzerai
 
 **Githzerai.** *Explorers at Reality's Extremes*
 
 - **Habitat.** Planar (Limbo)  
-- **Treasure.** [[random-magic-items-arcana|Arcana]], Individual  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md), Individual  
 
 Githzerai are gaunt, humanlike beings, physically identical to githyanki. They share a history with githyanki as creatures physically and psychically transformed by mind flayers (see the "Githyanki" section). Githzerai know that in body and mind, their species was manipulated by their former illithid oppressors. Rather than giving in to this programming, githzerai follow the teachings of their first leader, Zerthimon, and reshape their minds and bodies to find peace.
 
@@ -2962,23 +2961,23 @@ Githzerai psychically create serene, hidden sanctuaries in chaotic reaches of th
 > 
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
-![Left to Right: Githzerai Z...](Compendium/books/monster-manual-2025/img/139-07-009-group-of-githzerai.webp#center "Left to Right: Githzerai Zerth, Githzerai Psion, and Githzerai Monk")
+![Left to Right: Githzerai Zerth, Githzerai Psion, and Githzerai Monk](/Compendium/books/monster-manual-2025/img/139-07-009-group-of-githzerai.webp#center)
 
 > [!embed-monster]- Githzerai Monk
-> ![[githzerai-monk-xmm#^statblock|Githzerai Monk]]
+> ![Githzerai Monk](/Compendium/bestiary/aberration/githzerai-monk-xmm.md#^statblock)
 
 > [!embed-monster]- Githzerai Zerth
-> ![[githzerai-zerth-xmm#^statblock|Githzerai Zerth]]
+> ![Githzerai Zerth](/Compendium/bestiary/aberration/githzerai-zerth-xmm.md#^statblock)
 
 > [!embed-monster]- Githzerai Psion
-> ![[githzerai-psion-xmm#^statblock|Githzerai Psion]]
+> ![Githzerai Psion](/Compendium/bestiary/aberration/githzerai-psion-xmm.md#^statblock)
 
 ### Glabrezu
 
 **Glabrezu.** *Demon of Delusion and Entrapment*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Glabrezus embody delusion and predatory guile. These cunning demons know the most effective traps are those that individuals devise for themselves. Despite having massive claws and overwhelming physicality, glabrezus excel at using flattery and misdirection to coerce victims into isolating themselves and harming others.
 
@@ -2988,17 +2987,17 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
 > 
 > Your companion's life, or what you've journeyed through infinity in search of! Make your choice.
 
-![](Compendium/books/monster-manual-2025/img/140-07-010-glabrezu.webp#center)
+![](/Compendium/books/monster-manual-2025/img/140-07-010-glabrezu.webp#center)
 
 > [!embed-monster]- Glabrezu
-> ![[glabrezu-xmm#^statblock|Glabrezu]]
+> ![Glabrezu](/Compendium/bestiary/fiend/glabrezu-xmm.md#^statblock)
 
 ### Gladiator
 
 **Gladiator.** *Competitor and Prizefighter*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Gladiators are professional fighters who pit themselves against one another, monsters, and other challenges to entertain audiences. While some compete merely to survive, others love the thrill of performing—and all gladiators know the importance of theatrics in keeping audiences excited. Roll on or choose an option from the Gladiator Theatrics table to inspire the unique flourishes a gladiator uses when competing.
 
@@ -3015,16 +3014,16 @@ Gladiators are professional fighters who pit themselves against one another, mon
 ^gladiator-theatrics
 
 > [!embed-monster]- Gladiator
-> ![[gladiator-xmm#^statblock|Gladiator]]
+> ![Gladiator](/Compendium/bestiary/humanoid/gladiator-xmm.md#^statblock)
 
-![In an undersea arena, the ...](Compendium/books/monster-manual-2025/img/141-07-011-gladiator.webp#center "In an undersea arena, the crowd goes wild as a gladiator triumphs over a giant squid")
+![In an undersea arena, the crowd goes wild as a gladiator triumphs over a giant squid](/Compendium/books/monster-manual-2025/img/141-07-011-gladiator.webp#center)
 
 ### Gnolls
 
 **Gnolls.** *Fiends in Feral Flesh*
 
 - **Habitat.** Desert, Forest, Grassland, Hill  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their corruption and violence delighted the demon lord Yeenoghu, who encouraged their numbers and spread them across the multiverse. Ever since, gnolls have been the cackling servants of Yeenoghu, existing to cause ruin and to feast on what remains.
 
@@ -3032,26 +3031,26 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > 
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
-![Gnoll Warriors rampage aft...](Compendium/books/monster-manual-2025/img/142-07-012-group-of-gnolls.webp#center "Gnoll Warriors rampage after a gnoll pack lord, a gnoll fang of Yeenoghu, and a gnoll demoniac")
+![Gnoll Warriors rampage after a gnoll pack lord, a gnoll fang of Yeenoghu, and a gnoll demoniac](/Compendium/books/monster-manual-2025/img/142-07-012-group-of-gnolls.webp#center)
 
 > [!embed-monster]- Gnoll Warrior
-> ![[gnoll-warrior-xmm#^statblock|Gnoll Warrior]]
+> ![Gnoll Warrior](/Compendium/bestiary/fiend/gnoll-warrior-xmm.md#^statblock)
 
 > [!embed-monster]- Gnoll Pack Lord
-> ![[gnoll-pack-lord-xmm#^statblock|Gnoll Pack Lord]]
+> ![Gnoll Pack Lord](/Compendium/bestiary/fiend/gnoll-pack-lord-xmm.md#^statblock)
 
 > [!embed-monster]- Gnoll Fang of Yeenoghu
-> ![[gnoll-fang-of-yeenoghu-xmm#^statblock|Gnoll Fang of Yeenoghu]]
+> ![Gnoll Fang of Yeenoghu](/Compendium/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md#^statblock)
 
 > [!embed-monster]- Gnoll Demoniac
-> ![[gnoll-demoniac-xmm#^statblock|Gnoll Demoniac]]
+> ![Gnoll Demoniac](/Compendium/bestiary/fiend/gnoll-demoniac-xmm.md#^statblock)
 
 ### Goblins
 
 **Goblins.** *Wild Tricksters and Troublemakers*
 
 - **Habitat.** Forest, Grassland, Hill, Planar (Acheron), Planar (Feywild), Underdark  
-- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md), Individual  
 
 Goblins are Feywild embodiments of recklessness and ruin. They delight in wreckage—the louder, the more energetic, and the more convoluted, the better. Goblin raids are often as much opportunities to enjoy setting fires and tormenting livestock as they are parts of more disruptive plots.
 
@@ -3063,26 +3062,26 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > 
 > Bree-yark!
 
-![A goblin boss, a goblin he...](Compendium/books/monster-manual-2025/img/143-07-013-group-of-goblins.webp#center "A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe")
+![A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe](/Compendium/books/monster-manual-2025/img/143-07-013-group-of-goblins.webp#center)
 
 > [!embed-monster]- Goblin Minion
-> ![[goblin-minion-xmm#^statblock|Goblin Minion]]
+> ![Goblin Minion](/Compendium/bestiary/fey/goblin-minion-xmm.md#^statblock)
 
 > [!embed-monster]- Goblin Warrior
-> ![[goblin-warrior-xmm#^statblock|Goblin Warrior]]
+> ![Goblin Warrior](/Compendium/bestiary/fey/goblin-warrior-xmm.md#^statblock)
 
 > [!embed-monster]- Goblin Boss
-> ![[goblin-boss-xmm#^statblock|Goblin Boss]]
+> ![Goblin Boss](/Compendium/bestiary/fey/goblin-boss-xmm.md#^statblock)
 
 > [!embed-monster]- Goblin Hexer
-> ![[goblin-hexer-xmm#^statblock|Goblin Hexer]]
+> ![Goblin Hexer](/Compendium/bestiary/fey/goblin-hexer-xmm.md#^statblock)
 
 ### Gold Dragons
 
 **Gold Dragons.** *Dragons of Hope and Majesty*
 
 - **Habitat.** Forest, Grassland  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Gold dragons work to make the world a better place. The most powerful of the metallic dragons, these awe-inspiring dragons strive to protect that which is good and bend fate toward a brighter future. Their kind dispositions don't prevent gold dragons from engaging in combat when necessary, though, and they exhale brilliant flames and weakening magic to rout their foes.
 
@@ -3090,23 +3089,23 @@ Gold dragons favor grasslands and pristine forests, frequently dwelling near awe
 
 **Gold Dragon Lairs.** Gold dragons make their homes in places of natural and magical wonder.
 
-![Gold Dragon Wyrmling](Compendium/books/monster-manual-2025/img/144-07-014-gold-dragon-wyrmling.webp#center)
+![Gold Dragon Wyrmling](/Compendium/books/monster-manual-2025/img/144-07-014-gold-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Gold Dragon Wyrmling
-> ![[gold-dragon-wyrmling-xmm#^statblock|Gold Dragon Wyrmling]]
+> ![Gold Dragon Wyrmling](/Compendium/bestiary/dragon/gold-dragon-wyrmling-xmm.md#^statblock)
 
 > [!embed-monster]- Young Gold Dragon
-> ![[young-gold-dragon-xmm#^statblock|Young Gold Dragon]]
+> ![Young Gold Dragon](/Compendium/bestiary/dragon/young-gold-dragon-xmm.md#^statblock)
 
-![An adult gold dragon guard...](Compendium/books/monster-manual-2025/img/145-07-015-adult-gold-dragon.webp#center "An adult gold dragon guards the site of a mysterious seal from intruders")
+![An adult gold dragon guards the site of a mysterious seal from intruders](/Compendium/books/monster-manual-2025/img/145-07-015-adult-gold-dragon.webp#center)
 
 > [!embed-monster]- Adult Gold Dragon
-> ![[adult-gold-dragon-xmm#^statblock|Adult Gold Dragon]]
+> ![Adult Gold Dragon](/Compendium/bestiary/dragon/adult-gold-dragon-xmm.md#^statblock)
 
-![The pure of heart have not...](Compendium/books/monster-manual-2025/img/146-07-016-ancient-gold-dragon.webp#center "The pure of heart have nothing to fear in the presence of an ancient gold dragon")
+![The pure of heart have nothing to fear in the presence of an ancient gold dragon](/Compendium/books/monster-manual-2025/img/146-07-016-ancient-gold-dragon.webp#center)
 
 > [!embed-monster]- Ancient Gold Dragon
-> ![[ancient-gold-dragon-xmm#^statblock|Ancient Gold Dragon]]
+> ![Ancient Gold Dragon](/Compendium/bestiary/dragon/ancient-gold-dragon-xmm.md#^statblock)
 
 ### Gorgons
 
@@ -3121,7 +3120,7 @@ Gorgons are created by magic-users to serve as guardians. The process for creati
 
 When magic-users create gorgons, they often enchant them to ignore those who confront the creature with a specific command key, usually a password or a specific signal. Once a gorgon is set to guard an area, it attacks any who enter until they flee or are destroyed. Should someone provide the command key, the monster ignores that intruder so long as the intruder remains in its sight. But if the intruder ventures out of sight and then returns without again presenting the command key, the gorgon attacks. Those in a gorgon's territory must remain vigilant and aware of the monster's exact position, or they risk being attacked by a gorgon they thought was no longer a threat.
 
-Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [[conditions#Petrified|petrified]] trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
+Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [petrified](/Compendium/rules/conditions.md#Petrified) trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
 
 **Gorgon Command Keys**
 
@@ -3139,20 +3138,20 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 > 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
 
-![A gorgon petrifies victims...](Compendium/books/monster-manual-2025/img/147-07-017-gorgon.webp#center "A gorgon petrifies victims with its deadly breath, then tramples them to pieces")
+![A gorgon petrifies victims with its deadly breath, then tramples them to pieces](/Compendium/books/monster-manual-2025/img/147-07-017-gorgon.webp#center)
 
 > [!embed-monster]- Gorgon
-> ![[gorgon-xmm#^statblock|Gorgon]]
+> ![Gorgon](/Compendium/bestiary/construct/gorgon-xmm.md#^statblock)
 
 > [!embed-monster]- Brazen Gorgon
-> ![[brazen-gorgon-xmm#^statblock|Brazen Gorgon]]
+> ![Brazen Gorgon](/Compendium/bestiary/construct/brazen-gorgon-xmm.md#^statblock)
 
 ### Goristro
 
 **Goristro.** *Demon of Disaster*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Terrifying in scale and overwhelming power, goristros are giant demons capable of bringing cities to ruin. These demons embody senseless anarchy and nihilistic destruction, and they take special offense at creatures or structures that rival them in size. Castles, towers, giants, and beasts of war are all common victims of these monsters' wrath.
 
@@ -3162,10 +3161,10 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 > 
 > Plot and strategize, bait and scheme, but hubris is no armor against ruin incarnate, and greater beings than you have fallen under the onslaught of the Abyss.
 
-![](Compendium/books/monster-manual-2025/img/148-07-018-goristro.webp#center)
+![](/Compendium/books/monster-manual-2025/img/148-07-018-goristro.webp#center)
 
 > [!embed-monster]- Goristro
-> ![[goristro-xmm#^statblock|Goristro]]
+> ![Goristro](/Compendium/bestiary/fiend/goristro-xmm.md#^statblock)
 
 ### Gray Oozes
 
@@ -3176,20 +3175,20 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 
 Gray oozes are predatory, corrosive slimes that blend in with stony surroundings.
 
-![](Compendium/books/monster-manual-2025/img/149-07-019-gray-ooze.webp#center)
+![](/Compendium/books/monster-manual-2025/img/149-07-019-gray-ooze.webp#center)
 
 > [!embed-monster]- Gray Ooze
-> ![[gray-ooze-xmm#^statblock|Gray Ooze]]
+> ![Gray Ooze](/Compendium/bestiary/ooze/gray-ooze-xmm.md#^statblock)
 
 > [!embed-monster]- Gray Ooze
-> ![[gray-ooze-xmm#^statblock|Gray Ooze]]
+> ![Gray Ooze](/Compendium/bestiary/ooze/gray-ooze-xmm.md#^statblock)
 
 ### Green Dragons
 
 **Green Dragons.** *Dragons of Deceit and Derision*
 
 - **Habitat.** Forest  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 From forbidden forest depths, green dragons whisper evils into the world and manipulate the lives of those who listen. Elusive, conniving, and egotistical, these chromatic dragons patiently prey on the fears of shorter-lived beings, corrupting and isolating them. Green dragons might lurk amid labyrinthine wildernesses for centuries without revealing themselves; even their most devoted followers might know them only as the voice of the woodlands or a whisper in their dreams.
 
@@ -3197,32 +3196,32 @@ Despite their might, most green dragons disdain physical violence, viewing comba
 
 **Green Dragon Lairs.** Green dragons lair in ancient forests, often shaping stands of massive trees into compounds of interwoven branches, hollow trunks, and caverns amid mighty roots. They might also dwell amid forested ruins, particularly the former homes of those they've conquered.
 
-![Green Dragon Wyrmling](Compendium/books/monster-manual-2025/img/150-07-020-green-dragon-wyrmling.webp#center)
+![Green Dragon Wyrmling](/Compendium/books/monster-manual-2025/img/150-07-020-green-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Green Dragon Wyrmling
-> ![[green-dragon-wyrmling-xmm#^statblock|Green Dragon Wyrmling]]
+> ![Green Dragon Wyrmling](/Compendium/bestiary/dragon/green-dragon-wyrmling-xmm.md#^statblock)
 
 > [!embed-monster]- Young Green Dragon
-> ![[young-green-dragon-xmm#^statblock|Young Green Dragon]]
+> ![Young Green Dragon](/Compendium/bestiary/dragon/young-green-dragon-xmm.md#^statblock)
 
-![An adult green dragon shadows its prey](Compendium/books/monster-manual-2025/img/151-07-021-adult-green-dragon.webp#center)
+![An adult green dragon shadows its prey](/Compendium/books/monster-manual-2025/img/151-07-021-adult-green-dragon.webp#center)
 
 > [!embed-monster]- Adult Green Dragon
-> ![[adult-green-dragon-xmm#^statblock|Adult Green Dragon]]
+> ![Adult Green Dragon](/Compendium/bestiary/dragon/adult-green-dragon-xmm.md#^statblock)
 
-![An ancient green dragon ma...](Compendium/books/monster-manual-2025/img/152-07-022-ancient-green-dragon.webp#center "An ancient green dragon manipulates the fates of its pawns from deep within its forest lair")
+![An ancient green dragon manipulates the fates of its pawns from deep within its forest lair](/Compendium/books/monster-manual-2025/img/152-07-022-ancient-green-dragon.webp#center)
 
 > [!embed-monster]- Ancient Green Dragon
-> ![[ancient-green-dragon-xmm#^statblock|Ancient Green Dragon]]
+> ![Ancient Green Dragon](/Compendium/bestiary/dragon/ancient-green-dragon-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/153-07-023-green-hags.webp#center)
+![](/Compendium/books/monster-manual-2025/img/153-07-023-green-hags.webp#center)
 
 ### Green Hag
 
 **Green Hag.** *Foul Witch of the Wicked Wild*
 
 - **Habitat.** Forest, Hill, Swamp  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Green hags work bitter magic to foul all that is beautiful and pure. Whether alone or in covens of other hags, these ancient witches call on eerie forces, spreading corruption and plotting doom for those who earn their ire. Green hags are adept deceivers, and they use illusions to cloak themselves in unassuming forms, hoping to tempt innocents into peril. These hags often spirit their victims back to surreal lairs where they hold captives prisoner or cook them into monstrous meals.
 
@@ -3241,7 +3240,7 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
 ^green-hag-bargains
 
 > [!embed-monster]- Green Hag
-> ![[green-hag-xmm#^statblock|Green Hag]]
+> ![Green Hag](/Compendium/bestiary/fey/green-hag-xmm.md#^statblock)
 
 ### Grell
 
@@ -3272,10 +3271,10 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 > 
 > For meal, my hunger grinds within my teeth. For might, my hunger clenches in my grip. But for what we're told we mustn't know, my hunger snaps a raptor's beak and makes my mind a muscle that knows only how to chew.
 
-![](Compendium/books/monster-manual-2025/img/154-07-024-grell.webp#center)
+![](/Compendium/books/monster-manual-2025/img/154-07-024-grell.webp#center)
 
 > [!embed-monster]- Grell
-> ![[grell-xmm#^statblock|Grell]]
+> ![Grell](/Compendium/bestiary/aberration/grell-xmm.md#^statblock)
 
 ### Gricks
 
@@ -3288,13 +3287,13 @@ Gricks are wormlike predators that burst from hiding—flailing and snapping—t
 
 Gricks' origins are unclear, but some suggest these creatures arise from natural worms or similar invertebrates mutated by magical phenomena. Many cite the presence of gricks in a region as evidence of portals to other planes of existence, legendary magic items, or powerful supernatural beings.
 
-![](Compendium/books/monster-manual-2025/img/155-07-025-grick.webp#center)
+![](/Compendium/books/monster-manual-2025/img/155-07-025-grick.webp#center)
 
 > [!embed-monster]- Grick
-> ![[grick-xmm#^statblock|Grick]]
+> ![Grick](/Compendium/bestiary/aberration/grick-xmm.md#^statblock)
 
 > [!embed-monster]- Grick Ancient
-> ![[grick-ancient-xmm#^statblock|Grick Ancient]]
+> ![Grick Ancient](/Compendium/bestiary/aberration/grick-ancient-xmm.md#^statblock)
 
 ### Griffon
 
@@ -3323,10 +3322,10 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 > 
 > People think we flew high over the city to avoid weather vanes and laundry lines and whatnot. Truth is, if the griffons smelled how much horse meat trotted just below, folks would have worse than joy-flying mages and stirges to worry about!
 
-![](Compendium/books/monster-manual-2025/img/156-07-026-griffon.webp#center)
+![](/Compendium/books/monster-manual-2025/img/156-07-026-griffon.webp#center)
 
 > [!embed-monster]- Griffon
-> ![[griffon-xmm#^statblock|Griffon]]
+> ![Griffon](/Compendium/bestiary/monstrosity/griffon-xmm.md#^statblock)
 
 ### Grimlock
 
@@ -3355,17 +3354,17 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 > 
 > We thought we'd discovered a new people living deeper than we believed possible. The truth was something far worse.
 
-![](Compendium/books/monster-manual-2025/img/157-07-027-grimlock.webp#center)
+![](/Compendium/books/monster-manual-2025/img/157-07-027-grimlock.webp#center)
 
 > [!embed-monster]- Grimlock
-> ![[grimlock-xmm#^statblock|Grimlock]]
+> ![Grimlock](/Compendium/bestiary/aberration/grimlock-xmm.md#^statblock)
 
 ### Guardian Naga
 
 **Guardian Naga.** *Enduring Serpentine Lore Keeper*
 
 - **Habitat.** Desert, Forest, Planar (Upper Planes)  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Guardian nagas are immortal, serpentine scholars that possess perfect memories. They collect the histories and lore of those they live among, guarding cultures' stories and passing them on to new generations with infallible accuracy. Guardian nagas that outlive their host civilizations might linger in whatever ruins remain, preserving the civilizations' stories so their lost people might live on.
 
@@ -3385,17 +3384,17 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 | 8 | The vulnerabilities of a legendary monster. |
 ^guardian-naga-lore
 
-![](Compendium/books/monster-manual-2025/img/158-07-028-guardian-naga.webp#center)
+![](/Compendium/books/monster-manual-2025/img/158-07-028-guardian-naga.webp#center)
 
 > [!embed-monster]- Guardian Naga
-> ![[guardian-naga-xmm#^statblock|Guardian Naga]]
+> ![Guardian Naga](/Compendium/bestiary/celestial/guardian-naga-xmm.md#^statblock)
 
 ### Guards
 
 **Guards.** *Sentries and Watch Members*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Guards protect people, places, and things, either for pay or from a sense of duty. They might perform their duties vigilantly or distractedly. Some raise alarms at the first sign of danger and defend their charges with their lives. Others flee outright if their compensation doesn't match the danger they face.
 
@@ -3403,13 +3402,13 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 > 
 > To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: the Guard guards the walls while the Watch watches all.
 
-![](Compendium/books/monster-manual-2025/img/159-07-029-guards.webp#center)
+![](/Compendium/books/monster-manual-2025/img/159-07-029-guards.webp#center)
 
 > [!embed-monster]- Guard
-> ![[guard-xmm#^statblock|Guard]]
+> ![Guard](/Compendium/bestiary/humanoid/guard-xmm.md#^statblock)
 
 > [!embed-monster]- Guard Captain
-> ![[guard-captain-xmm#^statblock|Guard Captain]]
+> ![Guard Captain](/Compendium/bestiary/humanoid/guard-captain-xmm.md#^statblock)
 
 ## Monsters (H)
 
@@ -3418,7 +3417,7 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 **Half-Dragon.** *Warrior Created by Dragons*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Born through magical rites involving the essences of dragons, half-dragons serve their creators and their own draconic whims. Most half-dragons are created by chromatic dragons who desire servants with some trace of their own might and grandeur. Half-dragons frequently command other servants of a villainous dragon or act as agents in lands where their draconic master would attract unwanted attention.
 
@@ -3428,10 +3427,10 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
 > 
 > What blessing demands more yet inspires greater works than the blood of Tiamat?
 
-![](Compendium/books/monster-manual-2025/img/160-08-001-half-dragon.webp#center)
+![](/Compendium/books/monster-manual-2025/img/160-08-001-half-dragon.webp#center)
 
 > [!embed-monster]- Half-Dragon
-> ![[half-dragon-xmm#^statblock|Half-Dragon]]
+> ![Half-Dragon](/Compendium/bestiary/dragon/half-dragon-xmm.md#^statblock)
 
 ### Harpy
 
@@ -3446,10 +3445,10 @@ Harpies dwell in remote, dismal places tainted by tragedy and despair. Some tale
 
 Every harpy sings a distinct song. While some songs are said to be heartbreaking in their beauty, others are wretched squawking and compel only the magically enthralled.
 
-![](Compendium/books/monster-manual-2025/img/161-08-002-group-of-harpies.webp#center)
+![](/Compendium/books/monster-manual-2025/img/161-08-002-group-of-harpies.webp#center)
 
 > [!embed-monster]- Harpy
-> ![[harpy-xmm#^statblock|Harpy]]
+> ![Harpy](/Compendium/bestiary/monstrosity/harpy-xmm.md#^statblock)
 
 ### Hell Hound
 
@@ -3462,17 +3461,17 @@ Spawned from the pits of Acheron, Gehenna, and the Nine Hells, hell hounds enfor
 
 Hell hounds have greater cunning than normal canines. They're skilled trackers and work together well in packs, often employing tricks and ambushes. Hell hounds enjoy hearing prey scream in their scorching jaws and fiery breath. They often go out of their way to draw out the terror of their victims' final moments.
 
-![](Compendium/books/monster-manual-2025/img/162-08-003-hell-hound.webp#center)
+![](/Compendium/books/monster-manual-2025/img/162-08-003-hell-hound.webp#center)
 
 > [!embed-monster]- Hell Hound
-> ![[hell-hound-xmm#^statblock|Hell Hound]]
+> ![Hell Hound](/Compendium/bestiary/fiend/hell-hound-xmm.md#^statblock)
 
 ### Helmed Horror
 
 **Helmed Horror.** *Armor with a Warrior's Purpose*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Helmed horrors are suits of armor animated by magic. Rather than being unreasoning automatons, these armored shells possess the guile of soldiers and resilience against destructive magic. While their name suggests sinister intentions, these creatures serve their creators loyally. Helmed horrors are also sometimes called doom guards or spirit armors. Most show no evidence of a personality, but exceptions exist.
 
@@ -3490,10 +3489,10 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 | 6 | Stand sentry in a gallery of mundane armors. |
 ^helmed-horror-directives
 
-![A helmed horror proves imm...](Compendium/books/monster-manual-2025/img/163-08-004-helmed-horror.webp#center "A helmed horror proves immune to a mage's Lightning Bolt spell")
+![A helmed horror proves immune to a mage's Lightning Bolt spell](/Compendium/books/monster-manual-2025/img/163-08-004-helmed-horror.webp#center)
 
 > [!embed-monster]- Helmed Horror
-> ![[helmed-horror-xmm#^statblock|Helmed Horror]]
+> ![Helmed Horror](/Compendium/bestiary/construct/helmed-horror-xmm.md#^statblock)
 
 ### Hezrou
 
@@ -3506,7 +3505,7 @@ Hezrous compose the bulk of many demonic hordes. In croaking, reeking throngs, t
 
 Hezrous serve more powerful demons, such as nalfeshnees and mariliths. They take the abuse and intimidation of these deadlier demons and pass it on to droves of weaker dretches and manes. This predictable brutality makes hezrous useful links in the chaotic structure of a demonic horde.
 
-When on the Material Plane or otherwise left to their own devices, hezrous recklessly indulge in destructive, short-sighted rampages. Only magic and threats from more powerful masters can curb these demons' outrages and compel hezrous to pursue greater plots. Powerful spellcasters often use sinister coercions, spells like [[magic-circle-xphb|Magic Circle]] and [[planar-binding-xphb|Planar Binding]], or other magic to force hezrous to serve them. Roll on or choose a result from the Demonic Undertakings table to inspire how a magic-user might employ a hezrou or similar demon.
+When on the Material Plane or otherwise left to their own devices, hezrous recklessly indulge in destructive, short-sighted rampages. Only magic and threats from more powerful masters can curb these demons' outrages and compel hezrous to pursue greater plots. Powerful spellcasters often use sinister coercions, spells like [Magic Circle](/Compendium/spells/magic-circle-xphb.md) and [Planar Binding](/Compendium/spells/planar-binding-xphb.md), or other magic to force hezrous to serve them. Roll on or choose a result from the Demonic Undertakings table to inspire how a magic-user might employ a hezrou or similar demon.
 
 **Demonic Undertakings**
 
@@ -3520,17 +3519,17 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
 | 6 | Intimidate someone into following orders. |
 ^demonic-undertakings
 
-![](Compendium/books/monster-manual-2025/img/164-08-005-hezrou.webp#center)
+![](/Compendium/books/monster-manual-2025/img/164-08-005-hezrou.webp#center)
 
 > [!embed-monster]- Hezrou
-> ![[hezrou-xmm#^statblock|Hezrou]]
+> ![Hezrou](/Compendium/bestiary/fiend/hezrou-xmm.md#^statblock)
 
 ### Hill Giant
 
 **Hill Giant.** *Giant of Crags and Valleys*
 
 - **Habitat.** Hill  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Hill giants live among rugged bluffs and highlands. Standing three times the size of most humans, these giants exhibit skin and hair in a range of shades, including hues suggestive of the earth and mosses near their dwellings.
 
@@ -3538,10 +3537,10 @@ Among hidden valleys, pristine waterfalls, and game-filled slopes, hill giants u
 
 Disaster, invasion, or want might drive hill giants from their homes into other people's lands. Some displaced hill giants might steal what they need or seek revenge for their losses by causing ruin among smaller beings. Others might take up lives of raiding or serve other giants in return for protection.
 
-![](Compendium/books/monster-manual-2025/img/165-08-006-hill-giants.webp#center)
+![](/Compendium/books/monster-manual-2025/img/165-08-006-hill-giants.webp#center)
 
 > [!embed-monster]- Hill Giant
-> ![[hill-giant-xmm#^statblock|Hill Giant]]
+> ![Hill Giant](/Compendium/bestiary/giant/hill-giant-xmm.md#^statblock)
 
 ### Hippogriff
 
@@ -3566,17 +3565,17 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 | 6 | Portal to the Feywild or an Upper Plane. |
 ^hippogriff-destination
 
-![](Compendium/books/monster-manual-2025/img/166-08-007-hippogriff.webp#center)
+![](/Compendium/books/monster-manual-2025/img/166-08-007-hippogriff.webp#center)
 
 > [!embed-monster]- Hippogriff
-> ![[hippogriff-xmm#^statblock|Hippogriff]]
+> ![Hippogriff](/Compendium/bestiary/monstrosity/hippogriff-xmm.md#^statblock)
 
 ### Hobgoblins
 
 **Hobgoblins.** *Conquerors of Every Horizon*
 
 - **Habitat.** Desert, Forest, Grassland, Hill, Mountain, Planar (Acheron), Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Hobgoblins embody the primal urge to grow and spread, expressing such drives by bending the world to their whims. Lone hobgoblins claim woodland territories and plunder the wilds. In groups, they form hierarchical, martial societies bent on conquering lands and stripping them of resources to serve their expansionist zeal.
 
@@ -3598,18 +3597,18 @@ Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matc
 | 6 | Help shortsighted merchants undermine a government or despoil the environment. |
 ^hobgoblin-strategies
 
-![A hobgoblin warlord overse...](Compendium/books/monster-manual-2025/img/167-08-008-hobgoblins.webp#center "A hobgoblin warlord oversees a hobgoblin captain and hobgoblin warriors marching to war")
+![A hobgoblin warlord oversees a hobgoblin captain and hobgoblin warriors marching to war](/Compendium/books/monster-manual-2025/img/167-08-008-hobgoblins.webp#center)
 
 > [!embed-monster]- Hobgoblin Warrior
-> ![[hobgoblin-warrior-xmm#^statblock|Hobgoblin Warrior]]
+> ![Hobgoblin Warrior](/Compendium/bestiary/fey/hobgoblin-warrior-xmm.md#^statblock)
 
 > [!embed-monster]- Hobgoblin Captain
-> ![[hobgoblin-captain-xmm#^statblock|Hobgoblin Captain]]
+> ![Hobgoblin Captain](/Compendium/bestiary/fey/hobgoblin-captain-xmm.md#^statblock)
 
 > [!embed-monster]- Hobgoblin Warlord
-> ![[hobgoblin-warlord-xmm#^statblock|Hobgoblin Warlord]]
+> ![Hobgoblin Warlord](/Compendium/bestiary/fey/hobgoblin-warlord-xmm.md#^statblock)
 
-![Homunculi are as varied as...](Compendium/books/monster-manual-2025/img/168-08-009-group-of-homunculus.webp#center "Homunculi are as varied as the magic-users who create them")
+![Homunculi are as varied as the magic-users who create them](/Compendium/books/monster-manual-2025/img/168-08-009-group-of-homunculus.webp#center)
 
 ### Homunculus
 
@@ -3637,7 +3636,7 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 ^homunculus-features
 
 > [!embed-monster]- Homunculus
-> ![[homunculus-xmm#^statblock|Homunculus]]
+> ![Homunculus](/Compendium/bestiary/construct/homunculus-xmm.md#^statblock)
 
 ### Hook Horror
 
@@ -3650,24 +3649,24 @@ Hook horrors are beaked predators whose forelimbs end in massive, hook-like claw
 
 Hook horrors feed opportunistically on plants, fungi, and any creatures that come close enough to hook. To perceive their surroundings, hook horrors echolocate via a range of noises, from banging on rocks and their own bodies to vocalizations that sound like strange squawks, screams, or clicks. Only hook horrors know the meaning of these noises, but many people who explore the Underdark or live near deep-reaching caves have sought the sources of such sounds only to fall victim to hungry hook horrors.
 
-![](Compendium/books/monster-manual-2025/img/169-08-010-hook-horror.webp#center)
+![](/Compendium/books/monster-manual-2025/img/169-08-010-hook-horror.webp#center)
 
 > [!embed-monster]- Hook Horror
-> ![[hook-horror-xmm#^statblock|Hook Horror]]
+> ![Hook Horror](/Compendium/bestiary/monstrosity/hook-horror-xmm.md#^statblock)
 
 ### Horned Devil
 
 **Horned Devil.** *Devil of Hatred and Subjugation*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Horned devils, also known as cornugons or malebranche, are infernal warriors that exact the will of diabolical generals and lead other devils in battle. Their bodies and weapons are forged in the Nine Hells, and they torment their foes with diabolical flames and pernicious wounds.
 
-![](Compendium/books/monster-manual-2025/img/170-08-011-horned-devil.webp#center)
+![](/Compendium/books/monster-manual-2025/img/170-08-011-horned-devil.webp#center)
 
 > [!embed-monster]- Horned Devil
-> ![[horned-devil-xmm#^statblock|Horned Devil]]
+> ![Horned Devil](/Compendium/bestiary/fiend/horned-devil-xmm.md#^statblock)
 
 ### Hydra
 
@@ -3692,10 +3691,10 @@ While many hydras claim their own territories, wicked deities might use them to 
 | 4 | Protect a font of poison that pollutes a river. |
 ^hydra-lairs
 
-![](Compendium/books/monster-manual-2025/img/171-08-012-hydra.webp#center)
+![](/Compendium/books/monster-manual-2025/img/171-08-012-hydra.webp#center)
 
 > [!embed-monster]- Hydra
-> ![[hydra-xmm#^statblock|Hydra]]
+> ![Hydra](/Compendium/bestiary/monstrosity/hydra-xmm.md#^statblock)
 
 ## Monsters (I)
 
@@ -3704,7 +3703,7 @@ While many hydras claim their own territories, wicked deities might use them to 
 **Ice Devil.** *Devil of Antipathy and Intellectual Arrogance*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Heartless strategists of the Nine Hells, ice devils—also known as gelugons—forsake emotion to indulge in their own malicious interpretations of logic. For them, the multiverse is a puzzle that must be solved to benefit them, their masters, and the Nine Hells.
 
@@ -3718,10 +3717,10 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
 > 
 > Part of the charm of ice devils is that they always think they're smarter than you. Mmm—there are few pleasures sweeter than proving a devil wrong.
 
-![](Compendium/books/monster-manual-2025/img/172-09-001-ice-devil.webp#center)
+![](/Compendium/books/monster-manual-2025/img/172-09-001-ice-devil.webp#center)
 
 > [!embed-monster]- Ice Devil
-> ![[ice-devil-xmm#^statblock|Ice Devil]]
+> ![Ice Devil](/Compendium/bestiary/fiend/ice-devil-xmm.md#^statblock)
 
 ### Imp
 
@@ -3738,10 +3737,10 @@ Imps without masters delight in manipulating other creatures and inflating their
 > 
 > I can tell you what I know, but wouldn't you rather I tell you what'll let you do what you know you're going to do anyway?
 
-![](Compendium/books/monster-manual-2025/img/173-09-002-imp.webp#center)
+![](/Compendium/books/monster-manual-2025/img/173-09-002-imp.webp#center)
 
 > [!embed-monster]- Imp
-> ![[imp-xmm#^statblock|Imp]]
+> ![Imp](/Compendium/bestiary/fiend/imp-xmm.md#^statblock)
 
 ### Incubus
 
@@ -3763,17 +3762,17 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 | 1 | An angry family member or authority figure. |
 | 2 | Being chased through the wilderness. |
 | 3 | Being devoured by animals or monsters. |
-| 4 | [[falling-xphb|Falling]], drowning, or suffocating. |
+| 4 | [Falling](/Compendium/traps-hazards/falling-xphb.md), drowning, or suffocating. |
 | 5 | A ruinous public embarrassment. |
 | 6 | A shadowy intruder or monstrous silhouette. |
 | 7 | A traumatic past event. |
 | 8 | A visitor with an eerie or enigmatic message. |
 ^incubus-nightmares
 
-![](Compendium/books/monster-manual-2025/img/174-09-003-incubus.webp#center)
+![](/Compendium/books/monster-manual-2025/img/174-09-003-incubus.webp#center)
 
 > [!embed-monster]- Incubus
-> ![[incubus-xmm#^statblock|Incubus]]
+> ![Incubus](/Compendium/bestiary/fiend/incubus-xmm.md#^statblock)
 
 ### Intellect Devourer
 
@@ -3788,10 +3787,10 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 > 
 > I know Durgan, and that wasn't Durgan. It was like something was wearing Durgan... like some sort of suit... a Durgan suit.
 
-![Intellect Devourer](Compendium/books/monster-manual-2025/img/175-09-004-intellect-devourer.webp#center)
+![Intellect Devourer](/Compendium/books/monster-manual-2025/img/175-09-004-intellect-devourer.webp#center)
 
 > [!embed-monster]- Intellect Devourer
-> ![[intellect-devourer-xmm#^statblock|Intellect Devourer]]
+> ![Intellect Devourer](/Compendium/bestiary/aberration/intellect-devourer-xmm.md#^statblock)
 
 ### Invisible Stalker
 
@@ -3800,9 +3799,9 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 - **Habitat.** Urban  
 - **Treasure.** None  
 
-Magic and malice give form to invisible stalkers, bodiless spirits of the air. These elusive beings pass unseen with nothing more than a stirring of air. They control powerful winds capable of moving objects and battering foes. Magic-users conjure these creatures to serve as killers and thieves. [[conditions#Invisible|Invisible]] stalkers relentlessly pursue their quarry, and they rarely leave evidence of their crimes.
+Magic and malice give form to invisible stalkers, bodiless spirits of the air. These elusive beings pass unseen with nothing more than a stirring of air. They control powerful winds capable of moving objects and battering foes. Magic-users conjure these creatures to serve as killers and thieves. [Invisible](/Compendium/rules/conditions.md#Invisible) stalkers relentlessly pursue their quarry, and they rarely leave evidence of their crimes.
 
-In rare cases, an invisible stalker lingers in the world without a spellcaster controlling it. Roll on or choose a result from the Uncontrolled [[conditions#Invisible|Invisible]] Stalkers table to inspire why one of these monsters lurks in an area without a direct command.
+In rare cases, an invisible stalker lingers in the world without a spellcaster controlling it. Roll on or choose a result from the Uncontrolled Invisible Stalkers table to inspire why one of these monsters lurks in an area without a direct command.
 
 **Uncontrolled Invisible Stalkers**
 
@@ -3820,10 +3819,10 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 > 
 > As detectives, we seek truth by eliminating the impossible, ever mindful that the impossible might also be seeking to eliminate us.
 
-![](Compendium/books/monster-manual-2025/img/176-09-005-invisible-stalker.webp#center)
+![](/Compendium/books/monster-manual-2025/img/176-09-005-invisible-stalker.webp#center)
 
 > [!embed-monster]- Invisible Stalker
-> ![[invisible-stalker-xmm#^statblock|Invisible Stalker]]
+> ![Invisible Stalker](/Compendium/bestiary/elemental/invisible-stalker-xmm.md#^statblock)
 
 ### Iron Golem
 
@@ -3846,21 +3845,21 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
 | 4 | Stand atop the resting place of a powerful magic item. |
 ^iron-golem-orders
 
-![Iron Golem](Compendium/books/monster-manual-2025/img/177-09-006-iron-golem.webp#center)
+![Iron Golem](/Compendium/books/monster-manual-2025/img/177-09-006-iron-golem.webp#center)
 
 > [!embed-monster]- Iron Golem
-> ![[iron-golem-xmm#^statblock|Iron Golem]]
+> ![Iron Golem](/Compendium/bestiary/construct/iron-golem-xmm.md#^statblock)
 
 ## Monsters (J)
 
-![](Compendium/books/monster-manual-2025/img/178-10-001-jackalwere.webp#center)
+![](/Compendium/books/monster-manual-2025/img/178-10-001-jackalwere.webp#center)
 
 ### Jackalwere
 
 **Jackalwere.** *Shape-Shifting Trickster of the Wilds*
 
 - **Habitat.** Desert, Grassland  
-- **Treasure.** [[random-magic-items-implements|Implements]]  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 Indistinguishable from jackals in their natural form, jackalweres shape-shift to deceive others. These shape-shifters can take three forms: a jackal, a human, or a monstrous hybrid of the two. Jackalweres are easily mistaken for werewolves, but jackalweres aren't supernaturally afflicted—their jackal forms are their natural state. Jackalweres also possess magical gazes capable of putting foes to sleep, allowing jackalweres to play their tricks unimpeded or get the upper hand over threats.
 
@@ -3877,7 +3876,7 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 ^jackalwere-tricks
 
 > [!embed-monster]- Jackalwere
-> ![[jackalwere-xmm#^statblock|Jackalwere]]
+> ![Jackalwere](/Compendium/bestiary/fiend/jackalwere-xmm.md#^statblock)
 
 ## Monsters (K)
 
@@ -3886,52 +3885,52 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 **Kenku.** *Flightless, Noise-Mimicking Avian*
 
 - **Habitat.** Forest, Planar (Shadowfell), Urban  
-- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md), Individual  
 
 Kenku are birdlike folk who once soared the skies and sang enchanted songs, but a curse stole their wings and transformed their voices. Now kenku slip through the shadows of cities and the Shadowfell, trying to recover what they've lost. To some, this means seeking an end to their curse; others search for magic or contraptions to enable them to fly and sing again.
 
 The curse affecting kenku allows them to vocally communicate only by mimicking sounds they've heard. Kenku can supernaturally re-create vast varieties of noises, from crying babies to running water and short phrases in others' voices. Cunning kenku use their mimicry to deceive foes, lure creatures into ambushes, and signal to allies.
 
 > [!embed-monster]- Kenku
-> ![[kenku-xmm#^statblock|Kenku]]
+> ![Kenku](/Compendium/bestiary/monstrosity/kenku-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/179-11-001-kenku.webp#center)
+![](/Compendium/books/monster-manual-2025/img/179-11-001-kenku.webp#center)
 
 ### Knights
 
 **Knights.** *Battle Masters and Heroic Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Knights are skilled warriors trained for war and tested in battle. Many serve the rulers of a realm, a religion, or an order devoted to a cause.
 
-![](Compendium/books/monster-manual-2025/img/180-11-002-knights.webp#center)
+![](/Compendium/books/monster-manual-2025/img/180-11-002-knights.webp#center)
 
 > [!embed-monster]- Knight
-> ![[knight-xmm#^statblock|Knight]]
+> ![Knight](/Compendium/bestiary/humanoid/knight-xmm.md#^statblock)
 
 > [!embed-monster]- Questing Knight
-> ![[questing-knight-xmm#^statblock|Questing Knight]]
+> ![Questing Knight](/Compendium/bestiary/humanoid/questing-knight-xmm.md#^statblock)
 
 ### Kobolds
 
 **Kobolds.** *Tricksters and Servants to Chromatic Dragons*
 
 - **Habitat.** Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Cowardly cousins to chromatic dragons, kobolds serve draconic overlords as warriors and servants. These scrappy menaces mimic the behaviors of their dragon masters. Though their small stature and recklessness make kobolds poor imitators of dragons, what they lack in ferocity they make up for in zeal and ingenuity. They are especially adept at creating traps and setting ambushes.
 
 Kobolds' scales resemble those of chromatic dragons that live near their warrens. Rarely, kobolds possess features evocative of metallic dragons or other dragon-like creatures.
 
 > [!embed-monster]- Kobold Warrior
-> ![[kobold-warrior-xmm#^statblock|Kobold Warrior]]
+> ![Kobold Warrior](/Compendium/bestiary/dragon/kobold-warrior-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/181-11-003-kobolds.webp#center)
+![](/Compendium/books/monster-manual-2025/img/181-11-003-kobolds.webp#center)
 
 > [!embed-monster]- Winged Kobold
-> ![[winged-kobold-xmm#^statblock|Winged Kobold]]
+> ![Winged Kobold](/Compendium/bestiary/dragon/winged-kobold-xmm.md#^statblock)
 
 ### Kraken
 
@@ -3966,10 +3965,10 @@ Krakens rarely appear on the surface, but when they do, they herald times of cha
 > 
 > A kraken dreams of casting its tentacles into the heavens and strangling that which birthed it, and when its dream exceeds its reach, it settles for the occasional passing ship.
 
-![](Compendium/books/monster-manual-2025/img/182-11-004-kraken.webp#center)
+![](/Compendium/books/monster-manual-2025/img/182-11-004-kraken.webp#center)
 
 > [!embed-monster]- Kraken
-> ![[kraken-xmm#^statblock|Kraken]]
+> ![Kraken](/Compendium/bestiary/monstrosity/kraken-xmm.md#^statblock)
 
 ### Kuo-toa
 
@@ -3980,7 +3979,7 @@ Most kuo-toa follow the orders of their more powerful leaders out of a combinati
 **Kuo-toa.** *Fishlike Fanatics of the Deep*
 
 - **Habitat.** Coastal, Underdark  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Kuo-toa have slimy, humanoid bodies and the heads of goggle-eyed deep-sea fish. They claim they once dominated whole worlds, their empires spanning land and sea under the blessings of piscine gods. The kuo-toa can't say what disaster brought their glorious civilization to an end, but elves, humans, mind flayers, and the kuo-toan gods bear the brunt of their blame. From the lands and seas of the surface, the kuo-toa retreated into cavernous trenches and Underdark seas. In these hidden realms, kuo-toa brood over all they've lost and forgotten, nursing plots to avenge themselves for slights that might never have occurred.
 
@@ -4028,23 +4027,23 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 > 
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
 
-![An adventurer stumbles on ...](Compendium/books/monster-manual-2025/img/183-11-005-kuo-toa-archpriest.webp#center "An adventurer stumbles on a kuo-toa archpriest and servants of its strange gods")
+![An adventurer stumbles on a kuo-toa archpriest and servants of its strange gods](/Compendium/books/monster-manual-2025/img/183-11-005-kuo-toa-archpriest.webp#center)
 
-![Kuo-toa](Compendium/books/monster-manual-2025/img/184-11-006-kuo-toa.webp#center)
+![Kuo-toa](/Compendium/books/monster-manual-2025/img/184-11-006-kuo-toa.webp#center)
 
 > [!embed-monster]- Kuo-toa
-> ![[kuo-toa-xmm#^statblock|Kuo-toa]]
+> ![Kuo-toa](/Compendium/bestiary/aberration/kuo-toa-xmm.md#^statblock)
 
 > [!embed-monster]- Kuo-toa Whip
-> ![[kuo-toa-whip-xmm#^statblock|Kuo-toa Whip]]
+> ![Kuo-toa Whip](/Compendium/bestiary/aberration/kuo-toa-whip-xmm.md#^statblock)
 
-![A kuo-toa whip and kuo-toa...](Compendium/books/monster-manual-2025/img/185-11-007-kuo-toa-monitor-and-whip.webp#center "A kuo-toa whip and kuo-toa monitor lead a midnight raid")
+![A kuo-toa whip and kuo-toa monitor lead a midnight raid](/Compendium/books/monster-manual-2025/img/185-11-007-kuo-toa-monitor-and-whip.webp#center)
 
 > [!embed-monster]- Kuo-toa Monitor
-> ![[kuo-toa-monitor-xmm#^statblock|Kuo-toa Monitor]]
+> ![Kuo-toa Monitor](/Compendium/bestiary/aberration/kuo-toa-monitor-xmm.md#^statblock)
 
 > [!embed-monster]- Kuo-toa Archpriest
-> ![[kuo-toa-archpriest-xmm#^statblock|Kuo-toa Archpriest]]
+> ![Kuo-toa Archpriest](/Compendium/bestiary/aberration/kuo-toa-archpriest-xmm.md#^statblock)
 
 ## Monsters (L)
 
@@ -4053,7 +4052,7 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 **Lamia.** *Accursed Bargainer and Ruin Raider*
 
 - **Habitat.** Desert  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Legends say the first lamia was an ambitious ruler who made a sinister bargain with the demon lord Graz'zt for everlasting majesty. As a consequence, the ruler was transformed into a lamia, a monster with the body of a lion and an accursed touch.
 
@@ -4071,10 +4070,10 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
 | 6 | Slay a monster and retrieve a specific organ. |
 ^lamia-pacts
 
-![](Compendium/books/monster-manual-2025/img/186-12-001-lamia.webp#center)
+![](/Compendium/books/monster-manual-2025/img/186-12-001-lamia.webp#center)
 
 > [!embed-monster]- Lamia
-> ![[lamia-xmm#^statblock|Lamia]]
+> ![Lamia](/Compendium/bestiary/fiend/lamia-xmm.md#^statblock)
 
 ### Larvae
 
@@ -4087,13 +4086,13 @@ Souls condemned to the Lower Planes often become larvae—repulsive, maggot-like
 
 Larvae that survive on the Lower Planes long enough can eventually transform into other sorts of lesser Fiends.
 
-![](Compendium/books/monster-manual-2025/img/187-12-002-swarm-of-larvae.webp#center)
+![](/Compendium/books/monster-manual-2025/img/187-12-002-swarm-of-larvae.webp#center)
 
 > [!embed-monster]- Larva
-> ![[larva-xmm#^statblock|Larva]]
+> ![Larva](/Compendium/bestiary/fiend/larva-xmm.md#^statblock)
 
 > [!embed-monster]- Swarm of Larvae
-> ![[swarm-of-larvae-xmm#^statblock|Swarm of Larvae]]
+> ![Swarm of Larvae](/Compendium/bestiary/fiend/swarm-of-larvae-xmm.md#^statblock)
 
 ### Lemures
 
@@ -4104,20 +4103,20 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 
 The least of all devils, lemures arise from wicked souls, their mortal memories scoured away. Only vague limbs and anguished features jut from these slurries of infernal proto-matter.
 
-![Lemure](Compendium/books/monster-manual-2025/img/188-12-003-lemures.webp#center)
+![Lemure](/Compendium/books/monster-manual-2025/img/188-12-003-lemures.webp#center)
 
 > [!embed-monster]- Lemure
-> ![[lemure-xmm#^statblock|Lemure]]
+> ![Lemure](/Compendium/bestiary/fiend/lemure-xmm.md#^statblock)
 
 > [!embed-monster]- Swarm of Lemures
-> ![[swarm-of-lemures-xmm#^statblock|Swarm of Lemures]]
+> ![Swarm of Lemures](/Compendium/bestiary/fiend/swarm-of-lemures-xmm.md#^statblock)
 
 ### Lich
 
 **Lich.** *Deathless Master of Magic*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Some nefarious magic-users carry out forbidden necromantic rituals that sever their souls from their bodies to turn themselves into liches, masters of magic and undeath. With their souls preserved in hidden relics, liches puppet their own corpses as they pursue ambitions free from mortal bonds.
 
@@ -4151,10 +4150,10 @@ Spirit jars are typically small, well-made objects that were meaningful to a lic
 > 
 > Ambition can become an addiction of the mind and spirit. It builds beyond a driving flame into an insidious inferno that burns a mage hollow until only the desire for more magical power remains
 
-![An ancient lich and her gh...](Compendium/books/monster-manual-2025/img/189-12-004-litches.webp#center "An ancient lich and her ghast gravecaller attendants ¤arp reality with forbidden magic")
+![An ancient lich and her ghast gravecaller attendants ¤arp reality with forbidden magic](/Compendium/books/monster-manual-2025/img/189-12-004-litches.webp#center)
 
 > [!embed-monster]- Lich
-> ![[lich-xmm#^statblock|Lich]]
+> ![Lich](/Compendium/bestiary/undead/lich-xmm.md#^statblock)
 
 ### Lizardfolk
 
@@ -4166,12 +4165,12 @@ Spirit jars are typically small, well-made objects that were meaningful to a lic
 Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfolk are Humanoids with varied skills, some forge powerful bonds with the Elemental Plane of Earth, granting them magical connections to the cycle of growth and rebirth.
 
 > [!embed-monster]- Lizardfolk Geomancer
-> ![[lizardfolk-geomancer-xmm#^statblock|Lizardfolk Geomancer]]
+> ![Lizardfolk Geomancer](/Compendium/bestiary/elemental/lizardfolk-geomancer-xmm.md#^statblock)
 
 > [!embed-monster]- Lizardfolk Sovereign
-> ![[lizardfolk-sovereign-xmm#^statblock|Lizardfolk Sovereign]]
+> ![Lizardfolk Sovereign](/Compendium/bestiary/elemental/lizardfolk-sovereign-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/190-12-005-lizardfolk.webp#center)
+![](/Compendium/books/monster-manual-2025/img/190-12-005-lizardfolk.webp#center)
 
 ## Monsters (M)
 
@@ -4180,7 +4179,7 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
 **Mages.** *Magical Scholars and Spellcasters*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-arcana|Arcana]], Individual  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md), Individual  
 
 Mages are magical wonder-workers, ranging from spellcasting overlords to reclusive witches. They study mystical secrets and possess insight into monsters, legends, omens, and other lore. Mages often gather allies or hire assistants to aid them in their research or to attain magical might.
 
@@ -4206,16 +4205,16 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
-![](Compendium/books/monster-manual-2025/img/191-13-001-mages.webp#center)
+![](/Compendium/books/monster-manual-2025/img/191-13-001-mages.webp#center)
 
 > [!embed-monster]- Mage Apprentice
-> ![[mage-apprentice-xmm#^statblock|Mage Apprentice]]
+> ![Mage Apprentice](/Compendium/bestiary/humanoid/mage-apprentice-xmm.md#^statblock)
 
 > [!embed-monster]- Mage
-> ![[mage-xmm#^statblock|Mage]]
+> ![Mage](/Compendium/bestiary/humanoid/mage-xmm.md#^statblock)
 
 > [!embed-monster]- Archmage
-> ![[archmage-xmm#^statblock|Archmage]]
+> ![Archmage](/Compendium/bestiary/humanoid/archmage-xmm.md#^statblock)
 
 ### Magmin
 
@@ -4228,10 +4227,10 @@ Magmins divide all things into two categories: things that are on fire and thing
 
 Magmins might be conjured by magic-users to harry foes or might escape the Elemental Plane of Fire through portals or rifts that lead to other realms. They're attracted to places of intense heat, such as volcanoes and rivers of magma. If they can't find such favored conditions, magmins eagerly burn structures or start wildfires to entertain themselves.
 
-![](Compendium/books/monster-manual-2025/img/192-13-002-magmin.webp#center)
+![](/Compendium/books/monster-manual-2025/img/192-13-002-magmin.webp#center)
 
 > [!embed-monster]- Magmin
-> ![[magmin-xmm#^statblock|Magmin]]
+> ![Magmin](/Compendium/bestiary/elemental/magmin-xmm.md#^statblock)
 
 ### Manes
 
@@ -4245,12 +4244,12 @@ Manes lash out at creatures that appear weaker than themselves—or that react t
 The lowest form of demons, manes appear when truly loathsome souls are condemned to the Abyss. These misshapen demons have distorted features and bodies that crawl with Abyssal parasites. Overwhelmed by demonic urges and constant terror, manes know only shock and frenzied outbursts.
 
 > [!embed-monster]- Manes
-> ![[manes-xmm#^statblock|Manes]]
+> ![Manes](/Compendium/bestiary/fiend/manes-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/193-13-003-manes.webp#center)
+![](/Compendium/books/monster-manual-2025/img/193-13-003-manes.webp#center)
 
 > [!embed-monster]- Manes Vaporspawn
-> ![[manes-vaporspawn-xmm#^statblock|Manes Vaporspawn]]
+> ![Manes Vaporspawn](/Compendium/bestiary/fiend/manes-vaporspawn-xmm.md#^statblock)
 
 ### Manticore
 
@@ -4279,40 +4278,40 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 | 8 | Try to locate something from its vantage point in the sky. |
 ^manticore-negotiations
 
-![](Compendium/books/monster-manual-2025/img/194-13-004-manticore.webp#center)
+![](/Compendium/books/monster-manual-2025/img/194-13-004-manticore.webp#center)
 
 > [!embed-monster]- Manticore
-> ![[manticore-xmm#^statblock|Manticore]]
+> ![Manticore](/Compendium/bestiary/monstrosity/manticore-xmm.md#^statblock)
 
 ### Marid
 
 **Marid.** *Genie of the Water*
 
 - **Habitat.** Coastal, Planar (Elemental Plane of Water), Underwater  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Marids surge with the power of the seas, using it to manipulate the waves or create water. These genies typically dwell in or near bodies of water. While gentle marids make homes amid springs, oases, and serene pools, tempestuous marids inhabit sea stacks, whirlpools, and treacherous coasts. Marids vary in appearance, their bodies reflecting the colors of the waves while distinctive fins and scales accent their features. Marids lend their powers and knowledge of the seas to those who defend the marids' watery realms or who offer them pleasing gifts. Marids appreciate rare aquatic treasures, such as colorful pearls, shell instruments, or delicacies from distant seas.
 
 Marids hail from the Elemental Plane of Water, where they live in wondrous homes drifting amid the endless ocean. Among these is the Citadel of Ten Thousand Pearls—a coral sphere studded with dozens of domed theaters and libraries—and the air-filled, cosmopolitan City of Glass.
 
-![](Compendium/books/monster-manual-2025/img/195-13-005-marid.webp#center)
+![](/Compendium/books/monster-manual-2025/img/195-13-005-marid.webp#center)
 
 > [!embed-monster]- Marid
-> ![[marid-xmm#^statblock|Marid]]
+> ![Marid](/Compendium/bestiary/elemental/marid-xmm.md#^statblock)
 
 ### Marilith
 
 **Marilith.** *Demon of Cruelty and Viciousness*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged blades. With these cursed weapons and experience from countless battles, they lead other demons to slaughter virtuous souls. They often command droves of weaker demons.
 
-![Marilith](Compendium/books/monster-manual-2025/img/196-13-006-mariliths.webp#center)
+![Marilith](/Compendium/books/monster-manual-2025/img/196-13-006-mariliths.webp#center)
 
 > [!embed-monster]- Marilith
-> ![[marilith-xmm#^statblock|Marilith]]
+> ![Marilith](/Compendium/bestiary/fiend/marilith-xmm.md#^statblock)
 
 ### Medusa
 
@@ -4321,7 +4320,7 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
 - **Habitat.** Desert  
 - **Treasure.** Any  
 
-With their hair of living snakes and their infamous petrifying gazes, medusas are hubristic creatures that inhabit sites of fallen glory. They often dwell beyond the fringes of civilization or travel in disguise, leaving trails of [[conditions#Petrified|petrified]] victims. Some medusas dominate groups of monsters or criminals, controlling them with threats of [[conditions#Petrified|petrified]] doom, while others recruit servants that are immune to being [[conditions#Petrified|petrified]], such as gargoyles and gorgons.
+With their hair of living snakes and their infamous petrifying gazes, medusas are hubristic creatures that inhabit sites of fallen glory. They often dwell beyond the fringes of civilization or travel in disguise, leaving trails of [petrified](/Compendium/rules/conditions.md#Petrified) victims. Some medusas dominate groups of monsters or criminals, controlling them with threats of [petrified](/Compendium/rules/conditions.md#Petrified) doom, while others recruit servants that are immune to being [petrified](/Compendium/rules/conditions.md#Petrified), such as gargoyles and gorgons.
 
 Medusas are born or created through preternatural circumstances. Roll on or choose a result from the Medusa Fates table to inspire what led to a medusa's creation.
 
@@ -4337,10 +4336,10 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
 | 6 | The victim of a bite from a magical serpent or reptilian god in disguise. |
 ^medusa-fates
 
-![](Compendium/books/monster-manual-2025/img/197-13-007-medusa.webp#center)
+![](/Compendium/books/monster-manual-2025/img/197-13-007-medusa.webp#center)
 
 > [!embed-monster]- Medusa
-> ![[medusa-xmm#^statblock|Medusa]]
+> ![Medusa](/Compendium/bestiary/monstrosity/medusa-xmm.md#^statblock)
 
 ### Mephits
 
@@ -4357,27 +4356,27 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > 
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
-![](Compendium/books/monster-manual-2025/img/198-13-008-mephits.webp#center)
+![](/Compendium/books/monster-manual-2025/img/198-13-008-mephits.webp#center)
 
 > [!embed-monster]- Dust Mephit
-> ![[dust-mephit-xmm#^statblock|Dust Mephit]]
+> ![Dust Mephit](/Compendium/bestiary/elemental/dust-mephit-xmm.md#^statblock)
 
 > [!embed-monster]- Ice Mephit
-> ![[ice-mephit-xmm#^statblock|Ice Mephit]]
+> ![Ice Mephit](/Compendium/bestiary/elemental/ice-mephit-xmm.md#^statblock)
 
 > [!embed-monster]- Magma Mephit
-> ![[magma-mephit-xmm#^statblock|Magma Mephit]]
+> ![Magma Mephit](/Compendium/bestiary/elemental/magma-mephit-xmm.md#^statblock)
 
 > [!embed-monster]- Mud Mephit
-> ![[mud-mephit-xmm#^statblock|Mud Mephit]]
+> ![Mud Mephit](/Compendium/bestiary/elemental/mud-mephit-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/199-13-009-mephit-pair.webp#center)
+![](/Compendium/books/monster-manual-2025/img/199-13-009-mephit-pair.webp#center)
 
 > [!embed-monster]- Smoke Mephit
-> ![[smoke-mephit-xmm#^statblock|Smoke Mephit]]
+> ![Smoke Mephit](/Compendium/bestiary/elemental/smoke-mephit-xmm.md#^statblock)
 
 > [!embed-monster]- Steam Mephit
-> ![[steam-mephit-xmm#^statblock|Steam Mephit]]
+> ![Steam Mephit](/Compendium/bestiary/elemental/steam-mephit-xmm.md#^statblock)
 
 ### Merfolk
 
@@ -4388,13 +4387,13 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 
 Beneath the waves dwell merfolk, mysterious creatures that merge the features of humans and sea creatures. Some are curious about land dwellers, while others view them with suspicion.
 
-![](Compendium/books/monster-manual-2025/img/200-13-010-merfolk.webp#center)
+![](/Compendium/books/monster-manual-2025/img/200-13-010-merfolk.webp#center)
 
 > [!embed-monster]- Merfolk Skirmisher
-> ![[merfolk-skirmisher-xmm#^statblock|Merfolk Skirmisher]]
+> ![Merfolk Skirmisher](/Compendium/bestiary/elemental/merfolk-skirmisher-xmm.md#^statblock)
 
 > [!embed-monster]- Merfolk Wavebender
-> ![[merfolk-wavebender-xmm#^statblock|Merfolk Wavebender]]
+> ![Merfolk Wavebender](/Compendium/bestiary/elemental/merfolk-wavebender-xmm.md#^statblock)
 
 ### Merrow
 
@@ -4411,17 +4410,17 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
 > 
 > Sages trace merrows' origins to aquatic ogres, depraved merfolk, and worse. Such broad theories reveal little about these monsters but overmuch of the dread lurking beyond our certain shores.
 
-![](Compendium/books/monster-manual-2025/img/201-13-011-merrow.webp#center)
+![](/Compendium/books/monster-manual-2025/img/201-13-011-merrow.webp#center)
 
 > [!embed-monster]- Merrow
-> ![[merrow-xmm#^statblock|Merrow]]
+> ![Merrow](/Compendium/bestiary/monstrosity/merrow-xmm.md#^statblock)
 
 ### Mezzoloth
 
 **Mezzoloth.** *Yugoloth of Tenacity and Want*
 
 - **Habitat.** Planar (Gehenna)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Mezzoloths are insectile yugoloths that seek power and souls in the service of fiendish lords. These greedy, violent yugoloths are more direct than most of their scheming brethren, but what they lack in guile they make up for in persistence and numbers.
 
@@ -4439,10 +4438,10 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 | 6 | Souls, whether as larvae or captured spirits. |
 ^mezzoloth-payments
 
-![](Compendium/books/monster-manual-2025/img/202-13-012-mezzoloth.webp#center)
+![](/Compendium/books/monster-manual-2025/img/202-13-012-mezzoloth.webp#center)
 
 > [!embed-monster]- Mezzoloth
-> ![[mezzoloth-xmm#^statblock|Mezzoloth]]
+> ![Mezzoloth](/Compendium/bestiary/fiend/mezzoloth-xmm.md#^statblock)
 
 ### Mimic
 
@@ -4527,17 +4526,17 @@ Topiary
 
 Weapon rack
 
-![](Compendium/books/monster-manual-2025/img/203-13-013-mimic.webp#center)
+![](/Compendium/books/monster-manual-2025/img/203-13-013-mimic.webp#center)
 
 > [!embed-monster]- Mimic
-> ![[mimic-xmm#^statblock|Mimic]]
+> ![Mimic](/Compendium/bestiary/monstrosity/mimic-xmm.md#^statblock)
 
 ### Mind Flayers
 
 **Mind Flayers.** *Brain-Eating Underdark Tyrants*
 
 - **Habitat.** Underdark  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Scattered survivors of a world-ruining, multiversal empire, mind flayers lurk in secret conclaves hidden deep within Material Plane worlds. Within their alien sanctuaries, these wicked masterminds—also known as illithids—reshape the Underdark and its inhabitants to serve their unfathomable whims. Mind flayers are feared for their psionic powers, which allow them to stun and control other creatures, and for their horrific method of feeding: using their four slimy tentacles to extract the brains of their victims.
 
@@ -4557,20 +4556,20 @@ Mind flayers are infamous plotters and manipulators, concocting plans that reach
 | 6 | Sacrifice the mental energy of a planet's populace to take control of a githyanki bastion. |
 ^mind-flayer-machinations
 
-![](Compendium/books/monster-manual-2025/img/204-13-014-mind-flayer.webp#center)
+![](/Compendium/books/monster-manual-2025/img/204-13-014-mind-flayer.webp#center)
 
 > [!embed-monster]- Mind Flayer
-> ![[mind-flayer-xmm#^statblock|Mind Flayer]]
+> ![Mind Flayer](/Compendium/bestiary/aberration/mind-flayer-xmm.md#^statblock)
 
 > [!embed-monster]- Mind Flayer Arcanist
-> ![[mind-flayer-arcanist-xmm#^statblock|Mind Flayer Arcanist]]
+> ![Mind Flayer Arcanist](/Compendium/bestiary/aberration/mind-flayer-arcanist-xmm.md#^statblock)
 
 ### Minotaur of Baphomet
 
 **Minotaur of Baphomet.** *Berserker of the Demon Lord of Beasts*
 
 - **Habitat.** Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Baphomet, Demon Lord of Beasts, claims to have created minotaurs and demands their worship. While most minotaurs live free of the demon lord's bonds, those that serve him become minotaurs of Baphomet. These brutes resemble the hulking, horned demon lord more than others of their kind, and they wreak havoc in that foul immortal's name. Rarely, non-minotaurs cursed by magic-users or spiteful deities might transform into these monsters.
 
@@ -4586,10 +4585,10 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 | 4 | The ruins of a buried palace or temple. |
 ^minotaur-mazes
 
-![](Compendium/books/monster-manual-2025/img/205-13-015-minotaur.webp#center)
+![](/Compendium/books/monster-manual-2025/img/205-13-015-minotaur.webp#center)
 
 > [!embed-monster]- Minotaur of Baphomet
-> ![[minotaur-of-baphomet-xmm#^statblock|Minotaur of Baphomet]]
+> ![Minotaur of Baphomet](/Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md#^statblock)
 
 ### Modrons
 
@@ -4626,53 +4625,53 @@ In rare cases, a modron goes rogue and develops its own will. In these cases, ot
 > 
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
-![](Compendium/books/monster-manual-2025/img/206-13-016-modron-monodrone.webp#center)
+![](/Compendium/books/monster-manual-2025/img/206-13-016-modron-monodrone.webp#center)
 
 > [!embed-monster]- Modron Monodrone
-> ![[modron-monodrone-xmm#^statblock|Modron Monodrone]]
+> ![Modron Monodrone](/Compendium/bestiary/construct/modron-monodrone-xmm.md#^statblock)
 
-![Modron Duodrone](Compendium/books/monster-manual-2025/img/207-13-017-modron-duodrone.webp#center)
+![Modron Duodrone](/Compendium/books/monster-manual-2025/img/207-13-017-modron-duodrone.webp#center)
 
 > [!embed-monster]- Modron Duodrone
-> ![[modron-duodrone-xmm#^statblock|Modron Duodrone]]
+> ![Modron Duodrone](/Compendium/bestiary/construct/modron-duodrone-xmm.md#^statblock)
 
-![Modron Tridrone](Compendium/books/monster-manual-2025/img/208-13-018-modron-tridrone.webp#center)
+![Modron Tridrone](/Compendium/books/monster-manual-2025/img/208-13-018-modron-tridrone.webp#center)
 
 > [!embed-monster]- Modron Tridrone
-> ![[modron-tridrone-xmm#^statblock|Modron Tridrone]]
+> ![Modron Tridrone](/Compendium/bestiary/construct/modron-tridrone-xmm.md#^statblock)
 
-![Modron Quadrone](Compendium/books/monster-manual-2025/img/209-13-019-modron-quadrone.webp#center)
+![Modron Quadrone](/Compendium/books/monster-manual-2025/img/209-13-019-modron-quadrone.webp#center)
 
 > [!embed-monster]- Modron Quadrone
-> ![[modron-quadrone-xmm#^statblock|Modron Quadrone]]
+> ![Modron Quadrone](/Compendium/bestiary/construct/modron-quadrone-xmm.md#^statblock)
 
-![Modron Pentadrone](Compendium/books/monster-manual-2025/img/210-13-020-modron-pentadrone.webp#center)
+![Modron Pentadrone](/Compendium/books/monster-manual-2025/img/210-13-020-modron-pentadrone.webp#center)
 
 > [!embed-monster]- Modron Pentadrone
-> ![[modron-pentadrone-xmm#^statblock|Modron Pentadrone]]
+> ![Modron Pentadrone](/Compendium/bestiary/construct/modron-pentadrone-xmm.md#^statblock)
 
 ### Mummies
 
 **Mummies.** *Deathless Ancients with Ageless Ambitions*
 
 - **Habitat.** Desert, Swamp  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Mysterious rites and mighty faith can tie spirits to their corpses, binding them to their remains for all time. Should their resting places be violated, these beings, known as mummies, reanimate their deteriorating bodies to restore the sanctity of their tombs and punish those who disturbed their rest.
 
 Mummies pursue those who offend them, typically mortals who desecrate their resting places, steal their burial treasures, or defile sites tied to their faith. With undying rage, these ancient corpses go to extreme lengths to avenge themselves and restore what they need to find peace.
 
-A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [[remove-curse-xphb|Remove Curse]] spell or similar magic.
+A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [Remove Curse](/Compendium/spells/remove-curse-xphb.md) spell or similar magic.
 
-![](Compendium/books/monster-manual-2025/img/211-13-021-mummy.webp#center)
+![](/Compendium/books/monster-manual-2025/img/211-13-021-mummy.webp#center)
 
 > [!embed-monster]- Mummy
-> ![[mummy-xmm#^statblock|Mummy]]
+> ![Mummy](/Compendium/bestiary/undead/mummy-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/212-13-022-mummy-lord.webp#center)
+![](/Compendium/books/monster-manual-2025/img/212-13-022-mummy-lord.webp#center)
 
 > [!embed-monster]- Mummy Lord
-> ![[mummy-lord-xmm#^statblock|Mummy Lord]]
+> ![Mummy Lord](/Compendium/bestiary/undead/mummy-lord-xmm.md#^statblock)
 
 ### Myconids
 
@@ -4683,19 +4682,19 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 
 Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. These ambulatory fungal creatures tend to their sanctuaries and avoid becoming embroiled in the conflicts of other creatures. They use specialized spores to communicate, to alert one another to danger, and to defend themselves. When myconids encounter others beings, they use mind-linking spores to allow nearby creatures to telepathically share thoughts. Nevertheless, myconids' goals remain mysterious to most non-fungal creatures.
 
-![Myconids tend to the fungi...](Compendium/books/monster-manual-2025/img/213-13-023-group-of-myconids.webp#center "Myconids tend to the fungi in their hidden gardens, whether mysterious mushrooms or their own community members")
+![Myconids tend to the fungi in their hidden gardens, whether mysterious mushrooms or their own community members](/Compendium/books/monster-manual-2025/img/213-13-023-group-of-myconids.webp#center)
 
 > [!embed-monster]- Myconid Sprout
-> ![[myconid-sprout-xmm#^statblock|Myconid Sprout]]
+> ![Myconid Sprout](/Compendium/bestiary/plant/myconid-sprout-xmm.md#^statblock)
 
 > [!embed-monster]- Myconid Adult
-> ![[myconid-adult-xmm#^statblock|Myconid Adult]]
+> ![Myconid Adult](/Compendium/bestiary/plant/myconid-adult-xmm.md#^statblock)
 
 > [!embed-monster]- Myconid Spore Servant
-> ![[myconid-spore-servant-xmm#^statblock|Myconid Spore Servant]]
+> ![Myconid Spore Servant](/Compendium/bestiary/plant/myconid-spore-servant-xmm.md#^statblock)
 
 > [!embed-monster]- Myconid Sovereign
-> ![[myconid-sovereign-xmm#^statblock|Myconid Sovereign]]
+> ![Myconid Sovereign](/Compendium/bestiary/plant/myconid-sovereign-xmm.md#^statblock)
 
 ## Monsters (N)
 
@@ -4704,7 +4703,7 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 **Nalfeshnee.** *Demon of Intimidation and Hopelessness*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Nalfeshnees seek to dominate all they encounter. Hulking and grotesque, these demons combine misshapen, bestial features with ogre-like frames. Through both brute force and cunning, nalfeshnees compel cultists and weaker demons to serve them in the endless conflicts of the Abyss or in plots on the Material Plane.
 
@@ -4714,26 +4713,26 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 > 
 > The Blood War—that ageless clash between devils and demons—helps ensure the balance of the multiverse. At times it makes unlikely allies, but never delude yourself into believing there's a lesser of two evil. I won't be thanking a demon for every day I'm spared a devil's lash.
 
-![Nalfeshnee](Compendium/books/monster-manual-2025/img/214-14-001-nalfeshnee.webp#center)
+![Nalfeshnee](/Compendium/books/monster-manual-2025/img/214-14-001-nalfeshnee.webp#center)
 
 > [!embed-monster]- Nalfeshnee
-> ![[nalfeshnee-xmm#^statblock|Nalfeshnee]]
+> ![Nalfeshnee](/Compendium/bestiary/fiend/nalfeshnee-xmm.md#^statblock)
 
 ### Night Hag
 
 **Night Hag.** *Hag of Nightmare and Corruption*
 
 - **Habitat.** Planar (Lower Planes)  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Night hags seek mortals to torment and turn to evil. By day, night hags use supernatural deceptions to plague their victims, shape-shifting to pose as other creatures and make their targets believe the world has turned against them. By night, these hags reinforce their tortures with terrifying dreams. Once they force their targets to desperate limits, night hags claim their victims' tormented spirits, capturing them in sinister traps called soul bags. The hags then slip between planes of existence to barter stolen souls to vile magic-users and fiendish entities.
 
 Night hags maintain networks of nefarious customers and collect rumors from across the Lower Planes. These hags might part with their secrets in exchange for magic items and other wicked prices.
 
-![Night Hag](Compendium/books/monster-manual-2025/img/215-14-002-night-hags.webp#center)
+![Night Hag](/Compendium/books/monster-manual-2025/img/215-14-002-night-hags.webp#center)
 
 > [!embed-monster]- Night Hag
-> ![[night-hag-xmm#^statblock|Night Hag]]
+> ![Night Hag](/Compendium/bestiary/fiend/night-hag-xmm.md#^statblock)
 
 ### Nightmare
 
@@ -4758,10 +4757,10 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 | 6 | A wicked cavalier, such as a death knight, an erinyes, an incubus, or a vampire. |
 ^nightmare-riders
 
-![](Compendium/books/monster-manual-2025/img/216-14-003-nightmares.webp#center)
+![](/Compendium/books/monster-manual-2025/img/216-14-003-nightmares.webp#center)
 
 > [!embed-monster]- Nightmare
-> ![[nightmare-xmm#^statblock|Nightmare]]
+> ![Nightmare](/Compendium/bestiary/fiend/nightmare-xmm.md#^statblock)
 
 ### Nobles
 
@@ -4772,20 +4771,20 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 
 Nobles encompass a variety of people with social influence. They might be rulers, wealthy merchants, callous bureaucrats, or the idle elite.
 
-![](Compendium/books/monster-manual-2025/img/217-14-004-nobles.webp#center)
+![](/Compendium/books/monster-manual-2025/img/217-14-004-nobles.webp#center)
 
 > [!embed-monster]- Noble
-> ![[noble-xmm#^statblock|Noble]]
+> ![Noble](/Compendium/bestiary/humanoid/noble-xmm.md#^statblock)
 
 > [!embed-monster]- Noble Prodigy
-> ![[noble-prodigy-xmm#^statblock|Noble Prodigy]]
+> ![Noble Prodigy](/Compendium/bestiary/humanoid/noble-prodigy-xmm.md#^statblock)
 
 ### Nothic
 
 **Nothic.** *Witness to the Weird*
 
 - **Habitat.** Underdark  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Consumed by their thirst for forbidden knowledge, nothics are cursed lore seekers transformed by secrets never meant to be known. The bodies of these former scholars are warped into otherworldly shapes, each with a head dominated by a gigantic, unblinking eye. Nothics remember nothing of their past lives and care only for their endless pursuit of hidden mysteries and uncanny truths. They seek revelations amid the rubble of forgotten ruins, and they use their supernatural sight to pierce magical deceptions, rot the flesh of enemies, and steal the secrets of those who interrupt their investigations.
 
@@ -4795,17 +4794,17 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
 > 
 > Deeper. Deeper and Deeper. Deeper and creeper. Creeping they come. Up from the place that isn't a place. They come to feed. Feed on what I know. So I hide. I hide away. Away in the secret dark. Secret and dark, like all that I know I shouldn't know!
 
-![](Compendium/books/monster-manual-2025/img/218-14-005-nothic.webp#center)
+![](/Compendium/books/monster-manual-2025/img/218-14-005-nothic.webp#center)
 
 > [!embed-monster]- Nothic
-> ![[nothic-xmm#^statblock|Nothic]]
+> ![Nothic](/Compendium/bestiary/aberration/nothic-xmm.md#^statblock)
 
 ### Nycaloth
 
 **Nycaloth.** *Yugoloth of Strategy and Strife*
 
 - **Habitat.** Planar (Gehenna)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Fiendish warmongers, nycaloths relish combat and conquest. These tremendous winged yugoloths teleport around battlefields and into the air to bewilder their foes and attack with constantly shifting, Gehenna-forged axes—mercurial weapons similar to those favored by many yugoloths.
 
@@ -4823,10 +4822,10 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 | 4 | Liberate an imprisoned fiendish ally. |
 ^yugoloth-incursions
 
-![](Compendium/books/monster-manual-2025/img/219-14-006-nycaloth.webp#center)
+![](/Compendium/books/monster-manual-2025/img/219-14-006-nycaloth.webp#center)
 
 > [!embed-monster]- Nycaloth
-> ![[nycaloth-xmm#^statblock|Nycaloth]]
+> ![Nycaloth](/Compendium/bestiary/fiend/nycaloth-xmm.md#^statblock)
 
 ## Monsters (O)
 
@@ -4855,36 +4854,36 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 | 6 | A spotless suit of metal armor. |
 ^ochre-jelly-leftovers
 
-![](Compendium/books/monster-manual-2025/img/220-15-001-ochre-jelly.webp#center)
+![](/Compendium/books/monster-manual-2025/img/220-15-001-ochre-jelly.webp#center)
 
 > [!embed-monster]- Ochre Jelly
-> ![[ochre-jelly-xmm#^statblock|Ochre Jelly]]
+> ![Ochre Jelly](/Compendium/bestiary/ooze/ochre-jelly-xmm.md#^statblock)
 
 ### Ogres
 
 **Ogres.** *Raging Hulks and Hoarders*
 
 - **Habitat.** Arctic, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural forces. From dismal ruins and bleak hinterlands, they raid vulnerable communities and ambush travelers. Ogres covet food and treasure, and they spitefully destroy art, books, clockwork devices, and other delicate or lovingly made things. Occasionally they kidnap victims to eat later or, more rarely, performers who catch their interest.
 
 Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Vaprak. They magically emerge from the earth of lands corrupted by evil gods, sinister magic, or ancient curses. Some bear evidence of the places that spawned them, sporting rocky calluses, mossy growths, or frozen scars.
 
-![Ogres](Compendium/books/monster-manual-2025/img/221-15-002-ogres.webp#center)
+![Ogres](/Compendium/books/monster-manual-2025/img/221-15-002-ogres.webp#center)
 
 > [!embed-monster]- Ogre
-> ![[ogre-xmm#^statblock|Ogre]]
+> ![Ogre](/Compendium/bestiary/giant/ogre-xmm.md#^statblock)
 
 > [!embed-monster]- Ogrillon Ogre
-> ![[ogrillon-ogre-xmm#^statblock|Ogrillon Ogre]]
+> ![Ogrillon Ogre](/Compendium/bestiary/giant/ogrillon-ogre-xmm.md#^statblock)
 
 ### Oni
 
 **Oni.** *Wickedness Drawn to the Wicked*
 
 - **Habitat.** Forest, Urban  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Oni are elusive entities that inhabit dark forests and other wildernesses. By shape-shifting into the form of an innocent or moving invisibly, oni encroach on communities and lonely roads. They frequently harass people of faith, testing the limits of their piousness, or torment selfish people, punishing them for their wickedness. Wise communities often have guardian statues, annual rituals, or local superstitions meant to keep oni at bay. In rare cases, an oni might gradually befriend such communities and protect them from other threats for generations.
 
@@ -4900,10 +4899,10 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
 | 4 | Playing drums that keep everyone awake. |
 ^oni-troubles
 
-![](Compendium/books/monster-manual-2025/img/222-15-003-oni.webp#center)
+![](/Compendium/books/monster-manual-2025/img/222-15-003-oni.webp#center)
 
 > [!embed-monster]- Oni
-> ![[oni-xmm#^statblock|Oni]]
+> ![Oni](/Compendium/bestiary/fiend/oni-xmm.md#^statblock)
 
 ### Otyugh
 
@@ -4926,10 +4925,10 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
 | 4 | Telepathically transmits an image of a large gemstone, crooked weapon, or soggy pastry. |
 ^otyugh-lures
 
-![](Compendium/books/monster-manual-2025/img/223-15-004-otyugh.webp#center)
+![](/Compendium/books/monster-manual-2025/img/223-15-004-otyugh.webp#center)
 
 > [!embed-monster]- Otyugh
-> ![[otyugh-xmm#^statblock|Otyugh]]
+> ![Otyugh](/Compendium/bestiary/aberration/otyugh-xmm.md#^statblock)
 
 ### Owlbears
 
@@ -4952,13 +4951,13 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 | 4 | Passages through the earth or hollow trees. |
 ^owlbear-den-features
 
-![](Compendium/books/monster-manual-2025/img/224-15-005-owlbear.webp#center)
+![](/Compendium/books/monster-manual-2025/img/224-15-005-owlbear.webp#center)
 
 > [!embed-monster]- Owlbear
-> ![[owlbear-xmm#^statblock|Owlbear]]
+> ![Owlbear](/Compendium/bestiary/monstrosity/owlbear-xmm.md#^statblock)
 
 > [!embed-monster]- Primeval Owlbear
-> ![[primeval-owlbear-xmm#^statblock|Primeval Owlbear]]
+> ![Primeval Owlbear](/Compendium/bestiary/monstrosity/primeval-owlbear-xmm.md#^statblock)
 
 ## Monsters (P)
 
@@ -4987,17 +4986,17 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 > 
 > Pegasi are the cherished steeds of our creator, Corellon. To see one is a blessing, but to ride one proves nothing less than the love of the gods.
 
-![](Compendium/books/monster-manual-2025/img/225-16-001-pegasus.webp#center)
+![](/Compendium/books/monster-manual-2025/img/225-16-001-pegasus.webp#center)
 
 > [!embed-monster]- Pegasus
-> ![[pegasus-xmm#^statblock|Pegasus]]
+> ![Pegasus](/Compendium/bestiary/celestial/pegasus-xmm.md#^statblock)
 
 ### Performers
 
 **Performers.** *Artists and Entertainers*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md), Individual  
 
 From royal courts to village squares, skilled entertainers hone their talents and delight audiences. Some travel far, sharing tales and demonstrating mysterious arts. Others serve in the courts and theaters of great nations, cultivating celebrity and navigating the whims of patrons. Many hone professional secrets and magical flourishes, striving to make their performances truly unforgettable.
 
@@ -5067,23 +5066,23 @@ Wrestler
 > 
 > Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!
 
-![](Compendium/books/monster-manual-2025/img/226-16-002-performers.webp#center)
+![](/Compendium/books/monster-manual-2025/img/226-16-002-performers.webp#center)
 
 > [!embed-monster]- Performer
-> ![[performer-xmm#^statblock|Performer]]
+> ![Performer](/Compendium/bestiary/humanoid/performer-xmm.md#^statblock)
 
 > [!embed-monster]- Performer Maestro
-> ![[performer-maestro-xmm#^statblock|Performer Maestro]]
+> ![Performer Maestro](/Compendium/bestiary/humanoid/performer-maestro-xmm.md#^statblock)
 
 > [!embed-monster]- Performer Legend
-> ![[performer-legend-xmm#^statblock|Performer Legend]]
+> ![Performer Legend](/Compendium/bestiary/humanoid/performer-legend-xmm.md#^statblock)
 
 ### Peryton
 
 **Peryton.** *Winged Heart Hunter*
 
 - **Habitat.** Hill, Mountain  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Perytons are monstrous predators that hunt people—particularly humans and elves—in favor of all other prey. With the bodies of mighty avian scavengers and fanged, stag-like heads, perytons use ambush tactics to dive-bomb travelers. Strangely, the shadows they cast resemble humanoid silhouettes. This supernatural oddity lends credence to stories that perytons are cursed humans or elves, or that they arise from carrion birds that feed on the corpses of villains.
 
@@ -5099,10 +5098,10 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 | 4 | A portal opens to the Lower Planes. |
 ^peryton-superstitions
 
-![A peryton's humanoid-shape...](Compendium/books/monster-manual-2025/img/227-16-003-peryton.webp#center "A peryton's humanoid-shaped shadow suggests the monster's supernatural origin")
+![A peryton's humanoid-shaped shadow suggests the monster's supernatural origin](/Compendium/books/monster-manual-2025/img/227-16-003-peryton.webp#center)
 
 > [!embed-monster]- Peryton
-> ![[peryton-xmm#^statblock|Peryton]]
+> ![Peryton](/Compendium/bestiary/monstrosity/peryton-xmm.md#^statblock)
 
 ### Phase Spider
 
@@ -5119,10 +5118,10 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
 > 
 > Some sages say you unknowingly occupy the same ethereally coterminous point as a phase spider an average of four times each year.
 
-![](Compendium/books/monster-manual-2025/img/228-16-004-phase-spider.webp#center)
+![](/Compendium/books/monster-manual-2025/img/228-16-004-phase-spider.webp#center)
 
 > [!embed-monster]- Phase Spider
-> ![[phase-spider-xmm#^statblock|Phase Spider]]
+> ![Phase Spider](/Compendium/bestiary/monstrosity/phase-spider-xmm.md#^statblock)
 
 ### Piercer
 
@@ -5139,17 +5138,17 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
 > 
 > Rule 8: Never trust a stalactite
 
-![](Compendium/books/monster-manual-2025/img/229-16-005-piercer.webp#center)
+![](/Compendium/books/monster-manual-2025/img/229-16-005-piercer.webp#center)
 
 > [!embed-monster]- Piercer
-> ![[piercer-xmm#^statblock|Piercer]]
+> ![Piercer](/Compendium/bestiary/aberration/piercer-xmm.md#^statblock)
 
 ### Pirates
 
 **Pirates.** *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-implements|Implements]]  
+- **Treasure.** Individual, [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -5171,23 +5170,23 @@ Pirates might be allies, foes, wild cards, or some combination thereof. While th
 | 8 | Whale | A treasure chest |
 ^pirate-flags
 
-![](Compendium/books/monster-manual-2025/img/230-16-006-pirates.webp#center)
+![](/Compendium/books/monster-manual-2025/img/230-16-006-pirates.webp#center)
 
 > [!embed-monster]- Pirate
-> ![[pirate-xmm#^statblock|Pirate]]
+> ![Pirate](/Compendium/bestiary/humanoid/pirate-xmm.md#^statblock)
 
 > [!embed-monster]- Pirate Captain
-> ![[pirate-captain-xmm#^statblock|Pirate Captain]]
+> ![Pirate Captain](/Compendium/bestiary/humanoid/pirate-captain-xmm.md#^statblock)
 
 > [!embed-monster]- Pirate Admiral
-> ![[pirate-admiral-xmm#^statblock|Pirate Admiral]]
+> ![Pirate Admiral](/Compendium/bestiary/humanoid/pirate-admiral-xmm.md#^statblock)
 
 ### Pit Fiend
 
 **Pit Fiend.** *Devil of Domination*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Masterminds of the Nine Hells and generals of infernal legions, pit fiends seek conquests across the planes of existence. More than warmongers, these diabolical tyrants concoct intricate plots that play out among fiendish battlefields, infernal politics, and mortal conspiracies.
 
@@ -5195,34 +5194,34 @@ Pit fiends are the nobility of the Nine Hells, and many rule Lower Planar fiefdo
 
 Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures with their mere presence. Despite their size and incredible physical and magical might, pit fiends are as likely to try to corrupt foes as they are to destroy them outright. Pit fiends' arrogance can lead them to underestimate mortal foes—a failing that can lead to their downfall.
 
-![](Compendium/books/monster-manual-2025/img/231-16-007-pit-fiend.webp#center)
+![](/Compendium/books/monster-manual-2025/img/231-16-007-pit-fiend.webp#center)
 
 > [!embed-monster]- Pit Fiend
-> ![[pit-fiend-xmm#^statblock|Pit Fiend]]
+> ![Pit Fiend](/Compendium/bestiary/fiend/pit-fiend-xmm.md#^statblock)
 
 ### Pixies
 
 **Pixies.** *Friends of the Forest*
 
 - **Habitat.** Forest, Planar (Feywild)  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They invisibly observe those who enter their wooded homes, revealing themselves to those with friendly intentions. Those who are unfriendly become the targets of pixies' pranks.
 
-![](Compendium/books/monster-manual-2025/img/232-16-008-pixies.webp#center)
+![](/Compendium/books/monster-manual-2025/img/232-16-008-pixies.webp#center)
 
 > [!embed-monster]- Pixie
-> ![[pixie-xmm#^statblock|Pixie]]
+> ![Pixie](/Compendium/bestiary/fey/pixie-xmm.md#^statblock)
 
 > [!embed-monster]- Pixie Wonderbringer
-> ![[pixie-wonderbringer-xmm#^statblock|Pixie Wonderbringer]]
+> ![Pixie Wonderbringer](/Compendium/bestiary/fey/pixie-wonderbringer-xmm.md#^statblock)
 
 ### Planetar
 
 **Planetar.** *Righteously Wrathful Angelic Warrior*
 
 - **Habitat.** Planar (Upper Planes)  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Planetars deliver the punishment of righteous gods. These angels innately know truth from lies, and they use magic and blessed weapons to protect the just and root out wickedness across the Multiverse.
 
@@ -5240,10 +5239,10 @@ These angels act where they can against overwhelming evil, but to avoid the atte
 | 6 | Reveal the true name of a devil to banish it. |
 ^planetar-quests
 
-![](Compendium/books/monster-manual-2025/img/233-16-009-planetar.webp#center)
+![](/Compendium/books/monster-manual-2025/img/233-16-009-planetar.webp#center)
 
 > [!embed-monster]- Planetar
-> ![[planetar-xmm#^statblock|Planetar]]
+> ![Planetar](/Compendium/bestiary/celestial/planetar-xmm.md#^statblock)
 
 ### Poltergeist
 
@@ -5270,17 +5269,17 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 | 8 | Uncannily stacks books, furniture, or utensils. |
 ^poltergeist-activities
 
-![](Compendium/books/monster-manual-2025/img/234-16-010-poltergeist.webp#center)
+![](/Compendium/books/monster-manual-2025/img/234-16-010-poltergeist.webp#center)
 
 > [!embed-monster]- Poltergeist
-> ![[poltergeist-xmm#^statblock|Poltergeist]]
+> ![Poltergeist](/Compendium/bestiary/undead/poltergeist-xmm.md#^statblock)
 
 ### Priests
 
 **Priests.** *Arbiters of the Mortal and the Divine*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
+- **Treasure.** Individual, [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Priests harness the power of faith to work miracles. These religious adherents are as diverse as the faiths they follow. Some obey gods and their servants, while others live by age-old creeds. Belief guides priests' actions and their magic, which they use to shape the world in line with their ideologies.
 
@@ -5306,23 +5305,23 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 > 
 > Shining One, light my hours. Enkindle my soul, and inspire my deeds. Chase the shadows from my path, and let me walk in your brilliance.
 
-![](Compendium/books/monster-manual-2025/img/235-16-011-priests.webp#center)
+![](/Compendium/books/monster-manual-2025/img/235-16-011-priests.webp#center)
 
 > [!embed-monster]- Priest Acolyte
-> ![[priest-acolyte-xmm#^statblock|Priest Acolyte]]
+> ![Priest Acolyte](/Compendium/bestiary/humanoid/priest-acolyte-xmm.md#^statblock)
 
 > [!embed-monster]- Priest
-> ![[priest-xmm#^statblock|Priest]]
+> ![Priest](/Compendium/bestiary/humanoid/priest-xmm.md#^statblock)
 
 > [!embed-monster]- Archpriest
-> ![[archpriest-xmm#^statblock|Archpriest]]
+> ![Archpriest](/Compendium/bestiary/humanoid/archpriest-xmm.md#^statblock)
 
 ### Pseudodragon
 
 **Pseudodragon.** *Fickle, Pint-Sized Dragon*
 
 - **Habitat.** Coastal, Desert, Forest, Hill, Mountain, Urban  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Pseudodragons dwell in scenic wildernesses, preferably where life is easy and prey is small and slow. There they behave like contented wyrms, creating tiny lairs amid ancient trees and rugged cliffs. They fill these lairs with shiny rocks, colorful shells, and unattended treasures that catch their attention, and they guard these hoards fiercely.
 
@@ -5352,10 +5351,10 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 > 
 > If you want to keep a pseudodragon happy, get used to thinking of yourself as its familiar.
 
-![](Compendium/books/monster-manual-2025/img/236-16-012-pseudodragon.webp#center)
+![](/Compendium/books/monster-manual-2025/img/236-16-012-pseudodragon.webp#center)
 
 > [!embed-monster]- Pseudodragon
-> ![[pseudodragon-xmm#^statblock|Pseudodragon]]
+> ![Pseudodragon](/Compendium/bestiary/dragon/pseudodragon-xmm.md#^statblock)
 
 ### Purple Worm
 
@@ -5370,10 +5369,10 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 > 
 > Purple worms alone are bad enough, but the blasted monsters have a knack for unearthing things that are even worse!
 
-![](Compendium/books/monster-manual-2025/img/237-16-013-purple-worm.webp#center)
+![](/Compendium/books/monster-manual-2025/img/237-16-013-purple-worm.webp#center)
 
 > [!embed-monster]- Purple Worm
-> ![[purple-worm-xmm#^statblock|Purple Worm]]
+> ![Purple Worm](/Compendium/bestiary/monstrosity/purple-worm-xmm.md#^statblock)
 
 ## Monsters (Q)
 
@@ -5388,13 +5387,13 @@ Beastly hunters endemic to subterranean depths, quaggoths scrape harsh existence
 
 Quaggoths frequently collect in small bands led by the most fearsome group member. These bands are proud and quick to hold grudges. Anyone who harms a quaggoth—or who is suspected of doing so—earns the enmity of that quaggoth's band regardless of reason or fault. These grudges sometimes extend to whole communities rather than individuals. Generations of quaggoths might seek revenge against a settlement's inhabitants for decades-old slights. Only the leader of a quaggoth band can demand that a grudge ends.
 
-![](Compendium/books/monster-manual-2025/img/238-17-001-quaggoth.webp#center)
+![](/Compendium/books/monster-manual-2025/img/238-17-001-quaggoth.webp#center)
 
 > [!embed-monster]- Quaggoth
-> ![[quaggoth-xmm#^statblock|Quaggoth]]
+> ![Quaggoth](/Compendium/bestiary/monstrosity/quaggoth-xmm.md#^statblock)
 
 > [!embed-monster]- Quaggoth Thonot
-> ![[quaggoth-thonot-xmm#^statblock|Quaggoth Thonot]]
+> ![Quaggoth Thonot](/Compendium/bestiary/monstrosity/quaggoth-thonot-xmm.md#^statblock)
 
 ### Quasit
 
@@ -5403,7 +5402,7 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 - **Habitat.** Planar (Abyss)  
 - **Treasure.** None  
 
-Tirelessly destructive, quasits sow discord through nasty pranks, sabotage, and ambushes. These tiny demons use chaos and violence to terrorize others. By shape-shifting into harmless but ill-omened creatures or by turning [[conditions#Invisible|invisible]], quasits sneak into places where they spy for villainous masters or set vicious traps. Quasits delight in hiding in dark places and—when least expected—bursting forth to slash foes with their [[conditions#Poisoned|poisoned]] claws.
+Tirelessly destructive, quasits sow discord through nasty pranks, sabotage, and ambushes. These tiny demons use chaos and violence to terrorize others. By shape-shifting into harmless but ill-omened creatures or by turning [invisible](/Compendium/rules/conditions.md#Invisible), quasits sneak into places where they spy for villainous masters or set vicious traps. Quasits delight in hiding in dark places and—when least expected—bursting forth to slash foes with their [poisoned](/Compendium/rules/conditions.md#Poisoned) claws.
 
 Quasits are usually overlooked and underestimated by other demons. This drives them to prove themselves through cruel acts or by seeking paths to the Material Plane. Among mortals, quasits sow senseless chaos, and they might find kindred evil spirits among violent cultists and magic-users.
 
@@ -5411,10 +5410,10 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
 > 
 > A thing doesn't need to be big to be gut-flippingly dreadful. Just think of all the folks who're squeamish around spiders. Now imagine a spider as big as a cat and that wants to steal your tongue.
 
-![](Compendium/books/monster-manual-2025/img/239-17-002-quasit.webp#center)
+![](/Compendium/books/monster-manual-2025/img/239-17-002-quasit.webp#center)
 
 > [!embed-monster]- Quasit
-> ![[quasit-xmm#^statblock|Quasit]]
+> ![Quasit](/Compendium/bestiary/fiend/quasit-xmm.md#^statblock)
 
 ## Monsters (R)
 
@@ -5423,7 +5422,7 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
 **Rakshasa.** *Deceiver Hungry for Power and Flesh*
 
 - **Habitat.** Planar (Nine Hells), Urban  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Masters of manipulation, rakshasas infiltrate communities to claim positions of power. While disguising their true natures, they kidnap victims and indulge their insatiable hunger for flesh.
 
@@ -5431,10 +5430,10 @@ Rakshasas can withstand some degree of magic, but legends tell of blessed warrio
 
 Rakshasas' appearances combine humanlike bodies with the features of animals and monsters. All rakshasas have a physical oddity that remains when they adopt magical disguises, such as palms where the backs of the hands would be on humans.
 
-![Rakshasa conspirators plot their next atrocity](Compendium/books/monster-manual-2025/img/240-18-001-rakshasa.webp#center)
+![Rakshasa conspirators plot their next atrocity](/Compendium/books/monster-manual-2025/img/240-18-001-rakshasa.webp#center)
 
 > [!embed-monster]- Rakshasa
-> ![[rakshasa-xmm#^statblock|Rakshasa]]
+> ![Rakshasa](/Compendium/bestiary/fiend/rakshasa-xmm.md#^statblock)
 
 ### Red Dragons
 
@@ -5451,23 +5450,23 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 
 **Red Dragon Lairs.** Red dragons make their lairs in smoldering, unapproachable places such as volcanic mountains, burning wastelands, and ruins they've stolen from other creatures.
 
-![Red Dragon Wyrmling](Compendium/books/monster-manual-2025/img/241-18-002-red-dragon-wyrmling.webp#center)
+![Red Dragon Wyrmling](/Compendium/books/monster-manual-2025/img/241-18-002-red-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Red Dragon Wyrmling
-> ![[red-dragon-wyrmling-xmm#^statblock|Red Dragon Wyrmling]]
+> ![Red Dragon Wyrmling](/Compendium/bestiary/dragon/red-dragon-wyrmling-xmm.md#^statblock)
 
 > [!embed-monster]- Young Red Dragon
-> ![[young-red-dragon-xmm#^statblock|Young Red Dragon]]
+> ![Young Red Dragon](/Compendium/bestiary/dragon/young-red-dragon-xmm.md#^statblock)
 
-![An adult red dragon unleas...](Compendium/books/monster-manual-2025/img/242-18-003-adult-red-dragon.webp#center "An adult red dragon unleashes its fury, reducing a city to ruin")
+![An adult red dragon unleashes its fury, reducing a city to ruin](/Compendium/books/monster-manual-2025/img/242-18-003-adult-red-dragon.webp#center)
 
 > [!embed-monster]- Adult Red Dragon
-> ![[adult-red-dragon-xmm#^statblock|Adult Red Dragon]]
+> ![Adult Red Dragon](/Compendium/bestiary/dragon/adult-red-dragon-xmm.md#^statblock)
 
-![Even the bravest souls fle...](Compendium/books/monster-manual-2025/img/243-18-004-ancient-red-dragon.webp#center "Even the bravest souls flee the onslaught of an ancient red dragon")
+![Even the bravest souls flee the onslaught of an ancient red dragon](/Compendium/books/monster-manual-2025/img/243-18-004-ancient-red-dragon.webp#center)
 
 > [!embed-monster]- Ancient Red Dragon
-> ![[ancient-red-dragon-xmm#^statblock|Ancient Red Dragon]]
+> ![Ancient Red Dragon](/Compendium/bestiary/dragon/ancient-red-dragon-xmm.md#^statblock)
 
 ### Remorhazes
 
@@ -5478,13 +5477,13 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 
 Remorhazes are centipede-like terrors that burrow through snow and ice to ambush smaller creatures that trespass in their frozen territories.
 
-![Young Remorhaz](Compendium/books/monster-manual-2025/img/244-18-005-remorhaz.webp#center)
+![Young Remorhaz](/Compendium/books/monster-manual-2025/img/244-18-005-remorhaz.webp#center)
 
 > [!embed-monster]- Young Remorhaz
-> ![[young-remorhaz-xmm#^statblock|Young Remorhaz]]
+> ![Young Remorhaz](/Compendium/bestiary/monstrosity/young-remorhaz-xmm.md#^statblock)
 
 > [!embed-monster]- Remorhaz
-> ![[remorhaz-xmm#^statblock|Remorhaz]]
+> ![Remorhaz](/Compendium/bestiary/monstrosity/remorhaz-xmm.md#^statblock)
 
 ### Revenants
 
@@ -5495,18 +5494,18 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
 
 Wrathful spirits bent on revenge, revenants possess corpses and other materials, using them to seek justice or vent their rage on those who wronged them. Revenants refuse to rest until those they seek to punish are no more. If their bodies are destroyed, revenants claim new forms and continue their ruthless quests.
 
-![Revenant Followed by a Graveyard Revenant](Compendium/books/monster-manual-2025/img/245-18-006-group-of-revenants.webp#center)
+![Revenant Followed by a Graveyard Revenant](/Compendium/books/monster-manual-2025/img/245-18-006-group-of-revenants.webp#center)
 
 > [!embed-monster]- Revenant
-> ![[revenant-xmm#^statblock|Revenant]]
+> ![Revenant](/Compendium/bestiary/undead/revenant-xmm.md#^statblock)
 
 > [!embed-monster]- Graveyard Revenant
-> ![[graveyard-revenant-xmm#^statblock|Graveyard Revenant]]
+> ![Graveyard Revenant](/Compendium/bestiary/undead/graveyard-revenant-xmm.md#^statblock)
 
-![Haunting Revenant](Compendium/books/monster-manual-2025/img/246-18-007-haunting-revenant.webp#center)
+![Haunting Revenant](/Compendium/books/monster-manual-2025/img/246-18-007-haunting-revenant.webp#center)
 
 > [!embed-monster]- Haunting Revenant
-> ![[haunting-revenant-xmm#^statblock|Haunting Revenant]]
+> ![Haunting Revenant](/Compendium/bestiary/undead/haunting-revenant-xmm.md#^statblock)
 
 ### Roc
 
@@ -5531,10 +5530,10 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
 | 6 | A statue of a knight riding a rearing steed. |
 ^roc-nest-remnants
 
-![](Compendium/books/monster-manual-2025/img/247-18-008-roc.webp#center)
+![](/Compendium/books/monster-manual-2025/img/247-18-008-roc.webp#center)
 
 > [!embed-monster]- Roc
-> ![[roc-xmm#^statblock|Roc]]
+> ![Roc](/Compendium/bestiary/monstrosity/roc-xmm.md#^statblock)
 
 ### Roper
 
@@ -5553,7 +5552,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 |-----------|---------------------------------|
 | 1 | Areas that trigger traps. |
 | 2 | Caverns filled with smoke or gas. |
-| 3 | "dead magic zone" or [[wild-magic-zone-xdmg|Wild Magic zones]]. |
+| 3 | "dead magic zone" or [Wild Magic zones](/Compendium/traps-hazards/wild-magic-zone-xdmg.md). |
 | 4 | The lair of a creature it is trying to bait out. |
 | 5 | A nest of rats, insects, or other vermin. |
 | 6 | Patches of brown mold* or green slime*. |
@@ -5565,10 +5564,10 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 > 
 > Rule 9: Never trust a stalagmite.
 
-![](Compendium/books/monster-manual-2025/img/248-18-009-roper.webp#center)
+![](/Compendium/books/monster-manual-2025/img/248-18-009-roper.webp#center)
 
 > [!embed-monster]- Roper
-> ![[roper-xmm#^statblock|Roper]]
+> ![Roper](/Compendium/bestiary/aberration/roper-xmm.md#^statblock)
 
 ### Rust Monster
 
@@ -5579,10 +5578,10 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 
 Rust monsters roam the Underdark searching for ferrous metal. When they find this material—whether natural veins, subterranean structures, or creatures' equipment—these beetle-like scavengers rush to feed. Using their feathery antennae, rust monsters dissolve metals such as iron and steel into rusted scrap. They easily gnaw through this corroded metal using their mandibles. Rust monsters usually ignore creatures without metal equipment, but they defend themselves if attacked.
 
-![](Compendium/books/monster-manual-2025/img/249-18-010-rust-monster.webp#center)
+![](/Compendium/books/monster-manual-2025/img/249-18-010-rust-monster.webp#center)
 
 > [!embed-monster]- Rust Monster
-> ![[rust-monster-xmm#^statblock|Rust Monster]]
+> ![Rust Monster](/Compendium/bestiary/monstrosity/rust-monster-xmm.md#^statblock)
 
 ## Monsters (S)
 
@@ -5601,23 +5600,23 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 > 
 > When a sahuagin comes at you, it doesn't seem to be living until it bites you. Then the thing's black eyes turn red as hellfire and the waves foam crimson. Then comes the screaming.
 
-![A sahuagin baron and sahua...](Compendium/books/monster-manual-2025/img/250-19-001-sahuagin.webp#center "A sahuagin baron and sahuagin priest lead sahuagin warriors on an aquatic raid")
+![A sahuagin baron and sahuagin priest lead sahuagin warriors on an aquatic raid](/Compendium/books/monster-manual-2025/img/250-19-001-sahuagin.webp#center)
 
 > [!embed-monster]- Sahuagin Warrior
-> ![[sahuagin-warrior-xmm#^statblock|Sahuagin Warrior]]
+> ![Sahuagin Warrior](/Compendium/bestiary/fiend/sahuagin-warrior-xmm.md#^statblock)
 
 > [!embed-monster]- Sahuagin Priest
-> ![[sahuagin-priest-xmm#^statblock|Sahuagin Priest]]
+> ![Sahuagin Priest](/Compendium/bestiary/fiend/sahuagin-priest-xmm.md#^statblock)
 
 > [!embed-monster]- Sahuagin Baron
-> ![[sahuagin-baron-xmm#^statblock|Sahuagin Baron]]
+> ![Sahuagin Baron](/Compendium/bestiary/fiend/sahuagin-baron-xmm.md#^statblock)
 
 ### Salamanders
 
 **Salamanders.** *Serpentine Artists of the Inferno*
 
 - **Habitat.** Planar (Elemental Plane of Fire), Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Salamanders are serpentine denizens of the Elemental Plane of Fire. They believe that flames expose the purest forms of all things and delight in burning and melting things, seeing fleeting beauty and striking nuances in blazes consuming different fuels—ancient forests, artistic masterpieces, or living creatures. To salamanders, those that can't endure their flames are nothing but ashes in disguise. They harbor malice toward few creatures, but they consider creating remarkable flames more important than the pain and loss their fires cause.
 
@@ -5627,33 +5626,33 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 > 
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
 
-![A salamander inferno maste...](Compendium/books/monster-manual-2025/img/251-19-002-salamanders.webp#center "A salamander inferno master drives its salamander and fire snake minions to burn all they encounter")
+![A salamander inferno master drives its salamander and fire snake minions to burn all they encounter](/Compendium/books/monster-manual-2025/img/251-19-002-salamanders.webp#center)
 
 > [!embed-monster]- Salamander Fire Snake
-> ![[salamander-fire-snake-xmm#^statblock|Salamander Fire Snake]]
+> ![Salamander Fire Snake](/Compendium/bestiary/elemental/salamander-fire-snake-xmm.md#^statblock)
 
 > [!embed-monster]- Salamander
-> ![[salamander-xmm#^statblock|Salamander]]
+> ![Salamander](/Compendium/bestiary/elemental/salamander-xmm.md#^statblock)
 
 > [!embed-monster]- Salamander Inferno Master
-> ![[salamander-inferno-master-xmm#^statblock|Salamander Inferno Master]]
+> ![Salamander Inferno Master](/Compendium/bestiary/elemental/salamander-inferno-master-xmm.md#^statblock)
 
 ### Satyrs
 
 **Satyrs.** *Horned and Hoofed Revelers*
 
 - **Habitat.** Forest, Planar (Feywild)  
-- **Treasure.** [[random-magic-items-implements|Implements]]  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merrymaking—eating, drinking, performing, fighting, and frolicking.
 
-![](Compendium/books/monster-manual-2025/img/252-19-003-satyrs.webp#center)
+![](/Compendium/books/monster-manual-2025/img/252-19-003-satyrs.webp#center)
 
 > [!embed-monster]- Satyr
-> ![[satyr-xmm#^statblock|Satyr]]
+> ![Satyr](/Compendium/bestiary/fey/satyr-xmm.md#^statblock)
 
 > [!embed-monster]- Satyr Revelmaster
-> ![[satyr-revelmaster-xmm#^statblock|Satyr Revelmaster]]
+> ![Satyr Revelmaster](/Compendium/bestiary/fey/satyr-revelmaster-xmm.md#^statblock)
 
 ### Scarecrow
 
@@ -5680,36 +5679,36 @@ Although scarecrows take their name from rural effigies, they might take varied 
 | 8 | Wedding clothes that were never worn. |
 ^scarecrow-frames
 
-![](Compendium/books/monster-manual-2025/img/253-19-004-scarecrow.webp#center)
+![](/Compendium/books/monster-manual-2025/img/253-19-004-scarecrow.webp#center)
 
 > [!embed-monster]- Scarecrow
-> ![[scarecrow-xmm#^statblock|Scarecrow]]
+> ![Scarecrow](/Compendium/bestiary/construct/scarecrow-xmm.md#^statblock)
 
 ### Scouts
 
 **Scouts.** *Watchers and Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md), Individual  
 
 Scouts are warriors of the wilderness, trained in hunting and tracking. They might be explorers or trappers, or they could perform more martial roles as archers, bounty hunters, or outriders.
 
-![](Compendium/books/monster-manual-2025/img/254-19-005-scouts.webp#center)
+![](/Compendium/books/monster-manual-2025/img/254-19-005-scouts.webp#center)
 
 > [!embed-monster]- Scout
-> ![[scout-xmm#^statblock|Scout]]
+> ![Scout](/Compendium/bestiary/humanoid/scout-xmm.md#^statblock)
 
 > [!embed-monster]- Scout Captain
-> ![[scout-captain-xmm#^statblock|Scout Captain]]
+> ![Scout Captain](/Compendium/bestiary/humanoid/scout-captain-xmm.md#^statblock)
 
 ### Sea Hag
 
 **Sea Hag.** *Hag of Despair and the Dismal Deep*
 
 - **Habitat.** Coastal, Underwater  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
-Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [[conditions#Frightened|frightened]] by their appearance.
+Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [frightened](/Compendium/rules/conditions.md#Frightened) by their appearance.
 
 Sea hags cloak themselves in illusions to work their schemes. Roll on or choose a result from the Sea Hag Disguises table to inspire a sea hag's illusion and how they might use it to wreak chaos and destruction.
 
@@ -5725,10 +5724,10 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
 | 6 | Wounded sailor and claims their ship was destroyed by merfolk or other peaceful people. |
 ^sea-hag-disguises
 
-![](Compendium/books/monster-manual-2025/img/255-19-006-sea-hag.webp#center)
+![](/Compendium/books/monster-manual-2025/img/255-19-006-sea-hag.webp#center)
 
 > [!embed-monster]- Sea Hag
-> ![[sea-hag-xmm#^statblock|Sea Hag]]
+> ![Sea Hag](/Compendium/bestiary/fey/sea-hag-xmm.md#^statblock)
 
 ### Shadow
 
@@ -5755,10 +5754,10 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 | 6 | An ominous priest that haunts a defiled site. |
 ^shadow-shapes
 
-![](Compendium/books/monster-manual-2025/img/256-19-007-shadow.webp#center)
+![](/Compendium/books/monster-manual-2025/img/256-19-007-shadow.webp#center)
 
 > [!embed-monster]- Shadow
-> ![[shadow-xmm#^statblock|Shadow]]
+> ![Shadow](/Compendium/bestiary/undead/shadow-xmm.md#^statblock)
 
 ### Shadow Demon
 
@@ -5779,10 +5778,10 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 > 
 > There are three rules to endings. First, good always wins. Second, evil always returns. Third, the first rule isn't always true.
 
-![](Compendium/books/monster-manual-2025/img/257-19-008-shadow-demon.webp#center)
+![](/Compendium/books/monster-manual-2025/img/257-19-008-shadow-demon.webp#center)
 
 > [!embed-monster]- Shadow Demon
-> ![[shadow-demon-xmm#^statblock|Shadow Demon]]
+> ![Shadow Demon](/Compendium/bestiary/fiend/shadow-demon-xmm.md#^statblock)
 
 ### Shadow Dragons
 
@@ -5803,13 +5802,13 @@ Like many other dragons, shadow dragons collect hoards. Their tastes tend to be 
 > 
 > If ye truly be adventurers of lore, seek the great shadowy wyrm who lairs beneath the Peaks of Thunder and return in triumph bearing aloft her fabled Eye of Shadow.
 
-![A shadow dragon lurks amon...](Compendium/books/monster-manual-2025/img/258-19-009-shadow-dragon.webp#center "A shadow dragon lurks among haunted ruins, attended by shadows raised by its life-draining breath")
+![A shadow dragon lurks among haunted ruins, attended by shadows raised by its life-draining breath](/Compendium/books/monster-manual-2025/img/258-19-009-shadow-dragon.webp#center)
 
 > [!embed-monster]- Juvenile Shadow Dragon
-> ![[juvenile-shadow-dragon-xmm#^statblock|Juvenile Shadow Dragon]]
+> ![Juvenile Shadow Dragon](/Compendium/bestiary/dragon/juvenile-shadow-dragon-xmm.md#^statblock)
 
 > [!embed-monster]- Shadow Dragon
-> ![[shadow-dragon-xmm#^statblock|Shadow Dragon]]
+> ![Shadow Dragon](/Compendium/bestiary/dragon/shadow-dragon-xmm.md#^statblock)
 
 ### Shambling Mound
 
@@ -5834,10 +5833,10 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 | 6 | The remains of an ancient tree or a treant. |
 ^shambling-mound-cultivation
 
-![](Compendium/books/monster-manual-2025/img/259-19-010-shambling-mound.webp#center)
+![](/Compendium/books/monster-manual-2025/img/259-19-010-shambling-mound.webp#center)
 
 > [!embed-monster]- Shambling Mound
-> ![[shambling-mound-xmm#^statblock|Shambling Mound]]
+> ![Shambling Mound](/Compendium/bestiary/plant/shambling-mound-xmm.md#^statblock)
 
 ### Shield Guardian
 
@@ -5850,17 +5849,17 @@ An intimidating magical automaton, a shield guardian obeys its master's commands
 
 Shield guardians are typically constructed of steel, stone, and wood in the shape of watchful soldiers. More fanciful designs exist, reflecting the tastes of their creators. Given their resilience, it's common for shield guardians to eventually serve creatures other than their creators. A shield guardian's command amulet might be passed down through a magic-using society or family for generations.
 
-![](Compendium/books/monster-manual-2025/img/260-19-011-shield-guardian.webp#center)
+![](/Compendium/books/monster-manual-2025/img/260-19-011-shield-guardian.webp#center)
 
 > [!embed-monster]- Shield Guardian
-> ![[shield-guardian-xmm#^statblock|Shield Guardian]]
+> ![Shield Guardian](/Compendium/bestiary/construct/shield-guardian-xmm.md#^statblock)
 
 ### Silver Dragons
 
 **Silver Dragons.** *Dragons of Courage and Fairness*
 
 - **Habitat.** Mountain, Urban  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Silver dragons work to preserve peace and encourage greatness. They try to live as examples of decency while remaining watchful against evil.
 
@@ -5871,22 +5870,22 @@ Silver dragons take inspiration from legendary heroes and have grand ambitions. 
 **Silver Dragon Lairs.** Silver dragons typically lair in picturesque mountain retreats or on sculpted cloud "islands."
 
 > [!embed-monster]- Silver Dragon Wyrmling
-> ![[silver-dragon-wyrmling-xmm#^statblock|Silver Dragon Wyrmling]]
+> ![Silver Dragon Wyrmling](/Compendium/bestiary/dragon/silver-dragon-wyrmling-xmm.md#^statblock)
 
-![Silver Dragon Wyrmling](Compendium/books/monster-manual-2025/img/261-19-012-silver-dragon-wyrmling.webp#center)
+![Silver Dragon Wyrmling](/Compendium/books/monster-manual-2025/img/261-19-012-silver-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Young Silver Dragon
-> ![[young-silver-dragon-xmm#^statblock|Young Silver Dragon]]
+> ![Young Silver Dragon](/Compendium/bestiary/dragon/young-silver-dragon-xmm.md#^statblock)
 
-![An adult silver dragon rel...](Compendium/books/monster-manual-2025/img/262-19-013-adult-silver-dragon.webp#center "An adult silver dragon relaxes in camp alongside its fellow adventurers")
+![An adult silver dragon relaxes in camp alongside its fellow adventurers](/Compendium/books/monster-manual-2025/img/262-19-013-adult-silver-dragon.webp#center)
 
 > [!embed-monster]- Adult Silver Dragon
-> ![[adult-silver-dragon-xmm#^statblock|Adult Silver Dragon]]
+> ![Adult Silver Dragon](/Compendium/bestiary/dragon/adult-silver-dragon-xmm.md#^statblock)
 
-![The sight of an ancient si...](Compendium/books/monster-manual-2025/img/263-19-014-ancient-silver-dragon.webp#center "The sight of an ancient silver dragon can panic despicable evil-doers")
+![The sight of an ancient silver dragon can panic despicable evil-doers](/Compendium/books/monster-manual-2025/img/263-19-014-ancient-silver-dragon.webp#center)
 
 > [!embed-monster]- Ancient Silver Dragon
-> ![[ancient-silver-dragon-xmm#^statblock|Ancient Silver Dragon]]
+> ![Ancient Silver Dragon](/Compendium/bestiary/dragon/ancient-silver-dragon-xmm.md#^statblock)
 
 ### Skeletons
 
@@ -5909,19 +5908,19 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 | 6 | Stands guard at the post it protected in life. |
 ^skeleton-pantomimes
 
-![Adventurers face an onslau...](Compendium/books/monster-manual-2025/img/264-19-015-group-of-skeletons.webp#center "Adventurers face an onslaught from all manner of skeletons")
+![Adventurers face an onslaught from all manner of skeletons](/Compendium/books/monster-manual-2025/img/264-19-015-group-of-skeletons.webp#center)
 
 > [!embed-monster]- Skeleton
-> ![[skeleton-xmm#^statblock|Skeleton]]
+> ![Skeleton](/Compendium/bestiary/undead/skeleton-xmm.md#^statblock)
 
 > [!embed-monster]- Warhorse Skeleton
-> ![[warhorse-skeleton-xmm#^statblock|Warhorse Skeleton]]
+> ![Warhorse Skeleton](/Compendium/bestiary/undead/warhorse-skeleton-xmm.md#^statblock)
 
 > [!embed-monster]- Minotaur Skeleton
-> ![[minotaur-skeleton-xmm#^statblock|Minotaur Skeleton]]
+> ![Minotaur Skeleton](/Compendium/bestiary/undead/minotaur-skeleton-xmm.md#^statblock)
 
 > [!embed-monster]- Flaming Skeleton
-> ![[flaming-skeleton-xmm#^statblock|Flaming Skeleton]]
+> ![Flaming Skeleton](/Compendium/bestiary/undead/flaming-skeleton-xmm.md#^statblock)
 
 ### Slaadi
 
@@ -5936,36 +5935,36 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 > 
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [Charmed](/Compendium/rules/conditions.md#Charmed) condition and obeys the gem's bearer. The slaad ceases to be [Charmed](/Compendium/rules/conditions.md#Charmed) if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [Greater Restoration](/Compendium/spells/greater-restoration-xphb.md) spell cast on a slaad destroys the gem, and the slaad ceases to be [Charmed](/Compendium/rules/conditions.md#Charmed).
 > 
-> One can obtain a slaad's control gem using a [[wish-xphb|Wish]] or [[imprisonment-xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment-xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> One can obtain a slaad's control gem using a [Wish](/Compendium/spells/wish-xphb.md) or [Imprisonment](/Compendium/spells/imprisonment-xphb.md) spell. If the slaad fails its saving throw against [Imprisonment](/Compendium/spells/imprisonment-xphb.md), the caster gains the gem, and the slaad isn't imprisoned. An [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([Medicine](/Compendium/rules/skills.md#Medicine)) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
 > 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
 
-![A red slaad and blue slaad...](Compendium/books/monster-manual-2025/img/265-19-016-slaad.webp#center "A red slaad and blue slaad, along with several slaad tadpoles, burst from a portal on the plane of Limbo")
+![A red slaad and blue slaad, along with several slaad tadpoles, burst from a portal on the plane of Limbo](/Compendium/books/monster-manual-2025/img/265-19-016-slaad.webp#center)
 
 > [!embed-monster]- Slaad Tadpole
-> ![[slaad-tadpole-xmm#^statblock|Slaad Tadpole]]
+> ![Slaad Tadpole](/Compendium/bestiary/aberration/slaad-tadpole-xmm.md#^statblock)
 
 > [!embed-monster]- Red Slaad
-> ![[red-slaad-xmm#^statblock|Red Slaad]]
+> ![Red Slaad](/Compendium/bestiary/aberration/red-slaad-xmm.md#^statblock)
 
 > [!embed-monster]- Blue Slaad
-> ![[blue-slaad-xmm#^statblock|Blue Slaad]]
+> ![Blue Slaad](/Compendium/bestiary/aberration/blue-slaad-xmm.md#^statblock)
 
-![A gray slaad, a death slaa...](Compendium/books/monster-manual-2025/img/266-19-017-death-slaad.webp#center "A gray slaad, a death slaad, and a green slaad spread chaos in their wake")
+![A gray slaad, a death slaad, and a green slaad spread chaos in their wake](/Compendium/books/monster-manual-2025/img/266-19-017-death-slaad.webp#center)
 
 > [!embed-monster]- Green Slaad
-> ![[green-slaad-xmm#^statblock|Green Slaad]]
+> ![Green Slaad](/Compendium/bestiary/aberration/green-slaad-xmm.md#^statblock)
 
 > [!embed-monster]- Gray Slaad
-> ![[gray-slaad-xmm#^statblock|Gray Slaad]]
+> ![Gray Slaad](/Compendium/bestiary/aberration/gray-slaad-xmm.md#^statblock)
 
 > [!embed-monster]- Death Slaad
-> ![[death-slaad-xmm#^statblock|Death Slaad]]
+> ![Death Slaad](/Compendium/bestiary/aberration/death-slaad-xmm.md#^statblock)
 
 ### Solar
 
@@ -5978,10 +5977,10 @@ Solars stand as the final line of defense between unspeakable evils and the orde
 
 Solars can resurrect the dead and often use that power to enlist mortal aid. They bestow grand, new purposes on those they return to life. Solars don't enforce these destinies, but they trust in the potential of mortals to achieve great things.
 
-![Solar](Compendium/books/monster-manual-2025/img/267-19-018-solar.webp#center)
+![Solar](/Compendium/books/monster-manual-2025/img/267-19-018-solar.webp#center)
 
 > [!embed-monster]- Solar
-> ![[solar-xmm#^statblock|Solar]]
+> ![Solar](/Compendium/bestiary/celestial/solar-xmm.md#^statblock)
 
 ### Spectator
 
@@ -5996,10 +5995,10 @@ A spectator serves its conjurer for 101 years by guarding something of the spell
 
 At the end of its service, a spectator might discorporate back into nothingness or wander away, seeking to learn more of the multiverse.
 
-![](Compendium/books/monster-manual-2025/img/268-19-019-spectator.webp#center)
+![](/Compendium/books/monster-manual-2025/img/268-19-019-spectator.webp#center)
 
 > [!embed-monster]- Spectator
-> ![[spectator-xmm#^statblock|Spectator]]
+> ![Spectator](/Compendium/bestiary/aberration/spectator-xmm.md#^statblock)
 
 ### Specter
 
@@ -6026,17 +6025,17 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 | 8 | The site of a disaster or mass death. |
 ^specter-haunts
 
-![Specters are loath to atta...](Compendium/books/monster-manual-2025/img/269-19-020-specter.webp#center "Specters are loath to attack a cleric surrounded by divine light")
+![Specters are loath to attack a cleric surrounded by divine light](/Compendium/books/monster-manual-2025/img/269-19-020-specter.webp#center)
 
 > [!embed-monster]- Specter
-> ![[specter-xmm#^statblock|Specter]]
+> ![Specter](/Compendium/bestiary/undead/specter-xmm.md#^statblock)
 
 ### Sphinxes
 
 **Sphinxes.** *Collectors and Keepers of Secrets*
 
 - **Habitat.** Desert, Planar (Upper Planes)  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Sphinxes protect the secrets of the multiverse. Formed from the spirits of sages and explorers, sphinxes know the power of truth and the importance of preserving it. They share their wisdom only with those who prove themselves wise or overcome tests of worthiness, such as riddles or battles with dangerous beasts. Through their existences, sphinxes might change form as they gain more nuanced understanding of cosmic enigmas.
 
@@ -6055,32 +6054,32 @@ Sphinxes protect the secrets of the multiverse. Formed from the spirits of sages
 > [!note]
 > Answer to the riddle of White Plume Mountain: The Moon.
 
-![](Compendium/books/monster-manual-2025/img/270-19-021-sphinx-of-wonder.webp#center)
+![](/Compendium/books/monster-manual-2025/img/270-19-021-sphinx-of-wonder.webp#center)
 
 > [!embed-monster]- Sphinx of Wonder
-> ![[sphinx-of-wonder-xmm#^statblock|Sphinx of Wonder]]
+> ![Sphinx of Wonder](/Compendium/bestiary/celestial/sphinx-of-wonder-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/271-19-022-sphinx-of-secrets.webp#center)
+![](/Compendium/books/monster-manual-2025/img/271-19-022-sphinx-of-secrets.webp#center)
 
 > [!embed-monster]- Sphinx of Secrets
-> ![[sphinx-of-secrets-xmm#^statblock|Sphinx of Secrets]]
+> ![Sphinx of Secrets](/Compendium/bestiary/celestial/sphinx-of-secrets-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/272-19-023-sphinx-of-lore.webp#center)
+![](/Compendium/books/monster-manual-2025/img/272-19-023-sphinx-of-lore.webp#center)
 
 > [!embed-monster]- Sphinx of Lore
-> ![[sphinx-of-lore-xmm#^statblock|Sphinx of Lore]]
+> ![Sphinx of Lore](/Compendium/bestiary/celestial/sphinx-of-lore-xmm.md#^statblock)
 
-![Sphinx of Valor](Compendium/books/monster-manual-2025/img/273-19-024-sphinx-of-valor.webp#center)
+![Sphinx of Valor](/Compendium/books/monster-manual-2025/img/273-19-024-sphinx-of-valor.webp#center)
 
 > [!embed-monster]- Sphinx of Valor
-> ![[sphinx-of-valor-xmm#^statblock|Sphinx of Valor]]
+> ![Sphinx of Valor](/Compendium/bestiary/celestial/sphinx-of-valor-xmm.md#^statblock)
 
 ### Spies
 
 **Spies.** *Infiltrators and Informants*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md), Individual  
 
 Spies gather information and disseminate lies, manipulating people to gain the results the spies' patrons desire. They're trained to manipulate, infiltrate, and—when necessary—escape in a hurry. Many adopt disguises, aliases, or code names to maintain anonymity. Roll on or choose a result from the Spy Personas table to inspire a spy's disguise.
 
@@ -6094,13 +6093,13 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 | 4 | A visitor from a different time or world. |
 ^spy-personas
 
-![](Compendium/books/monster-manual-2025/img/274-19-025-spies.webp#center)
+![](/Compendium/books/monster-manual-2025/img/274-19-025-spies.webp#center)
 
 > [!embed-monster]- Spy
-> ![[spy-xmm#^statblock|Spy]]
+> ![Spy](/Compendium/bestiary/humanoid/spy-xmm.md#^statblock)
 
 > [!embed-monster]- Spy Master
-> ![[spy-master-xmm#^statblock|Spy Master]]
+> ![Spy Master](/Compendium/bestiary/humanoid/spy-master-xmm.md#^statblock)
 
 ### Spined Devil
 
@@ -6123,17 +6122,17 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 | 6 | Prophecies or secrets hidden by gods. |
 ^spined-devil-intelligence
 
-![](Compendium/books/monster-manual-2025/img/275-19-026-spined-devil.webp#center)
+![](/Compendium/books/monster-manual-2025/img/275-19-026-spined-devil.webp#center)
 
 > [!embed-monster]- Spined Devil
-> ![[spined-devil-xmm#^statblock|Spined Devil]]
+> ![Spined Devil](/Compendium/bestiary/fiend/spined-devil-xmm.md#^statblock)
 
 ### Spirit Naga
 
 **Spirit Naga.** *Spiteful Serpentine Grudge Keeper*
 
 - **Habitat.** Planar (Lower Planes), Underdark  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Spirit nagas loathe the world and all creatures. Possessing perfect memories, these venomous, cobra-like creatures recall every slight committed against them during their immortal existences. In their dank, joyless lairs, they create vicious plots to avenge themselves against even petty offenses.
 
@@ -6151,21 +6150,21 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 | 6 | Someone's treasure rightfully belongs to it. |
 ^spirit-naga-grievances
 
-![](Compendium/books/monster-manual-2025/img/276-19-027-spirit-naga.webp#center)
+![](/Compendium/books/monster-manual-2025/img/276-19-027-spirit-naga.webp#center)
 
 > [!embed-monster]- Spirit Naga
-> ![[spirit-naga-xmm#^statblock|Spirit Naga]]
+> ![Spirit Naga](/Compendium/bestiary/fiend/spirit-naga-xmm.md#^statblock)
 
 ### Sprite
 
 **Sprite.** *Elusive Defender of Fey Realms*
 
 - **Habitat.** Forest, Planar (Feywild)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Sprites dwell in mystical forests touched by the magic of the Feywild, living peacefully with most other Fey and friends of nature. These foot-tall spirits of nature resemble elves with exaggerated, whimsical features and gossamer wings.
 
-Sprites can sense the innate goodness or wickedness of other creatures. Those that enter their realms with good intentions might be treated to tiny feasts and celebrations. The wicked face nasty tricks and bold ambushes at the hands of [[conditions#Invisible|invisible]] sprite defenders. These woodland guardians enchant the arrows of their tiny bows with charming magic that can pierce the heart of the fiercest foe.
+Sprites can sense the innate goodness or wickedness of other creatures. Those that enter their realms with good intentions might be treated to tiny feasts and celebrations. The wicked face nasty tricks and bold ambushes at the hands of [invisible](/Compendium/rules/conditions.md#Invisible) sprite defenders. These woodland guardians enchant the arrows of their tiny bows with charming magic that can pierce the heart of the fiercest foe.
 
 Sprites oppose any creatures that seek to harm places of natural magic and beauty. This can put them into conflict with would-be settlers, monsters like ettercaps, and despoilers such as goblinoids and hags. They frequently aid other good creatures of the forest, including treants and unicorns, in defending their homes.
 
@@ -6173,10 +6172,10 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 > 
 > The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars, an' when I stood up an' looked around, both the tree an' the wee village were gone.
 
-![](Compendium/books/monster-manual-2025/img/277-19-028-sprites.webp#center)
+![](/Compendium/books/monster-manual-2025/img/277-19-028-sprites.webp#center)
 
 > [!embed-monster]- Sprite
-> ![[sprite-xmm#^statblock|Sprite]]
+> ![Sprite](/Compendium/bestiary/fey/sprite-xmm.md#^statblock)
 
 ### Stirges
 
@@ -6197,20 +6196,20 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 | 4 | The remains of a gigantic, dead creature. |
 ^stirge-roosts
 
-![Stirge](Compendium/books/monster-manual-2025/img/278-19-029-stirges.webp#center)
+![Stirge](/Compendium/books/monster-manual-2025/img/278-19-029-stirges.webp#center)
 
 > [!embed-monster]- Stirge
-> ![[stirge-xmm#^statblock|Stirge]]
+> ![Stirge](/Compendium/bestiary/monstrosity/stirge-xmm.md#^statblock)
 
 > [!embed-monster]- Swarm of Stirges
-> ![[swarm-of-stirges-xmm#^statblock|Swarm of Stirges]]
+> ![Swarm of Stirges](/Compendium/bestiary/monstrosity/swarm-of-stirges-xmm.md#^statblock)
 
 ### Stone Giant
 
 **Stone Giant.** *Giant of the Earth*
 
 - **Habitat.** Mountain, Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 In cavernous depths and amid mountain canyons, stone giants contemplate the strength and persistence of the earth. Stone giants have rugged features and skin with patterns and hues similar to the rock common near their homes. This makes them adept at blending in with their stony surroundings despite their size.
 
@@ -6218,10 +6217,10 @@ Stone giants rarely interfere in the affairs of other creatures, whether their s
 
 Stone giants often ponder the mysteries of natural wonders, such as mountain spires, crystal formations, or mystical petroglyphs. Some know much about the magic and secret messages hidden within the earth. Those who confine themselves to the Underdark often regard the surface world and its inhabitants as dreams imagined into being by slumbering primordials, strange gods, or other entities.
 
-![](Compendium/books/monster-manual-2025/img/279-19-030-stone-giants.webp#center)
+![](/Compendium/books/monster-manual-2025/img/279-19-030-stone-giants.webp#center)
 
 > [!embed-monster]- Stone Giant
-> ![[stone-giant-xmm#^statblock|Stone Giant]]
+> ![Stone Giant](/Compendium/bestiary/giant/stone-giant-xmm.md#^statblock)
 
 ### Stone Golem
 
@@ -6239,7 +6238,7 @@ Stone golems are typically created to protect places of significance to a group,
 | dice: 1d6 | The Stone Golem Follows Orders To... |
 |-----------|--------------------------------------|
 | 1 | Allow only those wearing ritual garb to pass. |
-| 2 | Cast [[slow-xphb|Slow]] on and aid in apprehending anyone who touches a city's prized relic. |
+| 2 | Cast [Slow](/Compendium/spells/slow-xphb.md) on and aid in apprehending anyone who touches a city's prized relic. |
 | 3 | Destroy a dam or bridge at the command of one bearing a ruler's medallion of office. |
 | 4 | Obey whoever places a missing crest in its chest, then deactivate for a year. |
 | 5 | Reveal a hidden passage to those who recite a leader's final words. |
@@ -6250,31 +6249,31 @@ Stone golems are typically created to protect places of significance to a group,
 > 
 > Exercise discernment when deciding the golem's appearance, as your creation is likely to long outlive its model.
 
-![](Compendium/books/monster-manual-2025/img/280-19-031-stone-golem.webp#center)
+![](/Compendium/books/monster-manual-2025/img/280-19-031-stone-golem.webp#center)
 
 > [!embed-monster]- Stone Golem
-> ![[stone-golem-xmm#^statblock|Stone Golem]]
+> ![Stone Golem](/Compendium/bestiary/construct/stone-golem-xmm.md#^statblock)
 
 ### Storm Giant
 
 **Storm Giant.** *Giant of Seas and Skies*
 
 - **Habitat.** Coastal, Underwater  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Among the tallest giants, storm giants live amid extreme forces of nature. In palaces at the bottom of the sea and castles floating amid the clouds, they revel in the power of mighty storms. When angered, they can shape the weather and call down devastating lightning. More often, though, these giants watch the rise and fall of nations and interpret supernatural omens, interfering in the world only when they're needed most.
 
-![](Compendium/books/monster-manual-2025/img/281-19-032-storm-giant.webp#center)
+![](/Compendium/books/monster-manual-2025/img/281-19-032-storm-giant.webp#center)
 
 > [!embed-monster]- Storm Giant
-> ![[storm-giant-xmm#^statblock|Storm Giant]]
+> ![Storm Giant](/Compendium/bestiary/giant/storm-giant-xmm.md#^statblock)
 
 ### Succubus
 
 **Succubus.** *Life-Draining Seducer*
 
 - **Habitat.** Planar (Lower Planes), Urban  
-- **Treasure.** [[random-magic-items-implements|Implements]]  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 Succubi prey on mortals physically and exploit their waking desires. They relish corrupting virtuous souls and the pain an individual's downfall can cause. Once their targets are at their lowest, succubi slay their victims with their essence-draining kiss.
 
@@ -6292,10 +6291,10 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 | 6 | Taking the form of one in need of protection. |
 ^succubus-temptations
 
-![](Compendium/books/monster-manual-2025/img/282-19-033-succubus.webp#center)
+![](/Compendium/books/monster-manual-2025/img/282-19-033-succubus.webp#center)
 
 > [!embed-monster]- Succubus
-> ![[succubus-xmm#^statblock|Succubus]]
+> ![Succubus](/Compendium/bestiary/fiend/succubus-xmm.md#^statblock)
 
 ## Monsters (T)
 
@@ -6326,17 +6325,17 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
 | 4 | A shattered mountain or diverted river. |
 ^tarrasque-evidence
 
-![](Compendium/books/monster-manual-2025/img/283-20-001-tarrasque.webp#center)
+![](/Compendium/books/monster-manual-2025/img/283-20-001-tarrasque.webp#center)
 
 > [!embed-monster]- Tarrasque
-> ![[tarrasque-xmm#^statblock|Tarrasque]]
+> ![Tarrasque](/Compendium/bestiary/monstrosity/tarrasque-xmm.md#^statblock)
 
 ### Thri-kreen
 
 **Thri-kreen.** *Mantid Psychics and Scavengers*
 
 - **Habitat.** Desert, Grassland  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Thri-kreen are mantis-like wanderers who harness their innate camouflage and psychic abilities to survive. Different groups of thri-kreen have distinct carapaces, from the rocky shades of desert dwellers to the vibrant hues of those living in verdant lands. While their language has a distinctly insectile quality, thri-kreen often use telepathy to communicate, and groups can rapidly share a wealth of detailed information without making a sound.
 
@@ -6344,20 +6343,20 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 > 
 > I would tell you now the tale of the first Ka'Cha, the first thri-kreen who knew and taught the truth: that the clutch is all.
 
-![](Compendium/books/monster-manual-2025/img/284-20-002-thri-kreen.webp#center)
+![](/Compendium/books/monster-manual-2025/img/284-20-002-thri-kreen.webp#center)
 
 > [!embed-monster]- Thri-kreen Marauder
-> ![[thri-kreen-marauder-xmm#^statblock|Thri-kreen Marauder]]
+> ![Thri-kreen Marauder](/Compendium/bestiary/monstrosity/thri-kreen-marauder-xmm.md#^statblock)
 
 > [!embed-monster]- Thri-kreen Psion
-> ![[thri-kreen-psion-xmm#^statblock|Thri-kreen Psion]]
+> ![Thri-kreen Psion](/Compendium/bestiary/monstrosity/thri-kreen-psion-xmm.md#^statblock)
 
 ### Toughs
 
 **Toughs.** *Brawlers and Bullies*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Bodyguards, belligerents, and laborers, toughs rely on their physical strength to intimidate foes. They might be brawny criminals, rowdy tavern goers, seasoned workers, or anyone who uses their muscle to get what they want.
 
@@ -6366,12 +6365,12 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 > There are two answers to every question: ours, and the wrong one.
 
 > [!embed-monster]- Tough
-> ![[tough-xmm#^statblock|Tough]]
+> ![Tough](/Compendium/bestiary/humanoid/tough-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/285-20-003-toughs.webp#center)
+![](/Compendium/books/monster-manual-2025/img/285-20-003-toughs.webp#center)
 
 > [!embed-monster]- Tough Boss
-> ![[tough-boss-xmm#^statblock|Tough Boss]]
+> ![Tough Boss](/Compendium/bestiary/humanoid/tough-boss-xmm.md#^statblock)
 
 ### Treant
 
@@ -6396,17 +6395,17 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 | 6 | Scarred by a fire and holds the bones of the arsonist who started it in a hollow. |
 ^treant-secrets
 
-![A treant evicts adventurer...](Compendium/books/monster-manual-2025/img/286-20-004-treant.webp#center "A treant evicts adventurers from a city it has reclaimed for nature")
+![A treant evicts adventurers from a city it has reclaimed for nature](/Compendium/books/monster-manual-2025/img/286-20-004-treant.webp#center)
 
 > [!embed-monster]- Treant
-> ![[treant-xmm#^statblock|Treant]]
+> ![Treant](/Compendium/bestiary/plant/treant-xmm.md#^statblock)
 
 ### Troglodyte
 
 **Troglodyte.** *Reeking Subterranean Hunter*
 
 - **Habitat.** Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 With features similar to those of pale cave lizards, troglodytes stalk the Underdark in an endless hunt for food. Troglodytes consume almost anything, including bones, giant insects, and other subterranean dwellers. They prey on subterranean communities and those near entrances to the Underdark, stealing livestock and kidnapping residents.
 
@@ -6416,10 +6415,10 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 > 
 > Smells fine to me.
 
-![](Compendium/books/monster-manual-2025/img/287-20-005-troglodyte.webp#center)
+![](/Compendium/books/monster-manual-2025/img/287-20-005-troglodyte.webp#center)
 
 > [!embed-monster]- Troglodyte
-> ![[troglodyte-xmm#^statblock|Troglodyte]]
+> ![Troglodyte](/Compendium/bestiary/monstrosity/troglodyte-xmm.md#^statblock)
 
 ### Troll
 
@@ -6432,13 +6431,13 @@ Trolls creep forth to prey on smaller creatures and drag captives back to fester
 
 Trolls typically hunt alone, but small groups occasionally cooperate to ambush prey or raid villages. Creatures such as hags and hill giants might convince trolls to work for them in exchange for disgusting meals.
 
-![Troll](Compendium/books/monster-manual-2025/img/288-20-006-troll.webp#center)
+![Troll](/Compendium/books/monster-manual-2025/img/288-20-006-troll.webp#center)
 
 > [!embed-monster]- Troll
-> ![[troll-xmm#^statblock|Troll]]
+> ![Troll](/Compendium/bestiary/giant/troll-xmm.md#^statblock)
 
 > [!embed-monster]- Troll Limb
-> ![[troll-limb-xmm#^statblock|Troll Limb]]
+> ![Troll Limb](/Compendium/bestiary/giant/troll-limb-xmm.md#^statblock)
 
 ## Monsters (U)
 
@@ -6447,7 +6446,7 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 **Ultroloth.** *Yugoloth of Conspiracy and Control*
 
 - **Habitat.** Planar (Lower Planes)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 With uncanny patience and fiendish cunning, ultroloths manipulate mortals and their fellow yugoloths alike, seeking to hoard power and spread suffering. These sinister masterminds often work with other yugoloths, but they might compel nearly any creature into their service. If coercion doesn't work, ultroloths use their eerie eyes and innate magic to hypnotize or charm targets.
 
@@ -6465,10 +6464,10 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
 | 6 | Unleash fiendish hordes on a foe's homeland. |
 ^ultroloth-conspiracies
 
-![](Compendium/books/monster-manual-2025/img/289-21-001-ultraloth.webp#center)
+![](/Compendium/books/monster-manual-2025/img/289-21-001-ultraloth.webp#center)
 
 > [!embed-monster]- Ultroloth
-> ![[ultroloth-xmm#^statblock|Ultroloth]]
+> ![Ultroloth](/Compendium/bestiary/fiend/ultroloth-xmm.md#^statblock)
 
 ### Umber Hulk
 
@@ -6481,10 +6480,10 @@ Lumbering, carapace-armored bipeds, umber hulks burrow through the Underdark, fe
 
 Umber hulks typically lurk in tunnels they've burrowed alongside other passages. When they detect creatures moving, they burst through the rock walls between the passages to attack. While these monsters can communicate with one other, they usually hunt alone and avoid each other's territories. Umber hulks focus on finding food and crushing intruders. They have little interest in allying with other creatures, but manipulative inhabitants of the Underdark, such as beholders and mind flayers, sometimes compel umber hulks to serve them.
 
-![](Compendium/books/monster-manual-2025/img/290-21-002-umber-hulk.webp#center)
+![](/Compendium/books/monster-manual-2025/img/290-21-002-umber-hulk.webp#center)
 
 > [!embed-monster]- Umber Hulk
-> ![[umber-hulk-xmm#^statblock|Umber Hulk]]
+> ![Umber Hulk](/Compendium/bestiary/monstrosity/umber-hulk-xmm.md#^statblock)
 
 ### Unicorn
 
@@ -6497,10 +6496,10 @@ Unicorns are majestic defenders of forests. They are revered by many Fey and oth
 
 **Unicorn Lairs.** Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures live.
 
-![](Compendium/books/monster-manual-2025/img/291-21-003-unicorn.webp#center)
+![](/Compendium/books/monster-manual-2025/img/291-21-003-unicorn.webp#center)
 
 > [!embed-monster]- Unicorn
-> ![[unicorn-xmm#^statblock|Unicorn]]
+> ![Unicorn](/Compendium/bestiary/celestial/unicorn-xmm.md#^statblock)
 
 ## Monsters (V)
 
@@ -6533,42 +6532,42 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 > 
 > Darling, you are simply delicious...
 
-![A vampire familiar provide...](Compendium/books/monster-manual-2025/img/292-22-001-vampire-and-familiar.webp#center "A vampire familiar provides a meal for a vampire spawn")
+![A vampire familiar provides a meal for a vampire spawn](/Compendium/books/monster-manual-2025/img/292-22-001-vampire-and-familiar.webp#center)
 
 > [!embed-monster]- Vampire Familiar
-> ![[vampire-familiar-xmm#^statblock|Vampire Familiar]]
+> ![Vampire Familiar](/Compendium/bestiary/humanoid/vampire-familiar-xmm.md#^statblock)
 
 > [!embed-monster]- Vampire Spawn
-> ![[vampire-spawn-xmm#^statblock|Vampire Spawn]]
+> ![Vampire Spawn](/Compendium/bestiary/undead/vampire-spawn-xmm.md#^statblock)
 
-![Vampire Nightbringer](Compendium/books/monster-manual-2025/img/293-22-002-vampire-spawn.webp#center)
+![Vampire Nightbringer](/Compendium/books/monster-manual-2025/img/293-22-002-vampire-spawn.webp#center)
 
 > [!embed-monster]- Vampire Nightbringer
-> ![[vampire-nightbringer-xmm#^statblock|Vampire Nightbringer]]
+> ![Vampire Nightbringer](/Compendium/bestiary/undead/vampire-nightbringer-xmm.md#^statblock)
 
-![Vampires prepare for a midnight meal](Compendium/books/monster-manual-2025/img/294-22-003-vampire-group.webp#center)
+![Vampires prepare for a midnight meal](/Compendium/books/monster-manual-2025/img/294-22-003-vampire-group.webp#center)
 
 > [!embed-monster]- Vampire
-> ![[vampire-xmm#^statblock|Vampire]]
+> ![Vampire](/Compendium/bestiary/undead/vampire-xmm.md#^statblock)
 
-![Vampire Umbral Lord](Compendium/books/monster-manual-2025/img/295-22-004-vampire-umbral-lord.webp#center)
+![Vampire Umbral Lord](/Compendium/books/monster-manual-2025/img/295-22-004-vampire-umbral-lord.webp#center)
 
 > [!embed-monster]- Vampire Umbral Lord
-> ![[vampire-umbral-lord-xmm#^statblock|Vampire Umbral Lord]]
+> ![Vampire Umbral Lord](/Compendium/bestiary/undead/vampire-umbral-lord-xmm.md#^statblock)
 
 ### Vrock
 
 **Vrock.** *Demon of Carnage and Ruin*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and slaughter. Their filthy feathers carry magical toxins from the Lower Planes, creating a noxious cloud capable of killing those who escape the vrocks' vicious beaks and claws. To further terrorize their foes, vrocks unleash an otherworldly screech so terrible it can halt creatures in their tracks.
 
-![Vrock](Compendium/books/monster-manual-2025/img/296-22-005-vrock.webp#center)
+![Vrock](/Compendium/books/monster-manual-2025/img/296-22-005-vrock.webp#center)
 
 > [!embed-monster]- Vrock
-> ![[vrock-xmm#^statblock|Vrock]]
+> ![Vrock](/Compendium/bestiary/fiend/vrock-xmm.md#^statblock)
 
 ## Monsters (W)
 
@@ -6577,7 +6576,7 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
 **Warriors.** *Soldiers and Scrappers*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Warriors are professionals who make a living through their prowess in battle. They might be skilled in using a variety of tactics or trained to take advantage of unusual battlefields. Warriors often work together, whether in armies or in teams with deliberate goals.
 
@@ -6603,16 +6602,16 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
-![An aasimar commander leads...](Compendium/books/monster-manual-2025/img/297-23-001-warriors.webp#center "An aasimar commander leads warriors charging into battle")
+![An aasimar commander leads warriors charging into battle](/Compendium/books/monster-manual-2025/img/297-23-001-warriors.webp#center)
 
 > [!embed-monster]- Warrior Infantry
-> ![[warrior-infantry-xmm#^statblock|Warrior Infantry]]
+> ![Warrior Infantry](/Compendium/bestiary/humanoid/warrior-infantry-xmm.md#^statblock)
 
 > [!embed-monster]- Warrior Veteran
-> ![[warrior-veteran-xmm#^statblock|Warrior Veteran]]
+> ![Warrior Veteran](/Compendium/bestiary/humanoid/warrior-veteran-xmm.md#^statblock)
 
 > [!embed-monster]- Warrior Commander
-> ![[warrior-commander-xmm#^statblock|Warrior Commander]]
+> ![Warrior Commander](/Compendium/bestiary/humanoid/warrior-commander-xmm.md#^statblock)
 
 ### Water Elemental
 
@@ -6639,10 +6638,10 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 > 
 > Water: greatest of the elements in might and form. A tsunami's torrent. A blizzard's claws. A parent's tears. What is not moved by water?
 
-![Water Elemental](Compendium/books/monster-manual-2025/img/298-23-002-water-elemental.webp#center)
+![Water Elemental](/Compendium/books/monster-manual-2025/img/298-23-002-water-elemental.webp#center)
 
 > [!embed-monster]- Water Elemental
-> ![[water-elemental-xmm#^statblock|Water Elemental]]
+> ![Water Elemental](/Compendium/bestiary/elemental/water-elemental-xmm.md#^statblock)
 
 ### Water Weird
 
@@ -6660,21 +6659,21 @@ Water weirds might protect a site for generations and learn much about their sur
 > Rule 2: Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life!
 
 > [!embed-monster]- Water Weird
-> ![[water-weird-xmm#^statblock|Water Weird]]
+> ![Water Weird](/Compendium/bestiary/elemental/water-weird-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/299-23-003-water-weird.webp#center)
+![](/Compendium/books/monster-manual-2025/img/299-23-003-water-weird.webp#center)
 
 ### Werebear
 
 **Werebear.** *Changed by the Might of the Bear*
 
 - **Habitat.** Arctic, Forest, Hill  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 When threatened or compelled by magic, werebears shape-shift from their humanoid forms into mighty bears or hybrids of those two forms. They scare off or sabotage those who threaten the wilds, and they frequently aid Fey, druids, or spirits of the wilderness, as many owe their magical nature to such forces. Werebears take the shape of bears common to the regions in which they dwell, with brown and polar bear forms being common.
 
 > [!embed-monster]- Werebear
-> ![[werebear-xmm#^statblock|Werebear]]
+> ![Werebear](/Compendium/bestiary/monstrosity/werebear-xmm.md#^statblock)
 
 ### Wereboar
 
@@ -6686,9 +6685,9 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
 Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-boar hybrids. Many wereboars suffer their shape-shifting nature as a curse, with some involuntarily transforming any time they perform a greedy act or indulge their selfish nature.
 
 > [!embed-monster]- Wereboar
-> ![[wereboar-xmm#^statblock|Wereboar]]
+> ![Wereboar](/Compendium/bestiary/monstrosity/wereboar-xmm.md#^statblock)
 
-![A werebear chases a werebo...](Compendium/books/monster-manual-2025/img/300-23-004-were-creature-group.webp#center "A werebear chases a wereboar and wererat out of its territory")
+![A werebear chases a wereboar and wererat out of its territory](/Compendium/books/monster-manual-2025/img/300-23-004-were-creature-group.webp#center)
 
 ### Wererat
 
@@ -6700,14 +6699,14 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
 Wererats can shape-shift from their humanoid forms into giant rats or humanoid-rat hybrids. These creatures can transform voluntarily, but some are magically compelled to shape-shift when exposed to complete darkness or during nights of a new moon. Often, wererats' nature results from a divine curse—punishment for their deceitful natures or the crimes of their treacherous families. Wererats frequently work in groups, forming bandit gangs or thieves' guilds.
 
 > [!embed-monster]- Wererat
-> ![[wererat-xmm#^statblock|Wererat]]
+> ![Wererat](/Compendium/bestiary/monstrosity/wererat-xmm.md#^statblock)
 
 ### Weretiger
 
 **Weretiger.** *Changed by the Power of the Tiger*
 
 - **Habitat.** Desert, Forest, Grassland  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids. Although they can transform at will or when their magical nature demands, many weretigers are nocturnal and transform into their bestial shapes at night. Some weretigers' transformations might also be tied to the crescent moon, seasons, or momentous events. Weretigers often view their abilities as a blessing or a family honor, and they use their shape-shifting abilities to defend something with historic importance. Roll on or choose a result from the Weretiger Wards table to inspire what a weretiger defends.
 
@@ -6725,10 +6724,10 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 > 
 > I hunt evil like the great cat hunts its prey, but evil will not long yield to blade alone. It takes strength, honor, and sometimes a little more.
 
-![](Compendium/books/monster-manual-2025/img/301-23-005-weretiger.webp#center)
+![](/Compendium/books/monster-manual-2025/img/301-23-005-weretiger.webp#center)
 
 > [!embed-monster]- Weretiger
-> ![[weretiger-xmm#^statblock|Weretiger]]
+> ![Weretiger](/Compendium/bestiary/monstrosity/weretiger-xmm.md#^statblock)
 
 ### Werewolf
 
@@ -6739,17 +6738,17 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 
 Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid hybrids. Werewolves can shape-shift voluntarily, but many can't resist transforming during the nights of a full moon.
 
-![Werewolf](Compendium/books/monster-manual-2025/img/302-23-006-werewolf.webp#center)
+![Werewolf](/Compendium/books/monster-manual-2025/img/302-23-006-werewolf.webp#center)
 
 > [!embed-monster]- Werewolf
-> ![[werewolf-xmm#^statblock|Werewolf]]
+> ![Werewolf](/Compendium/bestiary/monstrosity/werewolf-xmm.md#^statblock)
 
 ### White Dragons
 
 **White Dragons.** *Dragons of Cold and Cruelty*
 
 - **Habitat.** Arctic  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Among the most primal chromatic dragons, white dragons prioritize survival over all. Life is harsh and uncertain in the arctic expanses, glacial heights, and frozen seas where these dragons dwell. White dragons fiercely protect their territories, scouring the frigid regions for food and evidence of trespassers. Most white dragons ignore the plots of smaller creatures and other dragons, concerning themselves only with their own survival.
 
@@ -6757,30 +6756,30 @@ White dragons create lairs to defend themselves from other deadly arctic creatur
 
 **White Dragon Lairs.** White dragons brood in bitterly cold lairs clawed from stone and ice.
 
-![White Dragon Wyrmling](Compendium/books/monster-manual-2025/img/303-23-007-white-dragon-wyrmling.webp#center)
+![White Dragon Wyrmling](/Compendium/books/monster-manual-2025/img/303-23-007-white-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- White Dragon Wyrmling
-> ![[white-dragon-wyrmling-xmm#^statblock|White Dragon Wyrmling]]
+> ![White Dragon Wyrmling](/Compendium/bestiary/dragon/white-dragon-wyrmling-xmm.md#^statblock)
 
 > [!embed-monster]- Young White Dragon
-> ![[young-white-dragon-xmm#^statblock|Young White Dragon]]
+> ![Young White Dragon](/Compendium/bestiary/dragon/young-white-dragon-xmm.md#^statblock)
 
-![An adult white dragon view...](Compendium/books/monster-manual-2025/img/304-23-008-adult-white-dragon.webp#center "An adult white dragon views all creatures in its territory as prey")
+![An adult white dragon views all creatures in its territory as prey](/Compendium/books/monster-manual-2025/img/304-23-008-adult-white-dragon.webp#center)
 
 > [!embed-monster]- Adult White Dragon
-> ![[adult-white-dragon-xmm#^statblock|Adult White Dragon]]
+> ![Adult White Dragon](/Compendium/bestiary/dragon/adult-white-dragon-xmm.md#^statblock)
 
-![An ancient white dragon fr...](Compendium/books/monster-manual-2025/img/305-23-009-ancient-white-dragon.webp#center "An ancient white dragon freezes a ship full of trespassers before they set foot in its territory")
+![An ancient white dragon freezes a ship full of trespassers before they set foot in its territory](/Compendium/books/monster-manual-2025/img/305-23-009-ancient-white-dragon.webp#center)
 
 > [!embed-monster]- Ancient White Dragon
-> ![[ancient-white-dragon-xmm#^statblock|Ancient White Dragon]]
+> ![Ancient White Dragon](/Compendium/bestiary/dragon/ancient-white-dragon-xmm.md#^statblock)
 
 ### Wight
 
 **Wight.** *Life-Leeching Corpse Warrior*
 
 - **Habitat.** Desert, Planar (Shadowfell), Swamp, Underdark, Urban  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Wights are the withered corpses of relentless warriors whose wickedness sustains them beyond death. Unlike mere zombies, they retain the memories and evil agendas they harbored in life.
 
@@ -6802,10 +6801,10 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
 | 8 | Seek its stolen heart or other treasure. |
 ^wight-motives
 
-![](Compendium/books/monster-manual-2025/img/306-23-010-wight.webp#center)
+![](/Compendium/books/monster-manual-2025/img/306-23-010-wight.webp#center)
 
 > [!embed-monster]- Wight
-> ![[wight-xmm#^statblock|Wight]]
+> ![Wight](/Compendium/bestiary/undead/wight-xmm.md#^statblock)
 
 ### Will-o'-Wisp
 
@@ -6830,10 +6829,10 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 | 6 | Quicksand or pools covered in thin ice. |
 ^will-o-wisp-ambushes
 
-![](Compendium/books/monster-manual-2025/img/307-23-011-will-o-wisp.webp#center)
+![](/Compendium/books/monster-manual-2025/img/307-23-011-will-o-wisp.webp#center)
 
 > [!embed-monster]- Will-o'-Wisp
-> ![[will-o-wisp-xmm#^statblock|Will-o'-Wisp]]
+> ![Will-o'-Wisp](/Compendium/bestiary/undead/will-o-wisp-xmm.md#^statblock)
 
 ### Winter Wolf
 
@@ -6852,10 +6851,10 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 > 
 > You'll never reach it, but at least your last thoughts will be warm.
 
-![Winter Wolf](Compendium/books/monster-manual-2025/img/308-23-012-winter-wolf.webp#center)
+![Winter Wolf](/Compendium/books/monster-manual-2025/img/308-23-012-winter-wolf.webp#center)
 
 > [!embed-monster]- Winter Wolf
-> ![[winter-wolf-xmm#^statblock|Winter Wolf]]
+> ![Winter Wolf](/Compendium/bestiary/monstrosity/winter-wolf-xmm.md#^statblock)
 
 ### Worgs
 
@@ -6866,13 +6865,13 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 
 Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These sapient predators can speak and often taunt their prey, enjoying the taste of fear in their meals.
 
-![Worg](Compendium/books/monster-manual-2025/img/309-23-013-worg.webp#center)
+![Worg](/Compendium/books/monster-manual-2025/img/309-23-013-worg.webp#center)
 
 > [!embed-monster]- Worg
-> ![[worg-xmm#^statblock|Worg]]
+> ![Worg](/Compendium/bestiary/fey/worg-xmm.md#^statblock)
 
 > [!embed-monster]- Dire Worg
-> ![[dire-worg-xmm#^statblock|Dire Worg]]
+> ![Dire Worg](/Compendium/bestiary/fey/dire-worg-xmm.md#^statblock)
 
 ### Wraith
 
@@ -6903,10 +6902,10 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 | 10 | The voracity of a life-hungry realm, such as the Shadowfell or Negative Plane. |
 ^wraith-manifestations
 
-![](Compendium/books/monster-manual-2025/img/310-23-014-wraith.webp#center)
+![](/Compendium/books/monster-manual-2025/img/310-23-014-wraith.webp#center)
 
 > [!embed-monster]- Wraith
-> ![[wraith-xmm#^statblock|Wraith]]
+> ![Wraith](/Compendium/bestiary/undead/wraith-xmm.md#^statblock)
 
 ### Wyvern
 
@@ -6921,10 +6920,10 @@ Wyverns are aggressive and claim sizable territories around the mountains, crags
 
 Once wyverns overpower a quarry, they carry it to their cavernous lairs to either consume it in safety or trap it to eat later. Most wyverns don't hoard treasure, but their lairs are littered with the possessions of past victims. It isn't uncommon for wyverns to carry off chests, carts, or small boats along with their prey.
 
-![](Compendium/books/monster-manual-2025/img/311-23-015-wyvern.webp#center)
+![](/Compendium/books/monster-manual-2025/img/311-23-015-wyvern.webp#center)
 
 > [!embed-monster]- Wyvern
-> ![[wyvern-xmm#^statblock|Wyvern]]
+> ![Wyvern](/Compendium/bestiary/dragon/wyvern-xmm.md#^statblock)
 
 ## Monsters (X)
 
@@ -6957,10 +6956,10 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
 | 8 | The stone crowning a mountain peak. |
 ^xorn-delicacies
 
-![](Compendium/books/monster-manual-2025/img/312-24-001-xorn.webp#center)
+![](/Compendium/books/monster-manual-2025/img/312-24-001-xorn.webp#center)
 
 > [!embed-monster]- Xorn
-> ![[xorn-xmm#^statblock|Xorn]]
+> ![Xorn](/Compendium/bestiary/elemental/xorn-xmm.md#^statblock)
 
 ## Monsters (Y)
 
@@ -6979,15 +6978,15 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 > 
 > In the yeti, I find no kinship, no understanding, no mercy. Theirs is not the might of the mountain or the magic of glacial wonders. Theirs is a world where harmony lies murdered and frozen.
 
-![](Compendium/books/monster-manual-2025/img/313-25-001-yeti.webp#center)
+![](/Compendium/books/monster-manual-2025/img/313-25-001-yeti.webp#center)
 
 > [!embed-monster]- Yeti
-> ![[yeti-xmm#^statblock|Yeti]]
+> ![Yeti](/Compendium/bestiary/monstrosity/yeti-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/314-25-002-abominable-yeti.webp#center)
+![](/Compendium/books/monster-manual-2025/img/314-25-002-abominable-yeti.webp#center)
 
 > [!embed-monster]- Abominable Yeti
-> ![[abominable-yeti-xmm#^statblock|Abominable Yeti]]
+> ![Abominable Yeti](/Compendium/bestiary/monstrosity/abominable-yeti-xmm.md#^statblock)
 
 ### Yochlol
 
@@ -7002,17 +7001,17 @@ Most yochlols serve Lolth. The Demon Queen of Spiders claims all yochlols as min
 
 Despite their service to demon lords, yochlols harbor their own vicious whims and ambitions. They might claim to speak for their overlords to further their own ambitions or seek to reveal rivals' selfish goals to gain standing with their demonic masters.
 
-![](Compendium/books/monster-manual-2025/img/315-25-003-yochlol.webp#center)
+![](/Compendium/books/monster-manual-2025/img/315-25-003-yochlol.webp#center)
 
 > [!embed-monster]- Yochlol
-> ![[yochlol-xmm#^statblock|Yochlol]]
+> ![Yochlol](/Compendium/bestiary/fiend/yochlol-xmm.md#^statblock)
 
 ### Yuan-ti
 
 **Yuan-ti.** *Power-Hungry Serpentine Conspirators*
 
 - **Habitat.** Desert, Forest, Swamp, Urban  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Exploiting pacts with sinister supernatural forces, yuan-ti bargain away their humanity for the lethality and predatory deviousness of serpents. From hidden bastions, they manipulate rulers and the wealthy, seeking to control the world. Many yuan-ti possess venomous magic, which often manifests as fangs or striking serpents.
 
@@ -7036,28 +7035,28 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 > 
 > Great magic, twisted and corrupted... Malice beyond reckoning... Flesh reshaped, becoming serpentine horrors...
 
-![](Compendium/books/monster-manual-2025/img/316-25-004-yuan-ti-infiltrators.webp#center)
+![](/Compendium/books/monster-manual-2025/img/316-25-004-yuan-ti-infiltrators.webp#center)
 
 > [!embed-monster]- Yuan-ti Infiltrator
-> ![[yuan-ti-infiltrator-xmm#^statblock|Yuan-ti Infiltrator]]
+> ![Yuan-ti Infiltrator](/Compendium/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md#^statblock)
 
-![Yuan-ti Malison Type 1 (Left) and Type 2 (Right)](Compendium/books/monster-manual-2025/img/317-25-005-yuan-ti-malisons.webp#center)
+![Yuan-ti Malison Type 1 (Left) and Type 2 (Right)](/Compendium/books/monster-manual-2025/img/317-25-005-yuan-ti-malisons.webp#center)
 
 > [!embed-monster]- Yuan-ti Malison (Type 1)
-> ![[yuan-ti-malison-type-1-xmm#^statblock|Yuan-ti Malison (Type 1)]]
+> ![Yuan-ti Malison (Type 1)](/Compendium/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md#^statblock)
 
 > [!embed-monster]- Yuan-ti Malison (Type 2)
-> ![[yuan-ti-malison-type-2-xmm#^statblock|Yuan-ti Malison (Type 2)]]
+> ![Yuan-ti Malison (Type 2)](/Compendium/bestiary/monstrosity/yuan-ti-malison-type-2-xmm.md#^statblock)
 
-![Yuan-ti Malison (Type 3)](Compendium/books/monster-manual-2025/img/318-25-006-yuan-ti-malison-type-3.webp#center)
+![Yuan-ti Malison (Type 3)](/Compendium/books/monster-manual-2025/img/318-25-006-yuan-ti-malison-type-3.webp#center)
 
 > [!embed-monster]- Yuan-ti Malison (Type 3)
-> ![[yuan-ti-malison-type-3-xmm#^statblock|Yuan-ti Malison (Type 3)]]
+> ![Yuan-ti Malison (Type 3)](/Compendium/bestiary/monstrosity/yuan-ti-malison-type-3-xmm.md#^statblock)
 
-![](Compendium/books/monster-manual-2025/img/319-25-007-yuan-ti-abomination.webp#center)
+![](/Compendium/books/monster-manual-2025/img/319-25-007-yuan-ti-abomination.webp#center)
 
 > [!embed-monster]- Yuan-ti Abomination
-> ![[yuan-ti-abomination-xmm#^statblock|Yuan-ti Abomination]]
+> ![Yuan-ti Abomination](/Compendium/bestiary/monstrosity/yuan-ti-abomination-xmm.md#^statblock)
 
 ### Zombies
 
@@ -7074,13 +7073,13 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > 
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
 
-![A tiefling tries to hide i...](Compendium/books/monster-manual-2025/img/320-26-001-group-of-zombies.webp#center "A tiefling tries to hide in the midst of a zombie horde")
+![A tiefling tries to hide in the midst of a zombie horde](/Compendium/books/monster-manual-2025/img/320-26-001-group-of-zombies.webp#center)
 
 > [!embed-monster]- Zombie
-> ![[zombie-xmm#^statblock|Zombie]]
+> ![Zombie](/Compendium/bestiary/undead/zombie-xmm.md#^statblock)
 
 > [!embed-monster]- Ogre Zombie
-> ![[ogre-zombie-xmm#^statblock|Ogre Zombie]]
+> ![Ogre Zombie](/Compendium/bestiary/undead/ogre-zombie-xmm.md#^statblock)
 
 > [!embed-monster]- Beholder Zombie
-> ![[beholder-zombie-xmm#^statblock|Beholder Zombie]]
+> ![Beholder Zombie](/Compendium/bestiary/undead/beholder-zombie-xmm.md#^statblock)

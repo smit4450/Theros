@@ -1,20 +1,20 @@
 ---
-title: Aberrant Cultist
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/8
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Aberrant Cultist"]
+aliases:
+- "Aberrant Cultist"
 ---
 # Aberrant Cultist
 *Source: Monster Manual (2024) p. 86*  
+![](/Compendium/bestiary/humanoid/img/aberrant-cultist.webp#right)
 
-![](Compendium/bestiary/humanoid/img/aberrant-cultist.webp#right|850)  
 Aberrant cultists pursue mind-bending powers from alien forces. Aberrant cultists align with monsters such as aboleths and mind flayers or forces such as Cthulhu, Hadar, Ityak-Ortheel the Elf Eater, Nyarlathotep, malicious solar bodies, or entities from the Far Realm.
 
 ## Cultists
@@ -22,7 +22,7 @@ Aberrant cultists pursue mind-bending powers from alien forces. Aberrant cultist
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
+- **Treasure.** Individual, [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -70,67 +70,52 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
-![](Compendium/bestiary/humanoid/img/aberrant-cultist-and-elemental-cultist.webp#center)  
-![](Compendium/bestiary/humanoid/img/cultists.webp#center)  
+
+> [!gallery]
+![](/Compendium/bestiary/humanoid/img/aberrant-cultist-and-elemental-cultist.webp)
+![](/Compendium/bestiary/humanoid/img/cultists.webp)
+
 ## Statblock
 
-```statblock
-"name": "Aberrant Cultist (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral Evil"
-"ac": !!int "14"
-"hp": !!int "137"
-"hit_dice": "25d8 + 25"
-"modifier": !!int "7"
-"stats":
-  - !!int "10"
-  - !!int "19"
-  - !!int "12"
-  - !!int "16"
-  - !!int "18"
-  - !!int "15"
-"speed": "30 ft."
-"saves":
-  - "intelligence": !!int "6"
-  - "wisdom": !!int "7"
-"skillsaves":
-  - "name": "[[skills#Arcana|Arcana]]"
-    "desc": "+6"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
-  - "name": "[[skills#Religion|Religion]]"
-    "desc": "+6"
-"senses": "[[senses#Darkvision|Darkvision]] 90 ft., passive Perception\
-  \ 17"
-"languages": "Common, Deep Speech; telepathy 30 ft."
-"cr": "8"
-"actions":
-  - "desc": "The cultist makes two Tentacle Lash attacks. It can replace any attack\
-      \ with a use of Mind Rot."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 7 (1d6 + 4) Slashing\
-      \ damage plus 14 (4d6) Psychic damage. If the target is a Large or smaller\
-      \ creature, it has the [[conditions#Grappled|Grappled]] condition\
-      \ (escape DC 14) from one of two tentacles, and it has the [[conditions#Restrained|Restrained]]\
-      \ condition until the grapple ends."
-    "name": "Tentacle Lash"
-  - "desc": "*Wisdom Saving Throw:* DC 15, one creature the cultist can see within\
-      \ 90 feet. *Failure:* 27 (6d8) Psychic damage, and the target has the [[conditions#Poisoned|Poisoned]]\
-      \ condition until the start of the cultist's next turn. *Success:* Half damage\
-      \ only."
-    "name": "Mind Rot"
-  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [[detect-thoughts-xphb|Detect Thoughts]],\
-      \ [[minor-illusion-xphb|Minor Illusion]]"
-    "name": "Spellcasting"
-"reactions":
-  - "desc": "The cultist casts [[counterspell-xphb|Counterspell]]\
-      \ in response to that spell's trigger, using the same spellcasting ability as\
-      \ Spellcasting.\n"
-    "name": "Counterspell (2/Day)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/humanoid/token/aberrant-cultist-xmm.webp"
+```ad-statblock
+title: Aberrant Cultist
+![](/Compendium/bestiary/humanoid/token/aberrant-cultist-xmm.webp#token)
+*Small or Medium humanoid, Neutral Evil*
+
+- **Armor Class** 14 
+- **Hit Points** 137 (`25d8 + 25`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|19 (+4)|12 (+1)|16 (+3)|18 (+4)|15 (+2)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Intelligence +6, Wisdom +7
+- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +6, [Perception](/Compendium/rules/skills.md#Perception) +7, [Religion](/Compendium/rules/skills.md#Religion) +6
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 90 ft., passive Perception 17
+- **Languages** Common, Deep Speech; telepathy 30 ft.
+- **Challenge** 8
+
+## Actions
+
+***Multiattack.*** The cultist makes two Tentacle Lash attacks. It can replace any attack with a use of Mind Rot.
+
+***Tentacle Lash.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 7 (`1d6 + 4`) Slashing damage plus 14 (`4d6`) Psychic damage. If the target is a Large or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 14) from one of two tentacles, and it has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition until the grapple ends.
+
+***Mind Rot.*** *Wisdom Saving Throw:* DC 15, one creature the cultist can see within 90 feet. *Failure:* 27 (`6d8`) Psychic damage, and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the start of the cultist's next turn. *Success:* Half damage only.
+
+***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 15):
+
+**At will:** [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md)
+
+## Reactions
+
+***Counterspell (2/Day).*** The cultist casts [Counterspell](/Compendium/spells/counterspell-xphb.md) in response to that spell's trigger, using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
+
+## Environment
+
+any

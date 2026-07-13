@@ -1,12 +1,11 @@
 ---
-title: The Meletian Calendar; Meletian Calendar
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- The Meletian Calendar; Meletian Calendar
+- "The Meletian Calendar; Meletian Calendar"
 ---
 # The Meletian Calendar; Meletian Calendar
 *Source: Mythic Odysseys of Theros p. 85* 

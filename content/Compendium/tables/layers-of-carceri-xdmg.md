@@ -1,12 +1,11 @@
 ---
-title: Layers of Carceri
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Layers of Carceri
+- "Layers of Carceri"
 ---
 # Layers of Carceri
 *Source: Dungeon Master's Guide (2024) p. 187* 

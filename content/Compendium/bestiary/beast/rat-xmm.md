@@ -1,9 +1,9 @@
 ---
-title: Rat
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/0
 - monster/environment/forest
 - monster/environment/swamp
@@ -11,53 +11,52 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/beast
-statblock: inline
-aliases: ["Rat"]
+aliases:
+- "Rat"
 ---
 # Rat
 *Source: Monster Manual (2024) p. 367, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![An adventurer underestimates the extent of a tavern's giant rat infestation](/Compendium/bestiary/beast/img/rats.webp#right)
 
-![An adventurer underestimat...](Compendium/bestiary/beast/img/rats.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
-![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
-![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
-![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
-```statblock
-"name": "Rat (XMM)"
-"size": "Tiny"
-"type": "beast"
-"alignment": "Unaligned"
-"ac": !!int "10"
-"hp": !!int "1"
-"hit_dice": "1d4 - 1"
-"modifier": !!int "0"
-"stats":
-  - !!int "2"
-  - !!int "11"
-  - !!int "9"
-  - !!int "2"
-  - !!int "10"
-  - !!int "4"
-"speed": "20 ft., climb 20 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+2"
-"senses": "[[senses#Darkvision|Darkvision]] 30 ft., passive Perception\
-  \ 12"
-"languages": ""
-"cr": "0"
-"traits":
-  - "desc": "The rat doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]]\
-      \ when it moves out of an enemy's reach."
-    "name": "Agile"
-"actions":
-  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Piercing damage."
-    "name": "Bite"
-"source":
-  - "XMM"
-  - "XPHB"
-"image": "Compendium/bestiary/beast/token/rat-xmm.webp"
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
+> [!gallery]
+![A druid calls on animals of the hills and mountains to aid her cause](/Compendium/bestiary/beast/img/animals-hills-and-mountains.webp)
+![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
+![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
+
+```ad-statblock
+title: Rat
+![](/Compendium/bestiary/beast/token/rat-xmm.webp#token)
+*Tiny beast, Unaligned*
+
+- **Armor Class** 10 
+- **Hit Points** 1 (`1d4 - 1`) 
+- **Speed** 20 ft., climb 20 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 2 (-4)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 4 (-3)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +2
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 30 ft., passive Perception 12
+- **Languages** —
+- **Challenge** 0
+
+## Traits
+
+***Agile.*** The rat doesn't provoke [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack) when it moves out of an enemy's reach.
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `+2`, reach 5 ft. *Hit:* 1 Piercing damage.
 ```
 ^statblock
+
+## Environment
+
+forest, swamp, underdark, urban

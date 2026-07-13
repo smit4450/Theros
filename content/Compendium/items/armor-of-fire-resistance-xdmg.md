@@ -1,16 +1,16 @@
 ---
-title: Armor of Fire Resistance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/light
 - item/armor/medium
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Fire Resistance"
 - "Breastplate of Fire Resistance"
 - "Chain Mail of Fire Resistance"
@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [[resistance-rules-xphb|Resistance]] to fire damage while you wear this armor.
+You have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to fire damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Fire Resistance](#Breastplate%20of%20Fire%20Resistance)

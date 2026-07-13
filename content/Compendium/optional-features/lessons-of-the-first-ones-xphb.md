@@ -1,13 +1,12 @@
 ---
-title: Lessons of the First Ones
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - optional-feature/ei
 aliases:
-- Lessons of the First Ones
+- "Lessons of the First Ones"
 ---
 # Lessons of the First Ones
 *Source: Player's Handbook (2024) p. 156*  

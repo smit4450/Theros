@@ -1,55 +1,56 @@
 ---
-title: Riding Horse
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-4
 - monster/environment/grassland
 - monster/environment/urban
 - monster/size/large
 - monster/type/beast
-statblock: inline
-aliases: ["Riding Horse"]
+aliases:
+- "Riding Horse"
 ---
 # Riding Horse
-*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 356, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/beast/img/riding-horse.webp#right)
 
-![](Compendium/bestiary/beast/img/riding-horse.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
-![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
-![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
-![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
-```statblock
-"name": "Riding Horse (XMM)"
-"size": "Large"
-"type": "beast"
-"alignment": "Unaligned"
-"ac": !!int "11"
-"hp": !!int "13"
-"hit_dice": "2d10 + 2"
-"modifier": !!int "1"
-"stats":
-  - !!int "16"
-  - !!int "13"
-  - !!int "12"
-  - !!int "2"
-  - !!int "11"
-  - !!int "7"
-"speed": "60 ft."
-"senses": "passive Perception 10"
-"languages": ""
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning\
-      \ damage."
-    "name": "Hooves"
-"source":
-  - "XMM"
-  - "XPHB"
-  - "FRHoF"
-"image": "Compendium/bestiary/beast/token/riding-horse-xmm.webp"
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
+> [!gallery]
+![A druid calls on animals of the hills and mountains to aid her cause](/Compendium/bestiary/beast/img/animals-hills-and-mountains.webp)
+![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
+![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
+
+```ad-statblock
+title: Riding Horse
+![](/Compendium/bestiary/beast/token/riding-horse-xmm.webp#token)
+*Large beast, Unaligned*
+
+- **Armor Class** 11 
+- **Hit Points** 13 (`2d10 + 2`) 
+- **Speed** 60 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|13 (+1)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** passive Perception 10
+- **Languages** —
+- **Challenge** 1/4
+
+## Actions
+
+***Hooves.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Bludgeoning damage.
 ```
 ^statblock
+
+## Environment
+
+grassland, urban

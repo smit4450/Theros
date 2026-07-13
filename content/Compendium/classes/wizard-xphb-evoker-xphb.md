@@ -1,16 +1,15 @@
 ---
-title: Evoker
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - subclass/wizard/evoker
 aliases:
-- Evoker
+- "Evoker"
 ---
 # Evoker
-*[[wizard-xphb|Wizard]]: Wizard Subclass*  
+*[Wizard](./wizard-xphb.md): Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -44,14 +43,13 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Evoker (Level 3)
+![](/Compendium/classes/img/evoker-wizard.webp#right)
 
 *Create Explosive Elemental Effects*
 
 Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.
+
+## Subclass Features
 
 ### Evocation Savant (Level 3)
 
@@ -75,6 +73,6 @@ Whenever you cast a Wizard spell from the Evocation school, you can add your Int
 
 You can increase the power of your spells. When you cast a Wizard spell with a spell slot of levels 1–5 that deals damage, you can deal maximum damage with that spell on the turn you cast it.
 
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [[long-rest-xphb|Long Rest]], you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [[resistance-rules-xphb|Resistance]] and [[immunity-xphb|Immunity]].
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) and [Immunity](/Compendium/rules/variant-rules/immunity-xphb.md).
 
-Each time you use this feature again before finishing a [[long-rest-xphb|Long Rest]], the Necrotic damage per spell level increases by `1d12`.
+Each time you use this feature again before finishing a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), the Necrotic damage per spell level increases by `1d12`.

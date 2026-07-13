@@ -1,16 +1,15 @@
 ---
-title: Circle of the Land
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - subclass/druid/land
 aliases:
-- Circle of the Land
+- "Circle of the Land"
 ---
 # Circle of the Land
-*[[druid-xphb|Druid]]: Druid Subclass*  
+*[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -44,74 +43,73 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Circle of the Land (Level 3)
+![](/Compendium/classes/img/land-druid.webp#right)
 
 *Celebrate Connection to the Natural World*
 
 The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.
 
+## Subclass Features
+
 ### Circle of the Land Spells (Level 3)
 
-Whenever you finish a [[long-rest-xphb|Long Rest]], choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
+Whenever you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
 
 **Arid Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[blur-xphb|Blur]], [[burning-hands-xphb|Burning Hands]], [[fire-bolt-xphb|Fire Bolt]] |
-| 5th | [[fireball-xphb|Fireball]] |
-| 7th | [[blight-xphb|Blight]] |
-| 9th | [[wall-of-stone-xphb|Wall of Stone]] |
+| 3rd | [Blur](/Compendium/spells/blur-xphb.md), [Burning Hands](/Compendium/spells/burning-hands-xphb.md), [Fire Bolt](/Compendium/spells/fire-bolt-xphb.md) |
+| 5th | [Fireball](/Compendium/spells/fireball-xphb.md) |
+| 7th | [Blight](/Compendium/spells/blight-xphb.md) |
+| 9th | [Wall of Stone](/Compendium/spells/wall-of-stone-xphb.md) |
 ^arid-land
 
 **Polar Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[fog-cloud-xphb|Fog Cloud]], [[hold-person-xphb|Hold Person]], [[ray-of-frost-xphb|Ray of Frost]] |
-| 5th | [[sleet-storm-xphb|Sleet Storm]] |
-| 7th | [[ice-storm-xphb|Ice Storm]] |
-| 9th | [[cone-of-cold-xphb|Cone of Cold]] |
+| 3rd | [Fog Cloud](/Compendium/spells/fog-cloud-xphb.md), [Hold Person](/Compendium/spells/hold-person-xphb.md), [Ray of Frost](/Compendium/spells/ray-of-frost-xphb.md) |
+| 5th | [Sleet Storm](/Compendium/spells/sleet-storm-xphb.md) |
+| 7th | [Ice Storm](/Compendium/spells/ice-storm-xphb.md) |
+| 9th | [Cone of Cold](/Compendium/spells/cone-of-cold-xphb.md) |
 ^polar-land
 
 **Temperate Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[misty-step-xphb|Misty Step]], [[shocking-grasp-xphb|Shocking Grasp]], [[sleep-xphb|Sleep]] |
-| 5th | [[lightning-bolt-xphb|Lightning Bolt]] |
-| 7th | [[freedom-of-movement-xphb|Freedom of Movement]] |
-| 9th | [[tree-stride-xphb|Tree Stride]] |
+| 3rd | [Misty Step](/Compendium/spells/misty-step-xphb.md), [Shocking Grasp](/Compendium/spells/shocking-grasp-xphb.md), [Sleep](/Compendium/spells/sleep-xphb.md) |
+| 5th | [Lightning Bolt](/Compendium/spells/lightning-bolt-xphb.md) |
+| 7th | [Freedom of Movement](/Compendium/spells/freedom-of-movement-xphb.md) |
+| 9th | [Tree Stride](/Compendium/spells/tree-stride-xphb.md) |
 ^temperate-land
 
 **Tropical Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[acid-splash-xphb|Acid Splash]], [[ray-of-sickness-xphb|Ray of Sickness]], [[web-xphb|Web]] |
-| 5th | [[stinking-cloud-xphb|Stinking Cloud]] |
-| 7th | [[polymorph-xphb|Polymorph]] |
-| 9th | [[insect-plague-xphb|Insect Plague]] |
+| 3rd | [Acid Splash](/Compendium/spells/acid-splash-xphb.md), [Ray of Sickness](/Compendium/spells/ray-of-sickness-xphb.md), [Web](/Compendium/spells/web-xphb.md) |
+| 5th | [Stinking Cloud](/Compendium/spells/stinking-cloud-xphb.md) |
+| 7th | [Polymorph](/Compendium/spells/polymorph-xphb.md) |
+| 9th | [Insect Plague](/Compendium/spells/insect-plague-xphb.md) |
 ^tropical-land
 
 ### Land's Aid (Level 3)
 
-As a [[actions#Magic|Magic]] action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on that point. Each creature of your choice in the [[sphere-area-of-effect-xphb|Sphere]] must make a Constitution saving throw against your spell save DC, taking `2d6` Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `2d6` [[hit-points-xphb|Hit Points]].
+As a [Magic](/Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point. Each creature of your choice in the [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) must make a Constitution saving throw against your spell save DC, taking `2d6` Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `2d6` [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md).
 
 The damage and healing increase by `1d6` when you reach Druid levels 10 (`3d6`) and 14 (`4d6`).
 
 ### Natural Recovery (Level 6)
 
-You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a [[long-rest-xphb|Long Rest]] before you do so again.
+You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) before you do so again.
 
-In addition, when you finish a [[short-rest-xphb|Short Rest]], you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a [[long-rest-xphb|Long Rest]].
+In addition, when you finish a [Short Rest](/Compendium/rules/variant-rules/short-rest-xphb.md), you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ### Nature's Ward (Level 10)
 
-You are immune to the [[conditions#Poisoned|Poisoned]] condition, and you have [[resistance-rules-xphb|Resistance]] to a damage type associated with your current land choice in the Circle Spells feature, as shown in the [[skills#Nature|Nature]]'s Ward table.
+You are immune to the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition, and you have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to a damage type associated with your current land choice in the Circle Spells feature, as shown in the Nature's Ward table.
 
 **Nature's Ward**
 
@@ -125,6 +123,6 @@ You are immune to the [[conditions#Poisoned|Poisoned]] condition, and you have [
 
 ### Nature's Sanctuary (Level 14)
 
-As a [[actions#Magic|Magic]] action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [[cube-area-of-effect-xphb|Cube]] on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [[conditions#Incapacitated|Incapacitated]] condition or die. You and your allies have [[cover-table-xphb|Half Cover]] while in that area, and your allies gain the current [[resistance-rules-xphb|Resistance]] of your [[skills#Nature|Nature]]'s Ward while there.
+As a [Magic](/Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition or die. You and your allies have [Half Cover](/Compendium/rules/variant-rules/cover-xphb.md) while in that area, and your allies gain the current [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) of your Nature's Ward while there.
 
-As a [[bonus-action-xphb|Bonus Action]], you can move the [[cube-area-of-effect-xphb|Cube]] up to 60 feet to ground within 120 feet of yourself.
+As a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md), you can move the [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) up to 60 feet to ground within 120 feet of yourself.

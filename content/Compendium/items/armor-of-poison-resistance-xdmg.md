@@ -1,16 +1,16 @@
 ---
-title: Armor of Poison Resistance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/light
 - item/armor/medium
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Poison Resistance"
 - "Breastplate of Poison Resistance"
 - "Chain Mail of Poison Resistance"
@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [[resistance-rules-xphb|Resistance]] to poison damage while you wear this armor.
+You have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to poison damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Poison Resistance](#Breastplate%20of%20Poison%20Resistance)

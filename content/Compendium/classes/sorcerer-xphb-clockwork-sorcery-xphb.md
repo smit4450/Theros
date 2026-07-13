@@ -1,16 +1,15 @@
 ---
-title: Clockwork Sorcery
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - subclass/sorcerer/clockwork
 aliases:
-- Clockwork Sorcery
+- "Clockwork Sorcery"
 ---
 # Clockwork Sorcery
-*[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
+*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 146*  
 
 > [!tldr] Class and Feature Progression
@@ -44,14 +43,13 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Clockwork Sorcery (Level 3)
+![](/Compendium/classes/img/clockwork-sorcerer.webp#right)
 
 *Channel Cosmic Forces of Order*
 
 The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system.
+
+## Subclass Features
 
 ### Clockwork Spells (Level 3)
 
@@ -61,10 +59,10 @@ When you reach a Sorcerer level specified in the Clockwork Spells table, you the
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3rd | [[aid-xphb|Aid]], [[alarm-xphb|Alarm]], [[lesser-restoration-xphb|Lesser Restoration]], [[protection-from-evil-and-good-xphb|Protection from Evil and Good]] |
-| 5th | [[dispel-magic-xphb|Dispel Magic]], [[protection-from-energy-xphb|Protection From Energy]] |
-| 7th | [[freedom-of-movement-xphb|Freedom of Movement]], [[summon-construct-xphb|Summon Construct]] |
-| 9th | [[greater-restoration-xphb|Greater Restoration]], [[wall-of-force-xphb|Wall of Force]] |
+| 3rd | [Aid](/Compendium/spells/aid-xphb.md), [Alarm](/Compendium/spells/alarm-xphb.md), [Lesser Restoration](/Compendium/spells/lesser-restoration-xphb.md), [Protection from Evil and Good](/Compendium/spells/protection-from-evil-and-good-xphb.md) |
+| 5th | [Dispel Magic](/Compendium/spells/dispel-magic-xphb.md), [Protection From Energy](/Compendium/spells/protection-from-energy-xphb.md) |
+| 7th | [Freedom of Movement](/Compendium/spells/freedom-of-movement-xphb.md), [Summon Construct](/Compendium/spells/summon-construct-xphb.md) |
+| 9th | [Greater Restoration](/Compendium/spells/greater-restoration-xphb.md), [Wall of Force](/Compendium/spells/wall-of-force-xphb.md) |
 ^clockwork-spells
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.
@@ -77,40 +75,34 @@ In addition, consult the Manifestations of Order table and choose or randomly de
 | 2 | The hands of a clock spin in your eyes. |
 | 3 | Your skin glows with a brassy sheen. |
 | 4 | Floating equations and geometric objects overlay your body. |
-| 5 | Your [[spellcasting-focus-xphb|Spellcasting Focus]] temporarily takes the form of a Tiny clockwork mechanism. |
+| 5 | Your [Spellcasting Focus](/Compendium/rules/variant-rules/spellcasting-focus-xphb.md) temporarily takes the form of a Tiny clockwork mechanism. |
 | 6 | The ticking of gears or ringing of a clock can be heard by you and those affected by your magic. |
 ^manifestations-of-order
 
 ### Restore Balance (Level 3)
 
-Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a `d20` with [[advantage-xphb|Advantage]] or [[disadvantage-xphb|Disadvantage]], you can take a [[reaction-xphb|Reaction]] to prevent the roll from being affected by [[advantage-xphb|Advantage]] and [[disadvantage-xphb|Disadvantage]].
+Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a `d20` with [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) or [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md), you can take a [Reaction](/Compendium/rules/variant-rules/reaction-xphb.md) to prevent the roll from being affected by [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) and [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md).
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ### Bastion of Law (Level 6)
 
-You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As a [[actions#Magic|Magic]] action, you can expend 1 to 5 Sorcery Points to create a magical ward around yourself or another creature you can see within 30 feet of yourself. The ward is represented by a number of d8s equal to the number of Sorcery Points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
+You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As a [Magic](/Compendium/rules/actions.md#Magic) action, you can expend 1 to 5 Sorcery Points to create a magical ward around yourself or another creature you can see within 30 feet of yourself. The ward is represented by a number of d8s equal to the number of Sorcery Points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
 
-The ward lasts until you finish a [[long-rest-xphb|Long Rest]] or until you use this feature again.
+The ward lasts until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) or until you use this feature again.
 
 ### Trance of Order (Level 14)
 
-You gain the ability to align your consciousness with the endless calculations of Mechanus. As a [[bonus-action-xphb|Bonus Action]], you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from [[advantage-xphb|Advantage]], and whenever you make a [[d20-test-xphb|D20 Test]], you can treat a roll of 9 or lower on the `d20` as a 10.
+You gain the ability to align your consciousness with the endless calculations of Mechanus. As a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md), you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md), and whenever you make a [D20 Test](/Compendium/rules/variant-rules/d20-test-xphb.md), you can treat a roll of 9 or lower on the `d20` as a 10.
 
-Once you use this feature, you can't use it again until you finish a [[long-rest-xphb|Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 ### Clockwork Cavalcade (Level 18)
 
-You momentarily summon spirits of order to expunge disorder around you. As a [[actions#Magic|Magic]] action, you summon the spirits in a 30-foot [[cube-area-of-effect-xphb|Cube]] originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the [[cube-area-of-effect-xphb|Cube]] before vanishing. Once you use this action, you can't use it again until you finish a [[long-rest-xphb|Long Rest]] unless you spend 7 Sorcery Points (no action required) to restore your use of it.
+You momentarily summon spirits of order to expunge disorder around you. As a [Magic](/Compendium/rules/actions.md#Magic) action, you summon the spirits in a 30-foot [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) before vanishing. Once you use this action, you can't use it again until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 
-#### Heal
+**Heal.** The spirits restore up to 100 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md), divided as you choose among any number of creatures of your choice in the [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md).
 
-The spirits restore up to 100 [[hit-points-xphb|Hit Points]], divided as you choose among any number of creatures of your choice in the [[cube-area-of-effect-xphb|Cube]].
+**Repair.** Any damaged objects entirely in the [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) are repaired instantly.
 
-#### Repair
-
-Any damaged objects entirely in the [[cube-area-of-effect-xphb|Cube]] are repaired instantly.
-
-#### Dispel
-
-Every spell of level 6 and lower ends on creatures and objects of your choice in the [[cube-area-of-effect-xphb|Cube]].
+**Dispel.** Every spell of level 6 and lower ends on creatures and objects of your choice in the [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md).

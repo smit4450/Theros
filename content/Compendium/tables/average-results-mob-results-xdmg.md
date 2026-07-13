@@ -1,38 +1,232 @@
 ---
-title: Average Results; Mob Results
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Average Results; Mob Results
+- "Average Results; Mob Results"
 ---
 # Average Results; Mob Results
 *Source: Dungeon Master's Guide (2024) p. 82* 
 
+
 **Mob Results**
 
-|    |    |    |    |    |    |    |    |
-|----|----|----|----|----|----|----|----|
-| 1 | 1–4 | 1 | 4/4 | 5/5 | 6/6 | 8/8 | 10/10 |
-| 2 | 5–6 | — | 4/4 | 5/5 | 6/6 | 8/8 | 10/10 |
-| 3 | 7–8 | 2 | 4/4 | 5/5 | 5/6 | 7/8 | 9/10 |
-| 4 | 9 | — | 3/4 | 4/5 | 5/6 | 7/8 | 9/10 |
-| 5 | 10 | 3 | 3/4 | 4/5 | 5/6 | 6/8 | 8/10 |
-| 6 | 11 | — | 3/4 | 4/5 | 5/6 | 6/8 | 8/10 |
-| 7 | 12 | 4 | 3/4 | 4/5 | 4/6 | 6/8 | 7/10 |
-| 8 | 13 | 5 | 3/4 | 3/5 | 4/6 | 5/8 | 7/10 |
-| 9 | 14 | — | 2/4 | 3/5 | 4/6 | 5/8 | 6/10 |
-| 10 | — | 6 | 2/4 | 3/5 | 3/6 | 4/8 | 6/10 |
-| 11 | 15 | 7 | 2/4 | 3/5 | 3/6 | 4/8 | 5/10 |
-| 12 | 16 | — | 2/4 | 2/5 | 3/6 | 4/8 | 5/10 |
-| 13 | — | 8 | 2/4 | 2/5 | 2/6 | 3/8 | 4/10 |
-| 14 | 17 | 9 | 1/4 | 2/5 | 2/6 | 3/8 | 4/10 |
-| 15 | 18 | 10 | 1/4 | 2/5 | 2/6 | 2/8 | 3/10 |
-| 16 | — | 11 | 1/4 | 1/5 | 2/6 | 2/8 | 3/10 |
-| 17 | 19 | 12 | 1/4 | 1/5 | 1/6 | 2/8 | 2/10 |
-| 18 | — | 13 | 1/4 | 1/5 | 1/6 | 1/8 | 2/10 |
-| 19 | 20 | 14–15 | 0 | 1/5 | 1/6 | 1/8 | 1/10 |
-| 20 | — | 16–17 | 0 | 0 | 0 | 0 | 1/10 |
+<table>
+<tr>
+  <th colspan="3">Roll Needed</th>
+  <th colspan="4">Number of Successes</th>
+</tr>
+<tr>
+  <th>Normal</th>
+  <th>With Advantage</th>
+  <th>With Disadvantage</th>
+  <th>Out of 4</th>
+  <th>Out of 5</th>
+  <th>Out of 6</th>
+  <th>Out of 8</th>
+  <th>Out of 10</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>1–4</td>
+  <td>1</td>
+  <td>4/4</td>
+  <td>5/5</td>
+  <td>6/6</td>
+  <td>8/8</td>
+  <td>10/10</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>5–6</td>
+  <td>—</td>
+  <td>4/4</td>
+  <td>5/5</td>
+  <td>6/6</td>
+  <td>8/8</td>
+  <td>10/10</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>7–8</td>
+  <td>2</td>
+  <td>4/4</td>
+  <td>5/5</td>
+  <td>5/6</td>
+  <td>7/8</td>
+  <td>9/10</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>9</td>
+  <td>—</td>
+  <td>3/4</td>
+  <td>4/5</td>
+  <td>5/6</td>
+  <td>7/8</td>
+  <td>9/10</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>10</td>
+  <td>3</td>
+  <td>3/4</td>
+  <td>4/5</td>
+  <td>5/6</td>
+  <td>6/8</td>
+  <td>8/10</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>11</td>
+  <td>—</td>
+  <td>3/4</td>
+  <td>4/5</td>
+  <td>5/6</td>
+  <td>6/8</td>
+  <td>8/10</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>12</td>
+  <td>4</td>
+  <td>3/4</td>
+  <td>4/5</td>
+  <td>4/6</td>
+  <td>6/8</td>
+  <td>7/10</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>13</td>
+  <td>5</td>
+  <td>3/4</td>
+  <td>3/5</td>
+  <td>4/6</td>
+  <td>5/8</td>
+  <td>7/10</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td>14</td>
+  <td>—</td>
+  <td>2/4</td>
+  <td>3/5</td>
+  <td>4/6</td>
+  <td>5/8</td>
+  <td>6/10</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>—</td>
+  <td>6</td>
+  <td>2/4</td>
+  <td>3/5</td>
+  <td>3/6</td>
+  <td>4/8</td>
+  <td>6/10</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td>15</td>
+  <td>7</td>
+  <td>2/4</td>
+  <td>3/5</td>
+  <td>3/6</td>
+  <td>4/8</td>
+  <td>5/10</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td>16</td>
+  <td>—</td>
+  <td>2/4</td>
+  <td>2/5</td>
+  <td>3/6</td>
+  <td>4/8</td>
+  <td>5/10</td>
+</tr>
+<tr>
+  <td>13</td>
+  <td>—</td>
+  <td>8</td>
+  <td>2/4</td>
+  <td>2/5</td>
+  <td>2/6</td>
+  <td>3/8</td>
+  <td>4/10</td>
+</tr>
+<tr>
+  <td>14</td>
+  <td>17</td>
+  <td>9</td>
+  <td>1/4</td>
+  <td>2/5</td>
+  <td>2/6</td>
+  <td>3/8</td>
+  <td>4/10</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td>18</td>
+  <td>10</td>
+  <td>1/4</td>
+  <td>2/5</td>
+  <td>2/6</td>
+  <td>2/8</td>
+  <td>3/10</td>
+</tr>
+<tr>
+  <td>16</td>
+  <td>—</td>
+  <td>11</td>
+  <td>1/4</td>
+  <td>1/5</td>
+  <td>2/6</td>
+  <td>2/8</td>
+  <td>3/10</td>
+</tr>
+<tr>
+  <td>17</td>
+  <td>19</td>
+  <td>12</td>
+  <td>1/4</td>
+  <td>1/5</td>
+  <td>1/6</td>
+  <td>2/8</td>
+  <td>2/10</td>
+</tr>
+<tr>
+  <td>18</td>
+  <td>—</td>
+  <td>13</td>
+  <td>1/4</td>
+  <td>1/5</td>
+  <td>1/6</td>
+  <td>1/8</td>
+  <td>2/10</td>
+</tr>
+<tr>
+  <td>19</td>
+  <td>20</td>
+  <td>14–15</td>
+  <td>0</td>
+  <td>1/5</td>
+  <td>1/6</td>
+  <td>1/8</td>
+  <td>1/10</td>
+</tr>
+<tr>
+  <td>20</td>
+  <td>—</td>
+  <td>16–17</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1/10</td>
+</tr>
+</table>
 ^mob-results

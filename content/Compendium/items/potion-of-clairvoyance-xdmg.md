@@ -1,12 +1,12 @@
 ---
-title: Potion of Clairvoyance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/rare
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Clairvoyance"
 ---
 # Potion of Clairvoyance
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [[clairvoyance-xphb|Clairvoyance]] spell (no [[conditions#Concentration|Concentration]] required).
+When you drink this potion, you gain the effect of the [Clairvoyance](/Compendium/spells/clairvoyance-xphb.md) spell (no [Concentration](/Compendium/rules/conditions.md#Concentration) required).
 
 An eyeball bobs in this potion's yellowish liquid but vanishes when the potion is opened.
 

@@ -1,12 +1,12 @@
 ---
-title: Potion of Stone Giant Strength
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/rare
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Stone Giant Strength"
 ---
 # Potion of Stone Giant Strength

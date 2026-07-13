@@ -1,15 +1,15 @@
 ---
-title: Cast-Off Armor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/light
 - item/armor/medium
 - item/rarity/common
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Cast-Off Armor"
 - "Cast-Off Breastplate"
 - "Cast-Off Chain Mail"
@@ -29,7 +29,7 @@ aliases:
 
 
 
-You can doff this armor as a [[actions#Magic|Magic]] action.
+You can doff this armor as a [Magic](/Compendium/rules/actions.md#Magic) action.
 
 **Variants**:
 - [Cast-Off Breastplate](#Cast-Off%20Breastplate)

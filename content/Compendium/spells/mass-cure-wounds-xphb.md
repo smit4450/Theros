@@ -1,9 +1,9 @@
 ---
-title: Mass Cure Wounds
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -17,7 +17,8 @@ classes:
 - Cleric (Life Domain)
 - Druid
 - Druid (Circle of the Moon)
-aliases: ["Mass Cure Wounds"]
+aliases:
+- "Mass Cure Wounds"
 ---
 # Mass Cure Wounds
 *5th-level, Abjuration*  
@@ -28,10 +29,10 @@ aliases: ["Mass Cure Wounds"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on that point. Each target regains [[hit-points-xphb|Hit Points]] equal to `5d8` plus your spellcasting ability modifier.
+A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point. Each target regains [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) equal to `5d8` plus your spellcasting ability modifier.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `1d8` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [Druid (Circle of the Moon)](Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid|Druid]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of the Moon)](/Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/Compendium/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

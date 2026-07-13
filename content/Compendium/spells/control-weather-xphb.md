@@ -1,9 +1,9 @@
 ---
-title: Control Weather
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -15,11 +15,12 @@ classes:
 - Cleric
 - Druid
 - Wizard
-aliases: ["Control Weather"]
+aliases:
+- "Control Weather"
 ---
 # Control Weather
 *8th-level, Transmutation*  
-![](Compendium/spells/img/control-weather.webp#right)
+![](/Compendium/spells/img/control-weather.webp#right)
 
 - **Casting time:** 10 minutes
 - **Range:** Self (5-mile Sphere)
@@ -66,6 +67,6 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Storm |
 ^wind
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

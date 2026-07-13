@@ -1,24 +1,24 @@
 ---
-title: Spear
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/melee
 - item/weapon/simple
-aliases: 
+aliases:
 - "Spear"
 ---
 # Spear
 *Weapon*  
-![](Compendium/items/img/spear.webp#right)
+![](/Compendium/items/img/spear.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown), [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Cost**: 1 gp
 - **Weight**: 3.0 lbs.
 

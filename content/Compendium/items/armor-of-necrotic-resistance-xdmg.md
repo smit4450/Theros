@@ -1,16 +1,16 @@
 ---
-title: Armor of Necrotic Resistance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/light
 - item/armor/medium
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Necrotic Resistance"
 - "Breastplate of Necrotic Resistance"
 - "Chain Mail of Necrotic Resistance"
@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [[resistance-rules-xphb|Resistance]] to necrotic damage while you wear this armor.
+You have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to necrotic damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Necrotic Resistance](#Breastplate%20of%20Necrotic%20Resistance)

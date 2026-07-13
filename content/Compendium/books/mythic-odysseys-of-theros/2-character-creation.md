@@ -1,12 +1,11 @@
 ---
-title: Character Creation
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Character Creation
+- "Character Creation"
 ---
 # Character Creation
 *Source: Mythic Odysseys of Theros, p. 11* 
@@ -23,7 +22,7 @@ If you're reading this, the answer is that *you* make a hero, of course. In Ther
 
 This chapter describes playable races of Theros, new subclass options, a new background, and their places in the world. It also includes a description of the supernatural gifts that set the heroes of Theros above the ordinary mortals of their world. But it begins with the question of what makes *your* character a hero.
 
-![Drawn together by fate, th...](Compendium/books/mythic-odysseys-of-theros/img/005-01-01.webp#center "Drawn together by fate, three heroes—centaur, leonin, and human—pit themselves against sirens in the Dakra Isles")
+![Drawn together by fate, three heroes—centaur, leonin, and human—pit themselves against sirens in the Dakra Isles](/Compendium/books/mythic-odysseys-of-theros/img/005-01-01.webp#center)
 
 ## Heroic Drive
 
@@ -62,32 +61,32 @@ A character in Theros begins with one supernatural gift chosen from those in thi
 
 These supernatural gifts are intended for starting characters, but some might be bestowed by gods as rewards for remarkable deeds.
 
-- Anvilwrought  
-- Heroic Destiny  
-- Iconoclast  
-- Inscrutable  
-- Lifelong Companion  
-- Nyxborn  
-- Oracle  
-- Pious  
-- Unscarred  
+- [Anvilwrought](/Compendium/rewards/anvilwrought-thsg.md)  
+- [Heroic Destiny](/Compendium/rewards/heroic-destiny-thsg.md)  
+- [Iconoclast](/Compendium/rewards/iconoclast-thsg.md)  
+- [Inscrutable](/Compendium/rewards/inscrutable-thsg.md)  
+- [Lifelong Companion](/Compendium/rewards/lifelong-companion-thsg.md)  
+- [Nyxborn](/Compendium/rewards/nyxborn-thsg.md)  
+- [Oracle](/Compendium/rewards/oracle-thsg.md)  
+- [Pious](/Compendium/rewards/pious-thsg.md)  
+- [Unscarred](/Compendium/rewards/unscarred-thsg.md)  
 
 > [!note] Heroic Feats
 > 
 > If your campaign uses the optional feat rules from "chapter 6" of the "Player's Handbook", your Dungeon Master might allow you to take a feat as a variant supernatural gift. You gain one feat of your choice. This list suggests twelve feats from the "Player's Handbook", but you can choose any feat your DM allows:
 > 
-> - A snake emerged from my mouth before I took my first breath—an omen of my gift for deception. ([[actor-xphb|Actor]])  
-> - I hear voices on the wind, warning me of danger. ([[alert-xphb|Alert]])  
-> - Iroas gifted me with physical prowess, intending to see me compete in the Iroan Games. ([[athlete-xphb|Athlete]])  
-> - I feel the vitality of the earth beneath my feet, and it refreshes my strength when I rest on it. ([[durable-xphb|Durable]])  
-> - The stars of Nyx are never hidden from my sight, revealing their secrets to my eyes. ([[keen-mind-xphb|Keen Mind]])  
+> - A snake emerged from my mouth before I took my first breath—an omen of my gift for deception. ([Actor](/Compendium/feats/actor-xphb.md))  
+> - I hear voices on the wind, warning me of danger. ([Alert](/Compendium/feats/alert-xphb.md))  
+> - Iroas gifted me with physical prowess, intending to see me compete in the Iroan Games. ([Athlete](/Compendium/feats/athlete-xphb.md))  
+> - I feel the vitality of the earth beneath my feet, and it refreshes my strength when I rest on it. ([Durable](/Compendium/feats/durable-xphb.md))  
+> - The stars of Nyx are never hidden from my sight, revealing their secrets to my eyes. ([Keen Mind](/Compendium/feats/keen-mind-xphb.md))  
 > - I hear the echoes of the gods' speech in every mortal language and trace the patterns of Nyx in the written word. (Linguist)  
-> - The gods smile on me, but I dread the day when they withdraw their favor and my luck runs out. ([[lucky-xphb|Lucky]])  
-> - As a child, I used to run through the woods and play with a giant lynx—which, I learned later, was an emissary of Nylea. ([[speedy-xphb|Mobile]])  
-> - The sun's light brings what is hidden to clear view in my eyes. ([[observant-xphb|Observant]])  
-> - I ate a magical fruit that blessed me with extraordinary resilience. ([[resilient-xphb|Resilient]])  
-> - I studied with a supernatural tutor. ([[skilled-xphb|Skilled]])  
-> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ([[tough-xphb|Tough]])  
+> - The gods smile on me, but I dread the day when they withdraw their favor and my luck runs out. ([Lucky](/Compendium/feats/lucky-xphb.md))  
+> - As a child, I used to run through the woods and play with a giant lynx—which, I learned later, was an emissary of Nylea. ([Mobile](/Compendium/feats/speedy-xphb.md))  
+> - The sun's light brings what is hidden to clear view in my eyes. ([Observant](/Compendium/feats/observant-xphb.md))  
+> - I ate a magical fruit that blessed me with extraordinary resilience. ([Resilient](/Compendium/feats/resilient-xphb.md))  
+> - I studied with a supernatural tutor. ([Skilled](/Compendium/feats/skilled-xphb.md))  
+> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ([Tough](/Compendium/feats/tough-xphb.md))  
 ^heroic-feats
 
 > [!note] Myths of Theros
@@ -108,17 +107,17 @@ A diverse assortment of peoples dwell among the lands of Theros. Aside from huma
 
 This chapter provides information about the following common playable races of Theros, as well as racial traits for all of them except humans:
 
-[[human-xphb|Humans]] on Theros are similar to those found on other D&D worlds: adaptable, ambitious, and wildly diverse.
+Humans on Theros are similar to those found on other D&D worlds: adaptable, ambitious, and wildly diverse.
 
-[[centaur-mot|Centaurs]] employ cunning and equine strength to further the goals of the roaming Lagonna and Pheres bands.
+[Centaurs](/Compendium/species/centaur-mot.md) employ cunning and equine strength to further the goals of the roaming Lagonna and Pheres bands.
 
-[[leonin-mot|Leonin]] are proud lion-like hunters, many of whom live in defiance of the gods.
+[Leonin](/Compendium/species/leonin-mot.md) are proud lion-like hunters, many of whom live in defiance of the gods.
 
-[[minotaur-mot|Minotaurs]] are infamous for bloodthirstiness, a reputation even the most peaceful struggle to escape.
+[Minotaurs](/Compendium/species/minotaur-mot.md) are infamous for bloodthirstiness, a reputation even the most peaceful struggle to escape.
 
-[[satyr-mot|Satyrs]] follow their passions in the pursuit of wild revels and new adventures.
+[Satyrs](/Compendium/species/satyr-mot.md) follow their passions in the pursuit of wild revels and new adventures.
 
-[[triton-mot|Tritons]] are an enigmatic, sea-dwelling people with an endless desire to explore.
+[Tritons](/Compendium/species/triton-mot.md) are an enigmatic, sea-dwelling people with an endless desire to explore.
 
 ### Human
 
@@ -137,11 +136,11 @@ The most prestigious names however, are those earned through deeds or temperamen
 
 ## Subclass Options
 
-![An unrivaled orator, the c...](Compendium/books/mythic-odysseys-of-theros/img/019-01-15.webp#center "An unrivaled orator, the centaur Perisophia guides Meletis as a member of the polis's ruling council, the Twelve")
+![An unrivaled orator, the centaur Perisophia guides Meletis as a member of the polis's ruling council, the Twelve](/Compendium/books/mythic-odysseys-of-theros/img/019-01-15.webp#center)
 
-At 3rd level, a bard chooses a Bard College and a paladin chooses a Sacred Oath. This section offers the College of Eloquence for bards and the [[paladin-xphb-oath-of-glory-xphb|Oath of Glory]] for paladins, expanding their options for that choice.
+At 3rd level, a bard chooses a Bard College and a paladin chooses a Sacred Oath. This section offers the College of Eloquence for bards and the Oath of Glory for paladins, expanding their options for that choice.
 
-![](Compendium/books/mythic-odysseys-of-theros/img/020-01-16.webp#center)
+![](/Compendium/books/mythic-odysseys-of-theros/img/020-01-16.webp#center)
 
 ## Background
 
@@ -155,7 +154,7 @@ Your character doesn't need to be a follower of any of the gods, but if you're n
 
 In addition to the gods, the supernatural gifts presented earlier in this chapter might influence your background. Consider what story emerges from your combination of supernatural gift, background, and other choices.
 
-Beyond these options, the [[athlete-mot|athlete]] background presented here provides a new way to seek glory through discipline and physical prowess.
+Beyond these options, the [athlete](/Compendium/backgrounds/athlete-mot.md) background presented here provides a new way to seek glory through discipline and physical prowess.
 
 > [!readaloud] 
 > 

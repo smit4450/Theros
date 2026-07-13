@@ -1,9 +1,9 @@
 ---
-title: Weird
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/warlock
 - spell/class/wizard
@@ -15,7 +15,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Weird"]
+aliases:
+- "Weird"
 ---
 # Weird
 *9th-level, Illusion*  
@@ -26,10 +27,10 @@ aliases: ["Weird"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes `10d10` Psychic damage and has the [[conditions#Frightened|Frightened]] condition for the duration. On a successful save, a target takes half as much damage only.
+You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes `10d10` Psychic damage and has the [Frightened](/Compendium/rules/conditions.md#Frightened) condition for the duration. On a successful save, a target takes half as much damage only.
 
-A [[conditions#Frightened|Frightened]] target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes `5d10` Psychic damage. On a successful save, the spell ends on that target.
+A [Frightened](/Compendium/rules/conditions.md#Frightened) target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes `5d10` Psychic damage. On a successful save, the spell ends on that target.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-warlock|Warlock]]; [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Warlock](/Compendium/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](/Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,12 +1,12 @@
 ---
-title: Potion of Animal Friendship
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/uncommon
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Animal Friendship"
 ---
 # Potion of Animal Friendship
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you can cast the level 3 version of the [[animal-friendship-xphb|Animal Friendship]] spell (save DC 13).
+When you drink this potion, you can cast the level 3 version of the [Animal Friendship](/Compendium/spells/animal-friendship-xphb.md) spell (save DC 13).
 
 Agitating this potion's muddy liquid brings little bits into view: a fish scale, a hummingbird feather, a cat claw, or a squirrel hair.
 

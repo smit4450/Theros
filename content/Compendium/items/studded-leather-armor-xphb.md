@@ -1,17 +1,17 @@
 ---
-title: Studded Leather Armor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/armor/light
 - item/rarity/none
-aliases: 
+aliases:
 - "Studded Leather Armor"
 ---
 # Studded Leather Armor
 *Light armor*  
-![](Compendium/items/img/studded-leather-armor.webp#right)
+![](/Compendium/items/img/studded-leather-armor.webp#right)
 
 - **Armor Class**: 12 + Dex modifier
 - **Cost**: 45 gp

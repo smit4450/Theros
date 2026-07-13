@@ -1,18 +1,18 @@
 ---
-title: Ring of Spell Storing
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Spell Storing"
 ---
 # Ring of Spell Storing
 *Ring, rare (requires attunement)*  
-![](Compendium/items/img/ring-of-spell-storing.webp#right)
+![](/Compendium/items/img/ring-of-spell-storing.webp#right)
 
 
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains `1d6 - 1` levels of stored spells chosen by the DM.

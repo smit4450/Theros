@@ -1,20 +1,20 @@
 ---
-title: Death Cultist
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/8
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Death Cultist"]
+aliases:
+- "Death Cultist"
 ---
 # Death Cultist
 *Source: Monster Manual (2024) p. 86*  
+![](/Compendium/bestiary/humanoid/img/cultists.webp#right)
 
-![](Compendium/bestiary/humanoid/img/cultists.webp#right|850)  
 Death cultists revel in nihilistic forces, embracing them as paths to undeath, multiversal purity, or entropic inevitability. These cultists serve powerful undead beings, apocalyptic prophecies, or immortals with power over death, such as Acererak, Kyuss, Orcus, Vecna, or Wee Jas.
 
 ## Cultists
@@ -22,7 +22,7 @@ Death cultists revel in nihilistic forces, embracing them as paths to undeath, m
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
+- **Treasure.** Individual, [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -70,62 +70,48 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
+
 ## Statblock
 
-```statblock
-"name": "Death Cultist (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral Evil"
-"ac": !!int "17"
-"hp": !!int "127"
-"hit_dice": "15d8 + 60"
-"modifier": !!int "4"
-"stats":
-  - !!int "19"
-  - !!int "12"
-  - !!int "18"
-  - !!int "12"
-  - !!int "16"
-  - !!int "14"
-"speed": "30 ft."
-"saves":
-  - "constitution": !!int "7"
-  - "wisdom": !!int "6"
-"skillsaves":
-  - "name": "[[skills#Insight|Insight]]"
-    "desc": "+6"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
-  - "name": "[[skills#Religion|Religion]]"
-    "desc": "+4"
-"senses": "passive Perception 16"
-"languages": "Common"
-"cr": "8"
-"actions":
-  - "desc": "The cultist makes three attacks, using Dread Scythe or Deathly Ray in\
-      \ any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 9 (1d10 + 4) Slashing\
-      \ damage plus 11 (2d10) Necrotic damage, and the target can't regain [[hit-points-xphb|Hit\
-      \ Points]] until the end of\
-      \ its next turn."
-    "name": "Dread Scythe"
-  - "desc": "*Ranged Attack Roll:* +6, range 120 ft. *Hit:* 22 (4d10) Necrotic\
-      \ damage."
-    "name": "Deathly Ray"
-  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 14):\n\n**At will:** [[speak-with-dead-xphb|Speak with Dead]],\
-      \ [[thaumaturgy-xphb|Thaumaturgy]]"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "*Wisdom Saving Throw:* DC 14, each creature in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the cultist. *Failure:* 14 (4d6) Psychic damage, and the\
-      \ target has the [[conditions#Frightened|Frightened]] condition\
-      \ until the end of its next turn. *Success:* Half damage only."
-    "name": "Spirit Wail (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/humanoid/token/death-cultist-xmm.webp"
+```ad-statblock
+title: Death Cultist
+![](/Compendium/bestiary/humanoid/token/death-cultist-xmm.webp#token)
+*Small or Medium humanoid, Neutral Evil*
+
+- **Armor Class** 17 
+- **Hit Points** 127 (`15d8 + 60`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|12 (+1)|18 (+4)|12 (+1)|16 (+3)|14 (+2)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Constitution +7, Wisdom +6
+- **Skills** [Insight](/Compendium/rules/skills.md#Insight) +6, [Perception](/Compendium/rules/skills.md#Perception) +6, [Religion](/Compendium/rules/skills.md#Religion) +4
+- **Senses** passive Perception 16
+- **Gear** [splint armor](/Compendium/items/splint-armor-xphb.md)
+- **Languages** Common
+- **Challenge** 8
+
+## Actions
+
+***Multiattack.*** The cultist makes three attacks, using Dread Scythe or Deathly Ray in any combination.
+
+***Dread Scythe.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 9 (`1d10 + 4`) Slashing damage plus 11 (`2d10`) Necrotic damage, and the target can't regain [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) until the end of its next turn.
+
+***Deathly Ray.*** *Ranged Attack Roll:* `+6`, range 120 ft. *Hit:* 22 (`4d10`) Necrotic damage.
+
+***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 14):
+
+**At will:** [Speak with Dead](/Compendium/spells/speak-with-dead-xphb.md), [Thaumaturgy](/Compendium/spells/thaumaturgy-xphb.md)
+
+## Bonus Actions
+
+***Spirit Wail (Recharge 5-6).*** *Wisdom Saving Throw:* DC 14, each creature in a 20-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the cultist. *Failure:* 14 (`4d6`) Psychic damage, and the target has the [Frightened](/Compendium/rules/conditions.md#Frightened) condition until the end of its next turn. *Success:* Half damage only.
 ```
 ^statblock
+
+## Environment
+
+any

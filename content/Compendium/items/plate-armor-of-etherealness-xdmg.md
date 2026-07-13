@@ -1,13 +1,13 @@
 ---
-title: Plate Armor of Etherealness
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/attunement/required
 - item/rarity/legendary
-aliases: 
+aliases:
 - "Plate Armor of Etherealness"
 ---
 # Plate Armor of Etherealness
@@ -19,6 +19,6 @@ aliases:
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
 
-While you're wearing this armor, you can take a [[actions#Magic|Magic]] action and use a command word to gain the effect of the [[etherealness-xphb|Etherealness]] spell. The spell ends immediately if you remove the armor or take a [[actions#Magic|Magic]] action to repeat the command word. This property of the armor can't be used again until the next dawn.
+While you're wearing this armor, you can take a [Magic](/Compendium/rules/actions.md#Magic) action and use a command word to gain the effect of the [Etherealness](/Compendium/spells/etherealness-xphb.md) spell. The spell ends immediately if you remove the armor or take a [Magic](/Compendium/rules/actions.md#Magic) action to repeat the command word. This property of the armor can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 286. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

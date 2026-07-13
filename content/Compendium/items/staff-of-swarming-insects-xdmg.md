@@ -1,31 +1,31 @@
 ---
-title: Staff of Swarming Insects
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/rare
 - item/weapon/melee
 - item/weapon/simple
-aliases: 
+aliases:
 - "Staff of Swarming Insects"
 ---
 # Staff of Swarming Insects
 *Staff, weapon, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![](Compendium/items/img/staff-of-swarming-insects.webp#right)
+![](/Compendium/items/img/staff-of-swarming-insects.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff has 10 charges.
 
 ## Insect Cloud
 
-While holding the staff , you can take a [[actions#Magic|Magic]] action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you. The insects remain for 10 minutes, making the area [[heavily-obscured-xphb|Heavily Obscured]] for creatures other than you. A strong wind (like that created by [[gust-of-wind-xphb|Gust of Wind]]) disperses the swarm and ends the effect.
+While holding the staff , you can take a [Magic](/Compendium/rules/actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. The insects remain for 10 minutes, making the area [Heavily Obscured](/Compendium/rules/variant-rules/heavily-obscured-xphb.md) for creatures other than you. A strong wind (like that created by [Gust of Wind](/Compendium/spells/gust-of-wind-xphb.md)) disperses the swarm and ends the effect.
 
 ## Spells
 
@@ -33,8 +33,8 @@ While holding the staff, you can cast one of the spells on the following table f
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[giant-insect-spell-xphb|Giant Insect]] | 4 |
-| [[insect-plague-xphb|Insect Plague]] | 5 |
+| [Giant Insect](/Compendium/spells/giant-insect-xphb.md) | 4 |
+| [Insect Plague](/Compendium/spells/insect-plague-xphb.md) | 5 |
 ^spell-charge-cost
 
 ## Regaining Charges

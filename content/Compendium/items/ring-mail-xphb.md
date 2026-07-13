@@ -1,17 +1,17 @@
 ---
-title: Ring Mail
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/armor/heavy
 - item/rarity/none
-aliases: 
+aliases:
 - "Ring Mail"
 ---
 # Ring Mail
 *Heavy armor*  
-![](Compendium/items/img/ring-mail.webp#right)
+![](/Compendium/items/img/ring-mail.webp#right)
 
 - **Armor Class**: 14
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

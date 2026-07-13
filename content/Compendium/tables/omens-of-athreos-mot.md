@@ -1,12 +1,11 @@
 ---
-title: Omens of Athreos
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Omens of Athreos
+- "Omens of Athreos"
 ---
 # Omens of Athreos
 *Source: Mythic Odysseys of Theros p. 111* 

@@ -1,12 +1,11 @@
 ---
-title: "Nylea's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Nylea's Quests
+- "Nylea's Quests"
 ---
 # Nylea's Quests
 *Source: Mythic Odysseys of Theros p. 156* 

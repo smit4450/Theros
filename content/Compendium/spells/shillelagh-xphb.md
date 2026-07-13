@@ -1,9 +1,9 @@
 ---
-title: Shillelagh
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/druid
 - spell/feat/druidic-warrior
 - spell/feat/magic-initiate/druid-spells
@@ -11,12 +11,11 @@ tags:
 - spell/optfeature/pact-of-the-tome
 - spell/school/transmutation
 - spell/subclass/college-of-lore
-- spell/subclass/college-of-the-moon
 classes:
 - Bard (College of Lore)
-- Bard (College of the Moon)
 - Druid
-aliases: ["Shillelagh"]
+aliases:
+- "Shillelagh"
 ---
 # Shillelagh
 *cantrip, Transmutation*  
@@ -33,6 +32,6 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 **Cantrip Upgrade.** The damage die changes when you reach levels 5 (`d10`), 11 (`d12`), and 17 (`2d6`).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-druid|Druid]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/Compendium/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

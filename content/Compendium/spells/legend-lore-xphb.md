@@ -1,9 +1,9 @@
 ---
-title: Legend Lore
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/class/wizard
@@ -11,17 +11,16 @@ tags:
 - spell/school/divination
 - spell/subclass/diviner
 - spell/subclass/draconic-sorcery
-- spell/subclass/knowledge-domain
 - spell/subclass/oath-of-glory
 classes:
 - Bard
 - Cleric
-- Cleric (Knowledge Domain)
 - Paladin (Oath of Glory)
 - Sorcerer (Draconic Sorcery)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Legend Lore"]
+aliases:
+- "Legend Lore"
 ---
 # Legend Lore
 *5th-level, Divination*  
@@ -38,6 +37,6 @@ The lore might consist of important details, amusing revelations, or even secret
 
 If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-cleric|Cleric]]; [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](Compendium/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Glory)](/Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](/Compendium/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](/Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

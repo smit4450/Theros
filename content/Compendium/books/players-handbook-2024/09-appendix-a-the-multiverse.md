@@ -1,19 +1,18 @@
 ---
-title: "Appendix A: The Multiverse"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Appendix A: The Multiverse
+- "Appendix A: The Multiverse"
 ---
 # Appendix A: The Multiverse
 *Source: Player's Handbook (2024), p. 344* 
 
 This appendix provides an overview of the multiverse, the overarching reality that encompasses D&D's countless worlds and adventures. These realms are explored in greater detail in the *Dungeon Master's Guide*, along with other planes like the Far Realm, Negative Plane, and Positive Plane.
 
-![](Compendium/books/players-handbook-2024/img/231-10-001-the-multiverse.webp#center)
+![](/Compendium/books/players-handbook-2024/img/231-10-001-the-multiverse.webp#center)
 
 ## The Material Realms
 
@@ -49,4 +48,4 @@ Realms where ideas take form and spirits spend their afterlives, the Outer Plane
 - **Outlands.** Influences from the other Outer Planes converge in the Outlands, where portals lead to those planes. At the Outlands' center rises the Spire, a pillar atop which floats Sigil.  
 - **Other Outer Planes.** These planes are listed on the Outer Planes table. Some are paradises, some are nightmare realms, and some are more bizarre. Each is dominated by forces that embody one or more of the alignments described in "chapter 2".  
 
-![[the-outer-planes-outer-planes-xphb|The Outer Planes; Outer Planes]]
+![The Outer Planes; Outer Planes](/Compendium/tables/the-outer-planes-outer-planes-xphb.md)

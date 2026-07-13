@@ -1,12 +1,11 @@
 ---
-title: Armaments - Rare
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Armaments - Rare
+- "Armaments - Rare"
 ---
 # Armaments - Rare
 *Source: Dungeon Master's Guide (2024) p. 328* 
@@ -15,40 +14,40 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–03 | [[2-ammunition-xdmg|Ammunition, +2]] |
-| 04–07 | [[1-armor-xdmg|Armor, +1]] |
-| 08–10 | [[armor-of-resistance-xdmg|Armor of Resistance]] |
-| 11–13 | [[armor-of-vulnerability-xdmg|Armor of Vulnerability]] |
-| 14–15 | [[arrow-catching-shield-xdmg|Arrow-Catching Shield]] |
-| 16–18 | [[belt-of-hill-giant-strength-xdmg|Belt of Giant Strength (hill)]] |
-| 19–20 | [[berserker-axe-xdmg|Berserker Axe]] |
-| 21–22 | [[daerns-instant-fortress-xdmg|Daern's Instant Fortress]] |
-| 23–25 | [[dagger-of-venom-xdmg|Dagger of Venom]] |
-| 26–28 | [[dragon-slayer-xdmg|Dragon Slayer]] |
-| 29–31 | [[elven-chain-xdmg|Elven Chain]] |
-| 32–34 | [[enspelled-armor-xdmg|Enspelled Armor]] (level 2 or 3 spell) |
-| 35–37 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (level 2 or 3 spell) |
-| 38–40 | [[flame-tongue-xdmg|Flame Tongue]] |
-| 41–43 | [[giant-slayer-xdmg|Giant Slayer]] |
-| 44–46 | [[horn-of-blasting-xdmg|Horn of Blasting]] |
-| 47–48 | [[horn-of-valhalla-xdmg|Horn of Valhalla]] ([[horn-of-valhalla-brass-xdmg|brass]] or [[horn-of-valhalla-silver-xdmg|silver]]) |
-| 49–51 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-protection-xdmg|protection]]) |
-| 52–54 | [[mace-of-disruption-xdmg|Mace of Disruption]] |
-| 55–57 | [[mace-of-smiting-xdmg|Mace of Smiting]] |
-| 58–60 | [[mace-of-terror-xdmg|Mace of Terror]] |
-| 61–63 | [[potion-of-fire-giant-strength-xdmg|Potion of Giant Strength (fire)]] |
-| 64–66 | [[potion-of-giant-strength-xdmg|Potion of Giant Strength]] ([[potion-of-frost-giant-strength-xdmg|frost]] or [[potion-of-stone-giant-strength-xdmg|stone]]) |
-| 67–69 | [[potion-of-heroism-xdmg|Potion of Heroism]] |
-| 70–72 | [[potion-of-invulnerability-xdmg|Potion of Invulnerability]] |
-| 73–75 | [[ring-of-protection-xdmg|Ring of Protection]] |
-| 76–78 | [[ring-of-the-ram-xdmg|Ring of the Ram]] |
-| 79–81 | [[2-shield-xdmg|Shield, +2]] |
-| 82–84 | [[shield-of-missile-attraction-xdmg|Shield of Missile Attraction]] |
-| 85–86 | [[sun-blade-xdmg|Sun Blade]] |
-| 87–88 | [[sword-of-life-stealing-xdmg|Sword of Life Stealing]] |
-| 89–90 | [[sword-of-wounding-xdmg|Sword of Wounding]] |
-| 91–92 | [[tentacle-rod-xdmg|Tentacle Rod]] |
-| 93–94 | [[vicious-weapon-xdmg|Vicious Weapon]] |
-| 95–97 | [[2-weapon-xdmg|Weapon, +2]] |
-| 98–00 | [[2-wraps-of-unarmed-power-xdmg|Wraps of Unarmed Power, +2]] |
+| 01–03 | [Ammunition, +2](/Compendium/items/2-ammunition-xdmg.md) |
+| 04–07 | [Armor, +1](/Compendium/items/1-armor-xdmg.md) |
+| 08–10 | [Armor of Resistance](/Compendium/items/armor-of-resistance-xdmg.md) |
+| 11–13 | [Armor of Vulnerability](/Compendium/items/armor-of-vulnerability-xdmg.md) |
+| 14–15 | [Arrow-Catching Shield](/Compendium/items/arrow-catching-shield-xdmg.md) |
+| 16–18 | [Belt of Giant Strength (hill)](/Compendium/items/belt-of-hill-giant-strength-xdmg.md) |
+| 19–20 | [Berserker Axe](/Compendium/items/berserker-axe-xdmg.md) |
+| 21–22 | [Daern's Instant Fortress](/Compendium/items/daerns-instant-fortress-xdmg.md) |
+| 23–25 | [Dagger of Venom](/Compendium/items/dagger-of-venom-xdmg.md) |
+| 26–28 | [Dragon Slayer](/Compendium/items/dragon-slayer-xdmg.md) |
+| 29–31 | [Elven Chain](/Compendium/items/elven-chain-xdmg.md) |
+| 32–34 | [Enspelled Armor](/Compendium/items/enspelled-armor-xdmg.md) ([level 2](/Compendium/items/enspelled-armor-level-2-xdmg.md) or [3](/Compendium/items/enspelled-armor-level-3-xdmg.md) spell) |
+| 35–37 | [Enspelled Weapon](/Compendium/items/enspelled-weapon-xdmg.md) ([level 2](/Compendium/items/enspelled-weapon-level-2-xdmg.md) or [3](/Compendium/items/enspelled-weapon-level-3-xdmg.md) spell) |
+| 38–40 | [Flame Tongue](/Compendium/items/flame-tongue-xdmg.md) |
+| 41–43 | [Giant Slayer](/Compendium/items/giant-slayer-xdmg.md) |
+| 44–46 | [Horn of Blasting](/Compendium/items/horn-of-blasting-xdmg.md) |
+| 47–48 | [Horn of Valhalla](/Compendium/items/horn-of-valhalla-xdmg.md) ([brass](/Compendium/items/horn-of-valhalla-brass-xdmg.md) or [silver](/Compendium/items/horn-of-valhalla-silver-xdmg.md)) |
+| 49–51 | [Ioun Stone](/Compendium/items/ioun-stone-xdmg.md) ([protection](/Compendium/items/ioun-stone-protection-xdmg.md)) |
+| 52–54 | [Mace of Disruption](/Compendium/items/mace-of-disruption-xdmg.md) |
+| 55–57 | [Mace of Smiting](/Compendium/items/mace-of-smiting-xdmg.md) |
+| 58–60 | [Mace of Terror](/Compendium/items/mace-of-terror-xdmg.md) |
+| 61–63 | [Potion of Giant Strength (fire)](/Compendium/items/potion-of-fire-giant-strength-xdmg.md) |
+| 64–66 | [Potion of Giant Strength](/Compendium/items/potion-of-giant-strength-xdmg.md) ([frost](/Compendium/items/potion-of-frost-giant-strength-xdmg.md) or [stone](/Compendium/items/potion-of-stone-giant-strength-xdmg.md)) |
+| 67–69 | [Potion of Heroism](/Compendium/items/potion-of-heroism-xdmg.md) |
+| 70–72 | [Potion of Invulnerability](/Compendium/items/potion-of-invulnerability-xdmg.md) |
+| 73–75 | [Ring of Protection](/Compendium/items/ring-of-protection-xdmg.md) |
+| 76–78 | [Ring of the Ram](/Compendium/items/ring-of-the-ram-xdmg.md) |
+| 79–81 | [Shield, +2](/Compendium/items/2-shield-xdmg.md) |
+| 82–84 | [Shield of Missile Attraction](/Compendium/items/shield-of-missile-attraction-xdmg.md) |
+| 85–86 | [Sun Blade](/Compendium/items/sun-blade-xdmg.md) |
+| 87–88 | [Sword of Life Stealing](/Compendium/items/sword-of-life-stealing-xdmg.md) |
+| 89–90 | [Sword of Wounding](/Compendium/items/sword-of-wounding-xdmg.md) |
+| 91–92 | [Tentacle Rod](/Compendium/items/tentacle-rod-xdmg.md) |
+| 93–94 | [Vicious Weapon](/Compendium/items/vicious-weapon-xdmg.md) |
+| 95–97 | [Weapon, +2](/Compendium/items/2-weapon-xdmg.md) |
+| 98–00 | [Wraps of Unarmed Power, +2](/Compendium/items/2-wraps-of-unarmed-power-xdmg.md) |
 ^armaments-rare

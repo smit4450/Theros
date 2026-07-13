@@ -1,12 +1,11 @@
 ---
-title: Omens of Thassa
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Omens of Thassa
+- "Omens of Thassa"
 ---
 # Omens of Thassa
 *Source: Mythic Odysseys of Theros p. 111* 

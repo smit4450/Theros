@@ -1,21 +1,21 @@
 ---
-title: Greatclub
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/melee
 - item/weapon/simple
-aliases: 
+aliases:
 - "Greatclub"
 ---
 # Greatclub
 *Weapon*  
-![](Compendium/items/img/greatclub.webp#right)
+![](/Compendium/items/img/greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Cost**: 2 sp
 - **Weight**: 10.0 lbs.
 

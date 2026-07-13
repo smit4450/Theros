@@ -1,16 +1,16 @@
 ---
-title: Dread Helm
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/common
-aliases: 
+aliases:
 - "Dread Helm"
 ---
 # Dread Helm
 *Wondrous item, common*  
-![](Compendium/items/img/dread-helm.webp#right)
+![](/Compendium/items/img/dread-helm.webp#right)
 
 
 While you're wearing this fearsome steel helm, your eyes glow red and the rest of your face is hidden in shadow.

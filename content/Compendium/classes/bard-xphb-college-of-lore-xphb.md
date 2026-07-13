@@ -1,16 +1,15 @@
 ---
-title: College of Lore
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - subclass/bard/lore
 aliases:
-- College of Lore
+- "College of Lore"
 ---
 # College of Lore
-*[[bard-xphb|Bard]]: Bard Subclass*  
+*[Bard](./bard-xphb.md): Bard Subclass*  
 *Source: Player's Handbook (2024) p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -44,14 +43,13 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### College of Lore (Level 3)
+![](/Compendium/classes/img/lore-bard.webp#right)
 
 *Plumb the Depths of Magical Knowledge*
 
 Bards of the College of Lore collect spells and secrets from diverse sources, such as scholarly tomes, mystical rites, and peasant tales. The college's members gather in libraries and universities to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
+
+## Subclass Features
 
 ### Bonus Proficiencies (Level 3)
 
@@ -59,7 +57,7 @@ You gain proficiency with three skills of your choice.
 
 ### Cutting Words (Level 3)
 
-You learn to use your wit to supernaturally distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of yourself makes a damage roll or succeeds on an ability check or attack roll, you can take a [[reaction-xphb|Reaction]] to expend one use of your Bardic Inspiration; roll your Bardic Inspiration die, and subtract the number rolled from the creature's roll, reducing the damage or potentially turning the success into a failure.
+You learn to use your wit to supernaturally distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of yourself makes a damage roll or succeeds on an ability check or attack roll, you can take a [Reaction](/Compendium/rules/variant-rules/reaction-xphb.md) to expend one use of your Bardic Inspiration; roll your Bardic Inspiration die, and subtract the number rolled from the creature's roll, reducing the damage or potentially turning the success into a failure.
 
 ### Magical Discoveries (Level 6)
 

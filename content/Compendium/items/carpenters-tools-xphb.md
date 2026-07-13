@@ -1,12 +1,12 @@
 ---
-title: "Carpenter's Tools"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/artisans-tools
 - item/rarity/none
-aliases: 
+aliases:
 - "Carpenter's Tools"
 ---
 # Carpenter's Tools
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Strength  
 - **Utilize.** Seal or pry open a door or container (DC 20)  
-- **Craft.** [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], [[barrel-xphb|Barrel]], [[chest-xphb|Chest]], [[ladder-xphb|Ladder]], [[pole-xphb|Pole]], [[portable-ram-xphb|Portable Ram]], [[torch-xphb|Torch]]  
+- **Craft.** [Club](/Compendium/items/club-xphb.md), [Greatclub](/Compendium/items/greatclub-xphb.md), [Quarterstaff](/Compendium/items/quarterstaff-xphb.md), [Barrel](/Compendium/items/barrel-xphb.md), [Chest](/Compendium/items/chest-xphb.md), [Ladder](/Compendium/items/ladder-xphb.md), [Pole](/Compendium/items/pole-xphb.md), [Portable Ram](/Compendium/items/portable-ram-xphb.md), [Torch](/Compendium/items/torch-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

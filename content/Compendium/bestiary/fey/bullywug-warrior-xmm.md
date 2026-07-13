@@ -1,20 +1,20 @@
 ---
-title: Bullywug Warrior
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-4
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/fey
-statblock: inline
-aliases: ["Bullywug Warrior"]
+aliases:
+- "Bullywug Warrior"
 ---
 # Bullywug Warrior
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
+![](/Compendium/bestiary/fey/img/bullywugs.webp#right)
 
-![](Compendium/bestiary/fey/img/bullywugs.webp#right|850)  
 Bullywug warriors are adept at moving through swamps and ambushing trespassers. They often work alongside packs of trained giant frogs.
 
 ## Bullywugs
@@ -22,49 +22,48 @@ Bullywug warriors are adept at moving through swamps and ambushing trespassers. 
 *Amphibious Appreciators of Marsh and Muck*
 
 - **Habitat.** Swamp  
-- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md), Individual  
 
 Fey embodiments of swamplands, bullywugs protect the murky wilds and consider themselves cosmically favored for that role. These human-size, toad- or frog-like creatures have close relationships with the creatures of the swamp.
+
 ## Statblock
 
-```statblock
-"name": "Bullywug Warrior (XMM)"
-"size": "Medium"
-"type": "fey"
-"alignment": "Neutral"
-"ac": !!int "15"
-"hp": !!int "11"
-"hit_dice": "2d8 + 2"
-"modifier": !!int "2"
-"stats":
-  - !!int "12"
-  - !!int "14"
-  - !!int "13"
-  - !!int "7"
-  - !!int "10"
-  - !!int "7"
-"speed": "30 ft., swim 30 ft."
-"skillsaves":
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
-"senses": "passive Perception 10"
-"languages": "Bullywug, Common"
-"cr": "1/4"
-"traits":
-  - "desc": "The bullywug can breathe air and water."
-    "name": "Amphibious"
-  - "desc": "The bullywug can communicate simple concepts to frogs and toads when\
-      \ it speaks in Bullywug."
-    "name": "Speak with Frogs and Toads"
-"actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing\
-      \ damage plus 2 (1d4) Poison damage."
-    "name": "Insectile Rapier"
-"bonus_actions":
-  - "desc": "The bullywug can jump up to 30 feet by spending 10 feet of movement."
-    "name": "Leap"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/fey/token/bullywug-warrior-xmm.webp"
+```ad-statblock
+title: Bullywug Warrior
+![](/Compendium/bestiary/fey/token/bullywug-warrior-xmm.webp#token)
+*Medium fey, Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 11 (`2d8 + 2`) 
+- **Speed** 30 ft., swim 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|14 (+2)|13 (+1)| 7 (-2)|10 (+0)| 7 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +4
+- **Senses** passive Perception 10
+- **Languages** Bullywug, Common
+- **Challenge** 1/4
+
+## Traits
+
+***Amphibious.*** The bullywug can breathe air and water.
+
+***Speak with Frogs and Toads.*** The bullywug can communicate simple concepts to frogs and toads when it speaks in Bullywug.
+
+## Actions
+
+***Insectile Rapier.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Piercing damage plus 2 (`1d4`) Poison damage.
+
+## Bonus Actions
+
+***Leap.*** The bullywug can jump up to 30 feet by spending 10 feet of movement.
 ```
 ^statblock
+
+## Environment
+
+swamp

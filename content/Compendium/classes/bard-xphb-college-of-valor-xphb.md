@@ -1,16 +1,15 @@
 ---
-title: College of Valor
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - subclass/bard/valor
 aliases:
-- College of Valor
+- "College of Valor"
 ---
 # College of Valor
-*[[bard-xphb|Bard]]: Bard Subclass*  
+*[Bard](./bard-xphb.md): Bard Subclass*  
 *Source: Player's Handbook (2024) p. 67*  
 
 > [!tldr] Class and Feature Progression
@@ -44,39 +43,34 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### College of Valor (Level 3)
+![](/Compendium/classes/img/valor-bard.webp#right)
 
 *Sing the Deeds of Ancient Heroes*
 
 Bards of the College of Valor are daring storytellers whose tales preserve the memory of the great heroes of the past. These Bards sing the deeds of the mighty in vaulted halls or to crowds gathered around great bonfires. They travel to witness great events firsthand and to ensure that the memory of these events doesn't pass away. With their songs, they inspire new generations to reach the same heights of accomplishment as the heroes of old.
 
+## Subclass Features
+
 ### Combat Inspiration (Level 3)
 
 You can use your wit to turn the tide of battle. A creature that has a Bardic Inspiration die from you can use it for one of the following effects.
 
-#### Defense
+**Defense.** When the creature is hit by an attack roll, that creature can use its [Reaction](/Compendium/rules/variant-rules/reaction-xphb.md) to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
 
-When the creature is hit by an attack roll, that creature can use its [[reaction-xphb|Reaction]] to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
-
-#### Offense
-
-Immediately after the creature hits a target with an attack roll, the creature can roll the Bardic Inspiration die and add the number rolled to the attack's damage against the target.
+**Offense.** Immediately after the creature hits a target with an attack roll, the creature can roll the Bardic Inspiration die and add the number rolled to the attack's damage against the target.
 
 ### Martial Training (Level 3)
 
-You gain proficiency with Martial weapons and training with Medium armor and [[shield-spell-xphb|Shields]].
+You gain proficiency with Martial weapons and training with Medium armor and [Shields](/Compendium/items/shield-xphb.md).
 
-In addition, you can use a Simple or Martial weapon as a [[spellcasting-focus-xphb|Spellcasting Focus]] to cast spells from your Bard spell list.
+In addition, you can use a Simple or Martial weapon as a [Spellcasting Focus](/Compendium/rules/variant-rules/spellcasting-focus-xphb.md) to cast spells from your Bard spell list.
 
 ### Extra Attack (Level 6)
 
-You can attack twice instead of once whenever you take the [[actions#Attack|Attack]] action on your turn.
+You can attack twice instead of once whenever you take the [Attack](/Compendium/rules/actions.md#Attack) action on your turn.
 
 In addition, you can cast one of your cantrips that has a casting time of an action in place of one of those attacks.
 
 ### Battle Magic (Level 14)
 
-After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [[bonus-action-xphb|Bonus Action]].
+After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md).

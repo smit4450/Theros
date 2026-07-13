@@ -1,16 +1,15 @@
 ---
-title: Battle Master
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - subclass/fighter/battle-master
 aliases:
-- Battle Master
+- "Battle Master"
 ---
 # Battle Master
-*[[fighter-xphb|Fighter]]: Fighter Subclass*  
+*[Fighter](./fighter-xphb.md): Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 93*  
 
 > [!tldr] Class and Feature Progression
@@ -44,48 +43,64 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Battle Master (Level 3)
+![](/Compendium/classes/img/battle-master-fighter.webp#right)
 
 *Master Sophisticated Battle Maneuvers*
 
 Battle Masters are students of the art of battle, learning martial techniques passed down through generations. The most accomplished Battle Masters are well-rounded figures who combine their carefully honed combat skills with academic study in the fields of history, theory, and the arts.
 
+## Subclass Features
+
 ### Combat Superiority (Level 3)
 
 Your experience on the battlefield has refined your fighting techniques. You learn maneuvers that are fueled by special dice called Superiority Dice.
 
-#### Maneuvers
-
-You learn three maneuvers of your choice from the "Maneuvers Options^[[list-optfeaturetype-mv-b|Optional features from [Maneuver, Battle Master]]; defined in Player's Handbook (2024)]" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+**Maneuvers.** You learn three maneuvers of your choice from the "Maneuvers Options^[Optional features from [Maneuver, Battle Master](/Compendium/lists/list-optfeaturetype-mv-b.md); defined in Player's Handbook (2024)]" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
 
 You learn two additional maneuvers of your choice when you reach Fighter levels 7, 10, and 15. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
-#### Superiority Dice
-
-You have four Superiority Dice, which are d8s (`d8`). A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
+**Superiority Dice.** You have four Superiority Dice, which are d8s (`d8`). A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [Short](/Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
 You gain an additional Superiority Die when you reach Fighter levels 7 (five dice total) and 15 (six dice total).
 
-#### Saving Throws
-
-If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and [[proficiency-xphb|Proficiency Bonus]].
+**Saving Throws.** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and [Proficiency Bonus](/Compendium/rules/variant-rules/proficiency-xphb.md).
 
 ### Student of War (Level 3)
 
-You gain proficiency with one type of [[artisans-tools-xphb|Artisan's Tools]] of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1.
+You gain proficiency with one type of [Artisan's Tools](/Compendium/items/artisans-tools-xphb.md) of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1.
 
 ### Maneuver Options (Level 3)
 
 The maneuvers are presented here in alphabetical order.
 
+Options (choose 3):
+
+- [Ambush](/Compendium/optional-features/ambush-xphb.md)  
+- [Bait and Switch](/Compendium/optional-features/bait-and-switch-xphb.md)  
+- [Commander's Strike](/Compendium/optional-features/commanders-strike-xphb.md)  
+- [Commanding Presence](/Compendium/optional-features/commanding-presence-xphb.md)  
+- [Disarming Attack](/Compendium/optional-features/disarming-attack-xphb.md)  
+- [Distracting Strike](/Compendium/optional-features/distracting-strike-xphb.md)  
+- [Evasive Footwork](/Compendium/optional-features/evasive-footwork-xphb.md)  
+- [Feinting Attack](/Compendium/optional-features/feinting-attack-xphb.md)  
+- [Goading Attack](/Compendium/optional-features/goading-attack-xphb.md)  
+- [Lunging Attack](/Compendium/optional-features/lunging-attack-xphb.md)  
+- [Maneuvering Attack](/Compendium/optional-features/maneuvering-attack-xphb.md)  
+- [Menacing Attack](/Compendium/optional-features/menacing-attack-xphb.md)  
+- [Parry](/Compendium/optional-features/parry-xphb.md)  
+- [Precision Attack](/Compendium/optional-features/precision-attack-xphb.md)  
+- [Pushing Attack](/Compendium/optional-features/pushing-attack-xphb.md)  
+- [Rally](/Compendium/optional-features/rally-xphb.md)  
+- [Riposte](/Compendium/optional-features/riposte-xphb.md)  
+- [Sweeping Attack](/Compendium/optional-features/sweeping-attack-xphb.md)  
+- [Tactical Assessment](/Compendium/optional-features/tactical-assessment-xphb.md)  
+- [Trip Attack](/Compendium/optional-features/trip-attack-xphb.md)  
+
 ### Know Your Enemy (Level 7)
 
-As a [[bonus-action-xphb|Bonus Action]], you can discern certain strengths and weaknesses of a creature you can see within 30 feet of yourself; you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
+As a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md), you can discern certain strengths and weaknesses of a creature you can see within 30 feet of yourself; you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
 
-Once you use this feature, you can't do so again until you finish a [[long-rest-xphb|Long Rest]]. You can also restore a use of the feature by expending one Superiority Die (no action required).
+Once you use this feature, you can't do so again until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md). You can also restore a use of the feature by expending one Superiority Die (no action required).
 
 ### Improved Combat Superiority (Level 10)
 
@@ -102,5 +117,5 @@ Your Superiority Die becomes a `d12`.
 ## Optional Features
 
 > [!example]- Optional Features: Maneuver, Battle Master
-> ![[list-optfeaturetype-mv-b#Maneuver,%20Battle%20Master|Maneuver, Battle Master]]
+> ![Maneuver, Battle Master](/Compendium/lists/list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
 ^list-optfeature-mv-b

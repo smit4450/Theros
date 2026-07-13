@@ -1,20 +1,20 @@
 ---
-title: Death Dog
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1
 - monster/environment/desert
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
-aliases: ["Death Dog"]
+aliases:
+- "Death Dog"
 ---
 # Death Dog
 *Source: Monster Manual (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/monstrosity/img/death-dog.webp#right)
 
-![](Compendium/bestiary/monstrosity/img/death-dog.webp#right|850)  
 ## Death Dog
 
 *Two-Headed Spreader of Disease*
@@ -24,7 +24,7 @@ aliases: ["Death Dog"]
 
 Death dogs are plagues on the arid lands they inhabit. These vicious, two-headed canines ambush creatures they perceive as weaker than themselves, favoring the wounded or infirm. They attack recklessly, infecting as many creatures as possible with their diseased jaws. If driven off, death dogs linger close to their victims, letting infection weaken their prey before they attack again.
 
-Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [[conditions#Poisoned|Poisoned]] condition from a death dog's Bite.
+Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition from a death dog's Bite.
 
 > [!quote] A quote from Tablet Fragment  
 > 
@@ -41,51 +41,36 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 | 5 | The victim to itch, as if they had fleas or sand beneath their skin. |
 | 6 | Wicked symbols to gradually appear on and spread across the victim's body. |
 ^death-dog-malady-symptoms
-```statblock
-"name": "Death Dog (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "39"
-"hit_dice": "6d8 + 12"
-"modifier": !!int "2"
-"stats":
-  - !!int "15"
-  - !!int "14"
-  - !!int "14"
-  - !!int "3"
-  - !!int "13"
-  - !!int "6"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
-"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
-  \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
-"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
-  \ 15"
-"languages": ""
-"cr": "1"
-"actions":
-  - "desc": "The death dog makes two Bite attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing\
-      \ damage. If the target is a creature, it is subjected to the following effect.\
-      \ *Constitution Saving Throw:* DC 12. *1St Failure:* The target has the [[conditions#Poisoned|Poisoned]]\
-      \ condition. While [[conditions#Poisoned|Poisoned]], the\
-      \ target's [[hit-points-xphb|Hit Point]] maximum\
-      \ doesn't return to normal when finishing a [[long-rest-xphb|Long Rest]],\
-      \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
-      \ on a success. Subsequent Failures: The [[conditions#Poisoned|Poisoned]]\
-      \ target's [[hit-points-xphb|Hit Point]] maximum\
-      \ decreases by 5 (1d10)."
-    "name": "Bite"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/monstrosity/token/death-dog-xmm.webp"
+
+```ad-statblock
+title: Death Dog
+![](/Compendium/bestiary/monstrosity/token/death-dog-xmm.webp#token)
+*Medium monstrosity, Neutral Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 39 (`6d8 + 12`) 
+- **Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|14 (+2)| 3 (-4)|13 (+1)| 6 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5, [Stealth](/Compendium/rules/skills.md#Stealth) +4
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 15
+- **Condition Immunities** [blinded](/Compendium/rules/conditions.md#Blinded), [charmed](/Compendium/rules/conditions.md#Charmed), [deafened](/Compendium/rules/conditions.md#Deafened), [frightened](/Compendium/rules/conditions.md#Frightened), [stunned](/Compendium/rules/conditions.md#Stunned), [unconscious](/Compendium/rules/conditions.md#Unconscious)
+- **Languages** —
+- **Challenge** 1
+
+## Actions
+
+***Multiattack.*** The death dog makes two Bite attacks.
+
+***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 4 (`1d4 + 2`) Piercing damage. If the target is a creature, it is subjected to the following effect. *Constitution Saving Throw:* DC 12. *1St Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition. While [Poisoned](/Compendium/rules/conditions.md#Poisoned), the target's [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum doesn't return to normal when finishing a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), and it repeats the save every 24 hours that elapse, ending the effect on itself on a success. Subsequent Failures: The [Poisoned](/Compendium/rules/conditions.md#Poisoned) target's [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum decreases by 5 (`1d10`).
 ```
 ^statblock
+
+## Environment
+
+desert

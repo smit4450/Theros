@@ -1,16 +1,16 @@
 ---
-title: Tome of Clear Thought
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Tome of Clear Thought"
 ---
 # Tome of Clear Thought
 *Wondrous item, very rare*  
-![](Compendium/items/img/tome-of-clear-thought.webp#right)
+![](/Compendium/items/img/tome-of-clear-thought.webp#right)
 
 - **Weight**: 5.0 lbs.
 

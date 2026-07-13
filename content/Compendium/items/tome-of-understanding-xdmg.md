@@ -1,16 +1,16 @@
 ---
-title: Tome of Understanding
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Tome of Understanding"
 ---
 # Tome of Understanding
 *Wondrous item, very rare*  
-![](Compendium/items/img/tome-of-understanding.webp#right)
+![](/Compendium/items/img/tome-of-understanding.webp#right)
 
 - **Weight**: 5.0 lbs.
 

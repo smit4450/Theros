@@ -1,13 +1,12 @@
 ---
-title: Paladin
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
 - class/paladin
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Paladin
+- "Paladin"
 ---
 # Paladin
 *Source: Player's Handbook (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -43,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](/Compendium/classes/img/paladin.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d10 per Paladin level
@@ -52,17 +53,16 @@ aliases:
 ## Starting Paladin
 
 - **Saving Throw Proficiencies**: Charisma, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [[skills#Athletics|Athletics]], [[skills#Insight|Insight]], [[skills#Intimidation|Intimidation]], [[skills#Medicine|Medicine]], [[skills#Persuasion|Persuasion]], or [[skills#Religion|Religion]]
+- **Skill Proficiencies**: *Choose 2:* [Athletics](/Compendium/rules/skills.md#Athletics), [Insight](/Compendium/rules/skills.md#Insight), [Intimidation](/Compendium/rules/skills.md#Intimidation), [Medicine](/Compendium/rules/skills.md#Medicine), [Persuasion](/Compendium/rules/skills.md#Persuasion), or [Religion](/Compendium/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[item-types#Heavy%20Armor|Heavy armor]], and [[shield-spell-xphb|Shields]]
+- **Armor Training**: [Light armor](/Compendium/rules/item-types.md#Light%20Armor), [Medium armor](/Compendium/rules/item-types.md#Medium%20Armor), [Heavy armor](/Compendium/rules/item-types.md#Heavy%20Armor), and [Shields](/Compendium/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [[chain-mail-xphb|Chain Mail]], [[shield-spell-xphb|Shield]], [[longsword-xphb|Longsword]], 6 [[javelin-xphb|Javelins]], [[holy-symbol-xphb|Holy Symbol]], [[priests-pack-xphb|Priest's Pack]], and 9 GP; or (B) 150 GP
+**Starting Equipment:** *Choose A or B:* (A) [Chain Mail](/Compendium/items/chain-mail-xphb.md), [Shield](/Compendium/items/shield-xphb.md), [Longsword](/Compendium/items/longsword-xphb.md), 6 [Javelins](/Compendium/items/javelin-xphb.md), [Holy Symbol](/Compendium/items/holy-symbol-xphb.md), [Priest's Pack](/Compendium/items/priests-pack-xphb.md), and 9 GP; or (B) 150 GP
 
 ## Multiclassing Paladin
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-spell-xphb|Shields]]
-
+- **Armor Training**: [Light armor](/Compendium/rules/item-types.md#Light%20Armor), [Medium armor](/Compendium/rules/item-types.md#Medium%20Armor), [Shields](/Compendium/items/shield-xphb.md)
 ## Paladin
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
@@ -75,45 +75,35 @@ Almost by definition, the life of a Paladin is an adventuring life, for every Pa
 
 ### Lay on Hands (Level 1)
 
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a [[long-rest-xphb|Long Rest]]. With that pool, you can restore a total number of [[hit-points-xphb|Hit Points]] equal to five times your Paladin level.
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md). With that pool, you can restore a total number of [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) equal to five times your Paladin level.
 
-As a [[bonus-action-xphb|Bonus Action]], you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of [[hit-points-xphb|Hit Points]] to that creature, up to the maximum amount remaining in the pool.
+As a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md), you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) to that creature, up to the maximum amount remaining in the pool.
 
-You can also expend 5 [[hit-points-xphb|Hit Points]] from the pool of healing power to remove the [[conditions#Poisoned|Poisoned]] condition from the creature; those points don't also restore [[hit-points-xphb|Hit Points]] to the creature.
+You can also expend 5 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) from the pool of healing power to remove the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition from the creature; those points don't also restore [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) to the creature.
 
 ### Spellcasting (Level 1)
 
 You have learned to cast spells through prayer and meditation. See "chapter 7" for the rules on spellcasting. The information below details how you use those rules with Paladin spells, which appear in the Paladin spell list later in the class's description.
 
-#### Spell Slots
+**Spell Slots.** The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
-The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[long-rest-xphb|Long Rest]].
-
-#### Prepared Spells of Level 1+
-
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [[heroism-xphb|Heroism]] and [[searing-smite-xphb|Searing Smite]] are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [Heroism](/Compendium/spells/heroism-xphb.md) and [Searing Smite](/Compendium/spells/searing-smite-xphb.md) are recommended.
 
 The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
 
 If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
 
-#### Changing Your Prepared Spells
+**Changing Your Prepared Spells.** Whenever you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), you can replace one spell on your list with another Paladin spell for which you have spell slots.
 
-Whenever you finish a [[long-rest-xphb|Long Rest]], you can replace one spell on your list with another Paladin spell for which you have spell slots.
+**Spellcasting Ability.** Charisma is your spellcasting ability for your Paladin spells.
 
-#### Spellcasting Ability
-
-Charisma is your spellcasting ability for your Paladin spells.
-
-#### Spellcasting Focus
-
-You can use a [[holy-symbol-xphb|Holy Symbol]] as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your Paladin spells.
+**Spellcasting Focus.** You can use a [Holy Symbol](/Compendium/items/holy-symbol-xphb.md) as a [Spellcasting Focus](/Compendium/rules/variant-rules/spellcasting-focus-xphb.md) for your Paladin spells.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [[weapon-mastery-properties-xphb|mastery properties]] of two kinds of weapons of your choice with which you have proficiency, such as [[longsword-xphb|Longswords]] and [[javelin-xphb|Javelins]].
+Your training with weapons allows you to use the [mastery properties](/Compendium/rules/item-mastery.md) of two kinds of weapons of your choice with which you have proficiency, such as [Longswords](/Compendium/items/longsword-xphb.md) and [Javelins](/Compendium/items/javelin-xphb.md).
 
-Whenever you finish a [[long-rest-xphb|Long Rest]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb|mastery properties]] of [[halberd-xphb|Halberds]] and [[flail-xphb|Flails]].
+Whenever you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](/Compendium/rules/item-mastery.md) of [Halberds](/Compendium/items/halberd-xphb.md) and [Flails](/Compendium/items/flail-xphb.md).
 
 ### Fighting Style (Level 2)
 
@@ -121,19 +111,19 @@ You gain a Fighting Style feat of your choice. Instead of choosing one of those 
 
 ### Paladin's Smite (Level 2)
 
-You always have the [[divine-smite-xphb|Divine Smite]] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a [[long-rest-xphb|Long Rest]] before you can cast it in this way again.
+You always have the [Divine Smite](/Compendium/spells/divine-smite-xphb.md) spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) before you can cast it in this way again.
 
 ### Channel Divinity (Level 3)
 
 You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class's Channel Divinity, you choose which effect from this class to create.
 
-You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [[short-rest-xphb|Short Rest]], and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]]. You gain an additional use when you reach Paladin level 11.
+You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [Short Rest](/Compendium/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md). You gain an additional use when you reach Paladin level 11.
 
 If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.
 
 ### Divine Sense (Level 3)
 
-As a [[bonus-action-xphb|Bonus Action]], you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the [[conditions#Incapacitated|Incapacitated]] condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[hallow-xphb|Hallow]] spell.
+As a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md), you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](/Compendium/spells/hallow-xphb.md) spell.
 
 ### Paladin Subclass (Level 3)
 
@@ -150,21 +140,21 @@ You gain a Paladin subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
+You gain the [Ability Score Improvement](/Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [[actions#Attack|Attack]] action on your turn.
+You can attack twice instead of once whenever you take the [Attack](/Compendium/rules/actions.md#Attack) action on your turn.
 
 ### Faithful Steed (Level 5)
 
-You can call on the aid of an otherworldly steed. You always have the [[find-steed-xphb|Find Steed]] spell prepared.
+You can call on the aid of an otherworldly steed. You always have the [Find Steed](/Compendium/spells/find-steed-xphb.md) spell prepared.
 
-You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a [[long-rest-xphb|Long Rest]].
+You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ### Aura of Protection (Level 6)
 
-You radiate a protective, unseeable aura in a 10-foot [[emanation-area-of-effect-xphb|Emanation]] that originates from you. The aura is inactive while you have the [[conditions#Incapacitated|Incapacitated]] condition.
+You radiate a protective, unseeable aura in a 10-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) that originates from you. The aura is inactive while you have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
 
 You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).
 
@@ -176,27 +166,27 @@ You gain a feature from your Paladin Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Abjure Foes (Level 9)
 
-As a [[actions#Magic|Magic]] action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[holy-symbol-xphb|Holy Symbol]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [[conditions#Frightened|Frightened]] condition for 1 minute or until it takes any damage. While [[conditions#Frightened|Frightened]] in this way, a target can do only one of the following on its turns: move, take an action, or take a [[bonus-action-xphb|Bonus Action]].
+As a [Magic](/Compendium/rules/actions.md#Magic) action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [Holy Symbol](/Compendium/items/holy-symbol-xphb.md) or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [Frightened](/Compendium/rules/conditions.md#Frightened) condition for 1 minute or until it takes any damage. While [Frightened](/Compendium/rules/conditions.md#Frightened) in this way, a target can do only one of the following on its turns: move, take an action, or take a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md).
 
 ### Aura of Courage (Level 10)
 
-You and your allies have [[immunity-xphb|Immunity]] to the [[conditions#Frightened|Frightened]] condition while in your Aura of Protection. If a [[conditions#Frightened|Frightened]] ally enters the aura, that condition has no effect on that ally while there.
+You and your allies have [Immunity](/Compendium/rules/variant-rules/immunity-xphb.md) to the [Frightened](/Compendium/rules/conditions.md#Frightened) condition while in your Aura of Protection. If a [Frightened](/Compendium/rules/conditions.md#Frightened) ally enters the aura, that condition has no effect on that ally while there.
 
 ### Radiant Strikes (Level 11)
 
-Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an [[unarmed-strike-xphb|Unarmed Strike]], the target takes an extra `1d8` Radiant damage.
+Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an [Unarmed Strike](/Compendium/rules/variant-rules/unarmed-strike-xphb.md), the target takes an extra `1d8` Radiant damage.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Restoring Touch (Level 14)
 
-When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [[conditions#Blinded|Blinded]], [[conditions#Charmed|Charmed]], [[conditions#Deafened|Deafened]], [[conditions#Frightened|Frightened]], [[conditions#Paralyzed|Paralyzed]], or [[conditions#Stunned|Stunned]]. You must expend 5 [[hit-points-xphb|Hit Points]] from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore [[hit-points-xphb|Hit Points]] to the creature.
+When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [Blinded](/Compendium/rules/conditions.md#Blinded), [Charmed](/Compendium/rules/conditions.md#Charmed), [Deafened](/Compendium/rules/conditions.md#Deafened), [Frightened](/Compendium/rules/conditions.md#Frightened), [Paralyzed](/Compendium/rules/conditions.md#Paralyzed), or [Stunned](/Compendium/rules/conditions.md#Stunned). You must expend 5 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) to the creature.
 
 ### Subclass Feature (Level 15)
 
@@ -204,15 +194,15 @@ You gain a feature from your Paladin Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Aura Expansion (Level 18)
 
-Your Aura of Protection is now a 30-foot [[emanation-area-of-effect-xphb|Emanation]].
+Your Aura of Protection is now a 30-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md).
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [[boon-of-truesight-xphb|Boon of Truesight]] is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Truesight](/Compendium/feats/boon-of-truesight-xphb.md) is recommended.
 
 ### Subclass Feature (Level 20)
 

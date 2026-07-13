@@ -1,20 +1,20 @@
 ---
-title: Warrior Infantry
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-8
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Warrior Infantry"]
+aliases:
+- "Warrior Infantry"
 ---
 # Warrior Infantry
-*Source: Monster Manual (2024) p. 320, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![An aasimar commander leads warriors charging into battle](/Compendium/bestiary/humanoid/img/warriors.webp#right)
 
-![An aasimar commander leads...](Compendium/bestiary/humanoid/img/warriors.webp#right|850)  
 Warrior infantry might be trainees or rank-and-file troops. They are skilled at contending with commonplace, nonmagical threats.
 
 ## Warriors
@@ -22,7 +22,7 @@ Warrior infantry might be trainees or rank-and-file troops. They are skilled at 
 *Soldiers and Scrappers*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Warriors are professionals who make a living through their prowess in battle. They might be skilled in using a variety of tactics or trained to take advantage of unusual battlefields. Warriors often work together, whether in armies or in teams with deliberate goals.
 
@@ -48,41 +48,40 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
+
 ## Statblock
 
-```statblock
-"name": "Warrior Infantry (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "13"
-"hp": !!int "9"
-"hit_dice": "2d8"
-"modifier": !!int "0"
-"stats":
-  - !!int "13"
-  - !!int "11"
-  - !!int "11"
-  - !!int "8"
-  - !!int "11"
-  - !!int "8"
-"speed": "30 ft."
-"senses": "passive Perception 10"
-"languages": "Common"
-"cr": "1/8"
-"traits":
-  - "desc": "The warrior has [[advantage-xphb|Advantage]]\
-      \ on an attack roll against a creature if at least one of the warrior's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
-      \ condition."
-    "name": "Pack Tactics"
-"actions":
-  - "desc": "*Melee  or Ranged Attack Roll:* +3, reach 5 ft. or range 20/60 ft.\
-      \ *Hit:* 4 (1d6 + 1) Piercing damage."
-    "name": "Spear"
-"source":
-  - "XMM"
-  - "FRHoF"
-"image": "Compendium/bestiary/humanoid/token/warrior-infantry-xmm.webp"
+```ad-statblock
+title: Warrior Infantry
+![](/Compendium/bestiary/humanoid/token/warrior-infantry-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 13 
+- **Hit Points** 9 (`2d8`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|11 (+0)|11 (+0)| 8 (-1)|11 (+0)| 8 (-1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** passive Perception 10
+- **Gear** [chain shirt](/Compendium/items/chain-shirt-xphb.md), [spear](/Compendium/items/spear-xphb.md)
+- **Languages** Common
+- **Challenge** 1/8
+
+## Traits
+
+***Pack Tactics.*** The warrior has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Spear.*** *Melee  or Ranged Attack Roll:* `+3`, reach 5 ft. or range 20/60 ft. *Hit:* 4 (`1d6 + 1`) Piercing damage.
 ```
 ^statblock
+
+## Environment
+
+any

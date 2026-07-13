@@ -1,20 +1,20 @@
 ---
-title: Gem of Seeing
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/rare
-aliases: 
+aliases:
 - "Gem of Seeing"
 ---
 # Gem of Seeing
 *Wondrous item, rare (requires attunement)*  
-![](Compendium/items/img/gem-of-seeing.webp#right)
+![](/Compendium/items/img/gem-of-seeing.webp#right)
 
 
-This gem has 3 charges. As a [[actions#Magic|Magic]] action, you can expend 1 charge. For the next 10 minutes, you have [[senses#Truesight|Truesight]] out to 120 feet when you peer through the gem.
+This gem has 3 charges. As a [Magic](/Compendium/rules/actions.md#Magic) action, you can expend 1 charge. For the next 10 minutes, you have [Truesight](/Compendium/rules/senses.md#Truesight) out to 120 feet when you peer through the gem.
 
 The gem regains `1d3` expended charges daily at dawn.
 

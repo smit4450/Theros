@@ -1,20 +1,20 @@
 ---
-title: "Quaal's Feather Token, Tree"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/uncommon
-aliases: 
+aliases:
 - "Quaal's Feather Token, Tree"
 ---
 # Quaal's Feather Token, Tree
 *Wondrous item, uncommon*  
-![](Compendium/items/img/quaals-feather-token-tree.webp#right)
+![](/Compendium/items/img/quaals-feather-token-tree.webp#right)
 
 
 This object looks like a feather.
 
-You must be outdoors to use this token. You can take a [[actions#Magic|Magic]] action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.
+You must be outdoors to use this token. You can take a [Magic](/Compendium/rules/actions.md#Magic) action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.
 
 *Source: Dungeon Master's Guide (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Feather Token, Tree") and the Free Rules (2024)*

@@ -1,16 +1,16 @@
 ---
-title: Tome of Leadership and Influence
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Tome of Leadership and Influence"
 ---
 # Tome of Leadership and Influence
 *Wondrous item, very rare*  
-![](Compendium/items/img/tome-of-leadership-and-influence.webp#right)
+![](/Compendium/items/img/tome-of-leadership-and-influence.webp#right)
 
 - **Weight**: 5.0 lbs.
 

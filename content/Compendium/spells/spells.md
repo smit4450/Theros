@@ -1,422 +1,400 @@
 ---
-title: Index of Spells
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
 # Index of Spells
 
-- [[acid-splash-xphb|Acid Splash]]
-- [[aid-xphb|Aid]]
-- [[alarm-xphb|Alarm]]
-- [[alter-self-xphb|Alter Self]]
-- [[alustriels-mooncloak-frhof|Alustriel's Mooncloak]]
-- [[animal-friendship-xphb|Animal Friendship]]
-- [[animal-messenger-xphb|Animal Messenger]]
-- [[animal-shapes-xphb|Animal Shapes]]
-- [[animate-dead-xphb|Animate Dead]]
-- [[animate-objects-xphb|Animate Objects]]
-- [[antilife-shell-xphb|Antilife Shell]]
-- [[antimagic-field-xphb|Antimagic Field]]
-- [[antipathy-sympathy-xphb|Antipathy/Sympathy]]
-- [[arcane-eye-xphb|Arcane Eye]]
-- [[arcane-gate-xphb|Arcane Gate]]
-- [[arcane-lock-xphb|Arcane Lock]]
-- [[arcane-vigor-xphb|Arcane Vigor]]
-- [[armor-of-agathys-xphb|Armor of Agathys]]
-- [[arms-of-hadar-xphb|Arms of Hadar]]
-- [[astral-projection-xphb|Astral Projection]]
-- [[augury-xphb|Augury]]
-- [[aura-of-life-xphb|Aura of Life]]
-- [[aura-of-purity-xphb|Aura of Purity]]
-- [[aura-of-vitality-xphb|Aura of Vitality]]
-- [[awaken-xphb|Awaken]]
-- [[backlash-frhof|Backlash]]
-- [[bane-xphb|Bane]]
-- [[banishing-smite-xphb|Banishing Smite]]
-- [[banishment-xphb|Banishment]]
-- [[barkskin-xphb|Barkskin]]
-- [[beacon-of-hope-xphb|Beacon of Hope]]
-- [[beast-sense-xphb|Beast Sense]]
-- [[befuddlement-xphb|Befuddlement]]
-- [[bestow-curse-xphb|Bestow Curse]]
-- [[bigbys-hand-xphb|Bigby's Hand]]
-- [[blade-barrier-xphb|Blade Barrier]]
-- [[blade-of-disaster-frhof|Blade of Disaster]]
-- [[blade-ward-xphb|Blade Ward]]
-- [[bless-xphb|Bless]]
-- [[blight-xphb|Blight]]
-- [[blinding-smite-xphb|Blinding Smite]]
-- [[blindness-deafness-xphb|Blindness/Deafness]]
-- [[blink-xphb|Blink]]
-- [[blur-xphb|Blur]]
-- [[burning-hands-xphb|Burning Hands]]
-- [[cacophonic-shield-frhof|Cacophonic Shield]]
-- [[call-lightning-xphb|Call Lightning]]
-- [[calm-emotions-xphb|Calm Emotions]]
-- [[chain-lightning-xphb|Chain Lightning]]
-- [[charm-monster-xphb|Charm Monster]]
-- [[charm-person-xphb|Charm Person]]
-- [[chill-touch-xphb|Chill Touch]]
-- [[chromatic-orb-xphb|Chromatic Orb]]
-- [[circle-of-death-xphb|Circle of Death]]
-- [[circle-of-power-xphb|Circle of Power]]
-- [[clairvoyance-xphb|Clairvoyance]]
-- [[clone-xphb|Clone]]
-- [[cloud-of-daggers-xphb|Cloud of Daggers]]
-- [[cloudkill-xphb|Cloudkill]]
-- [[color-spray-xphb|Color Spray]]
-- [[command-xphb|Command]]
-- [[commune-with-nature-xphb|Commune with Nature]]
-- [[commune-xphb|Commune]]
-- [[compelled-duel-xphb|Compelled Duel]]
-- [[comprehend-languages-xphb|Comprehend Languages]]
-- [[compulsion-xphb|Compulsion]]
-- [[cone-of-cold-xphb|Cone of Cold]]
-- [[confusion-xphb|Confusion]]
-- [[conjure-animals-xphb|Conjure Animals]]
-- [[conjure-barrage-xphb|Conjure Barrage]]
-- [[conjure-celestial-xphb|Conjure Celestial]]
-- [[conjure-constructs-frhof|Conjure Constructs]]
-- [[conjure-elemental-xphb|Conjure Elemental]]
-- [[conjure-fey-xphb|Conjure Fey]]
-- [[conjure-minor-elementals-xphb|Conjure Minor Elementals]]
-- [[conjure-volley-xphb|Conjure Volley]]
-- [[conjure-woodland-beings-xphb|Conjure Woodland Beings]]
-- [[contact-other-plane-xphb|Contact Other Plane]]
-- [[contagion-xphb|Contagion]]
-- [[contingency-xphb|Contingency]]
-- [[continual-flame-xphb|Continual Flame]]
-- [[control-water-xphb|Control Water]]
-- [[control-weather-xphb|Control Weather]]
-- [[cordon-of-arrows-xphb|Cordon of Arrows]]
-- [[counterspell-xphb|Counterspell]]
-- [[create-food-and-water-xphb|Create Food and Water]]
-- [[create-or-destroy-water-xphb|Create or Destroy Water]]
-- [[create-undead-xphb|Create Undead]]
-- [[creation-xphb|Creation]]
-- [[crown-of-madness-xphb|Crown of Madness]]
-- [[crusaders-mantle-xphb|Crusader's Mantle]]
-- [[cure-wounds-xphb|Cure Wounds]]
-- [[dancing-lights-xphb|Dancing Lights]]
-- [[darkness-xphb|Darkness]]
-- [[darkvision-xphb|Darkvision]]
-- [[daylight-xphb|Daylight]]
-- [[death-armor-frhof|Death Armor]]
-- [[death-ward-xphb|Death Ward]]
-- [[delayed-blast-fireball-xphb|Delayed Blast Fireball]]
-- [[demiplane-xphb|Demiplane]]
-- [[deryans-helpful-homunculi-frhof|Deryan's Helpful Homunculi]]
-- [[destructive-wave-xphb|Destructive Wave]]
-- [[detect-evil-and-good-xphb|Detect Evil and Good]]
-- [[detect-magic-xphb|Detect Magic]]
-- [[detect-poison-and-disease-xphb|Detect Poison and Disease]]
-- [[detect-thoughts-xphb|Detect Thoughts]]
-- [[dimension-door-xphb|Dimension Door]]
-- [[dirge-frhof|Dirge]]
-- [[disguise-self-xphb|Disguise Self]]
-- [[disintegrate-xphb|Disintegrate]]
-- [[dispel-evil-and-good-xphb|Dispel Evil and Good]]
-- [[dispel-magic-xphb|Dispel Magic]]
-- [[dissonant-whispers-xphb|Dissonant Whispers]]
-- [[divination-xphb|Divination]]
-- [[divine-favor-xphb|Divine Favor]]
-- [[divine-smite-xphb|Divine Smite]]
-- [[divine-word-xphb|Divine Word]]
-- [[dominate-beast-xphb|Dominate Beast]]
-- [[dominate-monster-xphb|Dominate Monster]]
-- [[dominate-person-xphb|Dominate Person]]
-- [[doomtide-frhof|Doomtide]]
-- [[dragons-breath-xphb|Dragon's Breath]]
-- [[drawmijs-instant-summons-xphb|Drawmij's Instant Summons]]
-- [[dream-xphb|Dream]]
-- [[druidcraft-xphb|Druidcraft]]
-- [[earthquake-xphb|Earthquake]]
-- [[eldritch-blast-xphb|Eldritch Blast]]
-- [[elemental-weapon-xphb|Elemental Weapon]]
-- [[elementalism-xphb|Elementalism]]
-- [[elminsters-effulgent-spheres-frhof|Elminster's Effulgent Spheres]]
-- [[elminsters-elusion-frhof|Elminster's Elusion]]
-- [[enhance-ability-xphb|Enhance Ability]]
-- [[enlarge-reduce-xphb|Enlarge/Reduce]]
-- [[ensnaring-strike-xphb|Ensnaring Strike]]
-- [[entangle-xphb|Entangle]]
-- [[enthrall-xphb|Enthrall]]
-- [[etherealness-xphb|Etherealness]]
-- [[evards-black-tentacles-xphb|Evard's Black Tentacles]]
-- [[expeditious-retreat-xphb|Expeditious Retreat]]
-- [[eyebite-xphb|Eyebite]]
-- [[fabricate-xphb|Fabricate]]
-- [[faerie-fire-xphb|Faerie Fire]]
-- [[false-life-xphb|False Life]]
-- [[fear-xphb|Fear]]
-- [[feather-fall-xphb|Feather Fall]]
-- [[feign-death-xphb|Feign Death]]
-- [[find-familiar-xphb|Find Familiar]]
-- [[find-steed-xphb|Find Steed]]
-- [[find-the-path-xphb|Find the Path]]
-- [[find-traps-xphb|Find Traps]]
-- [[finger-of-death-xphb|Finger of Death]]
-- [[fire-bolt-xphb|Fire Bolt]]
-- [[fire-shield-xphb|Fire Shield]]
-- [[fire-storm-xphb|Fire Storm]]
-- [[fireball-xphb|Fireball]]
-- [[flame-blade-xphb|Flame Blade]]
-- [[flame-strike-xphb|Flame Strike]]
-- [[flaming-sphere-xphb|Flaming Sphere]]
-- [[flesh-to-stone-xphb|Flesh to Stone]]
-- [[fly-xphb|Fly]]
-- [[fog-cloud-xphb|Fog Cloud]]
-- [[forbiddance-xphb|Forbiddance]]
-- [[forcecage-xphb|Forcecage]]
-- [[foresight-xphb|Foresight]]
-- [[fount-of-moonlight-xphb|Fount of Moonlight]]
-- [[freedom-of-movement-xphb|Freedom of Movement]]
-- [[friends-xphb|Friends]]
-- [[gaseous-form-xphb|Gaseous Form]]
-- [[gate-xphb|Gate]]
-- [[geas-xphb|Geas]]
-- [[gentle-repose-xphb|Gentle Repose]]
-- [[giant-insect-xphb|Giant Insect]]
-- [[glibness-xphb|Glibness]]
-- [[globe-of-invulnerability-xphb|Globe of Invulnerability]]
-- [[glyph-of-warding-xphb|Glyph of Warding]]
-- [[goodberry-xphb|Goodberry]]
-- [[grasping-vine-xphb|Grasping Vine]]
-- [[grease-xphb|Grease]]
-- [[greater-invisibility-xphb|Greater Invisibility]]
-- [[greater-restoration-xphb|Greater Restoration]]
-- [[guardian-of-faith-xphb|Guardian of Faith]]
-- [[guards-and-wards-xphb|Guards and Wards]]
-- [[guidance-xphb|Guidance]]
-- [[guiding-bolt-xphb|Guiding Bolt]]
-- [[gust-of-wind-xphb|Gust of Wind]]
-- [[hail-of-thorns-xphb|Hail of Thorns]]
-- [[hallow-xphb|Hallow]]
-- [[hallucinatory-terrain-xphb|Hallucinatory Terrain]]
-- [[harm-xphb|Harm]]
-- [[haste-xphb|Haste]]
-- [[heal-xphb|Heal]]
-- [[healing-word-xphb|Healing Word]]
-- [[heat-metal-xphb|Heat Metal]]
-- [[hellish-rebuke-xphb|Hellish Rebuke]]
-- [[heroes-feast-xphb|Heroes' Feast]]
-- [[heroism-xphb|Heroism]]
-- [[hex-xphb|Hex]]
-- [[hold-monster-xphb|Hold Monster]]
-- [[hold-person-xphb|Hold Person]]
-- [[holy-aura-xphb|Holy Aura]]
-- [[holy-star-of-mystra-frhof|Holy Star of Mystra]]
-- [[hunger-of-hadar-xphb|Hunger of Hadar]]
-- [[hunters-mark-xphb|Hunter's Mark]]
-- [[hypnotic-pattern-xphb|Hypnotic Pattern]]
-- [[ice-knife-xphb|Ice Knife]]
-- [[ice-storm-xphb|Ice Storm]]
-- [[identify-xphb|Identify]]
-- [[illusory-script-xphb|Illusory Script]]
-- [[imprisonment-xphb|Imprisonment]]
-- [[incendiary-cloud-xphb|Incendiary Cloud]]
-- [[inflict-wounds-xphb|Inflict Wounds]]
-- [[insect-plague-xphb|Insect Plague]]
-- [[invisibility-xphb|Invisibility]]
-- [[jallarzis-storm-of-radiance-xphb|Jallarzi's Storm of Radiance]]
-- [[jump-xphb|Jump]]
-- [[knock-xphb|Knock]]
-- [[laerals-silver-lance-frhof|Laeral's Silver Lance]]
-- [[legend-lore-xphb|Legend Lore]]
-- [[leomunds-secret-chest-xphb|Leomund's Secret Chest]]
-- [[leomunds-tiny-hut-xphb|Leomund's Tiny Hut]]
-- [[lesser-restoration-xphb|Lesser Restoration]]
-- [[levitate-xphb|Levitate]]
-- [[light-xphb|Light]]
-- [[lightning-arrow-xphb|Lightning Arrow]]
-- [[lightning-bolt-xphb|Lightning Bolt]]
-- [[locate-animals-or-plants-xphb|Locate Animals or Plants]]
-- [[locate-creature-xphb|Locate Creature]]
-- [[locate-object-xphb|Locate Object]]
-- [[longstrider-xphb|Longstrider]]
-- [[mage-armor-xphb|Mage Armor]]
-- [[mage-hand-xphb|Mage Hand]]
-- [[magic-circle-xphb|Magic Circle]]
-- [[magic-jar-xphb|Magic Jar]]
-- [[magic-missile-xphb|Magic Missile]]
-- [[magic-mouth-xphb|Magic Mouth]]
-- [[magic-weapon-xphb|Magic Weapon]]
-- [[major-image-xphb|Major Image]]
-- [[mass-cure-wounds-xphb|Mass Cure Wounds]]
-- [[mass-heal-xphb|Mass Heal]]
-- [[mass-healing-word-xphb|Mass Healing Word]]
-- [[mass-suggestion-xphb|Mass Suggestion]]
-- [[maze-xphb|Maze]]
-- [[meld-into-stone-xphb|Meld into Stone]]
-- [[melfs-acid-arrow-xphb|Melf's Acid Arrow]]
-- [[mending-xphb|Mending]]
-- [[message-xphb|Message]]
-- [[meteor-swarm-xphb|Meteor Swarm]]
-- [[mind-blank-xphb|Mind Blank]]
-- [[mind-sliver-xphb|Mind Sliver]]
-- [[mind-spike-xphb|Mind Spike]]
-- [[minor-illusion-xphb|Minor Illusion]]
-- [[mirage-arcane-xphb|Mirage Arcane]]
-- [[mirror-image-xphb|Mirror Image]]
-- [[mislead-xphb|Mislead]]
-- [[misty-step-xphb|Misty Step]]
-- [[modify-memory-xphb|Modify Memory]]
-- [[moonbeam-xphb|Moonbeam]]
-- [[mordenkainens-faithful-hound-xphb|Mordenkainen's Faithful Hound]]
-- [[mordenkainens-magnificent-mansion-xphb|Mordenkainen's Magnificent Mansion]]
-- [[mordenkainens-private-sanctum-xphb|Mordenkainen's Private Sanctum]]
-- [[mordenkainens-sword-xphb|Mordenkainen's Sword]]
-- [[move-earth-xphb|Move Earth]]
-- [[nondetection-xphb|Nondetection]]
-- [[nystuls-magic-aura-xphb|Nystul's Magic Aura]]
-- [[otilukes-freezing-sphere-xphb|Otiluke's Freezing Sphere]]
-- [[otilukes-resilient-sphere-xphb|Otiluke's Resilient Sphere]]
-- [[ottos-irresistible-dance-xphb|Otto's Irresistible Dance]]
-- [[pass-without-trace-xphb|Pass without Trace]]
-- [[passwall-xphb|Passwall]]
-- [[phantasmal-force-xphb|Phantasmal Force]]
-- [[phantasmal-killer-xphb|Phantasmal Killer]]
-- [[phantom-steed-xphb|Phantom Steed]]
-- [[planar-ally-xphb|Planar Ally]]
-- [[planar-binding-xphb|Planar Binding]]
-- [[plane-shift-xphb|Plane Shift]]
-- [[plant-growth-xphb|Plant Growth]]
-- [[poison-spray-xphb|Poison Spray]]
-- [[polymorph-xphb|Polymorph]]
-- [[power-word-fortify-xphb|Power Word Fortify]]
-- [[power-word-heal-xphb|Power Word Heal]]
-- [[power-word-kill-xphb|Power Word Kill]]
-- [[power-word-stun-xphb|Power Word Stun]]
-- [[prayer-of-healing-xphb|Prayer of Healing]]
-- [[prestidigitation-xphb|Prestidigitation]]
-- [[prismatic-spray-xphb|Prismatic Spray]]
-- [[prismatic-wall-xphb|Prismatic Wall]]
-- [[produce-flame-xphb|Produce Flame]]
-- [[programmed-illusion-xphb|Programmed Illusion]]
-- [[project-image-xphb|Project Image]]
-- [[protection-from-energy-xphb|Protection from Energy]]
-- [[protection-from-evil-and-good-xphb|Protection from Evil and Good]]
-- [[protection-from-poison-xphb|Protection from Poison]]
-- [[purify-food-and-drink-xphb|Purify Food and Drink]]
-- [[raise-dead-xphb|Raise Dead]]
-- [[rarys-telepathic-bond-xphb|Rary's Telepathic Bond]]
-- [[ray-of-enfeeblement-xphb|Ray of Enfeeblement]]
-- [[ray-of-frost-xphb|Ray of Frost]]
-- [[ray-of-sickness-xphb|Ray of Sickness]]
-- [[regenerate-xphb|Regenerate]]
-- [[reincarnate-xphb|Reincarnate]]
-- [[remove-curse-xphb|Remove Curse]]
-- [[resistance-xphb|Resistance]]
-- [[resurrection-xphb|Resurrection]]
-- [[reverse-gravity-xphb|Reverse Gravity]]
-- [[revivify-xphb|Revivify]]
-- [[rope-trick-xphb|Rope Trick]]
-- [[sacred-flame-xphb|Sacred Flame]]
-- [[sanctuary-xphb|Sanctuary]]
-- [[scorching-ray-xphb|Scorching Ray]]
-- [[scrying-xphb|Scrying]]
-- [[searing-smite-xphb|Searing Smite]]
-- [[see-invisibility-xphb|See Invisibility]]
-- [[seeming-xphb|Seeming]]
-- [[sending-xphb|Sending]]
-- [[sequester-xphb|Sequester]]
-- [[shapechange-xphb|Shapechange]]
-- [[shatter-xphb|Shatter]]
-- [[shield-of-faith-xphb|Shield of Faith]]
-- [[shield-xphb|Shield]]
-- [[shillelagh-xphb|Shillelagh]]
-- [[shining-smite-xphb|Shining Smite]]
-- [[shocking-grasp-xphb|Shocking Grasp]]
-- [[silence-xphb|Silence]]
-- [[silent-image-xphb|Silent Image]]
-- [[simbuls-synostodweomer-frhof|Simbul's Synostodweomer]]
-- [[simulacrum-xphb|Simulacrum]]
-- [[sleep-xphb|Sleep]]
-- [[sleet-storm-xphb|Sleet Storm]]
-- [[slow-xphb|Slow]]
-- [[songals-elemental-suffusion-frhof|Songal's Elemental Suffusion]]
-- [[sorcerous-burst-xphb|Sorcerous Burst]]
-- [[spare-the-dying-xphb|Spare the Dying]]
-- [[speak-with-animals-xphb|Speak with Animals]]
-- [[speak-with-dead-xphb|Speak with Dead]]
-- [[speak-with-plants-xphb|Speak with Plants]]
-- [[spellfire-flare-frhof|Spellfire Flare]]
-- [[spellfire-storm-frhof|Spellfire Storm]]
-- [[spider-climb-xphb|Spider Climb]]
-- [[spike-growth-xphb|Spike Growth]]
-- [[spirit-guardians-xphb|Spirit Guardians]]
-- [[spiritual-weapon-xphb|Spiritual Weapon]]
-- [[staggering-smite-xphb|Staggering Smite]]
-- [[starry-wisp-xphb|Starry Wisp]]
-- [[steel-wind-strike-xphb|Steel Wind Strike]]
-- [[stinking-cloud-xphb|Stinking Cloud]]
-- [[stone-shape-xphb|Stone Shape]]
-- [[stoneskin-xphb|Stoneskin]]
-- [[storm-of-vengeance-xphb|Storm of Vengeance]]
-- [[suggestion-xphb|Suggestion]]
-- [[summon-aberration-xphb|Summon Aberration]]
-- [[summon-beast-xphb|Summon Beast]]
-- [[summon-celestial-xphb|Summon Celestial]]
-- [[summon-construct-xphb|Summon Construct]]
-- [[summon-dragon-xphb|Summon Dragon]]
-- [[summon-elemental-xphb|Summon Elemental]]
-- [[summon-fey-xphb|Summon Fey]]
-- [[summon-fiend-xphb|Summon Fiend]]
-- [[summon-undead-xphb|Summon Undead]]
-- [[sunbeam-xphb|Sunbeam]]
-- [[sunburst-xphb|Sunburst]]
-- [[swift-quiver-xphb|Swift Quiver]]
-- [[sylunes-viper-frhof|Syluné's Viper]]
-- [[symbol-xphb|Symbol]]
-- [[synaptic-static-xphb|Synaptic Static]]
-- [[tashas-bubbling-cauldron-xphb|Tasha's Bubbling Cauldron]]
-- [[tashas-hideous-laughter-xphb|Tasha's Hideous Laughter]]
-- [[telekinesis-xphb|Telekinesis]]
-- [[telepathy-xphb|Telepathy]]
-- [[teleport-xphb|Teleport]]
-- [[teleportation-circle-xphb|Teleportation Circle]]
-- [[tensers-floating-disk-xphb|Tenser's Floating Disk]]
-- [[thaumaturgy-xphb|Thaumaturgy]]
-- [[thorn-whip-xphb|Thorn Whip]]
-- [[thunderclap-xphb|Thunderclap]]
-- [[thunderous-smite-xphb|Thunderous Smite]]
-- [[thunderwave-xphb|Thunderwave]]
-- [[time-stop-xphb|Time Stop]]
-- [[toll-the-dead-xphb|Toll the Dead]]
-- [[tongues-xphb|Tongues]]
-- [[transport-via-plants-xphb|Transport via Plants]]
-- [[tree-stride-xphb|Tree Stride]]
-- [[true-polymorph-xphb|True Polymorph]]
-- [[true-resurrection-xphb|True Resurrection]]
-- [[true-seeing-xphb|True Seeing]]
-- [[true-strike-xphb|True Strike]]
-- [[tsunami-xphb|Tsunami]]
-- [[unseen-servant-xphb|Unseen Servant]]
-- [[vampiric-touch-xphb|Vampiric Touch]]
-- [[vicious-mockery-xphb|Vicious Mockery]]
-- [[vitriolic-sphere-xphb|Vitriolic Sphere]]
-- [[wall-of-fire-xphb|Wall of Fire]]
-- [[wall-of-force-xphb|Wall of Force]]
-- [[wall-of-ice-xphb|Wall of Ice]]
-- [[wall-of-stone-xphb|Wall of Stone]]
-- [[wall-of-thorns-xphb|Wall of Thorns]]
-- [[wall-of-water-xge|Wall of Water]]
-- [[wardaway-frhof|Wardaway]]
-- [[warding-bond-xphb|Warding Bond]]
-- [[water-breathing-xphb|Water Breathing]]
-- [[water-walk-xphb|Water Walk]]
-- [[web-xphb|Web]]
-- [[weird-xphb|Weird]]
-- [[wind-walk-xphb|Wind Walk]]
-- [[wind-wall-xphb|Wind Wall]]
-- [[wish-xphb|Wish]]
-- [[witch-bolt-xphb|Witch Bolt]]
-- [[word-of-radiance-xphb|Word of Radiance]]
-- [[word-of-recall-xphb|Word of Recall]]
-- [[wrathful-smite-xphb|Wrathful Smite]]
-- [[yolandes-regal-presence-xphb|Yolande's Regal Presence]]
-- [[zone-of-truth-xphb|Zone of Truth]]
+- [Acid Splash](./acid-splash-xphb.md)
+- [Aid](./aid-xphb.md)
+- [Alarm](./alarm-xphb.md)
+- [Alter Self](./alter-self-xphb.md)
+- [Animal Friendship](./animal-friendship-xphb.md)
+- [Animal Messenger](./animal-messenger-xphb.md)
+- [Animal Shapes](./animal-shapes-xphb.md)
+- [Animate Dead](./animate-dead-xphb.md)
+- [Animate Objects](./animate-objects-xphb.md)
+- [Antilife Shell](./antilife-shell-xphb.md)
+- [Antimagic Field](./antimagic-field-xphb.md)
+- [Antipathy/Sympathy](./antipathy-sympathy-xphb.md)
+- [Arcane Eye](./arcane-eye-xphb.md)
+- [Arcane Gate](./arcane-gate-xphb.md)
+- [Arcane Lock](./arcane-lock-xphb.md)
+- [Arcane Vigor](./arcane-vigor-xphb.md)
+- [Armor of Agathys](./armor-of-agathys-xphb.md)
+- [Arms of Hadar](./arms-of-hadar-xphb.md)
+- [Astral Projection](./astral-projection-xphb.md)
+- [Augury](./augury-xphb.md)
+- [Aura of Life](./aura-of-life-xphb.md)
+- [Aura of Purity](./aura-of-purity-xphb.md)
+- [Aura of Vitality](./aura-of-vitality-xphb.md)
+- [Awaken](./awaken-xphb.md)
+- [Bane](./bane-xphb.md)
+- [Banishing Smite](./banishing-smite-xphb.md)
+- [Banishment](./banishment-xphb.md)
+- [Barkskin](./barkskin-xphb.md)
+- [Beacon of Hope](./beacon-of-hope-xphb.md)
+- [Beast Sense](./beast-sense-xphb.md)
+- [Befuddlement](./befuddlement-xphb.md)
+- [Bestow Curse](./bestow-curse-xphb.md)
+- [Bigby's Hand](./bigbys-hand-xphb.md)
+- [Blade Barrier](./blade-barrier-xphb.md)
+- [Blade Ward](./blade-ward-xphb.md)
+- [Bless](./bless-xphb.md)
+- [Blight](./blight-xphb.md)
+- [Blinding Smite](./blinding-smite-xphb.md)
+- [Blindness/Deafness](./blindness-deafness-xphb.md)
+- [Blink](./blink-xphb.md)
+- [Blur](./blur-xphb.md)
+- [Burning Hands](./burning-hands-xphb.md)
+- [Call Lightning](./call-lightning-xphb.md)
+- [Calm Emotions](./calm-emotions-xphb.md)
+- [Chain Lightning](./chain-lightning-xphb.md)
+- [Charm Monster](./charm-monster-xphb.md)
+- [Charm Person](./charm-person-xphb.md)
+- [Chill Touch](./chill-touch-xphb.md)
+- [Chromatic Orb](./chromatic-orb-xphb.md)
+- [Circle of Death](./circle-of-death-xphb.md)
+- [Circle of Power](./circle-of-power-xphb.md)
+- [Clairvoyance](./clairvoyance-xphb.md)
+- [Clone](./clone-xphb.md)
+- [Cloud of Daggers](./cloud-of-daggers-xphb.md)
+- [Cloudkill](./cloudkill-xphb.md)
+- [Color Spray](./color-spray-xphb.md)
+- [Command](./command-xphb.md)
+- [Commune](./commune-xphb.md)
+- [Commune with Nature](./commune-with-nature-xphb.md)
+- [Compelled Duel](./compelled-duel-xphb.md)
+- [Comprehend Languages](./comprehend-languages-xphb.md)
+- [Compulsion](./compulsion-xphb.md)
+- [Cone of Cold](./cone-of-cold-xphb.md)
+- [Confusion](./confusion-xphb.md)
+- [Conjure Animals](./conjure-animals-xphb.md)
+- [Conjure Barrage](./conjure-barrage-xphb.md)
+- [Conjure Celestial](./conjure-celestial-xphb.md)
+- [Conjure Elemental](./conjure-elemental-xphb.md)
+- [Conjure Fey](./conjure-fey-xphb.md)
+- [Conjure Minor Elementals](./conjure-minor-elementals-xphb.md)
+- [Conjure Volley](./conjure-volley-xphb.md)
+- [Conjure Woodland Beings](./conjure-woodland-beings-xphb.md)
+- [Contact Other Plane](./contact-other-plane-xphb.md)
+- [Contagion](./contagion-xphb.md)
+- [Contingency](./contingency-xphb.md)
+- [Continual Flame](./continual-flame-xphb.md)
+- [Control Water](./control-water-xphb.md)
+- [Control Weather](./control-weather-xphb.md)
+- [Cordon of Arrows](./cordon-of-arrows-xphb.md)
+- [Counterspell](./counterspell-xphb.md)
+- [Create Food and Water](./create-food-and-water-xphb.md)
+- [Create Undead](./create-undead-xphb.md)
+- [Create or Destroy Water](./create-or-destroy-water-xphb.md)
+- [Creation](./creation-xphb.md)
+- [Crown of Madness](./crown-of-madness-xphb.md)
+- [Crusader's Mantle](./crusaders-mantle-xphb.md)
+- [Cure Wounds](./cure-wounds-xphb.md)
+- [Dancing Lights](./dancing-lights-xphb.md)
+- [Darkness](./darkness-xphb.md)
+- [Darkvision](./darkvision-xphb.md)
+- [Daylight](./daylight-xphb.md)
+- [Death Ward](./death-ward-xphb.md)
+- [Delayed Blast Fireball](./delayed-blast-fireball-xphb.md)
+- [Demiplane](./demiplane-xphb.md)
+- [Destructive Wave](./destructive-wave-xphb.md)
+- [Detect Evil and Good](./detect-evil-and-good-xphb.md)
+- [Detect Magic](./detect-magic-xphb.md)
+- [Detect Poison and Disease](./detect-poison-and-disease-xphb.md)
+- [Detect Thoughts](./detect-thoughts-xphb.md)
+- [Dimension Door](./dimension-door-xphb.md)
+- [Disguise Self](./disguise-self-xphb.md)
+- [Disintegrate](./disintegrate-xphb.md)
+- [Dispel Evil and Good](./dispel-evil-and-good-xphb.md)
+- [Dispel Magic](./dispel-magic-xphb.md)
+- [Dissonant Whispers](./dissonant-whispers-xphb.md)
+- [Divination](./divination-xphb.md)
+- [Divine Favor](./divine-favor-xphb.md)
+- [Divine Smite](./divine-smite-xphb.md)
+- [Divine Word](./divine-word-xphb.md)
+- [Dominate Beast](./dominate-beast-xphb.md)
+- [Dominate Monster](./dominate-monster-xphb.md)
+- [Dominate Person](./dominate-person-xphb.md)
+- [Dragon's Breath](./dragons-breath-xphb.md)
+- [Drawmij's Instant Summons](./drawmijs-instant-summons-xphb.md)
+- [Dream](./dream-xphb.md)
+- [Druidcraft](./druidcraft-xphb.md)
+- [Earthquake](./earthquake-xphb.md)
+- [Eldritch Blast](./eldritch-blast-xphb.md)
+- [Elemental Weapon](./elemental-weapon-xphb.md)
+- [Elementalism](./elementalism-xphb.md)
+- [Enhance Ability](./enhance-ability-xphb.md)
+- [Enlarge/Reduce](./enlarge-reduce-xphb.md)
+- [Ensnaring Strike](./ensnaring-strike-xphb.md)
+- [Entangle](./entangle-xphb.md)
+- [Enthrall](./enthrall-xphb.md)
+- [Etherealness](./etherealness-xphb.md)
+- [Evard's Black Tentacles](./evards-black-tentacles-xphb.md)
+- [Expeditious Retreat](./expeditious-retreat-xphb.md)
+- [Eyebite](./eyebite-xphb.md)
+- [Fabricate](./fabricate-xphb.md)
+- [Faerie Fire](./faerie-fire-xphb.md)
+- [False Life](./false-life-xphb.md)
+- [Fear](./fear-xphb.md)
+- [Feather Fall](./feather-fall-xphb.md)
+- [Feign Death](./feign-death-xphb.md)
+- [Find Familiar](./find-familiar-xphb.md)
+- [Find Steed](./find-steed-xphb.md)
+- [Find Traps](./find-traps-xphb.md)
+- [Find the Path](./find-the-path-xphb.md)
+- [Finger of Death](./finger-of-death-xphb.md)
+- [Fire Bolt](./fire-bolt-xphb.md)
+- [Fire Shield](./fire-shield-xphb.md)
+- [Fire Storm](./fire-storm-xphb.md)
+- [Fireball](./fireball-xphb.md)
+- [Flame Blade](./flame-blade-xphb.md)
+- [Flame Strike](./flame-strike-xphb.md)
+- [Flaming Sphere](./flaming-sphere-xphb.md)
+- [Flesh to Stone](./flesh-to-stone-xphb.md)
+- [Fly](./fly-xphb.md)
+- [Fog Cloud](./fog-cloud-xphb.md)
+- [Forbiddance](./forbiddance-xphb.md)
+- [Forcecage](./forcecage-xphb.md)
+- [Foresight](./foresight-xphb.md)
+- [Fount of Moonlight](./fount-of-moonlight-xphb.md)
+- [Freedom of Movement](./freedom-of-movement-xphb.md)
+- [Friends](./friends-xphb.md)
+- [Gaseous Form](./gaseous-form-xphb.md)
+- [Gate](./gate-xphb.md)
+- [Geas](./geas-xphb.md)
+- [Gentle Repose](./gentle-repose-xphb.md)
+- [Giant Insect](./giant-insect-xphb.md)
+- [Glibness](./glibness-xphb.md)
+- [Globe of Invulnerability](./globe-of-invulnerability-xphb.md)
+- [Glyph of Warding](./glyph-of-warding-xphb.md)
+- [Goodberry](./goodberry-xphb.md)
+- [Grasping Vine](./grasping-vine-xphb.md)
+- [Grease](./grease-xphb.md)
+- [Greater Invisibility](./greater-invisibility-xphb.md)
+- [Greater Restoration](./greater-restoration-xphb.md)
+- [Guardian of Faith](./guardian-of-faith-xphb.md)
+- [Guards and Wards](./guards-and-wards-xphb.md)
+- [Guidance](./guidance-xphb.md)
+- [Guiding Bolt](./guiding-bolt-xphb.md)
+- [Gust of Wind](./gust-of-wind-xphb.md)
+- [Hail of Thorns](./hail-of-thorns-xphb.md)
+- [Hallow](./hallow-xphb.md)
+- [Hallucinatory Terrain](./hallucinatory-terrain-xphb.md)
+- [Harm](./harm-xphb.md)
+- [Haste](./haste-xphb.md)
+- [Heal](./heal-xphb.md)
+- [Healing Word](./healing-word-xphb.md)
+- [Heat Metal](./heat-metal-xphb.md)
+- [Hellish Rebuke](./hellish-rebuke-xphb.md)
+- [Heroes' Feast](./heroes-feast-xphb.md)
+- [Heroism](./heroism-xphb.md)
+- [Hex](./hex-xphb.md)
+- [Hold Monster](./hold-monster-xphb.md)
+- [Hold Person](./hold-person-xphb.md)
+- [Holy Aura](./holy-aura-xphb.md)
+- [Hunger of Hadar](./hunger-of-hadar-xphb.md)
+- [Hunter's Mark](./hunters-mark-xphb.md)
+- [Hypnotic Pattern](./hypnotic-pattern-xphb.md)
+- [Ice Knife](./ice-knife-xphb.md)
+- [Ice Storm](./ice-storm-xphb.md)
+- [Identify](./identify-xphb.md)
+- [Illusory Script](./illusory-script-xphb.md)
+- [Imprisonment](./imprisonment-xphb.md)
+- [Incendiary Cloud](./incendiary-cloud-xphb.md)
+- [Inflict Wounds](./inflict-wounds-xphb.md)
+- [Insect Plague](./insect-plague-xphb.md)
+- [Invisibility](./invisibility-xphb.md)
+- [Jallarzi's Storm of Radiance](./jallarzis-storm-of-radiance-xphb.md)
+- [Jump](./jump-xphb.md)
+- [Knock](./knock-xphb.md)
+- [Legend Lore](./legend-lore-xphb.md)
+- [Leomund's Secret Chest](./leomunds-secret-chest-xphb.md)
+- [Leomund's Tiny Hut](./leomunds-tiny-hut-xphb.md)
+- [Lesser Restoration](./lesser-restoration-xphb.md)
+- [Levitate](./levitate-xphb.md)
+- [Light](./light-xphb.md)
+- [Lightning Arrow](./lightning-arrow-xphb.md)
+- [Lightning Bolt](./lightning-bolt-xphb.md)
+- [Locate Animals or Plants](./locate-animals-or-plants-xphb.md)
+- [Locate Creature](./locate-creature-xphb.md)
+- [Locate Object](./locate-object-xphb.md)
+- [Longstrider](./longstrider-xphb.md)
+- [Mage Armor](./mage-armor-xphb.md)
+- [Mage Hand](./mage-hand-xphb.md)
+- [Magic Circle](./magic-circle-xphb.md)
+- [Magic Jar](./magic-jar-xphb.md)
+- [Magic Missile](./magic-missile-xphb.md)
+- [Magic Mouth](./magic-mouth-xphb.md)
+- [Magic Weapon](./magic-weapon-xphb.md)
+- [Major Image](./major-image-xphb.md)
+- [Mass Cure Wounds](./mass-cure-wounds-xphb.md)
+- [Mass Heal](./mass-heal-xphb.md)
+- [Mass Healing Word](./mass-healing-word-xphb.md)
+- [Mass Suggestion](./mass-suggestion-xphb.md)
+- [Maze](./maze-xphb.md)
+- [Meld into Stone](./meld-into-stone-xphb.md)
+- [Melf's Acid Arrow](./melfs-acid-arrow-xphb.md)
+- [Mending](./mending-xphb.md)
+- [Message](./message-xphb.md)
+- [Meteor Swarm](./meteor-swarm-xphb.md)
+- [Mind Blank](./mind-blank-xphb.md)
+- [Mind Sliver](./mind-sliver-xphb.md)
+- [Mind Spike](./mind-spike-xphb.md)
+- [Minor Illusion](./minor-illusion-xphb.md)
+- [Mirage Arcane](./mirage-arcane-xphb.md)
+- [Mirror Image](./mirror-image-xphb.md)
+- [Mislead](./mislead-xphb.md)
+- [Misty Step](./misty-step-xphb.md)
+- [Modify Memory](./modify-memory-xphb.md)
+- [Moonbeam](./moonbeam-xphb.md)
+- [Mordenkainen's Faithful Hound](./mordenkainens-faithful-hound-xphb.md)
+- [Mordenkainen's Magnificent Mansion](./mordenkainens-magnificent-mansion-xphb.md)
+- [Mordenkainen's Private Sanctum](./mordenkainens-private-sanctum-xphb.md)
+- [Mordenkainen's Sword](./mordenkainens-sword-xphb.md)
+- [Move Earth](./move-earth-xphb.md)
+- [Nondetection](./nondetection-xphb.md)
+- [Nystul's Magic Aura](./nystuls-magic-aura-xphb.md)
+- [Otiluke's Freezing Sphere](./otilukes-freezing-sphere-xphb.md)
+- [Otiluke's Resilient Sphere](./otilukes-resilient-sphere-xphb.md)
+- [Otto's Irresistible Dance](./ottos-irresistible-dance-xphb.md)
+- [Pass without Trace](./pass-without-trace-xphb.md)
+- [Passwall](./passwall-xphb.md)
+- [Phantasmal Force](./phantasmal-force-xphb.md)
+- [Phantasmal Killer](./phantasmal-killer-xphb.md)
+- [Phantom Steed](./phantom-steed-xphb.md)
+- [Planar Ally](./planar-ally-xphb.md)
+- [Planar Binding](./planar-binding-xphb.md)
+- [Plane Shift](./plane-shift-xphb.md)
+- [Plant Growth](./plant-growth-xphb.md)
+- [Poison Spray](./poison-spray-xphb.md)
+- [Polymorph](./polymorph-xphb.md)
+- [Power Word Fortify](./power-word-fortify-xphb.md)
+- [Power Word Heal](./power-word-heal-xphb.md)
+- [Power Word Kill](./power-word-kill-xphb.md)
+- [Power Word Stun](./power-word-stun-xphb.md)
+- [Prayer of Healing](./prayer-of-healing-xphb.md)
+- [Prestidigitation](./prestidigitation-xphb.md)
+- [Prismatic Spray](./prismatic-spray-xphb.md)
+- [Prismatic Wall](./prismatic-wall-xphb.md)
+- [Produce Flame](./produce-flame-xphb.md)
+- [Programmed Illusion](./programmed-illusion-xphb.md)
+- [Project Image](./project-image-xphb.md)
+- [Protection from Energy](./protection-from-energy-xphb.md)
+- [Protection from Evil and Good](./protection-from-evil-and-good-xphb.md)
+- [Protection from Poison](./protection-from-poison-xphb.md)
+- [Purify Food and Drink](./purify-food-and-drink-xphb.md)
+- [Raise Dead](./raise-dead-xphb.md)
+- [Rary's Telepathic Bond](./rarys-telepathic-bond-xphb.md)
+- [Ray of Enfeeblement](./ray-of-enfeeblement-xphb.md)
+- [Ray of Frost](./ray-of-frost-xphb.md)
+- [Ray of Sickness](./ray-of-sickness-xphb.md)
+- [Regenerate](./regenerate-xphb.md)
+- [Reincarnate](./reincarnate-xphb.md)
+- [Remove Curse](./remove-curse-xphb.md)
+- [Resistance](./resistance-xphb.md)
+- [Resurrection](./resurrection-xphb.md)
+- [Reverse Gravity](./reverse-gravity-xphb.md)
+- [Revivify](./revivify-xphb.md)
+- [Rope Trick](./rope-trick-xphb.md)
+- [Sacred Flame](./sacred-flame-xphb.md)
+- [Sanctuary](./sanctuary-xphb.md)
+- [Scorching Ray](./scorching-ray-xphb.md)
+- [Scrying](./scrying-xphb.md)
+- [Searing Smite](./searing-smite-xphb.md)
+- [See Invisibility](./see-invisibility-xphb.md)
+- [Seeming](./seeming-xphb.md)
+- [Sending](./sending-xphb.md)
+- [Sequester](./sequester-xphb.md)
+- [Shapechange](./shapechange-xphb.md)
+- [Shatter](./shatter-xphb.md)
+- [Shield](./shield-xphb.md)
+- [Shield of Faith](./shield-of-faith-xphb.md)
+- [Shillelagh](./shillelagh-xphb.md)
+- [Shining Smite](./shining-smite-xphb.md)
+- [Shocking Grasp](./shocking-grasp-xphb.md)
+- [Silence](./silence-xphb.md)
+- [Silent Image](./silent-image-xphb.md)
+- [Simulacrum](./simulacrum-xphb.md)
+- [Sleep](./sleep-xphb.md)
+- [Sleet Storm](./sleet-storm-xphb.md)
+- [Slow](./slow-xphb.md)
+- [Sorcerous Burst](./sorcerous-burst-xphb.md)
+- [Spare the Dying](./spare-the-dying-xphb.md)
+- [Speak with Animals](./speak-with-animals-xphb.md)
+- [Speak with Dead](./speak-with-dead-xphb.md)
+- [Speak with Plants](./speak-with-plants-xphb.md)
+- [Spider Climb](./spider-climb-xphb.md)
+- [Spike Growth](./spike-growth-xphb.md)
+- [Spirit Guardians](./spirit-guardians-xphb.md)
+- [Spiritual Weapon](./spiritual-weapon-xphb.md)
+- [Staggering Smite](./staggering-smite-xphb.md)
+- [Starry Wisp](./starry-wisp-xphb.md)
+- [Steel Wind Strike](./steel-wind-strike-xphb.md)
+- [Stinking Cloud](./stinking-cloud-xphb.md)
+- [Stone Shape](./stone-shape-xphb.md)
+- [Stoneskin](./stoneskin-xphb.md)
+- [Storm of Vengeance](./storm-of-vengeance-xphb.md)
+- [Suggestion](./suggestion-xphb.md)
+- [Summon Aberration](./summon-aberration-xphb.md)
+- [Summon Beast](./summon-beast-xphb.md)
+- [Summon Celestial](./summon-celestial-xphb.md)
+- [Summon Construct](./summon-construct-xphb.md)
+- [Summon Dragon](./summon-dragon-xphb.md)
+- [Summon Elemental](./summon-elemental-xphb.md)
+- [Summon Fey](./summon-fey-xphb.md)
+- [Summon Fiend](./summon-fiend-xphb.md)
+- [Summon Undead](./summon-undead-xphb.md)
+- [Sunbeam](./sunbeam-xphb.md)
+- [Sunburst](./sunburst-xphb.md)
+- [Swift Quiver](./swift-quiver-xphb.md)
+- [Symbol](./symbol-xphb.md)
+- [Synaptic Static](./synaptic-static-xphb.md)
+- [Tasha's Bubbling Cauldron](./tashas-bubbling-cauldron-xphb.md)
+- [Tasha's Hideous Laughter](./tashas-hideous-laughter-xphb.md)
+- [Telekinesis](./telekinesis-xphb.md)
+- [Telepathy](./telepathy-xphb.md)
+- [Teleport](./teleport-xphb.md)
+- [Teleportation Circle](./teleportation-circle-xphb.md)
+- [Tenser's Floating Disk](./tensers-floating-disk-xphb.md)
+- [Thaumaturgy](./thaumaturgy-xphb.md)
+- [Thorn Whip](./thorn-whip-xphb.md)
+- [Thunderclap](./thunderclap-xphb.md)
+- [Thunderous Smite](./thunderous-smite-xphb.md)
+- [Thunderwave](./thunderwave-xphb.md)
+- [Time Stop](./time-stop-xphb.md)
+- [Toll the Dead](./toll-the-dead-xphb.md)
+- [Tongues](./tongues-xphb.md)
+- [Transport via Plants](./transport-via-plants-xphb.md)
+- [Tree Stride](./tree-stride-xphb.md)
+- [True Polymorph](./true-polymorph-xphb.md)
+- [True Resurrection](./true-resurrection-xphb.md)
+- [True Seeing](./true-seeing-xphb.md)
+- [True Strike](./true-strike-xphb.md)
+- [Tsunami](./tsunami-xphb.md)
+- [Unseen Servant](./unseen-servant-xphb.md)
+- [Vampiric Touch](./vampiric-touch-xphb.md)
+- [Vicious Mockery](./vicious-mockery-xphb.md)
+- [Vitriolic Sphere](./vitriolic-sphere-xphb.md)
+- [Wall of Fire](./wall-of-fire-xphb.md)
+- [Wall of Force](./wall-of-force-xphb.md)
+- [Wall of Ice](./wall-of-ice-xphb.md)
+- [Wall of Stone](./wall-of-stone-xphb.md)
+- [Wall of Thorns](./wall-of-thorns-xphb.md)
+- [Wall of Water](./wall-of-water-xge.md)
+- [Warding Bond](./warding-bond-xphb.md)
+- [Water Breathing](./water-breathing-xphb.md)
+- [Water Walk](./water-walk-xphb.md)
+- [Web](./web-xphb.md)
+- [Weird](./weird-xphb.md)
+- [Wind Walk](./wind-walk-xphb.md)
+- [Wind Wall](./wind-wall-xphb.md)
+- [Wish](./wish-xphb.md)
+- [Witch Bolt](./witch-bolt-xphb.md)
+- [Word of Radiance](./word-of-radiance-xphb.md)
+- [Word of Recall](./word-of-recall-xphb.md)
+- [Wrathful Smite](./wrathful-smite-xphb.md)
+- [Yolande's Regal Presence](./yolandes-regal-presence-xphb.md)
+- [Zone of Truth](./zone-of-truth-xphb.md)

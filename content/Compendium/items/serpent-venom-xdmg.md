@@ -1,19 +1,19 @@
 ---
-title: Serpent Venom
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/gear/
 - item/rarity/none
-aliases: 
+aliases:
 - "Serpent Venom"
 ---
 # Serpent Venom
 *Adventuring gear, poison (injury)*  
 
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [Poison](/Compendium/rules/item-properties.md#Poison)
 - **Cost**: 200 gp
 
 A creature subjected to Serpent Venom must succeed on a DC 11 Constitution saving throw, taking 10 (`3d6`) Poison damage on a failed save or half as much damage on a successful one.

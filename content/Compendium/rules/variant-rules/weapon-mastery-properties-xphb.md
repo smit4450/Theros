@@ -1,12 +1,11 @@
 ---
-title: Weapon Mastery Properties
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Weapon Mastery Properties
+- "Weapon Mastery Properties"
 ---
 # Weapon Mastery Properties
 *Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
@@ -23,7 +22,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 ## Nick
 
-When you make the extra attack of the [[item-properties#Light|Light]] property, you can make it as part of the [[actions#Attack|Attack]] action instead of as a Bonus Action. You can make this extra attack only once per turn.
+When you make the extra attack of the [Light](/Compendium/rules/item-properties.md#Light) property, you can make it as part of the [Attack](/Compendium/rules/actions.md#Attack) action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
 ## Push
 
@@ -31,7 +30,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 ## Sap
 
-If you hit a creature with this weapon, that creature has [[disadvantage-xphb|Disadvantage]] on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on its next attack roll before the start of your next turn.
 
 ## Slow
 
@@ -39,8 +38,8 @@ If you hit a creature with this weapon and deal damage to it, you can reduce its
 
 ## Topple
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [[conditions#Prone|Prone]] condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
 
 ## Vex
 
-If you hit a creature with this weapon and deal damage to the creature, you have [[advantage-xphb|Advantage]] on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on your next attack roll against that creature before the end of your next turn.

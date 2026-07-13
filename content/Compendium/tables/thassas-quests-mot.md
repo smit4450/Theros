@@ -1,12 +1,11 @@
 ---
-title: "Thassa's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Thassa's Quests
+- "Thassa's Quests"
 ---
 # Thassa's Quests
 *Source: Mythic Odysseys of Theros p. 172* 

@@ -1,12 +1,11 @@
 ---
-title: Glossary Conventions
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Glossary Conventions
+- "Glossary Conventions"
 ---
 # Glossary Conventions
 *Source: Player's Handbook (2024) p. 360* 
@@ -14,20 +13,20 @@ aliases:
 |    |    |
 |----|----|
 | AC | Armor Class |
-| C | [[conditions#Concentration|Concentration]] |
+| C | [Concentration](/Compendium/rules/conditions.md#Concentration) |
 | CE | Chaotic Evil |
 | CG | Chaotic Good |
 | Cha. | Charisma |
 | CN | Chaotic Neutral |
 | Con. | Constitution |
 | CP | Copper Piece(s) |
-| CR | [[challenge-rating-xphb|Challenge Rating]] |
-| DC | [[difficulty-class-xphb|Difficulty Class]] |
+| CR | [Challenge Rating](/Compendium/rules/variant-rules/challenge-rating-xphb.md) |
+| DC | [Difficulty Class](/Compendium/rules/variant-rules/difficulty-class-xphb.md) |
 | Dex. | Dexterity |
 | DM | Dungeon Master |
 | EP | Electrum Piece(s) |
 | GP | Gold Piece(s) |
-| HP | [[hit-points-xphb|Hit Point]](s) |
+| HP | [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md)(s) |
 | Int. | Intelligence |
 | LE | Lawful Evil |
 | LG | Lawful Good |
@@ -37,12 +36,12 @@ aliases:
 | NE | Neutral Evil |
 | NG | Neutral Good |
 | NPC | Nonplayer character |
-| PB | [[proficiency-xphb|Proficiency Bonus]] |
+| PB | [Proficiency Bonus](/Compendium/rules/variant-rules/proficiency-xphb.md) |
 | PP | Platinum Piece(s) |
-| R | [[ritual-xphb|Ritual]] |
+| R | [Ritual](/Compendium/rules/variant-rules/ritual-xphb.md) |
 | S | Somatic component |
 | SP | Silver Piece(s) |
 | Str. | Strength |
 | V | Verbal component |
 | Wis. | Wisdom |
-| XP | [[experience-points-xphb|Experience Point]](s) |
+| XP | [Experience Point](/Compendium/rules/variant-rules/experience-points-xphb.md)(s) |

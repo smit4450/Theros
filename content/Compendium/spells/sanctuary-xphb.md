@@ -1,9 +1,10 @@
 ---
-title: Sanctuary
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
+- spell/class/artificer
 - spell/class/bard
 - spell/class/cleric
 - spell/feat/magic-initiate/cleric-spells
@@ -11,10 +12,12 @@ tags:
 - spell/school/abjuration
 - spell/subclass/college-of-lore
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Cleric
-aliases: ["Sanctuary"]
+aliases:
+- "Sanctuary"
 ---
 # Sanctuary
 *1st-level, Abjuration*  
@@ -29,6 +32,6 @@ You ward a creature within range. Until the spell ends, any creature who targets
 
 The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]
+**Classes**: [Artificer](/Compendium/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md)
 
 *Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

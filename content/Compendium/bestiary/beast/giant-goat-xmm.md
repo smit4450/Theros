@@ -1,64 +1,57 @@
 ---
-title: Giant Goat
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-2
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/beast
-statblock: inline
-aliases: ["Giant Goat"]
+aliases:
+- "Giant Goat"
 ---
 # Giant Goat
 *Source: Monster Manual (2024) p. 357, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/beast/img/giant-goat.webp#right)
 
-![](Compendium/bestiary/beast/img/giant-goat.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
-![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
-![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
-![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
-```statblock
-"name": "Giant Goat (XMM)"
-"size": "Large"
-"type": "beast"
-"alignment": "Unaligned"
-"ac": !!int "11"
-"hp": !!int "19"
-"hit_dice": "3d10 + 3"
-"modifier": !!int "1"
-"stats":
-  - !!int "17"
-  - !!int "13"
-  - !!int "12"
-  - !!int "3"
-  - !!int "12"
-  - !!int "6"
-"speed": "40 ft., climb 30 ft."
-"saves":
-  - "strength": !!int "5"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+3"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 13"
-"languages": ""
-"cr": "1/2"
-"actions":
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature and the goat moved 20+\
-      \ feet straight toward it immediately before the hit, the target takes an extra\
-      \ 5 (2d4) Bludgeoning damage and has the [[conditions#Prone|Prone]]\
-      \ condition."
-    "name": "Ram"
-"source":
-  - "XMM"
-  - "XPHB"
-"image": "Compendium/bestiary/beast/token/giant-goat-xmm.webp"
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
+> [!gallery]
+![A druid calls on animals of the hills and mountains to aid her cause](/Compendium/bestiary/beast/img/animals-hills-and-mountains.webp)
+![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
+![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
+
+```ad-statblock
+title: Giant Goat
+![](/Compendium/bestiary/beast/token/giant-goat-xmm.webp#token)
+*Large beast, Unaligned*
+
+- **Armor Class** 11 
+- **Hit Points** 19 (`3d10 + 3`) 
+- **Speed** 40 ft., climb 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|13 (+1)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Strength +5
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Languages** —
+- **Challenge** 1/2
+
+## Actions
+
+***Ram.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Bludgeoning damage. If the target is a Large or smaller creature and the goat moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (`2d4`) Bludgeoning damage and has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
 ```
 ^statblock
+
+## Environment
+
+grassland, hill, mountain

@@ -1,12 +1,11 @@
 ---
-title: Treasure Hoards; Random Treasure Hoard
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Treasure Hoards; Random Treasure Hoard
+- "Treasure Hoards; Random Treasure Hoard"
 ---
 # Treasure Hoards; Random Treasure Hoard
 *Source: Dungeon Master's Guide (2024) p. 120* 

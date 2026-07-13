@@ -1,20 +1,20 @@
 ---
-title: Elemental Cultist
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/8
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Elemental Cultist"]
+aliases:
+- "Elemental Cultist"
 ---
 # Elemental Cultist
 *Source: Monster Manual (2024) p. 87*  
+![](/Compendium/bestiary/humanoid/img/aberrant-cultist-and-elemental-cultist.webp#right)
 
-![](Compendium/bestiary/humanoid/img/aberrant-cultist-and-elemental-cultist.webp#right|850)  
 Elemental cultists harness destructive natural forces to cleanse the world of civilization or prove the dominance of one element over all others. Such cultists are aligned with Elemental monsters or wicked immortals such as the Princes of Elemental Evil or the Elder Elemental Eye.
 
 ## Cultists
@@ -22,7 +22,7 @@ Elemental cultists harness destructive natural forces to cleanse the world of ci
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
+- **Treasure.** Individual, [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -70,62 +70,50 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
-![](Compendium/bestiary/humanoid/img/cultists.webp#center)  
+
+![](/Compendium/bestiary/humanoid/img/cultists.webp#center)
+
 ## Statblock
 
-```statblock
-"name": "Elemental Cultist (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Chaotic Evil"
-"ac": !!int "16"
-"hp": !!int "135"
-"hit_dice": "18d8 + 54"
-"modifier": !!int "4"
-"stats":
-  - !!int "18"
-  - !!int "12"
-  - !!int "16"
-  - !!int "14"
-  - !!int "18"
-  - !!int "12"
-"speed": "30 ft."
-"saves":
-  - "constitution": !!int "6"
-  - "wisdom": !!int "7"
-"skillsaves":
-  - "name": "[[skills#Arcana|Arcana]]"
-    "desc": "+5"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
-  - "name": "[[skills#Religion|Religion]]"
-    "desc": "+5"
-"senses": "passive Perception 17"
-"languages": "Common, Primordial"
-"cr": "8"
-"actions":
-  - "desc": "The cultist makes three attacks, using Elemental Flail or Elemental Claw\
-      \ in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 25 (6d6 + 4) damage of\
-      \ a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder."
-    "name": "Elemental Flail"
-  - "desc": "*Ranged Attack Roll:* +7, range 120 ft. *Hit:* 22 (4d10) damage of\
-      \ a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder. If\
-      \ the target is a Medium or smaller creature, the cultist moves the target up\
-      \ to 10 feet straight toward or away from itself."
-    "name": "Elemental Claw"
-  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [[elementalism-xphb|Elementalism]],\
-      \ [[mage-hand-xphb|Mage Hand]]"
-    "name": "Spellcasting"
-"reactions":
-  - "desc": "Trigger: The cultist takes Acid, Cold, Fire, Lightning, or Thunder damage.\
-      \ _Response:_ The cultist gives itself [[resistance-rules-xphb|Resistance]]\
-      \ to that instance of damage and gains 10 [[temporary-hit-points-xphb|Temporary Hit Points]]."
-    "name": "Elemental Absorption (1/Day)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/humanoid/token/elemental-cultist-xmm.webp"
+```ad-statblock
+title: Elemental Cultist
+![](/Compendium/bestiary/humanoid/token/elemental-cultist-xmm.webp#token)
+*Small or Medium humanoid, Chaotic Evil*
+
+- **Armor Class** 16 
+- **Hit Points** 135 (`18d8 + 54`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|12 (+1)|16 (+3)|14 (+2)|18 (+4)|12 (+1)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Constitution +6, Wisdom +7
+- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +5, [Perception](/Compendium/rules/skills.md#Perception) +7, [Religion](/Compendium/rules/skills.md#Religion) +5
+- **Senses** passive Perception 17
+- **Gear** [chain mail](/Compendium/items/chain-mail-xphb.md)
+- **Languages** Common, Primordial
+- **Challenge** 8
+
+## Actions
+
+***Multiattack.*** The cultist makes three attacks, using Elemental Flail or Elemental Claw in any combination.
+
+***Elemental Flail.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 25 (`6d6 + 4`) damage of a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder.
+
+***Elemental Claw.*** *Ranged Attack Roll:* `+7`, range 120 ft. *Hit:* 22 (`4d10`) damage of a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder. If the target is a Medium or smaller creature, the cultist moves the target up to 10 feet straight toward or away from itself.
+
+***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 15):
+
+**At will:** [Elementalism](/Compendium/spells/elementalism-xphb.md), [Mage Hand](/Compendium/spells/mage-hand-xphb.md)
+
+## Reactions
+
+***Elemental Absorption (1/Day).*** Trigger: The cultist takes Acid, Cold, Fire, Lightning, or Thunder damage. _Response:_ The cultist gives itself [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to that instance of damage and gains 10 [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md).
 ```
 ^statblock
+
+## Environment
+
+any

@@ -1,9 +1,9 @@
 ---
-title: Forbiddance
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/level/6th-level
@@ -12,7 +12,8 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Forbiddance"]
+aliases:
+- "Forbiddance"
 ---
 # Forbiddance
 *6th-level, Abjuration (ritual)*  
@@ -23,14 +24,14 @@ aliases: ["Forbiddance"]
 - **Components:** V, S, M (ruby dust worth 1,000+ GP)
 - **Duration:** 1 day
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the [[gate-xphb|Gate]] spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the [[plane-shift-xphb|Plane Shift]] spell.
+You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the [Gate](/Compendium/spells/gate-xphb.md) spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the [Plane Shift](/Compendium/spells/plane-shift-xphb.md) spell.
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: Aberrations, Celestials, Elementals, Fey, Fiends, and Undead. When a creature of a chosen type enters the spell's area for the first time on a turn or ends its turn there, the creature takes `5d10` Radiant or Necrotic damage (your choice when you cast this spell).
 
 You can designate a password when you cast the spell. A creature that speaks the password as it enters the area takes no damage from the spell.
 
-The spell's area can't overlap with the area of another Forbiddance spell. If you cast [[forbiddance-xphb|Forbiddance]] every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
+The spell's area can't overlap with the area of another Forbiddance spell. If you cast [Forbiddance](/Compendium/spells/forbiddance-xphb.md) every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md)
 
 *Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

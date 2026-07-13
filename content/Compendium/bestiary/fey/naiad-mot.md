@@ -1,19 +1,19 @@
 ---
-title: Naiad
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - monster/cr/2
 - monster/size/medium
 - monster/type/fey
-statblock: inline
-aliases: ["Naiad"]
+aliases:
+- "Naiad"
 ---
 # Naiad
 *Source: Mythic Odysseys of Theros p. 236*  
+![](/Compendium/bestiary/fey/img/naiad.webp#right)
 
-![](Compendium/bestiary/fey/img/naiad.webp#right|850)  
 Naiads live in and near water. They might be spotted among rivers and lakes, on isolated shores, or amid coral labyrinths and deep sea fumaroles. Wherever rivers and seas show their variety and force, naiads gather to revel in nature's might. Individual naiads often grow fixated with a single type or body of water, potentially preferring a deep sea trench, coastline, or river system above all others. Over time, such a resident nymph often becomes connected with their aquatic home through sightings and stories, becoming a guardian of the place and, in effect, a manifestation of its personality.
 
 ## Aquatic Collectors
@@ -31,61 +31,52 @@ Divine servants that inhabit unspoiled corners of the world, nymphs protect plac
 ### Immortal Nature
 
 A nymph doesn't require food, drink, or sleep.
+
 ## Statblock
 
-```statblock
-"name": "Naiad (MOT)"
-"size": "Medium"
-"type": "fey"
-"alignment": "Chaotic Neutral"
-"ac": !!int "15"
-"ac_class": "natural armor"
-"hp": !!int "31"
-"hit_dice": "7d8"
-"modifier": !!int "3"
-"stats":
-  - !!int "10"
-  - !!int "16"
-  - !!int "11"
-  - !!int "15"
-  - !!int "10"
-  - !!int "18"
-"speed": "30 ft., swim 30 ft."
-"skillsaves":
-  - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+6"
-  - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
-    "desc": "+5"
-"damage_resistances": "psychic"
-"damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
-  \ [[conditions#Poisoned|poisoned]]"
-"senses": "passive Perception 10"
-"languages": "Common, Sylvan"
-"cr": "2"
-"traits":
-  - "desc": "The naiad's spellcasting ability is Charisma (spell save DC 14). It can\
-      \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [[minor-illusion-xphb|minor illusion]]\n\n\
-      **3/day:** [[phantasmal-force-xphb|phantasmal force]]\n\n\
-      **1/day each:** [[fly-xphb|fly]], [[hypnotic-pattern-xphb|hypnotic pattern]]"
-    "name": "Innate Spellcasting"
-  - "desc": "The naiad can breathe air and water."
-    "name": "Amphibious"
-  - "desc": "The naiad is [[conditions#Invisible|invisible]] while\
-      \ fully immersed in water."
-    "name": "Invisible in Water"
-  - "desc": "The naiad has advantage on saving throws against spells and other magical\
-      \ effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The naiad makes two psychic touch attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
-      \ (1d10 + 4) psychic damage."
-    "name": "Psychic Touch"
-"source":
-  - "MOT"
-"image": "Compendium/bestiary/fey/token/naiad-mot.webp"
+```ad-statblock
+title: Naiad
+![](/Compendium/bestiary/fey/token/naiad-mot.webp#token)
+*Medium fey, Chaotic Neutral*
+
+- **Armor Class** 15 (natural armor)
+- **Hit Points** 31 (`7d8`) 
+- **Speed** 30 ft., swim 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|16 (+3)|11 (+0)|15 (+2)|10 (+0)|18 (+4)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Persuasion](/Compendium/rules/skills.md#Persuasion) +6, [Sleight of Hand](/Compendium/rules/skills.md#Sleight%20of%20Hand) +5
+- **Senses** passive Perception 10
+- **Damage Resistances** psychic
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [frightened](/Compendium/rules/conditions.md#Frightened), [poisoned](/Compendium/rules/conditions.md#Poisoned)
+- **Languages** Common, Sylvan
+- **Challenge** 2
+
+## Traits
+
+***Innate Spellcasting.*** The naiad's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
+
+**At will:** [minor illusion](/Compendium/spells/minor-illusion-xphb.md)
+
+**3/day:** [phantasmal force](/Compendium/spells/phantasmal-force-xphb.md)
+
+**1/day each:** [fly](/Compendium/spells/fly-xphb.md), [hypnotic pattern](/Compendium/spells/hypnotic-pattern-xphb.md)
+
+***Amphibious.*** The naiad can breathe air and water.
+
+***Invisible in Water.*** The naiad is [invisible](/Compendium/rules/conditions.md#Invisible) while fully immersed in water.
+
+***Magic Resistance.*** The naiad has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The naiad makes two psychic touch attacks.
+
+***Psychic Touch.*** *Melee Spell Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 9 (`1d10 + 4`) psychic damage.
 ```
 ^statblock

@@ -1,14 +1,14 @@
 ---
-title: Enspelled Staff (Level 5)
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/very-rare
 - item/weapon/melee
 - item/weapon/simple
-aliases: 
+aliases:
 - "Enspelled Staff (Level 5)"
 ---
 # Enspelled Staff (Level 5)
@@ -18,10 +18,10 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-Bound into this staff is a level 5 spell. The spell is determined when the staff is created and can be of any school of magic. The staff has 6 charges and regains `1d6` expended charges daily at dawn. While holding the staff, you can expend 1 charge to cast its spell. If you expend the staff 's last charge, roll `1d20`. On a 1, the staff loses its properties and becomes a nonmagical [[quarterstaff-xphb|Quarterstaff]].
+Bound into this staff is a level 5 spell. The spell is determined when the staff is created and can be of any school of magic. The staff has 6 charges and regains `1d6` expended charges daily at dawn. While holding the staff, you can expend 1 charge to cast its spell. If you expend the staff's last charge, roll `1d20`. On a 1, the staff loses its properties and becomes a nonmagical [Quarterstaff](/Compendium/items/quarterstaff-xphb.md).
 
 The spell's saving throw DC is 17, and its attack bonus is `+9`.
 

@@ -1,13 +1,12 @@
 ---
-title: Barrack
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion
 tags:
 - bastion
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Barrack
+- "Barrack"
 ---
 # Barrack
 *Level 5 Bastion facility*  

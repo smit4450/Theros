@@ -1,12 +1,12 @@
 ---
-title: Disguise Kit
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/tool
 - item/rarity/none
-aliases: 
+aliases:
 - "Disguise Kit"
 ---
 # Disguise Kit
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Charisma  
 - **Utilize.** Apply makeup (DC 10)  
-- **Craft.** [[costume-xphb|Costume]]  
+- **Craft.** [Costume](/Compendium/items/costume-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

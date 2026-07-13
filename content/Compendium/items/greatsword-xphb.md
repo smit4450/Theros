@@ -1,21 +1,21 @@
 ---
-title: Greatsword
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/melee
-aliases: 
+aliases:
 - "Greatsword"
 ---
 # Greatsword
 *Weapon*  
-![](Compendium/items/img/greatsword.webp#right)
+![](/Compendium/items/img/greatsword.webp#right)
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Cost**: 50 gp
 - **Weight**: 6.0 lbs.
 

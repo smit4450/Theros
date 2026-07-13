@@ -1,12 +1,12 @@
 ---
-title: Silver Bar (2-pound)
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/gear/trade-bar
 - item/rarity/none
-aliases: 
+aliases:
 - "Silver Bar (2-pound)"
 ---
 # Silver Bar (2-pound)

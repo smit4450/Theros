@@ -1,12 +1,12 @@
 ---
-title: Gloves of Swimming and Climbing
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/uncommon
-aliases: 
+aliases:
 - "Gloves of Swimming and Climbing"
 ---
 # Gloves of Swimming and Climbing
@@ -14,6 +14,6 @@ aliases:
 
 
 
-While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ([[skills#Athletics|Athletics]]) checks made to climb or swim.
+While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ([Athletics](/Compendium/rules/skills.md#Athletics)) checks made to climb or swim.
 
 *Source: Dungeon Master's Guide (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

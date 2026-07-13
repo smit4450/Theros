@@ -1,18 +1,18 @@
 ---
-title: Gloves of Thievery
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/uncommon
-aliases: 
+aliases:
 - "Gloves of Thievery"
 ---
 # Gloves of Thievery
 *Wondrous item, uncommon*  
-![](Compendium/items/img/gloves-of-thievery.webp#right)
+![](/Compendium/items/img/gloves-of-thievery.webp#right)
 
 
-These gloves are imperceptible while worn. While wearing them, you gain a +5 bonus to Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) checks.
+These gloves are imperceptible while worn. While wearing them, you gain a +5 bonus to Dexterity ([Sleight of Hand](/Compendium/rules/skills.md#Sleight%20of%20Hand)) checks.
 
 *Source: Dungeon Master's Guide (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

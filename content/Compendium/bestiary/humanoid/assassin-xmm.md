@@ -1,26 +1,26 @@
 ---
-title: Assassin
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/8
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Assassin"]
+aliases:
+- "Assassin"
 ---
 # Assassin
 *Source: Monster Manual (2024) p. 22. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/humanoid/img/assassin.webp#right)
 
-![](Compendium/bestiary/humanoid/img/assassin.webp#right|850)  
 ## Assassin
 
 *Contract Killer*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-implements|Implements]], Individual  
+- **Treasure.** [Implements](/Compendium/tables/random-magic-items-implements.md), Individual  
 
 Assassins are professional killers skilled at stealthily approaching their victims and striking unseen. Most assassins kill for a reason, perhaps hiring themselves out to wealthy patrons or slaying for an unscrupulous cause. They use poisons and other deadly tools, and they might carry equipment to help them break into secure areas or avoid capture.
 
@@ -37,60 +37,47 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 | 5 | Taking trophies from their victims. |
 | 6 | Using poison with a distinctive color or smell. |
 ^assassin-modus-operandi
-```statblock
-"name": "Assassin (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "16"
-"hp": !!int "97"
-"hit_dice": "15d8 + 30"
-"modifier": !!int "10"
-"stats":
-  - !!int "11"
-  - !!int "18"
-  - !!int "14"
-  - !!int "16"
-  - !!int "11"
-  - !!int "10"
-"speed": "30 ft."
-"saves":
-  - "dexterity": !!int "7"
-  - "intelligence": !!int "6"
-"skillsaves":
-  - "name": "[[skills#Acrobatics|Acrobatics]]"
-    "desc": "+7"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+10"
-"damage_resistances": "poison"
-"senses": "passive Perception 16"
-"languages": "Common, Thieves' cant"
-"cr": "8"
-"traits":
-  - "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity\
-      \ saving throw to take only half damage, the assassin instead takes no damage\
-      \ if it succeeds on the save and only half damage if it fails. It can't use\
-      \ this trait if it has the [[conditions#Incapacitated|Incapacitated]]\
-      \ condition."
-    "name": "Evasion"
-"actions":
-  - "desc": "The assassin makes three attacks, using Shortsword or Light Crossbow\
-      \ in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Piercing\
-      \ damage plus 17 (5d6) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
-      \ condition until the start of the assassin's next turn."
-    "name": "Shortsword"
-  - "desc": "*Ranged Attack Roll:* +7, range 80/320 ft. *Hit:* 8 (1d8 + 4) Piercing\
-      \ damage plus 21 (6d6) Poison damage."
-    "name": "Light Crossbow"
-"bonus_actions":
-  - "desc": "The assassin takes the Dash, Disengage, or Hide action."
-    "name": "Cunning Action"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/humanoid/token/assassin-xmm.webp"
+
+```ad-statblock
+title: Assassin
+![](/Compendium/bestiary/humanoid/token/assassin-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 16 
+- **Hit Points** 97 (`15d8 + 30`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|18 (+4)|14 (+2)|16 (+3)|11 (+0)|10 (+0)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +7, Intelligence +6
+- **Skills** [Acrobatics](/Compendium/rules/skills.md#Acrobatics) +7, [Perception](/Compendium/rules/skills.md#Perception) +6, [Stealth](/Compendium/rules/skills.md#Stealth) +10
+- **Senses** passive Perception 16
+- **Damage Resistances** poison
+- **Gear** [light crossbow](/Compendium/items/light-crossbow-xphb.md), [shortsword](/Compendium/items/shortsword-xphb.md), [studded leather armor](/Compendium/items/studded-leather-armor-xphb.md)
+- **Languages** Common, Thieves' cant
+- **Challenge** 8
+
+## Traits
+
+***Evasion.*** If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Multiattack.*** The assassin makes three attacks, using Shortsword or Light Crossbow in any combination.
+
+***Shortsword.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 7 (`1d6 + 4`) Piercing damage plus 17 (`5d6`) Poison damage, and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the start of the assassin's next turn.
+
+***Light Crossbow.*** *Ranged Attack Roll:* `+7`, range 80/320 ft. *Hit:* 8 (`1d8 + 4`) Piercing damage plus 21 (`6d6`) Poison damage.
+
+## Bonus Actions
+
+***Cunning Action.*** The assassin takes the [Dash](/Compendium/rules/actions.md#Dash), [Disengage](/Compendium/rules/actions.md#Disengage), or [Hide](/Compendium/rules/actions.md#Hide) action.
 ```
 ^statblock
+
+## Environment
+
+any

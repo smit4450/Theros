@@ -1,12 +1,11 @@
 ---
-title: Bastion Events
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Bastion Events
+- "Bastion Events"
 ---
 # Bastion Events
 *Source: Dungeon Master's Guide (2024) p. 350* 

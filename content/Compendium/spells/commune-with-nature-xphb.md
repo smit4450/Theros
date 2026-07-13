@@ -1,9 +1,9 @@
 ---
-title: Commune with Nature
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/druid
 - spell/class/ranger
@@ -18,7 +18,8 @@ classes:
 - Druid
 - Paladin (Oath of the Ancients)
 - Ranger
-aliases: ["Commune with Nature"]
+aliases:
+- "Commune with Nature"
 ---
 # Commune with Nature
 *5th-level, Divination (ritual)*  
@@ -35,12 +36,12 @@ Choose three of the following facts; you learn those facts as they pertain to th
 
 - Locations of settlements  
 - Locations of portals to other planes of existence  
-- Location of one [[challenge-rating-xphb|Challenge Rating]] 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead  
+- Location of one [Challenge Rating](/Compendium/rules/variant-rules/challenge-rating-xphb.md) 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead  
 - The most prevalent kind of plant, mineral, or Beast (you choose which to learn)  
 - Locations of bodies of water  
 
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
-**Classes**: [Barbarian (Path of the Wild Heart)](Compendium/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger|Ranger]]
+**Classes**: [Barbarian (Path of the Wild Heart)](/Compendium/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

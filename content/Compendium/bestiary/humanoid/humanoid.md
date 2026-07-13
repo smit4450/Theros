@@ -1,69 +1,169 @@
 ---
-title: Index of Humanoid
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
 # Index of Humanoid
 
-- [[aberrant-cultist-xmm|Aberrant Cultist]]
-- [[akroan-hoplite-mot|Akroan Hoplite]]
-- [[archdruid-vgm|Archdruid]]
-- [[archer-vgm|Archer]]
-- [[archmage-xmm|Archmage]]
-- [[archpriest-xmm|Archpriest]]
-- [[assassin-xmm|Assassin]]
-- [[bandit-captain-xmm|Bandit Captain]]
-- [[bandit-crime-lord-xmm|Bandit Crime Lord]]
-- [[bandit-deceiver-xmm|Bandit Deceiver]]
-- [[bandit-xmm|Bandit]]
-- [[berserker-commander-xmm|Berserker Commander]]
-- [[berserker-xmm|Berserker]]
-- [[blackguard-vgm|Blackguard]]
-- [[commoner-xmm|Commoner]]
-- [[cultist-fanatic-xmm|Cultist Fanatic]]
-- [[cultist-hierophant-xmm|Cultist Hierophant]]
-- [[cultist-xmm|Cultist]]
-- [[death-cultist-xmm|Death Cultist]]
-- [[druid-xmm|Druid]]
-- [[elemental-cultist-xmm|Elemental Cultist]]
-- [[fiend-cultist-xmm|Fiend Cultist]]
-- [[gladiator-xmm|Gladiator]]
-- [[guard-captain-xmm|Guard Captain]]
-- [[guard-xmm|Guard]]
-- [[knight-xmm|Knight]]
-- [[leonin-iconoclast-mot|Leonin Iconoclast]]
-- [[mage-apprentice-xmm|Mage Apprentice]]
-- [[mage-xmm|Mage]]
-- [[master-thief-vgm|Master Thief]]
-- [[meletian-hoplite-mot|Meletian Hoplite]]
-- [[noble-prodigy-xmm|Noble Prodigy]]
-- [[noble-xmm|Noble]]
-- [[oracle-mot|Oracle]]
-- [[performer-legend-xmm|Performer Legend]]
-- [[performer-maestro-xmm|Performer Maestro]]
-- [[performer-xmm|Performer]]
-- [[pirate-admiral-xmm|Pirate Admiral]]
-- [[pirate-captain-xmm|Pirate Captain]]
-- [[pirate-xmm|Pirate]]
-- [[priest-acolyte-xmm|Priest Acolyte]]
-- [[priest-xmm|Priest]]
-- [[questing-knight-xmm|Questing Knight]]
-- [[scout-captain-xmm|Scout Captain]]
-- [[scout-xmm|Scout]]
-- [[setessan-hoplite-mot|Setessan Hoplite]]
-- [[soldier-ggr|Soldier]]
-- [[spy-master-xmm|Spy Master]]
-- [[spy-xmm|Spy]]
-- [[tough-boss-xmm|Tough Boss]]
-- [[tough-xmm|Tough]]
-- [[triton-master-of-waves-mot|Triton Master of Waves]]
-- [[triton-shorestalker-mot|Triton Shorestalker]]
-- [[vampire-familiar-xmm|Vampire Familiar]]
-- [[war-priest-vgm|War Priest]]
-- [[warrior-commander-xmm|Warrior Commander]]
-- [[warrior-infantry-xmm|Warrior Infantry]]
-- [[warrior-veteran-xmm|Warrior Veteran]]
+- [Aberrant Cultist](./aberrant-cultist-xmm.md)
+- [Aegis of the Gods](./aegis-of-the-gods-tbvxviii.md)
+- [Aerie Worshiper](./aerie-worshiper-tbvxiv.md)
+- [Agent of Horizons](./agent-of-horizons-tbvxxv.md)
+- [Agent of the Fates](./agent-of-the-fates-tbvxiv.md)
+- [Akroan Conscriptor](./akroan-conscriptor-tbvxvi.md)
+- [Akroan Crusade Soldier](./akroan-crusade-soldier-tbvxviii.md)
+- [Akroan Crusader](./akroan-crusader-tbvxviii.md)
+- [Akroan Hoplite](./akroan-hoplite-mot.md)
+- [Akroan Horse Soldier](./akroan-horse-soldier-tbvxviii.md)
+- [Akroan Jailer](./akroan-jailer-tbvxviii.md)
+- [Akroan Line Breaker](./akroan-line-breaker-tbvxvi.md)
+- [Akroan Phalanx Hoplite](./akroan-phalanx-hoplite-tbvxviii.md)
+- [Akroan Sergeant](./akroan-sergeant-tbvxviii.md)
+- [Akroan Skyguard](./akroan-skyguard-tbvxviii.md)
+- [Archmage](./archmage-xmm.md)
+- [Archpriest](./archpriest-xmm.md)
+- [Artisan of Forms](./artisan-of-forms-tbvxiv.md)
+- [Ashiok's Adept](./ashioks-adept-tbvxiv.md)
+- [Assassin](./assassin-xmm.md)
+- [Bandit](./bandit-xmm.md)
+- [Bandit Captain](./bandit-captain-xmm.md)
+- [Bandit Crime Lord](./bandit-crime-lord-xmm.md)
+- [Bandit Deceiver](./bandit-deceiver-xmm.md)
+- [Bant Soldier](./bant-soldier-tbvxviii.md)
+- [Bassara Tower Archer](./bassara-tower-archer-tbvxvi.md)
+- [Battlefield Thaumaturge](./battlefield-thaumaturge-tbvxvi.md)
+- [Battlewise Hoplite](./battlewise-hoplite-tbvxviii.md)
+- [Berserker](./berserker-xmm.md)
+- [Berserker Commander](./berserker-commander-xmm.md)
+- [Bloodcrazed Hoplite](./bloodcrazed-hoplite-tbvxviii.md)
+- [Borderland Minotaur](./borderland-minotaur-tbvxi.md)
+- [Commoner](./commoner-xmm.md)
+- [Crackling Triton](./crackling-triton-tbvvii.md)
+- [Cultist](./cultist-xmm.md)
+- [Cultist Fanatic](./cultist-fanatic-xmm.md)
+- [Cultist Hierophant](./cultist-hierophant-xmm.md)
+- [Cutthroat](./cutthroat-tbvxiv.md)
+- [Dakra Mystic](./dakra-mystic-tbvxx.md)
+- [Daring Thief](./daring-thief-tbvxiv.md)
+- [Dawnbringer Charioteer](./dawnbringer-charioteer-tbvxviii.md)
+- [Death Cultist](./death-cultist-xmm.md)
+- [Deathbellow Raider](./deathbellow-raider-tbvxi.md)
+- [Deepwater Hypnotist](./deepwater-hypnotist-tbvvii.md)
+- [Disciple of Deceit](./disciple-of-deceit-tbvxxv.md)
+- [Disciple of Phenax](./disciple-of-phenax-tbvxxv.md)
+- [Druid](./druid-xmm.md)
+- [Elemental Cultist](./elemental-cultist-xmm.md)
+- [Elite Skirmisher](./elite-skirmisher-tbvxviii.md)
+- [Enlightened Ascetic](./enlightened-ascetic-tbvxix.md)
+- [Ephara's Warden](./epharas-warden-tbvxxv.md)
+- [Evangel of Heliod](./evangel-of-heliod-tbvxvi.md)
+- [Evangel of Heliod](./evangel-of-heliod-tbvxxv.md)
+- [Fabled Hero](./fabled-hero-tbvxviii.md)
+- [Fanatic of Mogis](./fanatic-of-mogis-tbvxi.md)
+- [Favored Hoplite](./favored-hoplite-tbvxviii.md)
+- [Felhide Brawler](./felhide-brawler-tbvxi.md)
+- [Felhide Minotaur](./felhide-minotaur-tbvxi.md)
+- [Felhide Petrifier](./felhide-petrifier-tbvxi.md)
+- [Felhide Spiritbinder](./felhide-spiritbinder-tbvxi.md)
+- [Fiend Cultist](./fiend-cultist-xmm.md)
+- [Flamespeaker Adept](./flamespeaker-adept-tbvxx.md)
+- [Flurrying Minotaur](./flurrying-minotaur-tbvxi.md)
+- [Gladiator](./gladiator-xmm.md)
+- [Gnarled Scarhide](./gnarled-scarhide-tbvxi.md)
+- [God-Favored General](./god-favored-general-tbvxviii.md)
+- [Guard](./guard-xmm.md)
+- [Guard Captain](./guard-captain-xmm.md)
+- [Heliod's Pilgrim](./heliods-pilgrim-tbvxxv.md)
+- [Hero of Iroas](./hero-of-iroas-tbvxviii.md)
+- [Hero of Leina Tower](./hero-of-leina-tower-tbvxvi.md)
+- [Impetuous Sunchaser](./impetuous-sunchaser-tbvxviii.md)
+- [Irregular of Kytheon](./irregular-of-kytheon-tbvxviii.md)
+- [Karametra's Acolyte](./karametras-acolyte-tbvxxv.md)
+- [Kiora's Follower](./kioras-follower-tbvvii.md)
+- [Knight](./knight-xmm.md)
+- [Kragma Butcher](./kragma-butcher-tbvxi.md)
+- [Kragma Warcaller](./kragma-warcaller-tbvxi.md)
+- [Labyrinth Champion](./labyrinth-champion-tbvxvi.md)
+- [Leonin Iconoclast](./leonin-iconoclast-mot.md)
+- [Leonin Iconoclast](./leonin-iconoclast-tbvxix.md)
+- [Leonin Snarecaster](./leonin-snarecaster-tbvxix.md)
+- [Mage](./mage-xmm.md)
+- [Mage Apprentice](./mage-apprentice-xmm.md)
+- [Meletian Hoplite](./meletian-hoplite-mot.md)
+- [Meletis Astronomer](./meletis-astronomer-tbvxiv.md)
+- [Meletis Charlatan](./meletis-charlatan-tbvxiv.md)
+- [Mindreaver](./mindreaver-tbvxiv.md)
+- [Minotaur Goreseeker](./minotaur-goreseeker-tbvxi.md)
+- [Minotaur Skullcleaver](./minotaur-skullcleaver-tbvxi.md)
+- [Minotaur Younghorn](./minotaur-younghorn-tbvxi.md)
+- [Mogis's Chosen](./mogiss-chosen-tbvxi.md)
+- [Mogis's Marauder](./mogiss-marauder-tbvxvi.md)
+- [Noble](./noble-xmm.md)
+- [Noble Prodigy](./noble-prodigy-xmm.md)
+- [Omenspeaker](./omenspeaker-tbvxx.md)
+- [Oracle](./oracle-mot.md)
+- [Oracle of Bones](./oracle-of-bones-tbvxx.md)
+- [Oreskos Sun Guide](./oreskos-sun-guide-tbvxix.md)
+- [Oreskos Swiftclaw](./oreskos-swiftclaw-tbvxix.md)
+- [Pain Seer](./pain-seer-tbvxx.md)
+- [Pensive Minotaur](./pensive-minotaur-tbvxi.md)
+- [Performer](./performer-xmm.md)
+- [Performer Legend](./performer-legend-xmm.md)
+- [Performer Maestro](./performer-maestro-xmm.md)
+- [Phalanx Leader](./phalanx-leader-tbvxviii.md)
+- [Phoberos Reaver](./phoberos-reaver-tbvxi.md)
+- [Pirate](./pirate-xmm.md)
+- [Pirate Admiral](./pirate-admiral-xmm.md)
+- [Pirate Captain](./pirate-captain-xmm.md)
+- [Polypharmakon](./polypharmakon-tbvxiv.md)
+- [Priest](./priest-xmm.md)
+- [Priest Acolyte](./priest-acolyte-xmm.md)
+- [Priest of Iroas](./priest-of-iroas-tbvxxv.md)
+- [Prophet of Kruphix](./prophet-of-kruphix-tbvxx.md)
+- [Prophetic Flamespeaker](./prophetic-flamespeaker-tbvxx.md)
+- [Questing Knight](./questing-knight-xmm.md)
+- [Rageblood Shaman](./rageblood-shaman-tbvxx.md)
+- [Ragemonger](./ragemonger-tbvxi.md)
+- [Reckless Minotaur](./reckless-minotaur-tbvxi.md)
+- [Reverent Hunter](./reverent-hunter-tbvxxv.md)
+- [Rollicking Reveler](./rollicking-reveler-tbvxiv.md)
+- [Sage of Hours](./sage-of-hours-tbvxiv.md)
+- [Scholar of Athreos](./scholar-of-athreos-tbvxxv.md)
+- [Scout](./scout-xmm.md)
+- [Scout Captain](./scout-captain-xmm.md)
+- [Serene Master](./serene-master-tbvxiv.md)
+- [Serpent Dancer](./serpent-dancer-tbvxiv.md)
+- [Setessan Battle Priest](./setessan-battle-priest-tbvxvi.md)
+- [Setessan Hoplite](./setessan-hoplite-mot.md)
+- [Setessan Starbreaker](./setessan-starbreaker-tbvxvi.md)
+- [Skyspear Cavalry](./skyspear-cavalry-tbvxviii.md)
+- [Soldier of Brimaz](./soldier-of-brimaz-tbvxix.md)
+- [Soldier of Heliod](./soldier-of-heliod-tbvxviii.md)
+- [Soldier of the Pantheon](./soldier-of-the-pantheon-tbvxviii.md)
+- [Sphinx's Disciple](./sphinxs-disciple-tbvxiv.md)
+- [Spy](./spy-xmm.md)
+- [Spy Master](./spy-master-xmm.md)
+- [Staunch-Hearted Warrior](./staunch-hearted-warrior-tbvxvi.md)
+- [Stonewise Fortifier](./stonewise-fortifier-tbvxxv.md)
+- [Stormcaller of Keranos](./stormcaller-of-keranos-tbvxxv.md)
+- [Tethmos High Priest](./tethmos-high-priest-tbvxix.md)
+- [Tormented Hero](./tormented-hero-tbvxvi.md)
+- [Tough](./tough-xmm.md)
+- [Tough Boss](./tough-boss-xmm.md)
+- [Triton Cavalry](./triton-cavalry-tbvvii.md)
+- [Triton Fortune Hunter](./triton-fortune-hunter-tbvvii.md)
+- [Triton Master of Waves](./triton-master-of-waves-mot.md)
+- [Triton Shorestalker](./triton-shorestalker-mot.md)
+- [Triton Shorethief](./triton-shorethief-tbvvii.md)
+- [Vampire Familiar](./vampire-familiar-xmm.md)
+- [Vanguard of Brimaz](./vanguard-of-brimaz-tbvxix.md)
+- [Wandering Philosopher](./wandering-philosopher-tbvxiv.md)
+- [War Oracle](./war-oracle-tbvxx.md)
+- [Warchanter of Mogis](./warchanter-of-mogis-tbvxi.md)
+- [Warrior Commander](./warrior-commander-xmm.md)
+- [Warrior Infantry](./warrior-infantry-xmm.md)
+- [Warrior Veteran](./warrior-veteran-xmm.md)
+- [Wavecrash Triton](./wavecrash-triton-tbvvii.md)
+- [Wild Maenad](./wild-maenad-tbvxiv.md)
+- [Wingsteed Rider](./wingsteed-rider-tbvxvi.md)

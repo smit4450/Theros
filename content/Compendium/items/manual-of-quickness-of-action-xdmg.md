@@ -1,16 +1,16 @@
 ---
-title: Manual of Quickness of Action
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Manual of Quickness of Action"
 ---
 # Manual of Quickness of Action
 *Wondrous item, very rare*  
-![](Compendium/items/img/manual-of-quickness-of-action.webp#right)
+![](/Compendium/items/img/manual-of-quickness-of-action.webp#right)
 
 - **Weight**: 5.0 lbs.
 

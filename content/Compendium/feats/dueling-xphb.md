@@ -1,13 +1,12 @@
 ---
-title: Dueling
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Dueling
+- "Dueling"
 ---
 # Dueling
 *Source: Player's Handbook (2024) p. 209*  

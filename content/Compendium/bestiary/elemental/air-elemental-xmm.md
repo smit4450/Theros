@@ -1,9 +1,9 @@
 ---
-title: Air Elemental
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/5
 - monster/environment/air
 - monster/environment/desert
@@ -11,13 +11,13 @@ tags:
 - monster/environment/planar
 - monster/size/large
 - monster/type/elemental
-statblock: inline
-aliases: ["Air Elemental"]
+aliases:
+- "Air Elemental"
 ---
 # Air Elemental
-*Source: Monster Manual (2024) p. 13, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 13. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/books/monster-manual-2025/img/air-elemental.webp#right)
 
-![](Compendium/books/monster-manual-2025/img/air-elemental.webp#right)  
 ## Air Elemental
 
 *Primal Spirit of Wind and Storm*
@@ -44,53 +44,44 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 | 5 | Sinister features obscured in a misty mass. |
 | 6 | Swirling storm clouds. |
 ^air-elemental-compositions
-```statblock
-"name": "Air Elemental (XMM)"
-"size": "Large"
-"type": "elemental"
-"alignment": "Neutral"
-"ac": !!int "15"
-"hp": !!int "90"
-"hit_dice": "12d10 + 24"
-"modifier": !!int "5"
-"stats":
-  - !!int "14"
-  - !!int "20"
-  - !!int "14"
-  - !!int "6"
-  - !!int "10"
-  - !!int "6"
-"speed": "10 ft., fly 90 ft. (hover)"
-"damage_resistances": "bludgeoning, lightning, piercing, slashing"
-"damage_immunities": "poison, thunder"
-"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
-  \ [[conditions#Unconscious|unconscious]]"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 10"
-"languages": "Primordial (Auran)"
-"cr": "5"
-"traits":
-  - "desc": "The elemental can enter a creature's space and stop there. It can move\
-      \ through a space as narrow as 1 inch without expending extra movement to do\
-      \ so."
-    "name": "Air Form"
-"actions":
-  - "desc": "The elemental makes two Thunderous Slam attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 14 (2d8 + 5) Thunder\
-      \ damage."
-    "name": "Thunderous Slam"
-  - "desc": "*Strength Saving Throw:* DC 13, one Medium or smaller creature in the\
-      \ elemental's space. *Failure:* 24 (4d10 + 2) Thunder damage, and the target\
-      \ is pushed up to 20 feet straight away from the elemental and has the [[conditions#Prone|Prone]]\
-      \ condition. *Success:* Half damage only."
-    "name": "Whirlwind (Recharge 4-6)"
-"source":
-  - "XMM"
-  - "FRHoF"
-"image": "Compendium/bestiary/elemental/token/air-elemental-xmm.webp"
+
+```ad-statblock
+title: Air Elemental
+![](/Compendium/bestiary/elemental/token/air-elemental-xmm.webp#token)
+*Large elemental, Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 90 (`12d10 + 24`) 
+- **Speed** 10 ft., fly 90 ft. (hover)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|20 (+5)|14 (+2)| 6 (-2)|10 (+0)| 6 (-2)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Resistances** bludgeoning, lightning, piercing, slashing
+- **Damage Immunities** poison, thunder
+- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [unconscious](/Compendium/rules/conditions.md#Unconscious)
+- **Languages** Primordial (Auran)
+- **Challenge** 5
+
+## Traits
+
+***Air Form.*** The elemental can enter a creature's space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
+
+## Actions
+
+***Multiattack.*** The elemental makes two Thunderous Slam attacks.
+
+***Thunderous Slam.*** *Melee Attack Roll:* `+8`, reach 10 ft. *Hit:* 14 (`2d8 + 5`) Thunder damage.
+
+***Whirlwind (Recharge 4-6).*** *Strength Saving Throw:* DC 13, one Medium or smaller creature in the elemental's space. *Failure:* 24 (`4d10 + 2`) Thunder damage, and the target is pushed up to 20 feet straight away from the elemental and has the [Prone](/Compendium/rules/conditions.md#Prone) condition. *Success:* Half damage only.
 ```
 ^statblock
+
+## Environment
+
+desert, mountain, planar, air

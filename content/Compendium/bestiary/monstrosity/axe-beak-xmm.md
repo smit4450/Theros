@@ -1,22 +1,22 @@
 ---
-title: Axe Beak
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-4
 - monster/environment/arctic
 - monster/environment/grassland
 - monster/environment/hill
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
-aliases: ["Axe Beak"]
+aliases:
+- "Axe Beak"
 ---
 # Axe Beak
-*Source: Monster Manual (2024) p. 24, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 24. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/monstrosity/img/axe-beak.webp#right)
 
-![](Compendium/bestiary/monstrosity/img/axe-beak.webp#right|850)  
 Alone or in small groups, axe beaks stalk prey to feed their flocks. When working together, axe beaks use rudimentary tactics, with some distracting threats while others strike vulnerable targets or rush young axe beaks to safety.
 
 ## Axe Beaks
@@ -34,35 +34,35 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 > 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
 
+
 ## Statblock
 
-```statblock
-"name": "Axe Beak (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "11"
-"hp": !!int "19"
-"hit_dice": "3d10 + 3"
-"modifier": !!int "1"
-"stats":
-  - !!int "14"
-  - !!int "12"
-  - !!int "12"
-  - !!int "2"
-  - !!int "10"
-  - !!int "5"
-"speed": "50 ft."
-"senses": "passive Perception 10"
-"languages": ""
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing\
-      \ damage."
-    "name": "Beak"
-"source":
-  - "XMM"
-  - "FRHoF"
-"image": "Compendium/bestiary/monstrosity/token/axe-beak-xmm.webp"
+```ad-statblock
+title: Axe Beak
+![](/Compendium/bestiary/monstrosity/token/axe-beak-xmm.webp#token)
+*Large monstrosity, Unaligned*
+
+- **Armor Class** 11 
+- **Hit Points** 19 (`3d10 + 3`) 
+- **Speed** 50 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|12 (+1)|12 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** passive Perception 10
+- **Languages** —
+- **Challenge** 1/4
+
+## Actions
+
+***Beak.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 5 (`1d6 + 2`) Slashing damage.
 ```
 ^statblock
+
+## Environment
+
+arctic, grassland, hill

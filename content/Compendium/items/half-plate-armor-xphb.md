@@ -1,17 +1,17 @@
 ---
-title: Half Plate Armor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/armor/medium
 - item/rarity/none
-aliases: 
+aliases:
 - "Half Plate Armor"
 ---
 # Half Plate Armor
 *Medium armor*  
-![](Compendium/items/img/half-plate-armor.webp#right)
+![](/Compendium/items/img/half-plate-armor.webp#right)
 
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

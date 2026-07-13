@@ -1,27 +1,25 @@
 ---
-title: Druidcraft
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/druid
 - spell/feat/druidic-warrior
 - spell/feat/magic-initiate/druid-spells
 - spell/level/cantrip
 - spell/optfeature/pact-of-the-tome
-- spell/race/elf/wood-elf
 - spell/school/transmutation
 - spell/subclass/college-of-lore
-- spell/subclass/college-of-the-moon
 classes:
 - Bard (College of Lore)
-- Bard (College of the Moon)
 - Druid
-aliases: ["Druidcraft"]
+aliases:
+- "Druidcraft"
 ---
 # Druidcraft
 *cantrip, Transmutation*  
-![](Compendium/spells/img/druidcraft.webp#right)
+![](/Compendium/spells/img/druidcraft.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -40,7 +38,7 @@ You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
 
 ## Sensory Effect
 
-You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [[cube-area-of-effect-xphb|Cube]].
+You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md).
 
 ## Fire Play
 
@@ -48,6 +46,6 @@ You light or snuff out a candle, a torch, or a campfire.
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-druid|Druid]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/Compendium/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

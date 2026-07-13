@@ -1,12 +1,12 @@
 ---
-title: "Potter's Tools"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/artisans-tools
 - item/rarity/none
-aliases: 
+aliases:
 - "Potter's Tools"
 ---
 # Potter's Tools
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)  
-- **Craft.** [[jug-xphb|Jug]], [[lamp-xphb|Lamp]]  
+- **Craft.** [Jug](/Compendium/items/jug-xphb.md), [Lamp](/Compendium/items/lamp-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

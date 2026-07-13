@@ -1,18 +1,18 @@
 ---
-title: Ring of Feather Falling
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Feather Falling"
 ---
 # Ring of Feather Falling
 *Ring, rare (requires attunement)*  
-![](Compendium/items/img/ring-of-feather-falling.webp#right)
+![](/Compendium/items/img/ring-of-feather-falling.webp#right)
 
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.

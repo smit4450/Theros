@@ -1,9 +1,9 @@
 ---
-title: Stinking Cloud
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/wizard
@@ -23,7 +23,8 @@ classes:
 - Sorcerer
 - Warlock (Fiend Patron)
 - Wizard
-aliases: ["Stinking Cloud"]
+aliases:
+- "Stinking Cloud"
 ---
 # Stinking Cloud
 *3rd-level, Conjuration*  
@@ -34,10 +35,10 @@ aliases: ["Stinking Cloud"]
 - **Components:** V, S, M (a rotten egg)
 - **Duration:** Concentration, up to 1 minute
 
-You create a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] of yellow, nauseating gas centered on a point within range. The cloud is [[heavily-obscured-xphb|Heavily Obscured]]. The cloud lingers in the air for the duration or until a strong wind (such as the one created by [[gust-of-wind-xphb|Gust of Wind]]) disperses it.
+You create a 20-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) of yellow, nauseating gas centered on a point within range. The cloud is [Heavily Obscured](/Compendium/rules/variant-rules/heavily-obscured-xphb.md). The cloud lingers in the air for the duration or until a strong wind (such as the one created by [Gust of Wind](/Compendium/spells/gust-of-wind-xphb.md)) disperses it.
 
-Each creature that starts its turn in the [[sphere-area-of-effect-xphb|Sphere]] must succeed on a Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition until the end of the current turn. While [[conditions#Poisoned|Poisoned]] in this way, the creature can't take an action or a [[bonus-action-xphb|Bonus Action]].
+Each creature that starts its turn in the [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) must succeed on a Constitution saving throw or have the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the end of the current turn. While [Poisoned](/Compendium/rules/conditions.md#Poisoned) in this way, the creature can't take an action or a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Druid (Circle of the Land, Tropical Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Tropical Land)](/Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Fiend Patron)](/Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

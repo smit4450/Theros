@@ -1,9 +1,9 @@
 ---
-title: Yuan-ti Malison (Type 3)
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/3
 - monster/environment/desert
 - monster/environment/forest
@@ -11,13 +11,13 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
-statblock: inline
-aliases: ["Yuan-ti Malison (Type 3)"]
+aliases:
+- "Yuan-ti Malison (Type 3)"
 ---
 # Yuan-ti Malison (Type 3)
 *Source: Monster Manual (2024) p. 344*  
+![](/Compendium/bestiary/monstrosity/img/yuan-ti-malison-type-3.webp#right)
 
-![](Compendium/bestiary/monstrosity/img/yuan-ti-malison-type-3.webp#right|850)  
 Malisons exhibit snakelike features that make them deadly in combat.
 
 - **Type 3.** These malisons are human from the waist up, but below that extend the coils of a giant snake.  
@@ -29,7 +29,7 @@ Malisons possesses deadly venom, which some manipulate into magical strikes. The
 *Power-Hungry Serpentine Conspirators*
 
 - **Habitat.** Desert, Forest, Swamp, Urban  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Exploiting pacts with sinister supernatural forces, yuan-ti bargain away their humanity for the lethality and predatory deviousness of serpents. From hidden bastions, they manipulate rulers and the wealthy, seeking to control the world. Many yuan-ti possess venomous magic, which often manifests as fangs or striking serpents.
 
@@ -53,64 +53,57 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 > 
 > Great magic, twisted and corrupted... Malice beyond reckoning... Flesh reshaped, becoming serpentine horrors...
 
-![](Compendium/bestiary/monstrosity/img/yuan-ti.webp#center)  
+
+![](/Compendium/bestiary/monstrosity/img/yuan-ti.webp#center)
+
 ## Statblock
 
-```statblock
-"name": "Yuan-ti Malison (Type 3) (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "66"
-"hit_dice": "12d8 + 12"
-"modifier": !!int "2"
-"stats":
-  - !!int "16"
-  - !!int "14"
-  - !!int "13"
-  - !!int "14"
-  - !!int "16"
-  - !!int "12"
-"speed": "30 ft., climb 30 ft."
-"skillsaves":
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4 (+6 while in snake form)"
-"damage_immunities": "poison"
-"condition_immunities": "[[conditions#Poisoned|poisoned]]"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 13"
-"languages": "Abyssal, Common, Draconic"
-"cr": "3"
-"traits":
-  - "desc": "The yuan-ti has [[advantage-xphb|Advantage]]\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The yuan-ti makes two Poison Burst attacks, and it can use Spellcasting\
-      \ to cast [[suggestion-xphb|Suggestion]] if available."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 120 ft. *Hit:*\
-      \ 12 (2d8 + 3) Poison damage."
-    "name": "Poison Burst (Yuan-ti Form Only)"
-  - "desc": "*Strength Saving Throw:* DC 13, one Medium or smaller creature within\
-      \ 5 feet. *Failure:* 21 (4d8 + 3) Bludgeoning damage. The target has the [[conditions#Grappled|Grappled]]\
-      \ condition (escape DC 13), and it has the [[conditions#Restrained|Restrained]]\
-      \ condition until the grapple ends."
-    "name": "Constrict"
-  - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
-      \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n**At will:** [[animal-friendship-xphb|Animal Friendship]]\
-      \ (snakes only)\n\n**2/day:** [[suggestion-xphb|Suggestion]]"
-    "name": "Spellcasting (Yuan-ti Form Only)"
-"bonus_actions":
-  - "desc": "The yuan-ti shape-shifts into a Medium snake or returns to its true form.\
-      \ If it dies, it stays in its current form. The yuan-ti's game statistics are\
-      \ the same in each form, except where noted. Any equipment it is wearing or\
-      \ carrying isn't transformed."
-    "name": "Shape-Shift"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/monstrosity/token/yuan-ti-malison-type-3-xmm.webp"
+```ad-statblock
+title: Yuan-ti Malison (Type 3)
+![](/Compendium/bestiary/monstrosity/token/yuan-ti-malison-type-3-xmm.webp#token)
+*Medium monstrosity, Neutral Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 66 (`12d8 + 12`) 
+- **Speed** 30 ft., climb 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|14 (+2)|13 (+1)|14 (+2)|16 (+3)|12 (+1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** +4 (+6 while in snake form)
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
+- **Languages** Abyssal, Common, Draconic
+- **Challenge** 3
+
+## Traits
+
+***Magic Resistance.*** The yuan-ti has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The yuan-ti makes two Poison Burst attacks, and it can use Spellcasting to cast [Suggestion](/Compendium/spells/suggestion-xphb.md) if available.
+
+***Poison Burst (Yuan-ti Form Only).*** *Melee  or Ranged Attack Roll:* `+5`, reach 5 ft. or range 120 ft. *Hit:* 12 (`2d8 + 3`) Poison damage.
+
+***Constrict.*** *Strength Saving Throw:* DC 13, one Medium or smaller creature within 5 feet. *Failure:* 21 (`4d8 + 3`) Bludgeoning damage. The target has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 13), and it has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition until the grapple ends.
+
+***Spellcasting (Yuan-ti Form Only).*** The yuan-ti casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 13):
+
+**At will:** [Animal Friendship](/Compendium/spells/animal-friendship-xphb.md) (snakes only)
+
+**2/day:** [Suggestion](/Compendium/spells/suggestion-xphb.md)
+
+## Bonus Actions
+
+***Shape-Shift.*** The yuan-ti shape-shifts into a Medium snake or returns to its true form. If it dies, it stays in its current form. The yuan-ti's game statistics are the same in each form, except where noted. Any equipment it is wearing or carrying isn't transformed.
 ```
 ^statblock
+
+## Environment
+
+desert, forest, swamp, urban

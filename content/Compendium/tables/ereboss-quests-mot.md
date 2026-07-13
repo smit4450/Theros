@@ -1,12 +1,11 @@
 ---
-title: "Erebos's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Erebos's Quests
+- "Erebos's Quests"
 ---
 # Erebos's Quests
 *Source: Mythic Odysseys of Theros p. 124* 

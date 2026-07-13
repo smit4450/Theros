@@ -1,28 +1,25 @@
 ---
-title: Cannon
 obsidianUIMode: preview
 cssclasses:
 - json5e-object
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - object/size/large
 - object/type/siege-weapon
 aliases:
-- Cannon
+- "Cannon"
 ---
 # Cannon
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 96*  
+*Source: Dungeon Master's Guide (2024) p. 96* 
 
-A Cannon uses gunpowder or arcane power to propel heavy iron balls at destructive speeds. A Cannon is usually attached to a wooden frame with wheels. Loading a Cannon requires the [[actions#Utilize|Utilize]] action, and aiming it requires another [[actions#Utilize|Utilize]] action. Then a crew member can take the Cannonball action.
-
+A Cannon uses gunpowder or arcane power to propel heavy iron balls at destructive speeds. A Cannon is usually attached to a wooden frame with wheels. Loading a Cannon requires the [Utilize](/Compendium/rules/actions.md#Utilize) action, and aiming it requires another [Utilize](/Compendium/rules/actions.md#Utilize) action. Then a crew member can take the Cannonball action.
 ```ad-statblock
 title: Cannon
-![](Compendium/objects/token/cannon-xdmg.webp#token)
+![](/Compendium/objects/token/cannon-xdmg.webp#token)
 *Large Siege weapon*
 
-- **Armor Class** 19
-- **Hit Points** 75
+- **Armor Class** 19 
+- **Hit Points** 75 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

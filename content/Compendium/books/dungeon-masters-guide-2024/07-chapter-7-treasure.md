@@ -1,17 +1,16 @@
 ---
-title: "Chapter 7: Treasure"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Chapter 7: Treasure
+- "Chapter 7: Treasure"
 ---
 # Chapter 7: Treasure
 *Source: Dungeon Master's Guide (2024), p. 213* 
 
-![The Black Dragon Onyx guar...](Compendium/books/dungeon-masters-guide-2024/img/104-07-001-onyx-treasure.webp#center "The Black Dragon Onyx guards her treasure hoard in the ruins of Xak Tsaroth")
+![The Black Dragon Onyx guards her treasure hoard in the ruins of Xak Tsaroth](/Compendium/books/dungeon-masters-guide-2024/img/104-07-001-onyx-treasure.webp#center)
 
 Adventurers strive for many things, including glory, knowledge, and justice. Many adventurers also seek something more tangible: treasure. This chapter presents treasure in all its forms, from coins to magic items.
 
@@ -23,25 +22,25 @@ For advice on how to "include treasure in an adventure", see "chapter 4".
 
 To randomly determine a magic item found as treasure, use the "tables" at the end of this chapter.
 
-![[treasure-themes-xdmg|Treasure Themes]]
+![Treasure Themes](/Compendium/tables/treasure-themes-xdmg.md)
 
-![](Compendium/books/dungeon-masters-guide-2024/img/105-07-002-bag-of-coins.webp#center)
+![](/Compendium/books/dungeon-masters-guide-2024/img/105-07-002-bag-of-coins.webp#center)
 
 ## Coins
 
-The most basic type of treasure is money, including Copper Pieces (CP), Silver Pieces (SP), Electrum Pieces (EP), Gold Pieces (GP), and Platinum Pieces (PP). See the "Player's Handbook" for their [[coins-coin-values-xphb|relative value]]. Fifty coins of any type weigh 1 pound.
+The most basic type of treasure is money, including Copper Pieces (CP), Silver Pieces (SP), Electrum Pieces (EP), Gold Pieces (GP), and Platinum Pieces (PP). See the "Player's Handbook" for their [relative value](/Compendium/tables/coins-coin-values-xphb.md). Fifty coins of any type weigh 1 pound.
 
 ## Trade Bars
 
 Because large numbers of coins can be difficult to transport and account for, many merchants prefer to use trade bars—ingots of precious metals and alloys (usually silver). These bars are valued by weight, as shown in the Trade Bars table.
 
-![[trade-bars-xdmg|Trade Bars]]
+![Trade Bars](/Compendium/tables/trade-bars-xdmg.md)
 
 ## Trade Goods
 
 Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-![[trade-goods-xdmg|Trade Goods]]
+![Trade Goods](/Compendium/tables/trade-goods-xdmg.md)
 
 ## Gemstones
 
@@ -49,17 +48,17 @@ Gemstones are small, lightweight, and easily secured compared to their same valu
 
 If a treasure hoard includes gemstones, you can use the following tables to randomly determine the kind of gemstones found, based on their value. You can roll once and assume all the gems are the same or roll multiple times to create mixed collections.
 
-![[10-gp-gemstones-xdmg|10 GP Gemstones]]
+![10 GP Gemstones](/Compendium/tables/10-gp-gemstones-xdmg.md)
 
-![[50-gp-gemstones-xdmg|50 GP Gemstones]]
+![50 GP Gemstones](/Compendium/tables/50-gp-gemstones-xdmg.md)
 
-![[100-gp-gemstones-xdmg|100 GP Gemstones]]
+![100 GP Gemstones](/Compendium/tables/100-gp-gemstones-xdmg.md)
 
-![[500-gp-gemstones-xdmg|500 GP Gemstones]]
+![500 GP Gemstones](/Compendium/tables/500-gp-gemstones-xdmg.md)
 
-![[1000-gp-gemstones-xdmg|1,000 GP Gemstones]]
+![1,000 GP Gemstones](/Compendium/tables/1000-gp-gemstones-xdmg.md)
 
-![[5000-gp-gemstones-xdmg|5,000 GP Gemstones]]
+![5,000 GP Gemstones](/Compendium/tables/5000-gp-gemstones-xdmg.md)
 
 ## Art Objects
 
@@ -67,15 +66,15 @@ Idols cast of solid gold, necklaces studded with precious stones, paintings of a
 
 If a treasure hoard includes art objects, you can use the following tables to randomly determine what art objects are found, based on their value. Roll on a table as many times as there are art objects in the treasure hoard. There can be more than one of a given art object.
 
-![[25-gp-art-objects-xdmg|25 GP Art Objects]]
+![25 GP Art Objects](/Compendium/tables/25-gp-art-objects-xdmg.md)
 
-![[250-gp-art-objects-xdmg|250 GP Art Objects]]
+![250 GP Art Objects](/Compendium/tables/250-gp-art-objects-xdmg.md)
 
-![[750-gp-art-objects-xdmg|750 GP Art Objects]]
+![750 GP Art Objects](/Compendium/tables/750-gp-art-objects-xdmg.md)
 
-![[2500-gp-art-objects-xdmg|2,500 GP Art Objects]]
+![2,500 GP Art Objects](/Compendium/tables/2500-gp-art-objects-xdmg.md)
 
-![[7500-gp-art-objects-xdmg|7,500 GP Art Objects]]
+![7,500 GP Art Objects](/Compendium/tables/7500-gp-art-objects-xdmg.md)
 
 ## Magic Items
 
@@ -91,20 +90,20 @@ Magic items are gleaned from the hoards of felled monsters or discovered in long
 > 
 > **Unusual Anatomy.** Use your discretion to decide whether a creature can wear an item not made for its anatomy. A ring placed on a tentacle might work, but a yuan-ti with a snakelike tail instead of legs can't wear magic boots.
 > 
-> **Paired Items.** You can allow exceptions to the rule that paired items must both be worn. For example, a character with only one arm might be able to use a single [[gloves-of-missile-snaring-xdmg|Glove of Missile Snaring]] so long as the matching glove is on their person.
+> **Paired Items.** You can allow exceptions to the rule that paired items must both be worn. For example, a character with only one arm might be able to use a single [Glove of Missile Snaring](/Compendium/items/gloves-of-missile-snaring-xdmg.md) so long as the matching glove is on their person.
 ^magic-item-rules
 
 ### Magic Item Categories
 
 Every magic item belongs to a category. The Magic Item Categories table lists the nine categories and provides examples. Rules for the categories appear after the table.
 
-![[magic-item-categories-xdmg|Magic Item Categories]]
+![Magic Item Categories](/Compendium/tables/magic-item-categories-xdmg.md)
 
 #### Armor
 
 An item in the Armor category is typically a magical version of armor from the "Player's Handbook". Unless an armor's description notes otherwise, the armor must be worn for its magic to function.
 
-Some suits of magic armor specify the type of armor they are, such as [[chain-mail-xphb|Chain Mail]] or [[plate-armor-xphb|Plate Armor]]. If no type is specified, choose the type or determine it randomly.
+Some suits of magic armor specify the type of armor they are, such as [Chain Mail](/Compendium/items/chain-mail-xphb.md) or [Plate Armor](/Compendium/items/plate-armor-xphb.md). If no type is specified, choose the type or determine it randomly.
 
 #### Potions
 
@@ -120,7 +119,7 @@ A character might drink one potion while still under the effects of another or p
 
 When a character mixes two potions together, roll on the Potion Miscibility table. If more than two are combined, roll again for each subsequent potion, combining the results. Unless the effects are immediately obvious, reveal them only when they become evident.
 
-![[mixing-potions-potion-miscibility-xdmg|Mixing Potions; Potion Miscibility]]
+![Mixing Potions; Potion Miscibility](/Compendium/tables/mixing-potions-potion-miscibility-xdmg.md)
 
 #### Rings
 
@@ -130,11 +129,11 @@ For its magic to function, an item in the Ring category must be worn on a finger
 
 An item in the Rod category is a scepter usually made of metal, wood, or bone. A typical rod weighs 2 to 5 pounds.
 
-Unless its description notes otherwise, a rod can be used as an [[arcane-focus-xphb|Arcane Focus]].
+Unless its description notes otherwise, a rod can be used as an [Arcane Focus](/Compendium/items/arcane-focus-xphb.md).
 
 #### Scrolls
 
-An item in the Scroll category is a roll of paper or parchment, sometimes attached to wooden rods and typically kept safe in a tube of ivory, jade, leather, metal, or wood. The most prevalent scroll is the [[spell-scroll-xdmg|Spell Scroll]], a spell stored in written form. However, some scrolls, like the [[scroll-of-protection-xdmg|Scroll of Protection]], bear an incantation that isn't a spell.
+An item in the Scroll category is a roll of paper or parchment, sometimes attached to wooden rods and typically kept safe in a tube of ivory, jade, leather, metal, or wood. The most prevalent scroll is the [Spell Scroll](/Compendium/items/spell-scroll-xdmg.md), a spell stored in written form. However, some scrolls, like the [Scroll of Protection](/Compendium/items/scroll-of-protection-xdmg.md), bear an incantation that isn't a spell.
 
 ##### Using a Scroll
 
@@ -146,21 +145,21 @@ Any creature that can understand a written language can read a scroll and attemp
 
 Items in the Staff category vary widely in appearance: some are of nearly equal diameter throughout and smooth, others are gnarled and twisted, some are made of wood, and others are composed of polished metal or crystal. A staff weighs between 2 and 7 pounds and serves well as a walking stick or cane.
 
-Unless its description notes otherwise, a staff can be used as a nonmagical [[quarterstaff-xphb|Quarterstaff]] and an [[arcane-focus-xphb|Arcane Focus]].
+Unless its description notes otherwise, a staff can be used as a nonmagical [Quarterstaff](/Compendium/items/quarterstaff-xphb.md) and an [Arcane Focus](/Compendium/items/arcane-focus-xphb.md).
 
 #### Wands
 
 An item in the Wand category is typically 12 to 15 inches long and crafted of metal, bone, or wood. It is tipped with metal, crystal, stone, or some other material.
 
-Unless its description notes otherwise, a wand can be used as an [[arcane-focus-xphb|Arcane Focus]].
+Unless its description notes otherwise, a wand can be used as an [Arcane Focus](/Compendium/items/arcane-focus-xphb.md).
 
 #### Weapons
 
-A magic weapon is typically a magical version of a weapon from the "Player's Handbook". Some magic weapons specify the type of weapon they are in their descriptions, such as a [[longsword-xphb|Longsword]] or [[longbow-xphb|Longbow]]. If no weapon type is specified, you may choose the type or determine it randomly.
+A magic weapon is typically a magical version of a weapon from the "Player's Handbook". Some magic weapons specify the type of weapon they are in their descriptions, such as a [Longsword](/Compendium/items/longsword-xphb.md) or [Longbow](/Compendium/items/longbow-xphb.md). If no weapon type is specified, you may choose the type or determine it randomly.
 
 ##### Ammunition
 
-If a magic weapon has the [[item-properties#Ammunition|Ammunition]] property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not.
+If a magic weapon has the [Ammunition](/Compendium/rules/item-properties.md#Ammunition) property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not.
 
 #### Wondrous Items
 
@@ -170,15 +169,15 @@ Wondrous Items include wearable items such as boots, belts, capes, amulets, broo
 
 Every magic item has a rarity, which provides a rough measure of an item's power relative to other magic items. The rarities are shown in the Magic Item Rarities and Values table.
 
-Common magic items, such as a [[potion-of-healing-xdmg|Potion of Healing]], are the most plentiful. Artifacts, such as the [[wand-of-orcus-xdmg|Wand of Orcus]], are priceless, unique, and difficult to acquire.
+Common magic items, such as a [Potion of Healing](/Compendium/items/potion-of-healing-xdmg.md), are the most plentiful. Artifacts, such as the [Wand of Orcus](/Compendium/items/wand-of-orcus-xdmg.md), are priceless, unique, and difficult to acquire.
 
 #### Magic Item Values by Rarity
 
 Common magic items can often be bought in a town or city. Uncommon and Rare magic items are usually found only in cities, and rarer magic items might be sold only in wondrous locations, such as the "City of Brass" or "Sigil". If you allow characters to buy and sell magic items in your campaign, rarity can help you set prices for those items. Gold Piece values are provided in the Magic Item Rarities and Values table, though a seller might ask for a service rather than coin as payment.
 
-If a magic item incorporates an item that has a purchase cost in the "Player's Handbook" (such as a weapon or a suit of armor), add that item's cost to the magic item's value. For example, [[1-armor-xdmg|+1 Armor (Plate Armor)]] has a value of 5,500 GP, which is the sum of a Rare magic item's value (4,000 GP) and the cost of [[plate-armor-xphb|Plate Armor]] (1,500 GP).
+If a magic item incorporates an item that has a purchase cost in the "Player's Handbook" (such as a weapon or a suit of armor), add that item's cost to the magic item's value. For example, [+1 Armor (Plate Armor)](/Compendium/items/1-armor-xdmg.md) has a value of 5,500 GP, which is the sum of a Rare magic item's value (4,000 GP) and the cost of [Plate Armor](/Compendium/items/plate-armor-xphb.md) (1,500 GP).
 
-![[magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg|Magic Item Values by Rarity; Magic Item Rarities and Values]]
+![Magic Item Values by Rarity; Magic Item Rarities and Values](/Compendium/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)
 
 ### Awarding Magic Items
 
@@ -203,9 +202,9 @@ Encourage your players to keep a wish list of magic items they hope their charac
 
 When creating or modifying an adventure, assume that the characters won't find all the magic items you place in it. An adventure usually can include a number of items that's 25 percent higher than the number in the Magic Items Awarded by Level table (round up). For example, an adventure designed to take characters from level 1 to 4 might include fourteen items rather than eleven, in the expectation that three items won't be found.
 
-![[magic-items-awarded-by-level-xdmg|Magic Items Awarded by Level]]
+![Magic Items Awarded by Level](/Compendium/tables/magic-items-awarded-by-level-xdmg.md)
 
-![Download PDF](Compendium/books/dungeon-masters-guide-2024/img/106-07-003-magic-item-tracker-sheet.webp#center)
+![Download PDF](/Compendium/books/dungeon-masters-guide-2024/img/106-07-003-magic-item-tracker-sheet.webp#center)
 
 #### Magic Item Tracker
 
@@ -217,11 +216,11 @@ When you decide that a treasure contains magic items, there are two ways to dete
 
 To use the table, find the level of the characters in the top row. Roll `1d100`, and read down that column to find your roll. Then read across to the right column to find the rarity of the item.
 
-![[random-magic-item-rarity-magic-item-rarities-xdmg|Random Magic Item Rarity; Magic Item Rarities]]
+![Random Magic Item Rarity; Magic Item Rarities](/Compendium/tables/random-magic-item-rarity-magic-item-rarities-xdmg.md)
 
 > [!note] Magic Items for Starting Characters
 > 
-> If you're starting a campaign for characters above level 1, the "Player's Handbook" offers [[starting-equipment-at-higher-levels-xphb|suggestions]] for how many magic items such characters should start with and the rarity of those items. Consider these approaches to determining the items each character receives:
+> If you're starting a campaign for characters above level 1, the "Player's Handbook" offers [suggestions](/Compendium/tables/starting-equipment-at-higher-levels-xphb.md) for how many magic items such characters should start with and the rarity of those items. Consider these approaches to determining the items each character receives:
 > 
 > - **DM Choice.** Choose items for each character using your own judgment.  
 > - **Player Choice.** Let the players choose whatever items they want, within the specified rarity.  
@@ -230,25 +229,25 @@ To use the table, find the level of the characters in the top row. Roll `1d100`,
 
 ### Activating a Magic Item
 
-It usually takes a Magic action to activate a magic item. The item's user might also need to do something special. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.
+It usually takes a [Magic](/Compendium/rules/actions.md#Magic) action to activate a magic item. The item's user might also need to do something special. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.
 
 #### Command Word
 
-A command word is a word or short phrase that must be spoken or signed for an item to work. Spoken command words must be audible and fail to work in areas where all sound is suppressed, as in the area of the [[silence-xphb|Silence]] spell.
+A command word is a word or short phrase that must be spoken or signed for an item to work. Spoken command words must be audible and fail to work in areas where all sound is suppressed, as in the area of the [Silence](/Compendium/spells/silence-xphb.md) spell.
 
 #### Consumable Items
 
-Some items are consumed—used up, in other words—when they are activated. A [[potion-of-healing-xdmg|Potion of Healing]] must be swallowed, for example, while the writing vanishes from a scroll when it is read. Once used, a consumable item loses its magic.
+Some items are consumed—used up, in other words—when they are activated. A [Potion of Healing](/Compendium/items/potion-of-healing-xdmg.md) must be swallowed, for example, while the writing vanishes from a scroll when it is read. Once used, a consumable item loses its magic.
 
 #### Spells Cast from Items
 
-Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spell and caster level, doesn't expend any of the user's spell slots, and requires no components unless the item's description notes otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires Concentration. Many items, such as Potions, bypass the casting of a spell and confer the spell's effects with its usual duration. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
+Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spell and caster level, doesn't expend any of the user's spell slots, and requires no components unless the item's description notes otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [Concentration](/Compendium/rules/conditions.md#Concentration). Many items, such as Potions, bypass the casting of a spell and confer the spell's effects with its usual duration. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
 
 A magic item may require the user to use their own spellcasting ability when casting a spell from the item. If the user has more than one spellcasting ability, the user chooses which one to use with the item. If the user doesn't have a spellcasting ability, their spellcasting ability modifier is +0 for the item, and the user's Proficiency Bonus applies.
 
 #### Charges
 
-Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when the [[identify-xphb|Identify]] spell is cast on it. A creature attuned to an item knows how many charges the item has and how many it regains.
+Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when the [Identify](/Compendium/spells/identify-xphb.md) spell is cast on it. A creature attuned to an item knows how many charges the item has and how many it regains.
 
 ### "The Next Dawn"
 
@@ -256,9 +255,9 @@ Magic items often have charges or properties that recharge at the next dawn or s
 
 ### Cursed Items
 
-A magic item's description specifies whether it bears a curse. Most methods of identifying items, including the [[identify-xphb|Identify]] spell, fail to reveal such a curse.
+A magic item's description specifies whether it bears a curse. Most methods of identifying items, including the [Identify](/Compendium/spells/identify-xphb.md) spell, fail to reveal such a curse.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with a [[remove-curse-xphb|Remove Curse]] spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with a [Remove Curse](/Compendium/spells/remove-curse-xphb.md) spell.
 
 ### Magic Item Resilience
 
@@ -272,13 +271,13 @@ The "Player's Handbook" contains rules on "brewing Potions of Healing" and "scri
 
 #### Arcana Proficiency
 
-To craft a magic item, you and any assistants must have proficiency in the [[skills#Arcana|Arcana]] skill.
+To craft a magic item, you and any assistants must have proficiency in the [Arcana](/Compendium/rules/skills.md#Arcana) skill.
 
 #### Tools
 
 The Magic Item Tools table lists which tool is required to make a magic item of each category. You must use the required tool to make an item and have proficiency with that tool. Any assistants must also have proficiency with it. For more "information on the tools", see the "Player's Handbook".
 
-![[magic-item-tools-xdmg|Magic Item Tools]]
+![Magic Item Tools](/Compendium/tables/magic-item-tools-xdmg.md)
 
 #### Spells
 
@@ -300,31 +299,31 @@ Characters can combine their efforts to shorten the crafting time. Divide the ti
 
 The cost in the table represents the raw materials needed to make a magic item. The DM determines whether appropriate raw materials are available. In a city, there is a 75 percent chance that the materials are available, and in any other settlement, that chance is 25 percent. If materials aren't available, you must wait at least 7 days before checking on the availability again.
 
-If a magic item incorporates an item that has a purchase cost (such as a weapon or a suit of armor), you must also pay that entire cost or craft that item "using the rules" in the "Player's Handbook". For example, to make [[1-armor-xdmg|+1 Armor (Plate Armor)]], you must pay 3,500 GP or pay 2,000 GP and craft the armor.
+If a magic item incorporates an item that has a purchase cost (such as a weapon or a suit of armor), you must also pay that entire cost or craft that item "using the rules" in the "Player's Handbook". For example, to make [+1 Armor (Plate Armor)](/Compendium/items/1-armor-xdmg.md), you must pay 3,500 GP or pay 2,000 GP and craft the armor.
 
-![[magic-item-crafting-time-and-cost-xdmg|Magic Item Crafting Time and Cost]]
+![Magic Item Crafting Time and Cost](/Compendium/tables/magic-item-crafting-time-and-cost-xdmg.md)
 
-![Crafting magic items requires time and research](Compendium/books/dungeon-masters-guide-2024/img/107-07-004-crafting-magic-items.webp#center)
+![Crafting magic items requires time and research](/Compendium/books/dungeon-masters-guide-2024/img/107-07-004-crafting-magic-items.webp#center)
 
 ### Magic Item Special Features
 
-You can add distinctiveness to a magic item by thinking about its backstory. Who made the item? Is anything unusual about its construction? Why was it made, and how was it used originally? What minor magical quirks set it apart from other items of its kind? Answering these questions can help turn a generic magic item, such as a [[1-weapon-xdmg|+1 Longsword]], into a more flavorful discovery.
+You can add distinctiveness to a magic item by thinking about its backstory. Who made the item? Is anything unusual about its construction? Why was it made, and how was it used originally? What minor magical quirks set it apart from other items of its kind? Answering these questions can help turn a generic magic item, such as a [+1 Longsword](/Compendium/items/1-weapon-xdmg.md), into a more flavorful discovery.
 
 Use the following tables to fill in details about a magic item's history. Some table entries make more sense for certain items than for others. If you roll something that doesn't make sense, roll again, choose a more appropriate entry, or use the rolled detail as inspiration to make up your own special feature.
 
 On the Magic Item's Minor Property table and the Magic Item's Quirk table, "you" refers to the item's bearer.
 
-![[magic-item-special-features-magic-items-creator-or-intended-user-xdmg|Magic Item Special Features; Magic Item's Creator or Intended User]]
+![Magic Item Special Features; Magic Item's Creator or Intended User](/Compendium/tables/magic-item-special-features-magic-items-creator-or-intended-user-xdmg.md)
 
-![[magic-item-special-features-magic-items-history-xdmg|Magic Item Special Features; Magic Item's History]]
+![Magic Item Special Features; Magic Item's History](/Compendium/tables/magic-item-special-features-magic-items-history-xdmg.md)
 
-![[magic-item-special-features-magic-items-minor-property-xdmg|Magic Item Special Features; Magic Item's Minor Property]]
+![Magic Item Special Features; Magic Item's Minor Property](/Compendium/tables/magic-item-special-features-magic-items-minor-property-xdmg.md)
 
-![[magic-item-special-features-magic-items-quirk-xdmg|Magic Item Special Features; Magic Item's Quirk]]
+![Magic Item Special Features; Magic Item's Quirk](/Compendium/tables/magic-item-special-features-magic-items-quirk-xdmg.md)
 
 ### Artifacts
 
-![](Compendium/books/dungeon-masters-guide-2024/img/108-07-005-magic-tome.webp#center)
+![](/Compendium/books/dungeon-masters-guide-2024/img/108-07-005-magic-tome.webp#center)
 
 An Artifact is a unique, singularly powerful magic item with its own origin and history. It could have been created in the midst of a crisis that threatened a kingdom, a world, or the entire multiverse, and carry the weight of that pivotal moment in history.
 
@@ -338,13 +337,13 @@ In addition to its defined properties, an Artifact might have other properties t
 
 An Artifact can have as many as four minor beneficial properties and two major beneficial properties. It can have as many as four minor detrimental properties and two major detrimental properties.
 
-![[artifact-properties-minor-beneficial-properties-xdmg|Artifact Properties; Minor Beneficial Properties]]
+![Artifact Properties; Minor Beneficial Properties](/Compendium/tables/artifact-properties-minor-beneficial-properties-xdmg.md)
 
-![[artifact-properties-major-beneficial-properties-xdmg|Artifact Properties; Major Beneficial Properties]]
+![Artifact Properties; Major Beneficial Properties](/Compendium/tables/artifact-properties-major-beneficial-properties-xdmg.md)
 
-![[artifact-properties-minor-detrimental-properties-xdmg|Artifact Properties; Minor Detrimental Properties]]
+![Artifact Properties; Minor Detrimental Properties](/Compendium/tables/artifact-properties-minor-detrimental-properties-xdmg.md)
 
-![[artifact-properties-major-detrimental-properties-xdmg|Artifact Properties; Major Detrimental Properties]]
+![Artifact Properties; Major Detrimental Properties](/Compendium/tables/artifact-properties-major-detrimental-properties-xdmg.md)
 
 ### Sentient Magic Items
 
@@ -378,13 +377,13 @@ A sentient item can perceive its surroundings out to a limited range. You can ch
 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item (see ""Conflict"" below). You can pick a special purpose or roll on the Sentient Item's Special Purpose table.
 
-![[special-purpose-sentient-items-alignment-xdmg|Special Purpose; Sentient Item's Alignment]]
+![Special Purpose; Sentient Item's Alignment](/Compendium/tables/special-purpose-sentient-items-alignment-xdmg.md)
 
-![[special-purpose-sentient-items-communication-xdmg|Special Purpose; Sentient Item's Communication]]
+![Special Purpose; Sentient Item's Communication](/Compendium/tables/special-purpose-sentient-items-communication-xdmg.md)
 
-![[special-purpose-sentient-items-senses-xdmg|Special Purpose; Sentient Item's Senses]]
+![Special Purpose; Sentient Item's Senses](/Compendium/tables/special-purpose-sentient-items-senses-xdmg.md)
 
-![[sentient-items-special-purpose-xdmg|Sentient Item's Special Purpose]]
+![Sentient Item's Special Purpose](/Compendium/tables/sentient-items-special-purpose-xdmg.md)
 
 #### Conflict
 
@@ -399,369 +398,369 @@ If its bearer refuses to comply with the item's demands, the item can do any of 
 
 - Make it impossible for its bearer to attune to it.  
 - Suppress one or more of its activated properties.  
-- Attempt to take control of its bearer, whereupon the bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the bearer has the [[conditions#Charmed|Charmed]] condition for `1d12` hours. While Charmed in this way, the bearer must try to follow the item's commands. If the bearer takes damage, it repeats the save, ending the effect on a success. Whether or not the attempt to control its bearer succeeds, the item can't use this power again until the next dawn.  
+- Attempt to take control of its bearer, whereupon the bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the bearer has the [Charmed](/Compendium/rules/conditions.md#Charmed) condition for `1d12` hours. While Charmed in this way, the bearer must try to follow the item's commands. If the bearer takes damage, it repeats the save, ending the effect on a success. Whether or not the attempt to control its bearer succeeds, the item can't use this power again until the next dawn.  
 
 ## Magic Items A-Z
 
 Magic items are presented in alphabetical order.
 
-If a magic item description capitalizes a creature's name and presents it in **bold** type, that's a visual cue pointing you to the creature's stat block. Unless the text states otherwise, the stat block is in the "Monster Manual". How to read and use a [[stat-block-xphb|stat block]] is explained in the "Monster Manual" and to a lesser degree in the "Player's Handbook".
+If a magic item description capitalizes a creature's name and presents it in **bold** type, that's a visual cue pointing you to the creature's stat block. Unless the text states otherwise, the stat block is in the "Monster Manual". How to read and use a [stat block](/Compendium/rules/variant-rules/stat-block-xphb.md) is explained in the "Monster Manual" and to a lesser degree in the "Player's Handbook".
 
-- [[adamantine-armor-xdmg|Adamantine Armor]]  
-- [[adamantine-weapon-xdmg|Adamantine Weapon]]  
-- [[alchemy-jug-xdmg|Alchemy Jug]]  
-- [[1-ammunition-xdmg|+1 Ammunition]]  
-- [[2-ammunition-xdmg|+2 Ammunition]]  
-- [[3-ammunition-xdmg|+3 Ammunition]]  
-- [[ammunition-of-slaying-xdmg|Ammunition of Slaying]]  
-- [[amulet-of-health-xdmg|Amulet of Health]]  
-- [[amulet-of-proof-against-detection-and-location-xdmg|Amulet of Proof Against Detection and Location]]  
-- [[amulet-of-the-planes-xdmg|Amulet of the Planes]]  
-- [[animated-shield-xdmg|Animated Shield]]  
-- [[apparatus-of-kwalish-vehicle-xdmg|Apparatus of Kwalish]]  
-- [[1-armor-xdmg|+1 Armor]]  
-- [[2-armor-xdmg|+2 Armor]]  
-- [[3-armor-xdmg|+3 Armor]]  
-- [[armor-of-gleaming-xdmg|Armor of Gleaming]]  
-- [[armor-of-invulnerability-xdmg|Armor of Invulnerability]]  
-- [[armor-of-resistance-xdmg|Armor of Resistance]]  
-- [[armor-of-vulnerability-xdmg|Armor of Vulnerability]]  
-- [[arrow-catching-shield-xdmg|Arrow-Catching Shield]]  
-- [[axe-of-the-dwarvish-lords-xdmg|Axe of the Dwarvish Lords]]  
-- [[baba-yagas-dancing-broom-xdmg|Baba Yaga's Dancing Broom]]  
-- [[bag-of-beans-xdmg|Bag of Beans]]  
-- [[bag-of-devouring-xdmg|Bag of Devouring]]  
-- [[bag-of-holding-xdmg|Bag of Holding]]  
-- [[bag-of-tricks-xdmg|Bag of Tricks]]  
-- [[bead-of-force-xdmg|Bead of Force]]  
-- [[bead-of-nourishment-xdmg|Bead of Nourishment]]  
-- [[bead-of-refreshment-xdmg|Bead of Refreshment]]  
-- [[belt-of-dwarvenkind-xdmg|Belt of Dwarvenkind]]  
-- [[belt-of-giant-strength-xdmg|Belt of Giant Strength]]  
-- [[berserker-axe-xdmg|Berserker Axe]]  
-- [[blackrazor-xdmg|Blackrazor]]  
-- [[book-of-exalted-deeds-xdmg|Book of Exalted Deeds]]  
-- [[book-of-vile-darkness-xdmg|Book of Vile Darkness]]  
-- [[boots-of-elvenkind-xdmg|Boots of Elvenkind]]  
-- [[boots-of-false-tracks-xdmg|Boots of False Tracks]]  
-- [[boots-of-levitation-xdmg|Boots of Levitation]]  
-- [[boots-of-speed-xdmg|Boots of Speed]]  
-- [[boots-of-striding-and-springing-xdmg|Boots of Striding and Springing]]  
-- [[boots-of-the-winterlands-xdmg|Boots of the Winterlands]]  
-- [[bowl-of-commanding-water-elementals-xdmg|Bowl of Commanding Water Elementals]]  
-- [[bracers-of-archery-xdmg|Bracers of Archery]]  
-- [[bracers-of-defense-xdmg|Bracers of Defense]]  
-- [[brazier-of-commanding-fire-elementals-xdmg|Brazier of Commanding Fire Elementals]]  
-- [[brooch-of-shielding-xdmg|Brooch of Shielding]]  
-- [[broom-of-flying-xdmg|Broom of Flying]]  
-- [[candle-of-invocation-xdmg|Candle of Invocation]]  
-- [[candle-of-the-deep-xdmg|Candle of the Deep]]  
-- [[cape-of-the-mountebank-xdmg|Cape of the Mountebank]]  
-- [[cap-of-water-breathing-xdmg|Cap of Water Breathing]]  
-- [[carpet-of-flying-xdmg|Carpet of Flying]]  
-- [[cast-off-armor-xdmg|Cast-Off Armor]]  
-- [[cauldron-of-rebirth-xdmg|Cauldron of Rebirth]]  
-- [[censer-of-controlling-air-elementals-xdmg|Censer of Controlling Air Elementals]]  
-- [[charlatans-die-xdmg|Charlatan's Die]]  
-- [[chime-of-opening-xdmg|Chime of Opening]]  
-- [[circlet-of-blasting-xdmg|Circlet of Blasting]]  
-- [[cloak-of-arachnida-xdmg|Cloak of Arachnida]]  
-- [[cloak-of-billowing-xdmg|Cloak of Billowing]]  
-- [[cloak-of-displacement-xdmg|Cloak of Displacement]]  
-- [[cloak-of-elvenkind-xdmg|Cloak of Elvenkind]]  
-- [[cloak-of-invisibility-xdmg|Cloak of Invisibility]]  
-- [[cloak-of-many-fashions-xdmg|Cloak of Many Fashions]]  
-- [[cloak-of-protection-xdmg|Cloak of Protection]]  
-- [[cloak-of-the-bat-xdmg|Cloak of the Bat]]  
-- [[cloak-of-the-manta-ray-xdmg|Cloak of the Manta Ray]]  
-- [[clockwork-amulet-xdmg|Clockwork Amulet]]  
-- [[clothes-of-mending-xdmg|Clothes of Mending]]  
-- [[crystal-ball-xdmg|Crystal Ball]]  
-- [[cube-of-force-xdmg|Cube of Force]]  
-- [[cube-of-summoning-xdmg|Cube of Summoning]]  
-- [[cubic-gate-xdmg|Cubic Gate]]  
-- [[daerns-instant-fortress-xdmg|Daern's Instant Fortress]]  
-- [[dagger-of-venom-xdmg|Dagger of Venom]]  
-- [[dancing-sword-xdmg|Dancing Sword]]  
-- [[dark-shard-amulet-xdmg|Dark Shard Amulet]]  
-- [[decanter-of-endless-water-xdmg|Decanter of Endless Water]]  
-- [[deck-of-illusions-cards-xdmg|Deck of Illusions]]  
-- [[deck-of-many-things-cards-xdmg|Deck of Many Things]]  
-- [[defender-xdmg|Defender]]  
-- [[demon-armor-xdmg|Demon Armor]]  
-- [[demonomicon-of-iggwilv-xdmg|Demonomicon of Iggwilv]]  
-- [[dimensional-shackles-xdmg|Dimensional Shackles]]  
-- [[dragon-scale-mail-xdmg|Dragon Scale Mail]]  
-- [[dragon-slayer-xdmg|Dragon Slayer]]  
-- [[dread-helm-xdmg|Dread Helm]]  
-- [[driftglobe-xdmg|Driftglobe]]  
-- [[dust-of-disappearance-xdmg|Dust of Disappearance]]  
-- [[dust-of-dryness-xdmg|Dust of Dryness]]  
-- [[dust-of-sneezing-and-choking-xdmg|Dust of Sneezing and Choking]]  
-- [[dwarven-plate-xdmg|Dwarven Plate]]  
-- [[dwarven-thrower-xdmg|Dwarven Thrower]]  
-- [[ear-horn-of-hearing-xdmg|Ear Horn of Hearing]]  
-- [[efreeti-bottle-xdmg|Efreeti Bottle]]  
-- [[efreeti-chain-xdmg|Efreeti Chain]]  
-- [[elemental-gem-xdmg|Elemental Gem]]  
-- [[elixir-of-health-xdmg|Elixir of Health]]  
-- [[elven-chain-xdmg|Elven Chain]]  
-- [[enduring-spellbook-xdmg|Enduring Spellbook]]  
-- [[energy-bow-xdmg|Energy Bow]]  
-- [[enspelled-armor-xdmg|Enspelled Armor]]  
-- [[enspelled-staff-xdmg|Enspelled Staff]]  
-- [[enspelled-weapon-xdmg|Enspelled Weapon]]  
-- [[ersatz-eye-xdmg|Ersatz Eye]]  
-- [[eversmoking-bottle-xdmg|Eversmoking Bottle]]  
-- [[executioners-axe-xdmg|Executioner's Axe]]  
-- [[eye-and-hand-of-vecna-xdmg|Eye and Hand of Vecna]]  
-- [[eyes-of-charming-xdmg|Eyes of Charming]]  
-- [[eyes-of-minute-seeing-xdmg|Eyes of Minute Seeing]]  
-- [[eyes-of-the-eagle-xdmg|Eyes of the Eagle]]  
-- [[figurine-of-wondrous-power-xdmg|Figurine of Wondrous Power]]  
-- [[flame-tongue-xdmg|Flame Tongue]]  
-- [[folding-boat-xdmg|Folding Boat]]  
-- [[frost-brand-xdmg|Frost Brand]]  
-- [[gauntlets-of-ogre-power-xdmg|Gauntlets of Ogre Power]]  
-- [[gem-of-brightness-xdmg|Gem of Brightness]]  
-- [[gem-of-seeing-xdmg|Gem of Seeing]]  
-- [[giant-slayer-xdmg|Giant Slayer]]  
-- [[glamoured-studded-leather-xdmg|Glamoured Studded Leather]]  
-- [[gloves-of-missile-snaring-xdmg|Gloves of Missile Snaring]]  
-- [[gloves-of-swimming-and-climbing-xdmg|Gloves of Swimming and Climbing]]  
-- [[gloves-of-thievery-xdmg|Gloves of Thievery]]  
-- [[goggles-of-night-xdmg|Goggles of Night]]  
-- [[hag-eye-xdmg|Hag Eye]]  
-- [[hammer-of-thunderbolts-xdmg|Hammer of Thunderbolts]]  
-- [[hat-of-disguise-xdmg|Hat of Disguise]]  
-- [[hat-of-many-spells-xdmg|Hat of Many Spells]]  
-- [[hat-of-vermin-xdmg|Hat of Vermin]]  
-- [[hat-of-wizardry-xdmg|Hat of Wizardry]]  
-- [[headband-of-intellect-xdmg|Headband of Intellect]]  
-- [[helm-of-brilliance-xdmg|Helm of Brilliance]]  
-- [[helm-of-comprehending-languages-xdmg|Helm of Comprehending Languages]]  
-- [[helm-of-telepathy-xdmg|Helm of Telepathy]]  
-- [[helm-of-teleportation-xdmg|Helm of Teleportation]]  
-- [[hewards-handy-haversack-xdmg|Heward's Handy Haversack]]  
-- [[hewards-handy-spice-pouch-xdmg|Heward's Handy Spice Pouch]]  
-- [[holy-avenger-xdmg|Holy Avenger]]  
-- [[horn-of-blasting-xdmg|Horn of Blasting]]  
-- [[horn-of-silent-alarm-xdmg|Horn of Silent Alarm]]  
-- [[horn-of-valhalla-xdmg|Horn of Valhalla]]  
-- [[horseshoes-of-a-zephyr-xdmg|Horseshoes of a Zephyr]]  
-- [[horseshoes-of-speed-xdmg|Horseshoes of Speed]]  
-- [[immovable-rod-xdmg|Immovable Rod]]  
-- [[instrument-of-illusions-xdmg|Instrument of Illusions]]  
-- [[instrument-of-scribing-xdmg|Instrument of Scribing]]  
-- [[instrument-of-the-bards-xdmg|Instrument of the Bards]]  
-- [[ioun-stone-xdmg|Ioun Stone]]  
-- [[iron-bands-of-bilarro-xdmg|Iron Bands of Bilarro]]  
-- [[iron-flask-xdmg|Iron Flask]]  
-- [[javelin-of-lightning-xdmg|Javelin of Lightning]]  
-- [[keoghtoms-ointment-xdmg|Keoghtom's Ointment]]  
-- [[lantern-of-revealing-xdmg|Lantern of Revealing]]  
-- [[lock-of-trickery-xdmg|Lock of Trickery]]  
-- [[luck-blade-xdmg|Luck Blade]]  
-- [[lute-of-thunderous-thumping-xdmg|Lute of Thunderous Thumping]]  
-- [[mace-of-disruption-xdmg|Mace of Disruption]]  
-- [[mace-of-smiting-xdmg|Mace of Smiting]]  
-- [[mace-of-terror-xdmg|Mace of Terror]]  
-- [[mantle-of-spell-resistance-xdmg|Mantle of Spell Resistance]]  
-- [[manual-of-bodily-health-xdmg|Manual of Bodily Health]]  
-- [[manual-of-gainful-exercise-xdmg|Manual of Gainful Exercise]]  
-- [[manual-of-golems-xdmg|Manual of Golems]]  
-- [[manual-of-quickness-of-action-xdmg|Manual of Quickness of Action]]  
-- [[mariners-armor-xdmg|Mariner's Armor]]  
-- [[medallion-of-thoughts-xdmg|Medallion of Thoughts]]  
-- [[mirror-of-life-trapping-xdmg|Mirror of Life Trapping]]  
-- [[mithral-armor-xdmg|Mithral Armor]]  
-- [[moonblade-xdmg|Moonblade]]  
-- [[moon-touched-sword-xdmg|Moon-Touched Sword]]  
-- [[mystery-key-xdmg|Mystery Key]]  
-- [[natures-mantle-xdmg|Nature's Mantle]]  
-- [[necklace-of-adaptation-xdmg|Necklace of Adaptation]]  
-- [[necklace-of-fireballs-xdmg|Necklace of Fireballs]]  
-- [[necklace-of-prayer-beads-xdmg|Necklace of Prayer Beads]]  
-- [[nine-lives-stealer-xdmg|Nine Lives Stealer]]  
-- [[nolzurs-marvelous-pigments-xdmg|Nolzur's Marvelous Pigments]]  
-- [[oathbow-xdmg|Oathbow]]  
-- [[oil-of-etherealness-xdmg|Oil of Etherealness]]  
-- [[oil-of-sharpness-xdmg|Oil of Sharpness]]  
-- [[oil-of-slipperiness-xdmg|Oil of Slipperiness]]  
-- [[orb-of-direction-xdmg|Orb of Direction]]  
-- [[orb-of-dragonkind-xdmg|Orb of Dragonkind]]  
-- [[orb-of-time-xdmg|Orb of Time]]  
-- [[pearl-of-power-xdmg|Pearl of Power]]  
-- [[perfume-of-bewitching-xdmg|Perfume of Bewitching]]  
-- [[periapt-of-health-xdmg|Periapt of Health]]  
-- [[periapt-of-proof-against-poison-xdmg|Periapt of Proof Against Poison]]  
-- [[periapt-of-wound-closure-xdmg|Periapt of Wound Closure]]  
-- [[philter-of-love-xdmg|Philter of Love]]  
-- [[pipe-of-smoke-monsters-xdmg|Pipe of Smoke Monsters]]  
-- [[pipes-of-haunting-xdmg|Pipes of Haunting]]  
-- [[pipes-of-the-sewers-xdmg|Pipes of the Sewers]]  
-- [[plate-armor-of-etherealness-xdmg|Plate Armor of Etherealness]]  
-- [[pole-of-angling-xdmg|Pole of Angling]]  
-- [[pole-of-collapsing-xdmg|Pole of Collapsing]]  
-- [[portable-hole-xdmg|Portable Hole]]  
-- [[potion-of-animal-friendship-xdmg|Potion of Animal Friendship]]  
-- [[potion-of-clairvoyance-xdmg|Potion of Clairvoyance]]  
-- [[potion-of-climbing-xdmg|Potion of Climbing]]  
-- [[potion-of-comprehension-xdmg|Potion of Comprehension]]  
-- [[potion-of-diminution-xdmg|Potion of Diminution]]  
-- [[potion-of-fire-breath-xdmg|Potion of Fire Breath]]  
-- [[potion-of-flying-xdmg|Potion of Flying]]  
-- [[potion-of-gaseous-form-xdmg|Potion of Gaseous Form]]  
-- [[potion-of-giant-strength-xdmg|Potion of Giant Strength]]  
-- [[potion-of-greater-invisibility-xdmg|Potion of Greater Invisibility]]  
-- [[potion-of-growth-xdmg|Potion of Growth]]  
-- [[potion-of-healing-xdmg|Potion of Healing]]  
-- [[potion-of-heroism-xdmg|Potion of Heroism]]  
-- [[potion-of-invisibility-xdmg|Potion of Invisibility]]  
-- [[potion-of-invulnerability-xdmg|Potion of Invulnerability]]  
-- [[potion-of-longevity-xdmg|Potion of Longevity]]  
-- [[potion-of-mind-reading-xdmg|Potion of Mind Reading]]  
-- [[potion-of-poison-xdmg|Potion of Poison]]  
-- [[potion-of-pugilism-xdmg|Potion of Pugilism]]  
-- [[potion-of-resistance-xdmg|Potion of Resistance]]  
-- [[potion-of-speed-xdmg|Potion of Speed]]  
-- [[potion-of-vitality-xdmg|Potion of Vitality]]  
-- [[potion-of-water-breathing-xdmg|Potion of Water Breathing]]  
-- [[pot-of-awakening-xdmg|Pot of Awakening]]  
-- [[prosthetic-limb-xdmg|Prosthetic Limb]]  
-- [[quaals-feather-token-xdmg|Quaal's Feather Token]]  
-- [[quarterstaff-of-the-acrobat-xdmg|Quarterstaff of the Acrobat]]  
-- [[quiver-of-ehlonna-xdmg|Quiver of Ehlonna]]  
-- [[ring-of-animal-influence-xdmg|Ring of Animal Influence]]  
-- [[ring-of-djinni-summoning-xdmg|Ring of Djinni Summoning]]  
-- [[ring-of-elemental-command-xdmg|Ring of Elemental Command]]  
-- [[ring-of-evasion-xdmg|Ring of Evasion]]  
-- [[ring-of-feather-falling-xdmg|Ring of Feather Falling]]  
-- [[ring-of-free-action-xdmg|Ring of Free Action]]  
-- [[ring-of-invisibility-xdmg|Ring of Invisibility]]  
-- [[ring-of-jumping-xdmg|Ring of Jumping]]  
-- [[ring-of-mind-shielding-xdmg|Ring of Mind Shielding]]  
-- [[ring-of-protection-xdmg|Ring of Protection]]  
-- [[ring-of-regeneration-xdmg|Ring of Regeneration]]  
-- [[ring-of-resistance-xdmg|Ring of Resistance]]  
-- [[ring-of-shooting-stars-xdmg|Ring of Shooting Stars]]  
-- [[ring-of-spell-storing-xdmg|Ring of Spell Storing]]  
-- [[ring-of-spell-turning-xdmg|Ring of Spell Turning]]  
-- [[ring-of-swimming-xdmg|Ring of Swimming]]  
-- [[ring-of-telekinesis-xdmg|Ring of Telekinesis]]  
-- [[ring-of-the-ram-xdmg|Ring of the Ram]]  
-- [[ring-of-three-wishes-xdmg|Ring of Three Wishes]]  
-- [[ring-of-warmth-xdmg|Ring of Warmth]]  
-- [[ring-of-water-walking-xdmg|Ring of Water Walking]]  
-- [[ring-of-x-ray-vision-xdmg|Ring of X-Ray Vision]]  
-- [[rival-coin-xdmg|Rival Coin]]  
-- [[robe-of-eyes-xdmg|Robe of Eyes]]  
-- [[robe-of-scintillating-colors-xdmg|Robe of Scintillating Colors]]  
-- [[robe-of-stars-xdmg|Robe of Stars]]  
-- [[robe-of-the-archmagi-xdmg|Robe of the Archmagi]]  
-- [[robe-of-useful-items-xdmg|Robe of Useful Items]]  
-- [[rod-of-absorption-xdmg|Rod of Absorption]]  
-- [[rod-of-alertness-xdmg|Rod of Alertness]]  
-- [[rod-of-lordly-might-xdmg|Rod of Lordly Might]]  
-- [[rod-of-resurrection-xdmg|Rod of Resurrection]]  
-- [[rod-of-rulership-xdmg|Rod of Rulership]]  
-- [[rod-of-security-xdmg|Rod of Security]]  
-- [[rod-of-the-pact-keeper-xdmg|Rod of the Pact Keeper]]  
-- [[rope-of-climbing-xdmg|Rope of Climbing]]  
-- [[rope-of-entanglement-xdmg|Rope of Entanglement]]  
-- [[rope-of-mending-xdmg|Rope of Mending]]  
-- [[ruby-of-the-war-mage-xdmg|Ruby of the War Mage]]  
-- [[saddle-of-the-cavalier-xdmg|Saddle of the Cavalier]]  
-- [[scarab-of-protection-xdmg|Scarab of Protection]]  
-- [[scimitar-of-speed-xdmg|Scimitar of Speed]]  
-- [[scroll-of-protection-xdmg|Scroll of Protection]]  
-- [[scroll-of-titan-summoning-xdmg|Scroll of Titan Summoning]]  
-- [[sending-stones-xdmg|Sending Stones]]  
-- [[sentinel-shield-xdmg|Sentinel Shield]]  
-- [[1-shield-xdmg|+1 Shield]]  
-- [[2-shield-xdmg|+2 Shield]]  
-- [[3-shield-xdmg|+3 Shield]]  
-- [[shield-of-expression-xdmg|Shield of Expression]]  
-- [[shield-of-missile-attraction-xdmg|Shield of Missile Attraction]]  
-- [[shield-of-the-cavalier-xdmg|Shield of the Cavalier]]  
-- [[silvered-weapon-xdmg|Silvered Weapon]]  
-- [[slippers-of-spider-climbing-xdmg|Slippers of Spider Climbing]]  
-- [[smoldering-armor-xdmg|Smoldering Armor]]  
-- [[sovereign-glue-xdmg|Sovereign Glue]]  
-- [[spellguard-shield-xdmg|Spellguard Shield]]  
-- [[spell-scroll-xdmg|Spell Scroll]]  
-- [[sphere-of-annihilation-xdmg|Sphere of Annihilation]]  
-- [[spirit-board-xdmg|Spirit Board]]  
-- [[staff-of-adornment-xdmg|Staff of Adornment]]  
-- [[staff-of-birdcalls-xdmg|Staff of Birdcalls]]  
-- [[staff-of-charming-xdmg|Staff of Charming]]  
-- [[staff-of-fire-xdmg|Staff of Fire]]  
-- [[staff-of-flowers-xdmg|Staff of Flowers]]  
-- [[staff-of-frost-xdmg|Staff of Frost]]  
-- [[staff-of-healing-xdmg|Staff of Healing]]  
-- [[staff-of-power-xdmg|Staff of Power]]  
-- [[staff-of-striking-xdmg|Staff of Striking]]  
-- [[staff-of-swarming-insects-xdmg|Staff of Swarming Insects]]  
-- [[staff-of-the-adder-xdmg|Staff of the Adder]]  
-- [[staff-of-the-magi-xdmg|Staff of the Magi]]  
-- [[staff-of-the-python-xdmg|Staff of the Python]]  
-- [[staff-of-the-woodlands-xdmg|Staff of the Woodlands]]  
-- [[staff-of-thunder-and-lightning-xdmg|Staff of Thunder and Lightning]]  
-- [[staff-of-withering-xdmg|Staff of Withering]]  
-- [[stone-of-controlling-earth-elementals-xdmg|Stone of Controlling Earth Elementals]]  
-- [[stone-of-good-luck-xdmg|Stone of Good Luck]]  
-- [[sun-blade-xdmg|Sun Blade]]  
-- [[sword-of-answering-xdmg|Sword of Answering]]  
-- [[sword-of-kas-xdmg|Sword of Kas]]  
-- [[sword-of-life-stealing-xdmg|Sword of Life Stealing]]  
-- [[sword-of-sharpness-xdmg|Sword of Sharpness]]  
-- [[sword-of-vengeance-xdmg|Sword of Vengeance]]  
-- [[sword-of-wounding-xdmg|Sword of Wounding]]  
-- [[sylvan-talon-xdmg|Sylvan Talon]]  
-- [[talisman-of-pure-good-xdmg|Talisman of Pure Good]]  
-- [[talisman-of-the-sphere-xdmg|Talisman of the Sphere]]  
-- [[talisman-of-ultimate-evil-xdmg|Talisman of Ultimate Evil]]  
-- [[talking-doll-xdmg|Talking Doll]]  
-- [[tankard-of-sobriety-xdmg|Tankard of Sobriety]]  
-- [[tentacle-rod-xdmg|Tentacle Rod]]  
-- [[thunderous-greatclub-xdmg|Thunderous Greatclub]]  
-- [[tome-of-clear-thought-xdmg|Tome of Clear Thought]]  
-- [[tome-of-leadership-and-influence-xdmg|Tome of Leadership and Influence]]  
-- [[tome-of-the-stilled-tongue-xdmg|Tome of the Stilled Tongue]]  
-- [[tome-of-understanding-xdmg|Tome of Understanding]]  
-- [[trident-of-fish-command-xdmg|Trident of Fish Command]]  
-- [[universal-solvent-xdmg|Universal Solvent]]  
-- [[veterans-cane-xdmg|Veteran's Cane]]  
-- [[vicious-weapon-xdmg|Vicious Weapon]]  
-- [[vorpal-sword-xdmg|Vorpal Sword]]  
-- [[walloping-ammunition-xdmg|Walloping Ammunition]]  
-- [[wand-of-binding-xdmg|Wand of Binding]]  
-- [[wand-of-conducting-xdmg|Wand of Conducting]]  
-- [[wand-of-enemy-detection-xdmg|Wand of Enemy Detection]]  
-- [[wand-of-fear-xdmg|Wand of Fear]]  
-- [[wand-of-fireballs-xdmg|Wand of Fireballs]]  
-- [[wand-of-lightning-bolts-xdmg|Wand of Lightning Bolts]]  
-- [[wand-of-magic-detection-xdmg|Wand of Magic Detection]]  
-- [[wand-of-magic-missiles-xdmg|Wand of Magic Missiles]]  
-- [[wand-of-orcus-xdmg|Wand of Orcus]]  
-- [[wand-of-paralysis-xdmg|Wand of Paralysis]]  
-- [[wand-of-polymorph-xdmg|Wand of Polymorph]]  
-- [[wand-of-pyrotechnics-xdmg|Wand of Pyrotechnics]]  
-- [[wand-of-secrets-xdmg|Wand of Secrets]]  
-- [[wand-of-the-war-mage-xdmg|Wand of the War Mage]]  
-- [[wand-of-web-xdmg|Wand of Web]]  
-- [[wand-of-wonder-xdmg|Wand of Wonder]]  
-- [[wave-xdmg|Wave]]  
-- [[1-weapon-xdmg|+1 Weapon]]  
-- [[2-weapon-xdmg|+2 Weapon]]  
-- [[3-weapon-xdmg|+3 Weapon]]  
-- [[weapon-of-warning-xdmg|Weapon of Warning]]  
-- [[well-of-many-worlds-xdmg|Well of Many Worlds]]  
-- [[whelm-xdmg|Whelm]]  
-- [[wind-fan-xdmg|Wind Fan]]  
-- [[winged-boots-xdmg|Winged Boots]]  
-- [[wings-of-flying-xdmg|Wings of Flying]]  
-- [[wraps-of-unarmed-power-xdmg|Wraps of Unarmed Power]]  
+- [Adamantine Armor](/Compendium/items/adamantine-armor-xdmg.md)  
+- [Adamantine Weapon](/Compendium/items/adamantine-weapon-xdmg.md)  
+- [Alchemy Jug](/Compendium/items/alchemy-jug-xdmg.md)  
+- [+1 Ammunition](/Compendium/items/1-ammunition-xdmg.md)  
+- [+2 Ammunition](/Compendium/items/2-ammunition-xdmg.md)  
+- [+3 Ammunition](/Compendium/items/3-ammunition-xdmg.md)  
+- [Ammunition of Slaying](/Compendium/items/ammunition-of-slaying-xdmg.md)  
+- [Amulet of Health](/Compendium/items/amulet-of-health-xdmg.md)  
+- [Amulet of Proof Against Detection and Location](/Compendium/items/amulet-of-proof-against-detection-and-location-xdmg.md)  
+- [Amulet of the Planes](/Compendium/items/amulet-of-the-planes-xdmg.md)  
+- [Animated Shield](/Compendium/items/animated-shield-xdmg.md)  
+- [Apparatus of Kwalish](/Compendium/items/apparatus-of-kwalish-xdmg.md)  
+- [+1 Armor](/Compendium/items/1-armor-xdmg.md)  
+- [+2 Armor](/Compendium/items/2-armor-xdmg.md)  
+- [+3 Armor](/Compendium/items/3-armor-xdmg.md)  
+- [Armor of Gleaming](/Compendium/items/armor-of-gleaming-xdmg.md)  
+- [Armor of Invulnerability](/Compendium/items/armor-of-invulnerability-xdmg.md)  
+- [Armor of Resistance](/Compendium/items/armor-of-resistance-xdmg.md)  
+- [Armor of Vulnerability](/Compendium/items/armor-of-vulnerability-xdmg.md)  
+- [Arrow-Catching Shield](/Compendium/items/arrow-catching-shield-xdmg.md)  
+- [Axe of the Dwarvish Lords](/Compendium/items/axe-of-the-dwarvish-lords-xdmg.md)  
+- [Baba Yaga's Dancing Broom](/Compendium/items/baba-yagas-dancing-broom-xdmg.md)  
+- [Bag of Beans](/Compendium/items/bag-of-beans-xdmg.md)  
+- [Bag of Devouring](/Compendium/items/bag-of-devouring-xdmg.md)  
+- [Bag of Holding](/Compendium/items/bag-of-holding-xdmg.md)  
+- [Bag of Tricks](/Compendium/items/bag-of-tricks-xdmg.md)  
+- [Bead of Force](/Compendium/items/bead-of-force-xdmg.md)  
+- [Bead of Nourishment](/Compendium/items/bead-of-nourishment-xdmg.md)  
+- [Bead of Refreshment](/Compendium/items/bead-of-refreshment-xdmg.md)  
+- [Belt of Dwarvenkind](/Compendium/items/belt-of-dwarvenkind-xdmg.md)  
+- [Belt of Giant Strength](/Compendium/items/belt-of-giant-strength-xdmg.md)  
+- [Berserker Axe](/Compendium/items/berserker-axe-xdmg.md)  
+- [Blackrazor](/Compendium/items/blackrazor-xdmg.md)  
+- [Book of Exalted Deeds](/Compendium/items/book-of-exalted-deeds-xdmg.md)  
+- [Book of Vile Darkness](/Compendium/items/book-of-vile-darkness-xdmg.md)  
+- [Boots of Elvenkind](/Compendium/items/boots-of-elvenkind-xdmg.md)  
+- [Boots of False Tracks](/Compendium/items/boots-of-false-tracks-xdmg.md)  
+- [Boots of Levitation](/Compendium/items/boots-of-levitation-xdmg.md)  
+- [Boots of Speed](/Compendium/items/boots-of-speed-xdmg.md)  
+- [Boots of Striding and Springing](/Compendium/items/boots-of-striding-and-springing-xdmg.md)  
+- [Boots of the Winterlands](/Compendium/items/boots-of-the-winterlands-xdmg.md)  
+- [Bowl of Commanding Water Elementals](/Compendium/items/bowl-of-commanding-water-elementals-xdmg.md)  
+- [Bracers of Archery](/Compendium/items/bracers-of-archery-xdmg.md)  
+- [Bracers of Defense](/Compendium/items/bracers-of-defense-xdmg.md)  
+- [Brazier of Commanding Fire Elementals](/Compendium/items/brazier-of-commanding-fire-elementals-xdmg.md)  
+- [Brooch of Shielding](/Compendium/items/brooch-of-shielding-xdmg.md)  
+- [Broom of Flying](/Compendium/items/broom-of-flying-xdmg.md)  
+- [Candle of Invocation](/Compendium/items/candle-of-invocation-xdmg.md)  
+- [Candle of the Deep](/Compendium/items/candle-of-the-deep-xdmg.md)  
+- [Cape of the Mountebank](/Compendium/items/cape-of-the-mountebank-xdmg.md)  
+- [Cap of Water Breathing](/Compendium/items/cap-of-water-breathing-xdmg.md)  
+- [Carpet of Flying](/Compendium/items/carpet-of-flying-xdmg.md)  
+- [Cast-Off Armor](/Compendium/items/cast-off-armor-xdmg.md)  
+- [Cauldron of Rebirth](/Compendium/items/cauldron-of-rebirth-xdmg.md)  
+- [Censer of Controlling Air Elementals](/Compendium/items/censer-of-controlling-air-elementals-xdmg.md)  
+- [Charlatan's Die](/Compendium/items/charlatans-die-xdmg.md)  
+- [Chime of Opening](/Compendium/items/chime-of-opening-xdmg.md)  
+- [Circlet of Blasting](/Compendium/items/circlet-of-blasting-xdmg.md)  
+- [Cloak of Arachnida](/Compendium/items/cloak-of-arachnida-xdmg.md)  
+- [Cloak of Billowing](/Compendium/items/cloak-of-billowing-xdmg.md)  
+- [Cloak of Displacement](/Compendium/items/cloak-of-displacement-xdmg.md)  
+- [Cloak of Elvenkind](/Compendium/items/cloak-of-elvenkind-xdmg.md)  
+- [Cloak of Invisibility](/Compendium/items/cloak-of-invisibility-xdmg.md)  
+- [Cloak of Many Fashions](/Compendium/items/cloak-of-many-fashions-xdmg.md)  
+- [Cloak of Protection](/Compendium/items/cloak-of-protection-xdmg.md)  
+- [Cloak of the Bat](/Compendium/items/cloak-of-the-bat-xdmg.md)  
+- [Cloak of the Manta Ray](/Compendium/items/cloak-of-the-manta-ray-xdmg.md)  
+- [Clockwork Amulet](/Compendium/items/clockwork-amulet-xdmg.md)  
+- [Clothes of Mending](/Compendium/items/clothes-of-mending-xdmg.md)  
+- [Crystal Ball](/Compendium/items/crystal-ball-xdmg.md)  
+- [Cube of Force](/Compendium/items/cube-of-force-xdmg.md)  
+- [Cube of Summoning](/Compendium/items/cube-of-summoning-xdmg.md)  
+- [Cubic Gate](/Compendium/items/cubic-gate-xdmg.md)  
+- [Daern's Instant Fortress](/Compendium/items/daerns-instant-fortress-xdmg.md)  
+- [Dagger of Venom](/Compendium/items/dagger-of-venom-xdmg.md)  
+- [Dancing Sword](/Compendium/items/dancing-sword-xdmg.md)  
+- [Dark Shard Amulet](/Compendium/items/dark-shard-amulet-xdmg.md)  
+- [Decanter of Endless Water](/Compendium/items/decanter-of-endless-water-xdmg.md)  
+- [Deck of Illusions](/Compendium/items/deck-of-illusions-xdmg.md)  
+- [Deck of Many Things](/Compendium/items/deck-of-many-things-xdmg.md)  
+- [Defender](/Compendium/items/defender-xdmg.md)  
+- [Demon Armor](/Compendium/items/demon-armor-xdmg.md)  
+- [Demonomicon of Iggwilv](/Compendium/items/demonomicon-of-iggwilv-xdmg.md)  
+- [Dimensional Shackles](/Compendium/items/dimensional-shackles-xdmg.md)  
+- [Dragon Scale Mail](/Compendium/items/dragon-scale-mail-xdmg.md)  
+- [Dragon Slayer](/Compendium/items/dragon-slayer-xdmg.md)  
+- [Dread Helm](/Compendium/items/dread-helm-xdmg.md)  
+- [Driftglobe](/Compendium/items/driftglobe-xdmg.md)  
+- [Dust of Disappearance](/Compendium/items/dust-of-disappearance-xdmg.md)  
+- [Dust of Dryness](/Compendium/items/dust-of-dryness-xdmg.md)  
+- [Dust of Sneezing and Choking](/Compendium/items/dust-of-sneezing-and-choking-xdmg.md)  
+- [Dwarven Plate](/Compendium/items/dwarven-plate-xdmg.md)  
+- [Dwarven Thrower](/Compendium/items/dwarven-thrower-xdmg.md)  
+- [Ear Horn of Hearing](/Compendium/items/ear-horn-of-hearing-xdmg.md)  
+- [Efreeti Bottle](/Compendium/items/efreeti-bottle-xdmg.md)  
+- [Efreeti Chain](/Compendium/items/efreeti-chain-xdmg.md)  
+- [Elemental Gem](/Compendium/items/elemental-gem-xdmg.md)  
+- [Elixir of Health](/Compendium/items/elixir-of-health-xdmg.md)  
+- [Elven Chain](/Compendium/items/elven-chain-xdmg.md)  
+- [Enduring Spellbook](/Compendium/items/enduring-spellbook-xdmg.md)  
+- [Energy Bow](/Compendium/items/energy-bow-xdmg.md)  
+- [Enspelled Armor](/Compendium/items/enspelled-armor-xdmg.md)  
+- [Enspelled Staff](/Compendium/items/enspelled-staff-xdmg.md)  
+- [Enspelled Weapon](/Compendium/items/enspelled-weapon-xdmg.md)  
+- [Ersatz Eye](/Compendium/items/ersatz-eye-xdmg.md)  
+- [Eversmoking Bottle](/Compendium/items/eversmoking-bottle-xdmg.md)  
+- [Executioner's Axe](/Compendium/items/executioners-axe-xdmg.md)  
+- [Eye and Hand of Vecna](/Compendium/items/eye-and-hand-of-vecna-xdmg.md)  
+- [Eyes of Charming](/Compendium/items/eyes-of-charming-xdmg.md)  
+- [Eyes of Minute Seeing](/Compendium/items/eyes-of-minute-seeing-xdmg.md)  
+- [Eyes of the Eagle](/Compendium/items/eyes-of-the-eagle-xdmg.md)  
+- [Figurine of Wondrous Power](/Compendium/items/figurine-of-wondrous-power-xdmg.md)  
+- [Flame Tongue](/Compendium/items/flame-tongue-xdmg.md)  
+- [Folding Boat](/Compendium/items/folding-boat-xdmg.md)  
+- [Frost Brand](/Compendium/items/frost-brand-xdmg.md)  
+- [Gauntlets of Ogre Power](/Compendium/items/gauntlets-of-ogre-power-xdmg.md)  
+- [Gem of Brightness](/Compendium/items/gem-of-brightness-xdmg.md)  
+- [Gem of Seeing](/Compendium/items/gem-of-seeing-xdmg.md)  
+- [Giant Slayer](/Compendium/items/giant-slayer-xdmg.md)  
+- [Glamoured Studded Leather](/Compendium/items/glamoured-studded-leather-xdmg.md)  
+- [Gloves of Missile Snaring](/Compendium/items/gloves-of-missile-snaring-xdmg.md)  
+- [Gloves of Swimming and Climbing](/Compendium/items/gloves-of-swimming-and-climbing-xdmg.md)  
+- [Gloves of Thievery](/Compendium/items/gloves-of-thievery-xdmg.md)  
+- [Goggles of Night](/Compendium/items/goggles-of-night-xdmg.md)  
+- [Hag Eye](/Compendium/items/hag-eye-xdmg.md)  
+- [Hammer of Thunderbolts](/Compendium/items/hammer-of-thunderbolts-xdmg.md)  
+- [Hat of Disguise](/Compendium/items/hat-of-disguise-xdmg.md)  
+- [Hat of Many Spells](/Compendium/items/hat-of-many-spells-xdmg.md)  
+- [Hat of Vermin](/Compendium/items/hat-of-vermin-xdmg.md)  
+- [Hat of Wizardry](/Compendium/items/hat-of-wizardry-xdmg.md)  
+- [Headband of Intellect](/Compendium/items/headband-of-intellect-xdmg.md)  
+- [Helm of Brilliance](/Compendium/items/helm-of-brilliance-xdmg.md)  
+- [Helm of Comprehending Languages](/Compendium/items/helm-of-comprehending-languages-xdmg.md)  
+- [Helm of Telepathy](/Compendium/items/helm-of-telepathy-xdmg.md)  
+- [Helm of Teleportation](/Compendium/items/helm-of-teleportation-xdmg.md)  
+- [Heward's Handy Haversack](/Compendium/items/hewards-handy-haversack-xdmg.md)  
+- [Heward's Handy Spice Pouch](/Compendium/items/hewards-handy-spice-pouch-xdmg.md)  
+- [Holy Avenger](/Compendium/items/holy-avenger-xdmg.md)  
+- [Horn of Blasting](/Compendium/items/horn-of-blasting-xdmg.md)  
+- [Horn of Silent Alarm](/Compendium/items/horn-of-silent-alarm-xdmg.md)  
+- [Horn of Valhalla](/Compendium/items/horn-of-valhalla-xdmg.md)  
+- [Horseshoes of a Zephyr](/Compendium/items/horseshoes-of-a-zephyr-xdmg.md)  
+- [Horseshoes of Speed](/Compendium/items/horseshoes-of-speed-xdmg.md)  
+- [Immovable Rod](/Compendium/items/immovable-rod-xdmg.md)  
+- [Instrument of Illusions](/Compendium/items/instrument-of-illusions-xdmg.md)  
+- [Instrument of Scribing](/Compendium/items/instrument-of-scribing-xdmg.md)  
+- [Instrument of the Bards](/Compendium/items/instrument-of-the-bards-xdmg.md)  
+- [Ioun Stone](/Compendium/items/ioun-stone-xdmg.md)  
+- [Iron Bands of Bilarro](/Compendium/items/iron-bands-of-bilarro-xdmg.md)  
+- [Iron Flask](/Compendium/items/iron-flask-xdmg.md)  
+- [Javelin of Lightning](/Compendium/items/javelin-of-lightning-xdmg.md)  
+- [Keoghtom's Ointment](/Compendium/items/keoghtoms-ointment-xdmg.md)  
+- [Lantern of Revealing](/Compendium/items/lantern-of-revealing-xdmg.md)  
+- [Lock of Trickery](/Compendium/items/lock-of-trickery-xdmg.md)  
+- [Luck Blade](/Compendium/items/luck-blade-xdmg.md)  
+- [Lute of Thunderous Thumping](/Compendium/items/lute-of-thunderous-thumping-xdmg.md)  
+- [Mace of Disruption](/Compendium/items/mace-of-disruption-xdmg.md)  
+- [Mace of Smiting](/Compendium/items/mace-of-smiting-xdmg.md)  
+- [Mace of Terror](/Compendium/items/mace-of-terror-xdmg.md)  
+- [Mantle of Spell Resistance](/Compendium/items/mantle-of-spell-resistance-xdmg.md)  
+- [Manual of Bodily Health](/Compendium/items/manual-of-bodily-health-xdmg.md)  
+- [Manual of Gainful Exercise](/Compendium/items/manual-of-gainful-exercise-xdmg.md)  
+- [Manual of Golems](/Compendium/items/manual-of-golems-xdmg.md)  
+- [Manual of Quickness of Action](/Compendium/items/manual-of-quickness-of-action-xdmg.md)  
+- [Mariner's Armor](/Compendium/items/mariners-armor-xdmg.md)  
+- [Medallion of Thoughts](/Compendium/items/medallion-of-thoughts-xdmg.md)  
+- [Mirror of Life Trapping](/Compendium/items/mirror-of-life-trapping-xdmg.md)  
+- [Mithral Armor](/Compendium/items/mithral-armor-xdmg.md)  
+- [Moonblade](/Compendium/items/moonblade-xdmg.md)  
+- [Moon-Touched Sword](/Compendium/items/moon-touched-sword-xdmg.md)  
+- [Mystery Key](/Compendium/items/mystery-key-xdmg.md)  
+- [Nature's Mantle](/Compendium/items/natures-mantle-xdmg.md)  
+- [Necklace of Adaptation](/Compendium/items/necklace-of-adaptation-xdmg.md)  
+- [Necklace of Fireballs](/Compendium/items/necklace-of-fireballs-xdmg.md)  
+- [Necklace of Prayer Beads](/Compendium/items/necklace-of-prayer-beads-xdmg.md)  
+- [Nine Lives Stealer](/Compendium/items/nine-lives-stealer-xdmg.md)  
+- [Nolzur's Marvelous Pigments](/Compendium/items/nolzurs-marvelous-pigments-xdmg.md)  
+- [Oathbow](/Compendium/items/oathbow-xdmg.md)  
+- [Oil of Etherealness](/Compendium/items/oil-of-etherealness-xdmg.md)  
+- [Oil of Sharpness](/Compendium/items/oil-of-sharpness-xdmg.md)  
+- [Oil of Slipperiness](/Compendium/items/oil-of-slipperiness-xdmg.md)  
+- [Orb of Direction](/Compendium/items/orb-of-direction-xdmg.md)  
+- [Orb of Dragonkind](/Compendium/items/orb-of-dragonkind-xdmg.md)  
+- [Orb of Time](/Compendium/items/orb-of-time-xdmg.md)  
+- [Pearl of Power](/Compendium/items/pearl-of-power-xdmg.md)  
+- [Perfume of Bewitching](/Compendium/items/perfume-of-bewitching-xdmg.md)  
+- [Periapt of Health](/Compendium/items/periapt-of-health-xdmg.md)  
+- [Periapt of Proof Against Poison](/Compendium/items/periapt-of-proof-against-poison-xdmg.md)  
+- [Periapt of Wound Closure](/Compendium/items/periapt-of-wound-closure-xdmg.md)  
+- [Philter of Love](/Compendium/items/philter-of-love-xdmg.md)  
+- [Pipe of Smoke Monsters](/Compendium/items/pipe-of-smoke-monsters-xdmg.md)  
+- [Pipes of Haunting](/Compendium/items/pipes-of-haunting-xdmg.md)  
+- [Pipes of the Sewers](/Compendium/items/pipes-of-the-sewers-xdmg.md)  
+- [Plate Armor of Etherealness](/Compendium/items/plate-armor-of-etherealness-xdmg.md)  
+- [Pole of Angling](/Compendium/items/pole-of-angling-xdmg.md)  
+- [Pole of Collapsing](/Compendium/items/pole-of-collapsing-xdmg.md)  
+- [Portable Hole](/Compendium/items/portable-hole-xdmg.md)  
+- [Potion of Animal Friendship](/Compendium/items/potion-of-animal-friendship-xdmg.md)  
+- [Potion of Clairvoyance](/Compendium/items/potion-of-clairvoyance-xdmg.md)  
+- [Potion of Climbing](/Compendium/items/potion-of-climbing-xdmg.md)  
+- [Potion of Comprehension](/Compendium/items/potion-of-comprehension-xdmg.md)  
+- [Potion of Diminution](/Compendium/items/potion-of-diminution-xdmg.md)  
+- [Potion of Fire Breath](/Compendium/items/potion-of-fire-breath-xdmg.md)  
+- [Potion of Flying](/Compendium/items/potion-of-flying-xdmg.md)  
+- [Potion of Gaseous Form](/Compendium/items/potion-of-gaseous-form-xdmg.md)  
+- [Potion of Giant Strength](/Compendium/items/potion-of-giant-strength-xdmg.md)  
+- [Potion of Greater Invisibility](/Compendium/items/potion-of-greater-invisibility-xdmg.md)  
+- [Potion of Growth](/Compendium/items/potion-of-growth-xdmg.md)  
+- [Potion of Healing](/Compendium/items/potion-of-healing-xdmg.md)  
+- [Potion of Heroism](/Compendium/items/potion-of-heroism-xdmg.md)  
+- [Potion of Invisibility](/Compendium/items/potion-of-invisibility-xdmg.md)  
+- [Potion of Invulnerability](/Compendium/items/potion-of-invulnerability-xdmg.md)  
+- [Potion of Longevity](/Compendium/items/potion-of-longevity-xdmg.md)  
+- [Potion of Mind Reading](/Compendium/items/potion-of-mind-reading-xdmg.md)  
+- [Potion of Poison](/Compendium/items/potion-of-poison-xdmg.md)  
+- [Potion of Pugilism](/Compendium/items/potion-of-pugilism-xdmg.md)  
+- [Potion of Resistance](/Compendium/items/potion-of-resistance-xdmg.md)  
+- [Potion of Speed](/Compendium/items/potion-of-speed-xdmg.md)  
+- [Potion of Vitality](/Compendium/items/potion-of-vitality-xdmg.md)  
+- [Potion of Water Breathing](/Compendium/items/potion-of-water-breathing-xdmg.md)  
+- [Pot of Awakening](/Compendium/items/pot-of-awakening-xdmg.md)  
+- [Prosthetic Limb](/Compendium/items/prosthetic-limb-xdmg.md)  
+- [Quaal's Feather Token](/Compendium/items/quaals-feather-token-xdmg.md)  
+- [Quarterstaff of the Acrobat](/Compendium/items/quarterstaff-of-the-acrobat-xdmg.md)  
+- [Quiver of Ehlonna](/Compendium/items/quiver-of-ehlonna-xdmg.md)  
+- [Ring of Animal Influence](/Compendium/items/ring-of-animal-influence-xdmg.md)  
+- [Ring of Djinni Summoning](/Compendium/items/ring-of-djinni-summoning-xdmg.md)  
+- [Ring of Elemental Command](/Compendium/items/ring-of-elemental-command-xdmg.md)  
+- [Ring of Evasion](/Compendium/items/ring-of-evasion-xdmg.md)  
+- [Ring of Feather Falling](/Compendium/items/ring-of-feather-falling-xdmg.md)  
+- [Ring of Free Action](/Compendium/items/ring-of-free-action-xdmg.md)  
+- [Ring of Invisibility](/Compendium/items/ring-of-invisibility-xdmg.md)  
+- [Ring of Jumping](/Compendium/items/ring-of-jumping-xdmg.md)  
+- [Ring of Mind Shielding](/Compendium/items/ring-of-mind-shielding-xdmg.md)  
+- [Ring of Protection](/Compendium/items/ring-of-protection-xdmg.md)  
+- [Ring of Regeneration](/Compendium/items/ring-of-regeneration-xdmg.md)  
+- [Ring of Resistance](/Compendium/items/ring-of-resistance-xdmg.md)  
+- [Ring of Shooting Stars](/Compendium/items/ring-of-shooting-stars-xdmg.md)  
+- [Ring of Spell Storing](/Compendium/items/ring-of-spell-storing-xdmg.md)  
+- [Ring of Spell Turning](/Compendium/items/ring-of-spell-turning-xdmg.md)  
+- [Ring of Swimming](/Compendium/items/ring-of-swimming-xdmg.md)  
+- [Ring of Telekinesis](/Compendium/items/ring-of-telekinesis-xdmg.md)  
+- [Ring of the Ram](/Compendium/items/ring-of-the-ram-xdmg.md)  
+- [Ring of Three Wishes](/Compendium/items/ring-of-three-wishes-xdmg.md)  
+- [Ring of Warmth](/Compendium/items/ring-of-warmth-xdmg.md)  
+- [Ring of Water Walking](/Compendium/items/ring-of-water-walking-xdmg.md)  
+- [Ring of X-Ray Vision](/Compendium/items/ring-of-x-ray-vision-xdmg.md)  
+- [Rival Coin](/Compendium/items/rival-coin-xdmg.md)  
+- [Robe of Eyes](/Compendium/items/robe-of-eyes-xdmg.md)  
+- [Robe of Scintillating Colors](/Compendium/items/robe-of-scintillating-colors-xdmg.md)  
+- [Robe of Stars](/Compendium/items/robe-of-stars-xdmg.md)  
+- [Robe of the Archmagi](/Compendium/items/robe-of-the-archmagi-xdmg.md)  
+- [Robe of Useful Items](/Compendium/items/robe-of-useful-items-xdmg.md)  
+- [Rod of Absorption](/Compendium/items/rod-of-absorption-xdmg.md)  
+- [Rod of Alertness](/Compendium/items/rod-of-alertness-xdmg.md)  
+- [Rod of Lordly Might](/Compendium/items/rod-of-lordly-might-xdmg.md)  
+- [Rod of Resurrection](/Compendium/items/rod-of-resurrection-xdmg.md)  
+- [Rod of Rulership](/Compendium/items/rod-of-rulership-xdmg.md)  
+- [Rod of Security](/Compendium/items/rod-of-security-xdmg.md)  
+- [Rod of the Pact Keeper](/Compendium/items/rod-of-the-pact-keeper-xdmg.md)  
+- [Rope of Climbing](/Compendium/items/rope-of-climbing-xdmg.md)  
+- [Rope of Entanglement](/Compendium/items/rope-of-entanglement-xdmg.md)  
+- [Rope of Mending](/Compendium/items/rope-of-mending-xdmg.md)  
+- [Ruby of the War Mage](/Compendium/items/ruby-of-the-war-mage-xdmg.md)  
+- [Saddle of the Cavalier](/Compendium/items/saddle-of-the-cavalier-xdmg.md)  
+- [Scarab of Protection](/Compendium/items/scarab-of-protection-xdmg.md)  
+- [Scimitar of Speed](/Compendium/items/scimitar-of-speed-xdmg.md)  
+- [Scroll of Protection](/Compendium/items/scroll-of-protection-xdmg.md)  
+- [Scroll of Titan Summoning](/Compendium/items/scroll-of-titan-summoning-xdmg.md)  
+- [Sending Stones](/Compendium/items/sending-stones-xdmg.md)  
+- [Sentinel Shield](/Compendium/items/sentinel-shield-xdmg.md)  
+- [+1 Shield](/Compendium/items/1-shield-xdmg.md)  
+- [+2 Shield](/Compendium/items/2-shield-xdmg.md)  
+- [+3 Shield](/Compendium/items/3-shield-xdmg.md)  
+- [Shield of Expression](/Compendium/items/shield-of-expression-xdmg.md)  
+- [Shield of Missile Attraction](/Compendium/items/shield-of-missile-attraction-xdmg.md)  
+- [Shield of the Cavalier](/Compendium/items/shield-of-the-cavalier-xdmg.md)  
+- [Silvered Weapon](/Compendium/items/silvered-weapon-xdmg.md)  
+- [Slippers of Spider Climbing](/Compendium/items/slippers-of-spider-climbing-xdmg.md)  
+- [Smoldering Armor](/Compendium/items/smoldering-armor-xdmg.md)  
+- [Sovereign Glue](/Compendium/items/sovereign-glue-xdmg.md)  
+- [Spellguard Shield](/Compendium/items/spellguard-shield-xdmg.md)  
+- [Spell Scroll](/Compendium/items/spell-scroll-xdmg.md)  
+- [Sphere of Annihilation](/Compendium/items/sphere-of-annihilation-xdmg.md)  
+- [Spirit Board](/Compendium/items/spirit-board-xdmg.md)  
+- [Staff of Adornment](/Compendium/items/staff-of-adornment-xdmg.md)  
+- [Staff of Birdcalls](/Compendium/items/staff-of-birdcalls-xdmg.md)  
+- [Staff of Charming](/Compendium/items/staff-of-charming-xdmg.md)  
+- [Staff of Fire](/Compendium/items/staff-of-fire-xdmg.md)  
+- [Staff of Flowers](/Compendium/items/staff-of-flowers-xdmg.md)  
+- [Staff of Frost](/Compendium/items/staff-of-frost-xdmg.md)  
+- [Staff of Healing](/Compendium/items/staff-of-healing-xdmg.md)  
+- [Staff of Power](/Compendium/items/staff-of-power-xdmg.md)  
+- [Staff of Striking](/Compendium/items/staff-of-striking-xdmg.md)  
+- [Staff of Swarming Insects](/Compendium/items/staff-of-swarming-insects-xdmg.md)  
+- [Staff of the Adder](/Compendium/items/staff-of-the-adder-xdmg.md)  
+- [Staff of the Magi](/Compendium/items/staff-of-the-magi-xdmg.md)  
+- [Staff of the Python](/Compendium/items/staff-of-the-python-xdmg.md)  
+- [Staff of the Woodlands](/Compendium/items/staff-of-the-woodlands-xdmg.md)  
+- [Staff of Thunder and Lightning](/Compendium/items/staff-of-thunder-and-lightning-xdmg.md)  
+- [Staff of Withering](/Compendium/items/staff-of-withering-xdmg.md)  
+- [Stone of Controlling Earth Elementals](/Compendium/items/stone-of-controlling-earth-elementals-xdmg.md)  
+- [Stone of Good Luck](/Compendium/items/stone-of-good-luck-xdmg.md)  
+- [Sun Blade](/Compendium/items/sun-blade-xdmg.md)  
+- [Sword of Answering](/Compendium/items/sword-of-answering-xdmg.md)  
+- [Sword of Kas](/Compendium/items/sword-of-kas-xdmg.md)  
+- [Sword of Life Stealing](/Compendium/items/sword-of-life-stealing-xdmg.md)  
+- [Sword of Sharpness](/Compendium/items/sword-of-sharpness-xdmg.md)  
+- [Sword of Vengeance](/Compendium/items/sword-of-vengeance-xdmg.md)  
+- [Sword of Wounding](/Compendium/items/sword-of-wounding-xdmg.md)  
+- [Sylvan Talon](/Compendium/items/sylvan-talon-xdmg.md)  
+- [Talisman of Pure Good](/Compendium/items/talisman-of-pure-good-xdmg.md)  
+- [Talisman of the Sphere](/Compendium/items/talisman-of-the-sphere-xdmg.md)  
+- [Talisman of Ultimate Evil](/Compendium/items/talisman-of-ultimate-evil-xdmg.md)  
+- [Talking Doll](/Compendium/items/talking-doll-xdmg.md)  
+- [Tankard of Sobriety](/Compendium/items/tankard-of-sobriety-xdmg.md)  
+- [Tentacle Rod](/Compendium/items/tentacle-rod-xdmg.md)  
+- [Thunderous Greatclub](/Compendium/items/thunderous-greatclub-xdmg.md)  
+- [Tome of Clear Thought](/Compendium/items/tome-of-clear-thought-xdmg.md)  
+- [Tome of Leadership and Influence](/Compendium/items/tome-of-leadership-and-influence-xdmg.md)  
+- [Tome of the Stilled Tongue](/Compendium/items/tome-of-the-stilled-tongue-xdmg.md)  
+- [Tome of Understanding](/Compendium/items/tome-of-understanding-xdmg.md)  
+- [Trident of Fish Command](/Compendium/items/trident-of-fish-command-xdmg.md)  
+- [Universal Solvent](/Compendium/items/universal-solvent-xdmg.md)  
+- [Veteran's Cane](/Compendium/items/veterans-cane-xdmg.md)  
+- [Vicious Weapon](/Compendium/items/vicious-weapon-xdmg.md)  
+- [Vorpal Sword](/Compendium/items/vorpal-sword-xdmg.md)  
+- [Walloping Ammunition](/Compendium/items/walloping-ammunition-xdmg.md)  
+- [Wand of Binding](/Compendium/items/wand-of-binding-xdmg.md)  
+- [Wand of Conducting](/Compendium/items/wand-of-conducting-xdmg.md)  
+- [Wand of Enemy Detection](/Compendium/items/wand-of-enemy-detection-xdmg.md)  
+- [Wand of Fear](/Compendium/items/wand-of-fear-xdmg.md)  
+- [Wand of Fireballs](/Compendium/items/wand-of-fireballs-xdmg.md)  
+- [Wand of Lightning Bolts](/Compendium/items/wand-of-lightning-bolts-xdmg.md)  
+- [Wand of Magic Detection](/Compendium/items/wand-of-magic-detection-xdmg.md)  
+- [Wand of Magic Missiles](/Compendium/items/wand-of-magic-missiles-xdmg.md)  
+- [Wand of Orcus](/Compendium/items/wand-of-orcus-xdmg.md)  
+- [Wand of Paralysis](/Compendium/items/wand-of-paralysis-xdmg.md)  
+- [Wand of Polymorph](/Compendium/items/wand-of-polymorph-xdmg.md)  
+- [Wand of Pyrotechnics](/Compendium/items/wand-of-pyrotechnics-xdmg.md)  
+- [Wand of Secrets](/Compendium/items/wand-of-secrets-xdmg.md)  
+- [Wand of the War Mage](/Compendium/items/wand-of-the-war-mage-xdmg.md)  
+- [Wand of Web](/Compendium/items/wand-of-web-xdmg.md)  
+- [Wand of Wonder](/Compendium/items/wand-of-wonder-xdmg.md)  
+- [Wave](/Compendium/items/wave-xdmg.md)  
+- [+1 Weapon](/Compendium/items/1-weapon-xdmg.md)  
+- [+2 Weapon](/Compendium/items/2-weapon-xdmg.md)  
+- [+3 Weapon](/Compendium/items/3-weapon-xdmg.md)  
+- [Weapon of Warning](/Compendium/items/weapon-of-warning-xdmg.md)  
+- [Well of Many Worlds](/Compendium/items/well-of-many-worlds-xdmg.md)  
+- [Whelm](/Compendium/items/whelm-xdmg.md)  
+- [Wind Fan](/Compendium/items/wind-fan-xdmg.md)  
+- [Winged Boots](/Compendium/items/winged-boots-xdmg.md)  
+- [Wings of Flying](/Compendium/items/wings-of-flying-xdmg.md)  
+- [Wraps of Unarmed Power](/Compendium/items/wraps-of-unarmed-power-xdmg.md)  
 
 ## Random Magic Items
 
@@ -769,48 +768,48 @@ Use the tables in this section to randomly determine magic items the characters 
 
 ### Arcana Tables
 
-![[arcana-common-xdmg|Arcana - Common]]
+![Arcana - Common](/Compendium/tables/arcana-common-xdmg.md)
 
-![[arcana-uncommon-xdmg|Arcana - Uncommon]]
+![Arcana - Uncommon](/Compendium/tables/arcana-uncommon-xdmg.md)
 
-![[arcana-rare-xdmg|Arcana - Rare]]
+![Arcana - Rare](/Compendium/tables/arcana-rare-xdmg.md)
 
-![[arcana-very-rare-xdmg|Arcana - Very Rare]]
+![Arcana - Very Rare](/Compendium/tables/arcana-very-rare-xdmg.md)
 
-![[arcana-legendary-xdmg|Arcana - Legendary]]
+![Arcana - Legendary](/Compendium/tables/arcana-legendary-xdmg.md)
 
 ### Armaments Tables
 
-![[armaments-common-xdmg|Armaments - Common]]
+![Armaments - Common](/Compendium/tables/armaments-common-xdmg.md)
 
-![[armaments-uncommon-xdmg|Armaments - Uncommon]]
+![Armaments - Uncommon](/Compendium/tables/armaments-uncommon-xdmg.md)
 
-![[armaments-rare-xdmg|Armaments - Rare]]
+![Armaments - Rare](/Compendium/tables/armaments-rare-xdmg.md)
 
-![[armaments-very-rare-xdmg|Armaments - Very Rare]]
+![Armaments - Very Rare](/Compendium/tables/armaments-very-rare-xdmg.md)
 
-![[armaments-legendary-xdmg|Armaments - Legendary]]
+![Armaments - Legendary](/Compendium/tables/armaments-legendary-xdmg.md)
 
 ### Implements Tables
 
-![[implements-common-xdmg|Implements - Common]]
+![Implements - Common](/Compendium/tables/implements-common-xdmg.md)
 
-![[implements-uncommon-xdmg|Implements - Uncommon]]
+![Implements - Uncommon](/Compendium/tables/implements-uncommon-xdmg.md)
 
-![[implements-rare-xdmg|Implements - Rare]]
+![Implements - Rare](/Compendium/tables/implements-rare-xdmg.md)
 
-![[implements-very-rare-xdmg|Implements - Very Rare]]
+![Implements - Very Rare](/Compendium/tables/implements-very-rare-xdmg.md)
 
-![[implements-legendary-xdmg|Implements - Legendary]]
+![Implements - Legendary](/Compendium/tables/implements-legendary-xdmg.md)
 
 ### Relics Tables
 
-![[relics-common-xdmg|Relics - Common]]
+![Relics - Common](/Compendium/tables/relics-common-xdmg.md)
 
-![[relics-uncommon-xdmg|Relics - Uncommon]]
+![Relics - Uncommon](/Compendium/tables/relics-uncommon-xdmg.md)
 
-![[relics-rare-xdmg|Relics - Rare]]
+![Relics - Rare](/Compendium/tables/relics-rare-xdmg.md)
 
-![[relics-very-rare-xdmg|Relics - Very Rare]]
+![Relics - Very Rare](/Compendium/tables/relics-very-rare-xdmg.md)
 
-![[relics-legendary-xdmg|Relics - Legendary]]
+![Relics - Legendary](/Compendium/tables/relics-legendary-xdmg.md)

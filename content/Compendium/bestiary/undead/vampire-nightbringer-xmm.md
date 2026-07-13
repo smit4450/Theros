@@ -1,21 +1,21 @@
 ---
-title: Vampire Nightbringer
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/8
 - monster/environment/underdark
 - monster/environment/urban
 - monster/size/small-or-medium
 - monster/type/undead
-statblock: inline
-aliases: ["Vampire Nightbringer"]
+aliases:
+- "Vampire Nightbringer"
 ---
 # Vampire Nightbringer
 *Source: Monster Manual (2024) p. 316*  
+![A vampire familiar provides a meal for a vampire spawn](/Compendium/bestiary/undead/img/vampires.webp#right)
 
-![A vampire familiar provide...](Compendium/bestiary/undead/img/vampires.webp#right|850)  
 Born of necromantic rituals and planes of existence suffused with negative energy, vampire nightbringers manipulate shadows and feed on the raw life force of living creatures.
 
 ## Vampires
@@ -49,64 +49,49 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > 
 > Darling, you are simply delicious...
 
+
 ## Statblock
 
-```statblock
-"name": "Vampire Nightbringer (XMM)"
-"size": "Small or Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "16"
-"hp": !!int "142"
-"hit_dice": "19d8 + 57"
-"modifier": !!int "4"
-"stats":
-  - !!int "16"
-  - !!int "18"
-  - !!int "16"
-  - !!int "13"
-  - !!int "14"
-  - !!int "15"
-"speed": "30 ft., fly 30 ft. (hover)"
-"saves":
-  - "dexterity": !!int "7"
-  - "wisdom": !!int "5"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+7"
-"damage_immunities": "cold, necrotic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]]"
-"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
-  \ 15"
-"languages": "Common plus one other language"
-"cr": "8"
-"traits":
-  - "desc": "The vampire takes 10 Radiant damage if it starts its turn in sunlight.\
-      \ While in sunlight, it has [[disadvantage-xphb|Disadvantage]]\
-      \ on attack rolls and ability checks."
-    "name": "Sunlight Hypersensitivity"
-"actions":
-  - "desc": "The vampire makes one Bite attack and one Shadow Strike attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Piercing\
-      \ damage plus 10 (3d6) Necrotic damage. The target's [[hit-points-xphb|Hit Point]]\
-      \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
-      \ vampire regains [[hit-points-xphb|Hit Points]]\
-      \ equal to that amount."
-    "name": "Bite"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Slashing\
-      \ damage plus 14 (4d6) Cold damage."
-    "name": "Shadow Strike"
-"bonus_actions":
-  - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-rules-xphb|Darkness]], the vampire\
-      \ takes the Hide action."
-    "name": "Shadow Stealth"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/undead/token/vampire-nightbringer-xmm.webp"
+```ad-statblock
+title: Vampire Nightbringer
+![](/Compendium/bestiary/undead/token/vampire-nightbringer-xmm.webp#token)
+*Small or Medium undead, Neutral Evil*
+
+- **Armor Class** 16 
+- **Hit Points** 142 (`19d8 + 57`) 
+- **Speed** 30 ft., fly 30 ft. (hover)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|18 (+4)|16 (+3)|13 (+1)|14 (+2)|15 (+2)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +7, Wisdom +5
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5, [Stealth](/Compendium/rules/skills.md#Stealth) +7
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 15
+- **Damage Immunities** cold, necrotic
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened)
+- **Languages** Common plus one other language
+- **Challenge** 8
+
+## Traits
+
+***Sunlight Hypersensitivity.*** The vampire takes 10 Radiant damage if it starts its turn in sunlight. While in sunlight, it has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls and ability checks.
+
+## Actions
+
+***Multiattack.*** The vampire makes one Bite attack and one Shadow Strike attack.
+
+***Bite.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 7 (`1d6 + 4`) Piercing damage plus 10 (`3d6`) Necrotic damage. The target's [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) equal to that amount.
+
+***Shadow Strike.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 7 (`1d6 + 4`) Slashing damage plus 14 (`4d6`) Cold damage.
+
+## Bonus Actions
+
+***Shadow Stealth.*** While in [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md) or [Darkness](/Compendium/rules/variant-rules/darkness-xphb.md), the vampire takes the [Hide](/Compendium/rules/actions.md#Hide) action.
 ```
 ^statblock
+
+## Environment
+
+underdark, urban

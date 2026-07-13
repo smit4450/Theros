@@ -1,12 +1,11 @@
 ---
-title: "Kruphix's Divine Schemes"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Kruphix's Divine Schemes
+- "Kruphix's Divine Schemes"
 ---
 # Kruphix's Divine Schemes
 *Source: Mythic Odysseys of Theros p. 149* 

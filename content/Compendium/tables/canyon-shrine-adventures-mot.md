@@ -1,12 +1,11 @@
 ---
-title: Canyon Shrine Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Canyon Shrine Adventures
+- "Canyon Shrine Adventures"
 ---
 # Canyon Shrine Adventures
 *Source: Mythic Odysseys of Theros p. 154* 
@@ -17,7 +16,7 @@ aliases:
 |-----------|----------------|
 | 1 | Survive a journey through the canyon while escorting a caravan transporting offerings to another god. |
 | 2 | Slay a massive, blood-drunk monster that rampages through the region. |
-| 3 | Find a band of [[minotaur-of-baphomet-xmm|minotaurs]] residing in the canyon and convince them to attack a gang of undead about to pass through on their way to attack a village. |
+| 3 | Find a band of [minotaurs](/Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) residing in the canyon and convince them to attack a gang of undead about to pass through on their way to attack a village. |
 | 4 | Consult a hermit who lives in a hidden part of the canyon. |
 | 5 | Retrieve an item buried amid the shrine's sacrifices. |
 | 6 | Destroy the shrine. |

@@ -1,9 +1,9 @@
 ---
-title: Ice Knife
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/druid
 - spell/class/sorcerer
@@ -14,21 +14,20 @@ tags:
 - spell/subclass/arcane-trickster
 - spell/subclass/college-of-lore
 - spell/subclass/eldritch-knight
-- spell/subclass/winter-walker
 classes:
 - Bard
 - Bard (College of Lore)
 - Druid
 - Fighter (Eldritch Knight)
-- Ranger (Winter Walker)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Ice Knife"]
+aliases:
+- "Ice Knife"
 ---
 # Ice Knife
 *1st-level, Conjuration*  
-![](Compendium/spells/img/ice-knife.webp#right)
+![](/Compendium/spells/img/ice-knife.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -39,6 +38,6 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 
 **Using a Higher-Level Spell Slot.** The Cold damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Winter Walker)](Compendium/lists/list-spells-classes-winter-walker-frhof.md "subclass=FRHoF;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

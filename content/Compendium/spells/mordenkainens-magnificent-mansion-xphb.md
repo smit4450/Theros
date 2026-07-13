@@ -1,9 +1,9 @@
 ---
-title: "Mordenkainen's Magnificent Mansion"
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/wizard
 - spell/level/7th-level
@@ -11,11 +11,12 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Mordenkainen's Magnificent Mansion"]
+aliases:
+- "Mordenkainen's Magnificent Mansion"
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  
-![](Compendium/spells/img/mordenkainens-magnificent-mansion.webp#right)
+![](/Compendium/spells/img/mordenkainens-magnificent-mansion.webp#right)
 
 - **Casting time:** 1 minute
 - **Range:** 300 feet
@@ -32,6 +33,6 @@ A staff of 100 near-transparent servants attends all who enter. You determine th
 
 When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Magnificent Mansion") and the Free Rules (2024)*

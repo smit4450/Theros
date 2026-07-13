@@ -1,12 +1,11 @@
 ---
-title: The Outer Planes; Outer Planes
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- The Outer Planes; Outer Planes
+- "The Outer Planes; Outer Planes"
 ---
 # The Outer Planes; Outer Planes
 *Source: Player's Handbook (2024) p. 344* 

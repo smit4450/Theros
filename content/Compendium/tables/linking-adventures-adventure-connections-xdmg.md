@@ -1,12 +1,11 @@
 ---
-title: Linking Adventures; Adventure Connections
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Linking Adventures; Adventure Connections
+- "Linking Adventures; Adventure Connections"
 ---
 # Linking Adventures; Adventure Connections
 *Source: Dungeon Master's Guide (2024) p. 139* 

@@ -1,20 +1,20 @@
 ---
-title: Owlbear
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/3
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
-aliases: ["Owlbear"]
+aliases:
+- "Owlbear"
 ---
 # Owlbear
-*Source: Monster Manual (2024) p. 234, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/monstrosity/img/owlbears.webp#right)
 
-![](Compendium/bestiary/monstrosity/img/owlbears.webp#right|850)  
 Owlbears are tenacious hunters that might track prey over miles and rarely give up their hunts.
 
 ## Owlbears
@@ -37,41 +37,37 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 | 3 | A nest with `1d6` owlbear eggs. |
 | 4 | Passages through the earth or hollow trees. |
 ^owlbear-den-features
+
 ## Statblock
 
-```statblock
-"name": "Owlbear (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "13"
-"hp": !!int "59"
-"hit_dice": "7d10 + 21"
-"modifier": !!int "1"
-"stats":
-  - !!int "20"
-  - !!int "12"
-  - !!int "17"
-  - !!int "3"
-  - !!int "12"
-  - !!int "7"
-"speed": "40 ft., climb 40 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 15"
-"languages": ""
-"cr": "3"
-"actions":
-  - "desc": "The owlbear makes two Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Slashing\
-      \ damage."
-    "name": "Rend"
-"source":
-  - "XMM"
-  - "FRHoF"
-"image": "Compendium/bestiary/monstrosity/token/owlbear-xmm.webp"
+```ad-statblock
+title: Owlbear
+![](/Compendium/bestiary/monstrosity/token/owlbear-xmm.webp#token)
+*Large monstrosity, Unaligned*
+
+- **Armor Class** 13 
+- **Hit Points** 59 (`7d10 + 21`) 
+- **Speed** 40 ft., climb 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|12 (+1)|17 (+3)| 3 (-4)|12 (+1)| 7 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Languages** —
+- **Challenge** 3
+
+## Actions
+
+***Multiattack.*** The owlbear makes two Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 14 (`2d8 + 5`) Slashing damage.
 ```
 ^statblock
+
+## Environment
+
+forest

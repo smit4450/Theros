@@ -1,13 +1,12 @@
 ---
-title: Athlete
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Athlete
+- "Athlete"
 ---
 # Athlete
 *Source: Player's Handbook (2024) p. 202*  
@@ -18,8 +17,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-**Climb Speed.** You gain a [[climb-speed-xphb|Climb Speed]] equal to your [[speed-xphb|Speed]].
+**Climb Speed.** You gain a [Climb Speed](/Compendium/rules/variant-rules/climb-speed-xphb.md) equal to your [Speed](/Compendium/rules/variant-rules/speed-xphb.md).
 
-**Hop Up.** When you have the [[conditions#Prone|Prone]] condition, you can right yourself with only 5 feet of movement.
+**Hop Up.** When you have the [Prone](/Compendium/rules/conditions.md#Prone) condition, you can right yourself with only 5 feet of movement.
 
-**Jumping.** You can make a running Long or [[high-jump-xphb|High Jump]] after moving only 5 feet.
+**Jumping.** You can make a running [Long](/Compendium/rules/variant-rules/long-jump-xphb.md) or [High Jump](/Compendium/rules/variant-rules/high-jump-xphb.md) after moving only 5 feet.

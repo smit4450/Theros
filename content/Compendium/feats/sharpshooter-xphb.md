@@ -1,13 +1,12 @@
 ---
-title: Sharpshooter
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Sharpshooter
+- "Sharpshooter"
 ---
 # Sharpshooter
 *Source: Player's Handbook (2024) p. 207*  
@@ -18,8 +17,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Dexterity score by 1, to a maximum of 20.
 
-**Bypass Cover.** Your ranged attacks with weapons ignore [[cover-table-xphb|Half Cover]] and [[cover-table-xphb|Three-Quarters Cover]].
+**Bypass Cover.** Your ranged attacks with weapons ignore [Half Cover](/Compendium/rules/variant-rules/cover-xphb.md) and [Three-Quarters Cover](/Compendium/rules/variant-rules/cover-xphb.md).
 
-**Firing in Melee.** Being within 5 feet of an enemy doesn't impose [[disadvantage-xphb|Disadvantage]] on your attack rolls with Ranged weapons.
+**Firing in Melee.** Being within 5 feet of an enemy doesn't impose [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on your attack rolls with Ranged weapons.
 
-**Long Shots.** Attacking at long range doesn't impose [[disadvantage-xphb|Disadvantage]] on your attack rolls with Ranged weapons.
+**Long Shots.** Attacking at long range doesn't impose [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on your attack rolls with Ranged weapons.

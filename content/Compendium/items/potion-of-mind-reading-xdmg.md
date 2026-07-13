@@ -1,12 +1,12 @@
 ---
-title: Potion of Mind Reading
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/rare
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Mind Reading"
 ---
 # Potion of Mind Reading
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [[detect-thoughts-xphb|Detect Thoughts]] spell (save DC 13) for 10 minutes (no [[conditions#Concentration|Concentration]] required).
+When you drink this potion, you gain the effect of the [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md) spell (save DC 13) for 10 minutes (no [Concentration](/Compendium/rules/conditions.md#Concentration) required).
 
 This potion's dense, purple liquid has an ovoid cloud of pink floating in it.
 

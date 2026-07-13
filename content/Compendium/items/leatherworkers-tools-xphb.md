@@ -1,12 +1,12 @@
 ---
-title: "Leatherworker's Tools"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/artisans-tools
 - item/rarity/none
-aliases: 
+aliases:
 - "Leatherworker's Tools"
 ---
 # Leatherworker's Tools
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Dexterity  
 - **Utilize.** Add a design to a leather item (DC 10)  
-- **Craft.** [[sling-xphb|Sling]], [[whip-xphb|Whip]], [[hide-armor-xphb|Hide Armor]], [[leather-armor-xphb|Leather Armor]], [[studded-leather-armor-xphb|Studded Leather Armor]], [[backpack-xphb|Backpack]], [[crossbow-bolt-case-xphb|Crossbow Bolt Case]], [[map-or-scroll-case-xphb|Map or Scroll Case]], [[parchment-xphb|Parchment]], [[pouch-xphb|Pouch]], [[quiver-xphb|Quiver]], [[waterskin-xphb|Waterskin]]  
+- **Craft.** [Sling](/Compendium/items/sling-xphb.md), [Whip](/Compendium/items/whip-xphb.md), [Hide Armor](/Compendium/items/hide-armor-xphb.md), [Leather Armor](/Compendium/items/leather-armor-xphb.md), [Studded Leather Armor](/Compendium/items/studded-leather-armor-xphb.md), [Backpack](/Compendium/items/backpack-xphb.md), [Crossbow Bolt Case](/Compendium/items/crossbow-bolt-case-xphb.md), [Map or Scroll Case](/Compendium/items/map-or-scroll-case-xphb.md), [Parchment](/Compendium/items/parchment-xphb.md), [Pouch](/Compendium/items/pouch-xphb.md), [Quiver](/Compendium/items/quiver-xphb.md), [Waterskin](/Compendium/items/waterskin-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

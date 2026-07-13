@@ -1,23 +1,23 @@
 ---
-title: Quarterstaff
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/melee
 - item/weapon/simple
-aliases: 
+aliases:
 - "Quarterstaff"
 ---
 # Quarterstaff
 *Weapon*  
-![](Compendium/items/img/quarterstaff.webp#right)
+![](/Compendium/items/img/quarterstaff.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
+- **Properties**: [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Cost**: 2 sp
 - **Weight**: 4.0 lbs.
 

@@ -1,21 +1,21 @@
 ---
-title: Shortsword
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/melee
-aliases: 
+aliases:
 - "Shortsword"
 ---
 # Shortsword
 *Weapon*  
-![](Compendium/items/img/shortsword.webp#right)
+![](/Compendium/items/img/shortsword.webp#right)
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light)
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 

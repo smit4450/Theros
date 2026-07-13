@@ -1,12 +1,11 @@
 ---
-title: Layers of Arcadia
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Layers of Arcadia
+- "Layers of Arcadia"
 ---
 # Layers of Arcadia
 *Source: Dungeon Master's Guide (2024) p. 183* 

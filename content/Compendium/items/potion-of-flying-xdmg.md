@@ -1,12 +1,12 @@
 ---
-title: Potion of Flying
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/very-rare
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Flying"
 ---
 # Potion of Flying
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain a [[fly-speed-xphb|Fly Speed]] equal to your [[speed-xphb|Speed]] for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.
+When you drink this potion, you gain a [Fly Speed](/Compendium/rules/variant-rules/fly-speed-xphb.md) equal to your [Speed](/Compendium/rules/variant-rules/speed-xphb.md) for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.
 
 This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.
 

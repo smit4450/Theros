@@ -1,52 +1,80 @@
 ---
-title: Index of Fey
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
 # Index of Fey
 
-- [[alseid-mot|Alseid]]
-- [[annis-hag-coven-death-vgm|Annis Hag (Coven; Death)]]
-- [[annis-hag-coven-nature-vgm|Annis Hag (Coven; Nature)]]
-- [[annis-hag-coven-prophecy-vgm|Annis Hag (Coven; Prophecy)]]
-- [[annis-hag-coven-vgm|Annis Hag (Coven)]]
-- [[annis-hag-vgm|Annis Hag]]
-- [[arch-hag-xmm|Arch-hag]]
-- [[blink-dog-xmm|Blink Dog]]
-- [[bugbear-stalker-xmm|Bugbear Stalker]]
-- [[bugbear-warrior-xmm|Bugbear Warrior]]
-- [[bullywug-bog-sage-xmm|Bullywug Bog Sage]]
-- [[bullywug-warrior-xmm|Bullywug Warrior]]
-- [[centaur-trooper-xmm|Centaur Trooper]]
-- [[centaur-warden-xmm|Centaur Warden]]
-- [[dire-worg-xmm|Dire Worg]]
-- [[dryad-xmm|Dryad]]
-- [[fey-spirit-fuming-xphb|Fey Spirit (Fuming)]]
-- [[fey-spirit-mirthful-xphb|Fey Spirit (Mirthful)]]
-- [[fey-spirit-tricksy-xphb|Fey Spirit (Tricksy)]]
-- [[fey-spirit-xphb|Fey Spirit]]
-- [[goblin-boss-xmm|Goblin Boss]]
-- [[goblin-hexer-xmm|Goblin Hexer]]
-- [[goblin-minion-xmm|Goblin Minion]]
-- [[goblin-warrior-xmm|Goblin Warrior]]
-- [[green-hag-xmm|Green Hag]]
-- [[hobgoblin-captain-xmm|Hobgoblin Captain]]
-- [[hobgoblin-warlord-xmm|Hobgoblin Warlord]]
-- [[hobgoblin-warrior-xmm|Hobgoblin Warrior]]
-- [[lampad-mot|Lampad]]
-- [[naiad-mot|Naiad]]
-- [[oread-mot|Oread]]
-- [[otherworldly-steed-fey-xphb|Otherworldly Steed (Fey)]]
-- [[pixie-wonderbringer-xmm|Pixie Wonderbringer]]
-- [[pixie-xmm|Pixie]]
-- [[satyr-reveler-mot|Satyr Reveler]]
-- [[satyr-revelmaster-xmm|Satyr Revelmaster]]
-- [[satyr-thornbearer-mot|Satyr Thornbearer]]
-- [[satyr-xmm|Satyr]]
-- [[sea-hag-xmm|Sea Hag]]
-- [[sprite-xmm|Sprite]]
-- [[worg-xmm|Worg]]
+- [Alseid](./alseid-mot.md)
+- [Alseid (MOoT)](./alseid-moot-tbvxii.md)
+- [Arch-hag](./arch-hag-xmm.md)
+- [Blink Dog](./blink-dog-xmm.md)
+- [Bugbear Stalker](./bugbear-stalker-xmm.md)
+- [Bugbear Warrior](./bugbear-warrior-xmm.md)
+- [Bullywug Bog Sage](./bullywug-bog-sage-xmm.md)
+- [Bullywug Warrior](./bullywug-warrior-xmm.md)
+- [Centaur Battlemaster](./centaur-battlemaster-tbvxv.md)
+- [Centaur Trooper](./centaur-trooper-xmm.md)
+- [Centaur Warden](./centaur-warden-xmm.md)
+- [Chronicler of Heroes](./chronicler-of-heroes-tbvxv.md)
+- [Conclave Dryad](./conclave-dryad-tbvxii.md)
+- [Cronemouth Hag](./cronemouth-hag-tbvvi.md)
+- [Dire Worg](./dire-worg-xmm.md)
+- [Dryad](./dryad-xmm.md)
+- [Dryad (MM)](./dryad-mm-tbvxii.md)
+- [Ecstatic Piper](./ecstatic-piper-tbvxiii.md)
+- [Fanatic of Xenagos](./fanatic-of-xenagos-tbvxv.md)
+- [Fey Spirit](./fey-spirit-xphb.md)
+- [Fey Spirit (Fuming)](./fey-spirit-fuming-xphb.md)
+- [Fey Spirit (Mirthful)](./fey-spirit-mirthful-xphb.md)
+- [Fey Spirit (Tricksy)](./fey-spirit-tricksy-xphb.md)
+- [Firedrinker Satyr](./firedrinker-satyr-tbvxiii.md)
+- [Goblin Boss](./goblin-boss-xmm.md)
+- [Goblin Hexer](./goblin-hexer-xmm.md)
+- [Goblin Minion](./goblin-minion-xmm.md)
+- [Goblin Warrior](./goblin-warrior-xmm.md)
+- [Green Hag](./green-hag-xmm.md)
+- [Hobgoblin Captain](./hobgoblin-captain-xmm.md)
+- [Hobgoblin Warlord](./hobgoblin-warlord-xmm.md)
+- [Hobgoblin Warrior](./hobgoblin-warrior-xmm.md)
+- [Knight of Autumn](./knight-of-autumn-tbvxii.md)
+- [Lagonna-Band Elder](./lagonna-band-elder-tbvxv.md)
+- [Lagonna-Band Trailblazer](./lagonna-band-trailblazer-tbvxv.md)
+- [Lampad](./lampad-mot.md)
+- [Lampad (MOoT)](./lampad-moot-tbvxii.md)
+- [Naiad](./naiad-mot.md)
+- [Naiad (MOoT)](./naiad-moot-tbvxii.md)
+- [Nessian Courser](./nessian-courser-tbvxv.md)
+- [Nylea's Disciple](./nyleas-disciple-tbvxv.md)
+- [Oread](./oread-mot.md)
+- [Oread (MOoT)](./oread-moot-tbvxii.md)
+- [Otherworldly Steed (Fey)](./otherworldly-steed-fey-xphb.md)
+- [Pheres-Band Raider](./pheres-band-raider-tbvxv.md)
+- [Pheres-Band Reveler](./pheres-band-reveler-tbvxv.md)
+- [Pheres-Band Thunderhoof](./pheres-band-thunderhoof-tbvxv.md)
+- [Pheres-Band Tromper](./pheres-band-tromper-tbvxv.md)
+- [Pheres-Band Warchief](./pheres-band-warchief-tbvxv.md)
+- [Pixie](./pixie-xmm.md)
+- [Pixie Wonderbringer](./pixie-wonderbringer-xmm.md)
+- [Raging Satyr](./raging-satyr-tbvxiii.md)
+- [Reckless Reveler](./reckless-reveler-tbvxiii.md)
+- [Satyr](./satyr-xmm.md)
+- [Satyr Grovedancer](./satyr-grovedancer-tbvxiii.md)
+- [Satyr Hedonist](./satyr-hedonist-tbvxiii.md)
+- [Satyr Hoplite](./satyr-hoplite-tbvxiii.md)
+- [Satyr Nyx-Smith](./satyr-nyx-smith-tbvxiii.md)
+- [Satyr Piper](./satyr-piper-tbvxiii.md)
+- [Satyr Rambler](./satyr-rambler-tbvxiii.md)
+- [Satyr Reveler](./satyr-reveler-mot.md)
+- [Satyr Revelmaster](./satyr-revelmaster-xmm.md)
+- [Satyr Thornbearer](./satyr-thornbearer-mot.md)
+- [Satyr Wayfinder](./satyr-wayfinder-tbvxiii.md)
+- [Sea Hag](./sea-hag-xmm.md)
+- [Setessan Oathsworn](./setessan-oathsworn-tbvxiii.md)
+- [Sprite](./sprite-xmm.md)
+- [Swordwise Centaur](./swordwise-centaur-tbvxv.md)
+- [Trostani](./trostani-tbvxii.md)
+- [Voyaging Satyr](./voyaging-satyr-tbvxiii.md)
+- [Wild Celebrant](./wild-celebrant-tbvxiii.md)
+- [Worg](./worg-xmm.md)

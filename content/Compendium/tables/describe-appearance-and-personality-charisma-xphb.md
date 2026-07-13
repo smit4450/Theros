@@ -1,12 +1,11 @@
 ---
-title: Describe Appearance and Personality; Charisma
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Describe Appearance and Personality; Charisma
+- "Describe Appearance and Personality; Charisma"
 ---
 # Describe Appearance and Personality; Charisma
 *Source: Player's Handbook (2024) p. 38* 

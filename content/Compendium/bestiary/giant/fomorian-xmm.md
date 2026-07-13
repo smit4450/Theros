@@ -1,20 +1,20 @@
 ---
-title: Fomorian
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/8
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/giant
-statblock: inline
-aliases: ["Fomorian"]
+aliases:
+- "Fomorian"
 ---
 # Fomorian
 *Source: Monster Manual (2024) p. 123*  
+![](/Compendium/bestiary/giant/img/fomorian.webp#right)
 
-![](Compendium/bestiary/giant/img/fomorian.webp#right|850)  
 ## Fomorian
 
 *Cursed Giant of the Dark*
@@ -38,45 +38,37 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 > 
 > All-Father Annam banished his son, Karontor, for Karontor's part in the fomorian assault on the Feywild. That day, the ordning—the hierarchy of the giants and their gods—changed forever, and the fomorians were part of it no more.
 
-```statblock
-"name": "Fomorian (XMM)"
-"size": "Huge"
-"type": "giant"
-"alignment": "Chaotic Evil"
-"ac": !!int "14"
-"hp": !!int "172"
-"hit_dice": "15d12 + 75"
-"modifier": !!int "0"
-"stats":
-  - !!int "23"
-  - !!int "10"
-  - !!int "20"
-  - !!int "9"
-  - !!int "14"
-  - !!int "6"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+8"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+3"
-"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
-  \ 18"
-"languages": "Giant, Undercommon"
-"cr": "8"
-"actions":
-  - "desc": "The fomorian makes two Stone Club attacks. It can replace one attack\
-      \ with a use of Warping Hex if available."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +9, reach 15 ft. *Hit:* 24 (4d8 + 6) Bludgeoning\
-      \ damage."
-    "name": "Stone Club"
-  - "desc": "*Wisdom Saving Throw:* DC 16, one creature the fomorian can see within\
-      \ 120 feet. *Failure:* 21 (6d6) Psychic damage, and the target gains 1 [[conditions#Exhaustion|Exhaustion]]\
-      \ level. *Success:* Half damage only."
-    "name": "Warping Hex (Recharge 4-6)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/giant/token/fomorian-xmm.webp"
+
+```ad-statblock
+title: Fomorian
+![](/Compendium/bestiary/giant/token/fomorian-xmm.webp#token)
+*Huge giant, Chaotic Evil*
+
+- **Armor Class** 14 
+- **Hit Points** 172 (`15d12 + 75`) 
+- **Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)|10 (+0)|20 (+5)| 9 (-1)|14 (+2)| 6 (-2)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +8, [Stealth](/Compendium/rules/skills.md#Stealth) +3
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 18
+- **Languages** Giant, Undercommon
+- **Challenge** 8
+
+## Actions
+
+***Multiattack.*** The fomorian makes two Stone Club attacks. It can replace one attack with a use of Warping Hex if available.
+
+***Stone Club.*** *Melee Attack Roll:* `+9`, reach 15 ft. *Hit:* 24 (`4d8 + 6`) Bludgeoning damage.
+
+***Warping Hex (Recharge 4-6).*** *Wisdom Saving Throw:* DC 16, one creature the fomorian can see within 120 feet. *Failure:* 21 (`6d6`) Psychic damage, and the target gains 1 [Exhaustion](/Compendium/rules/conditions.md#Exhaustion) level. *Success:* Half damage only.
 ```
 ^statblock
+
+## Environment
+
+underdark

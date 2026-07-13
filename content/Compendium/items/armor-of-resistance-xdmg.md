@@ -1,47 +1,47 @@
 ---
-title: Armor of Resistance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Resistance"
 ---
 # Armor of Resistance
 *Rare (requires attunement)*  
-![](Compendium/items/img/armor-of-resistance.webp#right)
+![](/Compendium/items/img/armor-of-resistance.webp#right)
 
 
-You have [[resistance-rules-xphb|Resistance]] to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
+You have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
 
 | dice: d10 | Damage Type |
 |-----------|-------------|
-| 1 | [[armor-of-acid-resistance-xdmg|Acid]] |
-| 2 | [[armor-of-cold-resistance-xdmg|Cold]] |
-| 3 | [[armor-of-fire-resistance-xdmg|Fire]] |
-| 4 | [[armor-of-force-resistance-xdmg|Force]] |
-| 5 | [[armor-of-lightning-resistance-xdmg|Lightning]] |
-| 6 | [[armor-of-necrotic-resistance-xdmg|Necrotic]] |
-| 7 | [[armor-of-poison-resistance-xdmg|Poison]] |
-| 8 | [[armor-of-psychic-resistance-xdmg|Psychic]] |
-| 9 | [[armor-of-radiant-resistance-xdmg|Radiant]] |
-| 10 | [[armor-of-thunder-resistance-xdmg|Thunder]] |
+| 1 | [Acid](/Compendium/items/armor-of-acid-resistance-xdmg.md) |
+| 2 | [Cold](/Compendium/items/armor-of-cold-resistance-xdmg.md) |
+| 3 | [Fire](/Compendium/items/armor-of-fire-resistance-xdmg.md) |
+| 4 | [Force](/Compendium/items/armor-of-force-resistance-xdmg.md) |
+| 5 | [Lightning](/Compendium/items/armor-of-lightning-resistance-xdmg.md) |
+| 6 | [Necrotic](/Compendium/items/armor-of-necrotic-resistance-xdmg.md) |
+| 7 | [Poison](/Compendium/items/armor-of-poison-resistance-xdmg.md) |
+| 8 | [Psychic](/Compendium/items/armor-of-psychic-resistance-xdmg.md) |
+| 9 | [Radiant](/Compendium/items/armor-of-radiant-resistance-xdmg.md) |
+| 10 | [Thunder](/Compendium/items/armor-of-thunder-resistance-xdmg.md) |
 ^damage-type
 
 **Items in this group:**
 
-- [[armor-of-acid-resistance-xdmg|Armor of Acid Resistance]]
-- [[armor-of-cold-resistance-xdmg|Armor of Cold Resistance]]
-- [[armor-of-fire-resistance-xdmg|Armor of Fire Resistance]]
-- [[armor-of-force-resistance-xdmg|Armor of Force Resistance]]
-- [[armor-of-lightning-resistance-xdmg|Armor of Lightning Resistance]]
-- [[armor-of-necrotic-resistance-xdmg|Armor of Necrotic Resistance]]
-- [[armor-of-poison-resistance-xdmg|Armor of Poison Resistance]]
-- [[armor-of-psychic-resistance-xdmg|Armor of Psychic Resistance]]
-- [[armor-of-radiant-resistance-xdmg|Armor of Radiant Resistance]]
-- [[armor-of-thunder-resistance-xdmg|Armor of Thunder Resistance]]
+- [Armor of Acid Resistance](/Compendium/items/armor-of-acid-resistance-xdmg.md)
+- [Armor of Cold Resistance](/Compendium/items/armor-of-cold-resistance-xdmg.md)
+- [Armor of Fire Resistance](/Compendium/items/armor-of-fire-resistance-xdmg.md)
+- [Armor of Force Resistance](/Compendium/items/armor-of-force-resistance-xdmg.md)
+- [Armor of Lightning Resistance](/Compendium/items/armor-of-lightning-resistance-xdmg.md)
+- [Armor of Necrotic Resistance](/Compendium/items/armor-of-necrotic-resistance-xdmg.md)
+- [Armor of Poison Resistance](/Compendium/items/armor-of-poison-resistance-xdmg.md)
+- [Armor of Psychic Resistance](/Compendium/items/armor-of-psychic-resistance-xdmg.md)
+- [Armor of Radiant Resistance](/Compendium/items/armor-of-radiant-resistance-xdmg.md)
+- [Armor of Thunder Resistance](/Compendium/items/armor-of-thunder-resistance-xdmg.md)
 
 *Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

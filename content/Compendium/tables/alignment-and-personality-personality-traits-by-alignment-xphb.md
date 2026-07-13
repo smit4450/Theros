@@ -1,12 +1,11 @@
 ---
-title: Alignment and Personality; Personality Traits by Alignment
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Alignment and Personality; Personality Traits by Alignment
+- "Alignment and Personality; Personality Traits by Alignment"
 ---
 # Alignment and Personality; Personality Traits by Alignment
 *Source: Player's Handbook (2024) p. 40* 

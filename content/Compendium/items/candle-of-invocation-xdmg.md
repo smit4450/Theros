@@ -1,24 +1,24 @@
 ---
-title: Candle of Invocation
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Candle of Invocation"
 ---
 # Candle of Invocation
 *Wondrous item, very rare (requires attunement)*  
-![](Compendium/items/img/candle-of-invocation.webp#right)
+![](/Compendium/items/img/candle-of-invocation.webp#right)
 
 
-This candle's magic is activated when the candle is lit, which requires a [[actions#Magic|Magic]] action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from its total burn time.
+This candle's magic is activated when the candle is lit, which requires a [Magic](/Compendium/rules/actions.md#Magic) action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from its total burn time.
 
-While lit, the candle sheds [[dim-light-xphb|Dim Light]] in a 30-foot radius. While you are within that light, you have [[advantage-xphb|Advantage]] on [[d20-test-xphb|D20 Tests]]. In addition, a Cleric or Druid in the light can cast level 1 spells they have prepared without expending spell slots.
+While lit, the candle sheds [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md) in a 30-foot radius. While you are within that light, you have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on [D20 Tests](/Compendium/rules/variant-rules/d20-test-xphb.md). In addition, a Cleric or Druid in the light can cast level 1 spells they have prepared without expending spell slots.
 
-Alternatively, when you light the candle for the first time, you can cast [[gate-xphb|Gate]] with it. Doing so destroys the candle. The portal created by the spell links to a particular Outer Plane chosen by the DM or determined by rolling on the following table.
+Alternatively, when you light the candle for the first time, you can cast [Gate](/Compendium/spells/gate-xphb.md) with it. Doing so destroys the candle. The portal created by the spell links to a particular Outer Plane chosen by the DM or determined by rolling on the following table.
 
 | dice: 1d100 | Outer Plane |
 |-------------|-------------|

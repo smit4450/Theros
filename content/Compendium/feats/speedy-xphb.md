@@ -1,13 +1,12 @@
 ---
-title: Speedy
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Speedy
+- "Speedy"
 ---
 # Speedy
 *Source: Player's Handbook (2024) p. 208*  
@@ -18,8 +17,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Dexterity or Constitution by 1, to a maximum of 20.
 
-**Speed Increase.** Your [[speed-xphb|Speed]] increases by 10 feet.
+**Speed Increase.** Your [Speed](/Compendium/rules/variant-rules/speed-xphb.md) increases by 10 feet.
 
-**Dash over Difficult Terrain.** When you take the [[actions#Dash|Dash]] action on your turn, [[difficult-terrain-xphb|Difficult Terrain]] doesn't cost you extra movement for the rest of that turn.
+**Dash over Difficult Terrain.** When you take the [Dash](/Compendium/rules/actions.md#Dash) action on your turn, [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md) doesn't cost you extra movement for the rest of that turn.
 
-**Agile Movement.** [[actions#Opportunity%20Attack|Opportunity Attacks]] have [[disadvantage-xphb|Disadvantage]] against you.
+**Agile Movement.** [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack) have [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) against you.

@@ -1,28 +1,27 @@
 ---
-title: Mangonel
 obsidianUIMode: preview
 cssclasses:
 - json5e-object
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - object/size/large
 - object/type/siege-weapon
 aliases:
-- Mangonel
+- "Mangonel"
 ---
 # Mangonel
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 97*  
+*Source: Dungeon Master's Guide (2024) p. 97* 
 
-A Mangonel is a catapult that hurls heavy projectiles in a high arc, so it can hit targets behind walls. Loading a Mangonel requires two [[actions#Utilize|Utilize]] actions, and aiming it requires two more [[actions#Utilize|Utilize]] actions. Then a crew member can take the Mangonel Stone action.
+![](/Compendium/objects/img/mangonel.webp#right)
 
+A Mangonel is a catapult that hurls heavy projectiles in a high arc, so it can hit targets behind walls. Loading a Mangonel requires two [Utilize](/Compendium/rules/actions.md#Utilize) actions, and aiming it requires two more [Utilize](/Compendium/rules/actions.md#Utilize) actions. Then a crew member can take the Mangonel Stone action.
 ```ad-statblock
 title: Mangonel
-![](Compendium/objects/token/mangonel-xdmg.webp#token)
+![](/Compendium/objects/token/mangonel-xdmg.webp#token)
 *Large Siege weapon*
 
-- **Armor Class** 15
-- **Hit Points** 100
+- **Armor Class** 15 
+- **Hit Points** 100 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

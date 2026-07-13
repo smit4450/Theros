@@ -1,13 +1,13 @@
 ---
-title: Ring of Elemental Command
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/legendary
 - item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Elemental Command"
 ---
 # Ring of Elemental Command
@@ -17,9 +17,9 @@ aliases:
 
 **Items in this group:**
 
-- [[ring-of-elemental-command-air-xdmg|Ring of Elemental Command (Air)]]
-- [[ring-of-elemental-command-earth-xdmg|Ring of Elemental Command (Earth)]]
-- [[ring-of-elemental-command-fire-xdmg|Ring of Elemental Command (Fire)]]
-- [[ring-of-elemental-command-water-xdmg|Ring of Elemental Command (Water)]]
+- [Ring of Elemental Command (Air)](/Compendium/items/ring-of-elemental-command-air-xdmg.md)
+- [Ring of Elemental Command (Earth)](/Compendium/items/ring-of-elemental-command-earth-xdmg.md)
+- [Ring of Elemental Command (Fire)](/Compendium/items/ring-of-elemental-command-fire-xdmg.md)
+- [Ring of Elemental Command (Water)](/Compendium/items/ring-of-elemental-command-water-xdmg.md)
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

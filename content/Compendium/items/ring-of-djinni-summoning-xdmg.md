@@ -1,23 +1,23 @@
 ---
-title: Ring of Djinni Summoning
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/legendary
 - item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Djinni Summoning"
 ---
 # Ring of Djinni Summoning
 *Ring, legendary (requires attunement)*  
-![](Compendium/items/img/ring-of-djinni-summoning.webp#right)
+![](/Compendium/items/img/ring-of-djinni-summoning.webp#right)
 
 
-While wearing this ring, you can take a [[actions#Magic|Magic]] action to summon a particular [[djinni-xmm|Djinni]] from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of yourself. It remains as long as you maintain [[conditions#Concentration|Concentration]], to a maximum of 1 hour, or until it drops to 0 [[hit-points-xphb|Hit Points]].
+While wearing this ring, you can take a [Magic](/Compendium/rules/actions.md#Magic) action to summon a particular [Djinni](/Compendium/bestiary/elemental/djinni-xmm.md) from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of yourself. It remains as long as you maintain [Concentration](/Compendium/rules/conditions.md#Concentration), to a maximum of 1 hour, or until it drops to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md).
 
-While summoned, the djinni is [[friendly-attitude-xphb|Friendly]] to you and your allies, and it obeys your commands. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
+While summoned, the djinni is [Friendly](/Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you and your allies, and it obeys your commands. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
 
 After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.
 

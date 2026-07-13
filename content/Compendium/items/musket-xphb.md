@@ -1,22 +1,22 @@
 ---
-title: Musket
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/ranged
-aliases: 
+aliases:
 - "Musket"
 ---
 # Musket
 *Weapon*  
-![](Compendium/items/img/musket.webp#right)
+![](/Compendium/items/img/musket.webp#right)
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Loading](/Compendium/rules/item-properties.md#Loading), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Cost**: 500 gp
 - **Weight**: 10.0 lbs.
 

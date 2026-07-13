@@ -1,9 +1,9 @@
 ---
-title: Gnoll Demoniac
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/8
 - monster/environment/desert
 - monster/environment/forest
@@ -11,13 +11,13 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/fiend
-statblock: inline
-aliases: ["Gnoll Demoniac"]
+aliases:
+- "Gnoll Demoniac"
 ---
 # Gnoll Demoniac
 *Source: Monster Manual (2024) p. 141*  
+![](/Compendium/bestiary/fiend/img/gnolls.webp#right)
 
-![](Compendium/bestiary/fiend/img/gnolls.webp#right|850)  
 Gnoll demoniacs are berserkers that arise from gnolls who've ritualistically fed on flesh corrupted by the Abyss. Now embodying the ruinous hunger of Yeenoghu, these gnolls throw themselves into battle, heedless of odds or their own survival. Rampaging demoniacs even devour other gnolls in their wild frenzies.
 
 ## Gnolls
@@ -25,7 +25,7 @@ Gnoll demoniacs are berserkers that arise from gnolls who've ritualistically fed
 *Fiends in Feral Flesh*
 
 - **Habitat.** Desert, Forest, Grassland, Hill  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their corruption and violence delighted the demon lord Yeenoghu, who encouraged their numbers and spread them across the multiverse. Ever since, gnolls have been the cackling servants of Yeenoghu, existing to cause ruin and to feast on what remains.
 
@@ -33,61 +33,43 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > 
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
+
 ## Statblock
 
-```statblock
-"name": "Gnoll Demoniac (XMM)"
-"size": "Medium"
-"type": "fiend"
-"alignment": "Chaotic Evil"
-"ac": !!int "16"
-"hp": !!int "135"
-"hit_dice": "18d8 + 54"
-"modifier": !!int "4"
-"stats":
-  - !!int "16"
-  - !!int "12"
-  - !!int "17"
-  - !!int "14"
-  - !!int "15"
-  - !!int "17"
-"speed": "30 ft."
-"saves":
-  - "strength": !!int "6"
-  - "constitution": !!int "6"
-  - "wisdom": !!int "5"
-  - "charisma": !!int "6"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 15"
-"languages": "Abyssal, Common, Gnoll"
-"cr": "8"
-"actions":
-  - "desc": "The gnoll makes two Abyssal Strike attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 60 ft. *Hit:*\
-      \ 20 (5d6 + 3) Poison damage."
-    "name": "Abyssal Strike"
-  - "desc": "The gnoll conjures a 30-foot [[cube-area-of-effect-xphb|Cube]]\
-      \ of magical [[darkness-rules-xphb|Darkness]] originating\
-      \ from a point it can see within 60 feet, which lasts for 1 minute or until\
-      \ the gnoll's [[conditions#Concentration|Concentration]]\
-      \ ends on it. This area is [[difficult-terrain-xphb|Difficult Terrain]].\
-      \ *Dexterity Saving Throw:* DC 14, any creature that starts its turn in this\
-      \ area or enters it for the first time on a turn. *Failure:* 28 (8d6) Necrotic\
-      \ damage, and the gnoll or a creature of its choice it can see gains 10 [[temporary-hit-points-xphb|Temporary\
-      \ Hit Points]].\
-      \ *Success:* Half damage only."
-    "name": "Hunger of Yeenoghu (Recharge 5-6)"
-"bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [[conditions#Bloodied|Bloodied]],\
-      \ the gnoll moves up to half its [[speed-xphb|Speed]],\
-      \ and it makes one Abyssal Strike attack."
-    "name": "Rampage (2/Day)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/fiend/token/gnoll-demoniac-xmm.webp"
+```ad-statblock
+title: Gnoll Demoniac
+![](/Compendium/bestiary/fiend/token/gnoll-demoniac-xmm.webp#token)
+*Medium fiend, Chaotic Evil*
+
+- **Armor Class** 16 
+- **Hit Points** 135 (`18d8 + 54`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|12 (+1)|17 (+3)|14 (+2)|15 (+2)|17 (+3)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Strength +6, Constitution +6, Wisdom +5, Charisma +6
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Languages** Abyssal, Common, Gnoll
+- **Challenge** 8
+
+## Actions
+
+***Multiattack.*** The gnoll makes two Abyssal Strike attacks.
+
+***Abyssal Strike.*** *Melee  or Ranged Attack Roll:* `+6`, reach 5 ft. or range 60 ft. *Hit:* 20 (`5d6 + 3`) Poison damage.
+
+***Hunger of Yeenoghu (Recharge 5-6).*** The gnoll conjures a 30-foot [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) of magical [Darkness](/Compendium/rules/variant-rules/darkness-xphb.md) originating from a point it can see within 60 feet, which lasts for 1 minute or until the gnoll's [Concentration](/Compendium/rules/conditions.md#Concentration) ends on it. This area is [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md). *Dexterity Saving Throw:* DC 14, any creature that starts its turn in this area or enters it for the first time on a turn. *Failure:* 28 (`8d6`) Necrotic damage, and the gnoll or a creature of its choice it can see gains 10 [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md). *Success:* Half damage only.
+
+## Bonus Actions
+
+***Rampage (2/Day).*** Immediately after dealing damage to a creature that is already [Bloodied](/Compendium/rules/conditions.md#Bloodied), the gnoll moves up to half its [Speed](/Compendium/rules/variant-rules/speed-xphb.md), and it makes one Abyssal Strike attack.
 ```
 ^statblock
+
+## Environment
+
+desert, forest, grassland, hill

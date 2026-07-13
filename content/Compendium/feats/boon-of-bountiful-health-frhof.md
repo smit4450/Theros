@@ -1,16 +1,15 @@
 ---
-title: Boon of Bountiful Health
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/frhof
+- compendium/src/5e/frhof
 - feat
 aliases:
-- Boon of Bountiful Health
+- "Boon of Bountiful Health"
 ---
 # Boon of Bountiful Health
-*Source: FRHoF p. 42*  
+*Source: Forgotten Realms: Heroes of Faerûn p. 42*  
 
 **Prerequisite**: 19th
 
@@ -18,6 +17,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Augmented Health.** When you gain [[temporary-hit-points-xphb|Temporary Hit Points]], increase the number of [[temporary-hit-points-xphb|Temporary Hit Points]] you gain by 5.
+**Augmented Health.** When you gain [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md), increase the number of [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md) you gain by 5.
 
-**Superior Recuperation.** When you spend one or more [[hit-point-dice-xphb|Hit Point Dice]] to regain [[hit-points-xphb|Hit Points]], you can instead use the highest number possible for each die.
+**Superior Recuperation.** When you spend one or more [Hit Point Dice](/Compendium/rules/variant-rules/hit-point-dice-xphb.md) to regain [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md), you can instead use the highest number possible for each die.

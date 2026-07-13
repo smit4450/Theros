@@ -1,14 +1,13 @@
 ---
-title: Jumping
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Jumping
+- "Jumping"
 ---
 # Jumping
 *Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-When you jump, you make either a [[long-jump-xphb|Long Jump]] (horizontal) or a [[high-jump-xphb|High Jump]] (vertical).
+When you jump, you make either a [Long Jump](/Compendium/rules/variant-rules/long-jump-xphb.md) (horizontal) or a [High Jump](/Compendium/rules/variant-rules/high-jump-xphb.md) (vertical).

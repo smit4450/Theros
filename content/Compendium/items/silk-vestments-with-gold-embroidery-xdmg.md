@@ -1,12 +1,12 @@
 ---
-title: Silk vestments with gold embroidery
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/gear/treasure-art-object
 - item/rarity/none
-aliases: 
+aliases:
 - "Silk vestments with gold embroidery"
 ---
 # Silk vestments with gold embroidery

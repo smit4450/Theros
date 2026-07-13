@@ -1,12 +1,11 @@
 ---
-title: Omens of Phenax
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Omens of Phenax
+- "Omens of Phenax"
 ---
 # Omens of Phenax
 *Source: Mythic Odysseys of Theros p. 111* 

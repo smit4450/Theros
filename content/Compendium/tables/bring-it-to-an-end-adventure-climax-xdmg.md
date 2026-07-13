@@ -1,12 +1,11 @@
 ---
-title: Bring It to an End; Adventure Climax
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Bring It to an End; Adventure Climax
+- "Bring It to an End; Adventure Climax"
 ---
 # Bring It to an End; Adventure Climax
 *Source: Dungeon Master's Guide (2024) p. 120* 

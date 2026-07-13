@@ -1,12 +1,11 @@
 ---
-title: Fear Effects; Sample Fear DCs
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Fear Effects; Sample Fear DCs
+- "Fear Effects; Sample Fear DCs"
 ---
 # Fear Effects; Sample Fear DCs
 *Source: Dungeon Master's Guide (2024) p. 70* 

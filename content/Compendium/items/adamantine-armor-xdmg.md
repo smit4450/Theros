@@ -1,14 +1,14 @@
 ---
-title: Adamantine Armor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/medium
 - item/rarity/uncommon
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Adamantine Armor"
 - "Adamantine Breastplate"
 - "Adamantine Chain Mail"
@@ -24,7 +24,7 @@ aliases:
 
 
 
-This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [[critical-hit-xphb|Critical Hit]] against you becomes a normal hit.
+This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [Critical Hit](/Compendium/rules/variant-rules/critical-hit-xphb.md) against you becomes a normal hit.
 
 **Variants**:
 - [Adamantine Breastplate](#Adamantine%20Breastplate)

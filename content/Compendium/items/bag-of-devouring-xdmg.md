@@ -1,21 +1,21 @@
 ---
-title: Bag of Devouring
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Bag of Devouring"
 ---
 # Bag of Devouring
 *Wondrous item, very rare*  
-![](Compendium/items/img/bag-of-devouring.webp#right)
+![](/Compendium/items/img/bag-of-devouring.webp#right)
 
 
-This bag resembles a [[bag-of-holding-xdmg|Bag of Holding]] but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
+This bag resembles a [Bag of Holding](/Compendium/items/bag-of-holding-xdmg.md) but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
 
-The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can take an action to try to escape, doing so with a successful DC 15 Strength ([[skills#Athletics|Athletics]]) check. Another creature can take an action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength ([[skills#Athletics|Athletics]]) check, provided the puller isn't pulled inside the bag first. Any creature that starts its turn inside the bag is devoured, its body destroyed.
+The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can take an action to try to escape, doing so with a successful DC 15 Strength ([Athletics](/Compendium/rules/skills.md#Athletics)) check. Another creature can take an action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength ([Athletics](/Compendium/rules/skills.md#Athletics)) check, provided the puller isn't pulled inside the bag first. Any creature that starts its turn inside the bag is devoured, its body destroyed.
 
 Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The DM determines the time and plane.
 

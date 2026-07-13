@@ -1,18 +1,17 @@
 ---
-title: Heliod
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/light
-aliases: 
-- Heliod
+aliases:
+- "Heliod"
 ---
 # Heliod
 *Source: Mythic Odysseys of Theros p. 46* 
-![](Compendium/deities/img/mot-030-02-03-heliod.webp#symbol)
+![](/Compendium/deities/img/mot-030-02-03-heliod.webp#symbol)
 
 - **Alignment**: Lawful Good
 - **Domains**: Light
@@ -56,7 +55,7 @@ The brilliance of Heliod's sun is impossible to ignore. Thus, virtually everyone
 
 Some families, particularly in the polis of Meletis, follow a practice of bowing in the direction of dawn's first light—or winking, in a gesture of respect for the sun god's luminous "eye." More dedicated worshipers offer short litanies at dawn, noon, and dusk, acknowledging the sun's passage across the sky.
 
-![](Compendium/deities/img/mot-031-02-07.webp#center)
+![](/Compendium/deities/img/mot-031-02-07.webp#center)
 
 > [!readaloud] Myths of Heliod
 > 
@@ -68,7 +67,7 @@ Some families, particularly in the polis of Meletis, follow a practice of bowing
 > - **Origin of the Catoblepas.** When a herder boasted that his cattle were the finest in Theros because Heliod and Nylea had created them, the gods grew angry at this falsehood. Heliod persuaded Mogis to curse the cattle, transforming them into the first catoblepases. As a result, many animal breeders prove excessively modest to this day, with humble-boasts being common and well understood among both buyers and sellers. Livestock that are "as Heliod intended" or "praiseless beasts" might be considered second to none.  
 > - **Road to the Sun.** After a life in Heliod's service, the aged oracle Solsemon departed on a final pilgrimage: setting forth to visit the sun. Day after day he journeyed east, seeking the lands from which the sun rose. He journeyed far and was mocked everywhere people learned of his quest. Worse, his sight grew ever weaker as he spent days staring at the sun. Yet still he traveled on. Even when blindness claimed Solsemon's sight, the oracle continued undaunted. Finally, one day, Solsemon found a warm, calm place. There, a powerful voice he'd heard in his dreams welcomed him to his journey's end. Praising Heliod, the oracle took his rest, and after several long, contented hours, peacefully died. Ever since, the tale of Solsemon has been argued as both a parable of determination and a warning not to pursue that which is divine.  
 > 
-> **Spear of Heliod.** Heliod wields the spear [[khrusor-spear-of-heliod-mot|Khrusor]], which can strike any point on Theros, even in the depths of the Underworld. One tale describes how a wrathful Heliod used his spear to smite a human polis whose people angered him with their hubris: the entire city of Olantin sunk beneath the sea when Heliod struck it with his spear.
+> **Spear of Heliod.** Heliod wields the spear [Khrusor](/Compendium/items/khrusor-spear-of-heliod-mot.md), which can strike any point on Theros, even in the depths of the Underworld. One tale describes how a wrathful Heliod used his spear to smite a human polis whose people angered him with their hubris: the entire city of Olantin sunk beneath the sea when Heliod struck it with his spear.
 ^myths-of-heliod
 
 ## Heliod's Champions
@@ -144,7 +143,7 @@ Your piety score to Heliod decreases if you diminish his influence in the world,
 
 ### Benefits of Piety
 
-- [[heliods-devotee-mot|Heliod's Devotee]]  
-- [[heliods-votary-mot|Heliod's Votary]]  
-- [[heliods-disciple-mot|Heliod's Disciple]]  
-- [[champion-of-the-sun-mot|Champion of the Sun]]
+- [Heliod's Devotee](/Compendium/rewards/heliods-devotee-mot.md)  
+- [Heliod's Votary](/Compendium/rewards/heliods-votary-mot.md)  
+- [Heliod's Disciple](/Compendium/rewards/heliods-disciple-mot.md)  
+- [Champion of the Sun](/Compendium/rewards/champion-of-the-sun-mot.md)

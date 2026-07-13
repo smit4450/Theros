@@ -1,9 +1,9 @@
 ---
-title: Earthquake
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -15,7 +15,8 @@ classes:
 - Cleric
 - Druid
 - Sorcerer
-aliases: ["Earthquake"]
+aliases:
+- "Earthquake"
 ---
 # Earthquake
 *8th-level, Transmutation*  
@@ -26,9 +27,9 @@ aliases: ["Earthquake"]
 - **Components:** V, S, M (a fractured rock)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is [[difficult-terrain-xphb|Difficult Terrain]].
+Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md).
 
-When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the [[conditions#Prone|Prone]] condition, and its [[conditions#Concentration|Concentration]] is broken.
+When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the [Prone](/Compendium/rules/conditions.md#Prone) condition, and its [Concentration](/Compendium/rules/conditions.md#Concentration) is broken.
 
 You can also cause the effects below.
 
@@ -38,12 +39,12 @@ A total of `1d6` fissures open in the spell's area at the end of the turn you ca
 
 ## Structures
 
-The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 [[hit-points-xphb|Hit Points]], it collapses.
+The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md), it collapses.
 
-A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes `12d6` Bludgeoning damage, has the [[conditions#Prone|Prone]] condition, and is buried in the rubble, requiring a DC 20 Strength ([[skills#Athletics|Athletics]]) check as an action to escape. On a successful save, the creature takes half as much damage only.
+A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes `12d6` Bludgeoning damage, has the [Prone](/Compendium/rules/conditions.md#Prone) condition, and is buried in the rubble, requiring a DC 20 Strength ([Athletics](/Compendium/rules/skills.md#Athletics)) check as an action to escape. On a successful save, the creature takes half as much damage only.
 
 ## Summary
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-sorcerer|Sorcerer]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

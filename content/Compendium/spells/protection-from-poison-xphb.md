@@ -1,9 +1,10 @@
 ---
-title: Protection from Poison
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
+- spell/class/artificer
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -13,13 +14,15 @@ tags:
 - spell/school/abjuration
 - spell/subclass/college-of-lore
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Druid
 - Paladin
 - Ranger
-aliases: ["Protection from Poison"]
+aliases:
+- "Protection from Poison"
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  
@@ -30,8 +33,8 @@ aliases: ["Protection from Poison"]
 - **Components:** V, S
 - **Duration:** 1 hour
 
-You touch a creature and end the [[conditions#Poisoned|Poisoned]] condition on it. For the duration, the target has [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition, and it has [[resistance-rules-xphb|Resistance]] to Poison damage.
+You touch a creature and end the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition on it. For the duration, the target has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition, and it has [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to Poison damage.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-ranger|Ranger]]
+**Classes**: [Artificer](/Compendium/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Paladin](/Compendium/lists/list-spells-classes-paladin.md); [Ranger](/Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

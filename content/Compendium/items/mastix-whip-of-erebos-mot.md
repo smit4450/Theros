@@ -1,22 +1,22 @@
 ---
-title: Mastix, Whip of Erebos
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - item/attunement/required
 - item/rarity/artifact
 - item/weapon/martial
 - item/weapon/melee
-aliases: 
+aliases:
 - "Mastix, Whip of Erebos"
 ---
 # Mastix, Whip of Erebos
-*Weapon ([[whip-xphb|whip]]), artifact (requires attunement)*  
-![](Compendium/items/img/mastix-whip-of-erebos.webp#right)
+*Weapon (whip), artifact (requires attunement)*  
+![](/Compendium/items/img/mastix-whip-of-erebos.webp#right)
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Reach](/Compendium/rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 Erebos wields Mastix, a whip capable of extending like an impossibly long shadow. In the hands of the god of the dead, the whip snares the reluctant dead and drags them into his realm. When Erebos grants his weapon to a mortal follower, it's typically to reclaim a powerful soul or to humiliate Heliod.
@@ -31,17 +31,17 @@ Additionally, when you make an attack with the whip on your turn, you can increa
 
 If you are a worshiper of Erebos, you gain all the following benefits for which you have the required piety:
 
-- **Piety 1+.** The whip has 1 randomly determined minor detrimental property—a burden Erebos imposes to test his faithful.  
-- **Piety 25+.** The whip has 1 randomly determined major beneficial property.  
-- **Piety 50+.** The whip has 1 additional randomly determined major beneficial property.  
+- **Piety 1+.** The whip has 1 randomly determined [minor detrimental](/Compendium/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property—a burden Erebos imposes to test his faithful.  
+- **Piety 25+.** The whip has 1 randomly determined [major beneficial](/Compendium/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
+- **Piety 50+.** The whip has 1 additional randomly determined [major beneficial](/Compendium/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
 
-If you aren't a worshiper of Erebos, the whip has 2 randomly determined major detrimental properties.
+If you aren't a worshiper of Erebos, the whip has 2 randomly determined [major detrimental](/Compendium/tables/artifact-properties-major-detrimental-properties-xdmg.md) properties.
 
 See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
 
 ## Erebos's Claim
 
-While carrying the whip, you can use an action to cast either [[circle-of-death-xphb|circle of death]] or [[dominate-monster-xphb|dominate monster]] (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can't be cast from it again until the next dusk.
+While carrying the whip, you can use an action to cast either [circle of death](/Compendium/spells/circle-of-death-xphb.md) or [dominate monster](/Compendium/spells/dominate-monster-xphb.md) (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can't be cast from it again until the next dusk.
 
 ## Destroying the Whip
 

@@ -1,22 +1,22 @@
 ---
-title: Wand of Web
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous/wand
-aliases: 
+aliases:
 - "Wand of Web"
 ---
 # Wand of Web
 *Wand, uncommon (requires attunement by a spellcaster)*  
-![](Compendium/items/img/wand-of-web.webp#right)
+![](/Compendium/items/img/wand-of-web.webp#right)
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can expend 1 charge to cast [[web-xphb|Web]] (save DC 13) from it.
+This wand has 7 charges. While holding it, you can expend 1 charge to cast [Web](/Compendium/spells/web-xphb.md) (save DC 13) from it.
 
 ## Regaining Charges
 

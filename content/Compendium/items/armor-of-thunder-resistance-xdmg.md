@@ -1,16 +1,16 @@
 ---
-title: Armor of Thunder Resistance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/light
 - item/armor/medium
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Thunder Resistance"
 - "Breastplate of Thunder Resistance"
 - "Chain Mail of Thunder Resistance"
@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [[resistance-rules-xphb|Resistance]] to thunder damage while you wear this armor.
+You have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to thunder damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Thunder Resistance](#Breastplate%20of%20Thunder%20Resistance)

@@ -1,12 +1,11 @@
 ---
-title: "Phenax's Monsters"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Phenax's Monsters
+- "Phenax's Monsters"
 ---
 # Phenax's Monsters
 *Source: Mythic Odysseys of Theros p. 164* 
@@ -15,12 +14,12 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1 | [[returned-sentry-mot|Returned sentry]] |
-| 3 | [[leucrotta-vgm|Leucrotta]] |
-| 3 | [[slithering-tracker-vgm|Slithering tracker]] |
-| 4 | [[returned-palamnite-mot|Returned palamnite]] |
-| 5 | [[ghostblade-eidolon-mot|Ghostblade eidolon]] |
-| 5 | [[master-thief-vgm|Master thief]] |
-| 8 | [[assassin-xmm|Assassin]] |
-| 16 | [[phoenix-mtf|Phoenix]] |
+| 1 | [Returned sentry](/Compendium/bestiary/undead/returned-sentry-mot.md) |
+| 3 | Leucrotta |
+| 3 | Slithering tracker |
+| 4 | [Returned palamnite](/Compendium/bestiary/undead/returned-palamnite-mot.md) |
+| 5 | [Ghostblade eidolon](/Compendium/bestiary/undead/ghostblade-eidolon-mot.md) |
+| 5 | Master thief |
+| 8 | [Assassin](/Compendium/bestiary/humanoid/assassin-xmm.md) |
+| 16 | Phoenix |
 ^phenaxs-monsters

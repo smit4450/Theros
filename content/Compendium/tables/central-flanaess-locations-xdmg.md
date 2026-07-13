@@ -1,12 +1,11 @@
 ---
-title: Central Flanaess Locations
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Central Flanaess Locations
+- "Central Flanaess Locations"
 ---
 # Central Flanaess Locations
 *Source: Dungeon Master's Guide (2024) p. 162* 

@@ -1,27 +1,27 @@
 ---
-title: Deva
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/10
 - monster/environment/planar
 - monster/environment/upper
 - monster/size/medium
 - monster/type/celestial/angel
-statblock: inline
-aliases: ["Deva"]
+aliases:
+- "Deva"
 ---
 # Deva
-*Source: Monster Manual (2024) p. 97, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 97. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/celestial/img/deva.webp#right)
 
-![](Compendium/bestiary/celestial/img/deva.webp#right|850)  
 ## Deva
 
 *World-Changing Angelic Messenger*
 
 - **Habitat.** Planar (Upper Planes)  
-- **Treasure.** [[random-magic-items-relics|Relics]]  
+- **Treasure.** [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Devas are emissaries of divine will. These immortal messengers adopt the shapes of mystical beasts or idealized, winged mortals. As with all angels, their true forms are known only to the gods they serve.
 
@@ -38,71 +38,54 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 | 5 | A seedling that wilts if exposed to anger. |
 | 6 | Someone from another world with a prophesied purpose but no memory. |
 ^deva-messages
-```statblock
-"name": "Deva (XMM)"
-"size": "Medium"
-"type": "celestial"
-"subtype": "angel"
-"alignment": "Lawful Good"
-"ac": !!int "17"
-"hp": !!int "229"
-"hit_dice": "27d8 + 108"
-"modifier": !!int "4"
-"stats":
-  - !!int "18"
-  - !!int "18"
-  - !!int "18"
-  - !!int "17"
-  - !!int "20"
-  - !!int "20"
-"speed": "30 ft., fly 90 ft. (hover)"
-"saves":
-  - "wisdom": !!int "9"
-  - "charisma": !!int "9"
-"skillsaves":
-  - "name": "[[skills#Insight|Insight]]"
-    "desc": "+9"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+9"
-"damage_resistances": "radiant"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]]"
-"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
-  \ 19"
-"languages": "all; telepathy 120 ft."
-"cr": "10"
-"traits":
-  - "desc": "If the deva dies outside Mount Celestia, its body disappears, and it\
-      \ gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
-      \ somewhere in Mount Celestia."
-    "name": "Exalted Restoration"
-  - "desc": "The deva has [[advantage-xphb|Advantage]]\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The deva makes two Holy Mace attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 7 (1d6 + 4) Bludgeoning\
-      \ damage plus 18 (4d8) Radiant damage."
-    "name": "Holy Mace"
-  - "desc": "The deva casts one of the following spells, requiring no Material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 17):\n\n**At\
-      \ will:** [[detect-evil-and-good-xphb|Detect Evil and Good]],\
-      \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid form\
-      \ only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ required to maintain the spell)\n\n**1/day each:** [[commune-xphb|Commune]],\
-      \ [[raise-dead-xphb|Raise Dead]]"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The deva casts [[cure-wounds-xphb|Cure Wounds]],\
-      \ [[lesser-restoration-xphb|Lesser Restoration]], or [[remove-curse-xphb|Remove\
-      \ Curse]], using the same spellcasting\
-      \ ability as Spellcasting.\n"
-    "name": "Divine Aid (2/Day)"
-"source":
-  - "XMM"
-  - "FRHoF"
-"image": "Compendium/bestiary/celestial/token/deva-xmm.webp"
+
+```ad-statblock
+title: Deva
+![](/Compendium/bestiary/celestial/token/deva-xmm.webp#token)
+*Medium celestial (angel), Lawful Good*
+
+- **Armor Class** 17 
+- **Hit Points** 229 (`27d8 + 108`) 
+- **Speed** 30 ft., fly 90 ft. (hover)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)|
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Wisdom +9, Charisma +9
+- **Skills** [Insight](/Compendium/rules/skills.md#Insight) +9, [Perception](/Compendium/rules/skills.md#Perception) +9
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 19
+- **Damage Resistances** radiant
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened)
+- **Languages** all; telepathy 120 ft.
+- **Challenge** 10
+
+## Traits
+
+***Exalted Restoration.*** If the deva dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) somewhere in Mount Celestia.
+
+***Magic Resistance.*** The deva has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The deva makes two Holy Mace attacks.
+
+***Holy Mace.*** *Melee Attack Roll:* `+8`, reach 5 ft. *Hit:* 7 (`1d6 + 4`) Bludgeoning damage plus 18 (`4d8`) Radiant damage.
+
+***Spellcasting.*** The deva casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
+
+**At will:** [Detect Evil and Good](/Compendium/spells/detect-evil-and-good-xphb.md), [Shapechange](/Compendium/spells/shapechange-xphb.md) (Beast or Humanoid form only, no [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md) gained from the spell, and no Concentration or [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md) required to maintain the spell)
+
+**1/day each:** [Commune](/Compendium/spells/commune-xphb.md), [Raise Dead](/Compendium/spells/raise-dead-xphb.md)
+
+## Bonus Actions
+
+***Divine Aid (2/Day).*** The deva casts [Cure Wounds](/Compendium/spells/cure-wounds-xphb.md), [Lesser Restoration](/Compendium/spells/lesser-restoration-xphb.md), or [Remove Curse](/Compendium/spells/remove-curse-xphb.md), using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
+
+## Environment
+
+planar, upper

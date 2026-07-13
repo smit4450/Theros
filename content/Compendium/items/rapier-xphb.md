@@ -1,21 +1,21 @@
 ---
-title: Rapier
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/melee
-aliases: 
+aliases:
 - "Rapier"
 ---
 # Rapier
 *Weapon*  
-![](Compendium/items/img/rapier.webp#right)
+![](/Compendium/items/img/rapier.webp#right)
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse)
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 

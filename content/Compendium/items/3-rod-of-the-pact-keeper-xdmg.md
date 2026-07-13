@@ -1,13 +1,13 @@
 ---
-title: +3 Rod of the Pact Keeper
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/very-rare
 - item/wondrous/rod
-aliases: 
+aliases:
 - "+3 Rod of the Pact Keeper"
 ---
 # +3 Rod of the Pact Keeper
@@ -18,6 +18,6 @@ aliases:
 
 While holding this rod, you gain a +3 bonus to spell attack rolls and to the saving throw DCs of your Warlock spells.
 
-In addition, you can regain one spell slot as a [[actions#Magic|Magic]] action while holding the rod. You can't use this property again until you finish a [[long-rest-xphb|Long Rest]].
+In addition, you can regain one spell slot as a [Magic](/Compendium/rules/actions.md#Magic) action while holding the rod. You can't use this property again until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
 *Source: Dungeon Master's Guide (2024) p. 301*

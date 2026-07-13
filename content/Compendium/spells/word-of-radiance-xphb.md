@@ -1,9 +1,9 @@
 ---
-title: Word of Radiance
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/cleric
 - spell/feat/blessed-warrior
 - spell/feat/magic-initiate/cleric-spells
@@ -14,7 +14,8 @@ tags:
 classes:
 - Bard (College of Lore)
 - Cleric
-aliases: ["Word of Radiance"]
+aliases:
+- "Word of Radiance"
 ---
 # Word of Radiance
 *cantrip, Evocation*  
@@ -25,10 +26,10 @@ aliases: ["Word of Radiance"]
 - **Components:** V, M (a sunburst token)
 - **Duration:** Instantaneous
 
-Burning radiance erupts from you in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]. Each creature of your choice that you can see in it must succeed on a Constitution saving throw or take `1d6` Radiant damage.
+Burning radiance erupts from you in a 5-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md). Each creature of your choice that you can see in it must succeed on a Constitution saving throw or take `1d6` Radiant damage.
 
 **Cantrip Upgrade.** The damage increases by `1d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/Compendium/lists/list-spells-classes-cleric.md)
 
 *Source: Player's Handbook (2024) p. 343*

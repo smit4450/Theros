@@ -1,18 +1,17 @@
 ---
-title: Mogis
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/war
-aliases: 
-- Mogis
+aliases:
+- "Mogis"
 ---
 # Mogis
 *Source: Mythic Odysseys of Theros p. 64* 
-![](Compendium/deities/img/mot-042-02-03-mogis.webp#symbol)
+![](/Compendium/deities/img/mot-042-02-03-mogis.webp#symbol)
 
 - **Alignment**: Chaotic Evil
 - **Domains**: War
@@ -50,7 +49,7 @@ Minotaurs are the most ardent worshipers of Mogis and regularly hold bloody rite
 
 The appearance of the blood moon is a most holy occasion for the faithful of Mogis, since the moon represents his hateful crimson eye. At such times, his followers prepare and consume a feast of meat, either raw or barely cooked, along with copious amounts of intoxicants, followed by ritual self-mutilation—scarring themselves to demonstrate their devotion to Mogis.
 
-![](Compendium/deities/img/mot-043-02-13.webp#center)
+![](/Compendium/deities/img/mot-043-02-13.webp#center)
 
 > [!readaloud] Myths of Mogis
 > 
@@ -134,7 +133,7 @@ Your piety score to Mogis decreases if you diminish Mogis's influence in the wor
 
 ### Benefits of Piety
 
-- [[mogiss-devotee-mot|Mogis's Devotee]]  
-- [[mogiss-votary-mot|Mogis's Votary]]  
-- [[mogiss-disciple-mot|Mogis's Disciple]]  
-- [[champion-of-slaughter-mot|Champion of Slaughter]]
+- [Mogis's Devotee](/Compendium/rewards/mogiss-devotee-mot.md)  
+- [Mogis's Votary](/Compendium/rewards/mogiss-votary-mot.md)  
+- [Mogis's Disciple](/Compendium/rewards/mogiss-disciple-mot.md)  
+- [Champion of Slaughter](/Compendium/rewards/champion-of-slaughter-mot.md)

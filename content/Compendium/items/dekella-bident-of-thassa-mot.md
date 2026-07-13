@@ -1,25 +1,25 @@
 ---
-title: Dekella, Bident of Thassa
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - item/attunement/required
 - item/rarity/artifact
 - item/weapon/martial
 - item/weapon/melee
-aliases: 
+aliases:
 - "Dekella, Bident of Thassa"
 ---
 # Dekella, Bident of Thassa
-*Weapon ([[trident-xphb|trident]]), artifact (requires attunement)*  
-![](Compendium/items/img/dekella-bident-of-thassa.webp#right)
+*Weapon (trident), artifact (requires attunement)*  
+![](/Compendium/items/img/dekella-bident-of-thassa.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown), [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 Thassa wields Dekella, a two-pronged weapon gifted to her by Purphoros. When the god of the sea bestows her weapon on a mortal, it's often so they might work her will far from the ocean, right some wrong affecting those she'd prefer not to harm, or give a mortal a glimpse of her terrible responsibilities.
@@ -33,10 +33,10 @@ Thassa's signature weapon thrums with the icy currents of the deep ocean. This w
 If you are a worshiper of Thassa, you gain all the following benefits for which you have the required piety:
 
 - **Piety 10+.** You can breathe underwater, and you gain a swimming speed of 60 feet.  
-- **Piety 25+.** The bident has 1 randomly determined minor beneficial property.  
-- **Piety 50+.** The bident has 1 randomly determined major beneficial property.  
+- **Piety 25+.** The bident has 1 randomly determined [minor beneficial](/Compendium/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property.  
+- **Piety 50+.** The bident has 1 randomly determined [major beneficial](/Compendium/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
 
-If you aren't a worshiper of Thassa, the bident has 1 minor detrimental property and 1 major detrimental property, both randomly determined.
+If you aren't a worshiper of Thassa, the bident has 1 [minor detrimental](/Compendium/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property and 1 [major detrimental](/Compendium/tables/artifact-properties-major-detrimental-properties-xdmg.md) property, both randomly determined.
 
 See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
 
@@ -44,14 +44,14 @@ See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on random
 
 The bident holds the power to command the waves and its creatures. As an action, you can change the condition of the sea within 1 mile of you, creating strong winds and heavy rain that cause violent waves (see "Weather at Sea" in chapter 5 of the Dungeon Master's Guide) or calming a storm. In either case, the unnatural weather lasts for 1 hour before returning to normal. Once used, this property of the bident can't be used again until the next dusk.
 
-Additionally, you can cast the [[dominate-monster-xphb|dominate monster]] spell (save DC 18) from the bident, but only on beasts and monstrosities that have an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk.
+Additionally, you can cast the [dominate monster](/Compendium/spells/dominate-monster-xphb.md) spell (save DC 18) from the bident, but only on beasts and monstrosities that have an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk.
 
 ## Aquatic Metamorphosis
 
-You can cast the [[true-polymorph-xphb|true polymorph]] spell (save DC 18) from the bident, but you must cast it on a creature to turn it into a kind of creature that has an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk.
+You can cast the [true polymorph](/Compendium/spells/true-polymorph-xphb.md) spell (save DC 18) from the bident, but you must cast it on a creature to turn it into a kind of creature that has an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk.
 
 ## Destroying the Bident
 
-To destroy the bident, it must be heated by the breath of an [[ancient-red-dragon-xmm|ancient red dragon]] and then, while still hot, immersed in the Tartyx River.
+To destroy the bident, it must be heated by the breath of an [ancient red dragon](/Compendium/bestiary/dragon/ancient-red-dragon-xmm.md) and then, while still hot, immersed in the Tartyx River.
 
 *Source: Mythic Odysseys of Theros p. 199*

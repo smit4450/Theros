@@ -1,9 +1,9 @@
 ---
-title: "Drawmij's Instant Summons"
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/wizard
 - spell/level/6th-level
@@ -12,7 +12,8 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Drawmij's Instant Summons"]
+aliases:
+- "Drawmij's Instant Summons"
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  
@@ -23,12 +24,12 @@ aliases: ["Drawmij's Instant Summons"]
 - **Components:** V, S, M (a sapphire worth 1,000+ GP)
 - **Duration:** Until dispelled
 
-You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an [[conditions#Invisible|Invisible]] mark on that object and invisibly inscribes the object's name on the sapphire. Each time you cast this spell, you must use a different sapphire.
+You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an [Invisible](/Compendium/rules/conditions.md#Invisible) mark on that object and invisibly inscribes the object's name on the sapphire. Each time you cast this spell, you must use a different sapphire.
 
-Thereafter, you can take a [[actions#Magic|Magic]] action to speak the object's name and crush the sapphire. The object instantly appears in your hand regardless of physical or planar distances, and the spell ends.
+Thereafter, you can take a [Magic](/Compendium/rules/actions.md#Magic) action to speak the object's name and crush the sapphire. The object instantly appears in your hand regardless of physical or planar distances, and the spell ends.
 
 If another creature is holding or carrying the object, crushing the sapphire doesn't transport it, but instead you learn who that creature is and where that creature is currently located.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Instant Summons") and the Free Rules (2024)*

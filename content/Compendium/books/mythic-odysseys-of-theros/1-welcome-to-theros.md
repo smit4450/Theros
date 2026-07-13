@@ -1,19 +1,18 @@
 ---
-title: Welcome to Theros
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Welcome to Theros
+- "Welcome to Theros"
 ---
 # Welcome to Theros
 *Source: Mythic Odysseys of Theros, p. 5* 
 
-![Cover: The invulnerable he...](Compendium/books/mythic-odysseys-of-theros/img/196-07-01.webp#center "Cover: The invulnerable hero, Haktos the Unscarred, leaps into battle with a Nyxborn hydra, taking part in the most recent telling of a myth repeated through the ages.")
+![Cover: The invulnerable hero, Haktos the Unscarred, leaps into battle with a Nyxborn hydra, taking part in the most recent telling of a myth repeated through the ages.](/Compendium/books/mythic-odysseys-of-theros/img/196-07-01.webp#center)
 
-![Alternate Cover: While the...](Compendium/books/mythic-odysseys-of-theros/img/197-07-02.webp#center "Alternate Cover: While the gods look on, the immortal struggle between Haktos and the hydra plays out in the stars of Nyx.")
+![Alternate Cover: While the gods look on, the immortal struggle between Haktos and the hydra plays out in the stars of Nyx.](/Compendium/books/mythic-odysseys-of-theros/img/197-07-02.webp#center)
 
 > [!readaloud] 
 > 
@@ -32,7 +31,7 @@ aliases:
 > Own bright pathway through history, greater than all mortal yearnings.
 ^001
 
-![](Compendium/books/mythic-odysseys-of-theros/img/000-00-04.webp#center)
+![](/Compendium/books/mythic-odysseys-of-theros/img/000-00-04.webp#center)
 
 > [!quote] A quote from Jenna Helland, Godsend  
 > 
@@ -60,7 +59,7 @@ This book is your guide to Theros, its gods, its peoples and their cities (or po
 
 Finally, "chapter 6" presents numerous inhabitants of Theros. An exploration of familiar beasts from the "Monster Manual" and other sources—creatures with their roots in Greek mythology—details their place and unique characteristics in the lands of Theros. Several of Theros's most notorious creatures, foes as legendary as the world's most renowned heroes, are also presented as mythic monsters, terrors designed to test even the gods' mightiest champions.
 
-![The General, and The Protector](Compendium/books/mythic-odysseys-of-theros/img/001-00-02-a.webp#center)
+![The General, and The Protector](/Compendium/books/mythic-odysseys-of-theros/img/001-00-02-a.webp#center)
 
 ## Dreams of Divinity
 
@@ -80,7 +79,7 @@ The competition for mortal devotion isn't necessarily a zero-sum game. The peopl
 
 Mortal beings—heroes and monsters alike—often become unwitting pawns in the contests of the gods. Having a powerful champion is an indication of a god's power—and can potentially increase the god's own power. A champion who acts as an agent of a god among other people helps increase those people's devotion to the god. And if a hero should happen to strike down the agents of a rival god along the way, all the better.
 
-![The Vanquisher, and The Hunter](Compendium/books/mythic-odysseys-of-theros/img/002-00-02-b.webp#center)
+![The Vanquisher, and The Hunter](/Compendium/books/mythic-odysseys-of-theros/img/002-00-02-b.webp#center)
 
 ### Fate and Destiny
 
@@ -102,7 +101,7 @@ The heroes illustrated throughout this introduction are examples of heroic arche
 
 The heroes of a Theros campaign might aspire to emulate one of the great heroic archetypes, or they might strive to forge an entirely new mythic identity, to be remembered by name in tales of glory forever.
 
-![The Provider, and The Warrior](Compendium/books/mythic-odysseys-of-theros/img/003-00-03-a.webp#center)
+![The Provider, and The Warrior](/Compendium/books/mythic-odysseys-of-theros/img/003-00-03-a.webp#center)
 
 ## History and Myth
 
@@ -126,7 +125,7 @@ After the fall of Agnomakhos and the other archons of Trax, humans and minotaurs
 
 Meletis, Akros, and Skophos perpetuated the stark division between civilization and nature that was inherent in the archons' rule. While most humans (and minotaurs) embraced that division, the god Karametra tried to teach people a new way of living in harmony with nature, leading to the founding of Setessa.
 
-![The Slayer, and The Philosopher](Compendium/books/mythic-odysseys-of-theros/img/004-00-03-b.webp#center)
+![The Slayer, and The Philosopher](/Compendium/books/mythic-odysseys-of-theros/img/004-00-03-b.webp#center)
 
 ### Age of Heroes
 
@@ -134,13 +133,13 @@ The uncounted centuries since the fall of the archons have been marked by the ex
 
 The epic tale of the Akroan War is only nominally a history of the long siege of Akros, precipitated by the queen of Olantin abandoning her husband and going to live with the Akroan king. With the war as a backdrop, a nameless poet spins tales of gods and heroes, victories and tragedies. The death of the triton queen Korinna, and the resulting birth of the Dakra Isles from Thassa's falling tears, is a tale told incidentally, by way of comparison to the grief of the Olantian king. The tale of Phenax escaping from the Underworld is told to explain the origin of a phalanx of the Returned that comes to fight alongside the Olantian forces. And when the sphinx oracle Medomai appears and foretells the fall of Olantin, the poet tells of Medomai's earlier prophecy of the destruction of Alephne—a tragedy that could have been averted had anyone believed the sphinx's dire warning.
 
-The saga of Callaphe the Mariner, told in *The Callapheia*, is a more coherent narrative focused on a single hero and her exploits. Known as the greatest mariner who ever lived, Callaphe was a human trickster from Meletis who sailed a ship called *The* *Monsoon*. She was the first mortal to decipher the secret patterns of the winds (provoking Thassa's ire), and she sailed over the edge of the world and into Nyx to claim her place among the stars. The tales of her adventures are a mythic tour of the Dakra Isles and the coastlands of Theros, describing a panoply of creatures, nations, and marvelous phenomena—some of which still exist as described in its verses, though others are lost to history or myth.
+The saga of Callaphe the Mariner, told in *The Callapheia*, is a more coherent narrative focused on a single hero and her exploits. Known as the greatest mariner who ever lived, Callaphe was a human trickster from Meletis who sailed a ship called *The Monsoon*. She was the first mortal to decipher the secret patterns of the winds (provoking Thassa's ire), and she sailed over the edge of the world and into Nyx to claim her place among the stars. The tales of her adventures are a mythic tour of the Dakra Isles and the coastlands of Theros, describing a panoply of creatures, nations, and marvelous phenomena—some of which still exist as described in its verses, though others are lost to history or myth.
 
 *The Theriad* is a different sort of epic, closely associated with the worship of Heliod. At a glance, it appears to be about a champion of Heliod who is never named but simply called "the Champion." A closer read, though, reveals that the tales take place over the span of centuries and the identity of the Champion changes from tale to tale. In fact, *The Theriad* is a compilation of tales describing the exploits of many different champions of the sun god. It is widely believed that some tales are actually prophecies of champions yet to come.
 
 ### Recent Memory
 
-The Age of Heroes has not yet come to an end, and more epics will surely be sung and written as more heroes take their destinies into their own hands and chart their paths to the stars. The heroes of recent memory—Haktos the Unscarred, Siona and her crew on the *Pyleas*, Kytheon Iora, Elspeth and Daxos, Anax and Cymede, Ajani Goldmane, and countless others—are no less heroic than the protagonists of age-old epics, even if their deeds aren't yet as widely known. Beyond individuals—a kraken attack on Meletis; the fall of the monstrous hydra [[polukranos-mot|Polukranos]]; the Nyxborn assault on Akros; Erebos's titan felled by Heliod's champion; the apotheosis and destruction of the mortal-turned-god Xenagos—the epic events of the recent past are already remembered and retold as mythic deeds. Many of these tales are told throughout this book, but they're only a fraction of the myths the people of Theros share.
+The Age of Heroes has not yet come to an end, and more epics will surely be sung and written as more heroes take their destinies into their own hands and chart their paths to the stars. The heroes of recent memory—Haktos the Unscarred, Siona and her crew on the *Pyleas*, Kytheon Iora, Elspeth and Daxos, Anax and Cymede, Ajani Goldmane, and countless others—are no less heroic than the protagonists of age-old epics, even if their deeds aren't yet as widely known. Beyond individuals—a kraken attack on Meletis; the fall of the monstrous hydra [Polukranos](/Compendium/bestiary/npc/polukranos-mot.md); the Nyxborn assault on Akros; Erebos's titan felled by Heliod's champion; the apotheosis and destruction of the mortal-turned-god Xenagos—the epic events of the recent past are already remembered and retold as mythic deeds. Many of these tales are told throughout this book, but they're only a fraction of the myths the people of Theros share.
 
 Like white-hot bronze on the smith's anvil, Theros is ready to be forged by the deeds of today's heroes and ushered into the next great era of its history.
 
@@ -148,6 +147,6 @@ Like white-hot bronze on the smith's anvil, Theros is ready to be forged by the 
 
 Theros is not the most cosmopolitan of worlds, and a relatively small number of languages are used in its lands and sea. The citizens of the three human poleis (Meletis, Akros, and Setessa) speak their own dialects of the Common language, mutually intelligible but just different enough to identify the speaker's native land. Leonin and minotaurs have their own languages, and tritons speak the Aquan dialect of Primordial. Centaurs and satyrs speak distinct dialects of Sylvan, and different bands of centaurs even pronounce the same words differently. Giants and cyclopes share one language. Dragons and sphinxes have distinct languages rarely spoken among mortals of Theros, and the gods themselves speak in a unique language that few beyond mortal oracles can understand.
 
-![[standard-languages-mot|Standard Languages]]
+![Standard Languages](/Compendium/tables/standard-languages-mot.md)
 
-![[exotic-languages-mot|Exotic Languages]]
+![Exotic Languages](/Compendium/tables/exotic-languages-mot.md)

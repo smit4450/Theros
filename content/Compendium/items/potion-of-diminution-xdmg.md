@@ -1,12 +1,12 @@
 ---
-title: Potion of Diminution
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/rare
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Diminution"
 ---
 # Potion of Diminution
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the "reduce" effect of the [[enlarge-reduce-xphb|Enlarge/Reduce]] spell for `1d4` hours (no [[conditions#Concentration|Concentration]] required).
+When you drink this potion, you gain the "reduce" effect of the [Enlarge/Reduce](/Compendium/spells/enlarge-reduce-xphb.md) spell for `1d4` hours (no [Concentration](/Compendium/rules/conditions.md#Concentration) required).
 
 The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.
 

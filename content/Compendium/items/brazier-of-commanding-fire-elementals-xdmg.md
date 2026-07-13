@@ -1,18 +1,18 @@
 ---
-title: Brazier of Commanding Fire Elementals
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/rare
-aliases: 
+aliases:
 - "Brazier of Commanding Fire Elementals"
 ---
 # Brazier of Commanding Fire Elementals
 *Wondrous item, rare*  
-![](Compendium/items/img/brazier-of-commanding-fire-elementals.webp#right)
+![](/Compendium/items/img/brazier-of-commanding-fire-elementals.webp#right)
 
 
-While you are within 5 feet of this brazier, you can take a [[actions#Magic|Magic]] action to summon a [[fire-elemental-xmm|Fire Elemental]]. The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative-xphb|Initiative]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[bonus-action-xphb|Bonus Action]]. The brazier can't be used this way again until the next dawn.
+While you are within 5 feet of this brazier, you can take a [Magic](/Compendium/rules/actions.md#Magic) action to summon a [Fire Elemental](/Compendium/bestiary/elemental/fire-elemental-xmm.md). The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [Initiative](/Compendium/rules/variant-rules/initiative-xphb.md) count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md). The brazier can't be used this way again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

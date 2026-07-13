@@ -1,20 +1,20 @@
 ---
-title: Priest
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/2
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid/cleric
-statblock: inline
-aliases: ["Priest"]
+aliases:
+- "Priest"
 ---
 # Priest
-*Source: Monster Manual (2024) p. 248, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/humanoid/img/priests.webp#right)
 
-![](Compendium/bestiary/humanoid/img/priests.webp#right|850)  
 Priests draw on their beliefs to heal the needful and smite their foes. They can channel their faith as spells and empower their weapons with divine might.
 
 ## Priests
@@ -22,7 +22,7 @@ Priests draw on their beliefs to heal the needful and smite their foes. They can
 *Arbiters of the Mortal and the Divine*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
+- **Treasure.** Individual, [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Priests harness the power of faith to work miracles. These religious adherents are as diverse as the faiths they follow. Some obey gods and their servants, while others live by age-old creeds. Belief guides priests' actions and their magic, which they use to shape the world in line with their ideologies.
 
@@ -48,56 +48,51 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 > 
 > Shining One, light my hours. Enkindle my soul, and inspire my deeds. Chase the shadows from my path, and let me walk in your brilliance.
 
+
 ## Statblock
 
-```statblock
-"name": "Priest (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"subtype": "cleric"
-"alignment": "Neutral"
-"ac": !!int "13"
-"hp": !!int "38"
-"hit_dice": "7d8 + 7"
-"modifier": !!int "0"
-"stats":
-  - !!int "16"
-  - !!int "10"
-  - !!int "12"
-  - !!int "13"
-  - !!int "16"
-  - !!int "13"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[[skills#Medicine|Medicine]]"
-    "desc": "+7"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-  - "name": "[[skills#Religion|Religion]]"
-    "desc": "+5"
-"senses": "passive Perception 15"
-"languages": "Common plus one other language"
-"cr": "2"
-"actions":
-  - "desc": "The priest makes two attacks, using Mace or Radiant Flame in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning\
-      \ damage plus 5 (2d4) Radiant damage."
-    "name": "Mace"
-  - "desc": "*Ranged Attack Roll:* +5, range 60 ft. *Hit:* 11 (2d10) Radiant damage."
-    "name": "Radiant Flame"
-  - "desc": "The priest casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability:\n\n**At will:** [[light-xphb|Light]], [[thaumaturgy-xphb|Thaumaturgy]]\n\
-      \n**1/day:** [[spirit-guardians-xphb|Spirit Guardians]]"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The priest casts [[bless-xphb|Bless]], [[dispel-magic-xphb|Dispel Magic]],\
-      \ [[healing-word-xphb|Healing Word]], or [[lesser-restoration-xphb|Lesser Restoration]],\
-      \ using the same spellcasting ability as Spellcasting.\n"
-    "name": "Divine Aid (3/Day)"
-"source":
-  - "XMM"
-  - "FRHoF"
-"image": "Compendium/bestiary/humanoid/token/priest-xmm.webp"
+```ad-statblock
+title: Priest
+![](/Compendium/bestiary/humanoid/token/priest-xmm.webp#token)
+*Small or Medium humanoid (cleric), Neutral*
+
+- **Armor Class** 13 
+- **Hit Points** 38 (`7d8 + 7`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Medicine](/Compendium/rules/skills.md#Medicine) +7, [Perception](/Compendium/rules/skills.md#Perception) +5, [Religion](/Compendium/rules/skills.md#Religion) +5
+- **Senses** passive Perception 15
+- **Gear** [chain shirt](/Compendium/items/chain-shirt-xphb.md), [holy symbol](/Compendium/items/holy-symbol-xphb.md), [mace](/Compendium/items/mace-xphb.md)
+- **Languages** Common plus one other language
+- **Challenge** 2
+
+## Actions
+
+***Multiattack.*** The priest makes two attacks, using Mace or Radiant Flame in any combination.
+
+***Mace.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Bludgeoning damage plus 5 (`2d4`) Radiant damage.
+
+***Radiant Flame.*** *Ranged Attack Roll:* `+5`, range 60 ft. *Hit:* 11 (`2d10`) Radiant damage.
+
+***Spellcasting.*** The priest casts one of the following spells, using Wisdom as the spellcasting ability:
+
+**At will:** [Light](/Compendium/spells/light-xphb.md), [Thaumaturgy](/Compendium/spells/thaumaturgy-xphb.md)
+
+**1/day:** [Spirit Guardians](/Compendium/spells/spirit-guardians-xphb.md)
+
+## Bonus Actions
+
+***Divine Aid (3/Day).*** The priest casts [Bless](/Compendium/spells/bless-xphb.md), [Dispel Magic](/Compendium/spells/dispel-magic-xphb.md), [Healing Word](/Compendium/spells/healing-word-xphb.md), or [Lesser Restoration](/Compendium/spells/lesser-restoration-xphb.md), using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
+
+## Environment
+
+any

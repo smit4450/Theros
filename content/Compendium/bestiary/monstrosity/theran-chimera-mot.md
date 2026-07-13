@@ -1,19 +1,19 @@
 ---
-title: Theran Chimera
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - monster/cr/7
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
-aliases: ["Theran Chimera"]
+aliases:
+- "Theran Chimera"
 ---
 # Theran Chimera
 *Source: Mythic Odysseys of Theros p. 216*  
+![](/Compendium/bestiary/monstrosity/img/theran-chimera.webp#right)
 
-![](Compendium/bestiary/monstrosity/img/theran-chimera.webp#right|850)  
 The term chimera applies to a wide variety of disparate monsters that combine the features of multiple beasts. While many artistic depictions represent chimeras as an amalgam of lion, ram, and dragon, these beasts appear with nearly endless variations.
 
 The Akroans tell a tale of the first chimera's origin, wherein the god Keranos sought to test Nylea's favorite champion, Renata of Setessa, by creating a beast so deadly that even she would balk at trying to hunt it. When Renata slayed this lion-ram-dragon creation effortlessly, Keranos created another combination of deadlier beasts to challenge her. She slayed that beast, too. Despite countless attempts, Keranos was unable to create a beast that Renata couldn't best.
@@ -63,62 +63,43 @@ The Theran chimera stat block presents one possible chimera configuration. You m
 | 3 | **Shark Tail.** The chimera's tail is a large fin. When the chimera hits a creature with its tail, the creature is also pushed up to 10 feet away. |
 | 4 | **Constricting Tail.** The chimera's tail can constrict prey. If the chimera hits a creature with its tail, the target is grappled (escape DC 15) if it is Large or smaller. Until this grapple ends, the target is restrained, and the chimera can't use its tail on another target. |
 ^tail-attacks
+
 ## Statblock
 
-```statblock
-"name": "Theran Chimera (MOT)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "15"
-"ac_class": "natural armor"
-"hp": !!int "95"
-"hit_dice": "10d10 + 40"
-"modifier": !!int "1"
-"stats":
-  - !!int "18"
-  - !!int "13"
-  - !!int "19"
-  - !!int "3"
-  - !!int "14"
-  - !!int "10"
-"speed": "30 ft., fly 60 ft."
-"saves":
-  - "constitution": !!int "7"
-  - "wisdom": !!int "5"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
-"senses": "[[senses#Darkvision|darkvision]] 60 ft., passive Perception\
-  \ 15"
-"languages": "understands Draconic but can't speak"
-"cr": "7"
-"traits":
-  - "desc": "The chimera has advantage on a saving throw against any spell that targets\
-      \ only the chimera (not an area). If the chimera's saving throw is successful\
-      \ and the spell is of 4th level or lower, the spell has no effect on the chimera\
-      \ and instead targets the caster."
-    "name": "Spell Turning"
-"actions":
-  - "desc": "The chimera makes three attacks: one with its claws, one with its head,\
-      \ and one with its tail. When its breath weapon is available, it can use the\
-      \ breath in place of its head or its claws."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) slashing damage."
-    "name": "Claws"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (1d12 + 4) piercing damage."
-    "name": "Head"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
-      \ 11 (2d6 + 4) bludgeoning damage."
-    "name": "Tail"
-  - "desc": "The chimera exhales fire in a 15-foot cone. Each creature in that area\
-      \ must make a DC 15 Dexterity saving throw, taking 32 (5d12) fire damage on\
-      \ a failed save, or half as much damage on a successful one."
-    "name": "Breath Weapon (Recharge 5-6)"
-"source":
-  - "MOT"
-"image": "Compendium/bestiary/monstrosity/token/theran-chimera-mot.webp"
+```ad-statblock
+title: Theran Chimera
+![](/Compendium/bestiary/monstrosity/token/theran-chimera-mot.webp#token)
+*Large monstrosity, Unaligned*
+
+- **Armor Class** 15 (natural armor)
+- **Hit Points** 95 (`10d10 + 40`) 
+- **Speed** 30 ft., fly 60 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|13 (+1)|19 (+4)| 3 (-4)|14 (+2)|10 (+0)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Constitution +7, Wisdom +5
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5
+- **Senses** [darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Languages** understands Draconic but can't speak
+- **Challenge** 7
+
+## Traits
+
+***Spell Turning.*** The chimera has advantage on a saving throw against any spell that targets only the chimera (not an area). If the chimera's saving throw is successful and the spell is of 4th level or lower, the spell has no effect on the chimera and instead targets the caster.
+
+## Actions
+
+***Multiattack.*** The chimera makes three attacks: one with its claws, one with its head, and one with its tail. When its breath weapon is available, it can use the breath in place of its head or its claws.
+
+***Claws.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) slashing damage.
+
+***Head.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 10 (`1d12 + 4`) piercing damage.
+
+***Tail.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage.
+
+***Breath Weapon (Recharge 5-6).*** The chimera exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 32 (`5d12`) fire damage on a failed save, or half as much damage on a successful one.
 ```
 ^statblock

@@ -1,12 +1,11 @@
 ---
-title: "Special Purpose; Sentient Item's Communication"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Special Purpose; Sentient Item's Communication
+- "Special Purpose; Sentient Item's Communication"
 ---
 # Special Purpose; Sentient Item's Communication
 *Source: Dungeon Master's Guide (2024) p. 226* 

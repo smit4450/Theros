@@ -1,15 +1,15 @@
 ---
-title: Walloping Ammunition
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/age/futuristic
 - item/gear/ammunition
 - item/gear/ammunition-firearm
 - item/rarity/common
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Walloping Ammunition"
 - "Walloping Arrow"
 - "Walloping Bolt"
@@ -23,7 +23,7 @@ aliases:
 
 
 
-A creature hit by this ammunition must succeed on a DC 10 Strength saving throw or have the [[conditions#Prone|Prone]] condition.
+A creature hit by this ammunition must succeed on a DC 10 Strength saving throw or have the [Prone](/Compendium/rules/conditions.md#Prone) condition.
 
 **Variants**:
 - [Walloping Arrow](#Walloping%20Arrow)

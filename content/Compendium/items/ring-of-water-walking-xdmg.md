@@ -1,19 +1,19 @@
 ---
-title: Ring of Water Walking
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/uncommon
 - item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Water Walking"
 ---
 # Ring of Water Walking
 *Ring, uncommon*  
-![](Compendium/items/img/ring-of-water-walking.webp#right)
+![](/Compendium/items/img/ring-of-water-walking.webp#right)
 
 
-While wearing this ring, you cast [[water-walk-xphb|Water Walk]] from it, targeting only yourself.
+While wearing this ring, you cast [Water Walk](/Compendium/spells/water-walk-xphb.md) from it, targeting only yourself.
 
 *Source: Dungeon Master's Guide (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

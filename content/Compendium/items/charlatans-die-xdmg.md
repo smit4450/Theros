@@ -1,17 +1,17 @@
 ---
-title: "Charlatan's Die"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/common
-aliases: 
+aliases:
 - "Charlatan's Die"
 ---
 # Charlatan's Die
 *Wondrous item, common (requires attunement)*  
-![](Compendium/items/img/charlatans-die.webp#right)
+![](/Compendium/items/img/charlatans-die.webp#right)
 
 
 Whenever you roll this six-sided die, you can control which number it rolls.

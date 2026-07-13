@@ -1,9 +1,9 @@
 ---
-title: Spiritual Weapon
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/level/2nd-level
@@ -15,11 +15,12 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Cleric (War Domain)
-aliases: ["Spiritual Weapon"]
+aliases:
+- "Spiritual Weapon"
 ---
 # Spiritual Weapon
 *2nd-level, Evocation*  
-![](Compendium/spells/img/spiritual-weapon.webp#right)
+![](/Compendium/spells/img/spiritual-weapon.webp#right)
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
@@ -28,10 +29,10 @@ aliases: ["Spiritual Weapon"]
 
 You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration. The force appears within range in a space of your choice, and you can immediately make one melee spell attack against one creature within 5 feet of the force. On a hit, the target takes Force damage equal to `1d8` plus your spellcasting ability modifier.
 
-As a [[bonus-action-xphb|Bonus Action]] on your later turns, you can move the force up to 20 feet and repeat the attack against a creature within 5 feet of it.
+As a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md) on your later turns, you can move the force up to 20 feet and repeat the attack against a creature within 5 feet of it.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for every slot level above 2.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric|Cleric]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/Compendium/lists/list-spells-classes-cleric.md)
 
 *Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,12 +1,11 @@
 ---
-title: Creature Size and Space
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Creature Size and Space
+- "Creature Size and Space"
 ---
 # Creature Size and Space
 *Source: Dungeon Master's Guide (2024) p. 44. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

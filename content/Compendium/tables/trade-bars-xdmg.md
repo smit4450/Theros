@@ -1,12 +1,11 @@
 ---
-title: Trade Bars
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Trade Bars
+- "Trade Bars"
 ---
 # Trade Bars
 *Source: Dungeon Master's Guide (2024) p. 213* 
@@ -15,7 +14,7 @@ aliases:
 
 | Bar | Value | Dimensions |
 |-----|-------|------------|
-| [[silver-bar-2-pound-xdmg|2-pound silver bar]] | 10 GP | 5 in. long × 2 in. wide × 1/2 in. thick |
-| [[silver-bar-5-pound-xdmg|5-pound silver bar]] | 25 GP | 6 in. long × 2 in. wide × 1 in. thick |
-| [[gold-bar-5-pound-xdmg|5-pound gold bar]] | 250 GP | 5 in. long × 2 in. wide × 3/4 in. thick |
+| [2-pound silver bar](/Compendium/items/silver-bar-2-pound-xdmg.md) | 10 GP | 5 in. long × 2 in. wide × 1/2 in. thick |
+| [5-pound silver bar](/Compendium/items/silver-bar-5-pound-xdmg.md) | 25 GP | 6 in. long × 2 in. wide × 1 in. thick |
+| [5-pound gold bar](/Compendium/items/gold-bar-5-pound-xdmg.md) | 250 GP | 5 in. long × 2 in. wide × 3/4 in. thick |
 ^trade-bars

@@ -1,9 +1,9 @@
 ---
-title: Giant Eagle
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1
 - monster/environment/coastal
 - monster/environment/grassland
@@ -11,52 +11,51 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/celestial
-statblock: inline
-aliases: ["Giant Eagle"]
+aliases:
+- "Giant Eagle"
 ---
 # Giant Eagle
 *Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/celestial/img/eagle.webp#right)
 
-![](Compendium/bestiary/celestial/img/eagle.webp#right|850)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
-![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
-![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
-![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
-```statblock
-"name": "Giant Eagle (XMM)"
-"size": "Large"
-"type": "celestial"
-"alignment": "Neutral Good"
-"ac": !!int "13"
-"hp": !!int "26"
-"hit_dice": "4d10 + 4"
-"modifier": !!int "3"
-"stats":
-  - !!int "16"
-  - !!int "17"
-  - !!int "13"
-  - !!int "8"
-  - !!int "14"
-  - !!int "10"
-"speed": "10 ft., fly 80 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
-"damage_resistances": "necrotic, radiant"
-"senses": "passive Perception 16"
-"languages": "Celestial; understands Common and Primordial (Auran) but can't speak\
-  \ them"
-"cr": "1"
-"actions":
-  - "desc": "The eagle makes two Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Slashing\
-      \ damage plus 3 (1d6) Radiant damage."
-    "name": "Rend"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/celestial/token/giant-eagle-xmm.webp"
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
+> [!gallery]
+![A druid calls on animals of the hills and mountains to aid her cause](/Compendium/bestiary/beast/img/animals-hills-and-mountains.webp)
+![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
+![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
+
+```ad-statblock
+title: Giant Eagle
+![](/Compendium/bestiary/celestial/token/giant-eagle-xmm.webp#token)
+*Large celestial, Neutral Good*
+
+- **Armor Class** 13 
+- **Hit Points** 26 (`4d10 + 4`) 
+- **Speed** 10 ft., fly 80 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|17 (+3)|13 (+1)| 8 (-1)|14 (+2)|10 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +6
+- **Senses** passive Perception 16
+- **Damage Resistances** necrotic, radiant
+- **Languages** Celestial; understands Common and Primordial (Auran) but can't speak them
+- **Challenge** 1
+
+## Actions
+
+***Multiattack.*** The eagle makes two Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 5 (`1d4 + 3`) Slashing damage plus 3 (`1d6`) Radiant damage.
 ```
 ^statblock
+
+## Environment
+
+coastal, grassland, hill, mountain

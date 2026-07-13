@@ -1,22 +1,22 @@
 ---
-title: Dagger
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/melee
 - item/weapon/simple
-aliases: 
+aliases:
 - "Dagger"
 ---
 # Dagger
 *Weapon*  
-![](Compendium/items/img/dagger.webp#right)
+![](/Compendium/items/img/dagger.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
+- **Properties**: [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light), [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Cost**: 2 gp
 - **Weight**: 1.0 lbs.
 

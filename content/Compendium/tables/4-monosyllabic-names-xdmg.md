@@ -1,12 +1,11 @@
 ---
-title: "4: Monosyllabic Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- 4: Monosyllabic Names
+- "4: Monosyllabic Names"
 ---
 # 4: Monosyllabic Names
 *Source: Dungeon Master's Guide (2024) p. 84* 

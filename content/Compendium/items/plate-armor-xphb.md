@@ -1,17 +1,17 @@
 ---
-title: Plate Armor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/armor/heavy
 - item/rarity/none
-aliases: 
+aliases:
 - "Plate Armor"
 ---
 # Plate Armor
 *Heavy armor*  
-![](Compendium/items/img/plate-armor.webp#right)
+![](/Compendium/items/img/plate-armor.webp#right)
 
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

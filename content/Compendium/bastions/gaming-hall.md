@@ -1,13 +1,12 @@
 ---
-title: Gaming Hall
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion
 tags:
 - bastion
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Gaming Hall
+- "Gaming Hall"
 ---
 # Gaming Hall
 *Level 9 Bastion facility*  

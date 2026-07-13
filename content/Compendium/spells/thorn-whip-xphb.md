@@ -1,22 +1,24 @@
 ---
-title: Thorn Whip
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
+- spell/class/artificer
 - spell/class/druid
 - spell/feat/druidic-warrior
 - spell/feat/magic-initiate/druid-spells
+- spell/feat/spell-sniper
 - spell/level/cantrip
 - spell/optfeature/pact-of-the-tome
 - spell/school/transmutation
 - spell/subclass/college-of-lore
-- spell/subclass/college-of-the-moon
 classes:
+- Artificer
 - Bard (College of Lore)
-- Bard (College of the Moon)
 - Druid
-aliases: ["Thorn Whip"]
+aliases:
+- "Thorn Whip"
 ---
 # Thorn Whip
 *cantrip, Transmutation*  
@@ -31,6 +33,6 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 
 **Cantrip Upgrade.** The damage increases by `1d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-druid|Druid]]
+**Classes**: [Artificer](/Compendium/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/Compendium/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 333*

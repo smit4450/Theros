@@ -1,19 +1,18 @@
 ---
-title: Purphoros
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/forge
 - domain/knowledge
-aliases: 
-- Purphoros
+aliases:
+- "Purphoros"
 ---
 # Purphoros
 *Source: Mythic Odysseys of Theros p. 76* 
-![](Compendium/deities/img/mot-050-02-03-purphoros.webp#symbol)
+![](/Compendium/deities/img/mot-050-02-03-purphoros.webp#symbol)
 
 - **Alignment**: Chaotic Neutral
 - **Domains**: Forge, Knowledge
@@ -57,7 +56,7 @@ Purphoros holds dominion over everything that springs from mortal ingenuity. Mos
 
 Naturally, Purphoros is strongly associated with the forge, and nearly every smithy on Theros is a sort of ad hoc temple to him. Charms and idols of Purphoros hang from the walls in such places, intended both to inspire the artisans and protect them against accidents. Regardless of their professions, worshipers of Purphoros often light small fires in the god's honor, burning wooden crafts or drawings of their inventions to gain his favor.
 
-![](Compendium/deities/img/mot-051-02-17.webp#center)
+![](/Compendium/deities/img/mot-051-02-17.webp#center)
 
 > [!readaloud] Myths of Purphoros
 > 
@@ -144,7 +143,7 @@ Your piety score to Purphoros decreases if you diminish Purphoros's influence in
 
 ### Benefits of Piety
 
-- [[purphoross-devotee-mot|Purphoros's Devotee]]  
-- [[purphoross-votary-mot|Purphoros's Votary]]  
-- [[purphoross-disciple-mot|Purphoros's Disciple]]  
-- [[champion-of-the-forge-mot|Champion of the Forge]]
+- [Purphoros's Devotee](/Compendium/rewards/purphoross-devotee-mot.md)  
+- [Purphoros's Votary](/Compendium/rewards/purphoross-votary-mot.md)  
+- [Purphoros's Disciple](/Compendium/rewards/purphoross-disciple-mot.md)  
+- [Champion of the Forge](/Compendium/rewards/champion-of-the-forge-mot.md)

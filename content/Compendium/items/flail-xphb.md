@@ -1,18 +1,18 @@
 ---
-title: Flail
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/melee
-aliases: 
+aliases:
 - "Flail"
 ---
 # Flail
 *Weapon*  
-![](Compendium/items/img/flail.webp#right)
+![](/Compendium/items/img/flail.webp#right)
 
 - **Damage**: 1d8 bludgeoning
 - **Cost**: 10 gp

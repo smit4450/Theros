@@ -1,17 +1,16 @@
 ---
-title: "Chapter 6: Cosmology"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Chapter 6: Cosmology
+- "Chapter 6: Cosmology"
 ---
 # Chapter 6: Cosmology
 *Source: Dungeon Master's Guide (2024), p. 173* 
 
-![The Lady of Pain appears w...](Compendium/books/dungeon-masters-guide-2024/img/084-06-001-the-lady-of-pain.webp#center "The Lady of Pain appears without warning in the bustling streets of Sigil, and the city's residents get out of her way")
+![The Lady of Pain appears without warning in the bustling streets of Sigil, and the city's residents get out of her way](/Compendium/books/dungeon-masters-guide-2024/img/084-06-001-the-lady-of-pain.webp#center)
 
 The worlds of D&D are part of an immense cosmos. Most campaigns and adventures play out on worlds on the Material Plane. The rest of the multiverse consists of different planes of existence defined in relation to the Material Plane.
 
@@ -72,7 +71,7 @@ When discussing anything to do with deities and their realms, the language used 
 
 The planes with an element of good in their nature are called the Upper Planes, while those with an element of evil are the Lower Planes. A plane's alignment (as shown in the Outer Planes table) is its essence, and a creature whose alignment doesn't match the plane's alignment experiences a sense of dissonance there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels uncomfortable.
 
-![[outer-planes-xdmg|Outer Planes]]
+![Outer Planes](/Compendium/tables/outer-planes-xdmg.md)
 
 The Upper Planes are the home of Celestials. The Lower Planes are the home of Fiends. The planes in between host their own unique denizens: for example, modrons are Constructs that inhabit Mechanus, and slaadi are Aberrations that thrive in Limbo.
 
@@ -80,7 +79,7 @@ As with the Elemental Planes, one can imagine the perceptible part of the Outer 
 
 Distance is a virtually meaningless concept on the Outer Planes. A perceptible region of a plane might seem quite small on one visit, and on another trip it can stretch on to what seems like infinity. Adventurers could take a guided tour of the Nine Hells, from the first layer to the ninth, in a single day—if the powers of the Nine Hells desire it. Or it could take weeks for travelers to make a grueling trek across a single layer.
 
-![](Compendium/books/dungeon-masters-guide-2024/img/085-06-002-the-multiverse.webp#center)
+![](/Compendium/books/dungeon-masters-guide-2024/img/085-06-002-the-multiverse.webp#center)
 
 #### Layers of the Outer Planes
 
@@ -94,11 +93,11 @@ Most portals from elsewhere reach the first layer of a multilayered plane. This 
 
 The Outer Planes are realms of thought and morality more than merely physical reality, and they can affect visitors on a deeply personal level as well as a physical one.
 
-At your discretion, a creature that spends a long time on an Outer Plane that is not its home plan can begin to take on aspects of that plane's ethos. Visitors to the Upper Planes might feel strange urges to perform deeds of kindness or compassion, while visitors to the Lower Planes might find themselves drawn to acts of cruelty or betrayal. Those who spend time on Mechanus and other lawful planes might feel their ties of loyalty to each other growing stronger, while those who visit Limbo and other chaotic planes might become temporarily more independent or self-absorbed. These tendencies are best handled as DM suggestions and then roleplayed by the players, but you might award [[heroic-inspiration-xphb|Heroic Inspiration]] to characters who bring these characteristics to life in their characters.
+At your discretion, a creature that spends a long time on an Outer Plane that is not its home plane can begin to take on aspects of that plane's ethos. Visitors to the Upper Planes might feel strange urges to perform deeds of kindness or compassion, while visitors to the Lower Planes might find themselves drawn to acts of cruelty or betrayal. Those who spend time on Mechanus and other lawful planes might feel their ties of loyalty to each other growing stronger, while those who visit Limbo and other chaotic planes might become temporarily more independent or self-absorbed. These tendencies are best handled as DM suggestions and then roleplayed by the players, but you might award [Heroic Inspiration](/Compendium/rules/variant-rules/heroic-inspiration-xphb.md) to characters who bring these characteristics to life in their characters.
 
 ##### Planar Dissonance
 
-Celestials who visit the Lower Planes and Fiends who visit the Upper Planes experience significant discomfort if their visits last more than a few hours. After finishing a Long Rest on a plane that is alien to its nature, a Celestial or Fiend makes a DC 10 Constitution saving throw. On a failed save, whenever the creature makes a [[d20-test-xphb|D20 Test]], the creature must subtract `1d4` from the roll. The effect is cumulative with each failed save and ends when the creature finishes a Long Rest on a plane that isn't opposed to its nature.
+Celestials who visit the Lower Planes and Fiends who visit the Upper Planes experience significant discomfort if their visits last more than a few hours. After finishing a Long Rest on a plane that is alien to its nature, a Celestial or Fiend makes a DC 10 Constitution saving throw. On a failed save, whenever the creature makes a [D20 Test](/Compendium/rules/variant-rules/d20-test-xphb.md), the creature must subtract `1d4` from the roll. The effect is cumulative with each failed save and ends when the creature finishes a Long Rest on a plane that isn't opposed to its nature.
 
 ## Planar Travel
 
@@ -126,7 +125,7 @@ Learning and meeting a portal's requirements can draw characters into further ad
 
 ### Spells
 
-A number of spells allow direct or indirect access to different planes of existence. [[gate-xphb|Gate]] and [[plane-shift-xphb|Plane Shift]] can directly transport adventurers to any other plane, with different degrees of precision. [[etherealness-xphb|Etherealness]] allows adventurers to enter the Ethereal Plane. And [[astral-projection-xphb|Astral Projection]] lets adventurers project themselves into the Astral Plane and from there travel to the Outer Planes.
+A number of spells allow direct or indirect access to different planes of existence. [Gate](/Compendium/spells/gate-xphb.md) and [Plane Shift](/Compendium/spells/plane-shift-xphb.md) can directly transport adventurers to any other plane, with different degrees of precision. [Etherealness](/Compendium/spells/etherealness-xphb.md) allows adventurers to enter the Ethereal Plane. And [Astral Projection](/Compendium/spells/astral-projection-xphb.md) lets adventurers project themselves into the Astral Plane and from there travel to the Outer Planes.
 
 ### Traveling the Outer Planes
 
@@ -169,7 +168,7 @@ Some legends describe a great tree, a seedling of Yggdrasil, that the god Corell
 
 Planar travelers can climb among the roots and branches of Yggdrasil to travel from plane to plane or world to world. Some creatures position themselves as expert guides to this vast cosmic network of branching pathways, constantly studying the ever-changing paths as the tree continues its eternal growth.
 
-![A portal to the Beastlands...](Compendium/books/dungeon-masters-guide-2024/img/086-06-003-portal-to-the-beastlands.webp#center "A portal to the Beastlands opens amid the branches of the World Tree")
+![A portal to the Beastlands opens amid the branches of the World Tree](/Compendium/books/dungeon-masters-guide-2024/img/086-06-003-portal-to-the-beastlands.webp#center)
 
 ## Planar Adventuring
 
@@ -191,7 +190,7 @@ Natives of the Upper Planes also have roles to play in the Blood War. While most
 
 You can use the Planar Adventure Situations table instead of the tables in the ""Adventure Situations by Level"" section in "chapter 4" to inspire adventures that draw characters into the planes of existence. These adventure ideas are most appropriate for characters of level 11+.
 
-![[planar-adventure-situations-xdmg|Planar Adventure Situations]]
+![Planar Adventure Situations](/Compendium/tables/planar-adventure-situations-xdmg.md)
 
 ## Tour of the Multiverse
 
@@ -207,7 +206,7 @@ Each layer of the Abyss boasts a horrific environment that is harsh and inhospit
 
 The layers of the Abyss are numbered based on the sequence of their discovery and cataloging by explorers from Sigil. Thus, the Plain of Infinite Portals is identified as the first layer, Azzagrat encompasses the 45th, 46th, and 47th layers; the Demonweb is the 66th layer; and so on. The Layers of the Abyss table presents several infamous layers; detailed descriptions of these layers follow the table.
 
-![[layers-of-the-abyss-xdmg|Layers of the Abyss]]
+![Layers of the Abyss](/Compendium/tables/layers-of-the-abyss-xdmg.md)
 
 #### Layer 1: The Plain of Infinite Portals
 
@@ -265,7 +264,7 @@ The Abyss embodies the loathsome corruption of chaos and evil. A descent into th
 
 It's the nature of the Abyss to contaminate the other planes it touches. Opening a portal to the Abyss from any other plane allows the Abyss to create tiny pockets of Abyssal evil that can eventually become so corrupted that they're drawn into the Abyss. Thus, adventurers exploring a desecrated temple or fetid swamp on the Material Plane can unexpectedly find themselves in a demon-infested environment very much like the Abyss without ever leaving their home plane.
 
-![The detritus of the Planes...](Compendium/books/dungeon-masters-guide-2024/img/087-06-004-demonweb-pits.webp#center "The detritus of the Planes is tangled in the Demonweb Pits")
+![The detritus of the Planes is tangled in the Demonweb Pits](/Compendium/books/dungeon-masters-guide-2024/img/087-06-004-demonweb-pits.webp#center)
 
 ### Acheron
 
@@ -275,7 +274,7 @@ Acheron has four layers, with the largest blocks gravitating to the top layer. S
 
 The nature of Acheron instills "bloodlust" in those who visit the plane (see ""Environmental Effects"" in "chapter 3").
 
-![[layers-of-acheron-xdmg|Layers of Acheron]]
+![Layers of Acheron](/Compendium/tables/layers-of-acheron-xdmg.md)
 
 #### Acheron Adventures
 
@@ -291,7 +290,7 @@ Arborea is a plane of extremes: stupendously craggy mountains; unbelievably deep
 
 The air of Arborea seems charged with excitement. Sudden squalls brew up out of nowhere, beating the tree-lined paths with heavy winds. The storms pass within minutes and leave behind warm arcs of sunlight filtering through the forest canopy. Music always seems to be playing in the distance; sometimes it originates from groups of elf musicians, but just as often the faint tune is merely the wind curling through the boles of the great trees.
 
-![[layers-of-arborea-xdmg|Layers of Arborea]]
+![Layers of Arborea](/Compendium/tables/layers-of-arborea-xdmg.md)
 
 #### Arborea Adventures
 
@@ -307,7 +306,7 @@ What secrets lie buried in the sands of Mithardir? An expedition might involve i
 
 Arcadia thrives with orchards of perfectly lined trees, ruler-straight streams, orderly fields, immaculate roads, and cities laid out in geometrically pleasing shapes. The mountains bear no trace of erosion.
 
-![](Compendium/books/dungeon-masters-guide-2024/img/088-06-005-arcadia.webp#center)
+![](/Compendium/books/dungeon-masters-guide-2024/img/088-06-005-arcadia.webp#center)
 
 Night and day are determined by an orb that floats in the sky above both of Arcadia's layers. Half of the orb radiates sunlight and brings about the day; the other half sheds moonlight and brings on the starry night. The orb rotates evenly without fail, spreading day and night across the entire plane.
 
@@ -315,7 +314,7 @@ The weather in Arcadia is governed by four allied demigods called the Storm King
 
 Arcadia is suffused with a vigorous life energy that bestows "great vitality" on visitors (see ""Environmental Effects"" in "chapter 3").
 
-![[layers-of-arcadia-xdmg|Layers of Arcadia]]
+![Layers of Arcadia](/Compendium/tables/layers-of-arcadia-xdmg.md)
 
 #### Arcadia Adventures
 
@@ -345,7 +344,7 @@ The Astral Plane is where the petrified remains of dead gods end up—gods who w
 
 Gateways leading from the Astral Plane to other planes appear as two-dimensional pools of rippling colors, `1d6 × 10` feet in diameter. ("Color," as with everything in the Astral Plane, is a matter of metaphor; since these portals are perceived by the Astral self and not by physical eyes, their colors are understood rather than seen.) Traveling to another plane requires locating a color pool that leads to the desired plane. These gateways can be identified by color, as shown on the Astral Color Pools table.
 
-![[astral-color-pools-xdmg|Astral Color Pools]]
+![Astral Color Pools](/Compendium/tables/astral-color-pools-xdmg.md)
 
 #### Wildspace
 
@@ -353,9 +352,9 @@ Bobbing in the Astral Plane like corks in an ocean are vast, airless expanses ca
 
 As an Astral traveler approaches a Wildspace system, the silver fog of the Astral Plane gradually thins until it falls away in Wildspace. Then the sun of the Wildspace system comes into view—often millions of miles away—along with colorful gas clouds, planets, moons, and other cosmic bodies.
 
-A Wildspace system teems with space-dwelling life-forms, including spores, plankton, and larger creatures that resemble fish and aquatic mammals. Creatures and objects in Wildspace age normally and exist on both the Astral Plane and Material Plane simultaneously. This overlap enables creatures to use spells such as [[teleport-xphb|Teleport]] to travel from Wildspace to a nearby world, or vice versa. A creature or ship traveling from one Wildspace system to another must cross the Astral Plane unless it has some other magical means of traveling from one world to another. (See ""Material Plane"" in this chapter.) "Spelljammer: Adventures in Space" contains extensive information about Wildspace and Astral travel.
+A Wildspace system teems with space-dwelling life-forms, including spores, plankton, and larger creatures that resemble fish and aquatic mammals. Creatures and objects in Wildspace age normally and exist on both the Astral Plane and Material Plane simultaneously. This overlap enables creatures to use spells such as [Teleport](/Compendium/spells/teleport-xphb.md) to travel from Wildspace to a nearby world, or vice versa. A creature or ship traveling from one Wildspace system to another must cross the Astral Plane unless it has some other magical means of traveling from one world to another. (See ""Material Plane"" in this chapter.) "Spelljammer: Adventures in Space" contains extensive information about Wildspace and Astral travel.
 
-![A spelljamming wasp ship a...](Compendium/books/dungeon-masters-guide-2024/img/089-06-006-tunarath.webp#center "A spelljamming wasp ship approaches the githyanki city of Tu'Narath")
+![A spelljamming wasp ship approaches the githyanki city of Tu'Narath](/Compendium/books/dungeon-masters-guide-2024/img/089-06-006-tunarath.webp#center)
 
 #### Psychic Wind
 
@@ -365,11 +364,11 @@ A psychic wind is first sensed as a rapid darkening of the silver-gray sky. Afte
 
 A group of travelers journeying together is subjected to one location effect, determined by consulting the Psychic Wind Locations Effects table.
 
-![[psychic-wind-location-effects-xdmg|Psychic Wind Location Effects]]
+![Psychic Wind Location Effects](/Compendium/tables/psychic-wind-location-effects-xdmg.md)
 
 Each traveler caught in a psychic wind makes a DC 15 Intelligence saving throw. On a failed save, the traveler suffers a random effect from the Psychic Wind Psychic Effects table as well.
 
-![[psychic-wind-psychic-effects-xdmg|Psychic Wind Psychic Effects]]
+![Psychic Wind Psychic Effects](/Compendium/tables/psychic-wind-psychic-effects-xdmg.md)
 
 #### Astral Plane Adventures
 
@@ -381,9 +380,9 @@ As a realm of thought, memory, and dream, the Astral Plane can also be an advent
 
 The Beastlands is a plane of nature unbound, of forests ranging from moss-hung mangroves to snow-laden pines, of thick jungles where the branches are woven so tight that no light penetrates, of vast plains where grains and wildflowers wave in the wind with vibrant life. The plane embodies nature's wildness and beauty, but it also speaks to the animal within all living creatures—not necessarily in a fierce, predatory way but with respect to their physical substance and fundamental needs. The spirits of the dead on the Beastlands typically take animal forms or part-animal forms (such as centaurs). Among the greatest inhabitants of this plane are the primal spirits called animal lords.
 
-Whenever a visitor slays a Beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or shape-shift into the type of Beast that was slain. The creature's game statistics are replaced by the Beast's stat block, but the creature retains its alignment, personality, creature type, Intelligence score, and ability to speak. At the end of each Long Rest, the shape-shifted creature repeats the save. On a successful save, the creature returns to its true form. After three failed saves, the transformation can be undone only by a [[remove-curse-xphb|Remove Curse]] spell or similar magic.
+Whenever a visitor slays a Beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or shape-shift into the type of Beast that was slain. The creature's game statistics are replaced by the Beast's stat block, but the creature retains its alignment, personality, creature type, Intelligence score, and ability to speak. At the end of each Long Rest, the shape-shifted creature repeats the save. On a successful save, the creature returns to its true form. After three failed saves, the transformation can be undone only by a [Remove Curse](/Compendium/spells/remove-curse-xphb.md) spell or similar magic.
 
-![[layers-of-the-beastlands-xdmg|Layers of the Beastlands]]
+![Layers of the Beastlands](/Compendium/tables/layers-of-the-beastlands-xdmg.md)
 
 #### Beastlands Adventures
 
@@ -395,7 +394,7 @@ Adventures in the Beastlands might explore the ways that good philosophies, whil
 
 The surfaces of Bytopia's two layers face each other like the covers of a closed book. Looking up from Dothion, the "top" layer of the plane, a traveler can see Shurrock, its other layer, about a mile overhead. Both layers are idealized worlds that reflect the plane's philosophy of personal achievement alongside social interdependence.
 
-![[layers-of-bytopia-xdmg|Layers of Bytopia]]
+![Layers of Bytopia](/Compendium/tables/layers-of-bytopia-xdmg.md)
 
 #### Bytopia Adventures
 
@@ -407,13 +406,13 @@ The two layers of Bytopia are often referred to as the "Twin Paradises," and it'
 
 The grim inspiration for all other prisons in existence, Carceri is a plane of desolation and despair. Its six layers hold vast bogs, fetid jungles, windswept deserts, jagged mountains, frigid oceans, and black ice. All form a miserable home for the traitors and backstabbers trapped on this prison plane.
 
-![[layers-of-carceri-xdmg|Layers of Carceri]]
+![Layers of Carceri](/Compendium/tables/layers-of-carceri-xdmg.md)
 
 #### Prison Plane
 
-![Unknown horrors are entrap...](Compendium/books/dungeon-masters-guide-2024/img/090-06-007-ice-of-carceri.webp#center "Unknown horrors are entrapped in the ice of Carceri")
+![Unknown horrors are entrapped in the ice of Carceri](/Compendium/books/dungeon-masters-guide-2024/img/090-06-007-ice-of-carceri.webp#center)
 
-No one can leave Carceri easily. Magical efforts to leave the plane by any spell other than [[wish-xphb|Wish]] simply fail. Portals and gates that open onto the plane become one-way only. Secret passages out of the plane exist, but they are hidden and well guarded by traps and deadly monsters. And though the River Styx flows between Carceri and its neighbors, the passage is extremely dangerous, and ferries leading out of Carceri are both rare and expensive.
+No one can leave Carceri easily. Magical efforts to leave the plane by any spell other than [Wish](/Compendium/spells/wish-xphb.md) simply fail. Portals and gates that open onto the plane become one-way only. Secret passages out of the plane exist, but they are hidden and well guarded by traps and deadly monsters. And though the River Styx flows between Carceri and its neighbors, the passage is extremely dangerous, and ferries leading out of Carceri are both rare and expensive.
 
 #### Carceri Adventures
 
@@ -423,9 +422,9 @@ Adventures on Carceri might explore the forces—spiritual and psychological as 
 
 ### Demiplanes
 
-Demiplanes are extradimensional spaces that come into being by a variety of means and boast their own physical laws. Some are created by spells. Others are natural folds of reality pinched off from the rest of the multiverse. Theoretically, a [[plane-shift-xphb|Plane Shift]] spell can carry travelers to a demiplane, but the proper frequency required for the tuning fork can be extremely hard to acquire. The [[gate-xphb|Gate]] spell is more reliable, assuming the caster knows of the demiplane.
+Demiplanes are extradimensional spaces that come into being by a variety of means and boast their own physical laws. Some are created by spells. Others are natural folds of reality pinched off from the rest of the multiverse. Theoretically, a [Plane Shift](/Compendium/spells/plane-shift-xphb.md) spell can carry travelers to a demiplane, but the proper frequency required for the tuning fork can be extremely hard to acquire. The [Gate](/Compendium/spells/gate-xphb.md) spell is more reliable, assuming the caster knows of the demiplane.
 
-A demiplane can be as small as a single chamber or large enough to contain an entire realm. For example, a [[mordenkainens-magnificent-mansion-xphb|Mordenkainen's Magnificent Mansion]] spell creates a demiplane consisting of a foyer with multiple adjoining rooms, while the land of "Barovia" exists entirely within a demiplane under the sway of its vampire lord, "Strahd von Zarovich". When a demiplane is connected to the Material Plane or some other plane, entering the demiplane can be as simple as moving through a portal or passing through a wall of mist.
+A demiplane can be as small as a single chamber or large enough to contain an entire realm. For example, a [Mordenkainen's Magnificent Mansion](/Compendium/spells/mordenkainens-magnificent-mansion-xphb.md) spell creates a demiplane consisting of a foyer with multiple adjoining rooms, while the land of "Barovia" exists entirely within a demiplane under the sway of its vampire lord, "Strahd von Zarovich". When a demiplane is connected to the Material Plane or some other plane, entering the demiplane can be as simple as moving through a portal or passing through a wall of mist.
 
 #### Demiplane Adventures
 
@@ -433,7 +432,7 @@ Demiplanes are limited realities shaped according to the will of whoever created
 
 ### Elemental Plane of Air
 
-![Aarakocra scouts return ho...](Compendium/books/dungeon-masters-guide-2024/img/091-06-008-plane-of-air.webp#center "Aarakocra scouts return home to a city on the Plane of Air")
+![Aarakocra scouts return home to a city on the Plane of Air](/Compendium/books/dungeon-masters-guide-2024/img/091-06-008-plane-of-air.webp#center)
 
 The Plane of Air is home to constant winds of varying strength. Here and there, chunks of earth drift in the openness, many covered with lush vegetation. These earth motes serve as homes for djinn and other natives of the plane. Other creatures live on cloud banks infused with magic to become solid surfaces, supporting towns and castles.
 
@@ -511,7 +510,7 @@ Lava flows through the Fountains of Creation toward the Para-elemental Plane of 
 
 #### Torchy's
 
-Built atop a tall basalt crag in the middle of a lava river is an iron-walled tavern that is most easily reached by hot-air balloon. The proprietor is a sentient [[flame-tongue-xdmg|Flame Tongue (Mace)]] named Torchy, who sells a fine ale and seems to have a new wielder every few months. Torchy's is a popular hangout for ballooning enthusiasts.
+Built atop a tall basalt crag in the middle of a lava river is an iron-walled tavern that is most easily reached by hot-air balloon. The proprietor is a sentient [Flame Tongue (Mace)](/Compendium/items/flame-tongue-xdmg.md) named Torchy, who sells a fine ale and seems to have a new wielder every few months. Torchy's is a popular hangout for ballooning enthusiasts.
 
 #### Elemental Fire Adventures
 
@@ -521,7 +520,7 @@ The cults of Elemental Evil represent fire at its worst: cruel and wantonly dest
 
 Adventurers frequently come to the City of Brass on quests for legendary magic. If it's possible to buy magic items in your campaign, the City of Brass is the most likely place to find any item for sale. The efreet are fond of trading in favors, especially when they have the upper hand in negotiations. Perhaps a magical contagion or poison can be cured only with something that must be purchased in the markets of the city.
 
-![The City of Brass is a hub...](Compendium/books/dungeon-masters-guide-2024/img/092-06-009-city-of-brass.webp#center "The City of Brass is a hub for trade from across the multiverse")
+![The City of Brass is a hub for trade from across the multiverse](/Compendium/books/dungeon-masters-guide-2024/img/092-06-009-city-of-brass.webp#center)
 
 ### Elemental Plane of Water
 
@@ -571,13 +570,13 @@ Elysium is home to creatures of unfettered kindness and a refuge for planar trav
 
 The River Oceanus originates in the lowest layer of Elysium, Thalasia, and flows through the plane's layers before cascading onward to the Beastlands. Though illustrations of the plane's layers seem to show the river flowing "up" from each layer to the one "above" it, the experience of passing from one layer to another on the river is no more dramatic than weathering rapids on any ordinary river. Along its course, the great river splits into myriad smaller flows, recombines, and splits again.
 
-![[layers-of-elysium-xdmg|Layers of Elysium]]
+![Layers of Elysium](/Compendium/tables/layers-of-elysium-xdmg.md)
 
 #### Elysium Adventures
 
 Tranquility and contentment seep into the bones and souls of those who enter Elysium. The longer a visitor remains on the plane, the less reason they find to ever leave. An adventure in Elysium can challenge characters' devotion to doing good by offering them the opportunity (or the temptation) to rest from their labors and enjoy a well-earned reward.
 
-Belierin is said to be the prison of some deadly creature. Some tales say it's a powerful titan, perhaps the [[tarrasque-xmm|tarrasque]], while others claim it's a deposed duke of the Nine Hells, a banished elemental prince, or even a near-dead deity. Evil creatures sometimes lurk in the marshes, seeking to free the prisoner or claim some power from it.
+Belierin is said to be the prison of some deadly creature. Some tales say it's a powerful titan, perhaps the [tarrasque](/Compendium/bestiary/monstrosity/tarrasque-xmm.md), while others claim it's a deposed duke of the Nine Hells, a banished elemental prince, or even a near-dead deity. Evil creatures sometimes lurk in the marshes, seeking to free the prisoner or claim some power from it.
 
 Characters might also venture to Elysium to seek out some ancient spirit on the Heroic Isles. When faced with the once-a-millennium task of forestalling a prophesied disaster, characters might consult with the valorous knight who accomplished the deed a thousand years ago.
 
@@ -585,7 +584,7 @@ Characters might also venture to Elysium to seek out some ancient spirit on the 
 
 The Ethereal Plane is a misty, fogbound dimension. Its "shores," called the Border Ethereal, overlap the Material Plane, the Feywild, the Shadowfell, and the Inner Planes, and every location on those planes has a corresponding location on the Ethereal Plane. Visibility in the Border Ethereal is usually limited to 60 feet. The plane's depths comprise a region of swirling mist and fog called the Deep Ethereal, where visibility is usually limited to 30 feet.
 
-Characters can use the [[etherealness-xphb|Etherealness]] spell to enter the Border Ethereal. The [[plane-shift-xphb|Plane Shift]] spell allows transport to the Border Ethereal or the Deep Ethereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
+Characters can use the [Etherealness](/Compendium/spells/etherealness-xphb.md) spell to enter the Border Ethereal. The [Plane Shift](/Compendium/spells/plane-shift-xphb.md) spell allows transport to the Border Ethereal or the Deep Ethereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
 
 #### Border Ethereal
 
@@ -595,23 +594,23 @@ Normally, creatures in the Border Ethereal can't attack creatures on the overlap
 
 #### Deep Ethereal
 
-To reach the Deep Ethereal, one typically needs a [[plane-shift-xphb|Plane Shift]] spell, a [[gate-xphb|Gate]] spell, or a magical portal. Visitors to the Deep Ethereal are engulfed by roiling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals; see the Ethereal Curtains table. The curtains are also distinguishable by texture and temperature, each one reflecting something of the nature of the plane beyond.
+To reach the Deep Ethereal, one typically needs a [Plane Shift](/Compendium/spells/plane-shift-xphb.md) spell, a [Gate](/Compendium/spells/gate-xphb.md) spell, or a magical portal. Visitors to the Deep Ethereal are engulfed by roiling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals; see the Ethereal Curtains table. The curtains are also distinguishable by texture and temperature, each one reflecting something of the nature of the plane beyond.
 
-![The Radiant Citadel is a r...](Compendium/books/dungeon-masters-guide-2024/img/093-06-010-the-radiant-citadel.webp#center "The Radiant Citadel is a refuge in the Ethereal Plane, despite its proximity to a raging ether cyclone")
+![The Radiant Citadel is a refuge in the Ethereal Plane, despite its proximity to a raging ether cyclone](/Compendium/books/dungeon-masters-guide-2024/img/093-06-010-the-radiant-citadel.webp#center)
 
-![[deep-ethereal-ethereal-curtains-xdmg|Deep Ethereal; Ethereal Curtains]]
+![Deep Ethereal; Ethereal Curtains](/Compendium/tables/deep-ethereal-ethereal-curtains-xdmg.md)
 
 Traveling through the Deep Ethereal is unlike physical travel. Distance is meaningless, so although travelers feel as if they can move by a simple act of will, it's impossible to measure speed and hard to track the passage of time. A trip through the Deep Ethereal takes `1d10 × 10` hours from one curtain to another, regardless of the origin and destination. In combat, creatures move at their normal speeds.
 
 #### Ether Cyclones
 
-An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting everything in its path and carrying the debris for miles. Travelers with a [[passive-perception-xphb|Passive Perception]] score of 15 or higher receive 1 minute of warning: a deep thrum in the ethereal matter. Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll `1d20` and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
+An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting everything in its path and carrying the debris for miles. Travelers with a [Passive Perception](/Compendium/rules/variant-rules/passive-perception-xphb.md) score of 15 or higher receive 1 minute of warning: a deep thrum in the ethereal matter. Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll `1d20` and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
 
-![[ether-cyclones-ether-cyclone-xdmg|Ether Cyclones; Ether Cyclone]]
+![Ether Cyclones; Ether Cyclone](/Compendium/tables/ether-cyclones-ether-cyclone-xdmg.md)
 
 #### Radiant Citadel
 
-![](Compendium/books/dungeon-masters-guide-2024/img/094-06-011-lotus.webp#center)
+![](/Compendium/books/dungeon-masters-guide-2024/img/094-06-011-lotus.webp#center)
 
 Against the unending mist and unseen terrors of the Ethereal Plane, the Radiant Citadel stands bright as a bastion of hope. It's a living relic of the ingenuity and collaboration of twenty-seven great civilizations on the Material Plane. Abandoned and lost for ages, the Radiant Citadel was resurrected from its slumber and reclaimed by descendants of those societies.
 
@@ -629,7 +628,7 @@ The Radiant Citadel can serve as a home base for any campaign built around the i
 
 ### Far Realm
 
-![When the Dragon's Tear com...](Compendium/books/dungeon-masters-guide-2024/img/095-06-012-the-vast-gate.webp#center "When the Dragon's Tear comet appears above Firestorm Peak, the Vast Gate forms a bridge to the Far Realm")
+![When the Dragon's Tear comet appears above Firestorm Peak, the Vast Gate forms a bridge to the Far Realm](/Compendium/books/dungeon-masters-guide-2024/img/095-06-012-the-vast-gate.webp#center)
 
 The Far Realm is outside the known multiverse. In fact, it might be an entirely separate universe with its own physical and magical laws. Where stray energies from the Far Realm leak onto another plane, matter is warped into alien shapes that defy understandable geometry and biology. Aberrations such as mind flayers and beholders are either from this plane or shaped by its strange influence.
 
@@ -691,15 +690,15 @@ A creature that leaves the Feywild makes a DC 10 Wisdom saving throw. Fey creatu
 
 While time seems to pass normally in the Feywild, characters might spend a day there and realize, upon leaving the plane, that less or more time has elapsed everywhere else in the multiverse.
 
-Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [[wish-xphb|Wish]] spell can be used to remove the effect on up to ten creatures. Some powerful Fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [[geas-xphb|Geas]] spell and complete a quest after the *Wish* spell is cast.
+Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [Wish](/Compendium/spells/wish-xphb.md) spell can be used to remove the effect on up to ten creatures. Some powerful Fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [Geas](/Compendium/spells/geas-xphb.md) spell and complete a quest after the *Wish* spell is cast.
 
-![[feywild-time-warp-xdmg|Feywild Time Warp]]
+![Feywild Time Warp](/Compendium/tables/feywild-time-warp-xdmg.md)
 
 #### Feywild Adventures
 
 The Feywild gives physical expression to powerful emotion and excels at metaphor. When characters venture into the Feywild, they might find themselves robbed of a cherished memory or deep regret, then later find the stolen memories embodied in little figurines or lockets. A mischievous sprite might sneak up behind a character who is laughing loudly and steal their laughter, robbing the character of the ability to laugh until the sprite is found and the laughter—perhaps taking physical form as a bouquet of lovely flowers—reclaimed.
 
-![Fey revel in the Gloaming ...](Compendium/books/dungeon-masters-guide-2024/img/096-06-013-the-gloaming-court.webp#center "Fey revel in the Gloaming Court under the watchful eye of the Queen of Air and Darkness")
+![Fey revel in the Gloaming Court under the watchful eye of the Queen of Air and Darkness](/Compendium/books/dungeon-masters-guide-2024/img/096-06-013-the-gloaming-court.webp#center)
 
 ### Gehenna
 
@@ -707,7 +706,7 @@ A volcanic mountain dominates each of the four layers of Gehenna, and lesser vol
 
 Gehenna is the birthplace of yugoloths, greedy and selfish Fiends that dwell here in great numbers.
 
-![[layers-of-gehenna-xdmg|Layers of Gehenna]]
+![Layers of Gehenna](/Compendium/tables/layers-of-gehenna-xdmg.md)
 
 #### Gehenna Adventures
 
@@ -721,11 +720,11 @@ Or characters could try to infiltrate the Tower Arcane in search of some great s
 
 The layers of Hades are called the Three Glooms—places without joy, hope, or passion. A gray land with an ashen sky, Hades is the destination of many souls that are unclaimed by gods or Fiends. These souls become larvae and spend eternity in this place, which lacks a sun, a moon, stars, or seasons. Leaching away color and emotion, the gloom on this plane is more than most visitors can stand.
 
-![[layers-of-hades-xdmg|Layers of Hades]]
+![Layers of Hades](/Compendium/tables/layers-of-hades-xdmg.md)
 
 #### Plane of Gloom
 
-At the end of each Long Rest taken on the plane, a visitor makes a DC 10 Wisdom saving throw. On a failed save, the creature gains 1 [[conditions#Exhaustion|Exhaustion]] level that can't be removed while the creature is in Hades. If the creature reaches 6 Exhaustion levels, it doesn't die. Instead, it permanently transforms into a [[larva-xmm|Larva]], whereupon all Exhaustion levels afflicting the creature are removed.
+At the end of each Long Rest taken on the plane, a visitor makes a DC 10 Wisdom saving throw. On a failed save, the creature gains 1 [Exhaustion](/Compendium/rules/conditions.md#Exhaustion) level that can't be removed while the creature is in Hades. If the creature reaches 6 Exhaustion levels, it doesn't die. Instead, it permanently transforms into a [Larva](/Compendium/bestiary/fiend/larva-xmm.md), whereupon all Exhaustion levels afflicting the creature are removed.
 
 #### Hades Adventures
 
@@ -747,11 +746,11 @@ Limbo has no layers—or if it does, the layers continually merge and part, each
 
 Limbo conforms to the will of the creatures inhabiting it. Creative imaginations can create whole islands of their own invention within the plane, sometimes maintaining those places for years. A nonsapient creature such as a fish, though, might have less than a minute before the pocket of water surrounding it freezes, vanishes, or turns to glass. Slaadi live here and swim amid this chaos, creating nothing, whereas githzerai build entire monasteries with their minds.
 
-As a [[actions#Magic|Magic]] action, a creature in Limbo can make an Intelligence check to mentally move an object within 30 feet of itself that is on the plane and isn't being worn or carried. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger. On a successful check, the creature moves the object 5 feet plus a number of a feet equal to how much the total exceeded the DC.
+As a [Magic](/Compendium/rules/actions.md#Magic) action, a creature in Limbo can make an Intelligence check to mentally move an object within 30 feet of itself that is on the plane and isn't being worn or carried. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger. On a successful check, the creature moves the object 5 feet plus a number of a feet equal to how much the total exceeded the DC.
 
-A creature can also take a [[actions#Magic|Magic]] action to make an Intelligence check to alter a nonmagical object within 30 feet of itself that isn't being worn or carried. The DC is based on the object's size: DC 10 for Tiny, DC 15 for Small, DC 20 for Medium, and DC 25 for Large or larger. On a successful check, the creature changes the object into another nonliving form of the same size, such as turning a boulder into a ball of fire.
+A creature can also take a [Magic](/Compendium/rules/actions.md#Magic) action to make an Intelligence check to alter a nonmagical object within 30 feet of itself that isn't being worn or carried. The DC is based on the object's size: DC 10 for Tiny, DC 15 for Small, DC 20 for Medium, and DC 25 for Large or larger. On a successful check, the creature changes the object into another nonliving form of the same size, such as turning a boulder into a ball of fire.
 
-Finally, a creature in Limbo can take a [[actions#Magic|Magic]] action to make a DC 20 Intelligence check to stabilize an area within a 30-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point it can see on the plane. On a successful check, the creature prevents the area from being altered by the plane for 24 hours or until the creature takes this Magic action again.
+Finally, a creature in Limbo can take a [Magic](/Compendium/rules/actions.md#Magic) action to make a DC 20 Intelligence check to stabilize an area within a 30-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point it can see on the plane. On a successful check, the creature prevents the area from being altered by the plane for 24 hours or until the creature takes this [Magic](/Compendium/rules/actions.md#Magic) action again.
 
 #### Limbo Adventures
 
@@ -769,7 +768,7 @@ Some myths describe a great tree that grew on the First World at the dawn of tim
 
 The most widely known worlds are the ones that have been published as official campaign settings for the D&D game over the years, many of which are shown on the "D&D Settings table" in "chapter 5". If your campaign takes place in one of these settings, your version of it can diverge wildly from what's in print.
 
-![With its magical marvels o...](Compendium/books/dungeon-masters-guide-2024/img/097-06-014-eberron-technology.webp#center "With its magical marvels of technology, Eberron is one of countless worlds on the Material Plane")
+![With its magical marvels of technology, Eberron is one of countless worlds on the Material Plane](/Compendium/books/dungeon-masters-guide-2024/img/097-06-014-eberron-technology.webp#center)
 
 #### Traveling between Worlds
 
@@ -785,7 +784,7 @@ Characters can undertake an epic voyage fraught with peril and obstacles to be o
 
 #### The Leap to Another Realm
 
-The most direct method involves the use of spells such as [[teleportation-circle-xphb|Teleportation Circle]] or [[teleport-xphb|Teleport]], or magical portals like those described in this chapter. This magic causes the user to appear in a known teleportation circle or some other location in another world.
+The most direct method involves the use of spells such as [Teleportation Circle](/Compendium/spells/teleportation-circle-xphb.md) or [Teleport](/Compendium/spells/teleport-xphb.md), or magical portals like those described in this chapter. This magic causes the user to appear in a known teleportation circle or some other location in another world.
 
 #### The Roots of the Worlds
 
@@ -815,9 +814,9 @@ The Seven Heavens of Mount Celestia rise like a mountain from a shining Silver S
 
 The pervasive goodness of Mount Celestia "bestows blessings" on creatures on the plane (see ""Environmental Effects"" in "chapter 3").
 
-![The Seven Heavens of Mount...](Compendium/books/dungeon-masters-guide-2024/img/098-06-015-mount-celestia.webp#center "The Seven Heavens of Mount Celestia beckon virtuous souls toward ever-greater heights")
+![The Seven Heavens of Mount Celestia beckon virtuous souls toward ever-greater heights](/Compendium/books/dungeon-masters-guide-2024/img/098-06-015-mount-celestia.webp#center)
 
-![[layers-of-mount-celestia-xdmg|Layers of Mount Celestia]]
+![Layers of Mount Celestia](/Compendium/tables/layers-of-mount-celestia-xdmg.md)
 
 #### Mount Celestia Adventures
 
@@ -833,7 +832,7 @@ Cupped like a bowl beneath the other planes, the Negative Plane is the source of
 
 To an observer, there's little to see on the Negative Plane. It is a dark, empty place, an eternal pit where a traveler can fall until the plane steals away all light and life. Merely entering the plane is comparable to the life-draining touch of a wraith, so only creatures that have Immunity to Necrotic damage can survive there for long.
 
-In some locations on the Negative Plane, the intensity of the plane is so great that the negative energy folds in on itself, stabilizing into solid chunks of matter that devour light. These chunks, called voidstones, are thought to be the source of [[sphere-of-annihilation-xdmg|Spheres of Annihilation]] and similar magical effects. Anything that comes into contact with a voidstone is destroyed in seconds.
+In some locations on the Negative Plane, the intensity of the plane is so great that the negative energy folds in on itself, stabilizing into solid chunks of matter that devour light. These chunks, called voidstones, are thought to be the source of [Spheres of Annihilation](/Compendium/items/sphere-of-annihilation-xdmg.md) and similar magical effects. Anything that comes into contact with a voidstone is destroyed in seconds.
 
 #### Negative Plane Adventures
 
@@ -849,11 +848,11 @@ The Nine Hells has nine layers. The first eight are ruled by archdevils who answ
 
 The Layers of the Nine Hells table summarizes each layer; detailed descriptions of these layers follow the table.
 
-![[layers-of-the-nine-hells-xdmg|Layers of the Nine Hells]]
+![Layers of the Nine Hells](/Compendium/tables/layers-of-the-nine-hells-xdmg.md)
 
 #### Avernus
 
-![The first of Nine Hells, A...](Compendium/books/dungeon-masters-guide-2024/img/099-06-016-avernus.webp#center "The first of Nine Hells, Avernus, is an eternal battlefield in the Blood War")
+![The first of Nine Hells, Avernus, is an eternal battlefield in the Blood War](/Compendium/books/dungeon-masters-guide-2024/img/099-06-016-avernus.webp#center)
 
 By Asmodeus's orders, no planar portals connect directly to the lower layers of the Nine Hells. The first layer, Avernus, is the arrival point for visitors, a rocky wasteland with rivers of blood and clouds of biting flies. Fiery comets occasionally fall from the darkened sky and carve out fuming impact craters. Empty battlefields are littered with weapons and bones, showing where the legions of the Nine Hells prevailed against invading enemies.
 
@@ -917,7 +916,7 @@ Malsheem resembles a gigantic hollowed-out stalagmite. The citadel is also a pri
 
 Asmodeus most often appears as a handsome, bearded man with four large horns, piercing red eyes, and flowing robes. He can also assume other forms and is seldom seen without his ruby-tipped scepter in hand. Asmodeus is the most cunning and well-mannered of archdevils. On the surface, he seems warm, pleasant, and lighthearted, doling out wisdom and small acts of kindness like a caring father. The ultimate evil he represents can be seen only when he wills it so, or if he forgets himself and flies into a rage.
 
-![Asmodeus, the Lord of the ...](Compendium/books/dungeon-masters-guide-2024/img/100-06-017-asmodeus.webp#center "Asmodeus, the Lord of the Nine, maintains a veneer of pleasantry while inflicting agony on imprisoned souls")
+![Asmodeus, the Lord of the Nine, maintains a veneer of pleasantry while inflicting agony on imprisoned souls](/Compendium/books/dungeon-masters-guide-2024/img/100-06-017-asmodeus.webp#center)
 
 #### Infernal Hierarchy
 
@@ -926,17 +925,17 @@ The Nine Hells has a rigid hierarchy that defines every aspect of its society. A
 A supreme tyrant, a brilliant deceiver, and a master of subtlety, Asmodeus protects his throne by keeping his friends close and his enemies closer. He delegates most matters of rulership to the pit fiends and lesser archdevils that make up the infernal bureaucracy of the Nine Hells, even as he knows that those powerful devils conspire to usurp his throne. Asmodeus appoints archdevils, and he can strip any member of the infernal hierarchy of rank and status as he likes.
 
 > [!example] Infernal Hierarchy
-> -     - [[lemure-xmm|Lemure]]    
-> -     - [[imp-xmm|Imp]]    
->         - [[spined-devil-xmm|Spined devil]]    
->         - [[bearded-devil-xmm|Bearded devil]]    
->         - [[barbed-devil-xmm|Barbed devil]]    
->         - [[chain-devil-xmm|Chain devil]]    
->         - [[bone-devil-xmm|Bone devil]]    
-> -     - [[horned-devil-xmm|Horned devil]]    
->         - [[erinyes-xmm|Erinyes]]    
->         - [[ice-devil-xmm|Ice devil]]    
->         - [[pit-fiend-xmm|Pit fiend]]    
+> -     - [Lemure](/Compendium/bestiary/fiend/lemure-xmm.md)    
+> -     - [Imp](/Compendium/bestiary/fiend/imp-xmm.md)    
+>         - [Spined devil](/Compendium/bestiary/fiend/spined-devil-xmm.md)    
+>         - [Bearded devil](/Compendium/bestiary/fiend/bearded-devil-xmm.md)    
+>         - [Barbed devil](/Compendium/bestiary/fiend/barbed-devil-xmm.md)    
+>         - [Chain devil](/Compendium/bestiary/fiend/chain-devil-xmm.md)    
+>         - [Bone devil](/Compendium/bestiary/fiend/bone-devil-xmm.md)    
+> -     - [Horned devil](/Compendium/bestiary/fiend/horned-devil-xmm.md)    
+>         - [Erinyes](/Compendium/bestiary/fiend/erinyes-xmm.md)    
+>         - [Ice devil](/Compendium/bestiary/fiend/ice-devil-xmm.md)    
+>         - [Pit fiend](/Compendium/bestiary/fiend/pit-fiend-xmm.md)    
 > -     - Duke/duchess    
 >         - Archduke/archduchess    
 
@@ -968,7 +967,7 @@ The Outlands is a great disk. In fact, those who envision the Outer Planes as a 
 
 Evenly spaced around the outside edge of the circle are the gate-towns: sixteen settlements, each built around a portal leading to one of the Outer Planes. The Gate-Towns of the Outlands table lists all sixteen gate-towns and the Outer Planes they connect to. Each gate-town shares many of the characteristics of the plane where its gate leads. Planar emissaries often meet in these gate-towns, so it isn't unusual to see strange interactions, such as a Celestial and a Fiend arguing in a tavern while sharing a fine bottle of wine.
 
-![[gate-towns-of-the-outlands-xdmg|Gate-Towns of the Outlands]]
+![Gate-Towns of the Outlands](/Compendium/tables/gate-towns-of-the-outlands-xdmg.md)
 
 #### Outlands Adventures
 
@@ -986,7 +985,7 @@ Pandemonium is a plane of overwhelming chaos, a great mass of rock riddled with 
 
 Most of the plane's inhabitants are creatures that were banished to the plane with no hope of escape. The incessant winds force them to take shelter in places where the howls of the winds sound like distant cries of torment.
 
-![[layers-of-pandemonium-xdmg|Layers of Pandemonium]]
+![Layers of Pandemonium](/Compendium/tables/layers-of-pandemonium-xdmg.md)
 
 #### Pandemonium Adventures
 
@@ -996,7 +995,7 @@ An adventure in Pandemonium can be a way to explore what happens to characters o
 
 A jagged spike somewhere in Cocytus, called Howler's Crag, is rumored to have a unique magical property: anything yelled from the top of the crag is said to find the ears of its intended recipient—carried on a shrieking, frigid wind—no matter where in the multiverse that person might be.
 
-![Three adventurers brave th...](Compendium/books/dungeon-masters-guide-2024/img/101-06-018-winds-of-pandemonium.webp#center "Three adventurers brave the howling winds of Pandemonium in search of Howler's Crag")
+![Three adventurers brave the howling winds of Pandemonium in search of Howler's Crag](/Compendium/books/dungeon-masters-guide-2024/img/101-06-018-winds-of-pandemonium.webp#center)
 
 ### Para-elemental Planes
 
@@ -1046,7 +1045,7 @@ The Shadowfell overlaps the Material Plane in much the same way as the Feywild. 
 
 Shadow dragons and Undead haunt this bleak plane, as do other creatures that thrive in the gloom, including cloakers and darkmantles.
 
-![The Shadowfell is a realm ...](Compendium/books/dungeon-masters-guide-2024/img/102-06-019-the-shadowfell.webp#center "The Shadowfell is a realm of death, despair, and dread")
+![The Shadowfell is a realm of death, despair, and dread](/Compendium/books/dungeon-masters-guide-2024/img/102-06-019-the-shadowfell.webp#center)
 
 #### Shadow Crossings
 
@@ -1094,9 +1093,9 @@ A melancholic atmosphere pervades the Shadowfell, and extended forays to this pl
 
 When you deem it appropriate, though usually not more than once per day, you can require a character not from the Shadowfell to make a DC 10 Wisdom saving throw. On a failed save, the character is affected by despair. Roll on the Shadowfell Despair table to determine the effects. You can substitute different despair effects of your own creation.
 
-![[shadowfell-despair-xdmg|Shadowfell Despair]]
+![Shadowfell Despair](/Compendium/tables/shadowfell-despair-xdmg.md)
 
-If a character is already suffering a despair effect and fails the saving throw, the new despair effect replaces the old one. After finishing a Long Rest, a character can attempt to overcome the despair with a DC 15 Wisdom saving throw. (The DC is higher because it's harder to shake off despair once it has taken hold.) On a successful save, the despair effect ends for that character. A [[calm-emotions-xphb|Calm Emotions]] spell or magic that removes curses cures the despair.
+If a character is already suffering a despair effect and fails the saving throw, the new despair effect replaces the old one. After finishing a Long Rest, a character can attempt to overcome the despair with a DC 15 Wisdom saving throw. (The DC is higher because it's harder to shake off despair once it has taken hold.) On a successful save, the despair effect ends for that character. A [Calm Emotions](/Compendium/spells/calm-emotions-xphb.md) spell or magic that removes curses cures the despair.
 
 ### Sigil, City of Doors
 
@@ -1108,7 +1107,7 @@ The city is the domain of the inscrutable Lady of Pain, a being whose purpose an
 
 "Planescape: Adventures in the Multiverse" includes extensive information on "Sigil".
 
-![In the cosmopolitan street...](Compendium/books/dungeon-masters-guide-2024/img/103-06-020-citizens-of-sigil.webp#center "In the cosmopolitan streets of Sigil, creatures from across the multiverse coexist in uneasy peace")
+![In the cosmopolitan streets of Sigil, creatures from across the multiverse coexist in uneasy peace](/Compendium/books/dungeon-masters-guide-2024/img/103-06-020-citizens-of-sigil.webp#center)
 
 ### Ysgard
 
@@ -1116,7 +1115,7 @@ Ysgard is a rugged realm of soaring mountains, deep fjords, and windswept battle
 
 Ysgard is the home of slain heroes who wage eternal battle on fields of glory. Any creature, other than a Construct or Undead, that is killed in combat while in Ysgard is restored to life at dawn the next day. The creature has all its Hit Points restored, and all conditions that affected it before its death are removed.
 
-![[layers-of-ysgard-xdmg|Layers of Ysgard]]
+![Layers of Ysgard](/Compendium/tables/layers-of-ysgard-xdmg.md)
 
 #### Ysgard Adventures
 

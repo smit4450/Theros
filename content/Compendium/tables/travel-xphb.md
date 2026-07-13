@@ -1,12 +1,11 @@
 ---
-title: Travel
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Travel
+- "Travel"
 ---
 # Travel
 *Source: Player's Handbook (2024) p. 231* 

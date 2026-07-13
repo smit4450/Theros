@@ -1,12 +1,11 @@
 ---
-title: "2: Guttural Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- 2: Guttural Names
+- "2: Guttural Names"
 ---
 # 2: Guttural Names
 *Source: Dungeon Master's Guide (2024) p. 84* 

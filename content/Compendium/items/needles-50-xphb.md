@@ -1,12 +1,12 @@
 ---
-title: Needles (50)
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/ammunition
 - item/rarity/none
-aliases: 
+aliases:
 - "Needles (50)"
 ---
 # Needles (50)
@@ -18,6 +18,6 @@ aliases:
 
 Blowgun needles are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
-Needles are typically stored in a [[pouch-xphb|Pouch]] (bought separately).
+Needles are typically stored in a [Pouch](/Compendium/items/pouch-xphb.md) (bought separately).
 
 *Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

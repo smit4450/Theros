@@ -1,12 +1,11 @@
 ---
-title: Nyxborn Creatures; Nyxborn Monster Origin
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Nyxborn Creatures; Nyxborn Monster Origin
+- "Nyxborn Creatures; Nyxborn Monster Origin"
 ---
 # Nyxborn Creatures; Nyxborn Monster Origin
 *Source: Mythic Odysseys of Theros p. 203* 

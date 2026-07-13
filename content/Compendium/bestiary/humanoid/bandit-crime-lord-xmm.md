@@ -1,20 +1,20 @@
 ---
-title: Bandit Crime Lord
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/11
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Bandit Crime Lord"]
+aliases:
+- "Bandit Crime Lord"
 ---
 # Bandit Crime Lord
 *Source: Monster Manual (2024) p. 28*  
+![](/Compendium/bestiary/humanoid/img/bandit-crime-lord.webp#right)
 
-![](Compendium/bestiary/humanoid/img/bandit-crime-lord.webp#right|850)  
 Bandit crime lords manipulate shadowy organizations and prioritize their own survival over any single lackey or plot.
 
 ## Bandits
@@ -43,62 +43,50 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 5 | Secretly works for a government or a regional ruler to sow chaos. |
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
-![](Compendium/bestiary/humanoid/img/bandits.webp#center)  
+
+![](/Compendium/bestiary/humanoid/img/bandits.webp#center)
+
 ## Statblock
 
-```statblock
-"name": "Bandit Crime Lord (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "17"
-"hp": !!int "169"
-"hit_dice": "26d8 + 52"
-"modifier": !!int "9"
-"stats":
-  - !!int "10"
-  - !!int "20"
-  - !!int "14"
-  - !!int "18"
-  - !!int "14"
-  - !!int "15"
-"speed": "30 ft."
-"saves":
-  - "dexterity": !!int "9"
-  - "constitution": !!int "6"
-"skillsaves":
-  - "name": "[[skills#Acrobatics|Acrobatics]]"
-    "desc": "+9"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+10"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+13"
-"senses": "passive Perception 20"
-"languages": "Common, Thieves' cant"
-"cr": "11"
-"traits":
-  - "desc": "If the bandit is subjected to an effect that allows it to make a Dexterity\
-      \ saving throw to take only half damage, the bandit instead takes no damage\
-      \ if it succeeds on the save and only half damage if it fails. It can't use\
-      \ this trait if it has the [[conditions#Incapacitated|Incapacitated]]\
-      \ condition."
-    "name": "Evasion"
-"actions":
-  - "desc": "The bandit makes three attacks, using Scimitar or Pistol in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 12 (2d6 + 5) Slashing\
-      \ damage plus 14 (4d6) Poison damage."
-    "name": "Scimitar"
-  - "desc": "*Ranged Attack Roll:* +9, range 30/90 ft. *Hit:* 10 (1d10 + 5) Piercing\
-      \ damage plus 14 (4d6) Poison damage."
-    "name": "Pistol"
-"bonus_actions":
-  - "desc": "The bandit gives itself [[advantage-xphb|Advantage]]\
-      \ on the next attack roll it makes during the current turn. If that attack hits,\
-      \ the target takes an extra 28 (8d6) Poison damage."
-    "name": "Deadly Aim"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/humanoid/token/bandit-crime-lord-xmm.webp"
+```ad-statblock
+title: Bandit Crime Lord
+![](/Compendium/bestiary/humanoid/token/bandit-crime-lord-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 17 
+- **Hit Points** 169 (`26d8 + 52`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|20 (+5)|14 (+2)|18 (+4)|14 (+2)|15 (+2)|
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Dexterity +9, Constitution +6
+- **Skills** [Acrobatics](/Compendium/rules/skills.md#Acrobatics) +9, [Perception](/Compendium/rules/skills.md#Perception) +10, [Stealth](/Compendium/rules/skills.md#Stealth) +13
+- **Senses** passive Perception 20
+- **Gear** two [pistols](/Compendium/items/pistol-xphb.md), [scimitar](/Compendium/items/scimitar-xphb.md), [studded leather armor](/Compendium/items/studded-leather-armor-xphb.md)
+- **Languages** Common, Thieves' cant
+- **Challenge** 11
+
+## Traits
+
+***Evasion.*** If the bandit is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the bandit instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Multiattack.*** The bandit makes three attacks, using Scimitar or Pistol in any combination.
+
+***Scimitar.*** *Melee Attack Roll:* `+9`, reach 5 ft. *Hit:* 12 (`2d6 + 5`) Slashing damage plus 14 (`4d6`) Poison damage.
+
+***Pistol.*** *Ranged Attack Roll:* `+9`, range 30/90 ft. *Hit:* 10 (`1d10 + 5`) Piercing damage plus 14 (`4d6`) Poison damage.
+
+## Bonus Actions
+
+***Deadly Aim.*** The bandit gives itself [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on the next attack roll it makes during the current turn. If that attack hits, the target takes an extra 28 (`8d6`) Poison damage.
 ```
 ^statblock
+
+## Environment
+
+any

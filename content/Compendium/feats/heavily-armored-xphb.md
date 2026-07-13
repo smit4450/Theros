@@ -1,13 +1,12 @@
 ---
-title: Heavily Armored
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Heavily Armored
+- "Heavily Armored"
 ---
 # Heavily Armored
 *Source: Player's Handbook (2024) p. 204*  

@@ -1,20 +1,20 @@
 ---
-title: Vine Blight
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-2
 - monster/environment/forest
 - monster/size/medium
 - monster/type/plant
-statblock: inline
-aliases: ["Vine Blight"]
+aliases:
+- "Vine Blight"
 ---
 # Vine Blight
 *Source: Monster Manual (2024) p. 44*  
+![](/Compendium/bestiary/plant/img/vine-needle-and-tree-blights.webp#right)
 
-![](Compendium/bestiary/plant/img/vine-needle-and-tree-blights.webp#right|850)  
 Vine blights resemble humans wrapped in vines common to the areas in which they grow, from hairy ivy vines to flowering kudzu. They can cause plants to burst from the ground around themselves and entangle nearby foes.
 
 Unlike most other blights, vine blights can speak. They do so rarely, typically only to convey messages from their masters or to repeat the words of their victims in rasping voices.
@@ -32,45 +32,39 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > 
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
+
 ## Statblock
 
-```statblock
-"name": "Vine Blight (XMM)"
-"size": "Medium"
-"type": "plant"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "19"
-"hit_dice": "3d8 + 6"
-"modifier": !!int "-1"
-"stats":
-  - !!int "15"
-  - !!int "8"
-  - !!int "14"
-  - !!int "5"
-  - !!int "10"
-  - !!int "3"
-"speed": "20 ft."
-"skillsaves":
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+1"
-"condition_immunities": "[[conditions#Deafened|deafened]]"
-"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
-  \ 10"
-"languages": "Common"
-"cr": "1/2"
-"actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 10 ft. *Hit:* 6 (1d8 + 2) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
-      \ condition (escape DC 12). Until the grapple ends, the target takes 4 (1d8)\
-      \ Bludgeoning damage at the start of each of its turns, and the blight can't\
-      \ make Constricting Vine attacks."
-    "name": "Constricting Vine"
-  - "desc": "The blight casts the [[entangle-xphb|Entangle]] spell,\
-      \ using Constitution as the spellcasting ability (spell save DC 12).\n"
-    "name": "Entangling Plants (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/plant/token/vine-blight-xmm.webp"
+```ad-statblock
+title: Vine Blight
+![](/Compendium/bestiary/plant/token/vine-blight-xmm.webp#token)
+*Medium plant, Neutral Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 19 (`3d8 + 6`) 
+- **Speed** 20 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)| 8 (-1)|14 (+2)| 5 (-3)|10 (+0)| 3 (-4)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +1
+- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception 10
+- **Condition Immunities** [deafened](/Compendium/rules/conditions.md#Deafened)
+- **Languages** Common
+- **Challenge** 1/2
+
+## Actions
+
+***Constricting Vine.*** *Melee Attack Roll:* `+4`, reach 10 ft. *Hit:* 6 (`1d8 + 2`) Bludgeoning damage. If the target is a Large or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 12). Until the grapple ends, the target takes 4 (`1d8`) Bludgeoning damage at the start of each of its turns, and the blight can't make Constricting Vine attacks.
+
+***Entangling Plants (Recharge 5-6).*** The blight casts the [Entangle](/Compendium/spells/entangle-xphb.md) spell, using Constitution as the spellcasting ability (spell save DC 12).
+
 ```
 ^statblock
+
+## Environment
+
+forest

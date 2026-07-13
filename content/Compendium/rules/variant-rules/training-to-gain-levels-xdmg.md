@@ -1,12 +1,11 @@
 ---
-title: Training to Gain Levels
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Training to Gain Levels
+- "Training to Gain Levels"
 ---
 # Training to Gain Levels
 *Source: Dungeon Master's Guide (2024) p. 49* 
@@ -17,4 +16,4 @@ If you choose this option, after earning enough Experience Points to attain a ne
 
 The training time required depends on the level to be gained, as shown on the Training to Gain Levels table. The training cost is for the total training time.
 
-![[variant-training-to-gain-levels-training-to-gain-levels-xdmg|Variant: Training to Gain Levels; Training to Gain Levels]]
+![Variant: Training to Gain Levels; Training to Gain Levels](/Compendium/tables/variant-training-to-gain-levels-training-to-gain-levels-xdmg.md)

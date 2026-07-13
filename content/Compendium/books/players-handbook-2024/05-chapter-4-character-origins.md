@@ -1,17 +1,16 @@
 ---
-title: "Chapter 4: Character Origins"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Chapter 4: Character Origins
+- "Chapter 4: Character Origins"
 ---
 # Chapter 4: Character Origins
 *Source: Player's Handbook (2024), p. 176* 
 
-![Not even a white dragon's ...](Compendium/books/players-handbook-2024/img/127-05-001-laeral-drizzt-vajra.webp#center "Not even a white dragon's wrath can chill these heroes of the Forgotten Realms: Laeral Silverhand, Drizzt Do'Urden, and Vajra Safahr")
+![Not even a white dragon's wrath can chill these heroes of the Forgotten Realms: Laeral Silverhand, Drizzt Do'Urden, and Vajra Safahr](/Compendium/books/players-handbook-2024/img/127-05-001-laeral-drizzt-vajra.webp#center)
 
 This chapter describes the two components of an adventurer's origin: "background" and "species". Together, these elements suggest your character's early experience and family origin before taking up the adventuring life and learning the capabilities of a class (described in "chapter 3").
 
@@ -85,25 +84,25 @@ Each species gives a character special traits—unique characteristics based on 
 
 Sixteen backgrounds are presented in this section in alphabetical order:
 
-- [[acolyte-xphb|Acolyte]]  
-- [[artisan-xphb|Artisan]]  
-- [[charlatan-xphb|Charlatan]]  
-- [[criminal-xphb|Criminal]]  
-- [[entertainer-xphb|Entertainer]]  
-- [[farmer-xphb|Farmer]]  
-- [[guard-xphb|Guard]]  
-- [[guide-xphb|Guide]]  
-- [[hermit-xphb|Hermit]]  
-- [[merchant-xphb|Merchant]]  
-- [[noble-xphb|Noble]]  
-- [[sage-xphb|Sage]]  
-- [[sailor-xphb|Sailor]]  
-- [[scribe-xphb|Scribe]]  
-- [[soldier-xphb|Soldier]]  
-- [[wayfarer-xphb|Wayfarer]]  
+- [Acolyte](/Compendium/backgrounds/acolyte-xphb.md)  
+- [Artisan](/Compendium/backgrounds/artisan-xphb.md)  
+- [Charlatan](/Compendium/backgrounds/charlatan-xphb.md)  
+- [Criminal](/Compendium/backgrounds/criminal-xphb.md)  
+- [Entertainer](/Compendium/backgrounds/entertainer-xphb.md)  
+- [Farmer](/Compendium/backgrounds/farmer-xphb.md)  
+- [Guard](/Compendium/backgrounds/guard-xphb.md)  
+- [Guide](/Compendium/backgrounds/guide-xphb.md)  
+- [Hermit](/Compendium/backgrounds/hermit-xphb.md)  
+- [Merchant](/Compendium/backgrounds/merchant-xphb.md)  
+- [Noble](/Compendium/backgrounds/noble-xphb.md)  
+- [Sage](/Compendium/backgrounds/sage-xphb.md)  
+- [Sailor](/Compendium/backgrounds/sailor-xphb.md)  
+- [Scribe](/Compendium/backgrounds/scribe-xphb.md)  
+- [Soldier](/Compendium/backgrounds/soldier-xphb.md)  
+- [Wayfarer](/Compendium/backgrounds/wayfarer-xphb.md)  
 
 ## Species Descriptions
 
-Ten species are presented in this section in alphabetical order: [[aasimar-xphb|Aasimar]], [[dragonborn-xphb|Dragonborn]], [[dwarf-xphb|Dwarf]], [[elf-xphb|Elf]], [[gnome-xphb|Gnome]], [[goliath-xphb|Goliath]], [[halfling-xphb|Halfling]], [[human-xphb|Human]], [[orc-xphb|Orc]], and [[tiefling-xphb|Tiefling]].
+Ten species are presented in this section in alphabetical order: Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, [Human](/Compendium/species/human-xphb.md), Orc, and Tiefling.
 
-![](Compendium/books/players-handbook-2024/img/153-05-027-map-decoration.webp#center)
+![](/Compendium/books/players-handbook-2024/img/153-05-027-map-decoration.webp#center)

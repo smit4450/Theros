@@ -1,17 +1,17 @@
 ---
-title: Belt of Fire Giant Strength
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Belt of Fire Giant Strength"
 ---
 # Belt of Fire Giant Strength
 *Wondrous item, very rare (requires attunement)*  
-![](Compendium/items/img/belt-of-giant-strength-fire.webp#right)
+![](/Compendium/items/img/belt-of-giant-strength-fire.webp#right)
 
 
 While wearing this belt, your Strength score changes to 25. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.

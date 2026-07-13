@@ -1,17 +1,17 @@
 ---
-title: Spell Scroll (Level 1)
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/common
 - item/wondrous/scroll
-aliases: 
+aliases:
 - "Spell Scroll (Level 1)"
 ---
 # Spell Scroll (Level 1)
 *Scroll, common*  
-![](Compendium/items/img/spell-scroll.webp#right)
+![](/Compendium/items/img/spell-scroll.webp#right)
 
 - **Cost**: 50 gp
 
@@ -23,6 +23,6 @@ If the spell requires a saving throw or an attack roll, the spell save DC is 13,
 
 ## Copying a Scroll into a Spellbook
 
-A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 1 spell is copied in this way, the copier must succeed on a DC 11 Intelligence ([[skills#Arcana|Arcana]]). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
+A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 1 spell is copied in this way, the copier must succeed on a DC 11 Intelligence ([Arcana](/Compendium/rules/skills.md#Arcana)). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

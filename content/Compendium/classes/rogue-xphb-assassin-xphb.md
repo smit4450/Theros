@@ -1,16 +1,15 @@
 ---
-title: Assassin
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - subclass/rogue/assassin
 aliases:
-- Assassin
+- "Assassin"
 ---
 # Assassin
-*[[rogue-xphb|Rogue]]: Rogue Subclass*  
+*[Rogue](./rogue-xphb.md): Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 134*  
 
 > [!tldr] Class and Feature Progression
@@ -44,47 +43,38 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Assassin (Level 3)
+![](/Compendium/classes/img/assassin-rogue.webp#right)
 
 *Practice the Grim Art of Death*
 
 An Assassin's training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.
 
+## Subclass Features
+
 ### Assassinate (Level 3)
 
 You're adept at ambushing a target, granting you the following benefits.
 
-#### Initiative
+**Initiative.** You have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on [Initiative](/Compendium/rules/variant-rules/initiative-xphb.md) rolls.
 
-You have [[advantage-xphb|Advantage]] on [[initiative-xphb|Initiative]] rolls.
-
-#### Surprising Strikes
-
-During the first round of each combat, you have [[advantage-xphb|Advantage]] on attack rolls against any creature that hasn't taken a turn. If your Sneak Attack hits any target during that round, the target takes extra damage of the weapon's type equal to your Rogue level.
+**Surprising Strikes.** During the first round of each combat, you have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against any creature that hasn't taken a turn. If your Sneak Attack hits any target during that round, the target takes extra damage of the weapon's type equal to your Rogue level.
 
 ### Assassin's Tools (Level 3)
 
-You gain a [[disguise-kit-xphb|Disguise Kit]] and a [[poisoners-kit-xphb|Poisoner's Kit]], and you have proficiency with them.
+You gain a [Disguise Kit](/Compendium/items/disguise-kit-xphb.md) and a [Poisoner's Kit](/Compendium/items/poisoners-kit-xphb.md), and you have proficiency with them.
 
 ### Infiltration Expertise (Level 9)
 
 You are expert at the following techniques that aid your infiltrations.
 
-#### Masterful Mimicry
+**Masterful Mimicry.** You can unerringly mimic another person's speech, handwriting, or both if you have spent at least 1 hour studying them.
 
-You can unerringly mimic another person's speech, handwriting, or both if you have spent at least 1 hour studying them.
-
-#### Roving Aim
-
-Your [[speed-xphb|Speed]] isn't reduced to 0 by using Steady Aim.
+**Roving Aim.** Your [Speed](/Compendium/rules/variant-rules/speed-xphb.md) isn't reduced to 0 by using Steady Aim.
 
 ### Envenom Weapons (Level 13)
 
-When you use the Poison option of your Cunning Strike, the target also takes `2d6` Poison damage whenever it fails the saving throw. This damage ignores [[resistance-rules-xphb|Resistance]] to Poison damage.
+When you use the Poison option of your Cunning Strike, the target also takes `2d6` Poison damage whenever it fails the saving throw. This damage ignores [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to Poison damage.
 
 ### Death Strike (Level 17)
 
-When you hit with your Sneak Attack on the first round of a combat, the target must succeed on a Constitution saving throw (DC 8 plus your Dexterity modifier and [[proficiency-xphb|Proficiency Bonus]]), or the attack's damage is doubled against the target.
+When you hit with your Sneak Attack on the first round of a combat, the target must succeed on a Constitution saving throw (DC 8 plus your Dexterity modifier and [Proficiency Bonus](/Compendium/rules/variant-rules/proficiency-xphb.md)), or the attack's damage is doubled against the target.

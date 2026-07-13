@@ -1,9 +1,10 @@
 ---
-title: Elemental Weapon
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
+- spell/class/artificer
 - spell/class/bard
 - spell/class/druid
 - spell/class/paladin
@@ -12,12 +13,14 @@ tags:
 - spell/school/transmutation
 - spell/subclass/college-of-lore
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Druid
 - Paladin
 - Ranger
-aliases: ["Elemental Weapon"]
+aliases:
+- "Elemental Weapon"
 ---
 # Elemental Weapon
 *3rd-level, Transmutation*  
@@ -32,6 +35,6 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 
 **Using a Higher-Level Spell Slot.** If you use a level 5-6 spell slot, the bonus to attack rolls increases to +2, and the extra damage increases to `2d4`. If you use a level 7+ spell slot, the bonus increases to +3, and the extra damage increases to `3d4`.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-ranger|Ranger]]
+**Classes**: [Artificer](/Compendium/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Paladin](/Compendium/lists/list-spells-classes-paladin.md); [Ranger](/Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 267*

@@ -1,17 +1,16 @@
 ---
-title: Thin Ice
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - hazard/env
 aliases:
-- Thin Ice
+- "Thin Ice"
 ---
 # Thin Ice
 *Environmental Hazard*  
 
-Thin ice has a weight tolerance of `3d10 × 10` pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks. All creatures on broken ice fall through. Below the ice is [[frigid-water-xdmg|frigid water]].
+Thin ice has a weight tolerance of `3d10 × 10` pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks. All creatures on broken ice fall through. Below the ice is [frigid water](/Compendium/traps-hazards/frigid-water-xdmg.md).
 
 *Source: Dungeon Master's Guide (2024) p. 69*

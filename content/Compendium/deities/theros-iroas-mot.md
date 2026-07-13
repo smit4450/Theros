@@ -1,18 +1,17 @@
 ---
-title: Iroas
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/war
-aliases: 
-- Iroas
+aliases:
+- "Iroas"
 ---
 # Iroas
 *Source: Mythic Odysseys of Theros p. 49* 
-![](Compendium/deities/img/mot-032-02-03-iroas.webp#symbol)
+![](/Compendium/deities/img/mot-032-02-03-iroas.webp#symbol)
 
 - **Alignment**: Chaotic Good
 - **Domains**: War
@@ -54,7 +53,7 @@ Iroas is interested not in pretty words, but in great deeds. The faithful of Iro
 
 The fifth month of the Meletian calendar is Thriambion, named for an annual commemoration of the Meletian conquest of Natumbria. This victory cemented Meletis's control over the entire peninsula. But in Akros, the month is called Iroagonion, for the Iroan Games. These games are the grandest display to honor Iroas. To even compete in the Iroan Games is considered noteworthy, as the poleis send only their finest athletes. The grand prize, besides a ceremonial wreath, is the opportunity to be visited by Iroas himself.
 
-![](Compendium/deities/img/mot-033-02-08.webp#center)
+![](/Compendium/deities/img/mot-033-02-08.webp#center)
 
 > [!readaloud] Myths of Iroas
 > 
@@ -136,7 +135,7 @@ Your piety score to Iroas decreases if you diminish Iroas's influence in the wor
 
 ### Benefits of Piety
 
-- [[iroass-devotee-mot|Iroas's Devotee]]  
-- [[iroass-votary-mot|Iroas's Votary]]  
-- [[iroass-disciple-mot|Iroas's Disciple]]  
-- [[champion-of-victory-mot|Champion of Victory]]
+- [Iroas's Devotee](/Compendium/rewards/iroass-devotee-mot.md)  
+- [Iroas's Votary](/Compendium/rewards/iroass-votary-mot.md)  
+- [Iroas's Disciple](/Compendium/rewards/iroass-disciple-mot.md)  
+- [Champion of Victory](/Compendium/rewards/champion-of-victory-mot.md)

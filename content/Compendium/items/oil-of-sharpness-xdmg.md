@@ -1,12 +1,12 @@
 ---
-title: Oil of Sharpness
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/very-rare
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Oil of Sharpness"
 ---
 # Oil of Sharpness

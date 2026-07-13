@@ -1,17 +1,17 @@
 ---
-title: Hide Armor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/armor/medium
 - item/rarity/none
-aliases: 
+aliases:
 - "Hide Armor"
 ---
 # Hide Armor
 *Medium armor*  
-![](Compendium/items/img/hide-armor.webp#right)
+![](/Compendium/items/img/hide-armor.webp#right)
 
 - **Armor Class**: 12 + Dex modifier (max of +2)
 - **Cost**: 10 gp

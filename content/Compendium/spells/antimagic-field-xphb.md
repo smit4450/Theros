@@ -1,9 +1,9 @@
 ---
-title: Antimagic Field
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/class/wizard
@@ -15,7 +15,8 @@ classes:
 - Cleric
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Antimagic Field"]
+aliases:
+- "Antimagic Field"
 ---
 # Antimagic Field
 *8th-level, Abjuration*  
@@ -26,14 +27,14 @@ aliases: ["Antimagic Field"]
 - **Components:** V, S, M (iron filings)
 - **Duration:** Concentration, up to 1 hour
 
-An aura of antimagic surrounds you in 10-foot [[emanation-area-of-effect-xphb|Emanation]]. No one can cast spells, take [[actions#Magic|Magic]] actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
+An aura of antimagic surrounds you in a 10-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md). No one can cast spells, take [Magic](/Compendium/rules/actions.md#Magic) actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
 
 Areas of effect created by spells or other magic can't extend into the aura, and no one can teleport into or out of it or use planar travel there. Portals close temporarily while in the aura.
 
 Ongoing spells, except those cast by an Artifact or a deity, are suppressed in the area. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.
 
-[[dispel-magic-xphb|Dispel Magic]] has no effect on the aura, and the auras created by different [[antimagic-field-xphb|Antimagic Field]] spells don't nullify each other.
+[Dispel Magic](/Compendium/spells/dispel-magic-xphb.md) has no effect on the aura, and the auras created by different [Antimagic Field](/Compendium/spells/antimagic-field-xphb.md) spells don't nullify each other.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Wizard (Abjurer)](/Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,12 +1,12 @@
 ---
-title: Elixir of Health
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/rare
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Elixir of Health"
 ---
 # Elixir of Health
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you are cured of all magical contagions. In addition, the following conditions end on you: [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], [[conditions#Paralyzed|Paralyzed]], and [[conditions#Poisoned|Poisoned]].
+When you drink this potion, you are cured of all magical contagions. In addition, the following conditions end on you: [Blinded](/Compendium/rules/conditions.md#Blinded), [Deafened](/Compendium/rules/conditions.md#Deafened), [Paralyzed](/Compendium/rules/conditions.md#Paralyzed), and [Poisoned](/Compendium/rules/conditions.md#Poisoned).
 
 The clear, red liquid has tiny bubbles of light in it.
 

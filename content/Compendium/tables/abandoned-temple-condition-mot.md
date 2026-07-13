@@ -1,12 +1,11 @@
 ---
-title: Abandoned Temple Condition
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Abandoned Temple Condition
+- "Abandoned Temple Condition"
 ---
 # Abandoned Temple Condition
 *Source: Mythic Odysseys of Theros p. 146* 

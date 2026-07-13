@@ -1,12 +1,12 @@
 ---
-title: Elephant
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/mount
 - item/rarity/none
-aliases: 
+aliases:
 - "Elephant"
 ---
 # Elephant

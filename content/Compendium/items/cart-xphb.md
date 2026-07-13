@@ -1,12 +1,12 @@
 ---
-title: Cart
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/vehicle/land
-aliases: 
+aliases:
 - "Cart"
 ---
 # Cart

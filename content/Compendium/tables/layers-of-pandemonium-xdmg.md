@@ -1,12 +1,11 @@
 ---
-title: Layers of Pandemonium
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Layers of Pandemonium
+- "Layers of Pandemonium"
 ---
 # Layers of Pandemonium
 *Source: Dungeon Master's Guide (2024) p. 206* 

@@ -1,15 +1,15 @@
 ---
-title: Sword of Vengeance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/uncommon
 - item/weapon/martial
 - item/weapon/melee
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Sword of Vengeance"
 - "Glaive of Vengeance"
 - "Greatsword of Vengeance"
@@ -22,17 +22,17 @@ aliases:
 *Cursed item, uncommon (requires attunement)*  
 
 
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items)
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
 ## Curse
 
-This weapon is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the weapon, keeping it on your person at all times. While attuned to this weapon, you have [[disadvantage-xphb|Disadvantage]] on attack rolls made with weapons other than this one.
+This weapon is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the weapon, keeping it on your person at all times. While attuned to this weapon, you have [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls made with weapons other than this one.
 
-In addition, while the weapon is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage from another creature in combat. On a failed save, you must attack the creature that damaged you until you drop to 0 [[hit-points-xphb|Hit Points]] or it does or until you can't reach the creature to make a melee attack against it.
+In addition, while the weapon is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage from another creature in combat. On a failed save, you must attack the creature that damaged you until you drop to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) or it does or until you can't reach the creature to make a melee attack against it.
 
-You can break the curse in the usual ways. Alternatively, casting [[banishment-xphb|Banishment]] on the weapon forces the vengeful spirit to leave it. The weapon then becomes a +1 Weapon with no other properties.
+You can break the curse in the usual ways. Alternatively, casting [Banishment](/Compendium/spells/banishment-xphb.md) on the weapon forces the vengeful spirit to leave it. The weapon then becomes a +1 Weapon with no other properties.
 
 **Variants**:
 - [Glaive of Vengeance](#Glaive%20of%20Vengeance)
@@ -45,13 +45,13 @@ You can break the curse in the usual ways. Alternatively, casting [[banishment-x
 ### Glaive of Vengeance
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]], [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items), [Heavy](/Compendium/rules/item-properties.md#Heavy), [Reach](/Compendium/rules/item-properties.md#Reach), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Vengeance
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]], [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items), [Heavy](/Compendium/rules/item-properties.md#Heavy), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Vengeance
@@ -59,25 +59,25 @@ You can break the curse in the usual ways. Alternatively, casting [[banishment-x
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]], [[item-properties#Versatile|Versatile]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items), [Versatile](/Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Vengeance
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]], [[item-properties#Finesse|Finesse]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items), [Finesse](/Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Scimitar of Vengeance
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]], [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items), [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Vengeance
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]], [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
+- **Properties**: [Cursed](/Compendium/rules/item-properties.md#Cursed%20Items), [Finesse](/Compendium/rules/item-properties.md#Finesse), [Light](/Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 

@@ -1,26 +1,26 @@
 ---
-title: Arch-hag
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/21
 - monster/environment/any
 - monster/size/large
 - monster/type/fey
-statblock: inline
-aliases: ["Arch-hag"]
+aliases:
+- "Arch-hag"
 ---
 # Arch-hag
 *Source: Monster Manual (2024) p. 21*  
+![](/Compendium/bestiary/fey/img/arch-hag.webp#right)
 
-![](Compendium/bestiary/fey/img/arch-hag.webp#right|850)  
 ## Arch-hag
 
 *Hag of Forbidden Secrets and Magical Malice*
 
 - **Habitat.** Any  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Immortal and unpredictable, arch-hags hoard secrets and strike magical bargains, altering fate to indulge their fickle whims. These timeless schemers pursue the secrets of the multiverse and work strange magic in pursuit of their inscrutable goals.
 
@@ -53,121 +53,82 @@ Every arch-hag has a unique weakness tied to a fateful encounter the hag had in 
 ### Arch-hag Lairs
 
 Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop a storm cloud, or—in the case of the arch-hag Baba Yaga—a hut atop giant chicken legs. The interiors of these lairs frequently change or exhibit bewildering features.
-```statblock
-"name": "Arch-hag (XMM)"
-"size": "Large"
-"type": "fey"
-"alignment": "Neutral Evil"
-"ac": !!int "20"
-"hp": !!int "333"
-"hit_dice": "29d10 + 174"
-"modifier": !!int "16"
-"stats":
-  - !!int "24"
-  - !!int "15"
-  - !!int "23"
-  - !!int "19"
-  - !!int "19"
-  - !!int "25"
-"speed": "40 ft."
-"saves":
-  - "dexterity": !!int "9"
-  - "wisdom": !!int "11"
-"skillsaves":
-  - "name": "[[skills#Deception|Deception]]"
-    "desc": "+14"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+11"
-  - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+21"
-"damage_resistances": "cold, fire, psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]]"
-"senses": "[[senses#Truesight|Truesight]] 60 ft., passive Perception\
-  \ 21"
-"languages": "all"
-"cr": "21"
-"traits":
-  - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
-      \ of the following spells, requiring no Material components, using the spell's\
-      \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 19): [[augury-xphb|Augury]], [[find-familiar-xphb|Find Familiar]],\
-      \ [[identify-xphb|Identify]], [[locate-object-xphb|Locate Object]],\
-      \ [[scrying-xphb|Scrying]], or [[unseen-servant-xphb|Unseen Servant]].\
-      \ The hag must finish a [[long-rest-xphb|Long Rest]]\
-      \ before using this trait to cast that spell again.\n"
-    "name": "Coven Magic"
-  - "desc": "If the hag fails a saving throw, it can choose to succeed instead."
-    "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
-  - "desc": "The hag has [[advantage-xphb|Advantage]]\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-  - "desc": "When the hag drops to 0 [[hit-points-xphb|Hit Points]],\
-      \ it dies only if it is within 30 feet of its anathema (a thing the DM chooses\
-      \ as the hag's most hated thing). Otherwise, the hag drops to 1 [[hit-points-xphb|Hit Point]]\
-      \ and teleports to a harmless demiplane, and it can't return to the plane it\
-      \ left for 2d6 days. When the hag teleports away, each creature within 60\
-      \ feet of the space it left is cursed. Until the curse ends, a creature has\
-      \ [[disadvantage-xphb|Disadvantage]] on ability\
-      \ checks and saving throws, and the hag knows its location anywhere in the multiverse."
-    "name": "Spiteful Escape"
-"actions":
-  - "desc": "The hag makes two Spectral Claw attacks and uses Crackling Wave."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* +14, reach 10 ft. or range 60 ft. *Hit:*\
-      \ 17 (3d6 + 7) Force damage. If the target is a Large or smaller creature,\
-      \ it has the [[conditions#Prone|Prone]] condition."
-    "name": "Spectral Claw"
-  - "desc": "*Dexterity Saving Throw:* DC 22, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
-      \ *Failure:* 32 (5d12) Lightning damage. *Success:* Half damage. *Failure\
-      \ or Success:* The target is cursed until the end of the hag's next turn. The\
-      \ target can't take Reactions until the curse ends."
-    "name": "Crackling Wave"
-  - "desc": "The hag casts one of the following spells, requiring no Material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [[detect-thoughts-xphb|Detect Thoughts]], [[dimension-door-xphb|Dimension\
-      \ Door]], [[dispel-magic-xphb|Dispel Magic]],\
-      \ [[hypnotic-pattern-xphb|Hypnotic Pattern]]\n\n**2/day\
-      \ each:** [[mass-suggestion-xphb|Mass Suggestion]], [[modify-memory-xphb|Modify\
-      \ Memory]], [[plane-shift-xphb|Plane Shift]]"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "Each creature cursed by the hag and within 60 feet of it takes 14 (4d6)\
-      \ Lightning damage."
-    "name": "Witch Strike"
-"reactions":
-  - "desc": "The hag casts [[counterspell-xphb|Counterspell]]\
-      \ in response to that spell's trigger, using the same spellcasting ability as\
-      \ Spellcasting. If the target fails its saving throw, it is cursed until the\
-      \ end of its next turn. Until the curse ends, the target can't cast spells with\
-      \ a Verbal component, and when it speaks, it says the opposite of what it means.\n"
-    "name": "Tongue Twister"
-"regional_effects":
-  - "desc": "The region containing an arch-hag's lair is altered by its presence,\
-      \ creating the following effects:\n\n- **Lapsus Linguae.** Creatures (excluding\
-      \ the hag and its allies) within 1 mile of the lair subtract 1d10 from any\
-      \ ability check they make when they take the [[actions#Influence|Influence]]\
-      \ action.  \n- **Meddlesome Magic.** Whenever a creature other than the hag\
-      \ or its allies finishes a [[long-rest-xphb|Long Rest]]\
-      \ while within 1 mile of the lair, the next time that creature casts a spell\
-      \ using a spell slot, it also casts [[confusion-xphb|Confusion]]\
-      \ centered on itself. The spell uses the creature's spellcasting ability and\
-      \ doesn't require [[conditions#Concentration|Concentration]].\
-      \  \n\nIf the arch-hag is destroyed or moves its lair elsewhere, these effects\
-      \ end immediately."
-    "name": ""
-"legendary_description": "Legendary Action Uses: 3 (4 in Lair). Immediately after\
-  \ another creature's turn, the arch-hag can expend a use to take one of the following\
-  \ actions. The arch-hag regains all expended uses at the start of each of its turns."
-"legendary_actions":
-  - "desc": "The hag makes one Spectral Claw attack."
-    "name": "Hag's Swipe"
-  - "desc": "The hag uses Spellcasting to cast [[dimension-door-xphb|Dimension Door]]\
-      \ or [[hypnotic-pattern-xphb|Hypnotic Pattern]]. The hag\
-      \ can't take this action again until the start of its next turn."
-    "name": "Malicious Magic"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/fey/token/arch-hag-xmm.webp"
+
+```ad-statblock
+title: Arch-hag
+![](/Compendium/bestiary/fey/token/arch-hag-xmm.webp#token)
+*Large fey, Neutral Evil*
+
+- **Armor Class** 20 
+- **Hit Points** 333 (`29d10 + 174`) 
+- **Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|24 (+7)|15 (+2)|23 (+6)|19 (+4)|19 (+4)|25 (+7)|
+
+- **Proficiency Bonus** +7
+- **Saving Throws** Dexterity +9, Wisdom +11
+- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +14, [Perception](/Compendium/rules/skills.md#Perception) +11, [Persuasion](/Compendium/rules/skills.md#Persuasion) +21
+- **Senses** [Truesight](/Compendium/rules/senses.md#Truesight) 60 ft., passive Perception 21
+- **Damage Resistances** cold, fire, psychic
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened)
+- **Languages** all
+- **Challenge** 21
+
+## Traits
+
+***Coven Magic.*** While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save DC 19): [Augury](/Compendium/spells/augury-xphb.md), [Find Familiar](/Compendium/spells/find-familiar-xphb.md), [Identify](/Compendium/spells/identify-xphb.md), [Locate Object](/Compendium/spells/locate-object-xphb.md), [Scrying](/Compendium/spells/scrying-xphb.md), or [Unseen Servant](/Compendium/spells/unseen-servant-xphb.md). The hag must finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) before using this trait to cast that spell again.
+
+
+***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the hag fails a saving throw, it can choose to succeed instead.
+
+***Magic Resistance.*** The hag has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+***Spiteful Escape.*** When the hag drops to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md), it dies only if it is within 30 feet of its anathema (a thing the DM chooses as the hag's most hated thing). Otherwise, the hag drops to 1 [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) and teleports to a harmless demiplane, and it can't return to the plane it left for `2d6` days. When the hag teleports away, each creature within 60 feet of the space it left is cursed. Until the curse ends, a creature has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on ability checks and saving throws, and the hag knows its location anywhere in the multiverse.
+
+## Actions
+
+***Multiattack.*** The hag makes two Spectral Claw attacks and uses Crackling Wave.
+
+***Spectral Claw.*** *Melee  or Ranged Attack Roll:* `+14`, reach 10 ft. or range 60 ft. *Hit:* 17 (`3d6 + 7`) Force damage. If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
+
+***Crackling Wave.*** *Dexterity Saving Throw:* DC 22, each creature in a 60-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* 32 (`5d12`) Lightning damage. *Success:* Half damage. *Failure or Success:* The target is cursed until the end of the hag's next turn. The target can't take Reactions until the curse ends.
+
+***Spellcasting.*** The hag casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 22):
+
+**At will:** [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md), [Dimension Door](/Compendium/spells/dimension-door-xphb.md), [Dispel Magic](/Compendium/spells/dispel-magic-xphb.md), [Hypnotic Pattern](/Compendium/spells/hypnotic-pattern-xphb.md)
+
+**2/day each:** [Mass Suggestion](/Compendium/spells/mass-suggestion-xphb.md), [Modify Memory](/Compendium/spells/modify-memory-xphb.md), [Plane Shift](/Compendium/spells/plane-shift-xphb.md)
+
+## Bonus Actions
+
+***Witch Strike.*** Each creature cursed by the hag and within 60 feet of it takes 14 (`4d6`) Lightning damage.
+
+## Reactions
+
+***Tongue Twister.*** The hag casts [Counterspell](/Compendium/spells/counterspell-xphb.md) in response to that spell's trigger, using the same spellcasting ability as Spellcasting. If the target fails its saving throw, it is cursed until the end of its next turn. Until the curse ends, the target can't cast spells with a Verbal component, and when it speaks, it says the opposite of what it means.
+
+
+## Legendary Actions
+
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the arch-hag can expend a use to take one of the following actions. The arch-hag regains all expended uses at the start of each of its turns.
+
+***Hag's Swipe.*** The hag makes one Spectral Claw attack.
+
+***Malicious Magic.*** The hag uses Spellcasting to cast [Dimension Door](/Compendium/spells/dimension-door-xphb.md) or [Hypnotic Pattern](/Compendium/spells/hypnotic-pattern-xphb.md). The hag can't take this action again until the start of its next turn.
+
+## Regional Effects
+
+The region containing an arch-hag's lair is altered by its presence, creating the following effects:
+
+- **Lapsus Linguae.** Creatures (excluding the hag and its allies) within 1 mile of the lair subtract `1d10` from any ability check they make when they take the [Influence](/Compendium/rules/actions.md#Influence) action.  
+- **Meddlesome Magic.** Whenever a creature other than the hag or its allies finishes a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) while within 1 mile of the lair, the next time that creature casts a spell using a spell slot, it also casts [Confusion](/Compendium/spells/confusion-xphb.md) centered on itself. The spell uses the creature's spellcasting ability and doesn't require [Concentration](/Compendium/rules/conditions.md#Concentration).  
+
+If the arch-hag is destroyed or moves its lair elsewhere, these effects end immediately.
 ```
 ^statblock
+
+## Environment
+
+any

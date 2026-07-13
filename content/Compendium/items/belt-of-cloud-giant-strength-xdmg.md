@@ -1,12 +1,12 @@
 ---
-title: Belt of Cloud Giant Strength
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/legendary
-aliases: 
+aliases:
 - "Belt of Cloud Giant Strength"
 ---
 # Belt of Cloud Giant Strength

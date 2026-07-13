@@ -1,49 +1,45 @@
 ---
-title: Celestial Spirit (Avenger)
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - monster/cr/
 - monster/size/large
 - monster/type/celestial
-statblock: inline
-aliases: ["Celestial Spirit (Avenger)"]
+aliases:
+- "Celestial Spirit (Avenger)"
 ---
 # Celestial Spirit (Avenger)
 *Source: Player's Handbook (2024) p. 323*  
 
-```statblock
-"name": "Celestial Spirit (Avenger) (XPHB)"
-"size": "Large"
-"type": "celestial"
-"alignment": "Neutral"
-"ac_class": "11 + the spell's level"
-"modifier": !!int "2"
-"stats":
-  - !!int "16"
-  - !!int "14"
-  - !!int "16"
-  - !!int "10"
-  - !!int "14"
-  - !!int "16"
-"speed": "30 ft., fly 40 ft."
-"damage_resistances": "radiant"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 12"
-"languages": "Celestial, understands the languages you know"
-"actions":
-  - "desc": "The spirit makes a number of attacks equal to half this spell's level\
-      \ (round down)."
-    "name": "Multiattack"
-  - "desc": "*Ranged Attack Roll:* Bonus equals your spell attack modifier, range\
-      \ 600 ft. *Hit:* 2d6 + 2 + the spell's level Radiant damage."
-    "name": "Radiant Bow"
-  - "desc": "The spirit touches another creature. The target regains Hit Points equal\
-      \ to 2d8 + the spell's level."
-    "name": "Healing Touch (1/Day)"
-"source":
-  - "XPHB"
+```ad-statblock
+title: Celestial Spirit (Avenger)
+*Large celestial, Neutral*
+
+- **Armor Class** (11 + the spell's level)
+- **Hit Points** 40 + 10 for each spell level above 5  (40 + 10 for each spell level above 5)
+- **Speed** 30 ft., fly 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|14 (+2)|16 (+3)|10 (+0)|14 (+2)|16 (+3)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Damage Resistances** radiant
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [frightened](/Compendium/rules/conditions.md#Frightened)
+- **Languages** Celestial, understands the languages you know
+- **Challenge** 
+
+## Actions
+
+***Multiattack.*** The spirit makes a number of attacks equal to half this spell's level (round down).
+
+***Radiant Bow.*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 600 ft. *Hit:* `2d6 + 2` + the spell's level Radiant damage.
+
+***Healing Touch (1/Day).*** The spirit touches another creature. The target regains Hit Points equal to `2d8` + the spell's level.
 ```
 ^statblock

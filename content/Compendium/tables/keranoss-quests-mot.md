@@ -1,12 +1,11 @@
 ---
-title: "Keranos's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Keranos's Quests
+- "Keranos's Quests"
 ---
 # Keranos's Quests
 *Source: Mythic Odysseys of Theros p. 140* 

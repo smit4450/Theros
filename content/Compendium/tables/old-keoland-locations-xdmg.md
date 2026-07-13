@@ -1,12 +1,11 @@
 ---
-title: Old Keoland Locations
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Old Keoland Locations
+- "Old Keoland Locations"
 ---
 # Old Keoland Locations
 *Source: Dungeon Master's Guide (2024) p. 169* 

@@ -1,12 +1,12 @@
 ---
-title: Common Wine (bottle)
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/food-and-drink
 - item/rarity/none
-aliases: 
+aliases:
 - "Common Wine (bottle)"
 ---
 # Common Wine (bottle)

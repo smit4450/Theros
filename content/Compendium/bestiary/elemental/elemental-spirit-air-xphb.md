@@ -1,53 +1,48 @@
 ---
-title: Elemental Spirit (Air)
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - monster/cr/
 - monster/size/medium
 - monster/type/elemental
-statblock: inline
-aliases: ["Elemental Spirit (Air)"]
+aliases:
+- "Elemental Spirit (Air)"
 ---
 # Elemental Spirit (Air)
 *Source: Player's Handbook (2024) p. 325*  
 
-```statblock
-"name": "Elemental Spirit (Air) (XPHB)"
-"size": "Medium"
-"type": "elemental"
-"alignment": "Neutral"
-"ac_class": "11 + the spell's level"
-"modifier": !!int "2"
-"stats":
-  - !!int "18"
-  - !!int "15"
-  - !!int "17"
-  - !!int "4"
-  - !!int "10"
-  - !!int "16"
-"speed": "40 ft., fly 40 ft. (hover)"
-"damage_resistances": "lightning, thunder"
-"damage_immunities": "poison"
-"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]]"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 10"
-"languages": "Primordial, understands the languages you know"
-"traits":
-  - "desc": "The spirit can move through a space as narrow as 1 inch wide without\
-      \ it counting as Difficult Terrain."
-    "name": "Amorphous Form"
-"actions":
-  - "desc": "The spirit makes a number of Slam attacks equal to half this spell's\
-      \ level (round down)."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
-      \ ft.. *Hit:* 1d10 + 4 + the spell's level Bludgeoning damage."
-    "name": "Slam"
-"source":
-  - "XPHB"
+```ad-statblock
+title: Elemental Spirit (Air)
+*Medium elemental, Neutral*
+
+- **Armor Class** (11 + the spell's level)
+- **Hit Points** 50 + 10 for each spell level above 4  (50 + 10 for each spell level above 4)
+- **Speed** 40 ft., fly 40 ft. (hover)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|17 (+3)| 4 (-3)|10 (+0)|16 (+3)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Resistances** lightning, thunder
+- **Damage Immunities** poison
+- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned)
+- **Languages** Primordial, understands the languages you know
+- **Challenge** 
+
+## Traits
+
+***Amorphous Form.*** The spirit can move through a space as narrow as 1 inch wide without it counting as Difficult Terrain.
+
+## Actions
+
+***Multiattack.*** The spirit makes a number of Slam attacks equal to half this spell's level (round down).
+
+***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft.. *Hit:* `1d10 + 4` + the spell's level Bludgeoning damage.
 ```
 ^statblock

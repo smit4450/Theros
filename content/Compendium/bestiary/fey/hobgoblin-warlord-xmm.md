@@ -1,9 +1,9 @@
 ---
-title: Hobgoblin Warlord
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/6
 - monster/environment/acheron
 - monster/environment/desert
@@ -15,13 +15,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fey/goblinoid
-statblock: inline
-aliases: ["Hobgoblin Warlord"]
+aliases:
+- "Hobgoblin Warlord"
 ---
 # Hobgoblin Warlord
 *Source: Monster Manual (2024) p. 171*  
+![](/Compendium/bestiary/fey/img/hobgoblin-warlord.webp#right)
 
-![](Compendium/bestiary/fey/img/hobgoblin-warlord.webp#right|850)  
 Hobgoblin warlords lead armies of hobgoblins and their allies, using their experience and strategic minds to command amid the ebb and flow of battle.
 
 ## Hobgoblins
@@ -29,7 +29,7 @@ Hobgoblin warlords lead armies of hobgoblins and their allies, using their exper
 *Conquerors of Every Horizon*
 
 - **Habitat.** Desert, Forest, Grassland, Hill, Mountain, Planar (Acheron), Underdark  
-- **Treasure.** [[random-magic-items-armaments|Armaments]], Individual  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Hobgoblins embody the primal urge to grow and spread, expressing such drives by bending the world to their whims. Lone hobgoblins claim woodland territories and plunder the wilds. In groups, they form hierarchical, martial societies bent on conquering lands and stripping them of resources to serve their expansionist zeal.
 
@@ -52,60 +52,50 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 | 5 | Convince devils, dragons, or hobgoblins from Acheron to invade an enemy land. |
 | 6 | Help shortsighted merchants undermine a government or despoil the environment. |
 ^hobgoblin-strategies
-![](Compendium/bestiary/fey/img/hobgoblins.webp#center)  
+
+![](/Compendium/bestiary/fey/img/hobgoblins.webp#center)
+
 ## Statblock
 
-```statblock
-"name": "Hobgoblin Warlord (XMM)"
-"size": "Medium"
-"type": "fey"
-"subtype": "goblinoid"
-"alignment": "Lawful Evil"
-"ac": !!int "20"
-"hp": !!int "112"
-"hit_dice": "15d8 + 45"
-"modifier": !!int "5"
-"stats":
-  - !!int "17"
-  - !!int "14"
-  - !!int "16"
-  - !!int "14"
-  - !!int "11"
-  - !!int "15"
-"speed": "30 ft."
-"saves":
-  - "dexterity": !!int "5"
-  - "intelligence": !!int "5"
-  - "wisdom": !!int "3"
-  - "charisma": !!int "5"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 10"
-"languages": "Common, Goblin"
-"cr": "6"
-"traits":
-  - "desc": "While in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the hobgoblin, the hobgoblin and its allies have [[advantage-xphb|Advantage]]\
-      \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
-      \ [[conditions#Incapacitated|Incapacitated]] condition."
-    "name": "Aura of Authority"
-"actions":
-  - "desc": "The hobgoblin makes three attacks, using Javelin or Longsword in any\
-      \ combination."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft.\
-      \ *Hit:* 11 (2d6 + 4) Piercing damage, and the target's [[speed-xphb|Speed]]\
-      \ decreases by 10 feet until the start of the hobgoblin's next turn."
-    "name": "Javelin"
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 12 (2d8 + 3) Slashing\
-      \ damage."
-    "name": "Longsword"
-"reactions":
-  - "desc": "Trigger: The hobgoblin is hit by a melee attack roll while holding a\
-      \ weapon. _Response:_ The hobgoblin adds 3 to its AC against that attack, possibly\
-      \ causing it to miss."
-    "name": "Parry"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/fey/token/hobgoblin-warlord-xmm.webp"
+```ad-statblock
+title: Hobgoblin Warlord
+![](/Compendium/bestiary/fey/token/hobgoblin-warlord-xmm.webp#token)
+*Medium fey (goblinoid), Lawful Evil*
+
+- **Armor Class** 20 
+- **Hit Points** 112 (`15d8 + 45`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|14 (+2)|16 (+3)|14 (+2)|11 (+0)|15 (+2)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +5, Intelligence +5, Wisdom +3, Charisma +5
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Gear** nine [javelins](/Compendium/items/javelin-xphb.md), [longsword](/Compendium/items/longsword-xphb.md), [plate armor](/Compendium/items/plate-armor-xphb.md), [shield](/Compendium/items/shield-xphb.md)
+- **Languages** Common, Goblin
+- **Challenge** 6
+
+## Traits
+
+***Aura of Authority.*** While in a 30-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the hobgoblin, the hobgoblin and its allies have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls and saving throws, provided the hobgoblin doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Multiattack.*** The hobgoblin makes three attacks, using Javelin or Longsword in any combination.
+
+***Javelin.*** *Melee  or Ranged Attack Roll:* `+6`, reach 5 ft. or range 30/120 ft. *Hit:* 11 (`2d6 + 4`) Piercing damage, and the target's [Speed](/Compendium/rules/variant-rules/speed-xphb.md) decreases by 10 feet until the start of the hobgoblin's next turn.
+
+***Longsword.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 12 (`2d8 + 3`) Slashing damage.
+
+## Reactions
+
+***Parry.*** Trigger: The hobgoblin is hit by a melee attack roll while holding a weapon. _Response:_ The hobgoblin adds 3 to its AC against that attack, possibly causing it to miss.
 ```
 ^statblock
+
+## Environment
+
+desert, forest, grassland, hill, mountain, planar, acheron, underdark

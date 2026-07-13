@@ -1,21 +1,21 @@
 ---
-title: Club
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/melee
 - item/weapon/simple
-aliases: 
+aliases:
 - "Club"
 ---
 # Club
 *Weapon*  
-![](Compendium/items/img/club.webp#right)
+![](/Compendium/items/img/club.webp#right)
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [[item-properties#Light|Light]]
+- **Properties**: [Light](/Compendium/rules/item-properties.md#Light)
 - **Cost**: 1 sp
 - **Weight**: 2.0 lbs.
 

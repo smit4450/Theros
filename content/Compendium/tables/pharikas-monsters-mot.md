@@ -1,12 +1,11 @@
 ---
-title: "Pharika's Monsters"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Pharika's Monsters
+- "Pharika's Monsters"
 ---
 # Pharika's Monsters
 *Source: Mythic Odysseys of Theros p. 160* 
@@ -15,16 +14,16 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/4 | Nyxborn [[giant-venomous-snake-xmm|giant poisonous snake]]* |
-| 1/2 | [[amphisbaena-gos|Amphisbaena]] |
-| 1/2 | [[cockatrice-xmm|Cockatrice]] |
-| 2 | [[swarm-of-venomous-snakes-xmm|Swarm of poisonous snakes]] |
-| 3 | [[basilisk-xmm|Basilisk]]* |
-| 6 | [[medusa-xmm|Medusa]]* |
-| 8 | [[assassin-xmm|Assassin]] |
-| 8 | [[hydra-xmm|Hydra]] |
-| 8 | [[spirit-naga-xmm|Spirit naga]] |
-| 17 | [[hythonia-legendary-mot|Hythonia]] |
+| 1/4 | Nyxborn [giant poisonous snake](/Compendium/bestiary/beast/giant-venomous-snake-xmm.md)* |
+| 1/2 | Amphisbaena |
+| 1/2 | [Cockatrice](/Compendium/bestiary/monstrosity/cockatrice-xmm.md) |
+| 2 | [Swarm of poisonous snakes](/Compendium/bestiary/beast/swarm-of-venomous-snakes-xmm.md) |
+| 3 | [Basilisk](/Compendium/bestiary/monstrosity/basilisk-xmm.md)* |
+| 6 | [Medusa](/Compendium/bestiary/monstrosity/medusa-xmm.md)* |
+| 8 | [Assassin](/Compendium/bestiary/humanoid/assassin-xmm.md) |
+| 8 | [Hydra](/Compendium/bestiary/monstrosity/hydra-xmm.md) |
+| 8 | [Spirit naga](/Compendium/bestiary/fiend/spirit-naga-xmm.md) |
+| 17 | [Hythonia](/Compendium/bestiary/npc/hythonia-mot.md) |
 ^pharikas-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

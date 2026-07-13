@@ -1,12 +1,11 @@
 ---
-title: Adventure Patrons; Patron Hooks
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Adventure Patrons; Patron Hooks
+- "Adventure Patrons; Patron Hooks"
 ---
 # Adventure Patrons; Patron Hooks
 *Source: Dungeon Master's Guide (2024) p. 110* 

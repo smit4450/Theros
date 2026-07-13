@@ -1,17 +1,16 @@
 ---
-title: Creature Type
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Creature Type
+- "Creature Type"
 ---
 # Creature Type
 *Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-Every creature, including every [[player-character-xphb|player character]], has a tag in the rules that identifies the type of creature it is. Most [[player-character-xphb|player characters]] are of the Humanoid type. These are the game's creature types:
+Every creature, including every [player character](/Compendium/rules/variant-rules/player-character-xphb.md), has a tag in the rules that identifies the type of creature it is. Most [player characters](/Compendium/rules/variant-rules/player-character-xphb.md) are of the Humanoid type. These are the game's creature types:
 
 - Aberration  
 - Beast  

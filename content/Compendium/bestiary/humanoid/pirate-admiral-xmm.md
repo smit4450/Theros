@@ -1,20 +1,20 @@
 ---
-title: Pirate Admiral
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/12
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Pirate Admiral"]
+aliases:
+- "Pirate Admiral"
 ---
 # Pirate Admiral
 *Source: Monster Manual (2024) p. 242*  
+![](/Compendium/bestiary/humanoid/img/pirates.webp#right)
 
-![](Compendium/bestiary/humanoid/img/pirates.webp#right|850)  
 Pirate admirals command whole pirate fleets. They undertake audacious ventures, such as challenging the navies of coastal nations, hunting legendary sea creatures, or carving out their own pirate kingdoms. Pirate admirals might launch their fleets from hidden fortresses where they hoard their treasure—or keep maps to where they've hidden their riches. Some pirate admirals ally with the followers of oceanic deities, underwater dwellers, and sea monsters, as well as their fellow scalawags.
 
 ## Pirates
@@ -22,7 +22,7 @@ Pirate admirals command whole pirate fleets. They undertake audacious ventures, 
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-implements|Implements]]  
+- **Treasure.** Individual, [Implements](/Compendium/tables/random-magic-items-implements.md)  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -45,66 +45,51 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 | 7 | Skull | A tattoo |
 | 8 | Whale | A treasure chest |
 ^pirate-flags
+
 ## Statblock
 
-```statblock
-"name": "Pirate Admiral (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "20"
-"hp": !!int "182"
-"hit_dice": "28d8 + 56"
-"modifier": !!int "10"
-"stats":
-  - !!int "14"
-  - !!int "22"
-  - !!int "14"
-  - !!int "12"
-  - !!int "14"
-  - !!int "19"
-"speed": "30 ft."
-"saves":
-  - "strength": !!int "6"
-  - "dexterity": !!int "10"
-  - "wisdom": !!int "6"
-  - "charisma": !!int "8"
-"skillsaves":
-  - "name": "[[skills#Acrobatics|Acrobatics]]"
-    "desc": "+10"
-  - "name": "[[skills#Athletics|Athletics]]"
-    "desc": "+6"
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
-"senses": "passive Perception 16"
-"languages": "Common plus one other language"
-"cr": "12"
-"actions":
-  - "desc": "The pirate makes three attacks, using Scimitar or Pistol in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 16 (3d6 + 6) Slashing\
-      \ damage plus 7 (2d6) Poison damage, and the target suffers one of the following\
-      \ effects of the pirate's choice:\n\n- **Awestruck.** The target has the [[conditions#Charmed|Charmed]]\
-      \ condition until the start of the pirate's next turn.  \n- **Poison.** The\
-      \ target has the [[conditions#Poisoned|Poisoned]] condition\
-      \ until the start of the pirate's next turn.  "
-    "name": "Scimitar"
-  - "desc": "*Ranged Attack Roll:* +10, range 30/90 ft. *Hit:* 28 (4d10 + 6) Piercing\
-      \ damage."
-    "name": "Pistol"
-"bonus_actions":
-  - "desc": "The pirate chooses up to three other creatures it can see within 30 feet.\
-      \ Until the start of the pirate's next turn, the targets have [[advantage-xphb|Advantage]]\
-      \ on attack rolls and saving throws."
-    "name": "Rally (1/Day)"
-"reactions":
-  - "desc": "Trigger: The pirate is hit by a melee attack roll while holding a weapon.\
-      \ _Response:_ The pirate adds 4 to its AC against melee attack rolls (including\
-      \ the triggering attack) until the start of its next turn, possibly causing\
-      \ the attacks to miss."
-    "name": "Defensive Stance"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/humanoid/token/pirate-admiral-xmm.webp"
+```ad-statblock
+title: Pirate Admiral
+![](/Compendium/bestiary/humanoid/token/pirate-admiral-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 20 
+- **Hit Points** 182 (`28d8 + 56`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|22 (+6)|14 (+2)|12 (+1)|14 (+2)|19 (+4)|
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Strength +6, Dexterity +10, Wisdom +6, Charisma +8
+- **Skills** [Acrobatics](/Compendium/rules/skills.md#Acrobatics) +10, [Athletics](/Compendium/rules/skills.md#Athletics) +6, [Perception](/Compendium/rules/skills.md#Perception) +6
+- **Senses** passive Perception 16
+- **Gear** [pistol](/Compendium/items/pistol-xphb.md), [scimitar](/Compendium/items/scimitar-xphb.md)
+- **Languages** Common plus one other language
+- **Challenge** 12
+
+## Actions
+
+***Multiattack.*** The pirate makes three attacks, using Scimitar or Pistol in any combination.
+
+***Scimitar.*** *Melee Attack Roll:* `+10`, reach 5 ft. *Hit:* 16 (`3d6 + 6`) Slashing damage plus 7 (`2d6`) Poison damage, and the target suffers one of the following effects of the pirate's choice:
+
+- **Awestruck.** The target has the [Charmed](/Compendium/rules/conditions.md#Charmed) condition until the start of the pirate's next turn.  
+- **Poison.** The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the start of the pirate's next turn.  
+
+***Pistol.*** *Ranged Attack Roll:* `+10`, range 30/90 ft. *Hit:* 28 (`4d10 + 6`) Piercing damage.
+
+## Bonus Actions
+
+***Rally (1/Day).*** The pirate chooses up to three other creatures it can see within 30 feet. Until the start of the pirate's next turn, the targets have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls and saving throws.
+
+## Reactions
+
+***Defensive Stance.*** Trigger: The pirate is hit by a melee attack roll while holding a weapon. _Response:_ The pirate adds 4 to its AC against melee attack rolls (including the triggering attack) until the start of its next turn, possibly causing the attacks to miss.
 ```
 ^statblock
+
+## Environment
+
+any

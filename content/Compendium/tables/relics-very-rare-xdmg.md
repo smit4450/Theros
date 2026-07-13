@@ -1,12 +1,11 @@
 ---
-title: Relics - Very Rare
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Relics - Very Rare
+- "Relics - Very Rare"
 ---
 # Relics - Very Rare
 *Source: Dungeon Master's Guide (2024) p. 330* 
@@ -15,22 +14,22 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–05 | [[2-armor-xdmg|Armor, +2]] |
-| 06–10 | [[candle-of-invocation-xdmg|Candle of Invocation]] |
-| 11–15 | [[cauldron-of-rebirth-xdmg|Cauldron of Rebirth]] |
-| 16–20 | [[enspelled-staff-xdmg|Enspelled Staff]] (level 4 or 5 spell) |
-| 21–25 | [[horn-of-valhalla-bronze-xdmg|Horn of Valhalla (bronze)]] |
-| 26–30 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-insight-xdmg|insight]]) |
-| 31–35 | [[manual-of-bodily-health-xdmg|Manual of Bodily Health]] |
-| 36–43 | [[potion-of-supreme-healing-xdmg|Potion of Healing (supreme)]] |
-| 44–50 | [[potion-of-vitality-xdmg|Potion of Vitality]] |
-| 51–55 | [[rod-of-alertness-xdmg|Rod of Alertness]] |
-| 56–65 | [[spell-scroll-xdmg|Spell Scroll]] ([[spell-scroll-level-6-xdmg|level 6]], [[spell-scroll-level-7-xdmg|level 7]], or [[spell-scroll-level-8-xdmg|level 8]] spell) |
-| 66–70 | [[spirit-board-xdmg|Spirit Board]] |
-| 71–75 | [[staff-of-fire-xdmg|Staff of Fire]] |
-| 76–80 | [[staff-of-frost-xdmg|Staff of Frost]] |
-| 81–85 | [[staff-of-striking-xdmg|Staff of Striking]] |
-| 86–90 | [[staff-of-thunder-and-lightning-xdmg|Staff of Thunder and Lightning]] |
-| 91–95 | [[tome-of-understanding-xdmg|Tome of Understanding]] |
-| 96–00 | [[3-wand-of-the-war-mage-xdmg|Wand of the War Mage, +3]] |
+| 01–05 | [Armor, +2](/Compendium/items/2-armor-xdmg.md) |
+| 06–10 | [Candle of Invocation](/Compendium/items/candle-of-invocation-xdmg.md) |
+| 11–15 | [Cauldron of Rebirth](/Compendium/items/cauldron-of-rebirth-xdmg.md) |
+| 16–20 | [Enspelled Staff](/Compendium/items/enspelled-staff-xdmg.md) ([level 4](/Compendium/items/enspelled-staff-level-4-xdmg.md) or [5](/Compendium/items/enspelled-staff-level-5-xdmg.md) spell) |
+| 21–25 | [Horn of Valhalla (bronze)](/Compendium/items/horn-of-valhalla-bronze-xdmg.md) |
+| 26–30 | [Ioun Stone](/Compendium/items/ioun-stone-xdmg.md) ([insight](/Compendium/items/ioun-stone-insight-xdmg.md)) |
+| 31–35 | [Manual of Bodily Health](/Compendium/items/manual-of-bodily-health-xdmg.md) |
+| 36–43 | [Potion of Healing (supreme)](/Compendium/items/potion-of-supreme-healing-xdmg.md) |
+| 44–50 | [Potion of Vitality](/Compendium/items/potion-of-vitality-xdmg.md) |
+| 51–55 | [Rod of Alertness](/Compendium/items/rod-of-alertness-xdmg.md) |
+| 56–65 | [Spell Scroll](/Compendium/items/spell-scroll-xdmg.md) ([level 6](/Compendium/items/spell-scroll-level-6-xdmg.md), [level 7](/Compendium/items/spell-scroll-level-7-xdmg.md), or [level 8](/Compendium/items/spell-scroll-level-8-xdmg.md) spell) |
+| 66–70 | [Spirit Board](/Compendium/items/spirit-board-xdmg.md) |
+| 71–75 | [Staff of Fire](/Compendium/items/staff-of-fire-xdmg.md) |
+| 76–80 | [Staff of Frost](/Compendium/items/staff-of-frost-xdmg.md) |
+| 81–85 | [Staff of Striking](/Compendium/items/staff-of-striking-xdmg.md) |
+| 86–90 | [Staff of Thunder and Lightning](/Compendium/items/staff-of-thunder-and-lightning-xdmg.md) |
+| 91–95 | [Tome of Understanding](/Compendium/items/tome-of-understanding-xdmg.md) |
+| 96–00 | [Wand of the War Mage, +3](/Compendium/items/3-wand-of-the-war-mage-xdmg.md) |
 ^relics-very-rare

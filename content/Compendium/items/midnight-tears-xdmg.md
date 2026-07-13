@@ -1,21 +1,21 @@
 ---
-title: Midnight Tears
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/gear/
 - item/rarity/none
-aliases: 
+aliases:
 - "Midnight Tears"
 ---
 # Midnight Tears
 *Adventuring gear, poison (ingested)*  
 
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [Poison](/Compendium/rules/item-properties.md#Poison)
 - **Cost**: 1,500 gp
 
-A creature that ingests Midnight Tears suffers no effect until the stroke of midnight. Any effect that ends the [[conditions#Poisoned|Poisoned]] condition neutralizes this poison. If the poison hasn't been neutralized before midnight, the creature makes a DC 17 Constitution saving throw, taking 31 (`9d6`) Poison damage on a failed save or half as much damage on a successful one.
+A creature that ingests Midnight Tears suffers no effect until the stroke of midnight. Any effect that ends the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition neutralizes this poison. If the poison hasn't been neutralized before midnight, the creature makes a DC 17 Constitution saving throw, taking 31 (`9d6`) Poison damage on a failed save or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

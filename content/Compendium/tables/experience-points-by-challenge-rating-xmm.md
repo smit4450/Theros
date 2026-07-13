@@ -1,12 +1,11 @@
 ---
-title: Experience Points by Challenge Rating
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 aliases:
-- Experience Points by Challenge Rating
+- "Experience Points by Challenge Rating"
 ---
 # Experience Points by Challenge Rating
 *Source: Monster Manual (2024) p. 8. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

@@ -1,12 +1,12 @@
 ---
-title: "Poisoner's Kit"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/tool
 - item/rarity/none
-aliases: 
+aliases:
 - "Poisoner's Kit"
 ---
 # Poisoner's Kit
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Detect a poisoned object (DC 10)  
-- **Craft.** [[basic-poison-xphb|Basic Poison]]  
+- **Craft.** [Basic Poison](/Compendium/items/basic-poison-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

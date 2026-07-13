@@ -1,17 +1,17 @@
 ---
-title: Robe of the Archmagi
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/legendary
-aliases: 
+aliases:
 - "Robe of the Archmagi"
 ---
 # Robe of the Archmagi
 *Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
-![](Compendium/items/img/robe-of-the-archmagi.webp#right)
+![](/Compendium/items/img/robe-of-the-archmagi.webp#right)
 
 
 This elegant garment is made from exquisite cloth and adorned with runes.
@@ -20,11 +20,11 @@ You gain these benefits while wearing the robe.
 
 ## Armor
 
-If you aren't wearing armor, your base [[armor-class-xphb|Armor Class]] is 15 plus your Dexterity modifier.
+If you aren't wearing armor, your base [Armor Class](/Compendium/rules/variant-rules/armor-class-xphb.md) is 15 plus your Dexterity modifier.
 
 ## Magic Resistance
 
-You have [[advantage-xphb|Advantage]] on saving throws against spells and other magical effects.
+You have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
 
 ## War Mage
 

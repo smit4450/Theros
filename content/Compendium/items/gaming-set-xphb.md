@@ -1,12 +1,12 @@
 ---
-title: Gaming Set
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/gaming-set
 - item/rarity/none
-aliases: 
+aliases:
 - "Gaming Set"
 ---
 # Gaming Set
@@ -16,9 +16,9 @@ aliases:
 
 **Items in this group:**
 
-- [[dice-set-xphb|Dice Set]]
-- [[dragonchess-set-xphb|Dragonchess Set]]
-- [[playing-cards-xphb|Playing Cards]]
-- [[three-dragon-ante-set-xphb|Three-Dragon Ante Set]]
+- [Dice Set](/Compendium/items/dice-set-xphb.md)
+- [Dragonchess Set](/Compendium/items/dragonchess-set-xphb.md)
+- [Playing Cards](/Compendium/items/playing-cards-xphb.md)
+- [Three-Dragon Ante Set](/Compendium/items/three-dragon-ante-set-xphb.md)
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,19 +1,19 @@
 ---
-title: Wyvern Poison
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/gear/
 - item/rarity/none
-aliases: 
+aliases:
 - "Wyvern Poison"
 ---
 # Wyvern Poison
 *Adventuring gear, poison (injury)*  
 
 
-- **Properties**: [[item-properties#Poison|Poison]]
+- **Properties**: [Poison](/Compendium/rules/item-properties.md#Poison)
 - **Cost**: 1,200 gp
 
 A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, taking 24 (`7d6`) Poison damage on a failed save or half as much damage on a successful one.

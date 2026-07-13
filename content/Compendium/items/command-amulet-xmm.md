@@ -1,12 +1,12 @@
 ---
-title: Command Amulet
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - item/rarity/unknown/magic
 - item/wondrous/other
-aliases: 
+aliases:
 - "Command Amulet"
 ---
 # Command Amulet
@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-Each [[shield-guardian-xmm|Shield Guardian]] is magically bound to an amulet. While the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (round up) is transferred to the guardian.
+Each [Shield Guardian](/Compendium/bestiary/construct/shield-guardian-xmm.md) is magically bound to an amulet. While the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (round up) is transferred to the guardian.
 
 A shield guardian's command amulet might be passed down through a magic-using society or family for generations.
 

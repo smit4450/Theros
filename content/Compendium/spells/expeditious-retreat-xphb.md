@@ -1,9 +1,10 @@
 ---
-title: Expeditious Retreat
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
+- spell/class/artificer
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/warlock
@@ -15,6 +16,7 @@ tags:
 - spell/subclass/college-of-lore
 - spell/subclass/eldritch-knight
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Fighter (Eldritch Knight)
@@ -22,7 +24,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Expeditious Retreat"]
+aliases:
+- "Expeditious Retreat"
 ---
 # Expeditious Retreat
 *1st-level, Transmutation*  
@@ -33,8 +36,8 @@ aliases: ["Expeditious Retreat"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-You take the [[actions#Dash|Dash]] action, and until the spell ends, you can take that action again as a [[bonus-action-xphb|Bonus Action]].
+You take the [Dash](/Compendium/rules/actions.md#Dash) action, and until the spell ends, you can take that action again as a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Artificer](/Compendium/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

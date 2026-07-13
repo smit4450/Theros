@@ -1,9 +1,9 @@
 ---
-title: Antipathy/Sympathy
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/druid
 - spell/class/wizard
@@ -13,7 +13,8 @@ classes:
 - Bard
 - Druid
 - Wizard
-aliases: ["Antipathy/Sympathy"]
+aliases:
+- "Antipathy/Sympathy"
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  
@@ -26,15 +27,15 @@ aliases: ["Antipathy/Sympathy"]
 
 As you cast the spell, choose whether it creates antipathy or sympathy, and target one creature or object that is Huge or smaller. Then specify a kind of creature, such as red dragons, goblins, or vampires. A creature of the chosen kind makes a Wisdom saving throw when it comes within 120 feet of the target. Your choice of antipathy or sympathy determines what happens to a creature when it fails that save:
 
-- **Antipathy.** The creature has the [[conditions#Frightened|Frightened]] condition. The [[conditions#Frightened|Frightened]] creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.  
-- **Sympathy.** The creature has the [[conditions#Charmed|Charmed]] condition. The [[conditions#Charmed|Charmed]] creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the [[conditions#Charmed|Charmed]] creature, that creature can make a Wisdom saving throw to end the effect, as described below.  
+- **Antipathy.** The creature has the [Frightened](/Compendium/rules/conditions.md#Frightened) condition. The [Frightened](/Compendium/rules/conditions.md#Frightened) creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.  
+- **Sympathy.** The creature has the [Charmed](/Compendium/rules/conditions.md#Charmed) condition. The [Charmed](/Compendium/rules/conditions.md#Charmed) creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the [Charmed](/Compendium/rules/conditions.md#Charmed) creature, that creature can make a Wisdom saving throw to end the effect, as described below.  
 
 ## Ending the Effect
 
-If the [[conditions#Frightened|Frightened]] or [[conditions#Charmed|Charmed]] creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
+If the [Frightened](/Compendium/rules/conditions.md#Frightened) or [Charmed](/Compendium/rules/conditions.md#Charmed) creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
 
 ## Summary
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

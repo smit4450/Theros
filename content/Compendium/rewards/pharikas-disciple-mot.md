@@ -1,13 +1,12 @@
 ---
-title: "Pharika's Disciple"
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - reward/piety-trait
 aliases:
-- Pharika's Disciple
+- "Pharika's Disciple"
 ---
 # Pharika's Disciple
 *Piety Trait*  

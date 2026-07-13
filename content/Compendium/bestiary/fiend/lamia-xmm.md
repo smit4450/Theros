@@ -1,26 +1,26 @@
 ---
-title: Lamia
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/4
 - monster/environment/desert
 - monster/size/large
 - monster/type/fiend
-statblock: inline
-aliases: ["Lamia"]
+aliases:
+- "Lamia"
 ---
 # Lamia
 *Source: Monster Manual (2024) p. 192. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/fiend/img/lamia.webp#right)
 
-![](Compendium/bestiary/fiend/img/lamia.webp#right|850)  
 ## Lamia
 
 *Accursed Bargainer and Ruin Raider*
 
 - **Habitat.** Desert  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Legends say the first lamia was an ambitious ruler who made a sinister bargain with the demon lord Graz'zt for everlasting majesty. As a consequence, the ruler was transformed into a lamia, a monster with the body of a lion and an accursed touch.
 
@@ -37,58 +37,47 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
 | 5 | Remove a magic item's curse, then return it. |
 | 6 | Slay a monster and retrieve a specific organ. |
 ^lamia-pacts
-```statblock
-"name": "Lamia (XMM)"
-"size": "Large"
-"type": "fiend"
-"alignment": "Chaotic Evil"
-"ac": !!int "13"
-"hp": !!int "97"
-"hit_dice": "13d10 + 26"
-"modifier": !!int "1"
-"stats":
-  - !!int "16"
-  - !!int "13"
-  - !!int "15"
-  - !!int "14"
-  - !!int "15"
-  - !!int "16"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[[skills#Deception|Deception]]"
-    "desc": "+7"
-  - "name": "[[skills#Insight|Insight]]"
-    "desc": "+4"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 12"
-"languages": "Abyssal, Common"
-"cr": "4"
-"actions":
-  - "desc": "The lamia makes two Claw attacks. It can replace one attack with a use\
-      \ of Corrupting Touch."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing\
-      \ damage plus 7 (2d6) Psychic damage."
-    "name": "Claw"
-  - "desc": "*Wisdom Saving Throw:* DC 13, one creature the lamia can see within 5\
-      \ feet. *Failure:* 13 (3d8) Psychic damage, and the target is cursed for 1\
-      \ hour. Until the curse ends, the target has the [[conditions#Charmed|Charmed]]\
-      \ and [[conditions#Poisoned|Poisoned]] conditions."
-    "name": "Corrupting Touch"
-  - "desc": "The lamia casts one of the following spells, requiring no Material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
-      \ will:** [[disguise-self-xphb|Disguise Self]] (can appear\
-      \ as a Large or Medium biped), [[minor-illusion-xphb|Minor Illusion]]\n\
-      \n**1/day each:** [[geas-xphb|Geas]], [[major-image-xphb|Major Image]],\
-      \ [[scrying-xphb|Scrying]]"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The lamia jumps up to 30 feet by spending 10 feet of movement."
-    "name": "Leap"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/fiend/token/lamia-xmm.webp"
+
+```ad-statblock
+title: Lamia
+![](/Compendium/bestiary/fiend/token/lamia-xmm.webp#token)
+*Large fiend, Chaotic Evil*
+
+- **Armor Class** 13 
+- **Hit Points** 97 (`13d10 + 26`) 
+- **Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +7, [Insight](/Compendium/rules/skills.md#Insight) +4, [Stealth](/Compendium/rules/skills.md#Stealth) +5
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Languages** Abyssal, Common
+- **Challenge** 4
+
+## Actions
+
+***Multiattack.*** The lamia makes two Claw attacks. It can replace one attack with a use of Corrupting Touch.
+
+***Claw.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Slashing damage plus 7 (`2d6`) Psychic damage.
+
+***Corrupting Touch.*** *Wisdom Saving Throw:* DC 13, one creature the lamia can see within 5 feet. *Failure:* 13 (`3d8`) Psychic damage, and the target is cursed for 1 hour. Until the curse ends, the target has the [Charmed](/Compendium/rules/conditions.md#Charmed) and [Poisoned](/Compendium/rules/conditions.md#Poisoned) conditions.
+
+***Spellcasting.*** The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
+
+**At will:** [Disguise Self](/Compendium/spells/disguise-self-xphb.md) (can appear as a Large or Medium biped), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md)
+
+**1/day each:** [Geas](/Compendium/spells/geas-xphb.md), [Major Image](/Compendium/spells/major-image-xphb.md), [Scrying](/Compendium/spells/scrying-xphb.md)
+
+## Bonus Actions
+
+***Leap.*** The lamia jumps up to 30 feet by spending 10 feet of movement.
 ```
 ^statblock
+
+## Environment
+
+desert

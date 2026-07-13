@@ -1,18 +1,18 @@
 ---
-title: Mace
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/melee
 - item/weapon/simple
-aliases: 
+aliases:
 - "Mace"
 ---
 # Mace
 *Weapon*  
-![](Compendium/items/img/mace.webp#right)
+![](/Compendium/items/img/mace.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Cost**: 5 gp

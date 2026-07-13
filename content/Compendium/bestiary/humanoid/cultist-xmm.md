@@ -1,20 +1,20 @@
 ---
-title: Cultist
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-8
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
-statblock: inline
-aliases: ["Cultist"]
+aliases:
+- "Cultist"
 ---
 # Cultist
-*Source: Monster Manual (2024) p. 84, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/humanoid/img/cultists.webp#right)
 
-![](Compendium/bestiary/humanoid/img/cultists.webp#right|850)  
 Cultists devote themselves to their faith's leaders and otherworldly masters. While this zeal grants cultists no magical powers, it gives them remarkable resolve in the face of threats. Cultists perform much of a cult's mundane work, which might include evangelism, criminal acts, or serving as sacrifices.
 
 ## Cultists
@@ -22,7 +22,7 @@ Cultists devote themselves to their faith's leaders and otherworldly masters. Wh
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [[random-magic-items-relics|Relics]]  
+- **Treasure.** Individual, [Relics](/Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -70,42 +70,36 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
+
 ## Statblock
 
-```statblock
-"name": "Cultist (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "12"
-"hp": !!int "9"
-"hit_dice": "2d8"
-"modifier": !!int "1"
-"stats":
-  - !!int "11"
-  - !!int "12"
-  - !!int "10"
-  - !!int "10"
-  - !!int "11"
-  - !!int "10"
-"speed": "30 ft."
-"saves":
-  - "wisdom": !!int "2"
-"skillsaves":
-  - "name": "[[skills#Deception|Deception]]"
-    "desc": "+2"
-  - "name": "[[skills#Religion|Religion]]"
-    "desc": "+2"
-"senses": "passive Perception 10"
-"languages": "Common"
-"cr": "1/8"
-"actions":
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 3 (1d4 + 1) Slashing\
-      \ damage plus 1 Necrotic damage."
-    "name": "Ritual Sickle"
-"source":
-  - "XMM"
-  - "FRHoF"
-"image": "Compendium/bestiary/humanoid/token/cultist-xmm.webp"
+```ad-statblock
+title: Cultist
+![](/Compendium/bestiary/humanoid/token/cultist-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 12 
+- **Hit Points** 9 (`2d8`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Wisdom +2
+- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +2, [Religion](/Compendium/rules/skills.md#Religion) +2
+- **Senses** passive Perception 10
+- **Gear** [leather armor](/Compendium/items/leather-armor-xphb.md), [sickle](/Compendium/items/sickle-xphb.md)
+- **Languages** Common
+- **Challenge** 1/8
+
+## Actions
+
+***Ritual Sickle.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 3 (`1d4 + 1`) Slashing damage plus 1 Necrotic damage.
 ```
 ^statblock
+
+## Environment
+
+any

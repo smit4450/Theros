@@ -1,13 +1,12 @@
 ---
-title: Martial Weapon Training
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Martial Weapon Training
+- "Martial Weapon Training"
 ---
 # Martial Weapon Training
 *Source: Player's Handbook (2024) p. 205*  

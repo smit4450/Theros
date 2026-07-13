@@ -1,13 +1,12 @@
 ---
-title: Observant
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Observant
+- "Observant"
 ---
 # Observant
 *Source: Player's Handbook (2024) p. 205*  
@@ -18,6 +17,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence or Wisdom by 1, to a maximum of 20.
 
-**Keen Observer.** Choose one of the following skills: [[skills#Insight|Insight]], [[skills#Investigation|Investigation]], or [[skills#Perception|Perception]]. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [[expertise-xphb|Expertise]] in it.
+**Keen Observer.** Choose one of the following skills: [Insight](/Compendium/rules/skills.md#Insight), [Investigation](/Compendium/rules/skills.md#Investigation), or [Perception](/Compendium/rules/skills.md#Perception). If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [Expertise](/Compendium/rules/variant-rules/expertise-xphb.md) in it.
 
-**Quick Search.** You can take the [[actions#Search|Search]] action as a [[bonus-action-xphb|Bonus Action]].
+**Quick Search.** You can take the [Search](/Compendium/rules/actions.md#Search) action as a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md).

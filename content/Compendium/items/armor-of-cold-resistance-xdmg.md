@@ -1,16 +1,16 @@
 ---
-title: Armor of Cold Resistance
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/light
 - item/armor/medium
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Cold Resistance"
 - "Breastplate of Cold Resistance"
 - "Chain Mail of Cold Resistance"
@@ -27,10 +27,10 @@ aliases:
 ---
 # Armor of Cold Resistance
 *Rare (requires attunement)*  
+![Armor of resistance (Leather Armor), Armor of invulnerability (Plate Armor)](/Compendium/items/img/armor-of-cold-resistance.webp#right)
 
 
-
-You have [[resistance-rules-xphb|Resistance]] to cold damage while you wear this armor.
+You have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to cold damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Cold Resistance](#Breastplate%20of%20Cold%20Resistance)

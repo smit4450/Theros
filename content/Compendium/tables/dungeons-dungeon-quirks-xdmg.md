@@ -1,12 +1,11 @@
 ---
-title: Dungeons; Dungeon Quirks
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Dungeons; Dungeon Quirks
+- "Dungeons; Dungeon Quirks"
 ---
 # Dungeons; Dungeon Quirks
 *Source: Dungeon Master's Guide (2024) p. 65* 

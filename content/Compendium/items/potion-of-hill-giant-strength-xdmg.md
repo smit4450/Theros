@@ -1,12 +1,12 @@
 ---
-title: Potion of Hill Giant Strength
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/uncommon
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Hill Giant Strength"
 ---
 # Potion of Hill Giant Strength

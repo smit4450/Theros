@@ -1,21 +1,21 @@
 ---
-title: Blue Slaad
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/7
 - monster/environment/limbo
 - monster/environment/planar
 - monster/size/large
 - monster/type/aberration
-statblock: inline
-aliases: ["Blue Slaad"]
+aliases:
+- "Blue Slaad"
 ---
 # Blue Slaad
 *Source: Monster Manual (2024) p. 285*  
+![](/Compendium/bestiary/aberration/img/red-and-blue-slaad.webp#right)
 
-![](Compendium/bestiary/aberration/img/red-and-blue-slaad.webp#right|850)  
 Almost as numerous as red slaadi, blue slaadi are muscular brutes with vicious blades extending from the backs of their claws. These claws carry a magical curse called chaos phage, which can transform victims into red or green slaadi. Blue slaadi accompany red slaadi and behave similarly. They innately know the signs of chaos phage and avoid slaying creatures that carry it or other slaad curses.
 
 ## Slaadi
@@ -31,68 +31,53 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 > 
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [Charmed](/Compendium/rules/conditions.md#Charmed) condition and obeys the gem's bearer. The slaad ceases to be [Charmed](/Compendium/rules/conditions.md#Charmed) if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [Greater Restoration](/Compendium/spells/greater-restoration-xphb.md) spell cast on a slaad destroys the gem, and the slaad ceases to be [Charmed](/Compendium/rules/conditions.md#Charmed).
 > 
-> One can obtain a slaad's control gem using a [[wish-xphb|Wish]] or [[imprisonment-xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment-xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> One can obtain a slaad's control gem using a [Wish](/Compendium/spells/wish-xphb.md) or [Imprisonment](/Compendium/spells/imprisonment-xphb.md) spell. If the slaad fails its saving throw against [Imprisonment](/Compendium/spells/imprisonment-xphb.md), the caster gains the gem, and the slaad isn't imprisoned. An [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([Medicine](/Compendium/rules/skills.md#Medicine)) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
 > 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
 
+
 ## Statblock
 
-```statblock
-"name": "Blue Slaad (XMM)"
-"size": "Large"
-"type": "aberration"
-"alignment": "Chaotic Neutral"
-"ac": !!int "15"
-"hp": !!int "133"
-"hit_dice": "14d10 + 56"
-"modifier": !!int "2"
-"stats":
-  - !!int "20"
-  - !!int "15"
-  - !!int "18"
-  - !!int "7"
-  - !!int "7"
-  - !!int "9"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+1"
-"damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 11"
-"languages": "Slaad; telepathy 60 ft."
-"cr": "7"
-"traits":
-  - "desc": "The slaad has [[advantage-xphb|Advantage]]\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-  - "desc": "The slaad regains 10 [[hit-points-xphb|Hit Points]]\
-      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb|Hit Point]]."
-    "name": "Regeneration"
-"actions":
-  - "desc": "The slaad makes three Mutating Claw attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 12 (2d6 + 5) Slashing\
-      \ damage plus 3 (1d6) Poison damage. If the target is a Humanoid not cursed\
-      \ by a slaad, it is subjected to the following effect. *Constitution Saving\
-      \ Throw:* DC 15. *Failure:* The target is cursed. The cursed target can't regain\
-      \ [[hit-points-xphb|Hit Points]], and its [[hit-points-xphb|Hit\
-      \ Point]] maximum decreases\
-      \ by 10 (3d6) after every 24 hours and doesn't return to normal after finishing\
-      \ a [[long-rest-xphb|Long Rest]]. If the curse\
-      \ reduces the target's [[hit-points-xphb|Hit Point]]\
-      \ maximum to 0, the curse ends, and instead of dying, the target instantly transforms\
-      \ into a [[red-slaad-xmm|Red Slaad]] or, if\
-      \ it can cast spells of level 3 or higher, a [[green-slaad-xmm|Green Slaad]].\
-      \ Only a [[wish-xphb|Wish]] spell can reverse this transformation."
-    "name": "Mutating Claw"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/aberration/token/blue-slaad-xmm.webp"
+```ad-statblock
+title: Blue Slaad
+![](/Compendium/bestiary/aberration/token/blue-slaad-xmm.webp#token)
+*Large aberration, Chaotic Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 133 (`14d10 + 56`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|15 (+2)|18 (+4)| 7 (-2)| 7 (-2)| 9 (-1)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +1
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Damage Resistances** acid, cold, fire, lightning, thunder
+- **Languages** Slaad; telepathy 60 ft.
+- **Challenge** 7
+
+## Traits
+
+***Magic Resistance.*** The slaad has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+***Regeneration.*** The slaad regains 10 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) at the start of each of its turns if it has at least 1 [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md).
+
+## Actions
+
+***Multiattack.*** The slaad makes three Mutating Claw attacks.
+
+***Mutating Claw.*** *Melee Attack Roll:* `+8`, reach 10 ft. *Hit:* 12 (`2d6 + 5`) Slashing damage plus 3 (`1d6`) Poison damage. If the target is a Humanoid not cursed by a slaad, it is subjected to the following effect. *Constitution Saving Throw:* DC 15. *Failure:* The target is cursed. The cursed target can't regain [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md), and its [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum decreases by 10 (`3d6`) after every 24 hours and doesn't return to normal after finishing a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md). If the curse reduces the target's [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum to 0, the curse ends, and instead of dying, the target instantly transforms into a [Red Slaad](/Compendium/bestiary/aberration/red-slaad-xmm.md) or, if it can cast spells of level 3 or higher, a [Green Slaad](/Compendium/bestiary/aberration/green-slaad-xmm.md). Only a [Wish](/Compendium/spells/wish-xphb.md) spell can reverse this transformation.
 ```
 ^statblock
+
+## Environment
+
+planar, limbo

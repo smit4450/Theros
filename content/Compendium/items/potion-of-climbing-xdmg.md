@@ -1,21 +1,21 @@
 ---
-title: Potion of Climbing
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/common
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Climbing"
 ---
 # Potion of Climbing
 *Potion, common*  
-![](Compendium/items/img/potion-of-climbing.webp#right)
+![](/Compendium/items/img/potion-of-climbing.webp#right)
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain a [[climb-speed-xphb|Climb Speed]] equal to your [[speed-xphb|Speed]] for 1 hour. During this time, you have [[advantage-xphb|Advantage]] on Strength ([[skills#Athletics|Athletics]]) checks to climb.
+When you drink this potion, you gain a [Climb Speed](/Compendium/rules/variant-rules/climb-speed-xphb.md) equal to your [Speed](/Compendium/rules/variant-rules/speed-xphb.md) for 1 hour. During this time, you have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on Strength ([Athletics](/Compendium/rules/skills.md#Athletics)) checks to climb.
 
 This potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
 

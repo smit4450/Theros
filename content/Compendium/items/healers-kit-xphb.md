@@ -1,12 +1,12 @@
 ---
-title: "Healer's Kit"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/
 - item/rarity/none
-aliases: 
+aliases:
 - "Healer's Kit"
 ---
 # Healer's Kit
@@ -16,6 +16,6 @@ aliases:
 - **Cost**: 5 gp
 - **Weight**: 3.0 lbs.
 
-A Healer's Kit has ten uses. As a [[actions#Utilize|Utilize]] action, you can expend one of its uses to stabilize an [[conditions#Unconscious|Unconscious]] creature that has 0 [[hit-points-xphb|Hit Points]] without needing to make a Wisdom ([[skills#Medicine|Medicine]]) check.
+A Healer's Kit has ten uses. As a [Utilize](/Compendium/rules/actions.md#Utilize) action, you can expend one of its uses to stabilize an [Unconscious](/Compendium/rules/conditions.md#Unconscious) creature that has 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) without needing to make a Wisdom ([Medicine](/Compendium/rules/skills.md#Medicine)) check.
 
 *Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

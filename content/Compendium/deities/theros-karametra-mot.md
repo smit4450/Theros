@@ -1,19 +1,18 @@
 ---
-title: Karametra
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/life
 - domain/nature
-aliases: 
-- Karametra
+aliases:
+- "Karametra"
 ---
 # Karametra
 *Source: Mythic Odysseys of Theros p. 52* 
-![](Compendium/deities/img/mot-034-02-03-karametra.webp#symbol)
+![](/Compendium/deities/img/mot-034-02-03-karametra.webp#symbol)
 
 - **Alignment**: Neutral Good
 - **Domains**: Life, Nature
@@ -55,7 +54,7 @@ The earth's fertility is essential for mortal life to continue. Those who live i
 
 Prayers to Karametra focus on asserting Karametra's constancy and bounty, praising the god's love and generosity. Worshipers of Karametra gather for a feast once a month, on the evening of the full moon, that celebrates the god's role in parenthood and community. New parents receive gifts and blessings, and young couples sneak away into the woods in hopes of finding sweet berries and sweeter kisses.
 
-![](Compendium/deities/img/mot-035-02-09.webp#center)
+![](/Compendium/deities/img/mot-035-02-09.webp#center)
 
 > [!readaloud] Myths of Karametra
 > 
@@ -140,7 +139,7 @@ Your piety score to Karametra decreases if you diminish her influence in the wor
 
 ### Benefits of Piety
 
-- [[karametras-devotee-mot|Karametra's Devotee]]  
-- [[karametras-votary-mot|Karametra's Votary]]  
-- [[karametras-disciple-mot|Karametra's Disciple]]  
-- [[champion-of-harvests-mot|Champion of Harvests]]
+- [Karametra's Devotee](/Compendium/rewards/karametras-devotee-mot.md)  
+- [Karametra's Votary](/Compendium/rewards/karametras-votary-mot.md)  
+- [Karametra's Disciple](/Compendium/rewards/karametras-disciple-mot.md)  
+- [Champion of Harvests](/Compendium/rewards/champion-of-harvests-mot.md)

@@ -1,12 +1,11 @@
 ---
-title: Ether Cyclones; Ether Cyclone
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Ether Cyclones; Ether Cyclone
+- "Ether Cyclones; Ether Cyclone"
 ---
 # Ether Cyclones; Ether Cyclone
 *Source: Dungeon Master's Guide (2024) p. 193* 

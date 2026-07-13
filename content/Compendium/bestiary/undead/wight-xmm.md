@@ -1,9 +1,9 @@
 ---
-title: Wight
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/3
 - monster/environment/desert
 - monster/environment/planar
@@ -13,19 +13,19 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
-statblock: inline
-aliases: ["Wight"]
+aliases:
+- "Wight"
 ---
 # Wight
 *Source: Monster Manual (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/undead/img/wight.webp#right)
 
-![](Compendium/bestiary/undead/img/wight.webp#right|850)  
 ## Wight
 
 *Life-Leeching Corpse Warrior*
 
 - **Habitat.** Desert, Planar (Shadowfell), Swamp, Underdark, Urban  
-- **Treasure.** [[random-magic-items-armaments|Armaments]]  
+- **Treasure.** [Armaments](/Compendium/tables/random-magic-items-armaments.md)  
 
 Wights are the withered corpses of relentless warriors whose wickedness sustains them beyond death. Unlike mere zombies, they retain the memories and evil agendas they harbored in life.
 
@@ -46,60 +46,49 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
 | 7 | Prove it was the greatest warrior to ever live. |
 | 8 | Seek its stolen heart or other treasure. |
 ^wight-motives
-```statblock
-"name": "Wight (XMM)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "14"
-"hp": !!int "82"
-"hit_dice": "11d8 + 33"
-"modifier": !!int "4"
-"stats":
-  - !!int "15"
-  - !!int "14"
-  - !!int "16"
-  - !!int "10"
-  - !!int "13"
-  - !!int "15"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+3"
-  - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
-"damage_resistances": "necrotic"
-"damage_immunities": "poison"
-"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Poisoned|poisoned]]"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 13"
-"languages": "Common plus one other language"
-"cr": "3"
-"traits":
-  - "desc": "While in sunlight, the wight has [[disadvantage-xphb|Disadvantage]]\
-      \ on ability checks and attack rolls."
-    "name": "Sunlight Sensitivity"
-"actions":
-  - "desc": "The wight makes two attacks, using Necrotic Sword or Necrotic Bow in\
-      \ any combination. It can replace one attack with a use of Life Drain."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Slashing\
-      \ damage plus 4 (1d8) Necrotic damage."
-    "name": "Necrotic Sword"
-  - "desc": "*Ranged Attack Roll:* +4, range 150/600 ft. *Hit:* 6 (1d8 + 2) Piercing\
-      \ damage plus 4 (1d8) Necrotic damage."
-    "name": "Necrotic Bow"
-  - "desc": "*Constitution Saving Throw:* DC 13, one creature within 5 feet. *Failure:*\
-      \ 6 (1d8 + 2) Necrotic damage, and the target's [[hit-points-xphb|Hit Point]]\
-      \ maximum decreases by an amount equal to the damage taken.\n\nA Humanoid slain\
-      \ by this attack rises 24 hours later as a [[zombie-xmm|Zombie]]\
-      \ under the wight's control, unless the Humanoid is restored to life or its\
-      \ body is destroyed. The wight can have no more than twelve zombies under its\
-      \ control at a time."
-    "name": "Life Drain"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/undead/token/wight-xmm.webp"
+
+```ad-statblock
+title: Wight
+![](/Compendium/bestiary/undead/token/wight-xmm.webp#token)
+*Medium undead, Neutral Evil*
+
+- **Armor Class** 14 
+- **Hit Points** 82 (`11d8 + 33`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3, [Stealth](/Compendium/rules/skills.md#Stealth) +4
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Damage Resistances** necrotic
+- **Damage Immunities** poison
+- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [poisoned](/Compendium/rules/conditions.md#Poisoned)
+- **Gear** [studded leather armor](/Compendium/items/studded-leather-armor-xphb.md)
+- **Languages** Common plus one other language
+- **Challenge** 3
+
+## Traits
+
+***Sunlight Sensitivity.*** While in sunlight, the wight has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
+
+## Actions
+
+***Multiattack.*** The wight makes two attacks, using Necrotic Sword or Necrotic Bow in any combination. It can replace one attack with a use of Life Drain.
+
+***Necrotic Sword.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Slashing damage plus 4 (`1d8`) Necrotic damage.
+
+***Necrotic Bow.*** *Ranged Attack Roll:* `+4`, range 150/600 ft. *Hit:* 6 (`1d8 + 2`) Piercing damage plus 4 (`1d8`) Necrotic damage.
+
+***Life Drain.*** *Constitution Saving Throw:* DC 13, one creature within 5 feet. *Failure:* 6 (`1d8 + 2`) Necrotic damage, and the target's [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum decreases by an amount equal to the damage taken.
+
+A Humanoid slain by this attack rises 24 hours later as a [Zombie](/Compendium/bestiary/undead/zombie-xmm.md) under the wight's control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at a time.
 ```
 ^statblock
+
+## Environment
+
+desert, planar, shadowfell, swamp, underdark, urban

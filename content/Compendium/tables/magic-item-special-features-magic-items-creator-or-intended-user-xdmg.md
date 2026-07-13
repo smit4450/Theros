@@ -1,12 +1,11 @@
 ---
-title: "Magic Item Special Features; Magic Item's Creator or Intended User"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Magic Item Special Features; Magic Item's Creator or Intended User
+- "Magic Item Special Features; Magic Item's Creator or Intended User"
 ---
 # Magic Item Special Features; Magic Item's Creator or Intended User
 *Source: Dungeon Master's Guide (2024) p. 222* 
@@ -25,7 +24,7 @@ aliases:
 | 9 | Elemental Fire. This item is warm to the touch, and any metal parts are crafted from black iron. Flame imagery covers its surface. |
 | 10 | Elemental Water. Lustrous fish scales replace leather or cloth on this item, and seashells and worked coral (as hard as any metal) replace metal portions. |
 | 11–12 | Elf. The item is half the normal weight. It is adorned with symbols of nature: leaves, vines, stars, and the like. |
-| 13 | Fey. The item is exquisitely crafted from the finest materials and glows with a pale radiance in moonlight, shedding [[dim-light-xphb|Dim Light]] in a 5-foot radius. Any metal in the item is silver or mithral rather than iron or steel. |
+| 13 | Fey. The item is exquisitely crafted from the finest materials and glows with a pale radiance in moonlight, shedding [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md) in a 5-foot radius. Any metal in the item is silver or mithral rather than iron or steel. |
 | 14 | Fiend. The item is made of iron or horn, and any cloth or leather components are crafted from the hide of Fiends. Leering faces or vile runes are engraved on its surface. Celestials find it repulsive. |
 | 15 | Giant. The item is larger than normal and was crafted by Giants for use by their smaller allies. |
 | 16 | Gnome. The item is crafted to appear ordinary and well used. It could also incorporate gears and mechanical components, even if these aren't essential to its function. |

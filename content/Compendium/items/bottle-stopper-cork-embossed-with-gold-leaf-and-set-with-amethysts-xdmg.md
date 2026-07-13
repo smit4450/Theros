@@ -1,12 +1,12 @@
 ---
-title: Bottle stopper cork embossed with gold leaf and set with amethysts
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/gear/treasure-art-object
 - item/rarity/none
-aliases: 
+aliases:
 - "Bottle stopper cork embossed with gold leaf and set with amethysts"
 ---
 # Bottle stopper cork embossed with gold leaf and set with amethysts

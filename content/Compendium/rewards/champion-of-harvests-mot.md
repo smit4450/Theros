@@ -1,13 +1,12 @@
 ---
-title: Champion of Harvests
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - reward/piety-trait
 aliases:
-- Champion of Harvests
+- "Champion of Harvests"
 ---
 # Champion of Harvests
 *Piety Trait*  

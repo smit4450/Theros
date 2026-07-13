@@ -1,13 +1,12 @@
 ---
-title: Hidden Pit
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - hazard/trp
 aliases:
-- Hidden Pit
+- "Hidden Pit"
 ---
 # Hidden Pit
 *Generic Hazard*  
@@ -18,11 +17,11 @@ A creature that falls into the pit takes 3 (`1d6`) Bludgeoning damage from the f
 
 ## Detect and Disarm
 
-As a [[actions#Study|Study]] action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence ([[skills#Investigation|Investigation]]) check, detecting the pit on a successful check. Once the pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using [[arcane-lock-xphb|Arcane Lock]] or similar magic.
+As a [Study](/Compendium/rules/actions.md#Study) action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence ([Investigation](/Compendium/rules/skills.md#Investigation)) check, detecting the pit on a successful check. Once the pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using [Arcane Lock](/Compendium/spells/arcane-lock-xphb.md) or similar magic.
 
 ## Escape
 
-A creature needs a Climb Speed, climbing gear, or magic such as [[spider-climb-xphb|Spider Climb]] to scale the pit's smooth walls. (You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.)
+A creature needs a Climb Speed, climbing gear, or magic such as [Spider Climb](/Compendium/spells/spider-climb-xphb.md) to scale the pit's smooth walls. (You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.)
 
 ## At Higher Levels
 

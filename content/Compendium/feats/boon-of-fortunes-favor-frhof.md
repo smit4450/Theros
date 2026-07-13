@@ -1,16 +1,15 @@
 ---
-title: "Boon of Fortune's Favor"
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/frhof
+- compendium/src/5e/frhof
 - feat
 aliases:
-- Boon of Fortune's Favor
+- "Boon of Fortune's Favor"
 ---
 # Boon of Fortune's Favor
-*Source: FRHoF p. 43*  
+*Source: Forgotten Realms: Heroes of Faerûn p. 43*  
 
 **Prerequisite**: 19th
 

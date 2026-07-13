@@ -1,14 +1,13 @@
 ---
-title: Skill
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Skill
+- "Skill"
 ---
 # Skill
 *Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-A skill is an "area of specialization" associated with an ability check. If you have proficiency in a skill, you can add your [[proficiency-xphb|Proficiency Bonus]] when you make an ability check associated with that skill.
+A skill is an "area of specialization" associated with an ability check. If you have proficiency in a skill, you can add your [Proficiency Bonus](/Compendium/rules/variant-rules/proficiency-xphb.md) when you make an ability check associated with that skill.

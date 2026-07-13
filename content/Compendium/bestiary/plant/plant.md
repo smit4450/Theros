@@ -1,29 +1,26 @@
 ---
-title: Index of Plant
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
 # Index of Plant
 
-- [[animated-tree-egw|Animated Tree]]
-- [[awakened-shrub-xmm|Awakened Shrub]]
-- [[awakened-tree-xmm|Awakened Tree]]
-- [[gas-spore-fungus-xmm|Gas Spore Fungus]]
-- [[gulthias-blight-xmm|Gulthias Blight]]
-- [[myconid-adult-xmm|Myconid Adult]]
-- [[myconid-sovereign-xmm|Myconid Sovereign]]
-- [[myconid-spore-servant-xmm|Myconid Spore Servant]]
-- [[myconid-sprout-xmm|Myconid Sprout]]
-- [[needle-blight-xmm|Needle Blight]]
-- [[shambling-mound-xmm|Shambling Mound]]
-- [[shrieker-fungus-xmm|Shrieker Fungus]]
-- [[treant-xmm|Treant]]
-- [[tree-blight-xmm|Tree Blight]]
-- [[twig-blight-xmm|Twig Blight]]
-- [[vine-blight-xmm|Vine Blight]]
-- [[violet-fungus-necrohulk-xmm|Violet Fungus Necrohulk]]
-- [[violet-fungus-xmm|Violet Fungus]]
+- [Awakened Shrub](./awakened-shrub-xmm.md)
+- [Awakened Tree](./awakened-tree-xmm.md)
+- [Gas Spore Fungus](./gas-spore-fungus-xmm.md)
+- [Gulthias Blight](./gulthias-blight-xmm.md)
+- [Myconid Adult](./myconid-adult-xmm.md)
+- [Myconid Sovereign](./myconid-sovereign-xmm.md)
+- [Myconid Spore Servant](./myconid-spore-servant-xmm.md)
+- [Myconid Sprout](./myconid-sprout-xmm.md)
+- [Needle Blight](./needle-blight-xmm.md)
+- [Shambling Mound](./shambling-mound-xmm.md)
+- [Shrieker Fungus](./shrieker-fungus-xmm.md)
+- [Sylvan Caryatid](./sylvan-caryatid-tbvxii.md)
+- [Treant](./treant-xmm.md)
+- [Tree Blight](./tree-blight-xmm.md)
+- [Twig Blight](./twig-blight-xmm.md)
+- [Vine Blight](./vine-blight-xmm.md)
+- [Violet Fungus](./violet-fungus-xmm.md)
+- [Violet Fungus Necrohulk](./violet-fungus-necrohulk-xmm.md)

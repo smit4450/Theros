@@ -1,17 +1,17 @@
 ---
-title: Talisman of Ultimate Evil
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/legendary
-aliases: 
+aliases:
 - "Talisman of Ultimate Evil"
 ---
 # Talisman of Ultimate Evil
 *Wondrous item, legendary (requires attunement)*  
-![](Compendium/items/img/talisman-of-ultimate-evil.webp#right)
+![](/Compendium/items/img/talisman-of-ultimate-evil.webp#right)
 
 - **Weight**: 1.0 lbs.
 
@@ -23,6 +23,6 @@ You can use the talisman as a Holy Symbol. You gain a +2 bonus to spell attack r
 
 ## Ultimate End
 
-The talisman has 6 charges. While wearing or holding the talisman, you can take a [[actions#Magic|Magic]] action to expend 1 charge and target one creature you can see on the ground within 120 feet of yourself. A flaming fissure opens under the target, and the target makes a DC 20 Dexterity saving throw. If the target is a Celestial, it has [[disadvantage-xphb|Disadvantage]] on the save. On a failed save, the target falls into the fissure and is destroyed, leaving no remains. On a successful save, the target isn't cast into the fissure but takes `4d6` Psychic damage from the ordeal. In either case, the fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed.
+The talisman has 6 charges. While wearing or holding the talisman, you can take a [Magic](/Compendium/rules/actions.md#Magic) action to expend 1 charge and target one creature you can see on the ground within 120 feet of yourself. A flaming fissure opens under the target, and the target makes a DC 20 Dexterity saving throw. If the target is a Celestial, it has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on the save. On a failed save, the target falls into the fissure and is destroyed, leaving no remains. On a successful save, the target isn't cast into the fissure but takes `4d6` Psychic damage from the ordeal. In either case, the fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

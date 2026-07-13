@@ -1,13 +1,12 @@
 ---
-title: Dining Room
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion
 tags:
 - bastion
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Dining Room
+- "Dining Room"
 ---
 # Dining Room
 *Bastion facility*  

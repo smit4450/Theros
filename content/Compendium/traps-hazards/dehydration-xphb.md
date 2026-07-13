@@ -1,17 +1,16 @@
 ---
-title: Dehydration
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 aliases:
-- Dehydration
+- "Dehydration"
 ---
 # Dehydration
 *Generic Hazard*  
 
-A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 [[conditions#Exhaustion|Exhaustion]] level at the day's end. [[conditions#Exhaustion|Exhaustion]] caused by dehydration can't be removed until the creature drinks the full amount of water required for a day.
+A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 [Exhaustion](/Compendium/rules/conditions.md#Exhaustion) level at the day's end. [Exhaustion](/Compendium/rules/conditions.md#Exhaustion) caused by dehydration can't be removed until the creature drinks the full amount of water required for a day.
 
 **Water Needs per Day**
 

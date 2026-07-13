@@ -1,20 +1,20 @@
 ---
-title: Animated Broom
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-4
 - monster/environment/urban
 - monster/size/small
 - monster/type/construct
-statblock: inline
-aliases: ["Animated Broom"]
+aliases:
+- "Animated Broom"
 ---
 # Animated Broom
 *Source: Monster Manual (2024) p. 16*  
+![](/Compendium/bestiary/construct/img/animated-objects.webp#right)
 
-![](Compendium/bestiary/construct/img/animated-objects.webp#right|850)  
 Animated brooms keep their surroundings tidy and defend them when necessary. Launching into the air, these brooms dart about, attacking foes from unexpected angles. Other flying objects, like animated tools or staffs, might also use this stat block.
 
 ## Animated Objects
@@ -47,44 +47,41 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 | 9 | Wild magic, a spell that went awry, or a chaotic Artifact. |
 | 10 | The will of a powerful psychic being. |
 ^animated-object-catalysts
+
 ## Statblock
 
-```statblock
-"name": "Animated Broom (XMM)"
-"size": "Small"
-"type": "construct"
-"alignment": "Unaligned"
-"ac": !!int "15"
-"hp": !!int "14"
-"hit_dice": "4d6"
-"modifier": !!int "5"
-"stats":
-  - !!int "10"
-  - !!int "17"
-  - !!int "10"
-  - !!int "1"
-  - !!int "5"
-  - !!int "1"
-"speed": "5 ft., fly 50 ft. (hover)"
-"damage_immunities": "poison, psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
-  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]]"
-"senses": "[[senses#Blindsight|Blindsight]] 60 ft., passive Perception\
-  \ 7"
-"languages": ""
-"cr": "1/4"
-"traits":
-  - "desc": "The broom doesn't provoke an Opportunity Attack when it flies out of\
-      \ an enemy's reach."
-    "name": "Flyby"
-"actions":
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Bludgeoning\
-      \ damage."
-    "name": "Slam"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/construct/token/animated-broom-xmm.webp"
+```ad-statblock
+title: Animated Broom
+![](/Compendium/bestiary/construct/token/animated-broom-xmm.webp#token)
+*Small construct, Unaligned*
+
+- **Armor Class** 15 
+- **Hit Points** 14 (`4d6`) 
+- **Speed** 5 ft., fly 50 ft. (hover)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|17 (+3)|10 (+0)| 1 (-5)| 5 (-3)| 1 (-5)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception 7
+- **Damage Immunities** poison, psychic
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [deafened](/Compendium/rules/conditions.md#Deafened), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned)
+- **Languages** —
+- **Challenge** 1/4
+
+## Traits
+
+***Flyby.*** The broom doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+
+## Actions
+
+***Slam.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 5 (`1d4 + 3`) Bludgeoning damage.
 ```
 ^statblock
+
+## Environment
+
+urban

@@ -1,11 +1,11 @@
 ---
-title: Orb of Time
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/common
-aliases: 
+aliases:
 - "Orb of Time"
 ---
 # Orb of Time
@@ -16,6 +16,6 @@ aliases:
 
 This orb can be used as an Arcane Focus.
 
-While holding the orb, you can take a [[actions#Magic|Magic]] action to determine whether it is morning, afternoon, evening, or nighttime. This property functions only on the Material Plane.
+While holding the orb, you can take a [Magic](/Compendium/rules/actions.md#Magic) action to determine whether it is morning, afternoon, evening, or nighttime. This property functions only on the Material Plane.
 
 *Source: Dungeon Master's Guide (2024) p. 284*

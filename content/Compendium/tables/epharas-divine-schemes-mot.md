@@ -1,12 +1,11 @@
 ---
-title: "Ephara's Divine Schemes"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Ephara's Divine Schemes
+- "Ephara's Divine Schemes"
 ---
 # Ephara's Divine Schemes
 *Source: Mythic Odysseys of Theros p. 121* 

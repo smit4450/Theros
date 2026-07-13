@@ -1,12 +1,12 @@
 ---
-title: Potion of Speed
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/very-rare
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Speed"
 ---
 # Potion of Speed
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [[haste-xphb|Haste]] spell for 1 minute (no [[conditions#Concentration|Concentration]] required) without suffering the wave of lethargy that typically occurs when the effect ends.
+When you drink this potion, you gain the effect of the [Haste](/Compendium/spells/haste-xphb.md) spell for 1 minute (no [Concentration](/Compendium/rules/conditions.md#Concentration) required) without suffering the wave of lethargy that typically occurs when the effect ends.
 
 This potion's yellow fluid is streaked with black and swirls on its own.
 

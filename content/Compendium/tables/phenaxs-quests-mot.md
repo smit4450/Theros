@@ -1,12 +1,11 @@
 ---
-title: "Phenax's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Phenax's Quests
+- "Phenax's Quests"
 ---
 # Phenax's Quests
 *Source: Mythic Odysseys of Theros p. 164* 

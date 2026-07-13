@@ -1,18 +1,14 @@
 ---
-title: Index of Ooze
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
 # Index of Ooze
 
-- [[black-pudding-xmm|Black Pudding]]
-- [[blob-of-annihilation-xmm|Blob of Annihilation]]
-- [[gelatinous-cube-xmm|Gelatinous Cube]]
-- [[gray-ooze-xmm|Gray Ooze]]
-- [[ochre-jelly-xmm|Ochre Jelly]]
-- [[psychic-gray-ooze-xmm|Psychic Gray Ooze]]
-- [[slithering-tracker-vgm|Slithering Tracker]]
+- [Black Pudding](./black-pudding-xmm.md)
+- [Blob of Annihilation](./blob-of-annihilation-xmm.md)
+- [Gelatinous Cube](./gelatinous-cube-xmm.md)
+- [Gray Ooze](./gray-ooze-xmm.md)
+- [Ochre Jelly](./ochre-jelly-xmm.md)
+- [Psychic Gray Ooze](./psychic-gray-ooze-xmm.md)

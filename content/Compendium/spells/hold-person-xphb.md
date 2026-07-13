@@ -1,9 +1,9 @@
 ---
-title: Hold Person
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -17,7 +17,6 @@ tags:
 - spell/subclass/college-of-lore
 - spell/subclass/eldritch-knight
 - spell/subclass/oath-of-vengeance
-- spell/subclass/winter-walker
 classes:
 - Bard
 - Bard (College of Lore)
@@ -26,12 +25,12 @@ classes:
 - Druid (Circle of the Land, Polar Land)
 - Fighter (Eldritch Knight)
 - Paladin (Oath of Vengeance)
-- Ranger (Winter Walker)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Hold Person"]
+aliases:
+- "Hold Person"
 ---
 # Hold Person
 *2nd-level, Enchantment*  
@@ -42,10 +41,10 @@ aliases: ["Hold Person"]
 - **Components:** V, S, M (a straight piece of iron)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the [[conditions#Paralyzed|Paralyzed]] condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the [Paralyzed](/Compendium/rules/conditions.md#Paralyzed) condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
 **Using a Higher-Level Spell Slot.** You can target one additional Humanoid for each spell slot level above 2.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [Druid (Circle of the Land, Polar Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Winter Walker)](Compendium/lists/list-spells-classes-winter-walker-frhof.md "subclass=FRHoF;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard (College of Lore)](/Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Polar Land)](/Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](/Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 286. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

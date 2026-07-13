@@ -1,16 +1,16 @@
 ---
-title: Enspelled Armor (Level 1)
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/light
 - item/armor/medium
 - item/attunement/required
 - item/rarity/uncommon
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Enspelled Armor (Level 1)"
 - "Enspelled (Level 1) Breastplate"
 - "Enspelled (Level 1) Chain Mail"

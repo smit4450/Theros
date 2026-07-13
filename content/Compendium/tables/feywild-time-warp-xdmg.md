@@ -1,12 +1,11 @@
 ---
-title: Feywild Time Warp
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Feywild Time Warp
+- "Feywild Time Warp"
 ---
 # Feywild Time Warp
 *Source: Dungeon Master's Guide (2024) p. 196* 

@@ -1,20 +1,20 @@
 ---
-title: Myconid Adult
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/1-2
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/plant
-statblock: inline
-aliases: ["Myconid Adult"]
+aliases:
+- "Myconid Adult"
 ---
 # Myconid Adult
-*Source: Monster Manual (2024) p. 223, FRHoF*  
+*Source: Monster Manual (2024) p. 223*  
+![](/Compendium/bestiary/plant/img/myconids.webp#right)
 
-![](Compendium/bestiary/plant/img/myconids.webp#right|850)  
 Myconid adults defend their territories and other myconids from invaders.
 
 ## Myconids
@@ -25,51 +25,43 @@ Myconid adults defend their territories and other myconids from invaders.
 - **Treasure.** Any  
 
 Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. These ambulatory fungal creatures tend to their sanctuaries and avoid becoming embroiled in the conflicts of other creatures. They use specialized spores to communicate, to alert one another to danger, and to defend themselves. When myconids encounter others beings, they use mind-linking spores to allow nearby creatures to telepathically share thoughts. Nevertheless, myconids' goals remain mysterious to most non-fungal creatures.
+
 ## Statblock
 
-```statblock
-"name": "Myconid Adult (XMM)"
-"size": "Medium"
-"type": "plant"
-"alignment": "Lawful Neutral"
-"ac": !!int "12"
-"hp": !!int "16"
-"hit_dice": "3d8 + 3"
-"modifier": !!int "0"
-"stats":
-  - !!int "10"
-  - !!int "10"
-  - !!int "12"
-  - !!int "10"
-  - !!int "13"
-  - !!int "7"
-"speed": "20 ft."
-"senses": "[[senses#Darkvision|Darkvision]] 120 ft., passive Perception\
-  \ 11"
-"languages": "telepathy 240 ft."
-"cr": "1/2"
-"traits":
-  - "desc": "While in sunlight, the myconid has [[disadvantage-xphb|Disadvantage]]\
-      \ on [[d20-test-xphb|D20 Tests]]. The myconid\
-      \ dies if it spends more than 1 hour in sunlight."
-    "name": "Sun Sickness"
-"actions":
-  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 4 (1d8) Bludgeoning damage\
-      \ plus 3 (1d6) Poison damage."
-    "name": "Slam"
-  - "desc": "*Constitution Saving Throw:* DC 11, one creature the myconid can see\
-      \ within 10 feet. *Failure:* The target has the [[conditions#Stunned|Stunned]]\
-      \ condition and repeats the save at the end of each of its turns, ending the\
-      \ effect on itself on a success. After 1 minute, it succeeds automatically."
-    "name": "Pacifying Spores (1/Day)"
-  - "desc": "The myconid expels spores in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from itself. Creatures in that area with an Intelligence score\
-      \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
-      \ with a range of 30 feet for 1 hour."
-    "name": "Rapport Spores"
-"source":
-  - "XMM"
-  - "FRHoF"
-"image": "Compendium/bestiary/plant/token/myconid-adult-xmm.webp"
+```ad-statblock
+title: Myconid Adult
+![](/Compendium/bestiary/plant/token/myconid-adult-xmm.webp#token)
+*Medium plant, Lawful Neutral*
+
+- **Armor Class** 12 
+- **Hit Points** 16 (`3d8 + 3`) 
+- **Speed** 20 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|12 (+1)|10 (+0)|13 (+1)| 7 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Languages** telepathy 240 ft.
+- **Challenge** 1/2
+
+## Traits
+
+***Sun Sickness.*** While in sunlight, the myconid has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on [D20 Tests](/Compendium/rules/variant-rules/d20-test-xphb.md). The myconid dies if it spends more than 1 hour in sunlight.
+
+## Actions
+
+***Slam.*** *Melee Attack Roll:* `+2`, reach 5 ft. *Hit:* 4 (`1d8`) Bludgeoning damage plus 3 (`1d6`) Poison damage.
+
+***Pacifying Spores (1/Day).*** *Constitution Saving Throw:* DC 11, one creature the myconid can see within 10 feet. *Failure:* The target has the [Stunned](/Compendium/rules/conditions.md#Stunned) condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+
+***Rapport Spores.*** The myconid expels spores in a 30-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from itself. Creatures in that area with an Intelligence score of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy with a range of 30 feet for 1 hour.
 ```
 ^statblock
+
+## Environment
+
+underdark

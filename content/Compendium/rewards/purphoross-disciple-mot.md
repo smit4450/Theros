@@ -1,13 +1,12 @@
 ---
-title: "Purphoros's Disciple"
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - reward/piety-trait
 aliases:
-- Purphoros's Disciple
+- "Purphoros's Disciple"
 ---
 # Purphoros's Disciple
 *Piety Trait*  

@@ -1,14 +1,11 @@
 ---
-title: Index of Decks
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
 # Index of Decks
 
-- [[deck-of-illusions-xdmg|Deck of Illusions]]
-- [[deck-of-many-things-13-cards-xdmg|Deck of Many Things (13 Cards)]]
-- [[deck-of-many-things-xdmg|Deck of Many Things]]
+- [Deck of Illusions](./deck-of-illusions-xdmg.md)
+- [Deck of Many Things](./deck-of-many-things-xdmg.md)
+- [Deck of Many Things (13 Cards)](./deck-of-many-things-13-cards-xdmg.md)

@@ -1,18 +1,18 @@
 ---
-title: Wand of Fear
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/rare
 - item/wondrous/wand
-aliases: 
+aliases:
 - "Wand of Fear"
 ---
 # Wand of Fear
 *Wand, rare (requires attunement)*  
-![](Compendium/items/img/wand-of-fear.webp#right)
+![](/Compendium/items/img/wand-of-fear.webp#right)
 
 - **Weight**: 1.0 lbs.
 
@@ -24,8 +24,8 @@ While holding the wand, you can cast one of the spells (save DC 15) on the follo
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[command-xphb|Command]] ("flee" or "grovel" only) | 1 |
-| [[fear-xphb|Fear]] (60-foot [[cone-area-of-effect-xphb|Cone]]) | 3 |
+| [Command](/Compendium/spells/command-xphb.md) ("flee" or "grovel" only) | 1 |
+| [Fear](/Compendium/spells/fear-xphb.md) (60-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md)) | 3 |
 ^spell-charge-cost
 
 ## Regaining Charges

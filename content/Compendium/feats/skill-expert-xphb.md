@@ -1,13 +1,12 @@
 ---
-title: Skill Expert
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Skill Expert
+- "Skill Expert"
 ---
 # Skill Expert
 *Source: Player's Handbook (2024) p. 207*  
@@ -20,4 +19,4 @@ You gain the following benefits.
 
 **Skill Proficiency.** You gain proficiency in one skill of your choice.
 
-**Expertise.** Choose one skill in which you have proficiency but lack [[expertise-xphb|Expertise]]. You gain [[expertise-xphb|Expertise]] with that skill.
+**Expertise.** Choose one skill in which you have proficiency but lack [Expertise](/Compendium/rules/variant-rules/expertise-xphb.md). You gain [Expertise](/Compendium/rules/variant-rules/expertise-xphb.md) with that skill.

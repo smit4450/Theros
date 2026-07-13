@@ -1,19 +1,19 @@
 ---
-title: Alseid
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - monster/cr/1
 - monster/size/medium
 - monster/type/fey
-statblock: inline
-aliases: ["Alseid"]
+aliases:
+- "Alseid"
 ---
 # Alseid
 *Source: Mythic Odysseys of Theros p. 235*  
+![](/Compendium/bestiary/fey/img/alseid.webp#right)
 
-![](Compendium/bestiary/fey/img/alseid.webp#right|850)  
 Touched with the golden light of the sun, alseids inhabit meadows, plains, and lands of cultivated natural beauty. Many live in closer proximity to human civilization than other nymphs. Farmers are grateful for the presence of alseids on their lands and often leave them offerings of mead, honey, flowers, and dates in return for protecting their flocks and making their crops more abundant.
 
 ## Nymphs
@@ -23,59 +23,48 @@ Divine servants that inhabit unspoiled corners of the world, nymphs protect plac
 ### Immortal Nature
 
 A nymph doesn't require food, drink, or sleep.
+
 ## Statblock
 
-```statblock
-"name": "Alseid (MOT)"
-"size": "Medium"
-"type": "fey"
-"alignment": "Chaotic Good"
-"ac": !!int "15"
-"ac_class": "natural armor"
-"hp": !!int "22"
-"hit_dice": "4d8 + 4"
-"modifier": !!int "0"
-"stats":
-  - !!int "15"
-  - !!int "10"
-  - !!int "12"
-  - !!int "13"
-  - !!int "14"
-  - !!int "18"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+6"
-"damage_resistances": "radiant"
-"damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
-  \ [[conditions#Poisoned|poisoned]]"
-"senses": "passive Perception 12"
-"languages": "Common, Sylvan"
-"cr": "1"
-"traits":
-  - "desc": "The alseid's spellcasting ability is Charisma (spell save DC 14). It\
-      \ can innately cast the following spells, requiring no material components:\n\
-      \n**3/day each:** [[cure-wounds-xphb|cure wounds]], [[charm-person-xphb|charm\
-      \ person]], [[sleep-xphb|sleep]]\n\
-      \n**1/day each:** [[calm-emotions-xphb|calm emotions]],\
-      \ [[lesser-restoration-xphb|lesser restoration]], [[plant-growth-xphb|plant\
-      \ growth]]"
-    "name": "Innate Spellcasting"
-  - "desc": "The alseid has advantage on Dexterity ([[skills#Stealth|Stealth]])\
-      \ checks made to hide while it is in grassland."
-    "name": "Hide in Plain Sight"
-  - "desc": "The alseid has advantage on saving throws against spells and other magical\
-      \ effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The alseid makes two radiant touch attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
-      \ (1d10 + 4) radiant damage."
-    "name": "Radiant Touch"
-"source":
-  - "MOT"
-"image": "Compendium/bestiary/fey/token/alseid-mot.webp"
+```ad-statblock
+title: Alseid
+![](/Compendium/bestiary/fey/token/alseid-mot.webp#token)
+*Medium fey, Chaotic Good*
+
+- **Armor Class** 15 (natural armor)
+- **Hit Points** 22 (`4d8 + 4`) 
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|10 (+0)|12 (+1)|13 (+1)|14 (+2)|18 (+4)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Persuasion](/Compendium/rules/skills.md#Persuasion) +6
+- **Senses** passive Perception 12
+- **Damage Resistances** radiant
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [frightened](/Compendium/rules/conditions.md#Frightened), [poisoned](/Compendium/rules/conditions.md#Poisoned)
+- **Languages** Common, Sylvan
+- **Challenge** 1
+
+## Traits
+
+***Innate Spellcasting.*** The alseid's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
+
+**3/day each:** [cure wounds](/Compendium/spells/cure-wounds-xphb.md), [charm person](/Compendium/spells/charm-person-xphb.md), [sleep](/Compendium/spells/sleep-xphb.md)
+
+**1/day each:** [calm emotions](/Compendium/spells/calm-emotions-xphb.md), [lesser restoration](/Compendium/spells/lesser-restoration-xphb.md), [plant growth](/Compendium/spells/plant-growth-xphb.md)
+
+***Hide in Plain Sight.*** The alseid has advantage on Dexterity ([Stealth](/Compendium/rules/skills.md#Stealth)) checks made to hide while it is in grassland.
+
+***Magic Resistance.*** The alseid has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The alseid makes two radiant touch attacks.
+
+***Radiant Touch.*** *Melee Spell Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 9 (`1d10 + 4`) radiant damage.
 ```
 ^statblock

@@ -1,9 +1,9 @@
 ---
-title: Charm Monster
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/druid
 - spell/class/sorcerer
@@ -23,7 +23,8 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Warlock
 - Wizard
-aliases: ["Charm Monster"]
+aliases:
+- "Charm Monster"
 ---
 # Charm Monster
 *4th-level, Enchantment*  
@@ -34,10 +35,10 @@ aliases: ["Charm Monster"]
 - **Components:** V, S
 - **Duration:** 1 hour
 
-One creature you can see within range makes a Wisdom saving throw. It does so with [[advantage-xphb|Advantage]] if you or your allies are fighting it. On a failed save, the target has the [[conditions#Charmed|Charmed]] condition until the spell ends or until you or your allies damage it. The [[conditions#Charmed|Charmed]] creature is [[friendly-attitude-xphb|Friendly]] to you. When the spell ends, the target knows it was [[conditions#Charmed|Charmed]] by you.
+One creature you can see within range makes a Wisdom saving throw. It does so with [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) if you or your allies are fighting it. On a failed save, the target has the [Charmed](/Compendium/rules/conditions.md#Charmed) condition until the spell ends or until you or your allies damage it. The [Charmed](/Compendium/rules/conditions.md#Charmed) creature is [Friendly](/Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you. When the spell ends, the target knows it was [Charmed](/Compendium/rules/conditions.md#Charmed) by you.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](Compendium/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](/Compendium/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

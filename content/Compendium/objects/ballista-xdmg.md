@@ -1,28 +1,25 @@
 ---
-title: Ballista
 obsidianUIMode: preview
 cssclasses:
 - json5e-object
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - object/size/large
 - object/type/siege-weapon
 aliases:
-- Ballista
+- "Ballista"
 ---
 # Ballista
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 96*  
+*Source: Dungeon Master's Guide (2024) p. 96* 
 
-A Ballista is a massive crossbow that fires heavy bolts. Loading a Ballista requires the [[actions#Utilize|Utilize]] action, and aiming it requires another [[actions#Utilize|Utilize]] action. Then a crew member can take the Ballista Bolt action.
-
+A Ballista is a massive crossbow that fires heavy bolts. Loading a Ballista requires the [Utilize](/Compendium/rules/actions.md#Utilize) action, and aiming it requires another [Utilize](/Compendium/rules/actions.md#Utilize) action. Then a crew member can take the Ballista Bolt action.
 ```ad-statblock
 title: Ballista
-![](Compendium/objects/token/ballista-xdmg.webp#token)
+![](/Compendium/objects/token/ballista-xdmg.webp#token)
 *Large Siege weapon*
 
-- **Armor Class** 15
-- **Hit Points** 50
+- **Armor Class** 15 
+- **Hit Points** 50 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

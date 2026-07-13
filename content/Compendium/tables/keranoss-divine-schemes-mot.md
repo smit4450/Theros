@@ -1,12 +1,11 @@
 ---
-title: "Keranos's Divine Schemes"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Keranos's Divine Schemes
+- "Keranos's Divine Schemes"
 ---
 # Keranos's Divine Schemes
 *Source: Mythic Odysseys of Theros p. 141* 

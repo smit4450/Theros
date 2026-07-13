@@ -1,12 +1,12 @@
 ---
-title: Fine gold chain set with a fire opal
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/gear/treasure-art-object
 - item/rarity/none
-aliases: 
+aliases:
 - "Fine gold chain set with a fire opal"
 ---
 # Fine gold chain set with a fire opal

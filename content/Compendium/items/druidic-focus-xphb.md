@@ -1,12 +1,12 @@
 ---
-title: Druidic Focus
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/spellcasting-focus
 - item/rarity/none
-aliases: 
+aliases:
 - "Druidic Focus"
 ---
 # Druidic Focus
@@ -16,8 +16,8 @@ aliases:
 
 **Items in this group:**
 
-- [[sprig-of-mistletoe-xphb|Sprig of mistletoe]]
-- [[wooden-staff-xphb|Wooden staff]]
-- [[yew-wand-xphb|Yew wand]]
+- [Sprig of mistletoe](/Compendium/items/sprig-of-mistletoe-xphb.md)
+- [Wooden staff](/Compendium/items/wooden-staff-xphb.md)
+- [Yew wand](/Compendium/items/yew-wand-xphb.md)
 
 *Source: Player's Handbook (2024) p. 225*

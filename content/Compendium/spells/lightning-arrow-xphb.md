@@ -1,21 +1,22 @@
 ---
-title: Lightning Arrow
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/ranger
 - spell/level/3rd-level
 - spell/school/transmutation
 classes:
 - Ranger
-aliases: ["Lightning Arrow"]
+aliases:
+- "Lightning Arrow"
 ---
 # Lightning Arrow
 *3rd-level, Transmutation*  
 
 
-- **Casting time:** 1 Bonus Action
+- **Casting time:** 1 Bonus Action, which you take immediately after hitting or missing a target with a ranged attack using a weapon
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -26,6 +27,6 @@ The weapon or ammunition then returns to its normal form.
 
 **Using a Higher-Level Spell Slot.** The damage for both effects of the spell increases by `1d8` for each spell slot level above 3.
 
-**Classes**: [[list-spells-classes-ranger|Ranger]]
+**Classes**: [Ranger](/Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 292*

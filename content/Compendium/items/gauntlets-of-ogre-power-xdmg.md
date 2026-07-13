@@ -1,17 +1,17 @@
 ---
-title: Gauntlets of Ogre Power
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/uncommon
-aliases: 
+aliases:
 - "Gauntlets of Ogre Power"
 ---
 # Gauntlets of Ogre Power
 *Wondrous item, uncommon (requires attunement)*  
-![](Compendium/items/img/gauntlets-of-ogre-power.webp#right)
+![](/Compendium/items/img/gauntlets-of-ogre-power.webp#right)
 
 
 Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is 19 or higher without them.

@@ -1,12 +1,11 @@
 ---
-title: Enlarging Basic Facilities
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Enlarging Basic Facilities
+- "Enlarging Basic Facilities"
 ---
 # Enlarging Basic Facilities
 *Source: Dungeon Master's Guide (2024) p. 335* 

@@ -1,22 +1,22 @@
 ---
-title: Shortbow
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/ranged
 - item/weapon/simple
-aliases: 
+aliases:
 - "Shortbow"
 ---
 # Shortbow
 *Weapon*  
-![](Compendium/items/img/shortbow.webp#right)
+![](/Compendium/items/img/shortbow.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Two-Handed](/Compendium/rules/item-properties.md#Two-Handed)
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 

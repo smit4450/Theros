@@ -1,12 +1,12 @@
 ---
-title: "Jeweler's Tools"
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/artisans-tools
 - item/rarity/none
-aliases: 
+aliases:
 - "Jeweler's Tools"
 ---
 # Jeweler's Tools
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern a gem's value (DC 15)  
-- **Craft.** [[arcane-focus-xphb|Arcane Focus]], [[holy-symbol-xphb|Holy Symbol]]  
+- **Craft.** [Arcane Focus](/Compendium/items/arcane-focus-xphb.md), [Holy Symbol](/Compendium/items/holy-symbol-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

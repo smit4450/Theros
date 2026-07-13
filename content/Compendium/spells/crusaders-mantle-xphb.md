@@ -1,9 +1,9 @@
 ---
-title: "Crusader's Mantle"
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/paladin
 - spell/level/3rd-level
 - spell/reward/iroass-votary
@@ -12,7 +12,8 @@ tags:
 classes:
 - Cleric (War Domain)
 - Paladin
-aliases: ["Crusader's Mantle"]
+aliases:
+- "Crusader's Mantle"
 ---
 # Crusader's Mantle
 *3rd-level, Evocation*  
@@ -23,8 +24,8 @@ aliases: ["Crusader's Mantle"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-You radiate a magical aura in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]. While in the aura, you and your allies each deal an extra `1d4` Radiant damage when hitting with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]].
+You radiate a magical aura in a 30-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md). While in the aura, you and your allies each deal an extra `1d4` Radiant damage when hitting with a weapon or an [Unarmed Strike](/Compendium/rules/variant-rules/unarmed-strike-xphb.md).
 
-**Classes**: [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-paladin|Paladin]]
+**Classes**: [Cleric (War Domain)](/Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/Compendium/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 259*

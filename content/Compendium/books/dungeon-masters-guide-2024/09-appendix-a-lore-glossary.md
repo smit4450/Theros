@@ -1,12 +1,11 @@
 ---
-title: "Appendix A: Lore Glossary"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Appendix A: Lore Glossary
+- "Appendix A: Lore Glossary"
 ---
 # Appendix A: Lore Glossary
 *Source: Dungeon Master's Guide (2024), p. 354* 
@@ -17,11 +16,11 @@ This appendix provides brief descriptions for many of the D&D game's most famous
 
 Acererak *(ah-SAIR-er-rack)* is a powerful lich who travels between worlds and takes pleasure in devouring the souls of adventurers, whom he lures into trap-ridden dungeons to suffer horrible deaths. The most famous of such dungeons is the Tomb of Horrors, hidden in the Vast Swamp in the Greyhawk setting (see ""Greyhawk Gazetteer"" in "chapter 5"); another lies under the lost city of Omu in the jungles of Chult in the Forgotten Realms setting (described in the adventure Tomb of Annihilation).
 
-![Acererak](Compendium/books/dungeon-masters-guide-2024/img/204-11-001-acererak.webp#center)
+![Acererak](/Compendium/books/dungeon-masters-guide-2024/img/204-11-001-acererak.webp#center)
 
 ## Adamantine
 
-Adamantine is one of the hardest substances in existence, a dark metal found in meteorites and extraordinary mineral veins. (See the [[adamantine-armor-xdmg|Adamantine Armor]] and [[adamantine-weapon-xdmg|Adamantine Weapon]] magic items in "chapter 7".)
+Adamantine is one of the hardest substances in existence, a dark metal found in meteorites and extraordinary mineral veins. (See the [Adamantine Armor](/Compendium/items/adamantine-armor-xdmg.md) and [Adamantine Weapon](/Compendium/items/adamantine-weapon-xdmg.md) magic items in "chapter 7".)
 
 ## Alustriel Silverhand
 
@@ -51,9 +50,9 @@ Barovia *(buh-ROVE-ee-ah)* is a "Domain of Dread" sequestered in the "Shadowfell
 
 ## Bigby
 
-Bigby *(BIG-bee)* is a former apprentice of "Mordenkainen". Though he began his career determined to use magic to dominate and control others, Bigby eventually changed his ways and has worked hard to make amends for his past villainy. Mordenkainen welcomed Bigby into the adventuring company known as the Citadel of Eight (which later became the "Circle of Eight", described in "chapter 5"). Shy and soft-spoken, Bigby was often eclipsed by his mentor, who taught Bigby how to control his ambitions. After years of adventuring, Bigby crafted a handful of spells that gained him widespread renown. Of these spells, [[bigbys-hand-xphb|Bigby's Hand]] is his undisputed magnum opus.
+Bigby *(BIG-bee)* is a former apprentice of "Mordenkainen". Though he began his career determined to use magic to dominate and control others, Bigby eventually changed his ways and has worked hard to make amends for his past villainy. Mordenkainen welcomed Bigby into the adventuring company known as the Citadel of Eight (which later became the "Circle of Eight", described in "chapter 5"). Shy and soft-spoken, Bigby was often eclipsed by his mentor, who taught Bigby how to control his ambitions. After years of adventuring, Bigby crafted a handful of spells that gained him widespread renown. Of these spells, [Bigby's Hand](/Compendium/spells/bigbys-hand-xphb.md) is his undisputed magnum opus.
 
-A recent misadventure led to Bigby's untimely demise. After he was crushed to death by a frost giant's boulder, Bigby was the target of a [[reincarnate-xphb|Reincarnate]] spell. The spell transformed Bigby from a human into a gnome. Before setting off on his next adventure, Bigby was overheard saying how curious he was to experience the multiverse from a gnome's perspective.
+A recent misadventure led to Bigby's untimely demise. After he was crushed to death by a frost giant's boulder, Bigby was the target of a [Reincarnate](/Compendium/spells/reincarnate-xphb.md) spell. The spell transformed Bigby from a human into a gnome. Before setting off on his next adventure, Bigby was overheard saying how curious he was to experience the multiverse from a gnome's perspective.
 
 ## Boo
 
@@ -101,7 +100,7 @@ Elminster *(el-MIN-ster)* is a powerful and ancient archmage in the Forgotten Re
 
 ## Euryale
 
-One card in the [[deck-of-many-things-cards-xdmg|Deck of Many Things]] (see "chapter 7") bears a person's proper name, and the card's namesake, Euryale *(YUR-ee-ale or yur-EYE-a-lee)*, is the subject of much speculation. Often assumed to be a fearsome demigod (perhaps the first medusa) or the wielder of a destructive curse, Euryale is actually a key part of the story of the magical deck's creation. After befriending a princess named Asteria and spending many years in her dear friend's company, Euryale was captured and sentenced to death by Asteria's father. Asteria pleaded with the gods to save her friend, and Istus (a god from the Greyhawk setting; see "chapter 5") intervened to help the pair rewrite their story, creating the *Deck of Many Things*. The magic of the deck helped the two escape, and they adventured together across the multiverse. Eventually, Euryale—having become an ancient, wise, and powerful Druid—settled in the "Outlands" (see "chapter 6"), where she still sometimes acts as a patron, mentor, or ally for adventurers.
+One card in the [Deck of Many Things](/Compendium/items/deck-of-many-things-xdmg.md) (see "chapter 7") bears a person's proper name, and the card's namesake, Euryale *(YUR-ee-ale or yur-EYE-a-lee)*, is the subject of much speculation. Often assumed to be a fearsome demigod (perhaps the first medusa) or the wielder of a destructive curse, Euryale is actually a key part of the story of the magical deck's creation. After befriending a princess named Asteria and spending many years in her dear friend's company, Euryale was captured and sentenced to death by Asteria's father. Asteria pleaded with the gods to save her friend, and Istus (a god from the Greyhawk setting; see "chapter 5") intervened to help the pair rewrite their story, creating the *Deck of Many Things*. The magic of the deck helped the two escape, and they adventured together across the multiverse. Eventually, Euryale—having become an ancient, wise, and powerful Druid—settled in the "Outlands" (see "chapter 6"), where she still sometimes acts as a patron, mentor, or ally for adventurers.
 
 ## Fallbacks, The
 
@@ -119,7 +118,7 @@ In the Dragonlance setting, "Bahamut"—who is known there as Paladine—dwelled
 
 When the gears of the plane of "Mechanus" (see "chapter 6") complete seventeen cycles—once every 289 years—the modron *(MOE-dron)* leader, Primus, sends a vast army of modrons across the Outer Planes. The purpose of this march is unclear. Most believe it to be a data-gathering mission meant to ascertain the current state of the cosmos, but some see it as reconnaissance aimed at some future act of conquest. The march is long and dangerous, and only a small number of modrons returns to Mechanus.
 
-![The Great Modron March](Compendium/books/dungeon-masters-guide-2024/img/205-11-002-modron-march.webp#center)
+![The Great Modron March](/Compendium/books/dungeon-masters-guide-2024/img/205-11-002-modron-march.webp#center)
 
 ## Gruumsh
 
@@ -127,7 +126,7 @@ Gruumsh *(GROOMSH)* is a warring god who is often described as the creator or pa
 
 ## Hadar
 
-Hadar *(HAY-dar or ha-DARR)*, the Dark Hunger, is an ancient stellar entity originating from the "Far Realm" (see "chapter 6"). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the [[arms-of-hadar-xphb|Arms of Hadar]] and [[hunger-of-hadar-xphb|Hunger of Hadar]] spells in the "Player's Handbook"), and a few Warlocks claim this "Elder Evil" as their Great Old One patron.
+Hadar *(HAY-dar or ha-DARR)*, the Dark Hunger, is an ancient stellar entity originating from the "Far Realm" (see "chapter 6"). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the [Arms of Hadar](/Compendium/spells/arms-of-hadar-xphb.md) and [Hunger of Hadar](/Compendium/spells/hunger-of-hadar-xphb.md) spells in the "Player's Handbook"), and a few Warlocks claim this "Elder Evil" as their Great Old One patron.
 
 ## Harpers, The
 
@@ -151,9 +150,9 @@ Icewind Dale is the northernmost settled region of the Forgotten Realms setting.
 
 ## Iggwilv
 
-![The Wizard Tasha, before s...](Compendium/books/dungeon-masters-guide-2024/img/206-11-003-tasha.webp#center "The Wizard Tasha, before she became Iggwilv the Witch Queen")
+![The Wizard Tasha, before she became Iggwilv the Witch Queen](/Compendium/books/dungeon-masters-guide-2024/img/206-11-003-tasha.webp#center)
 
-Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see "Zagyg"). Later, as an adventurer, she created several new spells, including [[tashas-hideous-laughter-xphb|Tasha's Hideous Laughter]] and [[tashas-bubbling-cauldron-xphb|Tasha's Bubbling Cauldron]], leaning on the teachings of her adoptive mother, the arch-hag "Baba Yaga". As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [[demonomicon-of-iggwilv-xdmg|Demonomicon of Iggwilv]] (see "chapter 7"). She also bound and trapped the demon lord "Graz'zt" (see "chapter 6").
+Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see "Zagyg"). Later, as an adventurer, she created several new spells, including [Tasha's Hideous Laughter](/Compendium/spells/tashas-hideous-laughter-xphb.md) and [Tasha's Bubbling Cauldron](/Compendium/spells/tashas-bubbling-cauldron-xphb.md), leaning on the teachings of her adoptive mother, the arch-hag "Baba Yaga". As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [Demonomicon of Iggwilv](/Compendium/items/demonomicon-of-iggwilv-xdmg.md) (see "chapter 7"). She also bound and trapped the demon lord "Graz'zt" (see "chapter 6").
 
 Iggwilv ruled Perrenland as a tyrant. When Graz'zt escaped his magical prison, Iggwilv went into hiding. Iggwilv's current location is unknown, but she left behind a cambion son ("Iuz"), who has his mother's tyrannical bent, and a daughter (Drelnza), who is now a vampire and lairs in the Lost Caverns of Tsojcanth (see ""Greyhawk Gazetteer"" in "chapter 5"), not far from her mother's old haunts.
 
@@ -167,7 +166,7 @@ The youngest and most recently appointed member of the "Circle of Eight" (see "c
 
 ## Kas the Betrayer
 
-Kas *(KOSS)* is a vampire, legendary sword-fighter, and ruthless warlord. He once served as the leader of "Vecna"'s armies and the lich's most trusted lieutenant, and he wielded a sword made for him (the [[sword-of-kas-xdmg|Sword of Kas]], described in "chapter 7") by his liege. But the evil sword convinced Kas to betray Vecna, and now Kas is driven primarily by his hatred for his former lord.
+Kas *(KOSS)* is a vampire, legendary sword-fighter, and ruthless warlord. He once served as the leader of "Vecna"'s armies and the lich's most trusted lieutenant, and he wielded a sword made for him (the [Sword of Kas](/Compendium/items/sword-of-kas-xdmg.md), described in "chapter 7") by his liege. But the evil sword convinced Kas to betray Vecna, and now Kas is driven primarily by his hatred for his former lord.
 
 ## Keraptis
 
@@ -177,7 +176,7 @@ According to legend, Keraptis *(kuh-RAP-tiss)* was an evil archmage who long ago
 
 Variously identified as an "Elder Evil", as a demigod, or as a mortal priest of the demon lord "Orcus" (see "chapter 6"), Kyuss *(KYE-uss)* is a mysterious figure best known as the Worm That Walks. Kyuss manifests on the Material Plane as a colossal mass of maggots and worms animated by a single evil will.
 
-![Kyuss](Compendium/books/dungeon-masters-guide-2024/img/207-11-004-kyuss.webp#center)
+![Kyuss](/Compendium/books/dungeon-masters-guide-2024/img/207-11-004-kyuss.webp#center)
 
 ## Laeral Silverhand
 
@@ -201,7 +200,7 @@ Minsc *(MINSK)* is a heroic Ranger from the land of Rashemen in the Forgotten Re
 
 ## Mithral
 
-Mithral *(MITH-ral)* is a light, flexible metal that resembles silver but is much more durable. Its most common use is for crafting lightweight armor that provides excellent protection without bulk or burden (see the [[mithral-armor-xdmg|Mithral Armor]] magic item in "chapter 7").
+Mithral *(MITH-ral)* is a light, flexible metal that resembles silver but is much more durable. Its most common use is for crafting lightweight armor that provides excellent protection without bulk or burden (see the [Mithral Armor](/Compendium/items/mithral-armor-xdmg.md) magic item in "chapter 7").
 
 ## Moradin
 
@@ -225,7 +224,7 @@ Otiluke *(AW-teh-luke)* is an impulsive, aggressive Wizard who is the main agent
 
 ## Otto
 
-Otto *(AW-toe)* is an affable dwarf Bard with a taste for fine food, good music, and expensively tailored clothes. His sociable and outgoing personality masks the fact that he's also a member of the "Circle of Eight" (see "chapter 5") and committed to the goals of that organization. He is well-known across the multiverse for his creation of the [[ottos-irresistible-dance-xphb|Otto's Irresistible Dance]] spell.
+Otto *(AW-toe)* is an affable dwarf Bard with a taste for fine food, good music, and expensively tailored clothes. His sociable and outgoing personality masks the fact that he's also a member of the "Circle of Eight" (see "chapter 5") and committed to the goals of that organization. He is well-known across the multiverse for his creation of the [Otto's Irresistible Dance](/Compendium/spells/ottos-irresistible-dance-xphb.md) spell.
 
 ## Phandalin
 
@@ -237,7 +236,7 @@ In the past few years, hardy folk from the cities of "Neverwinter" and "Waterdee
 
 The Prince of Frost is a son of Titania, the "Summer Queen". He was once known as the Sun Prince, but his heart grew cold when he was spurned by the fey noble he loved. He is now a creature of wrath and winter, ruling from his Fortress of Frozen Tears in the Vale of Long Night in the "Feywild" (see "chapter 6"). He detests mortals of the Material Plane and dreams of covering their many worlds with perpetual winter.
 
-![The Prince of Frost](Compendium/books/dungeon-masters-guide-2024/img/208-11-005-the-prince-of-frost.webp#center)
+![The Prince of Frost](/Compendium/books/dungeon-masters-guide-2024/img/208-11-005-the-prince-of-frost.webp#center)
 
 ## Queen of Air and Darkness, The
 
@@ -249,7 +248,7 @@ The Raven Queen is a being of mystery. Those who claim to have encountered her h
 
 Despite all attempts to demystify her, the Raven Queen has remained enigmatic and aloof. She rules from her Raven Throne within the Fortress of Memories, a mazelike castle deep within the bleakness of the "Shadowfell" (see "chapter 6"). From there she sends out her raven servants to find interesting souls she can pluck from the planes of existence. Once these souls are in the Shadowfell, she watches as they attempt to unravel the mystery of their being.
 
-![The Raven Queen](Compendium/books/dungeon-masters-guide-2024/img/209-11-006-the-raven-queen.webp#center)
+![The Raven Queen](/Compendium/books/dungeon-masters-guide-2024/img/209-11-006-the-raven-queen.webp#center)
 
 ## Rock of Bral, The
 
@@ -281,7 +280,7 @@ In the centuries since his transformation, Strahd's lust for life has grown. He 
 
 Titania, the Summer Queen, is the regal and charismatic ruler of the "Summer Court" in the "Feywild" (see "chapter 6"). Perhaps the mightiest of the archfey, she can ripen a crop with a smile and summon wildfires with the merest crinkling of her brow.
 
-![The Summer Queen](Compendium/books/dungeon-masters-guide-2024/img/210-11-007-the-summer-queen.webp#center)
+![The Summer Queen](/Compendium/books/dungeon-masters-guide-2024/img/210-11-007-the-summer-queen.webp#center)
 
 ## Sword Coast, The
 
@@ -327,11 +326,11 @@ Prominent members of Valor's Call include the dwarf Fighter Elkhorn, the human C
 
 ## Vecna
 
-Vecna *(VECK-nah)* had humble beginnings in the Greyhawk setting, where an order of Wizards used him as a bootblack and scribe. He studied magic in secret until he amassed enough power to slaughter the order, and then he turned his efforts toward scribing the [[book-of-vile-darkness-xdmg|Book of Vile Darkness]] (described in "chapter 7"). Armed with that dread tome, he forged a kingdom to rule, with the vampire "Kas" as his lieutenant. But Kas betrayed and killed him, leaving only one hand and one eye intact (the [[eye-and-hand-of-vecna-xdmg|Eye and Hand of Vecna]] are described in "chapter 7").
+Vecna *(VECK-nah)* had humble beginnings in the Greyhawk setting, where an order of Wizards used him as a bootblack and scribe. He studied magic in secret until he amassed enough power to slaughter the order, and then he turned his efforts toward scribing the [Book of Vile Darkness](/Compendium/items/book-of-vile-darkness-xdmg.md) (described in "chapter 7"). Armed with that dread tome, he forged a kingdom to rule, with the vampire "Kas" as his lieutenant. But Kas betrayed and killed him, leaving only one hand and one eye intact (the [Eye and Hand of Vecna](/Compendium/items/eye-and-hand-of-vecna-xdmg.md) are described in "chapter 7").
 
 Vecna's evil will was so great that he persisted beyond death and eventually became a demigod of secrets and evil magic. His ambition drives him to pursue greater divine power across the multiverse.
 
-![Vecna](Compendium/books/dungeon-masters-guide-2024/img/211-11-008-vecna.webp#center)
+![Vecna](/Compendium/books/dungeon-masters-guide-2024/img/211-11-008-vecna.webp#center)
 
 ## Venger
 
@@ -353,7 +352,7 @@ Waterdeep is the most famous and cosmopolitan city in the Forgotten Realms setti
 
 Xanathar *(ZAN-a-thar)* is an eccentric beholder crime lord dwelling beneath "Waterdeep". Desiring to know all there is to know, Xanathar collects knowledge from across the multiverse, but its most prized possession is its goldfish, Sylgar.
 
-![Xanathar is a tyrannical c...](Compendium/books/dungeon-masters-guide-2024/img/212-11-009-xanathar.webp#center "Xanathar is a tyrannical crime lord as well as a beholder")
+![Xanathar is a tyrannical crime lord as well as a beholder](/Compendium/books/dungeon-masters-guide-2024/img/212-11-009-xanathar.webp#center)
 
 ## Yawning Portal, The
 

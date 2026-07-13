@@ -1,17 +1,17 @@
 ---
-title: Leather Armor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/armor/light
 - item/rarity/none
-aliases: 
+aliases:
 - "Leather Armor"
 ---
 # Leather Armor
 *Light armor*  
-![](Compendium/items/img/leather-armor.webp#right)
+![](/Compendium/items/img/leather-armor.webp#right)
 
 - **Armor Class**: 11 + Dex modifier
 - **Cost**: 10 gp

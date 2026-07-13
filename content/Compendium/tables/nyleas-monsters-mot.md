@@ -1,12 +1,11 @@
 ---
-title: "Nylea's Monsters"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Nylea's Monsters
+- "Nylea's Monsters"
 ---
 # Nylea's Monsters
 *Source: Mythic Odysseys of Theros p. 157* 
@@ -15,17 +14,17 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/2 | [[scout-xmm|Scout]] |
-| 1 | [[dryad-xmm|Dryad]] |
-| 1 | Nyxborn [[brown-bear-xmm|brown bear]]* |
-| 2 | Nyxborn [[saber-toothed-tiger-xmm|saber-toothed tiger]]* |
-| 2 | [[satyr-thornbearer-mot|Satyr thornbearer]] |
-| 3 | [[archer-vgm|Archer]] |
-| 5 | [[shambling-mound-xmm|Shambling mound]] |
-| 5 | [[unicorn-legendary-xmm|Unicorn]]* |
-| 9 | [[treant-xmm|Treant]] |
-| 12 | [[ironscale-hydra-mot|Ironscale hydra]] |
-| 19 | [[polukranos-mot|Polukranos]] |
+| 1/2 | [Scout](/Compendium/bestiary/humanoid/scout-xmm.md) |
+| 1 | [Dryad](/Compendium/bestiary/fey/dryad-xmm.md) |
+| 1 | Nyxborn [brown bear](/Compendium/bestiary/beast/brown-bear-xmm.md)* |
+| 2 | Nyxborn [saber-toothed tiger](/Compendium/bestiary/beast/saber-toothed-tiger-xmm.md)* |
+| 2 | [Satyr thornbearer](/Compendium/bestiary/fey/satyr-thornbearer-mot.md) |
+| 3 | Archer |
+| 5 | [Shambling mound](/Compendium/bestiary/plant/shambling-mound-xmm.md) |
+| 5 | [Unicorn](/Compendium/bestiary/celestial/unicorn-xmm.md)* |
+| 9 | [Treant](/Compendium/bestiary/plant/treant-xmm.md) |
+| 12 | [Ironscale hydra](/Compendium/bestiary/monstrosity/ironscale-hydra-mot.md) |
+| 19 | [Polukranos](/Compendium/bestiary/npc/polukranos-mot.md) |
 ^nyleas-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

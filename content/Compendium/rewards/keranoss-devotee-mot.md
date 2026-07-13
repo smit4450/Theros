@@ -1,13 +1,12 @@
 ---
-title: "Keranos's Devotee"
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - reward/piety-trait
 aliases:
-- Keranos's Devotee
+- "Keranos's Devotee"
 ---
 # Keranos's Devotee
 *Piety Trait*  

@@ -1,16 +1,15 @@
 ---
-title: Psi Warrior
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - subclass/fighter/psi-warrior
 aliases:
-- Psi Warrior
+- "Psi Warrior"
 ---
 # Psi Warrior
-*[[fighter-xphb|Fighter]]: Fighter Subclass*  
+*[Fighter](./fighter-xphb.md): Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 98*  
 
 > [!tldr] Class and Feature Progression
@@ -44,14 +43,13 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Psi Warrior (Level 3)
+![](/Compendium/classes/img/psi-warrior-fighter.webp#right)
 
 *Augment Physical Might with Psionic Power*
 
 Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.
+
+## Subclass Features
 
 ### Psionic Power (Level 3)
 
@@ -71,11 +69,11 @@ You harbor a wellspring of psionic energy within yourself. It is represented by 
 
 Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend the Psionic Energy Die, as specified in a power's description, and you can't use a power if it requires you to use a die when all your Psionic Energy Dice are expended.
 
-You regain one of your expended Psionic Energy Dice when you finish a [[short-rest-xphb|Short Rest]], and you regain all of them when you finish a [[long-rest-xphb|Long Rest]].
+You regain one of your expended Psionic Energy Dice when you finish a [Short Rest](/Compendium/rules/variant-rules/short-rest-xphb.md), and you regain all of them when you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ### Protective Field (Level 3)
 
-When you or another creature you can see within 30 feet of you takes damage, you can take a [[reaction-xphb|Reaction]] to expend one Psionic Energy Die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.
+When you or another creature you can see within 30 feet of you takes damage, you can take a [Reaction](/Compendium/rules/variant-rules/reaction-xphb.md) to expend one Psionic Energy Die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.
 
 ### Psionic Strike (Level 3)
 
@@ -83,9 +81,9 @@ You can propel your weapons with psionic force. Once on each of your turns, imme
 
 ### Telekinetic Movement (Level 3)
 
-You can move an object or a creature with your mind. As a [[actions#Magic|Magic]] action, choose one target you can see within 30 feet of yourself; the target must be a loose object that is Large or smaller or one willing creature other than you. You transport the target up to 30 feet to an unoccupied space you can see. Alternatively, if the target is a Tiny object, you can transport it to or from your hand.
+You can move an object or a creature with your mind. As a [Magic](/Compendium/rules/actions.md#Magic) action, choose one target you can see within 30 feet of yourself; the target must be a loose object that is Large or smaller or one willing creature other than you. You transport the target up to 30 feet to an unoccupied space you can see. Alternatively, if the target is a Tiny object, you can transport it to or from your hand.
 
-Once you take this action, you can't do so again until you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
+Once you take this action, you can't do so again until you finish a [Short](/Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 ### Telekinetic Adept (Level 7)
 
@@ -93,24 +91,24 @@ You have mastered new ways to use your telekinetic abilities, detailed below.
 
 ### Psi-Powered Leap (Level 7)
 
-As a [[bonus-action-xphb|Bonus Action]], you gain a [[fly-speed-xphb|Fly Speed]] equal to twice your [[speed-xphb|Speed]] until the end of the current turn. Once you take this [[bonus-action-xphb|Bonus Action]], you can't do so again until you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
+As a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md), you gain a [Fly Speed](/Compendium/rules/variant-rules/fly-speed-xphb.md) equal to twice your [Speed](/Compendium/rules/variant-rules/speed-xphb.md) until the end of the current turn. Once you take this [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md), you can't do so again until you finish a [Short](/Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 ### Telekinetic Thrust (Level 7)
 
-When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw (DC 8 plus your Intelligence modifier and [[proficiency-xphb|Proficiency Bonus]]). On a failed save, you can give the target the [[conditions#Prone|Prone]] condition or transport it up to 10 feet horizontally.
+When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw (DC 8 plus your Intelligence modifier and [Proficiency Bonus](/Compendium/rules/variant-rules/proficiency-xphb.md)). On a failed save, you can give the target the [Prone](/Compendium/rules/conditions.md#Prone) condition or transport it up to 10 feet horizontally.
 
 ### Guarded Mind (Level 10)
 
-You have [[resistance-rules-xphb|Resistance]] to Psychic damage. Moreover, if you start your turn with the [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself giving you those conditions.
+You have [Resistance](/Compendium/rules/variant-rules/resistance-xphb.md) to Psychic damage. Moreover, if you start your turn with the [Charmed](/Compendium/rules/conditions.md#Charmed) or [Frightened](/Compendium/rules/conditions.md#Frightened) condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself giving you those conditions.
 
 ### Bulwark of Force (Level 15)
 
-You can shield yourself and others with telekinetic force. As a [[bonus-action-xphb|Bonus Action]], you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has [[cover-table-xphb|Half Cover]] for 1 minute or until you have the [[conditions#Incapacitated|Incapacitated]] condition.
+You can shield yourself and others with telekinetic force. As a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md), you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has [Half Cover](/Compendium/rules/variant-rules/cover-xphb.md) for 1 minute or until you have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
 
-Once you use this feature, you can't do so again until you finish a [[long-rest-xphb|Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
+Once you use this feature, you can't do so again until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 ### Telekinetic Master (Level 18)
 
-You always have the [[telekinesis-xphb|Telekinesis]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain [[conditions#Concentration|Concentration]] on it, including the turn when you cast it, you can make one attack with a weapon as a [[bonus-action-xphb|Bonus Action]].
+You always have the [Telekinesis](/Compendium/spells/telekinesis-xphb.md) spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain [Concentration](/Compendium/rules/conditions.md#Concentration) on it, including the turn when you cast it, you can make one attack with a weapon as a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md).
 
-Once you cast the spell with this feature, you can't do so in this way again until you finish a [[long-rest-xphb|Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
+Once you cast the spell with this feature, you can't do so in this way again until you finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a Psionic Energy Die (no action required) to restore your use of it.

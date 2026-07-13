@@ -1,22 +1,22 @@
 ---
-title: Hand Crossbow
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/ranged
-aliases: 
+aliases:
 - "Hand Crossbow"
 ---
 # Hand Crossbow
 *Weapon*  
-![](Compendium/items/img/hand-crossbow.webp#right)
+![](/Compendium/items/img/hand-crossbow.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Light|Light]], [[item-properties#Loading|Loading]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition), [Light](/Compendium/rules/item-properties.md#Light), [Loading](/Compendium/rules/item-properties.md#Loading)
 - **Cost**: 75 gp
 - **Weight**: 3.0 lbs.
 

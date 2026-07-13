@@ -1,12 +1,11 @@
 ---
-title: "Iroas's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Iroas's Quests
+- "Iroas's Quests"
 ---
 # Iroas's Quests
 *Source: Mythic Odysseys of Theros p. 132* 

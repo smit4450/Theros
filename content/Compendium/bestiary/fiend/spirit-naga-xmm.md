@@ -1,28 +1,28 @@
 ---
-title: Spirit Naga
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/8
 - monster/environment/lower
 - monster/environment/planar
 - monster/environment/underdark
 - monster/size/large
 - monster/type/fiend
-statblock: inline
-aliases: ["Spirit Naga"]
+aliases:
+- "Spirit Naga"
 ---
 # Spirit Naga
 *Source: Monster Manual (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/fiend/img/spirit-naga.webp#right)
 
-![](Compendium/bestiary/fiend/img/spirit-naga.webp#right|850)  
 ## Spirit Naga
 
 *Spiteful Serpentine Grudge Keeper*
 
 - **Habitat.** Planar (Lower Planes), Underdark  
-- **Treasure.** [[random-magic-items-arcana|Arcana]]  
+- **Treasure.** [Arcana](/Compendium/tables/random-magic-items-arcana.md)  
 
 Spirit nagas loathe the world and all creatures. Possessing perfect memories, these venomous, cobra-like creatures recall every slight committed against them during their immortal existences. In their dank, joyless lairs, they create vicious plots to avenge themselves against even petty offenses.
 
@@ -39,58 +39,49 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 | 5 | A rival is spying on it. |
 | 6 | Someone's treasure rightfully belongs to it. |
 ^spirit-naga-grievances
-```statblock
-"name": "Spirit Naga (XMM)"
-"size": "Large"
-"type": "fiend"
-"alignment": "Chaotic Evil"
-"ac": !!int "17"
-"hp": !!int "135"
-"hit_dice": "18d10 + 36"
-"modifier": !!int "3"
-"stats":
-  - !!int "18"
-  - !!int "17"
-  - !!int "14"
-  - !!int "16"
-  - !!int "15"
-  - !!int "16"
-"speed": "40 ft."
-"saves":
-  - "dexterity": !!int "6"
-  - "constitution": !!int "5"
-  - "wisdom": !!int "5"
-  - "charisma": !!int "6"
-"damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Poisoned|poisoned]]"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., passive Perception\
-  \ 12"
-"languages": "Abyssal, Common"
-"cr": "8"
-"traits":
-  - "desc": "If it dies, the naga returns to life in 1d6 days and regains all its\
-      \ [[hit-points-xphb|Hit Points]]. Only a [[wish-xphb|Wish]]\
-      \ spell can prevent this trait from functioning."
-    "name": "Fiendish Restoration"
-"actions":
-  - "desc": "The naga makes three attacks, using Bite or Necrotic Ray in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 7 (1d6 + 4) Piercing\
-      \ damage plus 14 (4d6) Poison damage."
-    "name": "Bite"
-  - "desc": "*Ranged Attack Roll:* +6, range 60 ft. *Hit:* 21 (6d6) Necrotic damage."
-    "name": "Necrotic Ray"
-  - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
-      \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 14):\n\n**At will:** [[detect-magic-xphb|Detect Magic]],\
-      \ [[mage-hand-xphb|Mage Hand]], [[minor-illusion-xphb|Minor Illusion]],\
-      \ [[water-breathing-xphb|Water Breathing]]\n\n**2/day each:**\
-      \ [[detect-thoughts-xphb|Detect Thoughts]], [[dimension-door-xphb|Dimension Door]],\
-      \ [[hold-person-xphb|Hold Person]] (level 3 version), [[lightning-bolt-xphb|Lightning\
-      \ Bolt]] (level 4 version)"
-    "name": "Spellcasting"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/fiend/token/spirit-naga-xmm.webp"
+
+```ad-statblock
+title: Spirit Naga
+![](/Compendium/bestiary/fiend/token/spirit-naga-xmm.webp#token)
+*Large fiend, Chaotic Evil*
+
+- **Armor Class** 17 
+- **Hit Points** 135 (`18d10 + 36`) 
+- **Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +6, Constitution +5, Wisdom +5, Charisma +6
+- **Skills** ⏤
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [poisoned](/Compendium/rules/conditions.md#Poisoned)
+- **Languages** Abyssal, Common
+- **Challenge** 8
+
+## Traits
+
+***Fiendish Restoration.*** If it dies, the naga returns to life in `1d6` days and regains all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md). Only a [Wish](/Compendium/spells/wish-xphb.md) spell can prevent this trait from functioning.
+
+## Actions
+
+***Multiattack.*** The naga makes three attacks, using Bite or Necrotic Ray in any combination.
+
+***Bite.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 7 (`1d6 + 4`) Piercing damage plus 14 (`4d6`) Poison damage.
+
+***Necrotic Ray.*** *Ranged Attack Roll:* `+6`, range 60 ft. *Hit:* 21 (`6d6`) Necrotic damage.
+
+***Spellcasting.*** The naga casts one of the following spells, requiring no Somatic or Material components and using Intelligence as the spellcasting ability (spell save DC 14):
+
+**At will:** [Detect Magic](/Compendium/spells/detect-magic-xphb.md), [Mage Hand](/Compendium/spells/mage-hand-xphb.md), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md), [Water Breathing](/Compendium/spells/water-breathing-xphb.md)
+
+**2/day each:** [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md), [Dimension Door](/Compendium/spells/dimension-door-xphb.md), [Hold Person](/Compendium/spells/hold-person-xphb.md) (level 3 version), [Lightning Bolt](/Compendium/spells/lightning-bolt-xphb.md) (level 4 version)
 ```
 ^statblock
+
+## Environment
+
+planar, lower, underdark

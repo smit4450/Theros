@@ -1,15 +1,14 @@
 ---
-title: Spells for Misty Visions
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
 - spell/list/optfeature/misty-visions
 aliases:
-- Spells for Misty Visions
+- "Spells for Misty Visions"
 ---
 # Spells for Misty Visions
 
 ## 1st Level
 
-- [Silent Image](Compendium/spells/silent-image-xphb.md "XPHB")
+- [Silent Image](/Compendium/spells/silent-image-xphb.md "XPHB")

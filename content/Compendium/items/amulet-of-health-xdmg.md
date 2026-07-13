@@ -1,17 +1,17 @@
 ---
-title: Amulet of Health
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/rare
-aliases: 
+aliases:
 - "Amulet of Health"
 ---
 # Amulet of Health
 *Wondrous item, rare (requires attunement)*  
-![](Compendium/items/img/amulet-of-health.webp#right)
+![](/Compendium/items/img/amulet-of-health.webp#right)
 
 - **Weight**: 1.0 lbs.
 

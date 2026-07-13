@@ -1,12 +1,11 @@
 ---
-title: Deep Ethereal; Ethereal Curtains
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Deep Ethereal; Ethereal Curtains
+- "Deep Ethereal; Ethereal Curtains"
 ---
 # Deep Ethereal; Ethereal Curtains
 *Source: Dungeon Master's Guide (2024) p. 192* 

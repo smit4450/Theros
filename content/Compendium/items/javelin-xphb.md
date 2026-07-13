@@ -1,22 +1,22 @@
 ---
-title: Javelin
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/melee
 - item/weapon/simple
-aliases: 
+aliases:
 - "Javelin"
 ---
 # Javelin
 *Weapon*  
-![](Compendium/items/img/javelin.webp#right)
+![](/Compendium/items/img/javelin.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[item-properties#Thrown|Thrown]]
+- **Properties**: [Thrown](/Compendium/rules/item-properties.md#Thrown)
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 

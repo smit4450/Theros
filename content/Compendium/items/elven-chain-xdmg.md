@@ -1,24 +1,24 @@
 ---
-title: Elven Chain
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/medium
 - item/rarity/rare
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Elven Chain"
 - "Elven Chain Mail"
 - "Elven Chain Shirt"
 ---
 # Elven Chain
 *Rare*  
-![](Compendium/items/img/elven-chain.webp#right)
+![](/Compendium/items/img/elven-chain.webp#right)
 
 
-You gain a +1 bonus to [[armor-class-xphb|Armor Class]] while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
+You gain a +1 bonus to [Armor Class](/Compendium/rules/variant-rules/armor-class-xphb.md) while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
 
 **Variants**:
 - [Elven Chain Mail](#Elven%20Chain%20Mail)

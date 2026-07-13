@@ -1,12 +1,11 @@
 ---
-title: All Is Well
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- All Is Well
+- "All Is Well"
 ---
 # All Is Well
 *Source: Dungeon Master's Guide (2024) p. 350* 

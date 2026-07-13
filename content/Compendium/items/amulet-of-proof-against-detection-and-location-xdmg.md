@@ -1,17 +1,17 @@
 ---
-title: Amulet of Proof against Detection and Location
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/uncommon
-aliases: 
+aliases:
 - "Amulet of Proof against Detection and Location"
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, uncommon (requires attunement)*  
-![](Compendium/items/img/amulet-of-proof-against-detection-and-location.webp#right)
+![](/Compendium/items/img/amulet-of-proof-against-detection-and-location.webp#right)
 
 - **Weight**: 1.0 lbs.
 

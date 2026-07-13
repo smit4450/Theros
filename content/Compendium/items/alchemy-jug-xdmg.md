@@ -1,22 +1,22 @@
 ---
-title: Alchemy Jug
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/rarity/uncommon
-aliases: 
+aliases:
 - "Alchemy Jug"
 ---
 # Alchemy Jug
 *Wondrous item, uncommon*  
-![](Compendium/items/img/alchemy-jug.webp#right)
+![](/Compendium/items/img/alchemy-jug.webp#right)
 
 - **Weight**: 12.0 lbs.
 
 This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. The jug sloshes when it is shaken, even if the jug is empty.
 
-You can take a [[actions#Magic|Magic]] action and name one liquid from the Alchemy Jug Liquids table to cause the jug to produce the chosen liquid. Afterward, you can uncork the jug as a [[actions#Utilize|Utilize]] action and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid you named.
+You can take a [Magic](/Compendium/rules/actions.md#Magic) action and name one liquid from the Alchemy Jug Liquids table to cause the jug to produce the chosen liquid. Afterward, you can uncork the jug as a [Utilize](/Compendium/rules/actions.md#Utilize) action and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid you named.
 
 Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.
 

@@ -1,12 +1,12 @@
 ---
-title: Potion of Aqueous Form
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - item/rarity/rare
 - item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Aqueous Form"
 ---
 # Potion of Aqueous Form
@@ -14,7 +14,7 @@ aliases:
 
 
 
-When you drink this potion, you transform into a pool of water. You return to your true form after 10 minutes or if you are [[conditions#Incapacitated|incapacitated]] or die.
+When you drink this potion, you transform into a pool of water. You return to your true form after 10 minutes or if you are [incapacitated](/Compendium/rules/conditions.md#Incapacitated) or die.
 
 You're under the following effects while in this form:
 

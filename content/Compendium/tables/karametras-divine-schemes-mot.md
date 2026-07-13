@@ -1,12 +1,11 @@
 ---
-title: "Karametra's Divine Schemes"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Karametra's Divine Schemes
+- "Karametra's Divine Schemes"
 ---
 # Karametra's Divine Schemes
 *Source: Mythic Odysseys of Theros p. 137* 

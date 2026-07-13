@@ -1,17 +1,17 @@
 ---
-title: Padded Armor
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/armor/light
 - item/rarity/none
-aliases: 
+aliases:
 - "Padded Armor"
 ---
 # Padded Armor
 *Light armor*  
-![](Compendium/items/img/padded-armor.webp#right)
+![](/Compendium/items/img/padded-armor.webp#right)
 
 - **Armor Class**: 11 + Dex modifier
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

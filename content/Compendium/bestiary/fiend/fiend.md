@@ -1,71 +1,70 @@
 ---
-title: Index of Fiend
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
-tags:
-  - utility/
 ---
 # Index of Fiend
 
-- [[abhorrent-overlord-mot|Abhorrent Overlord]]
-- [[arcanaloth-xmm|Arcanaloth]]
-- [[balor-xmm|Balor]]
-- [[barbed-devil-xmm|Barbed Devil]]
-- [[barlgura-xmm|Barlgura]]
-- [[bearded-devil-xmm|Bearded Devil]]
-- [[bone-devil-xmm|Bone Devil]]
-- [[cambion-xmm|Cambion]]
-- [[chain-devil-xmm|Chain Devil]]
-- [[chasme-xmm|Chasme]]
-- [[dretch-xmm|Dretch]]
-- [[eater-of-hope-mot|Eater of Hope]]
-- [[erinyes-xmm|Erinyes]]
-- [[fiendish-spirit-demon-xphb|Fiendish Spirit (Demon)]]
-- [[fiendish-spirit-devil-xphb|Fiendish Spirit (Devil)]]
-- [[fiendish-spirit-xphb|Fiendish Spirit]]
-- [[fiendish-spirit-yugoloth-xphb|Fiendish Spirit (Yugoloth)]]
-- [[glabrezu-xmm|Glabrezu]]
-- [[gnoll-demoniac-xmm|Gnoll Demoniac]]
-- [[gnoll-fang-of-yeenoghu-xmm|Gnoll Fang of Yeenoghu]]
-- [[gnoll-pack-lord-xmm|Gnoll Pack Lord]]
-- [[gnoll-warrior-xmm|Gnoll Warrior]]
-- [[goristro-xmm|Goristro]]
-- [[hell-hound-xmm|Hell Hound]]
-- [[hezrou-xmm|Hezrou]]
-- [[horned-devil-xmm|Horned Devil]]
-- [[ice-devil-xmm|Ice Devil]]
-- [[imp-xmm|Imp]]
-- [[incubus-xmm|Incubus]]
-- [[jackalwere-xmm|Jackalwere]]
-- [[lamia-xmm|Lamia]]
-- [[larva-xmm|Larva]]
-- [[lemure-xmm|Lemure]]
-- [[manes-vaporspawn-xmm|Manes Vaporspawn]]
-- [[manes-xmm|Manes]]
-- [[marilith-xmm|Marilith]]
-- [[mezzoloth-xmm|Mezzoloth]]
-- [[nalfeshnee-xmm|Nalfeshnee]]
-- [[night-hag-xmm|Night Hag]]
-- [[nightmare-shepherd-mot|Nightmare Shepherd]]
-- [[nightmare-xmm|Nightmare]]
-- [[nycaloth-xmm|Nycaloth]]
-- [[oni-xmm|Oni]]
-- [[otherworldly-steed-fiend-xphb|Otherworldly Steed (Fiend)]]
-- [[pit-fiend-xmm|Pit Fiend]]
-- [[quasit-xmm|Quasit]]
-- [[rakshasa-xmm|Rakshasa]]
-- [[sahuagin-baron-xmm|Sahuagin Baron]]
-- [[sahuagin-priest-xmm|Sahuagin Priest]]
-- [[sahuagin-warrior-xmm|Sahuagin Warrior]]
-- [[shadow-demon-xmm|Shadow Demon]]
-- [[spined-devil-xmm|Spined Devil]]
-- [[spirit-naga-xmm|Spirit Naga]]
-- [[succubus-xmm|Succubus]]
-- [[swarm-of-dretches-xmm|Swarm of Dretches]]
-- [[swarm-of-larvae-xmm|Swarm of Larvae]]
-- [[swarm-of-lemures-xmm|Swarm of Lemures]]
-- [[ultroloth-xmm|Ultroloth]]
-- [[vrock-xmm|Vrock]]
-- [[yochlol-xmm|Yochlol]]
+- [Abhorrent Overlord](./abhorrent-overlord-mot.md)
+- [Abhorrent Overlord](./abhorrent-overlord-tbvv.md)
+- [Arcanaloth](./arcanaloth-xmm.md)
+- [Balor](./balor-xmm.md)
+- [Barbed Devil](./barbed-devil-xmm.md)
+- [Barlgura](./barlgura-xmm.md)
+- [Bearded Devil](./bearded-devil-xmm.md)
+- [Bone Devil](./bone-devil-xmm.md)
+- [Cambion](./cambion-xmm.md)
+- [Chain Devil](./chain-devil-xmm.md)
+- [Chasme](./chasme-xmm.md)
+- [Dretch](./dretch-xmm.md)
+- [Eater of Hope](./eater-of-hope-mot.md)
+- [Eater of Hope](./eater-of-hope-tbvv.md)
+- [Erinyes](./erinyes-xmm.md)
+- [Fiendish Spirit](./fiendish-spirit-xphb.md)
+- [Fiendish Spirit (Demon)](./fiendish-spirit-demon-xphb.md)
+- [Fiendish Spirit (Devil)](./fiendish-spirit-devil-xphb.md)
+- [Fiendish Spirit (Yugoloth)](./fiendish-spirit-yugoloth-xphb.md)
+- [Glabrezu](./glabrezu-xmm.md)
+- [Gnoll Demoniac](./gnoll-demoniac-xmm.md)
+- [Gnoll Fang of Yeenoghu](./gnoll-fang-of-yeenoghu-xmm.md)
+- [Gnoll Pack Lord](./gnoll-pack-lord-xmm.md)
+- [Gnoll Warrior](./gnoll-warrior-xmm.md)
+- [Goristro](./goristro-xmm.md)
+- [Hell Hound](./hell-hound-xmm.md)
+- [Hezrou](./hezrou-xmm.md)
+- [Horned Devil](./horned-devil-xmm.md)
+- [Ice Devil](./ice-devil-xmm.md)
+- [Imp](./imp-xmm.md)
+- [Incubus](./incubus-xmm.md)
+- [Jackalwere](./jackalwere-xmm.md)
+- [Lamia](./lamia-xmm.md)
+- [Larva](./larva-xmm.md)
+- [Lemure](./lemure-xmm.md)
+- [Manes](./manes-xmm.md)
+- [Manes Vaporspawn](./manes-vaporspawn-xmm.md)
+- [Marilith](./marilith-xmm.md)
+- [Mezzoloth](./mezzoloth-xmm.md)
+- [Nalfeshnee](./nalfeshnee-xmm.md)
+- [Night Hag](./night-hag-xmm.md)
+- [Nightmare](./nightmare-xmm.md)
+- [Nightmare Shepherd](./nightmare-shepherd-mot.md)
+- [Nycaloth](./nycaloth-xmm.md)
+- [Oni](./oni-xmm.md)
+- [Otherworldly Steed (Fiend)](./otherworldly-steed-fiend-xphb.md)
+- [Pit Fiend](./pit-fiend-xmm.md)
+- [Quasit](./quasit-xmm.md)
+- [Rakshasa](./rakshasa-xmm.md)
+- [Sahuagin Baron](./sahuagin-baron-xmm.md)
+- [Sahuagin Priest](./sahuagin-priest-xmm.md)
+- [Sahuagin Warrior](./sahuagin-warrior-xmm.md)
+- [Shadow Demon](./shadow-demon-xmm.md)
+- [Spined Devil](./spined-devil-xmm.md)
+- [Spirit Naga](./spirit-naga-xmm.md)
+- [Succubus](./succubus-xmm.md)
+- [Swarm of Dretches](./swarm-of-dretches-xmm.md)
+- [Swarm of Larvae](./swarm-of-larvae-xmm.md)
+- [Swarm of Lemures](./swarm-of-lemures-xmm.md)
+- [Ultroloth](./ultroloth-xmm.md)
+- [Vrock](./vrock-xmm.md)
+- [Yochlol](./yochlol-xmm.md)

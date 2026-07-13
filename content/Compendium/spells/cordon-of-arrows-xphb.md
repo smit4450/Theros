@@ -1,15 +1,16 @@
 ---
-title: Cordon of Arrows
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/ranger
 - spell/level/2nd-level
 - spell/school/transmutation
 classes:
 - Ranger
-aliases: ["Cordon of Arrows"]
+aliases:
+- "Cordon of Arrows"
 ---
 # Cordon of Arrows
 *2nd-level, Transmutation*  
@@ -26,6 +27,6 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 **Using a Higher-Level Spell Slot.** The amount of ammunition that can be affected increases by two for each spell slot level above 2.
 
-**Classes**: [[list-spells-classes-ranger|Ranger]]
+**Classes**: [Ranger](/Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 258*

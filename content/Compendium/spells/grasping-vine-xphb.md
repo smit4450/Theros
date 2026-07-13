@@ -1,9 +1,9 @@
 ---
-title: Grasping Vine
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/druid
 - spell/class/ranger
@@ -13,7 +13,8 @@ classes:
 - Bard
 - Druid
 - Ranger
-aliases: ["Grasping Vine"]
+aliases:
+- "Grasping Vine"
 ---
 # Grasping Vine
 *4th-level, Conjuration*  
@@ -26,12 +27,12 @@ aliases: ["Grasping Vine"]
 
 You conjure a vine that sprouts from a surface in an unoccupied space that you can see within range. The vine lasts for the duration.
 
-Make a melee spell attack against a creature within 30 feet of the vine. On a hit, the target takes `4d8` Bludgeoning damage and is pulled up to 30 feet toward the vine; if the target is Huge or smaller, it has the [[conditions#Grappled|Grappled]] condition (escape DC equal to your spell save DC). The vine can grapple only one creature at a time, and you can cause the vine to release a [[conditions#Grappled|Grappled]] creature (no action required).
+Make a melee spell attack against a creature within 30 feet of the vine. On a hit, the target takes `4d8` Bludgeoning damage and is pulled up to 30 feet toward the vine; if the target is Huge or smaller, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC equal to your spell save DC). The vine can grapple only one creature at a time, and you can cause the vine to release a [Grappled](/Compendium/rules/conditions.md#Grappled) creature (no action required).
 
-As a [[bonus-action-xphb|Bonus Action]] on your later turns, you can repeat the attack against a creature within 30 feet of the vine.
+As a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md) on your later turns, you can repeat the attack against a creature within 30 feet of the vine.
 
 **Using a Higher-Level Spell Slot.** The number of creatures the vine can grapple increases by one for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Druid](/Compendium/lists/list-spells-classes-druid.md); [Ranger](/Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 280*

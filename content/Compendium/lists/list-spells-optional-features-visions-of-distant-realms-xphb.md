@@ -1,15 +1,14 @@
 ---
-title: Spells for Visions of Distant Realms
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
 - spell/list/optfeature/visions-of-distant-realms
 aliases:
-- Spells for Visions of Distant Realms
+- "Spells for Visions of Distant Realms"
 ---
 # Spells for Visions of Distant Realms
 
 ## 4th Level
 
-- [Arcane Eye](Compendium/spells/arcane-eye-xphb.md "XPHB")
+- [Arcane Eye](/Compendium/spells/arcane-eye-xphb.md "XPHB")

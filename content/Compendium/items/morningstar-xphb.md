@@ -1,18 +1,18 @@
 ---
-title: Morningstar
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/rarity/none
 - item/weapon/martial
 - item/weapon/melee
-aliases: 
+aliases:
 - "Morningstar"
 ---
 # Morningstar
 *Weapon*  
-![](Compendium/items/img/morningstar.webp#right)
+![](/Compendium/items/img/morningstar.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Cost**: 15 gp

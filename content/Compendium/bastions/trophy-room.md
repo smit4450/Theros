@@ -1,13 +1,12 @@
 ---
-title: Trophy Room
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion
 tags:
 - bastion
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Trophy Room
+- "Trophy Room"
 ---
 # Trophy Room
 *Level 9 Bastion facility*  

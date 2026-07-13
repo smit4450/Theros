@@ -1,12 +1,12 @@
 ---
-title: Pearl of Power
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/uncommon
-aliases: 
+aliases:
 - "Pearl of Power"
 ---
 # Pearl of Power
@@ -14,6 +14,6 @@ aliases:
 
 
 
-While this pearl is on your person, you can take a [[actions#Magic|Magic]] action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can't be used again until the next dawn.
+While this pearl is on your person, you can take a [Magic](/Compendium/rules/actions.md#Magic) action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

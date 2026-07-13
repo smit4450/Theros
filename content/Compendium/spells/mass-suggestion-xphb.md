@@ -1,21 +1,20 @@
 ---
-title: Mass Suggestion
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/sorcerer
-- spell/class/warlock
 - spell/class/wizard
 - spell/level/6th-level
 - spell/school/enchantment
 classes:
 - Bard
 - Sorcerer
-- Warlock
 - Wizard
-aliases: ["Mass Suggestion"]
+aliases:
+- "Mass Suggestion"
 ---
 # Mass Suggestion
 *6th-level, Enchantment*  
@@ -28,10 +27,10 @@ aliases: ["Mass Suggestion"]
 
 You suggest a course of activity—described in no more than 25 words—to twelve or fewer creatures you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to any of the targets or their allies. For example, you could say, "Walk to the village down that road, and help the villagers there harvest crops until sunset." Or you could say, "Now is not the time for violence. Drop your weapons, and dance! Stop in an hour."
 
-Each target must succeed on a Wisdom saving throw or have the [[conditions#Charmed|Charmed]] condition for the duration or until you or your allies deal damage to the target. Each [[conditions#Charmed|Charmed]] target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it.
+Each target must succeed on a Wisdom saving throw or have the [Charmed](/Compendium/rules/conditions.md#Charmed) condition for the duration or until you or your allies deal damage to the target. Each [Charmed](/Compendium/rules/conditions.md#Charmed) target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it.
 
 **Using a Higher-Level Spell Slot.** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days).
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-wizard|Wizard]]
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Sorcerer](/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

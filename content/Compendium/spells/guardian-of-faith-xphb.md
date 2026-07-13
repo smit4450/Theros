@@ -1,9 +1,9 @@
 ---
-title: Guardian of Faith
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - spell/class/bard
 - spell/class/cleric
 - spell/level/4th-level
@@ -15,11 +15,12 @@ classes:
 - Cleric
 - Paladin (Oath of Devotion)
 - Warlock (Celestial Patron)
-aliases: ["Guardian of Faith"]
+aliases:
+- "Guardian of Faith"
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  
-![](Compendium/spells/img/guardian-of-faith.webp#right)
+![](/Compendium/spells/img/guardian-of-faith.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -30,6 +31,6 @@ A Large spectral guardian appears and hovers for the duration in an unoccupied s
 
 Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a Dexterity saving throw, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-**Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-cleric|Cleric]]; [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard](/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](/Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Celestial Patron)](/Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

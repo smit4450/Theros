@@ -1,20 +1,20 @@
 ---
-title: Swarm of Crawling Claws
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/3
 - monster/environment/any
 - monster/size/medium
 - monster/type/undead
-statblock: inline
-aliases: ["Swarm of Crawling Claws"]
+aliases:
+- "Swarm of Crawling Claws"
 ---
 # Swarm of Crawling Claws
 *Source: Monster Manual (2024) p. 83. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/undead/img/crawling-claws.webp#right)
 
-![](Compendium/bestiary/undead/img/crawling-claws.webp#right|850)  
 Swarms of crawling claws are typically animated by depraved necromancers. Occasionally, these grotesque swarms arise from mass graves or after tragedies, refusing to let their murderers escape their grasp.
 
 ## Crawling Claws
@@ -30,51 +30,42 @@ Crawling claws are severed hands that move and act of their own murderous accord
 > 
 > Is it possible for any creature, any living being, to be inherently evil? Such an assertion may itself facilitate the committing of evil acts. By defining a person as evil, we give them free rein to behave as they will, absolving them from the wickedness of their words and the evil of their hands.
 
+
 ## Statblock
 
-```statblock
-"name": "Swarm of Crawling Claws (XMM)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "49"
-"hit_dice": "11d8"
-"modifier": !!int "2"
-"stats":
-  - !!int "14"
-  - !!int "14"
-  - !!int "11"
-  - !!int "5"
-  - !!int "10"
-  - !!int "4"
-"speed": "30 ft., climb 30 ft."
-"damage_resistances": "bludgeoning, piercing, slashing"
-"damage_immunities": "necrotic, poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
-  \ [[conditions#Incapacitated|incapacitated]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
-  \ [[conditions#Stunned|stunned]]"
-"senses": "[[senses#Blindsight|Blindsight]] 30 ft., passive Perception\
-  \ 10"
-"languages": "understands Common but can't speak"
-"cr": "3"
-"traits":
-  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
-      \ swarm can move through any opening large enough for a Tiny creature. The swarm\
-      \ can't regain [[hit-points-xphb|Hit Points]]\
-      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
-    "name": "Swarm"
-"actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 20 (4d8 + 2) Necrotic\
-      \ damage, or 11 (2d8 + 2) Necrotic damage if the swarm is [[conditions#Bloodied|Bloodied]].\
-      \ If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
-      \ condition."
-    "name": "Swarm of Grasping Hands"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/undead/token/swarm-of-crawling-claws-xmm.webp"
+```ad-statblock
+title: Swarm of Crawling Claws
+![](/Compendium/bestiary/undead/token/swarm-of-crawling-claws-xmm.webp#token)
+*Medium undead, Neutral Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 49 (`11d8`) 
+- **Speed** 30 ft., climb 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|14 (+2)|11 (+0)| 5 (-3)|10 (+0)| 4 (-3)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception 10
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled), [incapacitated](/Compendium/rules/conditions.md#Incapacitated), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [stunned](/Compendium/rules/conditions.md#Stunned)
+- **Languages** understands Common but can't speak
+- **Challenge** 3
+
+## Traits
+
+***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) or gain [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md).
+
+## Actions
+
+***Swarm of Grasping Hands.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 20 (`4d8 + 2`) Necrotic damage, or 11 (`2d8 + 2`) Necrotic damage if the swarm is [Bloodied](/Compendium/rules/conditions.md#Bloodied). If the target is a Medium or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
 ```
 ^statblock
+
+## Environment
+
+any

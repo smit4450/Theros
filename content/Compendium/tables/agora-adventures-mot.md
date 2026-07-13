@@ -1,12 +1,11 @@
 ---
-title: Agora Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 aliases:
-- Agora Adventures
+- "Agora Adventures"
 ---
 # Agora Adventures
 *Source: Mythic Odysseys of Theros p. 122* 

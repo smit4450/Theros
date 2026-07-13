@@ -1,13 +1,12 @@
 ---
-title: "Phenax's Disciple"
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - reward/piety-trait
 aliases:
-- Phenax's Disciple
+- "Phenax's Disciple"
 ---
 # Phenax's Disciple
 *Piety Trait*  

@@ -1,12 +1,11 @@
 ---
-title: Settlement Tables and Tracker; Current Calamities
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Settlement Tables and Tracker; Current Calamities
+- "Settlement Tables and Tracker; Current Calamities"
 ---
 # Settlement Tables and Tracker; Current Calamities
 *Source: Dungeon Master's Guide (2024) p. 93* 

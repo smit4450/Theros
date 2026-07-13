@@ -1,12 +1,12 @@
 ---
-title: Bell
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/
 - item/rarity/none
-aliases: 
+aliases:
 - "Bell"
 ---
 # Bell
@@ -15,6 +15,6 @@ aliases:
 
 - **Cost**: 1 gp
 
-When rung as a [[actions#Utilize|Utilize]] action, a Bell produces a sound that can be heard up to 60 feet away.
+When rung as a [Utilize](/Compendium/rules/actions.md#Utilize) action, a Bell produces a sound that can be heard up to 60 feet away.
 
 *Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

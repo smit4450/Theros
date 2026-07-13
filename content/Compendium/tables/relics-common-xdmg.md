@@ -1,12 +1,11 @@
 ---
-title: Relics - Common
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 aliases:
-- Relics - Common
+- "Relics - Common"
 ---
 # Relics - Common
 *Source: Dungeon Master's Guide (2024) p. 330* 
@@ -15,13 +14,13 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [[ear-horn-of-hearing-xdmg|Ear Horn of Hearing]] |
-| 09–28 | [[potion-of-healing-xdmg|Potion of Healing]] |
-| 29–36 | [[pot-of-awakening-xdmg|Pot of Awakening]] |
-| 37–44 | [[ruby-of-the-war-mage-xdmg|Ruby of the War Mage]] |
-| 45–52 | [[shield-of-expression-xdmg|Shield of Expression]] |
-| 53–60 | [[smoldering-armor-xdmg|Smoldering Armor]] |
-| 61–80 | [[spell-scroll-xdmg|Spell Scroll]] ([[spell-scroll-cantrip-xdmg|cantrip]] or [[spell-scroll-level-1-xdmg|level 1]] spell) |
-| 81–90 | [[staff-of-adornment-xdmg|Staff of Adornment]] |
-| 91–00 | [[staff-of-flowers-xdmg|Staff of Flowers]] |
+| 01–08 | [Ear Horn of Hearing](/Compendium/items/ear-horn-of-hearing-xdmg.md) |
+| 09–28 | [Potion of Healing](/Compendium/items/potion-of-healing-xdmg.md) |
+| 29–36 | [Pot of Awakening](/Compendium/items/pot-of-awakening-xdmg.md) |
+| 37–44 | [Ruby of the War Mage](/Compendium/items/ruby-of-the-war-mage-xdmg.md) |
+| 45–52 | [Shield of Expression](/Compendium/items/shield-of-expression-xdmg.md) |
+| 53–60 | [Smoldering Armor](/Compendium/items/smoldering-armor-xdmg.md) |
+| 61–80 | [Spell Scroll](/Compendium/items/spell-scroll-xdmg.md) ([cantrip](/Compendium/items/spell-scroll-cantrip-xdmg.md) or [level 1](/Compendium/items/spell-scroll-level-1-xdmg.md) spell) |
+| 81–90 | [Staff of Adornment](/Compendium/items/staff-of-adornment-xdmg.md) |
+| 91–00 | [Staff of Flowers](/Compendium/items/staff-of-flowers-xdmg.md) |
 ^relics-common

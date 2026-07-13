@@ -1,17 +1,17 @@
 ---
-title: Breastplate
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/armor/medium
 - item/rarity/none
-aliases: 
+aliases:
 - "Breastplate"
 ---
 # Breastplate
 *Medium armor*  
-![](Compendium/items/img/breastplate.webp#right)
+![](/Compendium/items/img/breastplate.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Cost**: 400 gp

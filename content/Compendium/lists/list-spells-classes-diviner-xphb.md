@@ -1,60 +1,59 @@
 ---
-title: Spells for Diviner
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
 - spell/list/subclass/diviner
 aliases:
-- Spells for Diviner
+- "Spells for Diviner"
 ---
 # Spells for Diviner
 
 ## Cantrip
 
-- [True Strike](Compendium/spells/true-strike-xphb.md "XPHB") at class level 7
+- [True Strike](/Compendium/spells/true-strike-xphb.md "XPHB") at class level 3
 
 ## 1st Level
 
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB") at class level 7
-- [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB") at class level 7
-- [Identify](Compendium/spells/identify-xphb.md "XPHB") at class level 7
+- [Comprehend Languages](/Compendium/spells/comprehend-languages-xphb.md "XPHB") at class level 3
+- [Detect Magic](/Compendium/spells/detect-magic-xphb.md "XPHB") at class level 3
+- [Identify](/Compendium/spells/identify-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Augury](Compendium/spells/augury-xphb.md "XPHB") at class level 7
-- [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md "XPHB") at class level 7
-- [Locate Object](Compendium/spells/locate-object-xphb.md "XPHB") at class level 7
-- [Mind Spike](Compendium/spells/mind-spike-xphb.md "XPHB") at class level 7
-- [See Invisibility](Compendium/spells/see-invisibility-xphb.md "XPHB") at class level 7
+- [Augury](/Compendium/spells/augury-xphb.md "XPHB") at class level 3
+- [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md "XPHB") at class level 3
+- [Locate Object](/Compendium/spells/locate-object-xphb.md "XPHB") at class level 3
+- [Mind Spike](/Compendium/spells/mind-spike-xphb.md "XPHB") at class level 3
+- [See Invisibility](/Compendium/spells/see-invisibility-xphb.md "XPHB") at class level 10
 
 ## 3rd Level
 
-- [Clairvoyance](Compendium/spells/clairvoyance-xphb.md "XPHB") at class level 7
-- [Sending](Compendium/spells/sending-xphb.md "XPHB") at class level 7
-- [Tongues](Compendium/spells/tongues-xphb.md "XPHB") at class level 7
+- [Clairvoyance](/Compendium/spells/clairvoyance-xphb.md "XPHB") at class level 5
+- [Sending](/Compendium/spells/sending-xphb.md "XPHB") at class level 5
+- [Tongues](/Compendium/spells/tongues-xphb.md "XPHB") at class level 5
 
 ## 4th Level
 
-- [Arcane Eye](Compendium/spells/arcane-eye-xphb.md "XPHB") at class level 7
-- [Divination](Compendium/spells/divination-xphb.md "XPHB") at class level 7
-- [Locate Creature](Compendium/spells/locate-creature-xphb.md "XPHB") at class level 7
+- [Arcane Eye](/Compendium/spells/arcane-eye-xphb.md "XPHB") at class level 7
+- [Divination](/Compendium/spells/divination-xphb.md "XPHB") at class level 7
+- [Locate Creature](/Compendium/spells/locate-creature-xphb.md "XPHB") at class level 7
 
 ## 5th Level
 
-- [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md "XPHB") at class level 7
-- [Legend Lore](Compendium/spells/legend-lore-xphb.md "XPHB") at class level 7
-- [Rary's Telepathic Bond](Compendium/spells/rarys-telepathic-bond-xphb.md "XPHB") at class level 7
-- [Scrying](Compendium/spells/scrying-xphb.md "XPHB") at class level 7
+- [Contact Other Plane](/Compendium/spells/contact-other-plane-xphb.md "XPHB") at class level 9
+- [Legend Lore](/Compendium/spells/legend-lore-xphb.md "XPHB") at class level 9
+- [Rary's Telepathic Bond](/Compendium/spells/rarys-telepathic-bond-xphb.md "XPHB") at class level 9
+- [Scrying](/Compendium/spells/scrying-xphb.md "XPHB") at class level 9
 
 ## 6th Level
 
-- [True Seeing](Compendium/spells/true-seeing-xphb.md "XPHB") at class level 7
+- [True Seeing](/Compendium/spells/true-seeing-xphb.md "XPHB") at class level 11
 
 ## 8th Level
 
-- [Telepathy](Compendium/spells/telepathy-xphb.md "XPHB") at class level 7
+- [Telepathy](/Compendium/spells/telepathy-xphb.md "XPHB") at class level 15
 
 ## 9th Level
 
-- [Foresight](Compendium/spells/foresight-xphb.md "XPHB") at class level 7
+- [Foresight](/Compendium/spells/foresight-xphb.md "XPHB") at class level 17

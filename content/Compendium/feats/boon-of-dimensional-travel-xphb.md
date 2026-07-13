@@ -1,13 +1,12 @@
 ---
-title: Boon of Dimensional Travel
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Boon of Dimensional Travel
+- "Boon of Dimensional Travel"
 ---
 # Boon of Dimensional Travel
 *Source: Player's Handbook (2024) p. 210. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -18,4 +17,4 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Blink Steps.** Immediately after you take the [[actions#Attack|Attack]] action or the [[actions#Magic|Magic]] action, you can teleport up to 30 feet to an unoccupied space you can see.
+**Blink Steps.** Immediately after you take the [Attack](/Compendium/rules/actions.md#Attack) action or the [Magic](/Compendium/rules/actions.md#Magic) action, you can teleport up to 30 feet to an unoccupied space you can see.

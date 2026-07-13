@@ -1,22 +1,22 @@
 ---
-title: Two-Birds Sling
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - item/rarity/rare
 - item/weapon/ranged
 - item/weapon/simple
-aliases: 
+aliases:
 - "Two-Birds Sling"
 ---
 # Two-Birds Sling
-*Weapon ([[sling-xphb|sling]]), rare*  
+*Weapon (sling), rare*  
 
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]]
+- **Properties**: [Ammunition](/Compendium/rules/item-properties.md#Ammunition)
 
 You have a +1 bonus to attack and damage rolls made with this weapon.
 

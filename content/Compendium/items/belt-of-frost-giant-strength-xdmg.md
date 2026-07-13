@@ -1,12 +1,12 @@
 ---
-title: Belt of Frost Giant Strength
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/attunement/required
 - item/rarity/very-rare
-aliases: 
+aliases:
 - "Belt of Frost Giant Strength"
 ---
 # Belt of Frost Giant Strength

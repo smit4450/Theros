@@ -1,12 +1,12 @@
 ---
-title: Firearm Bullets (10)
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - item/gear/ammunition
 - item/rarity/none
-aliases: 
+aliases:
 - "Firearm Bullets (10)"
 ---
 # Firearm Bullets (10)
@@ -16,8 +16,6 @@ aliases:
 - **Cost**: 3 gp
 - **Weight**: 2.0 lbs.
 
-The ammunition of a firearm is destroyed upon use.
-
-Firearm Bullets are typically stored in a [[pouch-xphb|Pouch]] (bought separately).
+Firearm Bullets are destroyed upon use in a modern firearm.
 
 *Source: Player's Handbook (2024) p. 222*

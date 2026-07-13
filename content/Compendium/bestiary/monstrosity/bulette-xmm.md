@@ -1,22 +1,22 @@
 ---
-title: Bulette
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/5
 - monster/environment/grassland
 - monster/environment/hill
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
-statblock: inline
-aliases: ["Bulette"]
+aliases:
+- "Bulette"
 ---
 # Bulette
 *Source: Monster Manual (2024) p. 63. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/bestiary/monstrosity/img/bulettes.webp#right)
 
-![](Compendium/bestiary/monstrosity/img/bulettes.webp#right|850)  
 Bulettes range under vast territories. They often threaten animal herds, and they can wipe out whole farming communities.
 
 ## Bulettes
@@ -27,50 +27,43 @@ Bulettes range under vast territories. They often threaten animal herds, and the
 - **Treasure.** None  
 
 Also called "land sharks," bulettes are single-minded predators that burrow under, leap over, and burst through obstacles in pursuit of their quarry. They burrow rapidly just below ground. On sensing movement, they erupt from below, attempting to catch prey in their oversize maws.
+
 ## Statblock
 
-```statblock
-"name": "Bulette (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "17"
-"hp": !!int "94"
-"hit_dice": "9d10 + 45"
-"modifier": !!int "0"
-"stats":
-  - !!int "19"
-  - !!int "11"
-  - !!int "21"
-  - !!int "2"
-  - !!int "10"
-  - !!int "5"
-"speed": "40 ft., burrow 40 ft."
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
-"senses": "[[senses#Darkvision|Darkvision]] 60 ft., Tremorsense\
-  \ 120 ft., passive Perception 16"
-"languages": ""
-"cr": "5"
-"actions":
-  - "desc": "The bulette makes two Bite attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 17 (2d12 + 4) Piercing\
-      \ damage."
-    "name": "Bite"
-  - "desc": "The bulette spends 5 feet of movement to jump to a space within 15 feet\
-      \ that contains one or more Large or smaller creatures. *Dexterity Saving Throw:*\
-      \ DC 15, each creature in the bulette's destination space. *Failure:* 19 (3d12)\
-      \ Bludgeoning damage, and the target has the [[conditions#Prone|Prone]]\
-      \ condition. *Success:* Half damage, and the target is pushed 5 feet straight\
-      \ away from the bulette."
-    "name": "Deadly Leap"
-"bonus_actions":
-  - "desc": "The bulette jumps up to 30 feet by spending 10 feet of movement."
-    "name": "Leap"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/monstrosity/token/bulette-xmm.webp"
+```ad-statblock
+title: Bulette
+![](/Compendium/bestiary/monstrosity/token/bulette-xmm.webp#token)
+*Large monstrosity, Unaligned*
+
+- **Armor Class** 17 
+- **Hit Points** 94 (`9d10 + 45`) 
+- **Speed** 40 ft., burrow 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|11 (+0)|21 (+5)| 2 (-4)|10 (+0)| 5 (-3)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +6
+- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense 120 ft., passive Perception 16
+- **Languages** —
+- **Challenge** 5
+
+## Actions
+
+***Multiattack.*** The bulette makes two Bite attacks.
+
+***Bite.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 17 (`2d12 + 4`) Piercing damage.
+
+***Deadly Leap.*** The bulette spends 5 feet of movement to jump to a space within 15 feet that contains one or more Large or smaller creatures. *Dexterity Saving Throw:* DC 15, each creature in the bulette's destination space. *Failure:* 19 (`3d12`) Bludgeoning damage, and the target has the [Prone](/Compendium/rules/conditions.md#Prone) condition. *Success:* Half damage, and the target is pushed 5 feet straight away from the bulette.
+
+## Bonus Actions
+
+***Leap.*** The bulette jumps up to 30 feet by spending 10 feet of movement.
 ```
 ^statblock
+
+## Environment
+
+grassland, hill, mountain

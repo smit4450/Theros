@@ -1,9 +1,9 @@
 ---
-title: Pegasus
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-monster
 tags:
-- src/5e/xmm
+- compendium/src/5e/xmm
 - monster/cr/2
 - monster/environment/forest
 - monster/environment/grassland
@@ -12,13 +12,13 @@ tags:
 - monster/environment/upper
 - monster/size/large
 - monster/type/celestial
-statblock: inline
-aliases: ["Pegasus"]
+aliases:
+- "Pegasus"
 ---
 # Pegasus
 *Source: Monster Manual (2024) p. 235. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](/Compendium/books/monster-manual-2025/img/pegasus.webp#right)
 
-![](Compendium/books/monster-manual-2025/img/pegasus.webp#right)  
 ## Pegasus
 
 *Elusive Winged Steed*
@@ -44,40 +44,33 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 > 
 > Pegasi are the cherished steeds of our creator, Corellon. To see one is a blessing, but to ride one proves nothing less than the love of the gods.
 
-```statblock
-"name": "Pegasus (XMM)"
-"size": "Large"
-"type": "celestial"
-"alignment": "Chaotic Good"
-"ac": !!int "12"
-"hp": !!int "59"
-"hit_dice": "7d10 + 21"
-"modifier": !!int "2"
-"stats":
-  - !!int "18"
-  - !!int "15"
-  - !!int "16"
-  - !!int "10"
-  - !!int "15"
-  - !!int "13"
-"speed": "60 ft., fly 90 ft."
-"saves":
-  - "dexterity": !!int "4"
-  - "constitution": !!int "5"
-  - "wisdom": !!int "4"
-  - "charisma": !!int "3"
-"skillsaves":
-  - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
-"senses": "passive Perception 16"
-"languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"
-"cr": "2"
-"actions":
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 7 (1d6 + 4) Bludgeoning\
-      \ damage plus 5 (2d4) Radiant damage."
-    "name": "Hooves"
-"source":
-  - "XMM"
-"image": "Compendium/bestiary/celestial/token/pegasus-xmm.webp"
+
+```ad-statblock
+title: Pegasus
+![](/Compendium/bestiary/celestial/token/pegasus-xmm.webp#token)
+*Large celestial, Chaotic Good*
+
+- **Armor Class** 12 
+- **Hit Points** 59 (`7d10 + 21`) 
+- **Speed** 60 ft., fly 90 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Dexterity +4, Constitution +5, Wisdom +4, Charisma +3
+- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +6
+- **Senses** passive Perception 16
+- **Languages** understands Celestial, Common, Elvish, and Sylvan but can't speak
+- **Challenge** 2
+
+## Actions
+
+***Hooves.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 7 (`1d6 + 4`) Bludgeoning damage plus 5 (`2d4`) Radiant damage.
 ```
 ^statblock
+
+## Environment
+
+forest, grassland, hill, planar, upper

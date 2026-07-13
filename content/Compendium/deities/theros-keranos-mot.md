@@ -1,19 +1,18 @@
 ---
-title: Keranos
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- src/5e/mot
+- compendium/src/5e/mot
 - deity/theros
 - domain/knowledge
 - domain/tempest
-aliases: 
-- Keranos
+aliases:
+- "Keranos"
 ---
 # Keranos
 *Source: Mythic Odysseys of Theros p. 55* 
-![](Compendium/deities/img/mot-036-02-03-keranos.webp#symbol)
+![](/Compendium/deities/img/mot-036-02-03-keranos.webp#symbol)
 
 - **Alignment**: Chaotic Neutral
 - **Domains**: Knowledge, Tempest
@@ -53,7 +52,7 @@ In Akros, where Queen Cymede actively promoted the worship of Keranos, elaborate
 
 On the last day of every month, Keranos's priests and laity bring offerings of fish and distilled spirits to his temples. The fish are cooked under a skylight open to the stars, with a shot of spirits thrown on the fire.
 
-![](Compendium/deities/img/mot-037-02-10.webp#center)
+![](/Compendium/deities/img/mot-037-02-10.webp#center)
 
 > [!readaloud] Myths of Keranos
 > 
@@ -138,7 +137,7 @@ Your piety score to Keranos decreases if you diminish Keranos's influence in the
 
 ### Benefits of Piety
 
-- [[keranoss-devotee-mot|Keranos's Devotee]]  
-- [[keranoss-votary-mot|Keranos's Votary]]  
-- [[keranoss-disciple-mot|Keranos's Disciple]]  
-- [[champion-of-storms-mot|Champion of Storms]]
+- [Keranos's Devotee](/Compendium/rewards/keranoss-devotee-mot.md)  
+- [Keranos's Votary](/Compendium/rewards/keranoss-votary-mot.md)  
+- [Keranos's Disciple](/Compendium/rewards/keranoss-disciple-mot.md)  
+- [Champion of Storms](/Compendium/rewards/champion-of-storms-mot.md)

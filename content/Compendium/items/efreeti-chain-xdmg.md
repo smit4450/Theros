@@ -1,25 +1,25 @@
 ---
-title: Efreeti Chain
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
-- src/5e/xdmg
+- compendium/src/5e/xdmg
 - item/armor/heavy
 - item/armor/medium
 - item/attunement/required
 - item/rarity/legendary
 - item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Efreeti Chain"
 - "Efreeti Chain Mail"
 - "Efreeti Chain Shirt"
 ---
 # Efreeti Chain
 *Legendary (requires attunement)*  
-![](Compendium/items/img/efreeti-chain.webp#right)
+![](/Compendium/items/img/efreeti-chain.webp#right)
 
 
-While wearing this armor, you gain a +3 bonus to [[armor-class-xphb|Armor Class]], you have [[immunity-xphb|Immunity]] to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.
+While wearing this armor, you gain a +3 bonus to [Armor Class](/Compendium/rules/variant-rules/armor-class-xphb.md), you have [Immunity](/Compendium/rules/variant-rules/immunity-xphb.md) to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.
 
 **Variants**:
 - [Efreeti Chain Mail](#Efreeti%20Chain%20Mail)

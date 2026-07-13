@@ -1,13 +1,12 @@
 ---
-title: Resilient
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat
 tags:
-- src/5e/xphb
+- compendium/src/5e/xphb
 - feat
 aliases:
-- Resilient
+- "Resilient"
 ---
 # Resilient
 *Source: Player's Handbook (2024) p. 206*  
