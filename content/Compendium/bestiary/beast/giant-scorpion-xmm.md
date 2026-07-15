@@ -8,11 +8,13 @@ tags:
 - monster/environment/desert
 - monster/size/large
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Giant Scorpion"
 ---
 # Giant Scorpion
-*Source: Monster Manual (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/giant-scorpion.webp#right)
 
 ## Animals
@@ -24,33 +26,40 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Giant Scorpion
-![](/Compendium/bestiary/beast/token/giant-scorpion-xmm.webp#token)
-*Large beast, Unaligned*
-
-- **Armor Class** 15 
-- **Hit Points** 52 (`7d10 + 14`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|13 (+1)|15 (+2)| 1 (-5)| 9 (-1)| 3 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception 9
-- **Languages** —
-- **Challenge** 3
-
-## Actions
-
-***Multiattack.*** The scorpion makes two Claw attacks and one Sting attack.
-
-***Claw.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Bludgeoning damage. If the target is a Large or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 13) from one of two claws.
-
-***Sting.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Piercing damage plus 11 (`2d10`) Poison damage.
+```statblock
+"name": "Giant Scorpion"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "15"
+"hp": !!int "52"
+"hit_dice": "7d10 + 14"
+"modifier": !!int "1"
+"stats":
+  - !!int "16"
+  - !!int "13"
+  - !!int "15"
+  - !!int "1"
+  - !!int "9"
+  - !!int "3"
+"speed": "40 ft."
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+  \ 9"
+"languages": ""
+"cr": "3"
+"actions":
+  - "desc": "The scorpion makes two Claw attacks and one Sting attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning damage.\
+      \ If the target is a Large or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 13) from one of two claws."
+    "name": "Claw"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage\
+      \ plus 11 (2d10) Poison damage."
+    "name": "Sting"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/beast/token/giant-scorpion-xmm.webp"
 ```
 ^statblock
 

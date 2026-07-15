@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid/cleric
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Archpriest"
 ---
 # Archpriest
-*Source: Monster Manual (2024) p. 248*  
+*Source: Monster Manual (2024) p. 248*
 ![](/Compendium/bestiary/humanoid/img/priests.webp#right)
 
 By forging connections with divine beings and mastering mystical truths, archpriests become conduits for godly intentions and other supernatural forces. Their magic allows them to work wonders, whether to share the benevolence of their faiths or to vent divine wrath. Some archpriests attract vast followings as they claim to speak for divine forces, while others undertake personal spiritual journeys and seek to transcend mortal concerns.
@@ -51,45 +53,70 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 
 ## Statblock
 
-```ad-statblock
-title: Archpriest
-![](/Compendium/bestiary/humanoid/token/archpriest-xmm.webp#token)
-*Small or Medium humanoid (cleric), Neutral*
-
-- **Armor Class** 16 
-- **Hit Points** 240 (`32d8 + 96`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|12 (+1)|17 (+3)|14 (+2)|21 (+5)|14 (+2)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Strength +7, Constitution +7, Intelligence +6, Wisdom +9
-- **Skills** [Insight](/Compendium/rules/skills.md#Insight) +9, [Medicine](/Compendium/rules/skills.md#Medicine) +9, [Perception](/Compendium/rules/skills.md#Perception) +9, [Religion](/Compendium/rules/skills.md#Religion) +10
-- **Senses** passive Perception 19
-- **Gear** [chain mail](/Compendium/items/chain-mail-xphb.md), [holy symbol](/Compendium/items/holy-symbol-xphb.md)
-- **Languages** Common plus two other languages
-- **Challenge** 12
-
-## Actions
-
-***Multiattack.*** The archpriest makes three Radiant Burst attacks.
-
-***Radiant Burst.*** *Melee  or Ranged Attack Roll:* `+9`, reach 5 ft. or range 60 ft. *Hit:* 27 (`4d10 + 5`) Radiant damage.
-
-***Holy Word (Recharge 4-6).*** *Wisdom Saving Throw:* DC 17, each enemy in a 20-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the archpriest. *Failure:* 21 (`6d6`) Radiant damage, and the target has the [Stunned](/Compendium/rules/conditions.md#Stunned) condition until the end of the archpriest's next turn. *Success:* Half damage only.
-
-***Spellcasting.*** The archpriest casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 17):
-
-**At will:** [Light](/Compendium/spells/light-xphb.md), [Thaumaturgy](/Compendium/spells/thaumaturgy-xphb.md)
-
-**1/day each:** [Flame Strike](/Compendium/spells/flame-strike-xphb.md) (level 6 version), [Greater Restoration](/Compendium/spells/greater-restoration-xphb.md), [Raise Dead](/Compendium/spells/raise-dead-xphb.md), [Zone of Truth](/Compendium/spells/zone-of-truth-xphb.md)
-
-## Bonus Actions
-
-***Divine Aid (3/Day).*** The priest casts [Bless](/Compendium/spells/bless-xphb.md), [Dispel Magic](/Compendium/spells/dispel-magic-xphb.md), [Healing Word](/Compendium/spells/healing-word-xphb.md), or [Lesser Restoration](/Compendium/spells/lesser-restoration-xphb.md), using the same spellcasting ability as Spellcasting.
-
+```statblock
+"name": "Archpriest"
+"size": "Small or Medium"
+"type": "humanoid"
+"subtype": "cleric"
+"alignment": "Neutral"
+"ac": !!int "16"
+"hp": !!int "240"
+"hit_dice": "32d8 + 96"
+"modifier": !!int "5"
+"stats":
+  - !!int "16"
+  - !!int "12"
+  - !!int "17"
+  - !!int "14"
+  - !!int "21"
+  - !!int "14"
+"speed": "30 ft."
+"saves":
+  - "strength": !!int "7"
+  - "constitution": !!int "7"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "9"
+"skillsaves":
+  - "name": "[Insight](/Compendium/rules/skills.md#Insight)"
+    "desc": "+9"
+  - "name": "[Medicine](/Compendium/rules/skills.md#Medicine)"
+    "desc": "+9"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+9"
+  - "name": "[Religion](/Compendium/rules/skills.md#Religion)"
+    "desc": "+10"
+"gear":
+  - "[chain mail](/Compendium/items/chain-mail-xphb.md)"
+  - "[holy symbol](/Compendium/items/holy-symbol-xphb.md)"
+"senses": "passive Perception 19"
+"languages": "Common plus two other languages"
+"cr": "12"
+"actions":
+  - "desc": "The archpriest makes three Radiant Burst attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +9, reach 5 ft. or range 60 ft. *Hit:*\
+      \ 27 (4d10 + 5) Radiant damage."
+    "name": "Radiant Burst"
+  - "desc": "*Wisdom Saving Throw:* DC 17, each enemy in a 20-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the archpriest. *Failure:* 21 (6d6) Radiant damage, and the\
+      \ target has the [Stunned](/Compendium/rules/conditions.md#Stunned) condition\
+      \ until the end of the archpriest's next turn. *Success:* Half damage only."
+    "name": "Holy Word (Recharge 4-6)"
+  - "desc": "The archpriest casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 17):\n\
+      \n**At will:** [Light](/Compendium/spells/light-xphb.md), [Thaumaturgy](/Compendium/spells/thaumaturgy-xphb.md)\n\
+      \n**1/day each:** [Flame Strike](/Compendium/spells/flame-strike-xphb.md) (level\
+      \ 6 version), [Greater Restoration](/Compendium/spells/greater-restoration-xphb.md),\
+      \ [Raise Dead](/Compendium/spells/raise-dead-xphb.md), [Zone of Truth](/Compendium/spells/zone-of-truth-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The priest casts [Bless](/Compendium/spells/bless-xphb.md), [Dispel Magic](/Compendium/spells/dispel-magic-xphb.md),\
+      \ [Healing Word](/Compendium/spells/healing-word-xphb.md), or [Lesser Restoration](/Compendium/spells/lesser-restoration-xphb.md),\
+      \ using the same spellcasting ability as Spellcasting.\n"
+    "name": "Divine Aid (3/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/archpriest-xmm.webp"
 ```
 ^statblock
 

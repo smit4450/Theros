@@ -9,11 +9,13 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/fiend
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Oni"
 ---
 # Oni
-*Source: Monster Manual (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/fiend/img/oni.webp#right)
 
 ## Oni
@@ -37,49 +39,73 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
 | 4 | Playing drums that keep everyone awake. |
 ^oni-troubles
 
-```ad-statblock
-title: Oni
-![](/Compendium/bestiary/fiend/token/oni-xmm.webp#token)
-*Large fiend, Lawful Evil*
-
-- **Armor Class** 17 
-- **Hit Points** 119 (`14d10 + 42`) 
-- **Speed** 30 ft., fly 30 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +3, Constitution +6, Wisdom +4, Charisma +5
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +5, [Deception](/Compendium/rules/skills.md#Deception) +8, [Perception](/Compendium/rules/skills.md#Perception) +4
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Damage Resistances** cold
-- **Languages** Common, Giant
-- **Challenge** 7
-
-## Traits
-
-***Regeneration.*** The oni regains 10 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) at the start of each of its turns if it has at least 1 [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md).
-
-## Actions
-
-***Multiattack.*** The oni makes two Claw or Nightmare Ray attacks. It can replace one attack with a use of Spellcasting.
-
-***Claw.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 10 (`1d12 + 4`) Slashing damage plus 9 (`2d8`) Necrotic damage.
-
-***Nightmare Ray.*** *Ranged Attack Roll:* `+5`, range 60 ft. *Hit:* 9 (`2d6 + 2`) Psychic damage, and the target has the [Frightened](/Compendium/rules/conditions.md#Frightened) condition until the start of the oni's next turn.
-
-***Shape-Shift.*** The oni shape-shifts into a Small or Medium Humanoid or a Large Giant, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
-
-***Spellcasting.*** The oni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
-
-**1/day each:** [Charm Person](/Compendium/spells/charm-person-xphb.md) (level 2 version), [Darkness](/Compendium/spells/darkness-xphb.md), [Gaseous Form](/Compendium/spells/gaseous-form-xphb.md), [Sleep](/Compendium/spells/sleep-xphb.md)
-
-## Bonus Actions
-
-***Invisibility.*** The oni casts [Invisibility](/Compendium/spells/invisibility-xphb.md) on itself, requiring no spell components and using the same spellcasting ability as Spellcasting.
-
+```statblock
+"name": "Oni"
+"size": "Large"
+"type": "fiend"
+"alignment": "Lawful Evil"
+"ac": !!int "17"
+"hp": !!int "119"
+"hit_dice": "14d10 + 42"
+"modifier": !!int "0"
+"stats":
+  - !!int "19"
+  - !!int "11"
+  - !!int "16"
+  - !!int "14"
+  - !!int "12"
+  - !!int "15"
+"speed": "30 ft., fly 30 ft. (hover)"
+"saves":
+  - "dexterity": !!int "3"
+  - "constitution": !!int "6"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "5"
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+8"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+"damage_resistances": "cold"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
+"languages": "Common, Giant"
+"cr": "7"
+"traits":
+  - "desc": "The oni regains 10 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ at the start of each of its turns if it has at least 1 [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md)."
+    "name": "Regeneration"
+"actions":
+  - "desc": "The oni makes two Claw or Nightmare Ray attacks. It can replace one attack\
+      \ with a use of Spellcasting."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 10 (1d12 + 4) Slashing damage\
+      \ plus 9 (2d8) Necrotic damage."
+    "name": "Claw"
+  - "desc": "*Ranged Attack Roll:* +5, range 60 ft. *Hit:* 9 (2d6 + 2) Psychic damage,\
+      \ and the target has the [Frightened](/Compendium/rules/conditions.md#Frightened)\
+      \ condition until the start of the oni's next turn."
+    "name": "Nightmare Ray"
+  - "desc": "The oni shape-shifts into a Small or Medium Humanoid or a Large Giant,\
+      \ or it returns to its true form. Other than its size, its game statistics are\
+      \ the same in each form. Any equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
+  - "desc": "The oni casts one of the following spells, requiring no Material components\
+      \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**1/day\
+      \ each:** [Charm Person](/Compendium/spells/charm-person-xphb.md) (level 2 version),\
+      \ [Darkness](/Compendium/spells/darkness-xphb.md), [Gaseous Form](/Compendium/spells/gaseous-form-xphb.md),\
+      \ [Sleep](/Compendium/spells/sleep-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The oni casts [Invisibility](/Compendium/spells/invisibility-xphb.md)\
+      \ on itself, requiring no spell components and using the same spellcasting ability\
+      \ as Spellcasting.\n"
+    "name": "Invisibility"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fiend/token/oni-xmm.webp"
 ```
 ^statblock
 

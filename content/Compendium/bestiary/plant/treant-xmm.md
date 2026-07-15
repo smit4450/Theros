@@ -8,11 +8,13 @@ tags:
 - monster/environment/forest
 - monster/size/huge
 - monster/type/plant
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Treant"
 ---
 # Treant
-*Source: Monster Manual (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![A treant evicts adventurers from a city it has reclaimed for nature](/Compendium/books/monster-manual-2025/img/treant.webp#right)
 
 ## Treant
@@ -38,41 +40,51 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 | 6 | Scarred by a fire and holds the bones of the arsonist who started it in a hollow. |
 ^treant-secrets
 
-```ad-statblock
-title: Treant
-![](/Compendium/bestiary/plant/token/treant-xmm.webp#token)
-*Huge plant, Chaotic Good*
-
-- **Armor Class** 16 
-- **Hit Points** 138 (`12d12 + 60`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|23 (+6)| 8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 13
-- **Damage Vulnerabilities** fire
-- **Damage Resistances** bludgeoning, piercing
-- **Languages** Common, Druidic, Elvish, Sylvan
-- **Challenge** 9
-
-## Traits
-
-***Siege Monster.*** The treant deals double damage to objects and structures.
-
-## Actions
-
-***Multiattack.*** The treant makes two Slam attacks.
-
-***Slam.*** *Melee Attack Roll:* `+10`, reach 5 ft. *Hit:* 16 (`3d6 + 6`) Bludgeoning damage.
-
-***Hail of Bark.*** *Ranged Attack Roll:* `+10`, range 180 ft. *Hit:* 28 (`4d10 + 6`) Piercing damage.
-
-***Animate Trees (1/Day).*** The treant magically animates up to two trees it can see within 60 feet of itself. Each tree uses the Treant stat block, except it has Intelligence and Charisma scores of 1, it can't speak, and it lacks this action. The tree takes its turn immediately after the treant on the same [Initiative](/Compendium/rules/variant-rules/initiative-xphb.md) count, and it obeys the treant. A tree remains animate for 1 day or until it dies, the treant dies, or it is more than 120 feet from the treant. The tree then takes root if possible.
+```statblock
+"name": "Treant"
+"size": "Huge"
+"type": "plant"
+"alignment": "Chaotic Good"
+"ac": !!int "16"
+"hp": !!int "138"
+"hit_dice": "12d12 + 60"
+"modifier": !!int "3"
+"stats":
+  - !!int "23"
+  - !!int "8"
+  - !!int "21"
+  - !!int "12"
+  - !!int "16"
+  - !!int "12"
+"speed": "30 ft."
+"damage_vulnerabilities": "fire"
+"damage_resistances": "bludgeoning, piercing"
+"senses": "passive Perception 13"
+"languages": "Common, Druidic, Elvish, Sylvan"
+"cr": "9"
+"traits":
+  - "desc": "The treant deals double damage to objects and structures."
+    "name": "Siege Monster"
+"actions":
+  - "desc": "The treant makes two Slam attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 16 (3d6 + 6) Bludgeoning\
+      \ damage."
+    "name": "Slam"
+  - "desc": "*Ranged Attack Roll:* +10, range 180 ft. *Hit:* 28 (4d10 + 6) Piercing\
+      \ damage."
+    "name": "Hail of Bark"
+  - "desc": "The treant magically animates up to two trees it can see within 60 feet\
+      \ of itself. Each tree uses the Treant stat block, except it has Intelligence\
+      \ and Charisma scores of 1, it can't speak, and it lacks this action. The tree\
+      \ takes its turn immediately after the treant on the same [Initiative](/Compendium/rules/variant-rules/initiative-xphb.md)\
+      \ count, and it obeys the treant. A tree remains animate for 1 day or until\
+      \ it dies, the treant dies, or it is more than 120 feet from the treant. The\
+      \ tree then takes root if possible."
+    "name": "Animate Trees (1/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/plant/token/treant-xmm.webp"
 ```
 ^statblock
 

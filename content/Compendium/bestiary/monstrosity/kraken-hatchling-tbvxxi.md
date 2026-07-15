@@ -7,36 +7,44 @@ tags:
 - monster/cr/13
 - monster/size/gargantuan
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Kraken Hatchling"
 ---
 # Kraken Hatchling
-*Source: Theros Bestiary, Vol. XXI*  
+*Source: Theros Bestiary, Vol. XXI*
 ![](/Compendium/bestiary/monstrosity/img/kraken-hatchling.webp#center)
 
-```ad-statblock
-title: Kraken Hatchling
-*Gargantuan monstrosity, Unaligned*
-
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 560 (`40d20 + 160`) 
-- **Speed** 15 ft., swim 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)| 8 (-1)|18 (+4)| 1 (-5)| 7 (-2)| 8 (-1)|
-
-- **Proficiency Bonus** +5
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft. (can't see beyond this radius), passive Perception 10
-- **Damage Vulnerabilities** fire
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Languages** —
-- **Challenge** 13
-
-## Actions
-
-***Bite.*** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 18 (8d4 + 0) piercing damage.
+```statblock
+"name": "Kraken Hatchling"
+"size": "Gargantuan"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "17"
+"ac_class": "natural armor"
+"hp": !!int "560"
+"hit_dice": "40d20 + 160"
+"modifier": !!int "-1"
+"stats":
+  - !!int "11"
+  - !!int "8"
+  - !!int "18"
+  - !!int "1"
+  - !!int "7"
+  - !!int "8"
+"speed": "15 ft., swim 60 ft."
+"damage_vulnerabilities": "fire"
+"damage_resistances": "bludgeoning, piercing, slashing"
+"senses": "[blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft. (can't see\
+  \ beyond this radius), passive Perception 10"
+"languages": ""
+"cr": "13"
+"actions":
+  - "desc": "_Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 18\
+      \ (8d4 + 0) piercing damage."
+    "name": "Bite"
+"source":
+  - "TBVXXI"
 ```
 ^statblock

@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/medium
 - monster/type/dragon
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Half-Dragon"
 ---
 # Half-Dragon
-*Source: Monster Manual (2024) p. 163. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 163. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/dragon/img/half-dragon.webp#right)
 
 ## Half-Dragon
@@ -31,42 +33,59 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
 > What blessing demands more yet inspires greater works than the blood of Tiamat?
 
 
-```ad-statblock
-title: Half-Dragon
-![](/Compendium/bestiary/dragon/token/half-dragon-xmm.webp#token)
-*Medium dragon, Neutral*
-
-- **Armor Class** 18 
-- **Hit Points** 105 (`14d8 + 42`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|14 (+2)|16 (+3)|10 (+0)|15 (+2)|14 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +5, Wisdom +5
-- **Skills** [Athletics](/Compendium/rules/skills.md#Athletics) +7, [Perception](/Compendium/rules/skills.md#Perception) +5, [Stealth](/Compendium/rules/skills.md#Stealth) +5
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 15
-- **Damage Resistances** Damage type chosen for the Draconic Origin trait below
-- **Languages** Common, Draconic
-- **Challenge** 5
-
-## Traits
-
-***Draconic Origin.*** The half-dragon is related to a type of dragon associated with one of the following damage types (DM's choice): Acid, Cold, Fire, Lightning, or Poison. This choice affects other aspects of the stat block.
-
-## Actions
-
-***Multiattack.*** The half-dragon makes two Claw attacks.
-
-***Claw.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 6 (`1d4 + 4`) Slashing damage plus 7 (`2d6`) damage of the type chosen for the Draconic Origin trait.
-
-***Dragon's Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 14, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* 28 (`8d6`) damage of the type chosen for the Draconic Origin trait. *Success:* Half damage.
-
-## Bonus Actions
-
-***Leap.*** The half-dragon jumps up to 30 feet by spending 10 feet of movement.
+```statblock
+"name": "Half-Dragon"
+"size": "Medium"
+"type": "dragon"
+"alignment": "Neutral"
+"ac": !!int "18"
+"hp": !!int "105"
+"hit_dice": "14d8 + 42"
+"modifier": !!int "5"
+"stats":
+  - !!int "19"
+  - !!int "14"
+  - !!int "16"
+  - !!int "10"
+  - !!int "15"
+  - !!int "14"
+"speed": "40 ft."
+"saves":
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "5"
+"skillsaves":
+  - "name": "[Athletics](/Compendium/rules/skills.md#Athletics)"
+    "desc": "+7"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+5"
+"damage_resistances": "Damage type chosen for the Draconic Origin trait below"
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 15"
+"languages": "Common, Draconic"
+"cr": "5"
+"traits":
+  - "desc": "The half-dragon is related to a type of dragon associated with one of\
+      \ the following damage types (DM's choice): Acid, Cold, Fire, Lightning, or\
+      \ Poison. This choice affects other aspects of the stat block."
+    "name": "Draconic Origin"
+"actions":
+  - "desc": "The half-dragon makes two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 6 (1d4 + 4) Slashing damage\
+      \ plus 7 (2d6) damage of the type chosen for the Draconic Origin trait."
+    "name": "Claw"
+  - "desc": "*Dexterity Saving Throw:* DC 14, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 28 (8d6) damage of the type chosen for the Draconic Origin trait.\
+      \ *Success:* Half damage."
+    "name": "Dragon's Breath (Recharge 5-6)"
+"bonus_actions":
+  - "desc": "The half-dragon jumps up to 30 feet by spending 10 feet of movement."
+    "name": "Leap"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/dragon/token/half-dragon-xmm.webp"
 ```
 ^statblock
 

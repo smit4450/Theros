@@ -9,11 +9,13 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Grick Ancient"
 ---
 # Grick Ancient
-*Source: Monster Manual (2024) p. 158*  
+*Source: Monster Manual (2024) p. 158*
 ![](/Compendium/bestiary/aberration/img/gricks.webp#right)
 
 Gricks can live for centuries, with the eldest growing to monstrous sizes. Grick ancients actively hunt more than they wait in ambush, and they have no qualms about devouring smaller gricks.
@@ -31,35 +33,46 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
 
 ## Statblock
 
-```ad-statblock
-title: Grick Ancient
-![](/Compendium/bestiary/aberration/token/grick-ancient-xmm.webp#token)
-*Large aberration, Unaligned*
-
-- **Armor Class** 18 
-- **Hit Points** 135 (`18d10 + 36`) 
-- **Speed** 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|16 (+3)|15 (+2)| 4 (-3)|14 (+2)| 9 (-1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 12
-- **Languages** —
-- **Challenge** 7
-
-## Actions
-
-***Multiattack.*** The grick makes one Beak attack, one Slam attack, and one Tentacles attack.
-
-***Beak.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 22 (`4d8 + 4`) Piercing damage.
-
-***Slam.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 7 (`1d6 + 4`) Bludgeoning damage. If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
-
-***Tentacles.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 15 (`2d10 + 4`) Slashing damage. If the target is a Large or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 14) from all four tentacles.
+```statblock
+"name": "Grick Ancient"
+"size": "Large"
+"type": "aberration"
+"alignment": "Unaligned"
+"ac": !!int "18"
+"hp": !!int "135"
+"hit_dice": "18d10 + 36"
+"modifier": !!int "3"
+"stats":
+  - !!int "18"
+  - !!int "16"
+  - !!int "15"
+  - !!int "4"
+  - !!int "14"
+  - !!int "9"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
+"languages": ""
+"cr": "7"
+"actions":
+  - "desc": "The grick makes one Beak attack, one Slam attack, and one Tentacles attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 22 (4d8 + 4) Piercing damage."
+    "name": "Beak"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 7 (1d6 + 4) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Slam"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 15 (2d10 + 4) Slashing damage.\
+      \ If the target is a Large or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14) from all four tentacles."
+    "name": "Tentacles"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/aberration/token/grick-ancient-xmm.webp"
 ```
 ^statblock
 

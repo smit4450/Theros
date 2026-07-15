@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Bandit Captain"
 ---
 # Bandit Captain
-*Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/humanoid/img/bandits.webp#right)
 
 Bandit captains command gangs of scoundrels and conduct straightforward heists. Others serve as guards and muscle for more influential criminals.
@@ -46,38 +48,55 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 
 ## Statblock
 
-```ad-statblock
-title: Bandit Captain
-![](/Compendium/bestiary/humanoid/token/bandit-captain-xmm.webp#token)
-*Small or Medium humanoid, Neutral*
-
-- **Armor Class** 15 
-- **Hit Points** 52 (`8d8 + 16`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Strength +4, Dexterity +5, Wisdom +2
-- **Skills** [Athletics](/Compendium/rules/skills.md#Athletics) +4, [Deception](/Compendium/rules/skills.md#Deception) +4
-- **Senses** passive Perception 10
-- **Gear** [pistol](/Compendium/items/pistol-xphb.md), [scimitar](/Compendium/items/scimitar-xphb.md), [studded leather armor](/Compendium/items/studded-leather-armor-xphb.md)
-- **Languages** Common, Thieves' cant
-- **Challenge** 2
-
-## Actions
-
-***Multiattack.*** The bandit makes two attacks, using Scimitar and Pistol in any combination.
-
-***Scimitar.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Slashing damage.
-
-***Pistol.*** *Ranged Attack Roll:* `+5`, range 30/90 ft. *Hit:* 8 (`1d10 + 3`) Piercing damage.
-
-## Reactions
-
-***Parry.*** Trigger: The bandit is hit by a melee attack roll while holding a weapon. _Response:_ The bandit adds 2 to its AC against that attack, possibly causing it to miss.
+```statblock
+"name": "Bandit Captain"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "15"
+"hp": !!int "52"
+"hit_dice": "8d8 + 16"
+"modifier": !!int "3"
+"stats":
+  - !!int "15"
+  - !!int "16"
+  - !!int "14"
+  - !!int "14"
+  - !!int "11"
+  - !!int "14"
+"speed": "30 ft."
+"saves":
+  - "strength": !!int "4"
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "2"
+"skillsaves":
+  - "name": "[Athletics](/Compendium/rules/skills.md#Athletics)"
+    "desc": "+4"
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+4"
+"gear":
+  - "[pistol](/Compendium/items/pistol-xphb.md)"
+  - "[scimitar](/Compendium/items/scimitar-xphb.md)"
+  - "[studded leather armor](/Compendium/items/studded-leather-armor-xphb.md)"
+"senses": "passive Perception 10"
+"languages": "Common, Thieves' cant"
+"cr": "2"
+"actions":
+  - "desc": "The bandit makes two attacks, using Scimitar and Pistol in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage."
+    "name": "Scimitar"
+  - "desc": "*Ranged Attack Roll:* +5, range 30/90 ft. *Hit:* 8 (1d10 + 3) Piercing\
+      \ damage."
+    "name": "Pistol"
+"reactions":
+  - "desc": "Trigger: The bandit is hit by a melee attack roll while holding a weapon.\
+      \ _Response:_ The bandit adds 2 to its AC against that attack, possibly causing\
+      \ it to miss."
+    "name": "Parry"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/bandit-captain-xmm.webp"
 ```
 ^statblock
 

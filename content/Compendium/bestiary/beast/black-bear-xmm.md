@@ -8,11 +8,13 @@ tags:
 - monster/environment/forest
 - monster/size/medium
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Black Bear"
 ---
 # Black Bear
-*Source: Monster Manual (2024) p. 349, Player's Handbook (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 349, Player's Handbook (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/black-bear.webp#right)
 
 ## Animals
@@ -24,31 +26,39 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Black Bear
-![](/Compendium/bestiary/beast/token/black-bear-xmm.webp#token)
-*Medium beast, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** 19 (`3d8 + 6`) 
-- **Speed** 30 ft., climb 30 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|12 (+1)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 15
-- **Languages** —
-- **Challenge** 1/2
-
-## Actions
-
-***Multiattack.*** The bear makes two Rend attacks.
-
-***Rend.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 5 (`1d6 + 2`) Slashing damage.
+```statblock
+"name": "Black Bear"
+"size": "Medium"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "19"
+"hit_dice": "3d8 + 6"
+"modifier": !!int "1"
+"stats":
+  - !!int "15"
+  - !!int "12"
+  - !!int "14"
+  - !!int "2"
+  - !!int "12"
+  - !!int "7"
+"speed": "30 ft., climb 30 ft., swim 30 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 15"
+"languages": ""
+"cr": "1/2"
+"actions":
+  - "desc": "The bear makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing damage."
+    "name": "Rend"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/beast/token/black-bear-xmm.webp"
 ```
 ^statblock
 

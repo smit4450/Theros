@@ -10,11 +10,13 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Giant Vulture"
 ---
 # Giant Vulture
-*Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/vulture.webp#right)
 
 ## Animals
@@ -26,34 +28,45 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Giant Vulture
-![](/Compendium/bestiary/monstrosity/token/giant-vulture-xmm.webp#token)
-*Large monstrosity, Neutral Evil*
-
-- **Armor Class** 10 
-- **Hit Points** 25 (`3d10 + 9`) 
-- **Speed** 10 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|10 (+0)|16 (+3)| 6 (-2)|12 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 13
-- **Damage Resistances** necrotic
-- **Languages** understands Common but can't speak
-- **Challenge** 1
-
-## Traits
-
-***Pack Tactics.*** The vulture has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
-
-## Actions
-
-***Gouge.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 9 (`2d6 + 2`) Piercing damage, and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the end of its next turn.
+```statblock
+"name": "Giant Vulture"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Neutral Evil"
+"ac": !!int "10"
+"hp": !!int "25"
+"hit_dice": "3d10 + 9"
+"modifier": !!int "0"
+"stats":
+  - !!int "15"
+  - !!int "10"
+  - !!int "16"
+  - !!int "6"
+  - !!int "12"
+  - !!int "7"
+"speed": "10 ft., fly 60 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+"damage_resistances": "necrotic"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 13"
+"languages": "understands Common but can't speak"
+"cr": "1"
+"traits":
+  - "desc": "The vulture has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the vulture's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 9 (2d6 + 2) Piercing damage,\
+      \ and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the end of its next turn."
+    "name": "Gouge"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/giant-vulture-xmm.webp"
 ```
 ^statblock
 

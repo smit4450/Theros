@@ -7,54 +7,77 @@ tags:
 - monster/cr/3
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Ravenous Leucrocota"
 ---
 # Ravenous Leucrocota
-*Source: Theros Bestiary, Vol. IV*  
+*Source: Theros Bestiary, Vol. IV*
 ![](/Compendium/bestiary/monstrosity/img/ravenous-leucrocota.webp#right)
 
 Hunger makes a leucrocota dangerous. A full belly makes it angry and dangerous.
 
-```ad-statblock
-title: Ravenous Leucrocota
-*Large monstrosity, Chaotic Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 36 (`4d10 + 16`) 
-- **Speed** 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|14 (+2)|18 (+4)| 9 (-1)|12 (+1)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +0, [Perception](/Compendium/rules/skills.md#Perception) +3
-- **Senses** [darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Languages** —
-- **Challenge** 3
-
-## Traits
-
-***Keen Smell.*** The leucrocota has Advantage on Wisdom (perception) checks that rely on smell.
-
-***Kicking Retreat.*** If the leucrocota attacks with its hooves, it can take the Disengage action as a bonus action.
-
-***Mimicry.*** The leucrocota can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
-
-***Rampage.*** When the leucrocota reduces a creature to 0 Hit Points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make an attack with its hooves.
-
-***Vigilant.*** The leucrocota can't be surprised.
-
-## Actions
-
-***Multiattack.*** The leucrocota makes two attacks: one with its bite and one with its hooves.
-
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the leucrocota scores a critical hit, it rolls the damage dice three times, instead of twice.
-
-***Hooves.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage.
-
-***Eat Corpse (Mythic Trait; Recharges After a Short or Long Rest).*** The leucrocota devours a corpse it can reach. It gets a +3 bonus to Strength and Dexterity checks and damage rolls, and gains 16 (3d10) temporary Hit Points. This effect ends when the leucrocota completes a Short or Long Rest.
+```statblock
+"name": "Ravenous Leucrocota"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"ac_class": "natural armor"
+"hp": !!int "36"
+"hit_dice": "4d10 + 16"
+"modifier": !!int "2"
+"stats":
+  - !!int "15"
+  - !!int "14"
+  - !!int "18"
+  - !!int "9"
+  - !!int "12"
+  - !!int "6"
+"speed": "50 ft."
+"skillsaves":
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+0"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+"senses": "[darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": ""
+"cr": "3"
+"traits":
+  - "desc": "The leucrocota has Advantage on Wisdom (perception) checks that rely\
+      \ on smell."
+    "name": "Keen Smell"
+  - "desc": "If the leucrocota attacks with its hooves, it can take the Disengage\
+      \ action as a bonus action."
+    "name": "Kicking Retreat"
+  - "desc": "The leucrocota can mimic animal sounds and humanoid voices. A creature\
+      \ that hears the sounds can tell they are imitations with a successful DC 14\
+      \ Wisdom (Insight) check."
+    "name": "Mimicry"
+  - "desc": "When the leucrocota reduces a creature to 0 Hit Points with a melee attack\
+      \ on its turn, it can take a bonus action to move up to half its speed and make\
+      \ an attack with its hooves."
+    "name": "Rampage"
+  - "desc": "The leucrocota can't be surprised."
+    "name": "Vigilant"
+"actions":
+  - "desc": "The leucrocota makes two attacks: one with its bite and one with its\
+      \ hooves."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+      \ + 2) piercing damage. If the leucrocota scores a critical hit, it rolls the\
+      \ damage dice three times, instead of twice."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+      \ + 2) bludgeoning damage."
+    "name": "Hooves"
+  - "desc": "The leucrocota devours a corpse it can reach. It gets a +3 bonus to Strength\
+      \ and Dexterity checks and damage rolls, and gains 16 (3d10) temporary Hit Points.\
+      \ This effect ends when the leucrocota completes a Short or Long Rest."
+    "name": "Eat Corpse (Mythic Trait; Recharges After a Short or Long Rest)"
+"source":
+  - "TBVIV"
 ```
 ^statblock

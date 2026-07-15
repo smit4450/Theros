@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid/wizard
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Mage"
 ---
 # Mage
-*Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/humanoid/img/mages.webp#right)
 
 Mages are accomplished spellcasters whose lives have been shaped by magic. They can use their powers to defend or dominate other creatures, or they could focus on magical research and unlocking mystical secrets.
@@ -51,50 +53,65 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 
 ## Statblock
 
-```ad-statblock
-title: Mage
-![](/Compendium/bestiary/humanoid/token/mage-xmm.webp#token)
-*Small or Medium humanoid (wizard), Neutral*
-
-- **Armor Class** 15 
-- **Hit Points** 81 (`18d8`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Intelligence +6, Wisdom +4
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +6, [History](/Compendium/rules/skills.md#History) +6, [Perception](/Compendium/rules/skills.md#Perception) +4
-- **Senses** passive Perception 14
-- **Gear** [wand](/Compendium/items/wand-xphb.md)
-- **Languages** Common and any three languages
-- **Challenge** 6
-
-## Actions
-
-***Multiattack.*** The mage makes three Arcane Burst attacks.
-
-***Arcane Burst.*** *Melee  or Ranged Attack Roll:* `+6`, reach 5 ft. or range 120 ft. *Hit:* 16 (`3d8 + 3`) Force damage.
-
-***Spellcasting.*** The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
-
-**At will:** [Detect Magic](/Compendium/spells/detect-magic-xphb.md), [Light](/Compendium/spells/light-xphb.md), [Mage Armor](/Compendium/spells/mage-armor-xphb.md) (included in AC), [Mage Hand](/Compendium/spells/mage-hand-xphb.md), [Prestidigitation](/Compendium/spells/prestidigitation-xphb.md)
-
-**2/day each:** [Fireball](/Compendium/spells/fireball-xphb.md) (level 4 version), [Invisibility](/Compendium/spells/invisibility-xphb.md)
-
-**1/day each:** [Cone of Cold](/Compendium/spells/cone-of-cold-xphb.md), [Fly](/Compendium/spells/fly-xphb.md)
-
-## Bonus Actions
-
-***Misty Step (3/Day).*** The mage casts [Misty Step](/Compendium/spells/misty-step-xphb.md), using the same spellcasting ability as Spellcasting.
-
-
-## Reactions
-
-***Protective Magic (3/Day).*** The mage casts [Counterspell](/Compendium/spells/counterspell-xphb.md) or [Shield](/Compendium/spells/shield-xphb.md) in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
-
+```statblock
+"name": "Mage"
+"size": "Small or Medium"
+"type": "humanoid"
+"subtype": "wizard"
+"alignment": "Neutral"
+"ac": !!int "15"
+"hp": !!int "81"
+"hit_dice": "18d8"
+"modifier": !!int "2"
+"stats":
+  - !!int "9"
+  - !!int "14"
+  - !!int "11"
+  - !!int "17"
+  - !!int "12"
+  - !!int "11"
+"speed": "30 ft."
+"saves":
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "4"
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+6"
+  - "name": "[History](/Compendium/rules/skills.md#History)"
+    "desc": "+6"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+"gear":
+  - "[wand](/Compendium/items/wand-xphb.md)"
+"senses": "passive Perception 14"
+"languages": "Common and any three languages"
+"cr": "6"
+"actions":
+  - "desc": "The mage makes three Arcane Burst attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 120 ft. *Hit:*\
+      \ 16 (3d8 + 3) Force damage."
+    "name": "Arcane Burst"
+  - "desc": "The mage casts one of the following spells, using Intelligence as the\
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [Detect Magic](/Compendium/spells/detect-magic-xphb.md),\
+      \ [Light](/Compendium/spells/light-xphb.md), [Mage Armor](/Compendium/spells/mage-armor-xphb.md)\
+      \ (included in AC), [Mage Hand](/Compendium/spells/mage-hand-xphb.md), [Prestidigitation](/Compendium/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [Fireball](/Compendium/spells/fireball-xphb.md) (level 4 version),\
+      \ [Invisibility](/Compendium/spells/invisibility-xphb.md)\n\n**1/day each:**\
+      \ [Cone of Cold](/Compendium/spells/cone-of-cold-xphb.md), [Fly](/Compendium/spells/fly-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The mage casts [Misty Step](/Compendium/spells/misty-step-xphb.md), using\
+      \ the same spellcasting ability as Spellcasting.\n"
+    "name": "Misty Step (3/Day)"
+"reactions":
+  - "desc": "The mage casts [Counterspell](/Compendium/spells/counterspell-xphb.md)\
+      \ or [Shield](/Compendium/spells/shield-xphb.md) in response to the spell's\
+      \ trigger, using the same spellcasting ability as Spellcasting.\n"
+    "name": "Protective Magic (3/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/mage-xmm.webp"
 ```
 ^statblock
 

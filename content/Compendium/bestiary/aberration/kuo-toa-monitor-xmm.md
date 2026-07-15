@@ -9,11 +9,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Kuo-toa Monitor"
 ---
 # Kuo-toa Monitor
-*Source: Monster Manual (2024) p. 190*  
+*Source: Monster Manual (2024) p. 190*
 ![](/Compendium/bestiary/aberration/img/kuo-toa-whip-and-monitor.webp#right)
 
 Kuo-toa monitors control the day-to-day life of weaker kuo-toa, directing their work and worship. They also train beasts or monsters in the kuo-toa's service—such as chuuls or giant crabs—and command them in battle. Archpriests bless monitors with the power to control their underlings and to subdue foes with electricity channeled through their bizarre whips.
@@ -78,37 +80,48 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 
 ## Statblock
 
-```ad-statblock
-title: Kuo-toa Monitor
-![](/Compendium/bestiary/aberration/token/kuo-toa-monitor-xmm.webp#token)
-*Medium aberration, Neutral Evil*
-
-- **Armor Class** 13 
-- **Hit Points** 65 (`10d8 + 20`) 
-- **Speed** 30 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|10 (+0)|14 (+2)|12 (+1)|14 (+2)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +6, [Religion](/Compendium/rules/skills.md#Religion) +3
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., [Truesight](/Compendium/rules/senses.md#Truesight) 30 ft., passive Perception 16
-- **Languages** Undercommon
-- **Challenge** 3
-
-## Traits
-
-***Amphibious.*** The kuo-toa can breathe air and water.
-
-***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
-
-## Actions
-
-***Multiattack.*** The kuo-toa makes two Bone Whip attacks.
-
-***Bone Whip.*** *Melee Attack Roll:* `+5`, reach 10 ft. *Hit:* 6 (`1d6 + 3`) Slashing damage plus 7 (`2d6`) Lightning damage, and the target can't make [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack) until the start of the kuo-toa's next turn.
+```statblock
+"name": "Kuo-toa Monitor"
+"size": "Medium"
+"type": "aberration"
+"alignment": "Neutral Evil"
+"ac": !!int "13"
+"hp": !!int "65"
+"hit_dice": "10d8 + 20"
+"modifier": !!int "0"
+"stats":
+  - !!int "16"
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "14"
+  - !!int "11"
+"speed": "30 ft., swim 30 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Religion](/Compendium/rules/skills.md#Religion)"
+    "desc": "+3"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., [Truesight](/Compendium/rules/senses.md#Truesight)\
+  \ 30 ft., passive Perception 16"
+"languages": "Undercommon"
+"cr": "3"
+"traits":
+  - "desc": "The kuo-toa can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
+"actions":
+  - "desc": "The kuo-toa makes two Bone Whip attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 10 ft. *Hit:* 6 (1d6 + 3) Slashing damage\
+      \ plus 7 (2d6) Lightning damage, and the target can't make [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack)\
+      \ until the start of the kuo-toa's next turn."
+    "name": "Bone Whip"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/aberration/token/kuo-toa-monitor-xmm.webp"
 ```
 ^statblock
 

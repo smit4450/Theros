@@ -9,11 +9,13 @@ tags:
 - monster/environment/swamp
 - monster/size/small-or-medium
 - monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Mummy"
 ---
 # Mummy
-*Source: Monster Manual (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/undead/img/mummies.webp#right)
 
 Common mummies are the remains of priests, nobles, or champions of faith that underwent magical burial rites. Some are preserved through processes using linen wrappings or clay, but others are preserved by peat bogs, ice, magic, or other means.
@@ -53,36 +55,55 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 
 ## Statblock
 
-```ad-statblock
-title: Mummy
-![](/Compendium/bestiary/undead/token/mummy-xmm.webp#token)
-*Small or Medium undead, Lawful Evil*
-
-- **Armor Class** 11 
-- **Hit Points** 58 (`9d8 + 18`) 
-- **Speed** 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)| 8 (-1)|15 (+2)| 6 (-2)|12 (+1)|12 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Wisdom +3
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 11
-- **Damage Vulnerabilities** fire
-- **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Common plus two other languages
-- **Challenge** 3
-
-## Actions
-
-***Multiattack.*** The mummy makes two Rotting Fist attacks and uses Dreadful Glare.
-
-***Rotting Fist.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 8 (`1d10 + 3`) Bludgeoning damage plus 10 (`3d6`) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can't regain [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md), its [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum doesn't return to normal when finishing a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md), and its [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum decreases by 10 (`3d6`) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) by this attack.
-
-***Dreadful Glare.*** *Wisdom Saving Throw:* DC 11, one creature the mummy can see within 60 feet. *Failure:* The target has the [Frightened](/Compendium/rules/conditions.md#Frightened) condition until the end of the mummy's next turn. *Success:* The target is immune to this mummy's Dreadful Glare for 24 hours.
+```statblock
+"name": "Mummy"
+"size": "Small or Medium"
+"type": "undead"
+"alignment": "Lawful Evil"
+"ac": !!int "11"
+"hp": !!int "58"
+"hit_dice": "9d8 + 18"
+"modifier": !!int "-1"
+"stats":
+  - !!int "16"
+  - !!int "8"
+  - !!int "15"
+  - !!int "6"
+  - !!int "12"
+  - !!int "12"
+"speed": "20 ft."
+"saves":
+  - "wisdom": !!int "3"
+"damage_vulnerabilities": "fire"
+"damage_immunities": "necrotic, poison"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [frightened](/Compendium/rules/conditions.md#Frightened), [paralyzed](/Compendium/rules/conditions.md#Paralyzed),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 11"
+"languages": "Common plus two other languages"
+"cr": "3"
+"actions":
+  - "desc": "The mummy makes two Rotting Fist attacks and uses Dreadful Glare."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Bludgeoning\
+      \ damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed.\
+      \ While cursed, the target can't regain [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md),\
+      \ its [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
+      \ doesn't return to normal when finishing a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md),\
+      \ and its [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
+      \ decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns\
+      \ to dust if reduced to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ by this attack."
+    "name": "Rotting Fist"
+  - "desc": "*Wisdom Saving Throw:* DC 11, one creature the mummy can see within 60\
+      \ feet. *Failure:* The target has the [Frightened](/Compendium/rules/conditions.md#Frightened)\
+      \ condition until the end of the mummy's next turn. *Success:* The target is\
+      \ immune to this mummy's Dreadful Glare for 24 hours."
+    "name": "Dreadful Glare"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/undead/token/mummy-xmm.webp"
 ```
 ^statblock
 

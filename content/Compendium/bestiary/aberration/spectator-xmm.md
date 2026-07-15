@@ -8,11 +8,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration/beholder
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Spectator"
 ---
 # Spectator
-*Source: Monster Manual (2024) p. 289*  
+*Source: Monster Manual (2024) p. 289*
 ![](/Compendium/bestiary/aberration/img/spectator.webp#right)
 
 ## Spectator
@@ -28,43 +30,64 @@ A spectator serves its conjurer for 101 years by guarding something of the spell
 
 At the end of its service, a spectator might discorporate back into nothingness or wander away, seeking to learn more of the multiverse.
 
-```ad-statblock
-title: Spectator
-![](/Compendium/bestiary/aberration/token/spectator-xmm.webp#token)
-*Medium aberration (beholder), Lawful Neutral*
-
-- **Armor Class** 14 
-- **Hit Points** 45 (`7d8 + 14`) 
-- **Speed** 5 ft., fly 30 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1)|14 (+2)|14 (+2)|13 (+1)|14 (+2)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +6
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 16
-- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [prone](/Compendium/rules/conditions.md#Prone)
-- **Languages** Deep Speech, Undercommon; telepathy 120 ft.
-- **Challenge** 3
-
-## Actions
-
-***Multiattack.*** The spectator uses Eye Rays twice.
-
-***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 5 (`1d6 + 2`) Piercing damage.
-
-***Eye Rays.*** The spectator randomly shoots one of the following magical rays at a target it can see within 90 feet of itself (roll `1d4`; reroll if the spectator has already used that ray during this turn):
-
-- **1 Confusion Ray.** *Wisdom Saving Throw:* DC 12. *Failure:* 5 (`2d4`) Psychic damage, and the target can't take Reactions until the end of its next turn. On its next turn, the target can't move, and it uses its action to make a melee or ranged attack against a randomly determined creature within range. If the target can't attack, it does nothing on that turn.  
-- **2 Paralyzing Ray.** *Constitution Saving Throw:* DC 12. *Failure:* The target has the [Paralyzed](/Compendium/rules/conditions.md#Paralyzed) condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.  
-- **3 Fear Ray.** *Wisdom Saving Throw:* DC 12. *Failure:* 5 (`2d4`) Psychic damage, and the target has the [Frightened](/Compendium/rules/conditions.md#Frightened) condition until the end of its next turn.  
-- **4 Wounding Ray.** *Constitution Saving Throw:* DC 12. *Failure:* 16 (`3d10`) Necrotic damage. *Success:* Half damage.  
-
-## Reactions
-
-***Spell Reflection.*** Trigger: The spectator succeeds on a saving throw against a spell, or a spell's attack roll misses it. _Response—_*Dexterity Saving Throw:* DC 12, one creature the spectator can see within 120 feet. *Failure:* 10 (`3d6`) Force damage.
+```statblock
+"name": "Spectator"
+"size": "Medium"
+"type": "aberration"
+"subtype": "beholder"
+"alignment": "Lawful Neutral"
+"ac": !!int "14"
+"hp": !!int "45"
+"hit_dice": "7d8 + 14"
+"modifier": !!int "2"
+"stats":
+  - !!int "8"
+  - !!int "14"
+  - !!int "14"
+  - !!int "13"
+  - !!int "14"
+  - !!int "11"
+"speed": "5 ft., fly 30 ft. (hover)"
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+"condition_immunities": "[exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [prone](/Compendium/rules/conditions.md#Prone)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 16"
+"languages": "Deep Speech, Undercommon; telepathy 120 ft."
+"cr": "3"
+"actions":
+  - "desc": "The spectator uses Eye Rays twice."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage."
+    "name": "Bite"
+  - "desc": "The spectator randomly shoots one of the following magical rays at a\
+      \ target it can see within 90 feet of itself (roll 1d4; reroll if the spectator\
+      \ has already used that ray during this turn):\n\n- **1 Confusion Ray.** *Wisdom\
+      \ Saving Throw:* DC 12. *Failure:* 5 (2d4) Psychic damage, and the target can't\
+      \ take Reactions until the end of its next turn. On its next turn, the target\
+      \ can't move, and it uses its action to make a melee or ranged attack against\
+      \ a randomly determined creature within range. If the target can't attack, it\
+      \ does nothing on that turn.  \n- **2 Paralyzing Ray.** *Constitution Saving\
+      \ Throw:* DC 12. *Failure:* The target has the [Paralyzed](/Compendium/rules/conditions.md#Paralyzed)\
+      \ condition and repeats the save at the end of each of its turns, ending the\
+      \ effect on itself on a success. After 1 minute, it succeeds automatically.\
+      \  \n- **3 Fear Ray.** *Wisdom Saving Throw:* DC 12. *Failure:* 5 (2d4) Psychic\
+      \ damage, and the target has the [Frightened](/Compendium/rules/conditions.md#Frightened)\
+      \ condition until the end of its next turn.  \n- **4 Wounding Ray.** *Constitution\
+      \ Saving Throw:* DC 12. *Failure:* 16 (3d10) Necrotic damage. *Success:* Half\
+      \ damage.  "
+    "name": "Eye Rays"
+"reactions":
+  - "desc": "Trigger: The spectator succeeds on a saving throw against a spell, or\
+      \ a spell's attack roll misses it. _Response—_*Dexterity Saving Throw:* DC 12,\
+      \ one creature the spectator can see within 120 feet. *Failure:* 10 (3d6) Force\
+      \ damage."
+    "name": "Spell Reflection"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/aberration/token/spectator-xmm.webp"
 ```
 ^statblock
 

@@ -9,11 +9,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Basilisk"
 ---
 # Basilisk
-*Source: Monster Manual (2024) p. 32. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 32. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/monstrosity/img/basilisk.webp#right)
 
 ## Basilisk
@@ -45,33 +47,44 @@ The remains of [Petrified](/Compendium/rules/conditions.md#Petrified) creatures 
 | 8 | A victim now being used as a nest for insects or other vermin. |
 ^petrified-basilisk-victims
 
-```ad-statblock
-title: Basilisk
-![](/Compendium/bestiary/monstrosity/token/basilisk-xmm.webp#token)
-*Medium monstrosity, Unaligned*
-
-- **Armor Class** 15 
-- **Hit Points** 52 (`8d8 + 16`) 
-- **Speed** 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)| 8 (-1)|15 (+2)| 2 (-4)| 8 (-1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Languages** —
-- **Challenge** 3
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 10 (`2d6 + 3`) Piercing damage plus 7 (`2d6`) Poison damage.
-
-## Bonus Actions
-
-***Petrifying Gaze (Recharge 4-6).*** *Constitution Saving Throw:* DC 12, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). If the basilisk sees its reflection within the [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md), the basilisk must make this save. *1St Failure:* The target has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition and repeats the save at the end of its next turn if it is still [Restrained](/Compendium/rules/conditions.md#Restrained), ending the effect on itself on a success. *2Nd Failure:* The target has the [Petrified](/Compendium/rules/conditions.md#Petrified) condition instead of the [Restrained](/Compendium/rules/conditions.md#Restrained) condition.
+```statblock
+"name": "Basilisk"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "15"
+"hp": !!int "52"
+"hit_dice": "8d8 + 16"
+"modifier": !!int "-1"
+"stats":
+  - !!int "16"
+  - !!int "8"
+  - !!int "15"
+  - !!int "2"
+  - !!int "8"
+  - !!int "7"
+"speed": "20 ft."
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
+"languages": ""
+"cr": "3"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Piercing damage\
+      \ plus 7 (2d6) Poison damage."
+    "name": "Bite"
+"bonus_actions":
+  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ If the basilisk sees its reflection within the [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md),\
+      \ the basilisk must make this save. *1St Failure:* The target has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition and repeats the save at the end of its next turn if it is still\
+      \ [Restrained](/Compendium/rules/conditions.md#Restrained), ending the effect\
+      \ on itself on a success. *2Nd Failure:* The target has the [Petrified](/Compendium/rules/conditions.md#Petrified)\
+      \ condition instead of the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition."
+    "name": "Petrifying Gaze (Recharge 4-6)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/basilisk-xmm.webp"
 ```
 ^statblock
 

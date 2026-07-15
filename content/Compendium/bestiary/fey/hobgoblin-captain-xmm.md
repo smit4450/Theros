@@ -15,11 +15,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fey/goblinoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Hobgoblin Captain"
 ---
 # Hobgoblin Captain
-*Source: Monster Manual (2024) p. 171. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 171. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/fey/img/hobgoblins.webp#right)
 
 Hobgoblin captains are battlefield tacticians. They lead their allies to victory by employing martial skill and rallying others with orders and threats. Hobgoblin captains usually oversee hobgoblin battle groups or gangs of weaker monsters.
@@ -55,38 +57,50 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 
 ## Statblock
 
-```ad-statblock
-title: Hobgoblin Captain
-![](/Compendium/bestiary/fey/token/hobgoblin-captain-xmm.webp#token)
-*Medium fey (goblinoid), Lawful Evil*
-
-- **Armor Class** 17 
-- **Hit Points** 58 (`9d8 + 18`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [greatsword](/Compendium/items/greatsword-xphb.md), [half plate armor](/Compendium/items/half-plate-armor-xphb.md), [longbow](/Compendium/items/longbow-xphb.md)
-- **Languages** Common, Goblin
-- **Challenge** 3
-
-## Traits
-
-***Aura of Authority.*** While in a 10-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the hobgoblin, the hobgoblin and its allies have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls and saving throws, provided the hobgoblin doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
-
-## Actions
-
-***Multiattack.*** The hobgoblin makes two attacks, using Greatsword or Longbow in any combination.
-
-***Greatsword.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 9 (`2d6 + 2`) Slashing damage plus 3 (`1d6`) Poison damage.
-
-***Longbow.*** *Ranged Attack Roll:* `+4`, range 150/600 ft. *Hit:* 6 (`1d8 + 2`) Piercing damage plus 5 (`2d4`) Poison damage.
+```statblock
+"name": "Hobgoblin Captain"
+"size": "Medium"
+"type": "fey"
+"subtype": "goblinoid"
+"alignment": "Lawful Evil"
+"ac": !!int "17"
+"hp": !!int "58"
+"hit_dice": "9d8 + 18"
+"modifier": !!int "4"
+"stats":
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "13"
+"speed": "30 ft."
+"gear":
+  - "[greatsword](/Compendium/items/greatsword-xphb.md)"
+  - "[half plate armor](/Compendium/items/half-plate-armor-xphb.md)"
+  - "[longbow](/Compendium/items/longbow-xphb.md)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Common, Goblin"
+"cr": "3"
+"traits":
+  - "desc": "While in a 10-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
+      \ [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition."
+    "name": "Aura of Authority"
+"actions":
+  - "desc": "The hobgoblin makes two attacks, using Greatsword or Longbow in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 9 (2d6 + 2) Slashing damage\
+      \ plus 3 (1d6) Poison damage."
+    "name": "Greatsword"
+  - "desc": "*Ranged Attack Roll:* +4, range 150/600 ft. *Hit:* 6 (1d8 + 2) Piercing\
+      \ damage plus 5 (2d4) Poison damage."
+    "name": "Longbow"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fey/token/hobgoblin-captain-xmm.webp"
 ```
 ^statblock
 

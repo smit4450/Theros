@@ -11,11 +11,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Hell Hound"
 ---
 # Hell Hound
-*Source: Monster Manual (2024) p. 165. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 165. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/fiend/img/hell-hound.webp#right)
 
 ## Hell Hound
@@ -29,38 +31,49 @@ Spawned from the pits of Acheron, Gehenna, and the Nine Hells, hell hounds enfor
 
 Hell hounds have greater cunning than normal canines. They're skilled trackers and work together well in packs, often employing tricks and ambushes. Hell hounds enjoy hearing prey scream in their scorching jaws and fiery breath. They often go out of their way to draw out the terror of their victims' final moments.
 
-```ad-statblock
-title: Hell Hound
-![](/Compendium/bestiary/fiend/token/hell-hound-xmm.webp#token)
-*Medium fiend, Lawful Evil*
-
-- **Armor Class** 15 
-- **Hit Points** 58 (`9d8 + 18`) 
-- **Speed** 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|12 (+1)|14 (+2)| 6 (-2)|13 (+1)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 15
-- **Damage Immunities** fire
-- **Languages** understands Infernal but can't speak
-- **Challenge** 3
-
-## Traits
-
-***Pack Tactics.*** The hound has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
-
-## Actions
-
-***Multiattack.*** The hound makes two Bite attacks.
-
-***Bite.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Piercing damage plus 3 (`1d6`) Fire damage.
-
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 12, each creature in a 15-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* 17 (`5d6`) Fire damage. *Success:* Half damage.
+```statblock
+"name": "Hell Hound"
+"size": "Medium"
+"type": "fiend"
+"alignment": "Lawful Evil"
+"ac": !!int "15"
+"hp": !!int "58"
+"hit_dice": "9d8 + 18"
+"modifier": !!int "1"
+"stats":
+  - !!int "17"
+  - !!int "12"
+  - !!int "14"
+  - !!int "6"
+  - !!int "13"
+  - !!int "6"
+"speed": "50 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+"damage_immunities": "fire"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 15"
+"languages": "understands Infernal but can't speak"
+"cr": "3"
+"traits":
+  - "desc": "The hound has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the hound's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
+"actions":
+  - "desc": "The hound makes two Bite attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage\
+      \ plus 3 (1d6) Fire damage."
+    "name": "Bite"
+  - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 15-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 17 (5d6) Fire damage. *Success:* Half damage."
+    "name": "Fire Breath (Recharge 5-6)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fiend/token/hell-hound-xmm.webp"
 ```
 ^statblock
 

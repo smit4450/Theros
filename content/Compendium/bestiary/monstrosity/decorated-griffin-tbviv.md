@@ -7,46 +7,58 @@ tags:
 - monster/cr/2
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Decorated Griffin"
 ---
 # Decorated Griffin
-*Source: Theros Bestiary, Vol. IV*  
+*Source: Theros Bestiary, Vol. IV*
 ![](/Compendium/bestiary/monstrosity/img/decorated-griffin.webp#center)
 
-```ad-statblock
-title: Decorated Griffin
-*Large monstrosity, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** 63 (`7d10 + 28`) 
-- **Speed** 30 ft., fly 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|18 (+4)| 2 (-4)|13 (+1)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5
-- **Senses** [darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Languages** —
-- **Challenge** 2
-
-## Traits
-
-***Keen Sight.*** The griffin has Advantage on Wisdom (Perception) checks that rely on sight.
-
-## Actions
-
-***Multiattack.*** The griffin makes two attacks: one with its beak and one with its claws.
-
-***Beak.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
-
-***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
-
-## Reactions
-
-***Shield.*** When a creature the griffin can see makes an attack against a creature that has gifted an item to the griffin and that the griffin can see, the griffin becomes aggressive to that attacking creature.
+```statblock
+"name": "Decorated Griffin"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "63"
+"hit_dice": "7d10 + 28"
+"modifier": !!int "2"
+"stats":
+  - !!int "18"
+  - !!int "15"
+  - !!int "18"
+  - !!int "2"
+  - !!int "13"
+  - !!int "8"
+"speed": "30 ft., fly 80 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+"senses": "[darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": ""
+"cr": "2"
+"traits":
+  - "desc": "The griffin has Advantage on Wisdom (Perception) checks that rely on\
+      \ sight."
+    "name": "Keen Sight"
+"actions":
+  - "desc": "The griffin makes two attacks: one with its beak and one with its claws."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+      \ + 4) piercing damage."
+    "name": "Beak"
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6\
+      \ + 4) slashing damage."
+    "name": "Claws"
+"reactions":
+  - "desc": "When a creature the griffin can see makes an attack against a creature\
+      \ that has gifted an item to the griffin and that the griffin can see, the griffin\
+      \ becomes aggressive to that attacking creature."
+    "name": "Shield"
+"source":
+  - "TBVIV"
 ```
 ^statblock

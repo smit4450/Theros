@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Guard Captain"
 ---
 # Guard Captain
-*Source: Monster Manual (2024) p. 162. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 162. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/humanoid/img/guards.webp#right)
 
 Guard captains often have ample professional experience. They might be accomplished bodyguards, protectors of magic treasures, veteran watch members, or similar wardens.
@@ -33,34 +35,47 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 
 ## Statblock
 
-```ad-statblock
-title: Guard Captain
-![](/Compendium/bestiary/humanoid/token/guard-captain-xmm.webp#token)
-*Small or Medium humanoid, Neutral*
-
-- **Armor Class** 18 
-- **Hit Points** 75 (`10d8 + 30`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|14 (+2)|16 (+3)|12 (+1)|14 (+2)|13 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Athletics](/Compendium/rules/skills.md#Athletics) +6, [Perception](/Compendium/rules/skills.md#Perception) +4
-- **Senses** passive Perception 14
-- **Gear** [breastplate](/Compendium/items/breastplate-xphb.md), six [javelins](/Compendium/items/javelin-xphb.md), [longsword](/Compendium/items/longsword-xphb.md), [shield](/Compendium/items/shield-xphb.md)
-- **Languages** Common
-- **Challenge** 4
-
-## Actions
-
-***Multiattack.*** The guard makes two attacks, using Javelin or Longsword in any combination.
-
-***Javelin.*** *Melee  or Ranged Attack Roll:* `+6`, reach 5 ft. or range 30/120 ft. *Hit:* 14 (`3d6 + 4`) Piercing damage.
-
-***Longsword.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 15 (`2d10 + 4`) Slashing damage.
+```statblock
+"name": "Guard Captain"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "18"
+"hp": !!int "75"
+"hit_dice": "10d8 + 30"
+"modifier": !!int "4"
+"stats":
+  - !!int "18"
+  - !!int "14"
+  - !!int "16"
+  - !!int "12"
+  - !!int "14"
+  - !!int "13"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Athletics](/Compendium/rules/skills.md#Athletics)"
+    "desc": "+6"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+"gear":
+  - "[breastplate](/Compendium/items/breastplate-xphb.md)"
+  - "six [javelins](/Compendium/items/javelin-xphb.md)"
+  - "[longsword](/Compendium/items/longsword-xphb.md)"
+  - "[shield](/Compendium/items/shield-xphb.md)"
+"senses": "passive Perception 14"
+"languages": "Common"
+"cr": "4"
+"actions":
+  - "desc": "The guard makes two attacks, using Javelin or Longsword in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft. *Hit:*\
+      \ 14 (3d6 + 4) Piercing damage."
+    "name": "Javelin"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 15 (2d10 + 4) Slashing damage."
+    "name": "Longsword"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/guard-captain-xmm.webp"
 ```
 ^statblock
 

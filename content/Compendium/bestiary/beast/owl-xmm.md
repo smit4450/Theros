@@ -10,11 +10,13 @@ tags:
 - monster/environment/hill
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Owl"
 ---
 # Owl
-*Source: Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/celestial/img/owl.webp#right)
 
 ## Animals
@@ -26,33 +28,43 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Owl
-![](/Compendium/bestiary/beast/token/owl-xmm.webp#token)
-*Tiny beast, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** 1 (`1d4 - 1`) 
-- **Speed** 5 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 3 (-4)|13 (+1)| 8 (-1)| 2 (-4)|12 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5, [Stealth](/Compendium/rules/skills.md#Stealth) +5
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 15
-- **Languages** —
-- **Challenge** 0
-
-## Traits
-
-***Flyby.*** The owl doesn't provoke [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
-
-## Actions
-
-***Talons.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 1 Slashing damage.
+```statblock
+"name": "Owl"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "1"
+"hit_dice": "1d4 - 1"
+"modifier": !!int "1"
+"stats":
+  - !!int "3"
+  - !!int "13"
+  - !!int "8"
+  - !!int "2"
+  - !!int "12"
+  - !!int "7"
+"speed": "5 ft., fly 60 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+5"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 15"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The owl doesn't provoke [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack)\
+      \ when it flies out of an enemy's reach."
+    "name": "Flyby"
+"actions":
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 1 Slashing damage."
+    "name": "Talons"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/beast/token/owl-xmm.webp"
 ```
 ^statblock
 

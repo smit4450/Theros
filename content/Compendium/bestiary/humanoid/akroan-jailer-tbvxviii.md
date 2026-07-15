@@ -7,44 +7,64 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/human
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Akroan Jailer"
 ---
 # Akroan Jailer
-*Source: Theros Bestiary, Vol. XVIII*  
+*Source: Theros Bestiary, Vol. XVIII*
 ![](/Compendium/bestiary/humanoid/img/akroan-jailer.webp#center)
 
-```ad-statblock
-title: Akroan Jailer
-*Medium humanoid (human), Any alignment*
-
-- **Armor Class** 15 
-- **Hit Points** 5 (`1d8 + 1`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|13 (+1)|14 (+2)|13 (+1)|12 (+1)|13 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Charisma +4, Strength +3, Dexterity +4, Constitution +3
-- **Skills** [Athletics](/Compendium/rules/skills.md#Athletics) +3, [Insight](/Compendium/rules/skills.md#Insight) +3, [Perception](/Compendium/rules/skills.md#Perception) +3
-- **Senses** passive Perception 10
-- **Languages** Common
-- **Challenge** 2
-
-## Traits
-
-***Battle Readiness.*** The jailer has Advantage on initiative rolls.
-
-***Resilient.*** The jailer has Advantage on saving throws against being charmed, frightened, grappled, or restrained.
-
-***Retainer.*** The jailer has Advantage on skill checks made for pursuing, apprehension, retaining, and escorting hostile creatures.
-
-## Actions
-
-***Multiattack.*** The jailer makes two unarmed strikes
-
-***Unarmed Strike.*** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.
+```statblock
+"name": "Akroan Jailer"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human"
+"alignment": "Any alignment"
+"ac": !!int "15"
+"hp": !!int "5"
+"hit_dice": "1d8 + 1"
+"modifier": !!int "2"
+"stats":
+  - !!int "13"
+  - !!int "14"
+  - !!int "13"
+  - !!int "12"
+  - !!int "13"
+  - !!int "14"
+"speed": "30 ft."
+"saves":
+  - "charisma": !!int "4"
+  - "strength": !!int "3"
+  - "dexterity": !!int "4"
+  - "constitution": !!int "3"
+"skillsaves":
+  - "name": "[Athletics](/Compendium/rules/skills.md#Athletics)"
+    "desc": "+3"
+  - "name": "[Insight](/Compendium/rules/skills.md#Insight)"
+    "desc": "+3"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+"senses": "passive Perception 10"
+"languages": "Common"
+"cr": "2"
+"traits":
+  - "desc": "The jailer has Advantage on initiative rolls."
+    "name": "Battle Readiness"
+  - "desc": "The jailer has Advantage on saving throws against being charmed, frightened,\
+      \ grappled, or restrained."
+    "name": "Resilient"
+  - "desc": "The jailer has Advantage on skill checks made for pursuing, apprehension,\
+      \ retaining, and escorting hostile creatures."
+    "name": "Retainer"
+"actions":
+  - "desc": "The jailer makes two unarmed strikes"
+    "name": "Multiattack"
+  - "desc": "_Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4\
+      \ + 1) bludgeoning damage."
+    "name": "Unarmed Strike"
+"source":
+  - "TBVXVIII"
 ```
 ^statblock

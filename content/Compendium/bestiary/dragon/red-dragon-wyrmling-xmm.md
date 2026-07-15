@@ -9,11 +9,13 @@ tags:
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/dragon/chromatic
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Red Dragon Wyrmling"
 ---
 # Red Dragon Wyrmling
-*Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/dragon/img/red-dragon-wyrmling.webp#right)
 
 Red dragon wyrmlings are born destroyers. From a young age, they delight in igniting objects and creatures alike. They sometimes restrain themselves from scorching creatures to instead bully others into following their orders and bringing them gifts.
@@ -37,34 +39,49 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
 
 ## Statblock
 
-```ad-statblock
-title: Red Dragon Wyrmling
-![](/Compendium/bestiary/dragon/token/red-dragon-wyrmling-xmm.webp#token)
-*Medium dragon (chromatic), Chaotic Evil*
-
-- **Armor Class** 17 
-- **Hit Points** 75 (`10d8 + 30`) 
-- **Speed** 30 ft., climb 30 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +2, Wisdom +2
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +4, [Stealth](/Compendium/rules/skills.md#Stealth) +2
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Damage Immunities** fire
-- **Languages** Draconic
-- **Challenge** 4
-
-## Actions
-
-***Multiattack.*** The dragon makes two Rend attacks.
-
-***Rend.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 9 (`1d10 + 4`) Slashing damage plus 3 (`1d6`) Fire damage.
-
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 13, each creature in a 15-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* 24 (`7d6`) Fire damage. *Success:* Half damage.
+```statblock
+"name": "Red Dragon Wyrmling"
+"size": "Medium"
+"type": "dragon"
+"subtype": "chromatic"
+"alignment": "Chaotic Evil"
+"ac": !!int "17"
+"hp": !!int "75"
+"hit_dice": "10d8 + 30"
+"modifier": !!int "2"
+"stats":
+  - !!int "19"
+  - !!int "10"
+  - !!int "17"
+  - !!int "12"
+  - !!int "11"
+  - !!int "15"
+"speed": "30 ft., climb 30 ft., fly 60 ft."
+"saves":
+  - "dexterity": !!int "2"
+  - "wisdom": !!int "2"
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+2"
+"damage_immunities": "fire"
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 14"
+"languages": "Draconic"
+"cr": "4"
+"actions":
+  - "desc": "The dragon makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (1d10 + 4) Slashing damage\
+      \ plus 3 (1d6) Fire damage."
+    "name": "Rend"
+  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 15-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 24 (7d6) Fire damage. *Success:* Half damage."
+    "name": "Fire Breath (Recharge 5-6)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/dragon/token/red-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

@@ -12,11 +12,13 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Manticore"
 ---
 # Manticore
-*Source: Monster Manual (2024) p. 202. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 202. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/manticore.webp#right)
 
 ## Manticore
@@ -46,33 +48,38 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 | 8 | Try to locate something from its vantage point in the sky. |
 ^manticore-negotiations
 
-```ad-statblock
-title: Manticore
-![](/Compendium/bestiary/monstrosity/token/manticore-xmm.webp#token)
-*Large monstrosity, Lawful Evil*
-
-- **Armor Class** 14 
-- **Hit Points** 68 (`8d10 + 24`) 
-- **Speed** 30 ft., fly 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|16 (+3)|17 (+3)| 7 (-2)|12 (+1)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 11
-- **Languages** Common
-- **Challenge** 3
-
-## Actions
-
-***Multiattack.*** The manticore makes three attacks, using Rend or Tail Spike in any combination.
-
-***Rend.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Slashing damage.
-
-***Tail Spike.*** *Ranged Attack Roll:* `+5`, range 100/200 ft. *Hit:* 7 (`1d8 + 3`) Piercing damage.
+```statblock
+"name": "Manticore"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Lawful Evil"
+"ac": !!int "14"
+"hp": !!int "68"
+"hit_dice": "8d10 + 24"
+"modifier": !!int "3"
+"stats":
+  - !!int "17"
+  - !!int "16"
+  - !!int "17"
+  - !!int "7"
+  - !!int "12"
+  - !!int "8"
+"speed": "30 ft., fly 50 ft."
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 11"
+"languages": "Common"
+"cr": "3"
+"actions":
+  - "desc": "The manticore makes three attacks, using Rend or Tail Spike in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing damage."
+    "name": "Rend"
+  - "desc": "*Ranged Attack Roll:* +5, range 100/200 ft. *Hit:* 7 (1d8 + 3) Piercing\
+      \ damage."
+    "name": "Tail Spike"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/manticore-xmm.webp"
 ```
 ^statblock
 

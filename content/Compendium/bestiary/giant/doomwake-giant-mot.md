@@ -7,11 +7,13 @@ tags:
 - monster/cr/11
 - monster/size/huge
 - monster/type/giant
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Doomwake Giant"
 ---
 # Doomwake Giant
-*Source: Mythic Odysseys of Theros p. 224*  
+*Source: Mythic Odysseys of Theros p. 224*
 ![](/Compendium/bestiary/giant/img/doomwake-giant.webp#right)
 
 Belief is a powerful force in Theros, capable of bringing about wonders and changing the world—but not always for the better. Doomwake giants arise from pernicious fears that infect a whole city or region. If enough mortals dread destruction for long enough, their terror can manifest as one of these massive Nyxborn beings. Once unleashed, a doomwake giant goes on a rampage, fulfilling the prophecy mortals believed into being. After doing so, these terrors typically roam to the edges of the world, where they either fade away over time or become legends that take on their own terrible life.
@@ -20,40 +22,64 @@ A spectrum of giants claims territory across Theros, drawing strength from aspec
 
 Beyond these primal giants, though, other giants fill the tales of Theros.
 
-```ad-statblock
-title: Doomwake Giant
-![](/Compendium/bestiary/giant/token/doomwake-giant-mot.webp#token)
-*Huge giant, Lawful Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 162 (`13d12 + 78`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|24 (+7)|12 (+1)|22 (+6)|12 (+1)|14 (+2)|16 (+3)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Constitution +10, Wisdom +6
-- **Skills** [Intimidation](/Compendium/rules/skills.md#Intimidation) +7, [Perception](/Compendium/rules/skills.md#Perception) +6
-- **Senses** [darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 16
-- **Damage Immunities** necrotic, poison
-- **Condition Immunities** [frightened](/Compendium/rules/conditions.md#Frightened), [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Giant
-- **Challenge** 11
-
-## Traits
-
-***Aura of Erebos.*** Any creature that starts its turn within 10 feet of the giant must succeed on a DC 18 Constitution saving throw, or it takes 10 (`3d6`) necrotic damage and can't regain hit points until the start of its next turn. On a successful saving throw, the creature is immune to the giant's Aura of Erebos for 24 hours.
-
-***Magic Resistance.*** The giant has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The giant makes two slam attacks.
-
-***Slam.*** *Melee Weapon Attack:* `+11` to hit, reach 15 ft., one target. *Hit:* 20 (`3d8 + 7`) bludgeoning damage plus 10 (`3d6`) necrotic damage.
-
-***Noxious Gust (Recharge 5-6).*** The giant exhales a mighty gust that creates a blast of deadly mist in a 60-foot line that is 10 feet wide. Each creature in that line must make a DC 18 Constitution saving throw. On a failed save, the creature takes 36 (`8d8`) necrotic damage and is knocked [prone](/Compendium/rules/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](/Compendium/rules/conditions.md#Prone).
+```statblock
+"name": "Doomwake Giant"
+"size": "Huge"
+"type": "giant"
+"alignment": "Lawful Evil"
+"ac": !!int "15"
+"ac_class": "natural armor"
+"hp": !!int "162"
+"hit_dice": "13d12 + 78"
+"modifier": !!int "1"
+"stats":
+  - !!int "24"
+  - !!int "12"
+  - !!int "22"
+  - !!int "12"
+  - !!int "14"
+  - !!int "16"
+"speed": "40 ft."
+"saves":
+  - "constitution": !!int "10"
+  - "wisdom": !!int "6"
+"skillsaves":
+  - "name": "[Intimidation](/Compendium/rules/skills.md#Intimidation)"
+    "desc": "+7"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+"damage_immunities": "necrotic, poison"
+"condition_immunities": "[frightened](/Compendium/rules/conditions.md#Frightened),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 16"
+"languages": "Giant"
+"cr": "11"
+"traits":
+  - "desc": "Any creature that starts its turn within 10 feet of the giant must succeed\
+      \ on a DC 18 Constitution saving throw, or it takes 10 (3d6) necrotic damage\
+      \ and can't regain hit points until the start of its next turn. On a successful\
+      \ saving throw, the creature is immune to the giant's Aura of Erebos for 24\
+      \ hours."
+    "name": "Aura of Erebos"
+  - "desc": "The giant has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The giant makes two slam attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 20\
+      \ (3d8 + 7) bludgeoning damage plus 10 (3d6) necrotic damage."
+    "name": "Slam"
+  - "desc": "The giant exhales a mighty gust that creates a blast of deadly mist in\
+      \ a 60-foot line that is 10 feet wide. Each creature in that line must make\
+      \ a DC 18 Constitution saving throw. On a failed save, the creature takes 36\
+      \ (8d8) necrotic damage and is knocked [prone](/Compendium/rules/conditions.md#Prone).\
+      \ On a successful save, a creature takes half as much damage and isn't knocked\
+      \ [prone](/Compendium/rules/conditions.md#Prone)."
+    "name": "Noxious Gust (Recharge 5-6)"
+"source":
+  - "MOT"
+"image": "/Compendium/bestiary/giant/token/doomwake-giant-mot.webp"
 ```
 ^statblock

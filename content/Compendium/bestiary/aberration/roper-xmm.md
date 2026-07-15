@@ -8,11 +8,13 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Roper"
 ---
 # Roper
-*Source: Monster Manual (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/aberration/img/roper.webp#right)
 
 ## Roper
@@ -45,41 +47,55 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 > Rule 9: Never trust a stalagmite.
 
 
-```ad-statblock
-title: Roper
-![](/Compendium/bestiary/aberration/token/roper-xmm.webp#token)
-*Large aberration, Neutral Evil*
-
-- **Armor Class** 20 
-- **Hit Points** 93 (`11d10 + 33`) 
-- **Speed** 10 ft., climb 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)| 8 (-1)|17 (+3)| 7 (-2)|16 (+3)| 6 (-2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +6, [Stealth](/Compendium/rules/skills.md#Stealth) +5
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 16
-- **Languages** —
-- **Challenge** 5
-
-## Traits
-
-***Spider Climb.*** The roper can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-
-## Actions
-
-***Multiattack.*** The roper makes two Tentacle attacks, uses Reel, and makes two Bite attacks.
-
-***Bite.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 17 (`3d8 + 4`) Piercing damage.
-
-***Tentacle.*** *Melee Attack Roll:* `+7`, reach 60 ft. *Hit:* The target has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 14) from one of six tentacles, and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the grapple ends.
-
-The tentacle can be damaged, freeing a creature it has [Grappled](/Compendium/rules/conditions.md#Grappled) when destroyed (AC 20, HP 10, [Immunity](/Compendium/rules/variant-rules/immunity-xphb.md) to Poison and Psychic damage). Damaging the tentacle deals no damage to the roper, and a destroyed tentacle regrows at the start of the roper's next turn.
-
-***Reel.*** The roper pulls each creature [Grappled](/Compendium/rules/conditions.md#Grappled) by it up to 30 feet straight toward it.
+```statblock
+"name": "Roper"
+"size": "Large"
+"type": "aberration"
+"alignment": "Neutral Evil"
+"ac": !!int "20"
+"hp": !!int "93"
+"hit_dice": "11d10 + 33"
+"modifier": !!int "5"
+"stats":
+  - !!int "18"
+  - !!int "8"
+  - !!int "17"
+  - !!int "7"
+  - !!int "16"
+  - !!int "6"
+"speed": "10 ft., climb 20 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+5"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 16"
+"languages": ""
+"cr": "5"
+"traits":
+  - "desc": "The roper can climb difficult surfaces, including along ceilings, without\
+      \ needing to make an ability check."
+    "name": "Spider Climb"
+"actions":
+  - "desc": "The roper makes two Tentacle attacks, uses Reel, and makes two Bite attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 17 (3d8 + 4) Piercing damage."
+    "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +7, reach 60 ft. *Hit:* The target has the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14) from one of six tentacles, and the target has the\
+      \ [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the grapple\
+      \ ends.\n\nThe tentacle can be damaged, freeing a creature it has [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ when destroyed (AC 20, HP 10, [Immunity](/Compendium/rules/variant-rules/immunity-xphb.md)\
+      \ to Poison and Psychic damage). Damaging the tentacle deals no damage to the\
+      \ roper, and a destroyed tentacle regrows at the start of the roper's next turn."
+    "name": "Tentacle"
+  - "desc": "The roper pulls each creature [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ by it up to 30 feet straight toward it."
+    "name": "Reel"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/aberration/token/roper-xmm.webp"
 ```
 ^statblock
 

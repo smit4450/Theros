@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/medium
 - monster/type/construct
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Modron Monodrone"
 ---
 # Modron Monodrone
-*Source: Monster Manual (2024) p. 216*  
+*Source: Monster Manual (2024) p. 216*
 ![](/Compendium/bestiary/construct/img/modron-monodrone.webp#right)
 
 The most numerous modrons, monodrones can perform one simple task at a time. They believe anything they're told that isn't logically or mathematically false. When faced with unexpected situations, they're quick to seek duodrones for help.
@@ -58,36 +60,40 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 
 ## Statblock
 
-```ad-statblock
-title: Modron Monodrone
-![](/Compendium/bestiary/construct/token/modron-monodrone-xmm.webp#token)
-*Medium construct, Lawful Neutral*
-
-- **Armor Class** 15 
-- **Hit Points** 5 (`1d8 + 1`) 
-- **Speed** 30 ft., fly 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|14 (+2)|12 (+1)| 4 (-3)|10 (+0)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Truesight](/Compendium/rules/senses.md#Truesight) 120 ft., passive Perception 10
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed)
-- **Languages** Modron
-- **Challenge** 1/8
-
-## Traits
-
-***Disintegration.*** If the modron dies, it disintegrates into dust, leaving behind anything it was wearing or carrying.
-
-## Actions
-
-***Gear.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Force damage.
-
-***Gear Flinger.*** *Ranged Attack Roll:* `+4`, range 120 ft. *Hit:* 6 (`1d8 + 2`) Force damage.
+```statblock
+"name": "Modron Monodrone"
+"size": "Medium"
+"type": "construct"
+"alignment": "Lawful Neutral"
+"ac": !!int "15"
+"hp": !!int "5"
+"hit_dice": "1d8 + 1"
+"modifier": !!int "2"
+"stats":
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "4"
+  - !!int "10"
+  - !!int "5"
+"speed": "30 ft., fly 30 ft."
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed)"
+"senses": "[Truesight](/Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+  \ 10"
+"languages": "Modron"
+"cr": "1/8"
+"traits":
+  - "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
+      \ it was wearing or carrying."
+    "name": "Disintegration"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Force damage."
+    "name": "Gear"
+  - "desc": "*Ranged Attack Roll:* +4, range 120 ft. *Hit:* 6 (1d8 + 2) Force damage."
+    "name": "Gear Flinger"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/construct/token/modron-monodrone-xmm.webp"
 ```
 ^statblock
 

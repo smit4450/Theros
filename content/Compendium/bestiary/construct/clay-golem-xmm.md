@@ -8,11 +8,13 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/construct
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Clay Golem"
 ---
 # Clay Golem
-*Source: Monster Manual (2024) p. 72. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 72. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/construct/img/clay-golem.webp#right)
 
 ## Clay Golem
@@ -36,48 +38,64 @@ These golems obey their creators' orders and protect what their makers value mos
 | 4 | Remove any who enter its creator's workshop. |
 ^clay-golem-orders
 
-```ad-statblock
-title: Clay Golem
-![](/Compendium/bestiary/construct/token/clay-golem-xmm.webp#token)
-*Large construct, Unaligned*
-
-- **Armor Class** 14 
-- **Hit Points** 123 (`13d10 + 52`) 
-- **Speed** 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|20 (+5)| 9 (-1)|18 (+4)| 3 (-4)| 8 (-1)| 1 (-5)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Damage Immunities** acid, poison, psychic
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Common plus one other language
-- **Challenge** 9
-
-## Traits
-
-***Acid Absorption.*** Whenever the golem is subjected to Acid damage, it takes no damage and instead regains a number of [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) equal to the Acid damage dealt.
-
-***Berserk.*** Whenever the golem starts its turn [Bloodied](/Compendium/rules/conditions.md#Bloodied), roll `1d6`. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it continues to be berserk until it is destroyed or it is no longer [Bloodied](/Compendium/rules/conditions.md#Bloodied).
-
-***Immutable Form.*** The golem can't shape-shift.
-
-***Magic Resistance.*** The golem has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The golem makes two Slam attacks, or it makes three Slam attacks if it used Hasten this turn.
-
-***Slam.*** *Melee Attack Roll:* `+9`, reach 5 ft. *Hit:* 10 (`1d10 + 5`) Bludgeoning damage plus 6 (`1d12`) Acid damage, and the target's [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum decreases by an amount equal to the Acid damage taken.
-
-## Bonus Actions
-
-***Hasten (Recharge 5-6).*** The golem takes the [Dash](/Compendium/rules/actions.md#Dash) and [Disengage](/Compendium/rules/actions.md#Disengage) actions.
+```statblock
+"name": "Clay Golem"
+"size": "Large"
+"type": "construct"
+"alignment": "Unaligned"
+"ac": !!int "14"
+"hp": !!int "123"
+"hit_dice": "13d10 + 52"
+"modifier": !!int "3"
+"stats":
+  - !!int "20"
+  - !!int "9"
+  - !!int "18"
+  - !!int "3"
+  - !!int "8"
+  - !!int "1"
+"speed": "20 ft."
+"damage_resistances": "bludgeoning, piercing, slashing"
+"damage_immunities": "acid, poison, psychic"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [frightened](/Compendium/rules/conditions.md#Frightened), [paralyzed](/Compendium/rules/conditions.md#Paralyzed),\
+  \ [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
+"languages": "Common plus one other language"
+"cr": "9"
+"traits":
+  - "desc": "Whenever the golem is subjected to Acid damage, it takes no damage and\
+      \ instead regains a number of [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ equal to the Acid damage dealt."
+    "name": "Acid Absorption"
+  - "desc": "Whenever the golem starts its turn [Bloodied](/Compendium/rules/conditions.md#Bloodied),\
+      \ roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk,\
+      \ the golem attacks the nearest creature it can see. If no creature is near\
+      \ enough to move to and attack, the golem attacks an object. Once the golem\
+      \ goes berserk, it continues to be berserk until it is destroyed or it is no\
+      \ longer [Bloodied](/Compendium/rules/conditions.md#Bloodied)."
+    "name": "Berserk"
+  - "desc": "The golem can't shape-shift."
+    "name": "Immutable Form"
+  - "desc": "The golem has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The golem makes two Slam attacks, or it makes three Slam attacks if it\
+      \ used Hasten this turn."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 10 (1d10 + 5) Bludgeoning\
+      \ damage plus 6 (1d12) Acid damage, and the target's [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by an amount equal to the Acid damage taken."
+    "name": "Slam"
+"bonus_actions":
+  - "desc": "The golem takes the [Dash](/Compendium/rules/actions.md#Dash) and [Disengage](/Compendium/rules/actions.md#Disengage)\
+      \ actions."
+    "name": "Hasten (Recharge 5-6)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/construct/token/clay-golem-xmm.webp"
 ```
 ^statblock
 

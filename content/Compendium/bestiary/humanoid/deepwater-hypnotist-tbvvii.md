@@ -7,42 +7,59 @@ tags:
 - monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/triton
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Deepwater Hypnotist"
 ---
 # Deepwater Hypnotist
-*Source: Theros Bestiary, Vol. VII*  
+*Source: Theros Bestiary, Vol. VII*
 ![](/Compendium/bestiary/humanoid/img/deepwater-hypnotist.webp#right)
 
 “Watch the waves too long, and you may never look away.” —Meletian proverb
 
-```ad-statblock
-title: Deepwater Hypnotist
-*Medium humanoid (triton), Neutral*
-
-- **Armor Class** 12 
-- **Hit Points** 45 (`9d8 + 9`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|14 (+2)|12 (+1)|15 (+2)|12 (+1)|12 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Intelligence +5, Wisdom +4
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +5, [History](/Compendium/rules/skills.md#History) +5
-- **Senses** [darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Languages** Common, Primordial, Any two other languages
-- **Challenge** 1/2
-
-## Traits
-
-***Amphibious.*** The triton can breathe air and water.
-
-***Innate Spellcasting.*** The deepwater hypnotist's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components: At will: Hypnotic Pattern
-
-## Actions
-
-***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+```statblock
+"name": "Deepwater Hypnotist"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "triton"
+"alignment": "Neutral"
+"ac": !!int "12"
+"hp": !!int "45"
+"hit_dice": "9d8 + 9"
+"modifier": !!int "2"
+"stats":
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "15"
+  - !!int "12"
+  - !!int "12"
+"speed": "30 ft."
+"saves":
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "4"
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[History](/Compendium/rules/skills.md#History)"
+    "desc": "+5"
+"senses": "[darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Common, Primordial, Any two other languages"
+"cr": "1/2"
+"traits":
+  - "desc": "The triton can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "The deepwater hypnotist's innate spellcasting ability is Intelligence\
+      \ (spell save DC 13, +5 to hit with spell attacks). It can innately cast the\
+      \ following spells, requiring no material components: At will: Hypnotic Pattern"
+    "name": "Innate Spellcasting"
+"actions":
+  - "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+    "name": "Dagger"
+"source":
+  - "TBVVII"
 ```
 ^statblock

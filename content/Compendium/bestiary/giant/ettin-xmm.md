@@ -10,11 +10,13 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Ettin"
 ---
 # Ettin
-*Source: Monster Manual (2024) p. 116. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 116. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/giant/img/ettin.webp#right)
 
 ## Ettin
@@ -51,35 +53,50 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 > Twice the malice, aggressiveness, and appetite—the ettin demonstrates that two heads aren't necessarily better than one.
 
 
-```ad-statblock
-title: Ettin
-![](/Compendium/bestiary/giant/token/ettin-xmm.webp#token)
-*Large giant, Chaotic Evil*
-
-- **Armor Class** 12 
-- **Hit Points** 85 (`10d10 + 30`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|21 (+5)| 8 (-1)|17 (+3)| 6 (-2)|10 (+0)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +4
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Condition Immunities** [blinded](/Compendium/rules/conditions.md#Blinded), [charmed](/Compendium/rules/conditions.md#Charmed), [deafened](/Compendium/rules/conditions.md#Deafened), [frightened](/Compendium/rules/conditions.md#Frightened), [stunned](/Compendium/rules/conditions.md#Stunned), [unconscious](/Compendium/rules/conditions.md#Unconscious)
-- **Gear** [battleaxe](/Compendium/items/battleaxe-xphb.md), [morningstar](/Compendium/items/morningstar-xphb.md)
-- **Languages** Giant
-- **Challenge** 4
-
-## Actions
-
-***Multiattack.*** The ettin makes one Battleaxe attack and one Morningstar attack.
-
-***Battleaxe.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 14 (`2d8 + 5`) Slashing damage. If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
-
-***Morningstar.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 14 (`2d8 + 5`) Piercing damage, and the target has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on the next attack roll it makes before the end of its next turn.
+```statblock
+"name": "Ettin"
+"size": "Large"
+"type": "giant"
+"alignment": "Chaotic Evil"
+"ac": !!int "12"
+"hp": !!int "85"
+"hit_dice": "10d10 + 30"
+"modifier": !!int "-1"
+"stats":
+  - !!int "21"
+  - !!int "8"
+  - !!int "17"
+  - !!int "6"
+  - !!int "10"
+  - !!int "8"
+"speed": "40 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+"condition_immunities": "[blinded](/Compendium/rules/conditions.md#Blinded), [charmed](/Compendium/rules/conditions.md#Charmed),\
+  \ [deafened](/Compendium/rules/conditions.md#Deafened), [frightened](/Compendium/rules/conditions.md#Frightened),\
+  \ [stunned](/Compendium/rules/conditions.md#Stunned), [unconscious](/Compendium/rules/conditions.md#Unconscious)"
+"gear":
+  - "[battleaxe](/Compendium/items/battleaxe-xphb.md)"
+  - "[morningstar](/Compendium/items/morningstar-xphb.md)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
+"languages": "Giant"
+"cr": "4"
+"actions":
+  - "desc": "The ettin makes one Battleaxe attack and one Morningstar attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Slashing damage.\
+      \ If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Battleaxe"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing damage,\
+      \ and the target has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on the next attack roll it makes before the end of its next turn."
+    "name": "Morningstar"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/giant/token/ettin-xmm.webp"
 ```
 ^statblock
 

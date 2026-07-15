@@ -8,11 +8,13 @@ tags:
 - monster/environment/arctic
 - monster/size/large
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Polar Bear"
 ---
 # Polar Bear
-*Source: Monster Manual (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/polar-bear.webp#right)
 
 ## Animals
@@ -24,32 +26,41 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Polar Bear
-![](/Compendium/bestiary/beast/token/polar-bear-xmm.webp#token)
-*Large beast, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** 42 (`5d10 + 15`) 
-- **Speed** 40 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|20 (+5)|14 (+2)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5, [Stealth](/Compendium/rules/skills.md#Stealth) +4
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 15
-- **Damage Resistances** cold
-- **Languages** —
-- **Challenge** 2
-
-## Actions
-
-***Multiattack.*** The bear makes two Rend attacks.
-
-***Rend.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 9 (`1d8 + 5`) Slashing damage.
+```statblock
+"name": "Polar Bear"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "42"
+"hit_dice": "5d10 + 15"
+"modifier": !!int "2"
+"stats":
+  - !!int "20"
+  - !!int "14"
+  - !!int "16"
+  - !!int "2"
+  - !!int "13"
+  - !!int "7"
+"speed": "40 ft., swim 40 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
+"damage_resistances": "cold"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 15"
+"languages": ""
+"cr": "2"
+"actions":
+  - "desc": "The bear makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 9 (1d8 + 5) Slashing damage."
+    "name": "Rend"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/beast/token/polar-bear-xmm.webp"
 ```
 ^statblock
 

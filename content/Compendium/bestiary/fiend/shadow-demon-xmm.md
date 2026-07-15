@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Shadow Demon"
 ---
 # Shadow Demon
-*Source: Monster Manual (2024) p. 273*  
+*Source: Monster Manual (2024) p. 273*
 ![](/Compendium/bestiary/fiend/img/shadow-demon.webp#right)
 
 ## Shadow Demon
@@ -36,45 +38,66 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 > There are three rules to endings. First, good always wins. Second, evil always returns. Third, the first rule isn't always true.
 
 
-```ad-statblock
-title: Shadow Demon
-![](/Compendium/bestiary/fiend/token/shadow-demon-xmm.webp#token)
-*Medium fiend (demon), Chaotic Evil*
-
-- **Armor Class** 14 
-- **Hit Points** 66 (`12d8 + 12`) 
-- **Speed** 30 ft., fly 30 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 (-5)|17 (+3)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +5, Charisma +4
-- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +7
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 11
-- **Damage Vulnerabilities** radiant
-- **Damage Resistances** acid, bludgeoning, cold, fire, lightning, piercing, slashing, thunder
-- **Damage Immunities** necrotic, poison
-- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained)
-- **Languages** Abyssal; telepathy 120 ft.
-- **Challenge** 4
-
-## Traits
-
-***Demonic Restoration.*** If the demon dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) somewhere in the Abyss.
-
-***Incorporeal Movement.*** The demon can move through other creatures and objects as if they were [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md). It takes 5 (`1d10`) Force damage if it ends its turn inside an object.
-
-***Light Sensitivity.*** While in [Bright Light](/Compendium/rules/variant-rules/bright-light-xphb.md), the demon has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
-
-## Actions
-
-***Umbral Claw.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 16 (`3d8 + 3`) Psychic damage.
-
-## Bonus Actions
-
-***Shadow Stealth.*** While in [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md) or [Darkness](/Compendium/rules/variant-rules/darkness-xphb.md), the demon takes the [Hide](/Compendium/rules/actions.md#Hide) action.
+```statblock
+"name": "Shadow Demon"
+"size": "Medium"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "14"
+"hp": !!int "66"
+"hit_dice": "12d8 + 12"
+"modifier": !!int "3"
+"stats":
+  - !!int "1"
+  - !!int "17"
+  - !!int "12"
+  - !!int "14"
+  - !!int "13"
+  - !!int "14"
+"speed": "30 ft., fly 30 ft. (hover)"
+"saves":
+  - "dexterity": !!int "5"
+  - "charisma": !!int "4"
+"skillsaves":
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+7"
+"damage_vulnerabilities": "radiant"
+"damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
+  \ thunder"
+"damage_immunities": "necrotic, poison"
+"condition_immunities": "[exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed),\
+  \ [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned),\
+  \ [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 11"
+"languages": "Abyssal; telepathy 120 ft."
+"cr": "4"
+"traits":
+  - "desc": "If the demon dies outside the Abyss, its body dissolves into ichor, and\
+      \ it gains a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Abyss."
+    "name": "Demonic Restoration"
+  - "desc": "The demon can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+  - "desc": "While in [Bright Light](/Compendium/rules/variant-rules/bright-light-xphb.md),\
+      \ the demon has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Light Sensitivity"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 16 (3d8 + 3) Psychic damage."
+    "name": "Umbral Claw"
+"bonus_actions":
+  - "desc": "While in [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](/Compendium/rules/variant-rules/darkness-xphb.md), the demon\
+      \ takes the [Hide](/Compendium/rules/actions.md#Hide) action."
+    "name": "Shadow Stealth"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fiend/token/shadow-demon-xmm.webp"
 ```
 ^statblock
 

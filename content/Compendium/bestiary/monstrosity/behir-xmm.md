@@ -8,11 +8,13 @@ tags:
 - monster/environment/underdark
 - monster/size/huge
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Behir"
 ---
 # Behir
-*Source: Monster Manual (2024) p. 34. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 34. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/monstrosity/img/behir.webp#right)
 
 ## Behir
@@ -33,42 +35,67 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
 > You wouldn't believe all the great stuff I've swallowed! Now just climb on in here, and you can keep whatever you find.
 
 
-```ad-statblock
-title: Behir
-![](/Compendium/bestiary/monstrosity/token/behir-xmm.webp#token)
-*Huge monstrosity, Neutral Evil*
-
-- **Armor Class** 17 
-- **Hit Points** 168 (`16d12 + 64`) 
-- **Speed** 50 ft., climb 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|23 (+6)|16 (+3)|18 (+4)| 7 (-2)|14 (+2)|12 (+1)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +6, [Stealth](/Compendium/rules/skills.md#Stealth) +7
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 90 ft., passive Perception 16
-- **Damage Immunities** lightning
-- **Languages** Draconic
-- **Challenge** 11
-
-## Actions
-
-***Multiattack.*** The behir makes one Bite attack and uses Constrict.
-
-***Bite.*** *Melee Attack Roll:* `+10`, reach 10 ft. *Hit:* 19 (`2d12 + 6`) Piercing damage plus 11 (`2d10`) Lightning damage.
-
-***Constrict.*** *Strength Saving Throw:* DC 18, one Large or smaller creature the behir can see within 5 feet. *Failure:* 28 (`5d8 + 6`) Bludgeoning damage. The target has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 16), and it has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition until the grapple ends.
-
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 16, each creature in a 90-foot-long, 5-foot-wide [Line](/Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* 66 (`12d10`) Lightning damage. *Success:* Half damage.
-
-## Bonus Actions
-
-***Swallow.*** *Dexterity Saving Throw:* DC 18, one Large or smaller creature [Grappled](/Compendium/rules/conditions.md#Grappled) by the behir (the behir can have only one creature swallowed at a time). *Failure:* The behir swallows the target, which is no longer [Grappled](/Compendium/rules/conditions.md#Grappled). While swallowed, a creature has the [Blinded](/Compendium/rules/conditions.md#Blinded) and [Restrained](/Compendium/rules/conditions.md#Restrained) conditions, has [Total Cover](/Compendium/rules/variant-rules/cover-xphb.md) against attacks and other effects outside the behir, and takes 21 (`6d6`) Acid damage at the start of each of the behir's turns.
-
-If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls in a space within 10 feet of the behir and has the [Prone](/Compendium/rules/conditions.md#Prone) condition. If the behir dies, a swallowed creature is no longer [Restrained](/Compendium/rules/conditions.md#Restrained) and can escape from the corpse by using 15 feet of movement, exiting [Prone](/Compendium/rules/conditions.md#Prone).
+```statblock
+"name": "Behir"
+"size": "Huge"
+"type": "monstrosity"
+"alignment": "Neutral Evil"
+"ac": !!int "17"
+"hp": !!int "168"
+"hit_dice": "16d12 + 64"
+"modifier": !!int "3"
+"stats":
+  - !!int "23"
+  - !!int "16"
+  - !!int "18"
+  - !!int "7"
+  - !!int "14"
+  - !!int "12"
+"speed": "50 ft., climb 50 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+7"
+"damage_immunities": "lightning"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 90 ft., passive Perception\
+  \ 16"
+"languages": "Draconic"
+"cr": "11"
+"actions":
+  - "desc": "The behir makes one Bite attack and uses Constrict."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +10, reach 10 ft. *Hit:* 19 (2d12 + 6) Piercing\
+      \ damage plus 11 (2d10) Lightning damage."
+    "name": "Bite"
+  - "desc": "*Strength Saving Throw:* DC 18, one Large or smaller creature the behir\
+      \ can see within 5 feet. *Failure:* 28 (5d8 + 6) Bludgeoning damage. The target\
+      \ has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape\
+      \ DC 16), and it has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition until the grapple ends."
+    "name": "Constrict"
+  - "desc": "*Dexterity Saving Throw:* DC 16, each creature in a 90-foot-long, 5-foot-wide\
+      \ [Line](/Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ 66 (12d10) Lightning damage. *Success:* Half damage."
+    "name": "Lightning Breath (Recharge 5-6)"
+"bonus_actions":
+  - "desc": "*Dexterity Saving Throw:* DC 18, one Large or smaller creature [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ by the behir (the behir can have only one creature swallowed at a time). *Failure:*\
+      \ The behir swallows the target, which is no longer [Grappled](/Compendium/rules/conditions.md#Grappled).\
+      \ While swallowed, a creature has the [Blinded](/Compendium/rules/conditions.md#Blinded)\
+      \ and [Restrained](/Compendium/rules/conditions.md#Restrained) conditions, has\
+      \ [Total Cover](/Compendium/rules/variant-rules/cover-xphb.md) against attacks\
+      \ and other effects outside the behir, and takes 21 (6d6) Acid damage at the\
+      \ start of each of the behir's turns.\n\nIf the behir takes 30 damage or more\
+      \ on a single turn from the swallowed creature, the behir must succeed on a\
+      \ DC 14 Constitution saving throw at the end of that turn or regurgitate the\
+      \ creature, which falls in a space within 10 feet of the behir and has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition. If the behir dies, a swallowed creature is no longer [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ and can escape from the corpse by using 15 feet of movement, exiting [Prone](/Compendium/rules/conditions.md#Prone)."
+    "name": "Swallow"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/behir-xmm.webp"
 ```
 ^statblock
 

@@ -15,11 +15,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/fey/goblinoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Hobgoblin Warrior"
 ---
 # Hobgoblin Warrior
-*Source: Monster Manual (2024) p. 170. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 170. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/fey/img/hobgoblin-warrior.webp#right)
 
 Hobgoblin warriors might hunt and raid alone or with trained mastiffs, worgs, goblin gangs, or other allies. They employ simple tactics and exploit every advantage their allies provide. They willingly sacrifice companions in their pursuit of victory.
@@ -57,36 +59,48 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 
 ## Statblock
 
-```ad-statblock
-title: Hobgoblin Warrior
-![](/Compendium/bestiary/fey/token/hobgoblin-warrior-xmm.webp#token)
-*Medium fey (goblinoid), Lawful Evil*
-
-- **Armor Class** 18 
-- **Hit Points** 11 (`2d8 + 2`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)| 9 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [half plate armor](/Compendium/items/half-plate-armor-xphb.md), [longbow](/Compendium/items/longbow-xphb.md), [longsword](/Compendium/items/longsword-xphb.md), [shield](/Compendium/items/shield-xphb.md)
-- **Languages** Common, Goblin
-- **Challenge** 1/2
-
-## Traits
-
-***Pack Tactics.*** The hobgoblin has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the hobgoblin's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
-
-## Actions
-
-***Longsword.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 12 (`2d10 + 1`) Slashing damage.
-
-***Longbow.*** *Ranged Attack Roll:* `+3`, range 150/600 ft. *Hit:* 5 (`1d8 + 1`) Piercing damage plus 7 (`3d4`) Poison damage.
+```statblock
+"name": "Hobgoblin Warrior"
+"size": "Medium"
+"type": "fey"
+"subtype": "goblinoid"
+"alignment": "Lawful Evil"
+"ac": !!int "18"
+"hp": !!int "11"
+"hit_dice": "2d8 + 2"
+"modifier": !!int "3"
+"stats":
+  - !!int "13"
+  - !!int "12"
+  - !!int "12"
+  - !!int "10"
+  - !!int "10"
+  - !!int "9"
+"speed": "30 ft."
+"gear":
+  - "[half plate armor](/Compendium/items/half-plate-armor-xphb.md)"
+  - "[longbow](/Compendium/items/longbow-xphb.md)"
+  - "[longsword](/Compendium/items/longsword-xphb.md)"
+  - "[shield](/Compendium/items/shield-xphb.md)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Common, Goblin"
+"cr": "1/2"
+"traits":
+  - "desc": "The hobgoblin has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the hobgoblin's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
+"actions":
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 12 (2d10 + 1) Slashing damage."
+    "name": "Longsword"
+  - "desc": "*Ranged Attack Roll:* +3, range 150/600 ft. *Hit:* 5 (1d8 + 1) Piercing\
+      \ damage plus 7 (3d4) Poison damage."
+    "name": "Longbow"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fey/token/hobgoblin-warrior-xmm.webp"
 ```
 ^statblock
 

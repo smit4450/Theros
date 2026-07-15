@@ -9,11 +9,13 @@ tags:
 - monster/environment/grassland
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Thri-kreen Marauder"
 ---
 # Thri-kreen Marauder
-*Source: Monster Manual (2024) p. 306*  
+*Source: Monster Manual (2024) p. 306*
 ![](/Compendium/bestiary/monstrosity/img/thri-kreen.webp#right)
 
 Thri-kreen marauders employ weapons made of stone and bone, such as the spear-like gythka and throwing blades called chatkcha.
@@ -34,37 +36,49 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 
 ## Statblock
 
-```ad-statblock
-title: Thri-kreen Marauder
-![](/Compendium/bestiary/monstrosity/token/thri-kreen-marauder-xmm.webp#token)
-*Medium monstrosity, Neutral*
-
-- **Armor Class** 15 
-- **Hit Points** 33 (`6d8 + 6`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|15 (+2)|13 (+1)| 8 (-1)|12 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3, [Stealth](/Compendium/rules/skills.md#Stealth) +4, [Survival](/Compendium/rules/skills.md#Survival) +3
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 13
-- **Languages** Thri-kreen; telepathy 60 ft.
-- **Challenge** 1
-
-## Actions
-
-***Multiattack.*** The thri-kreen makes two attacks, using Gythka or Chatkcha in any combination.
-
-***Gythka.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 5 (`1d8 + 1`) Slashing damage plus 2 (`1d4`) Poison damage.
-
-***Chatkcha.*** *Ranged Attack Roll:* `+4`, range 30/120 ft. *Hit:* 5 (`1d6 + 2`) Slashing damage.
-
-## Bonus Actions
-
-***Leap.*** The thri-kreen jumps up to 15 feet by spending 5 feet of movement.
+```statblock
+"name": "Thri-kreen Marauder"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Neutral"
+"ac": !!int "15"
+"hp": !!int "33"
+"hit_dice": "6d8 + 6"
+"modifier": !!int "2"
+"stats":
+  - !!int "12"
+  - !!int "15"
+  - !!int "13"
+  - !!int "8"
+  - !!int "12"
+  - !!int "7"
+"speed": "40 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
+  - "name": "[Survival](/Compendium/rules/skills.md#Survival)"
+    "desc": "+3"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 13"
+"languages": "Thri-kreen; telepathy 60 ft."
+"cr": "1"
+"actions":
+  - "desc": "The thri-kreen makes two attacks, using Gythka or Chatkcha in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d8 + 1) Slashing damage\
+      \ plus 2 (1d4) Poison damage."
+    "name": "Gythka"
+  - "desc": "*Ranged Attack Roll:* +4, range 30/120 ft. *Hit:* 5 (1d6 + 2) Slashing\
+      \ damage."
+    "name": "Chatkcha"
+"bonus_actions":
+  - "desc": "The thri-kreen jumps up to 15 feet by spending 5 feet of movement."
+    "name": "Leap"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/thri-kreen-marauder-xmm.webp"
 ```
 ^statblock
 

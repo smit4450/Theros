@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Larva"
 ---
 # Larva
-*Source: Monster Manual (2024) p. 193*  
+*Source: Monster Manual (2024) p. 193*
 ![](/Compendium/bestiary/fiend/img/larvae.webp#right)
 
 Larvae have disjointed, painful memories of their past lives. Most desperately avoid other creatures.
@@ -31,29 +33,33 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 
 ## Statblock
 
-```ad-statblock
-title: Larva
-![](/Compendium/bestiary/fiend/token/larva-xmm.webp#token)
-*Medium fiend, Neutral Evil*
-
-- **Armor Class** 9 
-- **Hit Points** 9 (`2d8`) 
-- **Speed** 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 9 (-1)| 9 (-1)|10 (+0)| 6 (-2)|10 (+0)| 2 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Languages** understands Common plus one other language but can't speak
-- **Challenge** 0
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+1`, reach 5 ft. *Hit:* 1 (`1d4 - 1`) Necrotic damage.
+```statblock
+"name": "Larva"
+"size": "Medium"
+"type": "fiend"
+"alignment": "Neutral Evil"
+"ac": !!int "9"
+"hp": !!int "9"
+"hit_dice": "2d8"
+"modifier": !!int "-1"
+"stats":
+  - !!int "9"
+  - !!int "9"
+  - !!int "10"
+  - !!int "6"
+  - !!int "10"
+  - !!int "2"
+"speed": "20 ft."
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "understands Common plus one other language but can't speak"
+"cr": "0"
+"actions":
+  - "desc": "*Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 (1d4 - 1) Necrotic damage."
+    "name": "Bite"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fiend/token/larva-xmm.webp"
 ```
 ^statblock
 

@@ -9,11 +9,13 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Carrion Crawler"
 ---
 # Carrion Crawler
-*Source: Monster Manual (2024) p. 66. Available in the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 66. Available in the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/carrion-crawler.webp#right)
 
 ## Carrion Crawler
@@ -31,37 +33,50 @@ Carrion crawlers scour sewers, battlefields, necropolises, and fetid wildernesse
 
 These scavengers avoid ingesting inorganic material. Crypts with funeral armors sucked clean of their corpses and eerily pristine catacombs are signs of infestation by carrion crawlers.
 
-```ad-statblock
-title: Carrion Crawler
-![](/Compendium/bestiary/monstrosity/token/carrion-crawler-xmm.webp#token)
-*Large monstrosity, Unaligned*
-
-- **Armor Class** 13 
-- **Hit Points** 51 (`6d10 + 18`) 
-- **Speed** 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|13 (+1)|16 (+3)| 1 (-5)|12 (+1)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 15
-- **Languages** —
-- **Challenge** 2
-
-## Traits
-
-***Spider Climb.*** The carrion crawler can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-
-## Actions
-
-***Multiattack.*** The carrion crawler uses Paralyzing Tentacles and makes one Bite attack.
-
-***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 7 (`2d4 + 2`) Piercing damage plus 3 (`1d6`) Poison damage.
-
-***Paralyzing Tentacles.*** *Constitution Saving Throw:* DC 12, one creature the carrion crawler can see within 10 feet. *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. While [Poisoned](/Compendium/rules/conditions.md#Poisoned), the target has the [Paralyzed](/Compendium/rules/conditions.md#Paralyzed) condition.
+```statblock
+"name": "Carrion Crawler"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "51"
+"hit_dice": "6d10 + 18"
+"modifier": !!int "1"
+"stats":
+  - !!int "14"
+  - !!int "13"
+  - !!int "16"
+  - !!int "1"
+  - !!int "12"
+  - !!int "5"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 15"
+"languages": ""
+"cr": "2"
+"traits":
+  - "desc": "The carrion crawler can climb difficult surfaces, including along ceilings,\
+      \ without needing to make an ability check."
+    "name": "Spider Climb"
+"actions":
+  - "desc": "The carrion crawler uses Paralyzing Tentacles and makes one Bite attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Piercing damage\
+      \ plus 3 (1d6) Poison damage."
+    "name": "Bite"
+  - "desc": "*Constitution Saving Throw:* DC 12, one creature the carrion crawler\
+      \ can see within 10 feet. *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned)\
+      \ condition and repeats the save at the end of each of its turns, ending the\
+      \ effect on itself on a success. After 1 minute, it succeeds automatically.\
+      \ While [Poisoned](/Compendium/rules/conditions.md#Poisoned), the target has\
+      \ the [Paralyzed](/Compendium/rules/conditions.md#Paralyzed) condition."
+    "name": "Paralyzing Tentacles"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/carrion-crawler-xmm.webp"
 ```
 ^statblock
 

@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid/wizard
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Mage Apprentice"
 ---
 # Mage Apprentice
-*Source: Monster Manual (2024) p. 198*  
+*Source: Monster Manual (2024) p. 198*
 ![](/Compendium/bestiary/humanoid/img/mage-apprentice.webp#right)
 
 Mage apprentices are spellcasters of humble skill. Some are students of accomplished mages, while others have innate powers.
@@ -53,36 +55,51 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 
 ## Statblock
 
-```ad-statblock
-title: Mage Apprentice
-![](/Compendium/bestiary/humanoid/token/mage-apprentice-xmm.webp#token)
-*Small or Medium humanoid (wizard), Neutral*
-
-- **Armor Class** 15 
-- **Hit Points** 49 (`9d8 + 9`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1)|14 (+2)|12 (+1)|16 (+3)|13 (+1)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Intelligence +5, Wisdom +3
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +5, [Perception](/Compendium/rules/skills.md#Perception) +3
-- **Senses** passive Perception 13
-- **Gear** [component pouch](/Compendium/items/component-pouch-xphb.md)
-- **Languages** Common plus one other language
-- **Challenge** 2
-
-## Actions
-
-***Arcane Burst.*** *Melee  or Ranged Attack Roll:* `+5`, reach 5 ft. or range 120 ft. *Hit:* 14 (`2d10 + 3`) Force damage.
-
-***Spellcasting.*** The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 13, `+5` to hit with spell attacks):
-
-**At will:** [Mage Hand](/Compendium/spells/mage-hand-xphb.md), [Prestidigitation](/Compendium/spells/prestidigitation-xphb.md)
-
-**1/day each:** [Disguise Self](/Compendium/spells/disguise-self-xphb.md), [Ice Knife](/Compendium/spells/ice-knife-xphb.md), [Mage Armor](/Compendium/spells/mage-armor-xphb.md) (included in AC), [Thunderwave](/Compendium/spells/thunderwave-xphb.md)
+```statblock
+"name": "Mage Apprentice"
+"size": "Small or Medium"
+"type": "humanoid"
+"subtype": "wizard"
+"alignment": "Neutral"
+"ac": !!int "15"
+"hp": !!int "49"
+"hit_dice": "9d8 + 9"
+"modifier": !!int "2"
+"stats":
+  - !!int "8"
+  - !!int "14"
+  - !!int "12"
+  - !!int "16"
+  - !!int "13"
+  - !!int "10"
+"speed": "30 ft."
+"saves":
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "3"
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+"gear":
+  - "[component pouch](/Compendium/items/component-pouch-xphb.md)"
+"senses": "passive Perception 13"
+"languages": "Common plus one other language"
+"cr": "2"
+"actions":
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 120 ft. *Hit:*\
+      \ 14 (2d10 + 3) Force damage."
+    "name": "Arcane Burst"
+  - "desc": "The mage casts one of the following spells, using Intelligence as the\
+      \ spellcasting ability (spell save DC 13, +5 to hit with spell attacks):\n\n\
+      **At will:** [Mage Hand](/Compendium/spells/mage-hand-xphb.md), [Prestidigitation](/Compendium/spells/prestidigitation-xphb.md)\n\
+      \n**1/day each:** [Disguise Self](/Compendium/spells/disguise-self-xphb.md),\
+      \ [Ice Knife](/Compendium/spells/ice-knife-xphb.md), [Mage Armor](/Compendium/spells/mage-armor-xphb.md)\
+      \ (included in AC), [Thunderwave](/Compendium/spells/thunderwave-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/mage-apprentice-xmm.webp"
 ```
 ^statblock
 

@@ -8,11 +8,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Quaggoth Thonot"
 ---
 # Quaggoth Thonot
-*Source: Monster Manual (2024) p. 251*  
+*Source: Monster Manual (2024) p. 251*
 ![](/Compendium/bestiary/monstrosity/img/quaggoth-thonot.webp#right)
 
 Quaggoth thonots possess psionic abilities, which they use to give themselves an edge in combat and to coerce the service of other quaggoths.
@@ -32,48 +34,58 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 
 ## Statblock
 
-```ad-statblock
-title: Quaggoth Thonot
-![](/Compendium/bestiary/monstrosity/token/quaggoth-thonot-xmm.webp#token)
-*Medium monstrosity, Chaotic Neutral*
-
-- **Armor Class** 15 
-- **Hit Points** 67 (`9d8 + 27`) 
-- **Speed** 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|12 (+1)|16 (+3)| 6 (-2)|14 (+2)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Athletics](/Compendium/rules/skills.md#Athletics) +5
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 12
-- **Damage Immunities** poison
-- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Undercommon
-- **Challenge** 3
-
-## Traits
-
-***Bloodied Fury.*** While [Bloodied](/Compendium/rules/conditions.md#Bloodied), the quaggoth has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls.
-
-## Actions
-
-***Multiattack.*** The quaggoth makes two Claw attacks.
-
-***Claw.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Slashing damage plus 5 (`2d4`) Psychic damage.
-
-***Spellcasting.*** The quaggoth casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 12):
-
-**At will:** [Mage Hand](/Compendium/spells/mage-hand-xphb.md) (the hand is Invisible), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md)
-
-**2/day:** [Mind Spike](/Compendium/spells/mind-spike-xphb.md)
-
-## Reactions
-
-***Psionic Defense (3/Day).*** The quaggoth casts [Feather Fall](/Compendium/spells/feather-fall-xphb.md) or [Shield](/Compendium/spells/shield-xphb.md) in response to the spell's trigger, requiring no spell components and using the same spellcasting ability as Spellcasting.
-
+```statblock
+"name": "Quaggoth Thonot"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Chaotic Neutral"
+"ac": !!int "15"
+"hp": !!int "67"
+"hit_dice": "9d8 + 27"
+"modifier": !!int "1"
+"stats":
+  - !!int "17"
+  - !!int "12"
+  - !!int "16"
+  - !!int "6"
+  - !!int "14"
+  - !!int "7"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Athletics](/Compendium/rules/skills.md#Athletics)"
+    "desc": "+5"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 12"
+"languages": "Undercommon"
+"cr": "3"
+"traits":
+  - "desc": "While [Bloodied](/Compendium/rules/conditions.md#Bloodied), the quaggoth\
+      \ has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on attack\
+      \ rolls."
+    "name": "Bloodied Fury"
+"actions":
+  - "desc": "The quaggoth makes two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage\
+      \ plus 5 (2d4) Psychic damage."
+    "name": "Claw"
+  - "desc": "The quaggoth casts one of the following spells, requiring no spell components\
+      \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\n**At will:**\
+      \ [Mage Hand](/Compendium/spells/mage-hand-xphb.md) (the hand is Invisible),\
+      \ [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md)\n\n**2/day:**\
+      \ [Mind Spike](/Compendium/spells/mind-spike-xphb.md)"
+    "name": "Spellcasting"
+"reactions":
+  - "desc": "The quaggoth casts [Feather Fall](/Compendium/spells/feather-fall-xphb.md)\
+      \ or [Shield](/Compendium/spells/shield-xphb.md) in response to the spell's\
+      \ trigger, requiring no spell components and using the same spellcasting ability\
+      \ as Spellcasting.\n"
+    "name": "Psionic Defense (3/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/quaggoth-thonot-xmm.webp"
 ```
 ^statblock
 

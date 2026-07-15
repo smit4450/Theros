@@ -13,11 +13,13 @@ tags:
 - monster/environment/swamp
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Venomous Snake"
 ---
 # Venomous Snake
-*Source: Monster Manual (2024) p. 372, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 372, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/swarm-of-venomous-snakes.webp#right)
 
 ## Animals
@@ -29,29 +31,35 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Venomous Snake
-![](/Compendium/bestiary/beast/token/venomous-snake-xmm.webp#token)
-*Tiny beast, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** 5 (`2d4`) 
-- **Speed** 30 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 2 (-4)|15 (+2)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 10 ft., passive Perception 10
-- **Languages** —
-- **Challenge** 1/8
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 4 (`1d4 + 2`) Piercing damage plus 3 (`1d6`) Poison damage.
+```statblock
+"name": "Venomous Snake"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "5"
+"hit_dice": "2d4"
+"modifier": !!int "2"
+"stats":
+  - !!int "2"
+  - !!int "15"
+  - !!int "11"
+  - !!int "1"
+  - !!int "10"
+  - !!int "3"
+"speed": "30 ft., swim 30 ft."
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 10 ft., passive Perception\
+  \ 10"
+"languages": ""
+"cr": "1/8"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing damage\
+      \ plus 3 (1d6) Poison damage."
+    "name": "Bite"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/beast/token/venomous-snake-xmm.webp"
 ```
 ^statblock
 

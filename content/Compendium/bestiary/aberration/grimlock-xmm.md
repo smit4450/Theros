@@ -8,11 +8,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Grimlock"
 ---
 # Grimlock
-*Source: Monster Manual (2024) p. 160. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 160. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/grimlock.webp#right)
 
 ## Grimlock
@@ -43,29 +45,41 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 > We thought we'd discovered a new people living deeper than we believed possible. The truth was something far worse.
 
 
-```ad-statblock
-title: Grimlock
-![](/Compendium/bestiary/aberration/token/grimlock-xmm.webp#token)
-*Medium aberration, Neutral Evil*
-
-- **Armor Class** 11 
-- **Hit Points** 11 (`2d8 + 2`) 
-- **Speed** 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|12 (+1)|12 (+1)| 9 (-1)| 8 (-1)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Athletics](/Compendium/rules/skills.md#Athletics) +5, [Perception](/Compendium/rules/skills.md#Perception) +3, [Stealth](/Compendium/rules/skills.md#Stealth) +5
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception 13
-- **Languages** —
-- **Challenge** 1/4
-
-## Actions
-
-***Bone Cudgel.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Bludgeoning damage plus 2 (`1d4`) Psychic damage.
+```statblock
+"name": "Grimlock"
+"size": "Medium"
+"type": "aberration"
+"alignment": "Neutral Evil"
+"ac": !!int "11"
+"hp": !!int "11"
+"hit_dice": "2d8 + 2"
+"modifier": !!int "1"
+"stats":
+  - !!int "16"
+  - !!int "12"
+  - !!int "12"
+  - !!int "9"
+  - !!int "8"
+  - !!int "6"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Athletics](/Compendium/rules/skills.md#Athletics)"
+    "desc": "+5"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+5"
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+  \ 13"
+"languages": ""
+"cr": "1/4"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning damage\
+      \ plus 2 (1d4) Psychic damage."
+    "name": "Bone Cudgel"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/aberration/token/grimlock-xmm.webp"
 ```
 ^statblock
 

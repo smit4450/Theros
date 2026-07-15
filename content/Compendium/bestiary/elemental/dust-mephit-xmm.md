@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/small
 - monster/type/elemental
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Dust Mephit"
 ---
 # Dust Mephit
-*Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/elemental/img/mephits.webp#right)
 
 Dust mephits are composed of air and fine earth. They are drawn to forsaken places, and they think everything associated with death is hilarious.
@@ -36,41 +38,56 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 
 ## Statblock
 
-```ad-statblock
-title: Dust Mephit
-![](/Compendium/bestiary/elemental/token/dust-mephit-xmm.webp#token)
-*Small elemental, Neutral Evil*
-
-- **Armor Class** 12 
-- **Hit Points** 17 (`5d6`) 
-- **Speed** 30 ft., fly 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 5 (-3)|14 (+2)|10 (+0)| 9 (-1)|11 (+0)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +2, [Stealth](/Compendium/rules/skills.md#Stealth) +4
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 12
-- **Damage Vulnerabilities** fire
-- **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Primordial (Auran, Terran)
-- **Challenge** 1/2
-
-## Traits
-
-***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw:* DC 10, each creature in a 5-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the mephit. *Failure:* 5 (`2d4`) Bludgeoning damage. *Success:* Half damage.
-
-## Actions
-
-***Claw.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 4 (`1d4 + 2`) Slashing damage.
-
-***Blinding Breath (Recharge 6).*** *Dexterity Saving Throw:* DC 10, each creature in a 15-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* The target has the [Blinded](/Compendium/rules/conditions.md#Blinded) condition until the end of the mephit's next turn.
-
-***Sleep (1/Day).*** The mephit casts the [Sleep](/Compendium/spells/sleep-xphb.md) spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 10).
-
+```statblock
+"name": "Dust Mephit"
+"size": "Small"
+"type": "elemental"
+"alignment": "Neutral Evil"
+"ac": !!int "12"
+"hp": !!int "17"
+"hit_dice": "5d6"
+"modifier": !!int "2"
+"stats":
+  - !!int "5"
+  - !!int "14"
+  - !!int "10"
+  - !!int "9"
+  - !!int "11"
+  - !!int "10"
+"speed": "30 ft., fly 30 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
+"damage_vulnerabilities": "fire"
+"damage_immunities": "poison"
+"condition_immunities": "[exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
+"languages": "Primordial (Auran, Terran)"
+"cr": "1/2"
+"traits":
+  - "desc": "The mephit explodes when it dies. *Dexterity Saving Throw:* DC 10, each\
+      \ creature in a 5-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the mephit. *Failure:* 5 (2d4) Bludgeoning damage. *Success:*\
+      \ Half damage."
+    "name": "Death Burst"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing damage."
+    "name": "Claw"
+  - "desc": "*Dexterity Saving Throw:* DC 10, each creature in a 15-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* The target has the [Blinded](/Compendium/rules/conditions.md#Blinded)\
+      \ condition until the end of the mephit's next turn."
+    "name": "Blinding Breath (Recharge 6)"
+  - "desc": "The mephit casts the [Sleep](/Compendium/spells/sleep-xphb.md) spell,\
+      \ requiring no spell components and using Charisma as the spellcasting ability\
+      \ (spell save DC 10).\n"
+    "name": "Sleep (1/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/elemental/token/dust-mephit-xmm.webp"
 ```
 ^statblock
 

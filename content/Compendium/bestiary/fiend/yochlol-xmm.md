@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/medium
 - monster/type/fiend/demon
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Yochlol"
 ---
 # Yochlol
-*Source: Monster Manual (2024) p. 341*  
+*Source: Monster Manual (2024) p. 341*
 ![](/Compendium/books/monster-manual-2025/img/yochlol.webp#right)
 
 ## Yochlol
@@ -29,58 +31,86 @@ Most yochlols serve Lolth. The Demon Queen of Spiders claims all yochlols as min
 
 Despite their service to demon lords, yochlols harbor their own vicious whims and ambitions. They might claim to speak for their overlords to further their own ambitions or seek to reveal rivals' selfish goals to gain standing with their demonic masters.
 
-```ad-statblock
-title: Yochlol
-![](/Compendium/bestiary/fiend/token/yochlol-xmm.webp#token)
-*Medium fiend (demon), Chaotic Evil*
-
-- **Armor Class** 15 
-- **Hit Points** 153 (`18d8 + 72`) 
-- **Speed** 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|19 (+4)|18 (+4)|13 (+1)|15 (+2)|17 (+3)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +8, Intelligence +5, Wisdom +6, Charisma +7
-- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +11, [Insight](/Compendium/rules/skills.md#Insight) +6
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 12
-- **Damage Resistances** cold, fire, lightning
-- **Damage Immunities** poison
-- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Abyssal, Elvish, Undercommon
-- **Challenge** 10
-
-## Traits
-
-***Demonic Restoration.*** If the yochlol dies outside the Abyss, its body dissolves, and it gains a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) in the Abyss.
-
-***Magic Resistance.*** The yochlol has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-***Spider Climb.*** The yochlol can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-
-***Web Walker.*** The yochlol ignores movement restrictions caused by webs.
-
-## Actions
-
-***Multiattack.*** The yochlol makes two Caustic Lash attacks, and it can use Spellcasting to cast [Web](/Compendium/spells/web-xphb.md) or [Dominate Person](/Compendium/spells/dominate-person-xphb.md) if available.
-
-***Caustic Lash.*** *Melee  or Ranged Attack Roll:* `+8`, reach 10 ft. or range 120 ft. *Hit:* 25 (`6d6 + 4`) Acid damage.
-
-***Spellcasting.*** The yochlol casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):
-
-**At will:** [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md), [Gaseous Form](/Compendium/spells/gaseous-form-xphb.md) (self only), [Web](/Compendium/spells/web-xphb.md)
-
-**1/day:** [Dominate Person](/Compendium/spells/dominate-person-xphb.md)
-
-## Bonus Actions
-
-***Shape-Shift.*** The yochlol shape-shifts into a Medium Humanoid or a Medium spider or back into its true form. Its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
-
-## Reactions
-
-***Toxic Escape.*** Trigger: The yochlol is hit by an attack roll. _Response:_ The yochlol halves the attack's damage to itself (round down), and it teleports to an unoccupied space it can see within 30 feet of itself. *Constitution Saving Throw:* DC 15, each creature within 5 feet of the yochlol's destination space. *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the end of its next turn. While [Poisoned](/Compendium/rules/conditions.md#Poisoned), it has the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
+```statblock
+"name": "Yochlol"
+"size": "Medium"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"hp": !!int "153"
+"hit_dice": "18d8 + 72"
+"modifier": !!int "8"
+"stats":
+  - !!int "15"
+  - !!int "19"
+  - !!int "18"
+  - !!int "13"
+  - !!int "15"
+  - !!int "17"
+"speed": "30 ft., climb 30 ft."
+"saves":
+  - "dexterity": !!int "8"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "7"
+"skillsaves":
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+11"
+  - "name": "[Insight](/Compendium/rules/skills.md#Insight)"
+    "desc": "+6"
+"damage_resistances": "cold, fire, lightning"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 12"
+"languages": "Abyssal, Elvish, Undercommon"
+"cr": "10"
+"traits":
+  - "desc": "If the yochlol dies outside the Abyss, its body dissolves, and it gains\
+      \ a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ in the Abyss."
+    "name": "Demonic Restoration"
+  - "desc": "The yochlol has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The yochlol can climb difficult surfaces, including along ceilings, without\
+      \ needing to make an ability check."
+    "name": "Spider Climb"
+  - "desc": "The yochlol ignores movement restrictions caused by webs."
+    "name": "Web Walker"
+"actions":
+  - "desc": "The yochlol makes two Caustic Lash attacks, and it can use Spellcasting\
+      \ to cast [Web](/Compendium/spells/web-xphb.md) or [Dominate Person](/Compendium/spells/dominate-person-xphb.md)\
+      \ if available."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +8, reach 10 ft. or range 120 ft. *Hit:*\
+      \ 25 (6d6 + 4) Acid damage."
+    "name": "Caustic Lash"
+  - "desc": "The yochlol casts one of the following spells, requiring no Material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
+      \n**At will:** [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md),\
+      \ [Gaseous Form](/Compendium/spells/gaseous-form-xphb.md) (self only), [Web](/Compendium/spells/web-xphb.md)\n\
+      \n**1/day:** [Dominate Person](/Compendium/spells/dominate-person-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The yochlol shape-shifts into a Medium Humanoid or a Medium spider or\
+      \ back into its true form. Its game statistics are the same in each form. Any\
+      \ equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
+"reactions":
+  - "desc": "Trigger: The yochlol is hit by an attack roll. _Response:_ The yochlol\
+      \ halves the attack's damage to itself (round down), and it teleports to an\
+      \ unoccupied space it can see within 30 feet of itself. *Constitution Saving\
+      \ Throw:* DC 15, each creature within 5 feet of the yochlol's destination space.\
+      \ *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the end of its next turn. While [Poisoned](/Compendium/rules/conditions.md#Poisoned),\
+      \ it has the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Toxic Escape"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fiend/token/yochlol-xmm.webp"
 ```
 ^statblock
 

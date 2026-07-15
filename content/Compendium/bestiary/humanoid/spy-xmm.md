@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Spy"
 ---
 # Spy
-*Source: Monster Manual (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/humanoid/img/spies.webp#right)
 
 Spies use charm and deception to veil their true intentions. If forced into combat, they seek to end such conflicts quietly and decisively.
@@ -38,36 +40,57 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 
 ## Statblock
 
-```ad-statblock
-title: Spy
-![](/Compendium/bestiary/humanoid/token/spy-xmm.webp#token)
-*Small or Medium humanoid, Neutral*
-
-- **Armor Class** 12 
-- **Hit Points** 27 (`6d8`) 
-- **Speed** 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +5, [Insight](/Compendium/rules/skills.md#Insight) +4, [Investigation](/Compendium/rules/skills.md#Investigation) +5, [Perception](/Compendium/rules/skills.md#Perception) +6, [Sleight of Hand](/Compendium/rules/skills.md#Sleight%20of%20Hand) +4, [Stealth](/Compendium/rules/skills.md#Stealth) +6
-- **Senses** passive Perception 16
-- **Gear** [hand crossbow](/Compendium/items/hand-crossbow-xphb.md), [shortsword](/Compendium/items/shortsword-xphb.md), [thieves' tools](/Compendium/items/thieves-tools-xphb.md)
-- **Languages** Common plus one other language
-- **Challenge** 1
-
-## Actions
-
-***Shortsword.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 5 (`1d6 + 2`) Piercing damage plus 7 (`2d6`) Poison damage.
-
-***Hand Crossbow.*** *Ranged Attack Roll:* `+4`, range 30/120 ft. *Hit:* 5 (`1d6 + 2`) Piercing damage plus 7 (`2d6`) Poison damage.
-
-## Bonus Actions
-
-***Cunning Action.*** The spy takes the [Dash](/Compendium/rules/actions.md#Dash), [Disengage](/Compendium/rules/actions.md#Disengage), or [Hide](/Compendium/rules/actions.md#Hide) action.
+```statblock
+"name": "Spy"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "12"
+"hp": !!int "27"
+"hit_dice": "6d8"
+"modifier": !!int "4"
+"stats":
+  - !!int "10"
+  - !!int "15"
+  - !!int "10"
+  - !!int "12"
+  - !!int "14"
+  - !!int "16"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Insight](/Compendium/rules/skills.md#Insight)"
+    "desc": "+4"
+  - "name": "[Investigation](/Compendium/rules/skills.md#Investigation)"
+    "desc": "+5"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Sleight of Hand](/Compendium/rules/skills.md#Sleight%20of%20Hand)"
+    "desc": "+4"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
+"gear":
+  - "[hand crossbow](/Compendium/items/hand-crossbow-xphb.md)"
+  - "[shortsword](/Compendium/items/shortsword-xphb.md)"
+  - "[thieves' tools](/Compendium/items/thieves-tools-xphb.md)"
+"senses": "passive Perception 16"
+"languages": "Common plus one other language"
+"cr": "1"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage\
+      \ plus 7 (2d6) Poison damage."
+    "name": "Shortsword"
+  - "desc": "*Ranged Attack Roll:* +4, range 30/120 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage plus 7 (2d6) Poison damage."
+    "name": "Hand Crossbow"
+"bonus_actions":
+  - "desc": "The spy takes the [Dash](/Compendium/rules/actions.md#Dash), [Disengage](/Compendium/rules/actions.md#Disengage),\
+      \ or [Hide](/Compendium/rules/actions.md#Hide) action."
+    "name": "Cunning Action"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/spy-xmm.webp"
 ```
 ^statblock
 

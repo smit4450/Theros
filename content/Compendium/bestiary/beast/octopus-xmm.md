@@ -8,11 +8,13 @@ tags:
 - monster/environment/underwater
 - monster/size/small
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Octopus"
 ---
 # Octopus
-*Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/octopus.webp#right)
 
 ## Animals
@@ -24,39 +26,53 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Octopus
-![](/Compendium/bestiary/beast/token/octopus-xmm.webp#token)
-*Small beast, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** 3 (`1d6`) 
-- **Speed** 5 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 4 (-3)|15 (+2)|11 (+0)| 3 (-4)|10 (+0)| 4 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +2, [Stealth](/Compendium/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 30 ft., passive Perception 12
-- **Languages** —
-- **Challenge** 0
-
-## Traits
-
-***Compression.*** The octopus can move through a space as narrow as 1 inch without expending extra movement to do so.
-
-***Water Breathing.*** The octopus can breathe only underwater.
-
-## Actions
-
-***Tentacles.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 1 Bludgeoning damage.
-
-## Reactions
-
-***Ink Cloud (1/Day).*** Trigger: A creature ends its turn within 5 feet of the octopus while underwater. _Response:_ The octopus releases ink that fills a 5-foot [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) centered on itself, and the octopus moves up to its [Swim Speed](/Compendium/rules/variant-rules/swim-speed-xphb.md). The [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) is [Heavily Obscured](/Compendium/rules/variant-rules/heavily-obscured-xphb.md) for 1 minute or until a strong current or similar effect disperses the ink.
+```statblock
+"name": "Octopus"
+"size": "Small"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "3"
+"hit_dice": "1d6"
+"modifier": !!int "2"
+"stats":
+  - !!int "4"
+  - !!int "15"
+  - !!int "11"
+  - !!int "3"
+  - !!int "10"
+  - !!int "4"
+"speed": "5 ft., swim 30 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 30 ft., passive Perception\
+  \ 12"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The octopus can move through a space as narrow as 1 inch without expending\
+      \ extra movement to do so."
+    "name": "Compression"
+  - "desc": "The octopus can breathe only underwater."
+    "name": "Water Breathing"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Bludgeoning damage."
+    "name": "Tentacles"
+"reactions":
+  - "desc": "Trigger: A creature ends its turn within 5 feet of the octopus while\
+      \ underwater. _Response:_ The octopus releases ink that fills a 5-foot [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)\
+      \ centered on itself, and the octopus moves up to its [Swim Speed](/Compendium/rules/variant-rules/swim-speed-xphb.md).\
+      \ The [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) is\
+      \ [Heavily Obscured](/Compendium/rules/variant-rules/heavily-obscured-xphb.md)\
+      \ for 1 minute or until a strong current or similar effect disperses the ink."
+    "name": "Ink Cloud (1/Day)"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/beast/token/octopus-xmm.webp"
 ```
 ^statblock
 

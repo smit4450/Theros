@@ -10,11 +10,13 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/elemental
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Salamander"
 ---
 # Salamander
-*Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/elemental/img/salamander.webp#right)
 
 Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
@@ -39,39 +41,52 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 
 ## Statblock
 
-```ad-statblock
-title: Salamander
-![](/Compendium/bestiary/elemental/token/salamander-xmm.webp#token)
-*Large elemental, Neutral Evil*
-
-- **Armor Class** 15 
-- **Hit Points** 90 (`12d10 + 24`) 
-- **Speed** 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|14 (+2)|15 (+2)|11 (+0)|10 (+0)|12 (+1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Damage Vulnerabilities** cold
-- **Damage Immunities** fire
-- **Languages** Primordial (Ignan)
-- **Challenge** 5
-
-## Traits
-
-***Fire Aura.*** At the end of each of the salamander's turns, each creature of the salamander's choice in a 5-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the salamander takes 7 (`2d6`) Fire damage.
-
-## Actions
-
-***Multiattack.*** The salamander makes two Flame Spear attacks. It can replace one attack with a use of Constrict.
-
-***Flame Spear.*** *Melee  or Ranged Attack Roll:* `+7`, reach 5 ft. or range 20/60 ft. *Hit:* 13 (`2d8 + 4`) Piercing damage plus 7 (`2d6`) Fire damage. *Hit or Miss:* The spear magically returns to the salamander's hand immediately after a ranged attack.
-
-***Constrict.*** *Strength Saving Throw:* DC 15, one Large or smaller creature the salamander can see within 10 feet. *Failure:* 11 (`2d6 + 4`) Bludgeoning damage plus 7 (`2d6`) Fire damage. The target has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 14), and it has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition until the grapple ends.
+```statblock
+"name": "Salamander"
+"size": "Large"
+"type": "elemental"
+"alignment": "Neutral Evil"
+"ac": !!int "15"
+"hp": !!int "90"
+"hit_dice": "12d10 + 24"
+"modifier": !!int "2"
+"stats":
+  - !!int "18"
+  - !!int "14"
+  - !!int "15"
+  - !!int "11"
+  - !!int "10"
+  - !!int "12"
+"speed": "30 ft., climb 30 ft."
+"damage_vulnerabilities": "cold"
+"damage_immunities": "fire"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Primordial (Ignan)"
+"cr": "5"
+"traits":
+  - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
+      \ choice in a 5-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the salamander takes 7 (2d6) Fire damage."
+    "name": "Fire Aura"
+"actions":
+  - "desc": "The salamander makes two Flame Spear attacks. It can replace one attack\
+      \ with a use of Constrict."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 5 ft. or range 20/60 ft. *Hit:*\
+      \ 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. *Hit or Miss:* The\
+      \ spear magically returns to the salamander's hand immediately after a ranged\
+      \ attack."
+    "name": "Flame Spear"
+  - "desc": "*Strength Saving Throw:* DC 15, one Large or smaller creature the salamander\
+      \ can see within 10 feet. *Failure:* 11 (2d6 + 4) Bludgeoning damage plus 7\
+      \ (2d6) Fire damage. The target has the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14), and it has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition until the grapple ends."
+    "name": "Constrict"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/elemental/token/salamander-xmm.webp"
 ```
 ^statblock
 

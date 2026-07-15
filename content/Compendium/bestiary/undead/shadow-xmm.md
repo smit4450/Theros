@@ -11,11 +11,13 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Shadow"
 ---
 # Shadow
-*Source: Monster Manual (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/shadow.webp#right)
 
 ## Shadow
@@ -43,43 +45,59 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 | 6 | An ominous priest that haunts a defiled site. |
 ^shadow-shapes
 
-```ad-statblock
-title: Shadow
-![](/Compendium/bestiary/undead/token/shadow-xmm.webp#token)
-*Medium undead, Chaotic Evil*
-
-- **Armor Class** 12 
-- **Hit Points** 27 (`5d8 + 5`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6 (-2)|14 (+2)|13 (+1)| 6 (-2)|10 (+0)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Damage Vulnerabilities** radiant
-- **Damage Resistances** acid, cold, fire, lightning, thunder
-- **Damage Immunities** necrotic, poison
-- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [unconscious](/Compendium/rules/conditions.md#Unconscious)
-- **Languages** —
-- **Challenge** 1/2
-
-## Traits
-
-***Amorphous.*** The shadow can move through a space as narrow as 1 inch without expending extra movement to do so.
-
-***Sunlight Weakness.*** While in sunlight, the shadow has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on [D20 Tests](/Compendium/rules/variant-rules/d20-test-xphb.md).
-
-## Actions
-
-***Draining Swipe.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 5 (`1d6 + 2`) Necrotic damage, and the target's Strength score decreases by `1d4`. The target dies if this reduces that score to 0. If a Humanoid is slain by this attack, a Shadow rises from the corpse `1d4` hours later.
-
-## Bonus Actions
-
-***Shadow Stealth.*** While in [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md) or [Darkness](/Compendium/rules/variant-rules/darkness-xphb.md), the shadow takes the [Hide](/Compendium/rules/actions.md#Hide) action.
+```statblock
+"name": "Shadow"
+"size": "Medium"
+"type": "undead"
+"alignment": "Chaotic Evil"
+"ac": !!int "12"
+"hp": !!int "27"
+"hit_dice": "5d8 + 5"
+"modifier": !!int "2"
+"stats":
+  - !!int "6"
+  - !!int "14"
+  - !!int "13"
+  - !!int "6"
+  - !!int "10"
+  - !!int "8"
+"speed": "40 ft."
+"skillsaves":
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
+"damage_vulnerabilities": "radiant"
+"damage_resistances": "acid, cold, fire, lightning, thunder"
+"damage_immunities": "necrotic, poison"
+"condition_immunities": "[exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled),\
+  \ [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone),\
+  \ [restrained](/Compendium/rules/conditions.md#Restrained), [unconscious](/Compendium/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": ""
+"cr": "1/2"
+"traits":
+  - "desc": "The shadow can move through a space as narrow as 1 inch without expending\
+      \ extra movement to do so."
+    "name": "Amorphous"
+  - "desc": "While in sunlight, the shadow has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on [D20 Tests](/Compendium/rules/variant-rules/d20-test-xphb.md)."
+    "name": "Sunlight Weakness"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Necrotic damage,\
+      \ and the target's Strength score decreases by 1d4. The target dies if this\
+      \ reduces that score to 0. If a Humanoid is slain by this attack, a Shadow rises\
+      \ from the corpse 1d4 hours later."
+    "name": "Draining Swipe"
+"bonus_actions":
+  - "desc": "While in [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](/Compendium/rules/variant-rules/darkness-xphb.md), the shadow\
+      \ takes the [Hide](/Compendium/rules/actions.md#Hide) action."
+    "name": "Shadow Stealth"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/undead/token/shadow-xmm.webp"
 ```
 ^statblock
 

@@ -10,11 +10,13 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/construct
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Brazen Gorgon"
 ---
 # Brazen Gorgon
-*Source: Monster Manual (2024) p. 149*  
+*Source: Monster Manual (2024) p. 149*
 ![](/Compendium/bestiary/construct/img/brazen-gorgon.webp#right)
 
 Followers of the exiled archdevil Moloch altered the process of creating gorgons to craft their own diabolical guardians called brazen gorgons. These gorgons are hollow, bull-like automatons whose metal bodies glow with intense heat. When they charge their foes, the ribs of their frames open like cages to ensnare enemies and roast them within. Brazen gorgons are often found in blasphemous sites dedicated to Moloch, other archdevils, or bloodthirsty gods.
@@ -55,41 +57,63 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 
 ## Statblock
 
-```ad-statblock
-title: Brazen Gorgon
-![](/Compendium/bestiary/construct/token/brazen-gorgon-xmm.webp#token)
-*Large construct, Unaligned*
-
-- **Armor Class** 19 
-- **Hit Points** 161 (`17d10 + 68`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|14 (+2)|19 (+4)| 2 (-4)|14 (+2)| 7 (-2)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +10
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 20
-- **Damage Immunities** fire
-- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [petrified](/Compendium/rules/conditions.md#Petrified)
-- **Languages** —
-- **Challenge** 9
-
-## Traits
-
-***Flame Aura.*** At the end of each of the gorgon's turns, each creature in a 5-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the gorgon takes 13 (`3d8`) Fire damage.
-
-***Illumination.*** The gorgon sheds [Bright Light](/Compendium/rules/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 10 feet.
-
-## Actions
-
-***Multiattack.*** The gorgon makes two Gore attacks.
-
-***Gore.*** *Melee Attack Roll:* `+8`, reach 5 ft. *Hit:* 11 (`2d6 + 4`) Piercing damage plus 10 (`3d6`) Fire damage.
-
-***Smelting Charge (Recharge 5-6).*** The gorgon moves up to its [Speed](/Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack) and can move through the spaces of Medium or smaller creatures. Each time the gorgon enters a creature's space for the first time during this move, that target is subjected to the following effect. *Dexterity Saving Throw:* DC 16. *Failure:* 13 (`2d8 + 4`) Piercing damage plus 13 (`3d8`) Fire damage, and the target is pulled into the gorgon's space and has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 14); if the gorgon already has a creature [Grappled](/Compendium/rules/conditions.md#Grappled), the target has the [Prone](/Compendium/rules/conditions.md#Prone) condition instead. Until the grapple ends, the target has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition. When the gorgon moves, the [Grappled](/Compendium/rules/conditions.md#Grappled) target moves with it, costing no extra movement.
+```statblock
+"name": "Brazen Gorgon"
+"size": "Large"
+"type": "construct"
+"alignment": "Unaligned"
+"ac": !!int "19"
+"hp": !!int "161"
+"hit_dice": "17d10 + 68"
+"modifier": !!int "2"
+"stats":
+  - !!int "18"
+  - !!int "14"
+  - !!int "19"
+  - !!int "2"
+  - !!int "14"
+  - !!int "7"
+"speed": "40 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+10"
+"damage_immunities": "fire"
+"condition_immunities": "[exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [petrified](/Compendium/rules/conditions.md#Petrified)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 20"
+"languages": ""
+"cr": "9"
+"traits":
+  - "desc": "At the end of each of the gorgon's turns, each creature in a 5-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the gorgon takes 13 (3d8) Fire damage."
+    "name": "Flame Aura"
+  - "desc": "The gorgon sheds [Bright Light](/Compendium/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 10-foot radius and [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ for an additional 10 feet."
+    "name": "Illumination"
+"actions":
+  - "desc": "The gorgon makes two Gore attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing damage\
+      \ plus 10 (3d6) Fire damage."
+    "name": "Gore"
+  - "desc": "The gorgon moves up to its [Speed](/Compendium/rules/variant-rules/speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack)\
+      \ and can move through the spaces of Medium or smaller creatures. Each time\
+      \ the gorgon enters a creature's space for the first time during this move,\
+      \ that target is subjected to the following effect. *Dexterity Saving Throw:*\
+      \ DC 16. *Failure:* 13 (2d8 + 4) Piercing damage plus 13 (3d8) Fire damage,\
+      \ and the target is pulled into the gorgon's space and has the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14); if the gorgon already has a creature [Grappled](/Compendium/rules/conditions.md#Grappled),\
+      \ the target has the [Prone](/Compendium/rules/conditions.md#Prone) condition\
+      \ instead. Until the grapple ends, the target has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition. When the gorgon moves, the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ target moves with it, costing no extra movement."
+    "name": "Smelting Charge (Recharge 5-6)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/construct/token/brazen-gorgon-xmm.webp"
 ```
 ^statblock
 

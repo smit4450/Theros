@@ -10,11 +10,13 @@ tags:
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/beast/dinosaur
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Pteranodon"
 ---
 # Pteranodon
-*Source: Monster Manual (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/pteranodon.webp#right)
 
 ## Animals
@@ -26,33 +28,40 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Pteranodon
-![](/Compendium/bestiary/beast/token/pteranodon-xmm.webp#token)
-*Medium beast (dinosaur), Unaligned*
-
-- **Armor Class** 13 
-- **Hit Points** 13 (`3d8`) 
-- **Speed** 10 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|15 (+2)|10 (+0)| 2 (-4)| 9 (-1)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +1
-- **Senses** passive Perception 11
-- **Languages** —
-- **Challenge** 1/4
-
-## Traits
-
-***Flyby.*** The pteranodon doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Piercing damage.
+```statblock
+"name": "Pteranodon"
+"size": "Medium"
+"type": "beast"
+"subtype": "dinosaur"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "13"
+"hit_dice": "3d8"
+"modifier": !!int "2"
+"stats":
+  - !!int "12"
+  - !!int "15"
+  - !!int "10"
+  - !!int "2"
+  - !!int "9"
+  - !!int "5"
+"speed": "10 ft., fly 60 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+1"
+"senses": "passive Perception 11"
+"languages": ""
+"cr": "1/4"
+"traits":
+  - "desc": "The pteranodon doesn't provoke an Opportunity Attack when it flies out\
+      \ of an enemy's reach."
+    "name": "Flyby"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage."
+    "name": "Bite"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/beast/token/pteranodon-xmm.webp"
 ```
 ^statblock
 

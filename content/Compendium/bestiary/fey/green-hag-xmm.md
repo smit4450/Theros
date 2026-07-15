@@ -10,11 +10,13 @@ tags:
 - monster/environment/swamp
 - monster/size/medium
 - monster/type/fey
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Green Hag"
 ---
 # Green Hag
-*Source: Monster Manual (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/green-hag.webp#right)
 
 ## Green Hag
@@ -40,44 +42,69 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
 | 6 | A vial filled with a ruler's tears. |
 ^green-hag-bargains
 
-```ad-statblock
-title: Green Hag
-![](/Compendium/bestiary/fey/token/green-hag-xmm.webp#token)
-*Medium fey, Neutral Evil*
-
-- **Armor Class** 17 
-- **Hit Points** 82 (`11d8 + 33`) 
-- **Speed** 30 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +5, [Deception](/Compendium/rules/skills.md#Deception) +4, [Perception](/Compendium/rules/skills.md#Perception) +4, [Stealth](/Compendium/rules/skills.md#Stealth) +3
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Languages** Common, Elvish, Sylvan
-- **Challenge** 3
-
-## Traits
-
-***Coven Magic.*** While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save DC 11): [Augury](/Compendium/spells/augury-xphb.md), [Find Familiar](/Compendium/spells/find-familiar-xphb.md), [Identify](/Compendium/spells/identify-xphb.md), [Locate Object](/Compendium/spells/locate-object-xphb.md), [Scrying](/Compendium/spells/scrying-xphb.md), or [Unseen Servant](/Compendium/spells/unseen-servant-xphb.md). The hag must finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md) before using this trait to cast that spell again.
-
-
-***Amphibious.*** The hag can breathe air and water.
-
-***Mimicry.*** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14 Wisdom ([Insight](/Compendium/rules/skills.md#Insight)) check.
-
-## Actions
-
-***Multiattack.*** The hag makes two Claw attacks.
-
-***Claw.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 8 (`1d8 + 4`) Slashing damage plus 3 (`1d6`) Poison damage.
-
-***Spellcasting.*** The hag casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 12, `+4` to hit with spell attacks):
-
-**At will:** [Dancing Lights](/Compendium/spells/dancing-lights-xphb.md), [Disguise Self](/Compendium/spells/disguise-self-xphb.md) (24-hour duration), [Invisibility](/Compendium/spells/invisibility-xphb.md) (self only, and the hag leaves no tracks while Invisible), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md), [Ray of Sickness](/Compendium/spells/ray-of-sickness-xphb.md) (level 3 version)
+```statblock
+"name": "Green Hag"
+"size": "Medium"
+"type": "fey"
+"alignment": "Neutral Evil"
+"ac": !!int "17"
+"hp": !!int "82"
+"hit_dice": "11d8 + 33"
+"modifier": !!int "1"
+"stats":
+  - !!int "18"
+  - !!int "12"
+  - !!int "16"
+  - !!int "13"
+  - !!int "14"
+  - !!int "14"
+"speed": "30 ft., swim 30 ft."
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+4"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+3"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
+"languages": "Common, Elvish, Sylvan"
+"cr": "3"
+"traits":
+  - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
+      \ of the following spells, requiring no Material components, using the spell's\
+      \ normal casting time, and using Intelligence as the spellcasting ability (spell\
+      \ save DC 11): [Augury](/Compendium/spells/augury-xphb.md), [Find Familiar](/Compendium/spells/find-familiar-xphb.md),\
+      \ [Identify](/Compendium/spells/identify-xphb.md), [Locate Object](/Compendium/spells/locate-object-xphb.md),\
+      \ [Scrying](/Compendium/spells/scrying-xphb.md), or [Unseen Servant](/Compendium/spells/unseen-servant-xphb.md).\
+      \ The hag must finish a [Long Rest](/Compendium/rules/variant-rules/long-rest-xphb.md)\
+      \ before using this trait to cast that spell again.\n"
+    "name": "Coven Magic"
+  - "desc": "The hag can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "The hag can mimic animal sounds and humanoid voices. A creature that\
+      \ hears the sounds can tell they are imitations only with a successful DC 14\
+      \ Wisdom ([Insight](/Compendium/rules/skills.md#Insight)) check."
+    "name": "Mimicry"
+"actions":
+  - "desc": "The hag makes two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d8 + 4) Slashing damage\
+      \ plus 3 (1d6) Poison damage."
+    "name": "Claw"
+  - "desc": "The hag casts one of the following spells, requiring no Material components\
+      \ and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit\
+      \ with spell attacks):\n\n**At will:** [Dancing Lights](/Compendium/spells/dancing-lights-xphb.md),\
+      \ [Disguise Self](/Compendium/spells/disguise-self-xphb.md) (24-hour duration),\
+      \ [Invisibility](/Compendium/spells/invisibility-xphb.md) (self only, and the\
+      \ hag leaves no tracks while Invisible), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md),\
+      \ [Ray of Sickness](/Compendium/spells/ray-of-sickness-xphb.md) (level 3 version)"
+    "name": "Spellcasting"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fey/token/green-hag-xmm.webp"
 ```
 ^statblock
 

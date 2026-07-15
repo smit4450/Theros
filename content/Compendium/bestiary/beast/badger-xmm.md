@@ -8,11 +8,13 @@ tags:
 - monster/environment/forest
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Badger"
 ---
 # Badger
-*Source: Monster Manual (2024) p. 349, Player's Handbook (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 349, Player's Handbook (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/badger.webp#right)
 
 ## Animals
@@ -24,30 +26,38 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Badger
-![](/Compendium/bestiary/beast/token/badger-xmm.webp#token)
-*Tiny beast, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** 5 (`1d4 + 3`) 
-- **Speed** 20 ft., burrow 5 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|11 (+0)|16 (+3)| 2 (-4)|12 (+1)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 30 ft., passive Perception 13
-- **Damage Resistances** poison
-- **Languages** —
-- **Challenge** 0
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+2`, reach 5 ft. *Hit:* 1 Piercing damage.
+```statblock
+"name": "Badger"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "5"
+"hit_dice": "1d4 + 3"
+"modifier": !!int "0"
+"stats":
+  - !!int "10"
+  - !!int "11"
+  - !!int "16"
+  - !!int "2"
+  - !!int "12"
+  - !!int "5"
+"speed": "20 ft., burrow 5 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+"damage_resistances": "poison"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 30 ft., passive Perception\
+  \ 13"
+"languages": ""
+"cr": "0"
+"actions":
+  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Piercing damage."
+    "name": "Bite"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/beast/token/badger-xmm.webp"
 ```
 ^statblock
 

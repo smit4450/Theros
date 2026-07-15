@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/gargantuan
 - monster/type/ooze/titan
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Blob of Annihilation"
 ---
 # Blob of Annihilation
-*Source: Monster Manual (2024) p. 47*  
+*Source: Monster Manual (2024) p. 47*
 ![](/Compendium/bestiary/ooze/img/blob-of-annihilation.webp#right)
 
 ## Blob of Annihilation
@@ -50,58 +52,94 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 | 10 | A tarrasque that just died. |
 ^blob-of-annihilation-contents
 
-```ad-statblock
-title: Blob of Annihilation
-![](/Compendium/bestiary/ooze/token/blob-of-annihilation-xmm.webp#token)
-*Gargantuan ooze (titan), Neutral Evil*
-
-- **Armor Class** 18 
-- **Hit Points** 448 (`23d20 + 207`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|27 (+8)|14 (+2)|28 (+9)|10 (+0)|16 (+3)|10 (+0)|
-
-- **Proficiency Bonus** +7
-- **Saving Throws** Dexterity +9, Constitution +16
-- **Skills** ⏤
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 120 ft., passive Perception 13
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Damage Immunities** acid, necrotic, poison
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [stunned](/Compendium/rules/conditions.md#Stunned), [unconscious](/Compendium/rules/conditions.md#Unconscious)
-- **Languages** —
-- **Challenge** 23
-
-## Traits
-
-***Astral Implosion.*** If the blob is reduced to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md), it implodes and ejects any creatures and objects engulfed by it into the Astral Sea. The blob itself vanishes, leaving behind a layer of slime on everything that was within 600 feet of it. In `1d20` years, the blob reconstitutes on a random world in the Material Plane.
-
-***Legendary Resistance (4/Day).*** If the blob fails a saving throw, it can choose to succeed instead.
-
-***Magic Resistance.*** The blob has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The blob makes two Pseudopod attacks and uses Engulf. It can replace one attack with a use of Restraining Glob.
-
-***Pseudopod.*** *Melee Attack Roll:* `+15`, reach 30 ft. *Hit:* 24 (`3d10 + 8`) Force damage.
-
-***Engulf.*** The blob moves up to its [Speed](/Compendium/rules/variant-rules/speed-xphb.md) and can move through the spaces of Huge or smaller creatures and objects. *Strength Saving Throw:* DC 23, each creature or object whose space the blob enters for the first time during this move. *Failure:* The target is engulfed. While engulfed, a target has [Total Cover](/Compendium/rules/variant-rules/cover-xphb.md) against attacks and other effects outside the blob, and when the blob moves, the engulfed target moves with it. A nonmagical object is destroyed after spending 1 minute engulfed.
-
-While engulfed, a creature takes 21 (`6d6`) Force damage at the start of each of its turns, is suffocating, has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition, and repeats the save at the end of each of its turns. An engulfed creature that is reduced to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) dissolves into ash, which is ejected into the Astral Sea. *Success:* The target escapes and enters the nearest unoccupied space.
-
-***Restraining Glob.*** The blob lobs a slimy glob at one Large or smaller creature it can see within 600 feet of itself. *Dexterity Saving Throw:* DC 23, the targeted creature. *Failure:* 18 (`3d6 + 8`) Acid damage. The glob rolls the target 60 feet straight toward the blob, and the target has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition until the end of its next turn, when the glob harmlessly dissolves. *Success:* Half damage only.
-
-## Legendary Actions
-
-Legendary Action Uses: 3. Immediately after another creature's turn, the blob of annihilation can expend a use to take one of the following actions. The blob of annihilation regains all expended uses at the start of each of its turns.
-
-***Decay.*** The blob deals 14 (`4d6`) Necrotic damage to each creature engulfed by it. The blob can't take this action again until the start of its next turn.
-
-***Grasping Glob.*** The blob uses Restraining Glob. The blob can't take this action again until the start of its next turn.
-
-***Lashing Goop.*** The blob makes one Pseudopod attack.
+```statblock
+"name": "Blob of Annihilation"
+"size": "Gargantuan"
+"type": "ooze"
+"subtype": "titan"
+"alignment": "Neutral Evil"
+"ac": !!int "18"
+"hp": !!int "448"
+"hit_dice": "23d20 + 207"
+"modifier": !!int "16"
+"stats":
+  - !!int "27"
+  - !!int "14"
+  - !!int "28"
+  - !!int "10"
+  - !!int "16"
+  - !!int "10"
+"speed": "30 ft."
+"saves":
+  - "dexterity": !!int "9"
+  - "constitution": !!int "16"
+"damage_resistances": "bludgeoning, piercing, slashing"
+"damage_immunities": "acid, necrotic, poison"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled),\
+  \ [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone),\
+  \ [restrained](/Compendium/rules/conditions.md#Restrained), [stunned](/Compendium/rules/conditions.md#Stunned),\
+  \ [unconscious](/Compendium/rules/conditions.md#Unconscious)"
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 120 ft., passive Perception\
+  \ 13"
+"languages": ""
+"cr": "23"
+"traits":
+  - "desc": "If the blob is reduced to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md),\
+      \ it implodes and ejects any creatures and objects engulfed by it into the Astral\
+      \ Sea. The blob itself vanishes, leaving behind a layer of slime on everything\
+      \ that was within 600 feet of it. In 1d20 years, the blob reconstitutes on a\
+      \ random world in the Material Plane."
+    "name": "Astral Implosion"
+  - "desc": "If the blob fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (4/Day)"
+  - "desc": "The blob has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The blob makes two Pseudopod attacks and uses Engulf. It can replace\
+      \ one attack with a use of Restraining Glob."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +15, reach 30 ft. *Hit:* 24 (3d10 + 8) Force damage."
+    "name": "Pseudopod"
+  - "desc": "The blob moves up to its [Speed](/Compendium/rules/variant-rules/speed-xphb.md)\
+      \ and can move through the spaces of Huge or smaller creatures and objects.\
+      \ *Strength Saving Throw:* DC 23, each creature or object whose space the blob\
+      \ enters for the first time during this move. *Failure:* The target is engulfed.\
+      \ While engulfed, a target has [Total Cover](/Compendium/rules/variant-rules/cover-xphb.md)\
+      \ against attacks and other effects outside the blob, and when the blob moves,\
+      \ the engulfed target moves with it. A nonmagical object is destroyed after\
+      \ spending 1 minute engulfed.\n\nWhile engulfed, a creature takes 21 (6d6) Force\
+      \ damage at the start of each of its turns, is suffocating, has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition, and repeats the save at the end of each of its turns. An engulfed\
+      \ creature that is reduced to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ dissolves into ash, which is ejected into the Astral Sea. *Success:* The target\
+      \ escapes and enters the nearest unoccupied space."
+    "name": "Engulf"
+  - "desc": "The blob lobs a slimy glob at one Large or smaller creature it can see\
+      \ within 600 feet of itself. *Dexterity Saving Throw:* DC 23, the targeted creature.\
+      \ *Failure:* 18 (3d6 + 8) Acid damage. The glob rolls the target 60 feet straight\
+      \ toward the blob, and the target has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition until the end of its next turn, when the glob harmlessly dissolves.\
+      \ *Success:* Half damage only."
+    "name": "Restraining Glob"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the blob of annihilation can expend a use to take one of the following actions.\
+  \ The blob of annihilation regains all expended uses at the start of each of its\
+  \ turns."
+"legendary_actions":
+  - "desc": "The blob deals 14 (4d6) Necrotic damage to each creature engulfed by\
+      \ it. The blob can't take this action again until the start of its next turn."
+    "name": "Decay"
+  - "desc": "The blob uses Restraining Glob. The blob can't take this action again\
+      \ until the start of its next turn."
+    "name": "Grasping Glob"
+  - "desc": "The blob makes one Pseudopod attack."
+    "name": "Lashing Goop"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/ooze/token/blob-of-annihilation-xmm.webp"
 ```
 ^statblock
 

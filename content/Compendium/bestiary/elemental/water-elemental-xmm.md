@@ -12,11 +12,13 @@ tags:
 - monster/environment/water
 - monster/size/large
 - monster/type/elemental
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Water Elemental"
 ---
 # Water Elemental
-*Source: Monster Manual (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/water-elemental.webp#right)
 
 ## Water Elemental
@@ -45,42 +47,63 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 > Water: greatest of the elements in might and form. A tsunami's torrent. A blizzard's claws. A parent's tears. What is not moved by water?
 
 
-```ad-statblock
-title: Water Elemental
-![](/Compendium/bestiary/elemental/token/water-elemental-xmm.webp#token)
-*Large elemental, Neutral*
-
-- **Armor Class** 14 
-- **Hit Points** 114 (`12d10 + 48`) 
-- **Speed** 30 ft., swim 90 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|14 (+2)|18 (+4)| 5 (-3)|10 (+0)| 8 (-1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Damage Resistances** acid, fire
-- **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [unconscious](/Compendium/rules/conditions.md#Unconscious)
-- **Languages** Primordial (Aquan)
-- **Challenge** 5
-
-## Traits
-
-***Freeze.*** If the elemental takes Cold damage, its [Speed](/Compendium/rules/variant-rules/speed-xphb.md) decreases by 20 feet until the end of its next turn.
-
-***Water Form.*** The elemental can enter an enemy's space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
-
-## Actions
-
-***Multiattack.*** The elemental makes two Slam attacks.
-
-***Slam.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 13 (`2d8 + 4`) Bludgeoning damage. If the target is a Medium or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
-
-***Whelm (Recharge 4-6).*** *Strength Saving Throw:* DC 15, each creature in the elemental's space. *Failure:* 22 (`4d8 + 4`) Bludgeoning damage. If the target is a Large or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 14). Until the grapple ends, the target has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition, is suffocating unless it can breathe water, and takes 9 (`2d8`) Bludgeoning damage at the start of each of the elemental's turns. The elemental can grapple one Large creature or up to two Medium or smaller creatures at a time with Whelm. As an action, a creature within 5 feet of the elemental can pull a creature out of it by succeeding on a DC 14 Strength ([Athletics](/Compendium/rules/skills.md#Athletics)) check. *Success:* Half damage only.
+```statblock
+"name": "Water Elemental"
+"size": "Large"
+"type": "elemental"
+"alignment": "Neutral"
+"ac": !!int "14"
+"hp": !!int "114"
+"hit_dice": "12d10 + 48"
+"modifier": !!int "2"
+"stats":
+  - !!int "18"
+  - !!int "14"
+  - !!int "18"
+  - !!int "5"
+  - !!int "10"
+  - !!int "8"
+"speed": "30 ft., swim 90 ft."
+"damage_resistances": "acid, fire"
+"damage_immunities": "poison"
+"condition_immunities": "[exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed),\
+  \ [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned),\
+  \ [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained),\
+  \ [unconscious](/Compendium/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Primordial (Aquan)"
+"cr": "5"
+"traits":
+  - "desc": "If the elemental takes Cold damage, its [Speed](/Compendium/rules/variant-rules/speed-xphb.md)\
+      \ decreases by 20 feet until the end of its next turn."
+    "name": "Freeze"
+  - "desc": "The elemental can enter an enemy's space and stop there. It can move\
+      \ through a space as narrow as 1 inch without expending extra movement to do\
+      \ so."
+    "name": "Water Form"
+"actions":
+  - "desc": "The elemental makes two Slam attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Bludgeoning\
+      \ damage. If the target is a Medium or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Slam"
+  - "desc": "*Strength Saving Throw:* DC 15, each creature in the elemental's space.\
+      \ *Failure:* 22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller\
+      \ creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14). Until the grapple ends, the target has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning\
+      \ damage at the start of each of the elemental's turns. The elemental can grapple\
+      \ one Large creature or up to two Medium or smaller creatures at a time with\
+      \ Whelm. As an action, a creature within 5 feet of the elemental can pull a\
+      \ creature out of it by succeeding on a DC 14 Strength ([Athletics](/Compendium/rules/skills.md#Athletics))\
+      \ check. *Success:* Half damage only."
+    "name": "Whelm (Recharge 4-6)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/elemental/token/water-elemental-xmm.webp"
 ```
 ^statblock
 

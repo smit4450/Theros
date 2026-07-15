@@ -8,11 +8,13 @@ tags:
 - monster/environment/forest
 - monster/size/small
 - monster/type/plant
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Awakened Shrub"
 ---
 # Awakened Shrub
-*Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/plant/img/awakened-shrub.webp#right)
 
 Awakened shrubs can be any sort of small plant, from forest bushes to clustered flowers. They often appear near awakened trees or in regions imbued with primal magic. Some have whimsical appearances or foliage resembling rudimentary facial features, while others look like animate topiary creatures.
@@ -33,31 +35,34 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 
 ## Statblock
 
-```ad-statblock
-title: Awakened Shrub
-![](/Compendium/bestiary/plant/token/awakened-shrub-xmm.webp#token)
-*Small plant, Neutral*
-
-- **Armor Class** 9 
-- **Hit Points** 10 (`3d6`) 
-- **Speed** 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 3 (-4)| 8 (-1)|11 (+0)|10 (+0)|10 (+0)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Damage Vulnerabilities** fire
-- **Damage Resistances** piercing
-- **Languages** Common plus one other language
-- **Challenge** 0
-
-## Actions
-
-***Rake.*** *Melee Attack Roll:* `+1`, reach 5 ft. *Hit:* 1 Slashing damage.
+```statblock
+"name": "Awakened Shrub"
+"size": "Small"
+"type": "plant"
+"alignment": "Neutral"
+"ac": !!int "9"
+"hp": !!int "10"
+"hit_dice": "3d6"
+"modifier": !!int "-1"
+"stats":
+  - !!int "3"
+  - !!int "8"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "6"
+"speed": "20 ft."
+"damage_vulnerabilities": "fire"
+"damage_resistances": "piercing"
+"senses": "passive Perception 10"
+"languages": "Common plus one other language"
+"cr": "0"
+"actions":
+  - "desc": "*Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 Slashing damage."
+    "name": "Rake"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/plant/token/awakened-shrub-xmm.webp"
 ```
 ^statblock
 

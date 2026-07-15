@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/large
 - monster/type/aberration
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Green Slaad"
 ---
 # Green Slaad
-*Source: Monster Manual (2024) p. 286*  
+*Source: Monster Manual (2024) p. 286*
 ![](/Compendium/bestiary/aberration/img/green-slaad.webp#right)
 
 Green slaadi come into being when the propagation methods of red or blue slaadi affect certain creatures capable of casting spells of level 3 or higher. Green slaadi are more intelligent than their blue and red brethren and often direct their kin to portals where gray slaadi have identified Humanoid communities ripe for invasion.
@@ -43,48 +45,64 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 ## Statblock
 
-```ad-statblock
-title: Green Slaad
-![](/Compendium/bestiary/aberration/token/green-slaad-xmm.webp#token)
-*Large aberration, Chaotic Neutral*
-
-- **Armor Class** 16 
-- **Hit Points** 144 (`17d10 + 51`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|15 (+2)|16 (+3)|11 (+0)| 8 (-1)|18 (+4)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +3, [Perception](/Compendium/rules/skills.md#Perception) +2
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 12
-- **Damage Resistances** acid, cold, fire, lightning, thunder
-- **Languages** Common, Slaad; telepathy 60 ft.
-- **Challenge** 8
-
-## Traits
-
-***Magic Resistance.*** The slaad has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-***Regeneration.*** The slaad regains 10 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) at the start of each of its turns if it has at least 1 [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md).
-
-## Actions
-
-***Multiattack.*** The slaad makes three Chaos Staff attacks.
-
-***Chaos Staff.*** *Melee  or Ranged Attack Roll:* `+7`, reach 10 ft. or range 60 ft. *Hit:* 8 (`1d8 + 4`) Force damage. Until the start of the slaad's next turn, the target has a condition determined by rolling `1d4`: on a 1, [Charmed](/Compendium/rules/conditions.md#Charmed); on a 2, [Frightened](/Compendium/rules/conditions.md#Frightened); on a 3, [Poisoned](/Compendium/rules/conditions.md#Poisoned); or on a 4, [Incapacitated](/Compendium/rules/conditions.md#Incapacitated).
-
-***Spellcasting.*** The slaad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14, `+6` to hit with spell attacks):
-
-**At will:** [Detect Magic](/Compendium/spells/detect-magic-xphb.md), [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md), [Mage Hand](/Compendium/spells/mage-hand-xphb.md)
-
-**1/day each:** [Fireball](/Compendium/spells/fireball-xphb.md), [Invisibility](/Compendium/spells/invisibility-xphb.md) (self only)
-
-## Bonus Actions
-
-***Shape-Shift.*** The slaad shape-shifts into a Small or Medium Humanoid, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+```statblock
+"name": "Green Slaad"
+"size": "Large"
+"type": "aberration"
+"alignment": "Chaotic Neutral"
+"ac": !!int "16"
+"hp": !!int "144"
+"hit_dice": "17d10 + 51"
+"modifier": !!int "5"
+"stats":
+  - !!int "16"
+  - !!int "15"
+  - !!int "16"
+  - !!int "11"
+  - !!int "8"
+  - !!int "18"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+3"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
+"damage_resistances": "acid, cold, fire, lightning, thunder"
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 12"
+"languages": "Common, Slaad; telepathy 60 ft."
+"cr": "8"
+"traits":
+  - "desc": "The slaad has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The slaad regains 10 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ at the start of each of its turns if it has at least 1 [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md)."
+    "name": "Regeneration"
+"actions":
+  - "desc": "The slaad makes three Chaos Staff attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 10 ft. or range 60 ft. *Hit:*\
+      \ 8 (1d8 + 4) Force damage. Until the start of the slaad's next turn, the target\
+      \ has a condition determined by rolling 1d4: on a 1, [Charmed](/Compendium/rules/conditions.md#Charmed);\
+      \ on a 2, [Frightened](/Compendium/rules/conditions.md#Frightened); on a 3,\
+      \ [Poisoned](/Compendium/rules/conditions.md#Poisoned); or on a 4, [Incapacitated](/Compendium/rules/conditions.md#Incapacitated)."
+    "name": "Chaos Staff"
+  - "desc": "The slaad casts one of the following spells, requiring no Material components\
+      \ and using Charisma as the spellcasting ability (spell save DC 14, +6 to hit\
+      \ with spell attacks):\n\n**At will:** [Detect Magic](/Compendium/spells/detect-magic-xphb.md),\
+      \ [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md), [Mage Hand](/Compendium/spells/mage-hand-xphb.md)\n\
+      \n**1/day each:** [Fireball](/Compendium/spells/fireball-xphb.md), [Invisibility](/Compendium/spells/invisibility-xphb.md)\
+      \ (self only)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The slaad shape-shifts into a Small or Medium Humanoid, or it returns\
+      \ to its true form. Other than its size, its game statistics are the same in\
+      \ each form. Any equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/aberration/token/green-slaad-xmm.webp"
 ```
 ^statblock
 

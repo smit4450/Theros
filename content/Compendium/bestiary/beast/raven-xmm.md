@@ -10,11 +10,13 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Raven"
 ---
 # Raven
-*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/raven.webp#right)
 
 ## Animals
@@ -26,33 +28,41 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Raven
-![](/Compendium/bestiary/beast/token/raven-xmm.webp#token)
-*Tiny beast, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** 2 (`1d4`) 
-- **Speed** 10 ft., fly 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 2 (-4)|14 (+2)|10 (+0)| 5 (-3)|13 (+1)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3
-- **Senses** passive Perception 13
-- **Languages** —
-- **Challenge** 0
-
-## Traits
-
-***Mimicry.*** The raven can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful DC 10 Wisdom ([Insight](/Compendium/rules/skills.md#Insight)) check.
-
-## Actions
-
-***Beak.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 1 Piercing damage.
+```statblock
+"name": "Raven"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "2"
+"hit_dice": "1d4"
+"modifier": !!int "2"
+"stats":
+  - !!int "2"
+  - !!int "14"
+  - !!int "10"
+  - !!int "5"
+  - !!int "13"
+  - !!int "6"
+"speed": "10 ft., fly 50 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+"senses": "passive Perception 13"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The raven can mimic simple sounds it has heard, such as a whisper or\
+      \ chitter. A hearer can discern the sounds are imitations with a successful\
+      \ DC 10 Wisdom ([Insight](/Compendium/rules/skills.md#Insight)) check."
+    "name": "Mimicry"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+    "name": "Beak"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/beast/token/raven-xmm.webp"
 ```
 ^statblock
 

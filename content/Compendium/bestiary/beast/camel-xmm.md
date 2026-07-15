@@ -8,11 +8,13 @@ tags:
 - monster/environment/desert
 - monster/size/large
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Camel"
 ---
 # Camel
-*Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/camel.webp#right)
 
 ## Animals
@@ -24,29 +26,36 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Camel
-![](/Compendium/bestiary/beast/token/camel-xmm.webp#token)
-*Large beast, Unaligned*
-
-- **Armor Class** 10 
-- **Hit Points** 17 (`2d10 + 6`) 
-- **Speed** 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)| 8 (-1)|17 (+3)| 2 (-4)|11 (+0)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Constitution +5
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Languages** —
-- **Challenge** 1/8
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 4 (`1d4 + 2`) Bludgeoning damage.
+```statblock
+"name": "Camel"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "10"
+"hp": !!int "17"
+"hit_dice": "2d10 + 6"
+"modifier": !!int "-1"
+"stats":
+  - !!int "15"
+  - !!int "8"
+  - !!int "17"
+  - !!int "2"
+  - !!int "11"
+  - !!int "5"
+"speed": "50 ft."
+"saves":
+  - "constitution": !!int "5"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": ""
+"cr": "1/8"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Bludgeoning damage."
+    "name": "Bite"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/beast/token/camel-xmm.webp"
 ```
 ^statblock
 

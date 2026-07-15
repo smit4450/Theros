@@ -10,11 +10,13 @@ tags:
 - monster/environment/hill
 - monster/size/huge
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Giant Axe Beak"
 ---
 # Giant Axe Beak
-*Source: Monster Manual (2024) p. 24*  
+*Source: Monster Manual (2024) p. 24*
 ![](/Compendium/bestiary/monstrosity/img/axe-beak.webp#right)
 
 Giant axe beaks typically dwell in secluded, primeval realms, such as isolated islands or underground wildernesses. They often compete with dinosaurs and other giant beasts for territory.
@@ -37,33 +39,43 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 
 ## Statblock
 
-```ad-statblock
-title: Giant Axe Beak
-![](/Compendium/bestiary/monstrosity/token/giant-axe-beak-xmm.webp#token)
-*Huge monstrosity, Unaligned*
-
-- **Armor Class** 15 
-- **Hit Points** 84 (`8d12 + 32`) 
-- **Speed** 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|21 (+5)|14 (+2)|19 (+4)| 3 (-4)|12 (+1)| 5 (-3)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +4
-- **Senses** passive Perception 14
-- **Languages** —
-- **Challenge** 5
-
-## Actions
-
-***Multiattack.*** The axe beak makes one Sharpened Beak attack and one Talons attack.
-
-***Sharpened Beak.*** *Melee Attack Roll:* `+8`, reach 10 ft. *Hit:* 18 (`2d12 + 5`) Slashing damage, and a creature within 5 feet of the target (axe beak's choice) takes 6 (`1d12`) Slashing damage.
-
-***Talons.*** *Melee Attack Roll:* `+8`, reach 5 ft. *Hit:* 14 (`2d8 + 5`) Piercing damage. If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
+```statblock
+"name": "Giant Axe Beak"
+"size": "Huge"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "15"
+"hp": !!int "84"
+"hit_dice": "8d12 + 32"
+"modifier": !!int "5"
+"stats":
+  - !!int "21"
+  - !!int "14"
+  - !!int "19"
+  - !!int "3"
+  - !!int "12"
+  - !!int "5"
+"speed": "50 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+"senses": "passive Perception 14"
+"languages": ""
+"cr": "5"
+"actions":
+  - "desc": "The axe beak makes one Sharpened Beak attack and one Talons attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 18 (2d12 + 5) Slashing damage,\
+      \ and a creature within 5 feet of the target (axe beak's choice) takes 6 (1d12)\
+      \ Slashing damage."
+    "name": "Sharpened Beak"
+  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing damage.\
+      \ If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Talons"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/giant-axe-beak-xmm.webp"
 ```
 ^statblock
 

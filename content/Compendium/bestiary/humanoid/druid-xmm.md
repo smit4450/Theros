@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Druid"
 ---
 # Druid
-*Source: Monster Manual (2024) p. 106. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 106. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/humanoid/img/druid.webp#right)
 
 ## Druid
@@ -36,42 +38,54 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 | 6 | A warden who minds the underpinnings of reality and protects against extraplanar threats. |
 ^druid-traditions
 
-```ad-statblock
-title: Druid
-![](/Compendium/bestiary/humanoid/token/druid-xmm.webp#token)
-*Small or Medium humanoid, Neutral*
-
-- **Armor Class** 13 
-- **Hit Points** 44 (`8d8 + 8`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|12 (+1)|13 (+1)|12 (+1)|16 (+3)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Medicine](/Compendium/rules/skills.md#Medicine) +5, [Nature](/Compendium/rules/skills.md#Nature) +3, [Perception](/Compendium/rules/skills.md#Perception) +5
-- **Senses** passive Perception 15
-- **Gear** [studded leather armor](/Compendium/items/studded-leather-armor-xphb.md)
-- **Languages** Common, Druidic, Sylvan
-- **Challenge** 2
-
-## Actions
-
-***Multiattack.*** The druid makes two attacks, using Vine Staff or Verdant Wisp in any combination.
-
-***Vine Staff.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Bludgeoning damage plus 2 (`1d4`) Poison damage.
-
-***Verdant Wisp.*** *Ranged Attack Roll:* `+5`, range 90 ft. *Hit:* 10 (`3d6`) Radiant damage.
-
-***Spellcasting.*** The druid casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
-
-**At will:** [Druidcraft](/Compendium/spells/druidcraft-xphb.md), [Speak with Animals](/Compendium/spells/speak-with-animals-xphb.md)
-
-**2/day each:** [Entangle](/Compendium/spells/entangle-xphb.md), [Thunderwave](/Compendium/spells/thunderwave-xphb.md)
-
-**1/day each:** [Animal Messenger](/Compendium/spells/animal-messenger-xphb.md), [Longstrider](/Compendium/spells/longstrider-xphb.md), [Moonbeam](/Compendium/spells/moonbeam-xphb.md)
+```statblock
+"name": "Druid"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "13"
+"hp": !!int "44"
+"hit_dice": "8d8 + 8"
+"modifier": !!int "1"
+"stats":
+  - !!int "10"
+  - !!int "12"
+  - !!int "13"
+  - !!int "12"
+  - !!int "16"
+  - !!int "11"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Medicine](/Compendium/rules/skills.md#Medicine)"
+    "desc": "+5"
+  - "name": "[Nature](/Compendium/rules/skills.md#Nature)"
+    "desc": "+3"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+"gear":
+  - "[studded leather armor](/Compendium/items/studded-leather-armor-xphb.md)"
+"senses": "passive Perception 15"
+"languages": "Common, Druidic, Sylvan"
+"cr": "2"
+"actions":
+  - "desc": "The druid makes two attacks, using Vine Staff or Verdant Wisp in any\
+      \ combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage\
+      \ plus 2 (1d4) Poison damage."
+    "name": "Vine Staff"
+  - "desc": "*Ranged Attack Roll:* +5, range 90 ft. *Hit:* 10 (3d6) Radiant damage."
+    "name": "Verdant Wisp"
+  - "desc": "The druid casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 13):\n\n**At will:** [Druidcraft](/Compendium/spells/druidcraft-xphb.md),\
+      \ [Speak with Animals](/Compendium/spells/speak-with-animals-xphb.md)\n\n**2/day\
+      \ each:** [Entangle](/Compendium/spells/entangle-xphb.md), [Thunderwave](/Compendium/spells/thunderwave-xphb.md)\n\
+      \n**1/day each:** [Animal Messenger](/Compendium/spells/animal-messenger-xphb.md),\
+      \ [Longstrider](/Compendium/spells/longstrider-xphb.md), [Moonbeam](/Compendium/spells/moonbeam-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/druid-xmm.webp"
 ```
 ^statblock
 

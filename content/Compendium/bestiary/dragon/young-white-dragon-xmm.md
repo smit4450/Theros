@@ -8,11 +8,13 @@ tags:
 - monster/environment/arctic
 - monster/size/large
 - monster/type/dragon/chromatic
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Young White Dragon"
 ---
 # Young White Dragon
-*Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/dragon/img/white-dragon.webp#right)
 
 Young white dragons defend their hunting grounds from rivals. In some cases, kobolds and groups of humanoids might offer food and treasure to young white dragons, attempting to keep the dragons satiated and less likely to prey on their communities.
@@ -34,38 +36,54 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 
 ## Statblock
 
-```ad-statblock
-title: Young White Dragon
-![](/Compendium/bestiary/dragon/token/young-white-dragon-xmm.webp#token)
-*Large dragon (chromatic), Chaotic Evil*
-
-- **Armor Class** 17 
-- **Hit Points** 123 (`13d10 + 52`) 
-- **Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|10 (+0)|18 (+4)| 6 (-2)|11 (+0)|12 (+1)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +3, Wisdom +3
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +6, [Stealth](/Compendium/rules/skills.md#Stealth) +3
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 16
-- **Damage Immunities** cold
-- **Languages** Common, Draconic
-- **Challenge** 6
-
-## Traits
-
-***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md) composed of ice or snow doesn't cost it extra movement.
-
-## Actions
-
-***Multiattack.*** The dragon makes three Rend attacks.
-
-***Rend.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 9 (`2d4 + 4`) Slashing damage plus 2 (`1d4`) Cold damage.
-
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw:* DC 15, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* 40 (`9d8`) Cold damage. *Success:* Half damage.
+```statblock
+"name": "Young White Dragon"
+"size": "Large"
+"type": "dragon"
+"subtype": "chromatic"
+"alignment": "Chaotic Evil"
+"ac": !!int "17"
+"hp": !!int "123"
+"hit_dice": "13d10 + 52"
+"modifier": !!int "3"
+"stats":
+  - !!int "18"
+  - !!int "10"
+  - !!int "18"
+  - !!int "6"
+  - !!int "11"
+  - !!int "12"
+"speed": "40 ft., burrow 20 ft., fly 80 ft., swim 40 ft."
+"saves":
+  - "dexterity": !!int "3"
+  - "wisdom": !!int "3"
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+3"
+"damage_immunities": "cold"
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 16"
+"languages": "Common, Draconic"
+"cr": "6"
+"traits":
+  - "desc": "The dragon can move across and climb icy surfaces without needing to\
+      \ make an ability check. Additionally, [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md)\
+      \ composed of ice or snow doesn't cost it extra movement."
+    "name": "Ice Walk"
+"actions":
+  - "desc": "The dragon makes three Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 9 (2d4 + 4) Slashing damage\
+      \ plus 2 (1d4) Cold damage."
+    "name": "Rend"
+  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 40 (9d8) Cold damage. *Success:* Half damage."
+    "name": "Cold Breath (Recharge 5-6)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/dragon/token/young-white-dragon-xmm.webp"
 ```
 ^statblock
 

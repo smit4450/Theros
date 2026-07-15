@@ -10,11 +10,13 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Brown Bear"
 ---
 # Brown Bear
-*Source: Monster Manual (2024) p. 350, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 350, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/brown-bear.webp#right)
 
 ## Animals
@@ -26,33 +28,43 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Brown Bear
-![](/Compendium/bestiary/beast/token/brown-bear-xmm.webp#token)
-*Large beast, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** 22 (`3d10 + 6`) 
-- **Speed** 40 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|12 (+1)|15 (+2)| 2 (-4)|13 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 13
-- **Languages** —
-- **Challenge** 1
-
-## Actions
-
-***Multiattack.*** The bear makes one Bite attack and one Claw attack.
-
-***Bite.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Piercing damage.
-
-***Claw.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 5 (`1d4 + 3`) Slashing damage. If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
+```statblock
+"name": "Brown Bear"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "22"
+"hit_dice": "3d10 + 6"
+"modifier": !!int "1"
+"stats":
+  - !!int "17"
+  - !!int "12"
+  - !!int "15"
+  - !!int "2"
+  - !!int "13"
+  - !!int "7"
+"speed": "40 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 13"
+"languages": ""
+"cr": "1"
+"actions":
+  - "desc": "The bear makes one Bite attack and one Claw attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage."
+    "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Slashing damage.\
+      \ If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Claw"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/beast/token/brown-bear-xmm.webp"
 ```
 ^statblock
 

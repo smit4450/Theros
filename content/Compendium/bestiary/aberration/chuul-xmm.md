@@ -10,11 +10,13 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/aberration
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Chuul"
 ---
 # Chuul
-*Source: Monster Manual (2024) p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/aberration/img/chuul.webp#right)
 
 ## Chuul
@@ -30,41 +32,56 @@ Many chuuls serve aboleth overlords, carrying out their whims amid lightless sea
 
 Chuuls don't age and can lie dormant in hidden places for millennia before threats, ancient orders, or strange compulsions awaken them.
 
-```ad-statblock
-title: Chuul
-![](/Compendium/bestiary/aberration/token/chuul-xmm.webp#token)
-*Large aberration, Chaotic Evil*
-
-- **Armor Class** 16 
-- **Hit Points** 76 (`9d10 + 27`) 
-- **Speed** 30 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|10 (+0)|16 (+3)| 5 (-3)|11 (+0)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +4
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Damage Immunities** poison
-- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** understands Deep Speech but can't speak
-- **Challenge** 4
-
-## Traits
-
-***Amphibious.*** The chuul can breathe air and water.
-
-***Sense Magic.*** The chuul senses magic within 120 feet of itself. This trait otherwise works like the [Detect Magic](/Compendium/spells/detect-magic-xphb.md) spell but isn't itself magical.
-
-## Actions
-
-***Multiattack.*** The chuul makes two Pincer attacks and uses Paralyzing Tentacles.
-
-***Pincer.*** *Melee Attack Roll:* `+6`, reach 10 ft. *Hit:* 9 (`1d10 + 4`) Bludgeoning damage. If the target is a Large or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 14) from one of two pincers.
-
-***Paralyzing Tentacles.*** *Constitution Saving Throw:* DC 13, one creature [Grappled](/Compendium/rules/conditions.md#Grappled) by the chuul. *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. While [Poisoned](/Compendium/rules/conditions.md#Poisoned), the target has the [Paralyzed](/Compendium/rules/conditions.md#Paralyzed) condition.
+```statblock
+"name": "Chuul"
+"size": "Large"
+"type": "aberration"
+"alignment": "Chaotic Evil"
+"ac": !!int "16"
+"hp": !!int "76"
+"hit_dice": "9d10 + 27"
+"modifier": !!int "0"
+"stats":
+  - !!int "19"
+  - !!int "10"
+  - !!int "16"
+  - !!int "5"
+  - !!int "11"
+  - !!int "5"
+"speed": "30 ft., swim 30 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
+"languages": "understands Deep Speech but can't speak"
+"cr": "4"
+"traits":
+  - "desc": "The chuul can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "The chuul senses magic within 120 feet of itself. This trait otherwise\
+      \ works like the [Detect Magic](/Compendium/spells/detect-magic-xphb.md) spell\
+      \ but isn't itself magical."
+    "name": "Sense Magic"
+"actions":
+  - "desc": "The chuul makes two Pincer attacks and uses Paralyzing Tentacles."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 9 (1d10 + 4) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14) from one of two pincers."
+    "name": "Pincer"
+  - "desc": "*Constitution Saving Throw:* DC 13, one creature [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ by the chuul. *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned)\
+      \ condition and repeats the save at the end of each of its turns, ending the\
+      \ effect on itself on a success. After 1 minute, it succeeds automatically.\
+      \ While [Poisoned](/Compendium/rules/conditions.md#Poisoned), the target has\
+      \ the [Paralyzed](/Compendium/rules/conditions.md#Paralyzed) condition."
+    "name": "Paralyzing Tentacles"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/aberration/token/chuul-xmm.webp"
 ```
 ^statblock
 

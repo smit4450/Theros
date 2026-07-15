@@ -11,11 +11,13 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Skeleton"
 ---
 # Skeleton
-*Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![Adventurers face an onslaught from all manner of skeletons](/Compendium/bestiary/undead/img/skeletons.webp#right)
 
 Skeletons are reanimated Humanoid bones bearing the equipment they had in life. They have rudimentary faculties and greater agility than zombies and similar shambling corpses. While they aren't capable of creating plans of their own, they avoid obvious barriers and self-destructive situations.
@@ -43,35 +45,44 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 
 ## Statblock
 
-```ad-statblock
-title: Skeleton
-![](/Compendium/bestiary/undead/token/skeleton-xmm.webp#token)
-*Medium undead, Lawful Evil*
-
-- **Armor Class** 14 
-- **Hit Points** 13 (`2d8 + 4`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|16 (+3)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Damage Vulnerabilities** bludgeoning
-- **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Gear** [shortbow](/Compendium/items/shortbow-xphb.md), [shortsword](/Compendium/items/shortsword-xphb.md)
-- **Languages** understands Common plus one other language but can't speak
-- **Challenge** 1/4
-
-## Actions
-
-***Shortsword.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Piercing damage.
-
-***Shortbow.*** *Ranged Attack Roll:* `+5`, range 80/320 ft. *Hit:* 6 (`1d6 + 3`) Piercing damage.
+```statblock
+"name": "Skeleton"
+"size": "Medium"
+"type": "undead"
+"alignment": "Lawful Evil"
+"ac": !!int "14"
+"hp": !!int "13"
+"hit_dice": "2d8 + 4"
+"modifier": !!int "3"
+"stats":
+  - !!int "10"
+  - !!int "16"
+  - !!int "15"
+  - !!int "6"
+  - !!int "8"
+  - !!int "5"
+"speed": "30 ft."
+"damage_vulnerabilities": "bludgeoning"
+"damage_immunities": "poison"
+"condition_immunities": "[exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"gear":
+  - "[shortbow](/Compendium/items/shortbow-xphb.md)"
+  - "[shortsword](/Compendium/items/shortsword-xphb.md)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
+"languages": "understands Common plus one other language but can't speak"
+"cr": "1/4"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage."
+    "name": "Shortsword"
+  - "desc": "*Ranged Attack Roll:* +5, range 80/320 ft. *Hit:* 6 (1d6 + 3) Piercing\
+      \ damage."
+    "name": "Shortbow"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/undead/token/skeleton-xmm.webp"
 ```
 ^statblock
 

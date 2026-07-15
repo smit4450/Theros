@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Aberrant Cultist"
 ---
 # Aberrant Cultist
-*Source: Monster Manual (2024) p. 86*  
+*Source: Monster Manual (2024) p. 86*
 ![](/Compendium/bestiary/humanoid/img/aberrant-cultist.webp#right)
 
 Aberrant cultists pursue mind-bending powers from alien forces. Aberrant cultists align with monsters such as aboleths and mind flayers or forces such as Cthulhu, Hadar, Ityak-Ortheel the Elf Eater, Nyarlathotep, malicious solar bodies, or entities from the Far Realm.
@@ -77,42 +79,64 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 
 ## Statblock
 
-```ad-statblock
-title: Aberrant Cultist
-![](/Compendium/bestiary/humanoid/token/aberrant-cultist-xmm.webp#token)
-*Small or Medium humanoid, Neutral Evil*
-
-- **Armor Class** 14 
-- **Hit Points** 137 (`25d8 + 25`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|19 (+4)|12 (+1)|16 (+3)|18 (+4)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Intelligence +6, Wisdom +7
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +6, [Perception](/Compendium/rules/skills.md#Perception) +7, [Religion](/Compendium/rules/skills.md#Religion) +6
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 90 ft., passive Perception 17
-- **Languages** Common, Deep Speech; telepathy 30 ft.
-- **Challenge** 8
-
-## Actions
-
-***Multiattack.*** The cultist makes two Tentacle Lash attacks. It can replace any attack with a use of Mind Rot.
-
-***Tentacle Lash.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 7 (`1d6 + 4`) Slashing damage plus 14 (`4d6`) Psychic damage. If the target is a Large or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 14) from one of two tentacles, and it has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition until the grapple ends.
-
-***Mind Rot.*** *Wisdom Saving Throw:* DC 15, one creature the cultist can see within 90 feet. *Failure:* 27 (`6d8`) Psychic damage, and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the start of the cultist's next turn. *Success:* Half damage only.
-
-***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 15):
-
-**At will:** [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md)
-
-## Reactions
-
-***Counterspell (2/Day).*** The cultist casts [Counterspell](/Compendium/spells/counterspell-xphb.md) in response to that spell's trigger, using the same spellcasting ability as Spellcasting.
-
+```statblock
+"name": "Aberrant Cultist"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral Evil"
+"ac": !!int "14"
+"hp": !!int "137"
+"hit_dice": "25d8 + 25"
+"modifier": !!int "7"
+"stats":
+  - !!int "10"
+  - !!int "19"
+  - !!int "12"
+  - !!int "16"
+  - !!int "18"
+  - !!int "15"
+"speed": "30 ft."
+"saves":
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "7"
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+6"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Religion](/Compendium/rules/skills.md#Religion)"
+    "desc": "+6"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 90 ft., passive Perception\
+  \ 17"
+"languages": "Common, Deep Speech; telepathy 30 ft."
+"cr": "8"
+"actions":
+  - "desc": "The cultist makes two Tentacle Lash attacks. It can replace any attack\
+      \ with a use of Mind Rot."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 7 (1d6 + 4) Slashing damage\
+      \ plus 14 (4d6) Psychic damage. If the target is a Large or smaller creature,\
+      \ it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition\
+      \ (escape DC 14) from one of two tentacles, and it has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition until the grapple ends."
+    "name": "Tentacle Lash"
+  - "desc": "*Wisdom Saving Throw:* DC 15, one creature the cultist can see within\
+      \ 90 feet. *Failure:* 27 (6d8) Psychic damage, and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the start of the cultist's next turn. *Success:* Half damage\
+      \ only."
+    "name": "Mind Rot"
+  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 15):\n\n**At will:** [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md),\
+      \ [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md)"
+    "name": "Spellcasting"
+"reactions":
+  - "desc": "The cultist casts [Counterspell](/Compendium/spells/counterspell-xphb.md)\
+      \ in response to that spell's trigger, using the same spellcasting ability as\
+      \ Spellcasting.\n"
+    "name": "Counterspell (2/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/aberrant-cultist-xmm.webp"
 ```
 ^statblock
 

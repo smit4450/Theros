@@ -11,11 +11,13 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Yuan-ti Abomination"
 ---
 # Yuan-ti Abomination
-*Source: Monster Manual (2024) p. 345*  
+*Source: Monster Manual (2024) p. 345*
 ![](/Compendium/bestiary/monstrosity/img/yuan-ti-abomination.webp#right)
 
 Yuan-ti abominations have traded away nearly all evidence of their humanity, coming to resemble giant, upright serpents with scaly arms and hands. In battle, they relish opportunities to crush foes in their powerful coils or strike with their venomous fangs. These abominations can also shape-shift into snakes. In these forms, abominations are indistinguishable from normal serpents.
@@ -56,51 +58,70 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 
 ## Statblock
 
-```ad-statblock
-title: Yuan-ti Abomination
-![](/Compendium/bestiary/monstrosity/token/yuan-ti-abomination-xmm.webp#token)
-*Large monstrosity, Neutral Evil*
-
-- **Armor Class** 15 
-- **Hit Points** 127 (`15d10 + 45`) 
-- **Speed** 40 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|16 (+3)|17 (+3)|17 (+3)|18 (+4)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +7, [Stealth](/Compendium/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 17
-- **Damage Immunities** poison
-- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Abyssal, Common, Draconic
-- **Challenge** 7
-
-## Traits
-
-***Magic Resistance.*** The yuan-ti has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The yuan-ti makes two Bite attacks, and it can use Spellcasting to cast [Suggestion](/Compendium/spells/suggestion-xphb.md) if available.
-
-***Bite.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 11 (`2d6 + 4`) Piercing damage plus 10 (`3d6`) Poison damage.
-
-***Constrict.*** *Strength Saving Throw:* DC 15, one Large or smaller creature within 5 feet. *Failure:* 28 (`7d6 + 4`) Bludgeoning damage. The target has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 14), and it has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition until the grapple ends. *Success:* Half damage only.
-
-***Poison Spray (Recharge 5-6).*** *Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* 21 (`6d6`) Poison damage, and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the end of the yuan-ti's next turn. While [Poisoned](/Compendium/rules/conditions.md#Poisoned), the target has the [Blinded](/Compendium/rules/conditions.md#Blinded) condition. *Success:* Half damage only.
-
-***Spellcasting (Yuan-ti Form Only).*** The yuan-ti casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 15):
-
-**At will:** [Animal Friendship](/Compendium/spells/animal-friendship-xphb.md) (snakes only)
-
-**3/day:** [Suggestion](/Compendium/spells/suggestion-xphb.md)
-
-## Bonus Actions
-
-***Shape-Shift.*** The yuan-ti shape-shifts into a Large snake or returns to its true form. If it dies, it stays in its current form. The yuan-ti's game statistics are the same in each form, except where noted. Any equipment it is wearing or carrying isn't transformed.
+```statblock
+"name": "Yuan-ti Abomination"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Neutral Evil"
+"ac": !!int "15"
+"hp": !!int "127"
+"hit_dice": "15d10 + 45"
+"modifier": !!int "6"
+"stats":
+  - !!int "19"
+  - !!int "16"
+  - !!int "17"
+  - !!int "17"
+  - !!int "18"
+  - !!int "15"
+"speed": "40 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 17"
+"languages": "Abyssal, Common, Draconic"
+"cr": "7"
+"traits":
+  - "desc": "The yuan-ti has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The yuan-ti makes two Bite attacks, and it can use Spellcasting to cast\
+      \ [Suggestion](/Compendium/spells/suggestion-xphb.md) if available."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing damage\
+      \ plus 10 (3d6) Poison damage."
+    "name": "Bite"
+  - "desc": "*Strength Saving Throw:* DC 15, one Large or smaller creature within\
+      \ 5 feet. *Failure:* 28 (7d6 + 4) Bludgeoning damage. The target has the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14), and it has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition until the grapple ends. *Success:* Half damage only."
+    "name": "Constrict"
+  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 21 (6d6) Poison damage, and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the end of the yuan-ti's next turn. While [Poisoned](/Compendium/rules/conditions.md#Poisoned),\
+      \ the target has the [Blinded](/Compendium/rules/conditions.md#Blinded) condition.\
+      \ *Success:* Half damage only."
+    "name": "Poison Spray (Recharge 5-6)"
+  - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
+      \n**At will:** [Animal Friendship](/Compendium/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n**3/day:** [Suggestion](/Compendium/spells/suggestion-xphb.md)"
+    "name": "Spellcasting (Yuan-ti Form Only)"
+"bonus_actions":
+  - "desc": "The yuan-ti shape-shifts into a Large snake or returns to its true form.\
+      \ If it dies, it stays in its current form. The yuan-ti's game statistics are\
+      \ the same in each form, except where noted. Any equipment it is wearing or\
+      \ carrying isn't transformed."
+    "name": "Shape-Shift"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/yuan-ti-abomination-xmm.webp"
 ```
 ^statblock
 

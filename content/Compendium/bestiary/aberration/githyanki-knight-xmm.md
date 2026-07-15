@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/medium
 - monster/type/aberration/gith
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Githyanki Knight"
 ---
 # Githyanki Knight
-*Source: Monster Manual (2024) p. 135*  
+*Source: Monster Manual (2024) p. 135*
 ![](/Compendium/bestiary/aberration/img/githyanki.webp#right)
 
 Githyanki knights wield silver blades to slay magic-users who use the [Astral Projection](/Compendium/spells/astral-projection-xphb.md) spell to intrude on githyanki territories on the Astral Plane. These silver blades are sacred to the githyanki. Non-githyanki who claim these weapons often find themselves hunted by wrathful githyanki knights.
@@ -37,45 +39,58 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
 
 ## Statblock
 
-```ad-statblock
-title: Githyanki Knight
-![](/Compendium/bestiary/aberration/token/githyanki-knight-xmm.webp#token)
-*Medium aberration (gith), Lawful Evil*
-
-- **Armor Class** 18 
-- **Hit Points** 117 (`18d8 + 36`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|14 (+2)|15 (+2)|14 (+2)|14 (+2)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Constitution +5, Intelligence +5, Wisdom +5
-- **Skills** ⏤
-- **Senses** passive Perception 12
-- **Gear** [plate armor](/Compendium/items/plate-armor-xphb.md)
-- **Languages** Common, Gith
-- **Challenge** 8
-
-## Actions
-
-***Multiattack.*** The githyanki makes three Silver Sword attacks. It can replace one attack with a use of Spellcasting to cast [Telekinesis](/Compendium/spells/telekinesis-xphb.md) if available.
-
-***Silver Sword.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 10 (`2d6 + 3`) Slashing damage plus 14 (`4d6`) Psychic damage. Critical *Hit:* If the target is in an astral body (as with the [Astral Projection](/Compendium/spells/astral-projection-xphb.md) spell), the githyanki can cut the silvery cord that tethers the target to its material body instead of dealing damage.
-
-***Spellcasting.*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13):
-
-**At will:** [Mage Hand](/Compendium/spells/mage-hand-xphb.md) (the hand is Invisible)
-
-**2/day each:** [Nondetection](/Compendium/spells/nondetection-xphb.md) (self only), [Tongues](/Compendium/spells/tongues-xphb.md)
-
-**1/day each:** [Plane Shift](/Compendium/spells/plane-shift-xphb.md), [Telekinesis](/Compendium/spells/telekinesis-xphb.md)
-
-## Bonus Actions
-
-***Misty Step (2/Day).*** The githyanki casts [Misty Step](/Compendium/spells/misty-step-xphb.md), requiring no spell components and using the same spellcasting ability as Spellcasting.
-
+```statblock
+"name": "Githyanki Knight"
+"size": "Medium"
+"type": "aberration"
+"subtype": "gith"
+"alignment": "Lawful Evil"
+"ac": !!int "18"
+"hp": !!int "117"
+"hit_dice": "18d8 + 36"
+"modifier": !!int "5"
+"stats":
+  - !!int "16"
+  - !!int "14"
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "15"
+"speed": "30 ft."
+"saves":
+  - "constitution": !!int "5"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "5"
+"gear":
+  - "[plate armor](/Compendium/items/plate-armor-xphb.md)"
+"senses": "passive Perception 12"
+"languages": "Common, Gith"
+"cr": "8"
+"actions":
+  - "desc": "The githyanki makes three Silver Sword attacks. It can replace one attack\
+      \ with a use of Spellcasting to cast [Telekinesis](/Compendium/spells/telekinesis-xphb.md)\
+      \ if available."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing damage\
+      \ plus 14 (4d6) Psychic damage. Critical *Hit:* If the target is in an astral\
+      \ body (as with the [Astral Projection](/Compendium/spells/astral-projection-xphb.md)\
+      \ spell), the githyanki can cut the silvery cord that tethers the target to\
+      \ its material body instead of dealing damage."
+    "name": "Silver Sword"
+  - "desc": "The githyanki casts one of the following spells, requiring no spell components\
+      \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
+      **At will:** [Mage Hand](/Compendium/spells/mage-hand-xphb.md) (the hand is\
+      \ Invisible)\n\n**2/day each:** [Nondetection](/Compendium/spells/nondetection-xphb.md)\
+      \ (self only), [Tongues](/Compendium/spells/tongues-xphb.md)\n\n**1/day each:**\
+      \ [Plane Shift](/Compendium/spells/plane-shift-xphb.md), [Telekinesis](/Compendium/spells/telekinesis-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The githyanki casts [Misty Step](/Compendium/spells/misty-step-xphb.md),\
+      \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
+    "name": "Misty Step (2/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/aberration/token/githyanki-knight-xmm.webp"
 ```
 ^statblock
 

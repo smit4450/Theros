@@ -8,11 +8,13 @@ tags:
 - monster/environment/underdark
 - monster/size/tiny
 - monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Flameskull"
 ---
 # Flameskull
-*Source: Monster Manual (2024) p. 120*  
+*Source: Monster Manual (2024) p. 120*
 ![](/Compendium/bestiary/undead/img/flameskull.webp#right)
 
 ## Flameskull
@@ -43,49 +45,64 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 > I never cared for warmth. I never needed a body. My will is enough, and my work will be the legacy that makes my every sacrifice worthwhile!
 
 
-```ad-statblock
-title: Flameskull
-![](/Compendium/bestiary/undead/token/flameskull-xmm.webp#token)
-*Tiny undead, Neutral Evil*
-
-- **Armor Class** 13 
-- **Hit Points** 40 (`9d4 + 18`) 
-- **Speed** 5 ft., fly 40 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 (-5)|17 (+3)|14 (+2)|16 (+3)|10 (+0)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +5, [Perception](/Compendium/rules/skills.md#Perception) +2
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 12
-- **Damage Immunities** fire, necrotic, poison
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone)
-- **Languages** Common plus two other languages
-- **Challenge** 4
-
-## Traits
-
-***Illumination.*** The flameskull sheds [Bright Light](/Compendium/rules/variant-rules/bright-light-xphb.md) in a 15-foot radius and [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 15 feet.
-
-***Magic Resistance.*** The flameskull has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-***Undead Restoration.*** If the flameskull is destroyed, it regains all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) in 1 hour unless [Holy Water](/Compendium/items/holy-water-xphb.md) is sprinkled on its remains or the [Dispel Evil and Good](/Compendium/spells/dispel-evil-and-good-xphb.md) spell is cast on them.
-
-## Actions
-
-***Multiattack.*** The flameskull makes two Fire Ray attacks.
-
-***Fire Ray.*** *Melee  or Ranged Attack Roll:* `+5`, reach 5 ft. or range 60 ft. *Hit:* 13 (`3d6 + 3`) Fire damage.
-
-***Spellcasting.*** The flameskull casts one of the following spells, requiring no Somatic or Material components and using Intelligence as the spellcasting ability (spell save DC 13):
-
-**At will:** [Mage Hand](/Compendium/spells/mage-hand-xphb.md)
-
-**2/day:** [Magic Missile](/Compendium/spells/magic-missile-xphb.md) (level 2 version)
-
-**1/day:** [Fireball](/Compendium/spells/fireball-xphb.md)
+```statblock
+"name": "Flameskull"
+"size": "Tiny"
+"type": "undead"
+"alignment": "Neutral Evil"
+"ac": !!int "13"
+"hp": !!int "40"
+"hit_dice": "9d4 + 18"
+"modifier": !!int "3"
+"stats":
+  - !!int "1"
+  - !!int "17"
+  - !!int "14"
+  - !!int "16"
+  - !!int "10"
+  - !!int "11"
+"speed": "5 ft., fly 40 ft. (hover)"
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
+"damage_immunities": "fire, necrotic, poison"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [frightened](/Compendium/rules/conditions.md#Frightened), [paralyzed](/Compendium/rules/conditions.md#Paralyzed),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
+"languages": "Common plus two other languages"
+"cr": "4"
+"traits":
+  - "desc": "The flameskull sheds [Bright Light](/Compendium/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 15-foot radius and [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ for an additional 15 feet."
+    "name": "Illumination"
+  - "desc": "The flameskull has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "If the flameskull is destroyed, it regains all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ in 1 hour unless [Holy Water](/Compendium/items/holy-water-xphb.md) is sprinkled\
+      \ on its remains or the [Dispel Evil and Good](/Compendium/spells/dispel-evil-and-good-xphb.md)\
+      \ spell is cast on them."
+    "name": "Undead Restoration"
+"actions":
+  - "desc": "The flameskull makes two Fire Ray attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 60 ft. *Hit:*\
+      \ 13 (3d6 + 3) Fire damage."
+    "name": "Fire Ray"
+  - "desc": "The flameskull casts one of the following spells, requiring no Somatic\
+      \ or Material components and using Intelligence as the spellcasting ability\
+      \ (spell save DC 13):\n\n**At will:** [Mage Hand](/Compendium/spells/mage-hand-xphb.md)\n\
+      \n**2/day:** [Magic Missile](/Compendium/spells/magic-missile-xphb.md) (level\
+      \ 2 version)\n\n**1/day:** [Fireball](/Compendium/spells/fireball-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/undead/token/flameskull-xmm.webp"
 ```
 ^statblock
 

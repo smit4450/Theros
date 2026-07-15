@@ -7,46 +7,72 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/triton
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Crackling Triton"
 ---
 # Crackling Triton
-*Source: Theros Bestiary, Vol. VII*  
+*Source: Theros Bestiary, Vol. VII*
 ![](/Compendium/bestiary/humanoid/img/crackling-triton.webp#center)
 
-```ad-statblock
-title: Crackling Triton
-*Medium humanoid (triton), Neutral*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 98 (`14d8 + 42`) 
-- **Speed** 30 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|16 (+3)|16 (+3)|16 (+3)|12 (+1)|19 (+4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +6, Intelligence +6, Charisma +7
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +6, [Nature](/Compendium/rules/skills.md#Nature) +6, [Survival](/Compendium/rules/skills.md#Survival) +4
-- **Senses** [darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Damage Resistances** cold
-- **Damage Immunities** fire
-- **Languages** Common, Primordial
-- **Challenge** 3
-
-## Traits
-
-***Amphibious.*** The triton can breathe air and water.
-
-***Emissary of the Sea.*** Aquatic beasts have an extraordinary affinity with tritons. Tritons can communicate simple ideas with beasts that can breathe water. Those beasts can understand the triton's words, though the triton has no special ability to understand the beasts in return.
-
-***Innate Spellcasting.*** The crackling triton's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 1/day each: Fog Cloud, Gust Of Wind, _wall of water_
-
-## Actions
-
-***Water Orb (Cantrip).*** Ranged Spell Attack: +7 to hit, range 120 ft., one creature. Hit: 13 (3d8) bludgeoning damage.
-
-***Lightning Orb (Cantrip).*** Ranged Spell Attack: +7 to hit, range 120 ft., one creature. Hit: 13 (3d8) lightning damage.
+```statblock
+"name": "Crackling Triton"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "triton"
+"alignment": "Neutral"
+"ac": !!int "15"
+"ac_class": "natural armor"
+"hp": !!int "98"
+"hit_dice": "14d8 + 42"
+"modifier": !!int "3"
+"stats":
+  - !!int "11"
+  - !!int "16"
+  - !!int "16"
+  - !!int "16"
+  - !!int "12"
+  - !!int "19"
+"speed": "30 ft., swim 30 ft."
+"saves":
+  - "dexterity": !!int "6"
+  - "intelligence": !!int "6"
+  - "charisma": !!int "7"
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+6"
+  - "name": "[Nature](/Compendium/rules/skills.md#Nature)"
+    "desc": "+6"
+  - "name": "[Survival](/Compendium/rules/skills.md#Survival)"
+    "desc": "+4"
+"damage_resistances": "cold"
+"damage_immunities": "fire"
+"senses": "[darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Common, Primordial"
+"cr": "3"
+"traits":
+  - "desc": "The triton can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "Aquatic beasts have an extraordinary affinity with tritons. Tritons can\
+      \ communicate simple ideas with beasts that can breathe water. Those beasts\
+      \ can understand the triton's words, though the triton has no special ability\
+      \ to understand the beasts in return."
+    "name": "Emissary of the Sea"
+  - "desc": "The crackling triton's innate spellcasting ability is Charisma (spell\
+      \ save DC 15, +7 to hit with spell attacks). It can innately cast the following\
+      \ spells, requiring no material components: 1/day each: Fog Cloud, Gust Of Wind,\
+      \ _wall of water_"
+    "name": "Innate Spellcasting"
+"actions":
+  - "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one creature. Hit: 13\
+      \ (3d8) bludgeoning damage."
+    "name": "Water Orb (Cantrip)"
+  - "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one creature. Hit: 13\
+      \ (3d8) lightning damage."
+    "name": "Lightning Orb (Cantrip)"
+"source":
+  - "TBVVII"
 ```
 ^statblock

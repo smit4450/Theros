@@ -11,11 +11,13 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Yuan-ti Malison (Type 2)"
 ---
 # Yuan-ti Malison (Type 2)
-*Source: Monster Manual (2024) p. 343*  
+*Source: Monster Manual (2024) p. 343*
 ![Yuan-Ti Malison type 1 (left) and type 2 (right)](/Compendium/bestiary/monstrosity/img/yuan-ti-malison-type-1-and-yuan-ti-malison-type-2.webp#right)
 
 Malisons exhibit snakelike features that make them deadly in combat.
@@ -58,47 +60,57 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 
 ## Statblock
 
-```ad-statblock
-title: Yuan-ti Malison (Type 2)
-![](/Compendium/bestiary/monstrosity/token/yuan-ti-malison-type-2-xmm.webp#token)
-*Medium monstrosity, Neutral Evil*
-
-- **Armor Class** 12 
-- **Hit Points** 66 (`12d8 + 12`) 
-- **Speed** 30 ft., climb 30 ft. (snake form only)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|14 (+2)|13 (+1)|14 (+2)|16 (+3)|12 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** +4 (+6 while in snake form)
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 13
-- **Damage Immunities** poison
-- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Abyssal, Common, Draconic
-- **Challenge** 3
-
-## Traits
-
-***Magic Resistance.*** The yuan-ti has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The yuan-ti makes two Bite attacks, and it can use Spellcasting to cast [Suggestion](/Compendium/spells/suggestion-xphb.md) if available.
-
-***Bite.*** *Melee Attack Roll:* `+5`, reach 10 ft. *Hit:* 7 (`1d8 + 3`) Piercing damage plus 7 (`2d6`) Poison damage.
-
-***Spellcasting (Yuan-ti Form Only).*** The yuan-ti casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 13):
-
-**At will:** [Animal Friendship](/Compendium/spells/animal-friendship-xphb.md) (snakes only)
-
-**2/day:** [Suggestion](/Compendium/spells/suggestion-xphb.md)
-
-## Bonus Actions
-
-***Shape-Shift.*** The yuan-ti shape-shifts into a Medium snake or returns to its true form. If it dies, it stays in its current form. The yuan-ti's game statistics are the same in each form, except where noted. Any equipment it is wearing or carrying isn't transformed.
+```statblock
+"name": "Yuan-ti Malison (Type 2)"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Neutral Evil"
+"ac": !!int "12"
+"hp": !!int "66"
+"hit_dice": "12d8 + 12"
+"modifier": !!int "2"
+"stats":
+  - !!int "16"
+  - !!int "14"
+  - !!int "13"
+  - !!int "14"
+  - !!int "16"
+  - !!int "12"
+"speed": "30 ft., climb 30 ft. (snake form only)"
+"skillsaves":
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+4 (+6 while in snake form)"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 13"
+"languages": "Abyssal, Common, Draconic"
+"cr": "3"
+"traits":
+  - "desc": "The yuan-ti has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The yuan-ti makes two Bite attacks, and it can use Spellcasting to cast\
+      \ [Suggestion](/Compendium/spells/suggestion-xphb.md) if available."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 10 ft. *Hit:* 7 (1d8 + 3) Piercing damage\
+      \ plus 7 (2d6) Poison damage."
+    "name": "Bite"
+  - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
+      \n**At will:** [Animal Friendship](/Compendium/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n**2/day:** [Suggestion](/Compendium/spells/suggestion-xphb.md)"
+    "name": "Spellcasting (Yuan-ti Form Only)"
+"bonus_actions":
+  - "desc": "The yuan-ti shape-shifts into a Medium snake or returns to its true form.\
+      \ If it dies, it stays in its current form. The yuan-ti's game statistics are\
+      \ the same in each form, except where noted. Any equipment it is wearing or\
+      \ carrying isn't transformed."
+    "name": "Shape-Shift"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/yuan-ti-malison-type-2-xmm.webp"
 ```
 ^statblock
 

@@ -15,11 +15,13 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/giant
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Ogre"
 ---
 # Ogre
-*Source: Monster Manual (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/giant/img/ogres.webp#right)
 
 Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils they please. Ogre raiders ally with other evil forces in return for food, riches, and promises of battle.
@@ -37,32 +39,40 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
 
 ## Statblock
 
-```ad-statblock
-title: Ogre
-![](/Compendium/bestiary/giant/token/ogre-xmm.webp#token)
-*Large giant, Chaotic Evil*
-
-- **Armor Class** 11 
-- **Hit Points** 68 (`8d10 + 24`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)| 8 (-1)|16 (+3)| 5 (-3)| 7 (-2)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 8
-- **Gear** [greatclub](/Compendium/items/greatclub-xphb.md), three [javelins](/Compendium/items/javelin-xphb.md)
-- **Languages** Common, Giant
-- **Challenge** 2
-
-## Actions
-
-***Greatclub.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 13 (`2d8 + 4`) Bludgeoning damage.
-
-***Javelin.*** *Melee  or Ranged Attack Roll:* `+6`, reach 5 ft. or range 30/120 ft. *Hit:* 11 (`2d6 + 4`) Piercing damage.
+```statblock
+"name": "Ogre"
+"size": "Large"
+"type": "giant"
+"alignment": "Chaotic Evil"
+"ac": !!int "11"
+"hp": !!int "68"
+"hit_dice": "8d10 + 24"
+"modifier": !!int "-1"
+"stats":
+  - !!int "19"
+  - !!int "8"
+  - !!int "16"
+  - !!int "5"
+  - !!int "7"
+  - !!int "7"
+"speed": "40 ft."
+"gear":
+  - "[greatclub](/Compendium/items/greatclub-xphb.md)"
+  - "three [javelins](/Compendium/items/javelin-xphb.md)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 8"
+"languages": "Common, Giant"
+"cr": "2"
+"actions":
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 13 (2d8 + 4) Bludgeoning\
+      \ damage."
+    "name": "Greatclub"
+  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft. *Hit:*\
+      \ 11 (2d6 + 4) Piercing damage."
+    "name": "Javelin"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/giant/token/ogre-xmm.webp"
 ```
 ^statblock
 

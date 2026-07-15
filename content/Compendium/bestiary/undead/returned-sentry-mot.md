@@ -7,11 +7,13 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Returned Sentry"
 ---
 # Returned Sentry
-*Source: Mythic Odysseys of Theros p. 241*  
+*Source: Mythic Odysseys of Theros p. 241*
 ![](/Compendium/bestiary/undead/img/returned.webp#right)
 
 Most new or purposeless Returned are easily manipulated into serving their more forceful brethren. Having purpose forced upon them, these Returned perform simple, artless tasks with middling efficiency. Their one virtue is their tirelessness, which makes them exceptional guards. In the necropoleis, this sees many Returned employed as sentries, though they might also be messengers or laborers. If threatened, groups of these Returned work well together, sharing the unified goals of overcoming their foes and getting back to the task at hand.
@@ -20,42 +22,56 @@ Returned have escaped the Underworld and dwell among the living once more, but t
 
 Returned reenter the world blank and undead. No longer possessing the ability to form long-term memories, they generally can't build meaningful relationships or establish new lives. Instead, most experience fleeting emotions and follow hollow routines, their existences reduced to shadow plays without weight or substance.
 
-```ad-statblock
-title: Returned Sentry
-![](/Compendium/bestiary/undead/token/returned-sentry-mot.webp#token)
-*Medium undead, Lawful Evil*
-
-- **Armor Class** 15 (leather armor, shield)
-- **Hit Points** 22 (`4d8 + 4`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|15 (+2)|12 (+1)|10 (+0)|12 (+1)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 11
-- **Damage Resistances** necrotic
-- **Damage Immunities** poison
-- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Gear** sling, spear
-- **Languages** the languages it knew in life
-- **Challenge** 1
-
-## Traits
-
-***Pack Tactics.*** The Returned has advantage on an attack roll against a creature if at least one of the Returned's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Compendium/rules/conditions.md#Incapacitated).
-
-***Turn Resistance.*** The Returned has advantage on saving throws against any effect that turns undead.
-
-***Unreadable Face.*** The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom ([Insight](/Compendium/rules/skills.md#Insight)) checks to ascertain the Returned's intentions or sincerity are made with disadvantage.
-
-## Actions
-
-***Spear.*** *Melee  or Ranged Weapon Attack:* `+5` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage, or 7 (`1d8 + 3`) piercing damage if used with two hands to make a melee attack, plus 7 (`2d6`) poison damage.
-
-***Sling.*** *Ranged Weapon Attack:* `+4` to hit, range 30/120 ft., one target. *Hit:* 4 (`1d4 + 2`) bludgeoning damage.
+```statblock
+"name": "Returned Sentry"
+"size": "Medium"
+"type": "undead"
+"alignment": "Lawful Evil"
+"ac": !!int "15"
+"ac_class": "leather armor, shield"
+"hp": !!int "22"
+"hit_dice": "4d8 + 4"
+"modifier": !!int "2"
+"stats":
+  - !!int "16"
+  - !!int "15"
+  - !!int "12"
+  - !!int "10"
+  - !!int "12"
+  - !!int "11"
+"speed": "30 ft."
+"damage_resistances": "necrotic"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"gear":
+  - "sling"
+  - "spear"
+"senses": "passive Perception 11"
+"languages": "the languages it knew in life"
+"cr": "1"
+"traits":
+  - "desc": "The Returned has advantage on an attack roll against a creature if at\
+      \ least one of the Returned's allies is within 5 feet of the creature and the\
+      \ ally isn't [incapacitated](/Compendium/rules/conditions.md#Incapacitated)."
+    "name": "Pack Tactics"
+  - "desc": "The Returned has advantage on saving throws against any effect that turns\
+      \ undead."
+    "name": "Turn Resistance"
+  - "desc": "The Returned is immune to any effect that would sense its emotions or\
+      \ read its thoughts. Wisdom ([Insight](/Compendium/rules/skills.md#Insight))\
+      \ checks to ascertain the Returned's intentions or sincerity are made with disadvantage."
+    "name": "Unreadable Face"
+"actions":
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing\
+      \ damage if used with two hands to make a melee attack, plus 7 (2d6) poison\
+      \ damage."
+    "name": "Spear"
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
+      \ 4 (1d4 + 2) bludgeoning damage."
+    "name": "Sling"
+"source":
+  - "MOT"
+"image": "/Compendium/bestiary/undead/token/returned-sentry-mot.webp"
 ```
 ^statblock

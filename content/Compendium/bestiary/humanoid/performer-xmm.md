@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Performer"
 ---
 # Performer
-*Source: Monster Manual (2024) p. 236*  
+*Source: Monster Manual (2024) p. 236*
 ![](/Compendium/bestiary/humanoid/img/performers.webp#right)
 
 Common performers include traveling storytellers, tavern musicians, local entertainers, and chorus members performing with veteran artists. These performers might be self-taught or in the early years of formal training. Most have a modest level of celebrity and two or three instruments or talents at which they excel.
@@ -95,34 +97,48 @@ Wrestler
 
 ## Statblock
 
-```ad-statblock
-title: Performer
-![](/Compendium/bestiary/humanoid/token/performer-xmm.webp#token)
-*Small or Medium humanoid, Neutral*
-
-- **Armor Class** 13 
-- **Hit Points** 27 (`5d8 + 5`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|16 (+3)|12 (+1)|13 (+1)|14 (+2)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +5, Charisma +5
-- **Skills** [Acrobatics](/Compendium/rules/skills.md#Acrobatics) +5, [Athletics](/Compendium/rules/skills.md#Athletics) +3, [Performance](/Compendium/rules/skills.md#Performance) +7
-- **Senses** passive Perception 12
-- **Gear** [shortsword](/Compendium/items/shortsword-xphb.md)
-- **Languages** Common plus one other language
-- **Challenge** 1/2
-
-## Actions
-
-***Shortsword.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Piercing damage.
-
-## Reactions
-
-***Uncanny Dodge.*** Trigger: The performer is hit by an attack roll. _Response:_ The performer halves the damage (round down) it takes from that attack.
+```statblock
+"name": "Performer"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "13"
+"hp": !!int "27"
+"hit_dice": "5d8 + 5"
+"modifier": !!int "3"
+"stats":
+  - !!int "12"
+  - !!int "16"
+  - !!int "12"
+  - !!int "13"
+  - !!int "14"
+  - !!int "16"
+"speed": "30 ft."
+"saves":
+  - "dexterity": !!int "5"
+  - "charisma": !!int "5"
+"skillsaves":
+  - "name": "[Acrobatics](/Compendium/rules/skills.md#Acrobatics)"
+    "desc": "+5"
+  - "name": "[Athletics](/Compendium/rules/skills.md#Athletics)"
+    "desc": "+3"
+  - "name": "[Performance](/Compendium/rules/skills.md#Performance)"
+    "desc": "+7"
+"gear":
+  - "[shortsword](/Compendium/items/shortsword-xphb.md)"
+"senses": "passive Perception 12"
+"languages": "Common plus one other language"
+"cr": "1/2"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage."
+    "name": "Shortsword"
+"reactions":
+  - "desc": "Trigger: The performer is hit by an attack roll. _Response:_ The performer\
+      \ halves the damage (round down) it takes from that attack."
+    "name": "Uncanny Dodge"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/performer-xmm.webp"
 ```
 ^statblock
 

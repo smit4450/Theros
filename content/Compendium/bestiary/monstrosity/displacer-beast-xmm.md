@@ -8,11 +8,13 @@ tags:
 - monster/environment/forest
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Displacer Beast"
 ---
 # Displacer Beast
-*Source: Monster Manual (2024) p. 98*  
+*Source: Monster Manual (2024) p. 98*
 ![](/Compendium/bestiary/monstrosity/img/displacer-beast.webp#right)
 
 ## Displacer Beast
@@ -33,39 +35,52 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 > The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
 
 
-```ad-statblock
-title: Displacer Beast
-![](/Compendium/bestiary/monstrosity/token/displacer-beast-xmm.webp#token)
-*Large monstrosity, Lawful Evil*
-
-- **Armor Class** 13 
-- **Hit Points** 76 (`9d10 + 27`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|16 (+3)| 6 (-2)|12 (+1)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 11
-- **Languages** understands Sylvan but can't speak
-- **Challenge** 3
-
-## Traits
-
-***Avoidance.*** If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the save and half damage if it fails. It can't use this trait if it has the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
-
-***Displacement.*** Attack rolls against the displacer beast have [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md), since it projects an illusion that makes it appear to be near its actual location. This trait is suppressed while the displacer beast has the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
-
-## Actions
-
-***Multiattack.*** The displacer beast makes one Rend attack and one Tentacle attack.
-
-***Rend.*** *Melee Attack Roll:* `+6`, reach 5 feet. *Hit:* 9 (`1d10 + 4`) Slashing damage. If target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
-
-***Tentacle.*** *Melee Attack Roll:* `+6`, reach 10 feet. *Hit:* 11 (`2d6 + 4`) Piercing damage.
+```statblock
+"name": "Displacer Beast"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Lawful Evil"
+"ac": !!int "13"
+"hp": !!int "76"
+"hit_dice": "9d10 + 27"
+"modifier": !!int "4"
+"stats":
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "6"
+  - !!int "12"
+  - !!int "8"
+"speed": "40 ft."
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 11"
+"languages": "understands Sylvan but can't speak"
+"cr": "3"
+"traits":
+  - "desc": "If the displacer beast is subjected to an effect that allows it to make\
+      \ a saving throw to take only half damage, it instead takes no damage if it\
+      \ succeeds on the save and half damage if it fails. It can't use this trait\
+      \ if it has the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Avoidance"
+  - "desc": "Attack rolls against the displacer beast have [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md),\
+      \ since it projects an illusion that makes it appear to be near its actual location.\
+      \ This trait is suppressed while the displacer beast has the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Displacement"
+"actions":
+  - "desc": "The displacer beast makes one Rend attack and one Tentacle attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 feet. *Hit:* 9 (1d10 + 4) Slashing damage.\
+      \ If target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Rend"
+  - "desc": "*Melee Attack Roll:* +6, reach 10 feet. *Hit:* 11 (2d6 + 4) Piercing\
+      \ damage."
+    "name": "Tentacle"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/displacer-beast-xmm.webp"
 ```
 ^statblock
 

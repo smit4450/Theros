@@ -9,11 +9,13 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Doppelganger"
 ---
 # Doppelganger
-*Source: Monster Manual (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/monstrosity/img/doppelganger.webp#right)
 
 ## Doppelganger
@@ -44,41 +46,59 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 > Meeting yourself is the surest way to realize you're not as charming as you think you are.
 
 
-```ad-statblock
-title: Doppelganger
-![](/Compendium/bestiary/monstrosity/token/doppelganger-xmm.webp#token)
-*Medium monstrosity, Neutral*
-
-- **Armor Class** 14 
-- **Hit Points** 52 (`8d8 + 16`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +6, [Insight](/Compendium/rules/skills.md#Insight) +3
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 11
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed)
-- **Languages** Common plus three other languages
-- **Challenge** 3
-
-## Actions
-
-***Multiattack.*** The doppelganger makes two Slam attacks and uses Unsettling Visage if available.
-
-***Slam.*** *Melee Attack Roll:* `+6` (with [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) during the first round of each combat), reach 5 ft. *Hit:* 11 (`2d6 + 4`) Bludgeoning damage.
-
-***Unsettling Visage (Recharge 6).*** *Wisdom Saving Throw:* DC 12, each creature in a 15-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the doppelganger that can see the doppelganger. *Failure:* The target has the [Frightened](/Compendium/rules/conditions.md#Frightened) condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
-
-***Read Thoughts.*** The doppelganger casts [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md), requiring no spell components and using Charisma as the spellcasting ability (spell save DC 12).
-
-
-## Bonus Actions
-
-***Shape-Shift.*** The doppelganger shape-shifts into a Medium or Small Humanoid, or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+```statblock
+"name": "Doppelganger"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Neutral"
+"ac": !!int "14"
+"hp": !!int "52"
+"hit_dice": "8d8 + 16"
+"modifier": !!int "4"
+"stats":
+  - !!int "11"
+  - !!int "18"
+  - !!int "14"
+  - !!int "11"
+  - !!int "12"
+  - !!int "14"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+6"
+  - "name": "[Insight](/Compendium/rules/skills.md#Insight)"
+    "desc": "+3"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 11"
+"languages": "Common plus three other languages"
+"cr": "3"
+"actions":
+  - "desc": "The doppelganger makes two Slam attacks and uses Unsettling Visage if\
+      \ available."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6 (with [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ during the first round of each combat), reach 5 ft. *Hit:* 11 (2d6 + 4) Bludgeoning\
+      \ damage."
+    "name": "Slam"
+  - "desc": "*Wisdom Saving Throw:* DC 12, each creature in a 15-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the doppelganger that can see the doppelganger. *Failure:*\
+      \ The target has the [Frightened](/Compendium/rules/conditions.md#Frightened)\
+      \ condition and repeats the save at the end of each of its turns, ending the\
+      \ effect on itself on a success. After 1 minute, it succeeds automatically."
+    "name": "Unsettling Visage (Recharge 6)"
+  - "desc": "The doppelganger casts [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md),\
+      \ requiring no spell components and using Charisma as the spellcasting ability\
+      \ (spell save DC 12).\n"
+    "name": "Read Thoughts"
+"bonus_actions":
+  - "desc": "The doppelganger shape-shifts into a Medium or Small Humanoid, or it\
+      \ returns to its true form. Its game statistics, other than its size, are the\
+      \ same in each form. Any equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/doppelganger-xmm.webp"
 ```
 ^statblock
 

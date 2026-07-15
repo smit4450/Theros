@@ -10,11 +10,13 @@ tags:
 - monster/environment/hill
 - monster/size/small-or-medium
 - monster/type/monstrosity/lycanthrope
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Wereboar"
 ---
 # Wereboar
-*Source: Monster Manual (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![A werebear chases a wereboar and wererat out of its territory](/Compendium/bestiary/monstrosity/img/werebear-wereboar-and-wererat.webp#right)
 
 ## Wereboar
@@ -26,40 +28,61 @@ aliases:
 
 Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-boar hybrids. Many wereboars suffer their shape-shifting nature as a curse, with some involuntarily transforming any time they perform a greedy act or indulge their selfish nature.
 
-```ad-statblock
-title: Wereboar
-![](/Compendium/bestiary/monstrosity/token/wereboar-xmm.webp#token)
-*Small or Medium monstrosity (lycanthrope), Neutral Evil*
-
-- **Armor Class** 15 
-- **Hit Points** 97 (`15d8 + 30`) 
-- **Speed** 30 ft., 40 ft. (boar form only)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|10 (+0)|15 (+2)|10 (+0)|11 (+0)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +2
-- **Senses** passive Perception 12
-- **Gear** six [javelins](/Compendium/items/javelin-xphb.md)
-- **Languages** Common (can't speak in boar form)
-- **Challenge** 4
-
-## Actions
-
-***Multiattack.*** The wereboar makes two attacks, using Javelin or Tusk in any combination. It can replace one attack with a Gore attack.
-
-***Gore (Boar or Hybrid Form Only).*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 12 (`2d8 + 3`) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw:* DC 12. *Failure:* The target is cursed. If the cursed target drops to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md), it instead becomes a Wereboar under the DM's control and has 10 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md). *Success:* The target is immune to this wereboar's curse for 24 hours.
-
-***Javelin (Humanoid or Hybrid Form Only).*** *Melee  or Ranged Attack Roll:* `+5`, reach 5 ft. or range 30/120 ft. *Hit:* 13 (`3d6 + 3`) Piercing damage.
-
-***Tusk (Boar or Hybrid Form Only).*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 10 (`2d6 + 3`) Piercing damage. If the target is a Medium or smaller creature and the wereboar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (`2d6`) Piercing damage and has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
-
-## Bonus Actions
-
-***Shape-Shift.*** The wereboar shape-shifts into a Medium boar-humanoid hybrid or a Small boar, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+```statblock
+"name": "Wereboar"
+"size": "Small or Medium"
+"type": "monstrosity"
+"subtype": "lycanthrope"
+"alignment": "Neutral Evil"
+"ac": !!int "15"
+"hp": !!int "97"
+"hit_dice": "15d8 + 30"
+"modifier": !!int "2"
+"stats":
+  - !!int "17"
+  - !!int "10"
+  - !!int "15"
+  - !!int "10"
+  - !!int "11"
+  - !!int "8"
+"speed": "30 ft., 40 ft. (boar form only)"
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
+"gear":
+  - "six [javelins](/Compendium/items/javelin-xphb.md)"
+"senses": "passive Perception 12"
+"languages": "Common (can't speak in boar form)"
+"cr": "4"
+"actions":
+  - "desc": "The wereboar makes two attacks, using Javelin or Tusk in any combination.\
+      \ It can replace one attack with a Gore attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 12 (2d8 + 3) Piercing damage.\
+      \ If the target is a Humanoid, it is subjected to the following effect. *Constitution\
+      \ Saving Throw:* DC 12. *Failure:* The target is cursed. If the cursed target\
+      \ drops to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md),\
+      \ it instead becomes a Wereboar under the DM's control and has 10 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ *Success:* The target is immune to this wereboar's curse for 24 hours."
+    "name": "Gore (Boar or Hybrid Form Only)"
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 30/120 ft. *Hit:*\
+      \ 13 (3d6 + 3) Piercing damage."
+    "name": "Javelin (Humanoid or Hybrid Form Only)"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Piercing damage.\
+      \ If the target is a Medium or smaller creature and the wereboar moved 20+ feet\
+      \ straight toward it immediately before the hit, the target takes an extra 7\
+      \ (2d6) Piercing damage and has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Tusk (Boar or Hybrid Form Only)"
+"bonus_actions":
+  - "desc": "The wereboar shape-shifts into a Medium boar-humanoid hybrid or a Small\
+      \ boar, or it returns to its true humanoid form. Its game statistics, other\
+      \ than its size, are the same in each form. Any equipment it is wearing or carrying\
+      \ isn't transformed."
+    "name": "Shape-Shift"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/wereboar-xmm.webp"
 ```
 ^statblock
 

@@ -7,11 +7,13 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/fey
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Oread"
 ---
 # Oread
-*Source: Mythic Odysseys of Theros p. 237*  
+*Source: Mythic Odysseys of Theros p. 237*
 ![](/Compendium/bestiary/fey/img/oread.webp#right)
 
 Aggressive oreads number among the most dangerous nymphs, as they embody the wild might of flames, volcanism, and the hidden forces of the earth. These creatures typically dwell in remote mountain crags and near volcanoes, where they caper among the forces of dissolution and rebirth. During avalanches and volcanic eruptions, groups of oreads might race ahead of the destruction, dancing, singing, and doing what they can to maximize the impending devastation.
@@ -34,52 +36,68 @@ A nymph doesn't require food, drink, or sleep.
 
 ## Statblock
 
-```ad-statblock
-title: Oread
-![](/Compendium/bestiary/fey/token/oread-mot.webp#token)
-*Medium fey, Chaotic Evil*
-
-- **Armor Class** 16 (natural armor)
-- **Hit Points** 49 (`9d8 + 9`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|18 (+4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Acrobatics](/Compendium/rules/skills.md#Acrobatics) +4, [Athletics](/Compendium/rules/skills.md#Athletics) +4, [Performance](/Compendium/rules/skills.md#Performance) +6
-- **Senses** passive Perception 11
-- **Damage Immunities** fire, poison
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [frightened](/Compendium/rules/conditions.md#Frightened), [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Common, Sylvan
-- **Challenge** 4
-
-## Traits
-
-***Innate Spellcasting.*** The oread's spellcasting ability is Charisma (spell save DC 14, `+6` to hit with spell attacks). It can innately cast the following spells, requiring no material components:
-
-**At will:** [fire bolt](/Compendium/spells/fire-bolt-xphb.md) (see "Actions" below)
-
-**3/day:** [burning hands](/Compendium/spells/burning-hands-xphb.md)
-
-**1/day each:** [hellish rebuke](/Compendium/spells/hellish-rebuke-xphb.md) (see "Reactions" below), [scorching ray](/Compendium/spells/scorching-ray-xphb.md)
-
-***Invisible in Fire.*** The oread is [invisible](/Compendium/rules/conditions.md#Invisible) while fully immersed in fire.
-
-***Magic Resistance.*** The oread has advantage on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The oread attacks twice with its fiery touch or fire bolt.
-
-***Fiery Touch.*** *Melee Spell Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 9 (`1d10 + 4`) fire damage.
-
-***Fire Bolt (Cantrip).*** *Ranged Spell Attack:* `+6` to hit, range 120 ft., one target. *Hit:* 5 (`1d10`) fire damage.
-
-## Reactions
-
-***Hellish Rebuke (2nd-Level Spell; 1/Day).*** When the oread is damaged by a creature within 60 feet of the oread that it can see, the creature that damaged the oread must make a DC 14 Dexterity saving throw, taking 16 (`3d10`) fire damage on a failed save, or half as much damage on a successful one.
+```statblock
+"name": "Oread"
+"size": "Medium"
+"type": "fey"
+"alignment": "Chaotic Evil"
+"ac": !!int "16"
+"ac_class": "natural armor"
+"hp": !!int "49"
+"hit_dice": "9d8 + 9"
+"modifier": !!int "2"
+"stats":
+  - !!int "14"
+  - !!int "14"
+  - !!int "12"
+  - !!int "11"
+  - !!int "13"
+  - !!int "18"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Acrobatics](/Compendium/rules/skills.md#Acrobatics)"
+    "desc": "+4"
+  - "name": "[Athletics](/Compendium/rules/skills.md#Athletics)"
+    "desc": "+4"
+  - "name": "[Performance](/Compendium/rules/skills.md#Performance)"
+    "desc": "+6"
+"damage_immunities": "fire, poison"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed), [frightened](/Compendium/rules/conditions.md#Frightened),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "passive Perception 11"
+"languages": "Common, Sylvan"
+"cr": "4"
+"traits":
+  - "desc": "The oread's spellcasting ability is Charisma (spell save DC 14, +6 to\
+      \ hit with spell attacks). It can innately cast the following spells, requiring\
+      \ no material components:\n\n**At will:** [fire bolt](/Compendium/spells/fire-bolt-xphb.md)\
+      \ (see \"Actions\" below)\n\n**3/day:** [burning hands](/Compendium/spells/burning-hands-xphb.md)\n\
+      \n**1/day each:** [hellish rebuke](/Compendium/spells/hellish-rebuke-xphb.md)\
+      \ (see \"Reactions\" below), [scorching ray](/Compendium/spells/scorching-ray-xphb.md)"
+    "name": "Innate Spellcasting"
+  - "desc": "The oread is [invisible](/Compendium/rules/conditions.md#Invisible) while\
+      \ fully immersed in fire."
+    "name": "Invisible in Fire"
+  - "desc": "The oread has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The oread attacks twice with its fiery touch or fire bolt."
+    "name": "Multiattack"
+  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10\
+      \ + 4) fire damage."
+    "name": "Fiery Touch"
+  - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:* 5\
+      \ (1d10) fire damage."
+    "name": "Fire Bolt (Cantrip)"
+"reactions":
+  - "desc": "When the oread is damaged by a creature within 60 feet of the oread that\
+      \ it can see, the creature that damaged the oread must make a DC 14 Dexterity\
+      \ saving throw, taking 16 (3d10) fire damage on a failed save, or half as much\
+      \ damage on a successful one."
+    "name": "Hellish Rebuke (2nd-Level Spell; 1/Day)"
+"source":
+  - "MOT"
+"image": "/Compendium/bestiary/fey/token/oread-mot.webp"
 ```
 ^statblock

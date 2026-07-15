@@ -7,11 +7,13 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Setessan Hoplite"
 ---
 # Setessan Hoplite
-*Source: Mythic Odysseys of Theros p. 229*  
+*Source: Mythic Odysseys of Theros p. 229*
 ![](/Compendium/bestiary/humanoid/img/hoplite.webp#right)
 
 Most Setessan hoplites begin their training as hunters, making them skilled in traversing the woods and adept at both guerrilla tactics and archery. Their strategies often emulate the favored servants of Nylea—especially wild beasts like wolves and lynxes. Typically a few soldiers harry an enemy while the rest capitalize on their foe's distraction.
@@ -62,37 +64,56 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 | 8 | The Jackals |
 ^setessan-hoplite-unit-names
 
-```ad-statblock
-title: Setessan Hoplite
-![](/Compendium/bestiary/humanoid/token/setessan-hoplite-mot.webp#token)
-*Medium humanoid, Any alignment*
-
-- **Armor Class** 16 (leather, shield)
-- **Hit Points** 58 (`9d8 + 18`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|16 (+3)|14 (+2)|13 (+1)|16 (+3)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +5, Wisdom +5
-- **Skills** [Acrobatics](/Compendium/rules/skills.md#Acrobatics) +5, [Perception](/Compendium/rules/skills.md#Perception) +5, [Survival](/Compendium/rules/skills.md#Survival) +5
-- **Senses** passive Perception 15
-- **Gear** longbow, scimitar
-- **Languages** Common
-- **Challenge** 4
-
-## Traits
-
-***Pack Tactics.*** The hoplite has advantage on an attack roll against a creature if at least one of the hoplite's allies is within 5 feet of the hoplite and the ally isn't [incapacitated](/Compendium/rules/conditions.md#Incapacitated).
-
-## Actions
-
-***Multiattack.*** The hoplite makes two scimitar attacks or two longbow attacks.
-
-***Scimitar.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) slashing damage plus 10 (`3d6`) poison damage.
-
-***Longbow.*** *Ranged Weapon Attack:* `+5` to hit, range 150/600 ft., one target. *Hit:* 7 (`1d8 + 3`) piercing damage plus 10 (`3d6`) poison damage.
+```statblock
+"name": "Setessan Hoplite"
+"size": "Medium"
+"type": "humanoid"
+"alignment": "Any alignment"
+"ac": !!int "16"
+"ac_class": "leather, shield"
+"hp": !!int "58"
+"hit_dice": "9d8 + 18"
+"modifier": !!int "3"
+"stats":
+  - !!int "14"
+  - !!int "16"
+  - !!int "14"
+  - !!int "13"
+  - !!int "16"
+  - !!int "11"
+"speed": "30 ft."
+"saves":
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "5"
+"skillsaves":
+  - "name": "[Acrobatics](/Compendium/rules/skills.md#Acrobatics)"
+    "desc": "+5"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Survival](/Compendium/rules/skills.md#Survival)"
+    "desc": "+5"
+"gear":
+  - "longbow"
+  - "scimitar"
+"senses": "passive Perception 15"
+"languages": "Common"
+"cr": "4"
+"traits":
+  - "desc": "The hoplite has advantage on an attack roll against a creature if at\
+      \ least one of the hoplite's allies is within 5 feet of the hoplite and the\
+      \ ally isn't [incapacitated](/Compendium/rules/conditions.md#Incapacitated)."
+    "name": "Pack Tactics"
+"actions":
+  - "desc": "The hoplite makes two scimitar attacks or two longbow attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
+      \ + 3) slashing damage plus 10 (3d6) poison damage."
+    "name": "Scimitar"
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:*\
+      \ 7 (1d8 + 3) piercing damage plus 10 (3d6) poison damage."
+    "name": "Longbow"
+"source":
+  - "MOT"
+"image": "/Compendium/bestiary/humanoid/token/setessan-hoplite-mot.webp"
 ```
 ^statblock

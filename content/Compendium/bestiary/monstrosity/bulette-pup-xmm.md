@@ -10,11 +10,13 @@ tags:
 - monster/environment/mountain
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Bulette Pup"
 ---
 # Bulette Pup
-*Source: Monster Manual (2024) p. 63*  
+*Source: Monster Manual (2024) p. 63*
 ![](/Compendium/bestiary/monstrosity/img/bulettes.webp#right)
 
 Juvenile bulettes are known as pups. They travel in small groups, using their numbers to bring down larger foes. Their arrival frequently presages the appearance of an adult bulette.
@@ -30,33 +32,39 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
 
 ## Statblock
 
-```ad-statblock
-title: Bulette Pup
-![](/Compendium/bestiary/monstrosity/token/bulette-pup-xmm.webp#token)
-*Medium monstrosity, Unaligned*
-
-- **Armor Class** 16 
-- **Hit Points** 45 (`6d8 + 18`) 
-- **Speed** 30 ft., burrow 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)| 8 (-1)|17 (+3)| 2 (-4)|10 (+0)| 4 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +4
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 30 ft., Tremorsense 60 ft., passive Perception 14
-- **Languages** —
-- **Challenge** 2
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 14 (`2d10 + 3`) Piercing damage.
-
-## Bonus Actions
-
-***Leap.*** The bulette jumps up to 30 feet by spending 10 feet of movement.
+```statblock
+"name": "Bulette Pup"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "16"
+"hp": !!int "45"
+"hit_dice": "6d8 + 18"
+"modifier": !!int "-1"
+"stats":
+  - !!int "16"
+  - !!int "8"
+  - !!int "17"
+  - !!int "2"
+  - !!int "10"
+  - !!int "4"
+"speed": "30 ft., burrow 20 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 30 ft., Tremorsense\
+  \ 60 ft., passive Perception 14"
+"languages": ""
+"cr": "2"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 14 (2d10 + 3) Piercing damage."
+    "name": "Bite"
+"bonus_actions":
+  - "desc": "The bulette jumps up to 30 feet by spending 10 feet of movement."
+    "name": "Leap"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/bulette-pup-xmm.webp"
 ```
 ^statblock
 

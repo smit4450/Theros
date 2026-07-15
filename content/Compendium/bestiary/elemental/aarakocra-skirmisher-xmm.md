@@ -10,11 +10,13 @@ tags:
 - monster/environment/planar
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Aarakocra Skirmisher"
 ---
 # Aarakocra Skirmisher
-*Source: Monster Manual (2024) p. 10*  
+*Source: Monster Manual (2024) p. 10*
 ![](/Compendium/bestiary/elemental/img/aarakocra.webp#right)
 
 Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They often attack land-bound threats with diving strikes from above.
@@ -30,31 +32,42 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
 
 ## Statblock
 
-```ad-statblock
-title: Aarakocra Skirmisher
-![](/Compendium/bestiary/elemental/token/aarakocra-skirmisher-xmm.webp#token)
-*Medium elemental, Neutral*
-
-- **Armor Class** 12 
-- **Hit Points** 11 (`2d8 + 2`) 
-- **Speed** 20 ft., fly 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|14 (+2)|12 (+1)|11 (+0)|12 (+1)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5
-- **Senses** passive Perception 15
-- **Languages** Aarakocra, Primordial (Auran)
-- **Challenge** 1/4
-
-## Actions
-
-***Talons.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 4 (`1d4 + 2`) Slashing damage, or 9 (`3d4 + 2`) Slashing damage if the aarakocra moved 30+ feet straight toward the target immediately before the hit.
-
-***Wind Javelin.*** *Melee  or Ranged Attack Roll:* `+4`, reach 5 ft. or range 30/120 ft. *Hit:* 5 (`1d6 + 2`) Piercing damage plus 2 (`1d4`) Thunder damage. *Hit or Miss:* The javelin magically returns to the aarakocra's hand immediately after a ranged attack.
+```statblock
+"name": "Aarakocra Skirmisher"
+"size": "Medium"
+"type": "elemental"
+"alignment": "Neutral"
+"ac": !!int "12"
+"hp": !!int "11"
+"hit_dice": "2d8 + 2"
+"modifier": !!int "2"
+"stats":
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "11"
+  - !!int "12"
+  - !!int "11"
+"speed": "20 ft., fly 50 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+"senses": "passive Perception 15"
+"languages": "Aarakocra, Primordial (Auran)"
+"cr": "1/4"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing damage,\
+      \ or 9 (3d4 + 2) Slashing damage if the aarakocra moved 30+ feet straight toward\
+      \ the target immediately before the hit."
+    "name": "Talons"
+  - "desc": "*Melee  or Ranged Attack Roll:* +4, reach 5 ft. or range 30/120 ft. *Hit:*\
+      \ 5 (1d6 + 2) Piercing damage plus 2 (1d4) Thunder damage. *Hit or Miss:* The\
+      \ javelin magically returns to the aarakocra's hand immediately after a ranged\
+      \ attack."
+    "name": "Wind Javelin"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/elemental/token/aarakocra-skirmisher-xmm.webp"
 ```
 ^statblock
 

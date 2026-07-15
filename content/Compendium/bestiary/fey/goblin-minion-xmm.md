@@ -14,11 +14,13 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/fey/goblinoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Goblin Minion"
 ---
 # Goblin Minion
-*Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe](/Compendium/bestiary/fey/img/goblins.webp#right)
 
 Goblin minions enjoy participating in the disruptive schemes of clever leaders but are quick to flee when confronted by their comeuppance.
@@ -43,34 +45,44 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 
 ## Statblock
 
-```ad-statblock
-title: Goblin Minion
-![](/Compendium/bestiary/fey/token/goblin-minion-xmm.webp#token)
-*Small fey (goblinoid), Chaotic Neutral*
-
-- **Armor Class** 12 
-- **Hit Points** 7 (`2d6`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1)|15 (+2)|10 (+0)|10 (+0)| 8 (-1)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Gear** three [daggers](/Compendium/items/dagger-xphb.md)
-- **Languages** Common, Goblin
-- **Challenge** 1/8
-
-## Actions
-
-***Dagger.*** *Melee  or Ranged Attack Roll:* `+4`, reach 5 ft. or range 20/60 ft. *Hit:* 4 (`1d4 + 2`) Piercing damage.
-
-## Bonus Actions
-
-***Nimble Escape.*** The goblin takes the [Disengage](/Compendium/rules/actions.md#Disengage) or [Hide](/Compendium/rules/actions.md#Hide) action.
+```statblock
+"name": "Goblin Minion"
+"size": "Small"
+"type": "fey"
+"subtype": "goblinoid"
+"alignment": "Chaotic Neutral"
+"ac": !!int "12"
+"hp": !!int "7"
+"hit_dice": "2d6"
+"modifier": !!int "2"
+"stats":
+  - !!int "8"
+  - !!int "15"
+  - !!int "10"
+  - !!int "10"
+  - !!int "8"
+  - !!int "8"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
+"gear":
+  - "three [daggers](/Compendium/items/dagger-xphb.md)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
+"languages": "Common, Goblin"
+"cr": "1/8"
+"actions":
+  - "desc": "*Melee  or Ranged Attack Roll:* +4, reach 5 ft. or range 20/60 ft. *Hit:*\
+      \ 4 (1d4 + 2) Piercing damage."
+    "name": "Dagger"
+"bonus_actions":
+  - "desc": "The goblin takes the [Disengage](/Compendium/rules/actions.md#Disengage)\
+      \ or [Hide](/Compendium/rules/actions.md#Hide) action."
+    "name": "Nimble Escape"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fey/token/goblin-minion-xmm.webp"
 ```
 ^statblock
 

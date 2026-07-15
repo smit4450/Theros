@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/medium
 - monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Banshee"
 ---
 # Banshee
-*Source: Monster Manual (2024) p. 29*  
+*Source: Monster Manual (2024) p. 29*
 ![](/Compendium/bestiary/undead/img/banshee.webp#right)
 
 ## Banshee
@@ -38,44 +40,63 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 | 6 | Slay those more beautiful than it was in life. |
 ^banshee-sorrows
 
-```ad-statblock
-title: Banshee
-![](/Compendium/bestiary/undead/token/banshee-xmm.webp#token)
-*Medium undead, Chaotic Evil*
-
-- **Armor Class** 12 
-- **Hit Points** 54 (`12d8`) 
-- **Speed** 5 ft., fly 40 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 (-5)|14 (+2)|10 (+0)|12 (+1)|11 (+0)|17 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Wisdom +2
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Damage Resistances** acid, bludgeoning, fire, lightning, piercing, slashing, thunder
-- **Damage Immunities** cold, necrotic, poison
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained)
-- **Languages** Common, Elvish
-- **Challenge** 4
-
-## Traits
-
-***Detect Life.*** The banshee magically senses the direction of creatures up to 1 mile away that aren't Constructs or Undead.
-
-***Incorporeal Movement.*** The banshee can move through other creatures and objects as if they were [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md). It takes 5 (`1d10`) Force damage if it ends its turn inside an object.
-
-## Actions
-
-***Multiattack.*** The banshee makes two Corrupting Touch attacks and uses Horrify.
-
-***Corrupting Touch.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Necrotic damage.
-
-***Horrify.*** *Wisdom Saving Throw:* DC 13, one creature the banshee can see within 60 feet that can see the banshee. *Failure:* The target has the [Frightened](/Compendium/rules/conditions.md#Frightened) condition until the start of the banshee's next turn. *Success:* The target is immune to this banshee's Horrify for 24 hours.
-
-***Deathly Wail (1/Day).*** The banshee releases a mournful wail if it isn't in sunlight. *Constitution Saving Throw:* DC 13, each creature within 30 feet that can hear the wail and isn't a Construct or an Undead. *Failure:* If the target has 25 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) or fewer, it drops to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md). Otherwise, the target takes 10 (`3d6`) Psychic damage.
+```statblock
+"name": "Banshee"
+"size": "Medium"
+"type": "undead"
+"alignment": "Chaotic Evil"
+"ac": !!int "12"
+"hp": !!int "54"
+"hit_dice": "12d8"
+"modifier": !!int "2"
+"stats":
+  - !!int "1"
+  - !!int "14"
+  - !!int "10"
+  - !!int "12"
+  - !!int "11"
+  - !!int "17"
+"speed": "5 ft., fly 40 ft. (hover)"
+"saves":
+  - "wisdom": !!int "2"
+"damage_resistances": "acid, bludgeoning, fire, lightning, piercing, slashing, thunder"
+"damage_immunities": "cold, necrotic, poison"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled),\
+  \ [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone),\
+  \ [restrained](/Compendium/rules/conditions.md#Restrained)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Common, Elvish"
+"cr": "4"
+"traits":
+  - "desc": "The banshee magically senses the direction of creatures up to 1 mile\
+      \ away that aren't Constructs or Undead."
+    "name": "Detect Life"
+  - "desc": "The banshee can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+"actions":
+  - "desc": "The banshee makes two Corrupting Touch attacks and uses Horrify."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Necrotic damage."
+    "name": "Corrupting Touch"
+  - "desc": "*Wisdom Saving Throw:* DC 13, one creature the banshee can see within\
+      \ 60 feet that can see the banshee. *Failure:* The target has the [Frightened](/Compendium/rules/conditions.md#Frightened)\
+      \ condition until the start of the banshee's next turn. *Success:* The target\
+      \ is immune to this banshee's Horrify for 24 hours."
+    "name": "Horrify"
+  - "desc": "The banshee releases a mournful wail if it isn't in sunlight. *Constitution\
+      \ Saving Throw:* DC 13, each creature within 30 feet that can hear the wail\
+      \ and isn't a Construct or an Undead. *Failure:* If the target has 25 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ or fewer, it drops to 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ Otherwise, the target takes 10 (3d6) Psychic damage."
+    "name": "Deathly Wail (1/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/undead/token/banshee-xmm.webp"
 ```
 ^statblock
 

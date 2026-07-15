@@ -8,11 +8,13 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/dragon/metallic
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Young Copper Dragon"
 ---
 # Young Copper Dragon
-*Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/dragon/img/copper-dragon.webp#right)
 
 Young copper dragons forge strong connections with a community or group of friends while flitting from one artistic fixation to the next.
@@ -34,36 +36,57 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
 
 ## Statblock
 
-```ad-statblock
-title: Young Copper Dragon
-![](/Compendium/bestiary/dragon/token/young-copper-dragon-xmm.webp#token)
-*Large dragon (metallic), Chaotic Good*
-
-- **Armor Class** 17 
-- **Hit Points** 119 (`14d10 + 42`) 
-- **Speed** 40 ft., climb 40 ft., fly 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +4, Wisdom +4
-- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +5, [Perception](/Compendium/rules/skills.md#Perception) +7, [Stealth](/Compendium/rules/skills.md#Stealth) +4
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 17
-- **Damage Immunities** acid
-- **Languages** Common, Draconic
-- **Challenge** 7
-
-## Actions
-
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Slowing Breath.
-
-***Rend.*** *Melee Attack Roll:* `+7`, reach 10 ft. *Hit:* 15 (`2d10 + 4`) Slashing damage.
-
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 14, each creature in a 40-foot-long, 5-foot-wide [Line](/Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* 40 (`9d8`) Acid damage. *Success:* Half damage.
-
-***Slowing Breath.*** *Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* The target can't take Reactions; its [Speed](/Compendium/rules/variant-rules/speed-xphb.md) is halved; and it can take either an action or a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md) on its turn, not both. This effect lasts until the end of its next turn.
+```statblock
+"name": "Young Copper Dragon"
+"size": "Large"
+"type": "dragon"
+"subtype": "metallic"
+"alignment": "Chaotic Good"
+"ac": !!int "17"
+"hp": !!int "119"
+"hit_dice": "14d10 + 42"
+"modifier": !!int "4"
+"stats":
+  - !!int "19"
+  - !!int "12"
+  - !!int "17"
+  - !!int "16"
+  - !!int "13"
+  - !!int "15"
+"speed": "40 ft., climb 40 ft., fly 80 ft."
+"saves":
+  - "dexterity": !!int "4"
+  - "wisdom": !!int "4"
+"skillsaves":
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
+"damage_immunities": "acid"
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 17"
+"languages": "Common, Draconic"
+"cr": "7"
+"actions":
+  - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
+      \ use of Slowing Breath."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 15 (2d10 + 4) Slashing damage."
+    "name": "Rend"
+  - "desc": "*Dexterity Saving Throw:* DC 14, each creature in a 40-foot-long, 5-foot-wide\
+      \ [Line](/Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ 40 (9d8) Acid damage. *Success:* Half damage."
+    "name": "Acid Breath (Recharge 5-6)"
+  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* The target can't take Reactions; its [Speed](/Compendium/rules/variant-rules/speed-xphb.md)\
+      \ is halved; and it can take either an action or a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md)\
+      \ on its turn, not both. This effect lasts until the end of its next turn."
+    "name": "Slowing Breath"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/dragon/token/young-copper-dragon-xmm.webp"
 ```
 ^statblock
 

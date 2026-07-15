@@ -10,11 +10,13 @@ tags:
 - monster/environment/urban
 - monster/size/large
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Crocodile"
 ---
 # Crocodile
-*Source: Monster Manual (2024) p. 352, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 352, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/crocodile.webp#right)
 
 ## Animals
@@ -26,33 +28,45 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Crocodile
-![](/Compendium/bestiary/beast/token/crocodile-xmm.webp#token)
-*Large beast, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** 13 (`2d10 + 2`) 
-- **Speed** 20 ft., swim 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Constitution +3
-- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +2
-- **Senses** passive Perception 10
-- **Languages** —
-- **Challenge** 1/2
-
-## Traits
-
-***Hold Breath.*** The crocodile can hold its breath for 1 hour.
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Piercing damage. If the target is a Medium or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 12). While [Grappled](/Compendium/rules/conditions.md#Grappled), the target has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition.
+```statblock
+"name": "Crocodile"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "13"
+"hit_dice": "2d10 + 2"
+"modifier": !!int "0"
+"stats":
+  - !!int "15"
+  - !!int "10"
+  - !!int "13"
+  - !!int "2"
+  - !!int "10"
+  - !!int "5"
+"speed": "20 ft., swim 30 ft."
+"saves":
+  - "constitution": !!int "3"
+"skillsaves":
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+2"
+"senses": "passive Perception 10"
+"languages": ""
+"cr": "1/2"
+"traits":
+  - "desc": "The crocodile can hold its breath for 1 hour."
+    "name": "Hold Breath"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage.\
+      \ If the target is a Medium or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 12). While [Grappled](/Compendium/rules/conditions.md#Grappled),\
+      \ the target has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition."
+    "name": "Bite"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/beast/token/crocodile-xmm.webp"
 ```
 ^statblock
 

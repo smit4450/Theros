@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Bandit Deceiver"
 ---
 # Bandit Deceiver
-*Source: Monster Manual (2024) p. 28*  
+*Source: Monster Manual (2024) p. 28*
 ![](/Compendium/bestiary/humanoid/img/bandits.webp#right)
 
 Bandit deceivers use magic to disguise their activities or create flashy distractions.
@@ -46,40 +48,62 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 
 ## Statblock
 
-```ad-statblock
-title: Bandit Deceiver
-![](/Compendium/bestiary/humanoid/token/bandit-deceiver-xmm.webp#token)
-*Small or Medium humanoid, Neutral*
-
-- **Armor Class** 16 
-- **Hit Points** 130 (`20d8 + 40`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1)|16 (+3)|14 (+2)|17 (+3)|12 (+1)|16 (+3)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +6, Intelligence +6
-- **Skills** [Acrobatics](/Compendium/rules/skills.md#Acrobatics) +6, [Perception](/Compendium/rules/skills.md#Perception) +4, [Stealth](/Compendium/rules/skills.md#Stealth) +9
-- **Senses** passive Perception 14
-- **Gear** six [daggers](/Compendium/items/dagger-xphb.md), [wand](/Compendium/items/wand-xphb.md)
-- **Languages** Common, Thieves' cant
-- **Challenge** 7
-
-## Actions
-
-***Multiattack.*** The bandit makes three Dagger attacks.
-
-***Dagger.*** *Melee  or Ranged Attack Roll:* `+6`, reach 5 ft. or range 20/60 ft. *Hit:* 8 (`2d4 + 3`) Piercing damage plus 10 (`3d6`) Poison damage.
-
-***Blinding Flash (Recharge 4-6).*** *Constitution Saving Throw:* DC 14, each creature in a 10-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point the bandit can see within 120 feet. *Failure:* 13 (`3d6 + 3`) Radiant damage, and the target has the [Blinded](/Compendium/rules/conditions.md#Blinded) condition until the start of the bandit's next turn. *Success:* Half damage only.
-
-***Spellcasting.*** The bandit casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
-
-**At will:** [Disguise Self](/Compendium/spells/disguise-self-xphb.md), [Mage Hand](/Compendium/spells/mage-hand-xphb.md), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md)
-
-**1/day each:** [Hold Person](/Compendium/spells/hold-person-xphb.md) (level 4 version), [Mage Armor](/Compendium/spells/mage-armor-xphb.md) (included in AC), [Major Image](/Compendium/spells/major-image-xphb.md)
+```statblock
+"name": "Bandit Deceiver"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "16"
+"hp": !!int "130"
+"hit_dice": "20d8 + 40"
+"modifier": !!int "6"
+"stats":
+  - !!int "8"
+  - !!int "16"
+  - !!int "14"
+  - !!int "17"
+  - !!int "12"
+  - !!int "16"
+"speed": "30 ft."
+"saves":
+  - "dexterity": !!int "6"
+  - "intelligence": !!int "6"
+"skillsaves":
+  - "name": "[Acrobatics](/Compendium/rules/skills.md#Acrobatics)"
+    "desc": "+6"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+9"
+"gear":
+  - "six [daggers](/Compendium/items/dagger-xphb.md)"
+  - "[wand](/Compendium/items/wand-xphb.md)"
+"senses": "passive Perception 14"
+"languages": "Common, Thieves' cant"
+"cr": "7"
+"actions":
+  - "desc": "The bandit makes three Dagger attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 20/60 ft. *Hit:*\
+      \ 8 (2d4 + 3) Piercing damage plus 10 (3d6) Poison damage."
+    "name": "Dagger"
+  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 10-foot-radius\
+      \ [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered\
+      \ on a point the bandit can see within 120 feet. *Failure:* 13 (3d6 + 3) Radiant\
+      \ damage, and the target has the [Blinded](/Compendium/rules/conditions.md#Blinded)\
+      \ condition until the start of the bandit's next turn. *Success:* Half damage\
+      \ only."
+    "name": "Blinding Flash (Recharge 4-6)"
+  - "desc": "The bandit casts one of the following spells, using Intelligence as the\
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [Disguise Self](/Compendium/spells/disguise-self-xphb.md),\
+      \ [Mage Hand](/Compendium/spells/mage-hand-xphb.md), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md)\n\
+      \n**1/day each:** [Hold Person](/Compendium/spells/hold-person-xphb.md) (level\
+      \ 4 version), [Mage Armor](/Compendium/spells/mage-armor-xphb.md) (included\
+      \ in AC), [Major Image](/Compendium/spells/major-image-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/bandit-deceiver-xmm.webp"
 ```
 ^statblock
 

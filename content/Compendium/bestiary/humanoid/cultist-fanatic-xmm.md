@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Cultist Fanatic"
 ---
 # Cultist Fanatic
-*Source: Monster Manual (2024) p. 85. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 85. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/humanoid/img/cultists.webp#right)
 
 Cultist fanatics lead small cults or cells within larger cults. They're privy to more of a cult's mysteries than lower-ranking cultists are, granting them access to magical powers from their patrons.
@@ -73,43 +75,55 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 
 ## Statblock
 
-```ad-statblock
-title: Cultist Fanatic
-![](/Compendium/bestiary/humanoid/token/cultist-fanatic-xmm.webp#token)
-*Small or Medium humanoid, Neutral*
-
-- **Armor Class** 13 
-- **Hit Points** 44 (`8d8 + 8`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|11 (+0)|14 (+2)|12 (+1)|10 (+0)|14 (+2)|13 (+1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Wisdom +4
-- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +3, [Persuasion](/Compendium/rules/skills.md#Persuasion) +3, [Religion](/Compendium/rules/skills.md#Religion) +2
-- **Senses** passive Perception 12
-- **Gear** [holy symbol](/Compendium/items/holy-symbol-xphb.md), [leather armor](/Compendium/items/leather-armor-xphb.md)
-- **Languages** Common
-- **Challenge** 2
-
-## Actions
-
-***Pact Blade.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Slashing damage plus 7 (`2d6`) Necrotic damage.
-
-***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12, `+4` to hit with spell attacks):
-
-**At will:** [Light](/Compendium/spells/light-xphb.md), [Thaumaturgy](/Compendium/spells/thaumaturgy-xphb.md)
-
-**2/day:** [Command](/Compendium/spells/command-xphb.md)
-
-**1/day:** [Hold Person](/Compendium/spells/hold-person-xphb.md)
-
-## Bonus Actions
-
-***Spiritual Weapon (2/Day).*** The cultist casts the [Spiritual Weapon](/Compendium/spells/spiritual-weapon-xphb.md) spell, using the same spellcasting ability as Spellcasting.
-
+```statblock
+"name": "Cultist Fanatic"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "13"
+"hp": !!int "44"
+"hit_dice": "8d8 + 8"
+"modifier": !!int "2"
+"stats":
+  - !!int "11"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "14"
+  - !!int "13"
+"speed": "30 ft."
+"saves":
+  - "wisdom": !!int "4"
+"skillsaves":
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+3"
+  - "name": "[Persuasion](/Compendium/rules/skills.md#Persuasion)"
+    "desc": "+3"
+  - "name": "[Religion](/Compendium/rules/skills.md#Religion)"
+    "desc": "+2"
+"gear":
+  - "[holy symbol](/Compendium/items/holy-symbol-xphb.md)"
+  - "[leather armor](/Compendium/items/leather-armor-xphb.md)"
+"senses": "passive Perception 12"
+"languages": "Common"
+"cr": "2"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Slashing damage\
+      \ plus 7 (2d6) Necrotic damage."
+    "name": "Pact Blade"
+  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 12, +4 to hit with spell attacks):\n\n**At will:**\
+      \ [Light](/Compendium/spells/light-xphb.md), [Thaumaturgy](/Compendium/spells/thaumaturgy-xphb.md)\n\
+      \n**2/day:** [Command](/Compendium/spells/command-xphb.md)\n\n**1/day:** [Hold\
+      \ Person](/Compendium/spells/hold-person-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The cultist casts the [Spiritual Weapon](/Compendium/spells/spiritual-weapon-xphb.md)\
+      \ spell, using the same spellcasting ability as Spellcasting.\n"
+    "name": "Spiritual Weapon (2/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/cultist-fanatic-xmm.webp"
 ```
 ^statblock
 

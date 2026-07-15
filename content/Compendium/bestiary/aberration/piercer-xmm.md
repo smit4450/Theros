@@ -8,11 +8,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/aberration
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Piercer"
 ---
 # Piercer
-*Source: Monster Manual (2024) p. 240*  
+*Source: Monster Manual (2024) p. 240*
 ![](/Compendium/bestiary/aberration/img/piercer.webp#right)
 
 ## Piercer
@@ -31,35 +33,44 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
 > Rule 8: Never trust a stalactite
 
 
-```ad-statblock
-title: Piercer
-![](/Compendium/bestiary/aberration/token/piercer-xmm.webp#token)
-*Medium aberration, Unaligned*
-
-- **Armor Class** 15 
-- **Hit Points** 22 (`3d8 + 9`) 
-- **Speed** 5 ft., climb 15 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|13 (+1)|13 (+1)|16 (+3)| 1 (-5)| 7 (-2)| 3 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +5
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 8
-- **Languages** —
-- **Challenge** 1/2
-
-## Traits
-
-***Spider Climb.*** The piercer can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 5 (`1d8 + 1`) Piercing damage.
-
-***Drop.*** The piercer falls. *Dexterity Saving Throw:* DC 11, one creature directly underneath the piercer. *Failure:* 10 (`3d6`) Piercing damage. *Failure or Success:* The piercer reduces any damage it takes from the fall by 20.
+```statblock
+"name": "Piercer"
+"size": "Medium"
+"type": "aberration"
+"alignment": "Unaligned"
+"ac": !!int "15"
+"hp": !!int "22"
+"hit_dice": "3d8 + 9"
+"modifier": !!int "3"
+"stats":
+  - !!int "13"
+  - !!int "13"
+  - !!int "16"
+  - !!int "1"
+  - !!int "7"
+  - !!int "3"
+"speed": "5 ft., climb 15 ft."
+"skillsaves":
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+5"
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 8"
+"languages": ""
+"cr": "1/2"
+"traits":
+  - "desc": "The piercer can climb difficult surfaces, including along ceilings, without\
+      \ needing to make an ability check."
+    "name": "Spider Climb"
+"actions":
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d8 + 1) Piercing damage."
+    "name": "Bite"
+  - "desc": "The piercer falls. *Dexterity Saving Throw:* DC 11, one creature directly\
+      \ underneath the piercer. *Failure:* 10 (3d6) Piercing damage. *Failure or Success:*\
+      \ The piercer reduces any damage it takes from the fall by 20."
+    "name": "Drop"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/aberration/token/piercer-xmm.webp"
 ```
 ^statblock
 

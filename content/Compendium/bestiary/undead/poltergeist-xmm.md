@@ -9,11 +9,13 @@ tags:
 - monster/environment/urban
 - monster/size/small-or-medium
 - monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Poltergeist"
 ---
 # Poltergeist
-*Source: Monster Manual (2024) p. 246*  
+*Source: Monster Manual (2024) p. 246*
 ![](/Compendium/bestiary/undead/img/poltergeist.webp#right)
 
 ## Poltergeist
@@ -41,44 +43,57 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 | 8 | Uncannily stacks books, furniture, or utensils. |
 ^poltergeist-activities
 
-```ad-statblock
-title: Poltergeist
-![](/Compendium/bestiary/undead/token/poltergeist-xmm.webp#token)
-*Small or Medium undead, Chaotic Neutral*
-
-- **Armor Class** 12 
-- **Hit Points** 22 (`5d8`) 
-- **Speed** 5 ft., fly 50 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Damage Resistances** acid, bludgeoning, cold, fire, lightning, piercing, slashing, thunder
-- **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [unconscious](/Compendium/rules/conditions.md#Unconscious)
-- **Languages** Common plus one other language
-- **Challenge** 2
-
-## Traits
-
-***Incorporeal Movement.*** The poltergeist can move through other creatures and objects as if they were [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md). It takes 5 (`1d10`) Force damage if it ends its turn inside an object.
-
-## Actions
-
-***Multiattack.*** The poltergeist makes one Object Slam attack and uses Telekinetic Thrust.
-
-***Object Slam.*** *Melee  or Ranged Attack Roll:* `+4`, reach 5 ft. or range 30 ft. *Hit:* 7 (`2d4 + 2`) Bludgeoning damage.
-
-***Telekinetic Thrust.*** *Strength Saving Throw:* DC 12, one creature the poltergeist can see within 30 feet. *Failure:* 9 (`2d6 + 2`) Force damage, and the target is pushed up to 30 feet straight away from the poltergeist.
-
-## Bonus Actions
-
-***Vanish.*** The poltergeist gives itself the [Invisible](/Compendium/rules/conditions.md#Invisible) condition or ends that condition on itself.
+```statblock
+"name": "Poltergeist"
+"size": "Small or Medium"
+"type": "undead"
+"alignment": "Chaotic Neutral"
+"ac": !!int "12"
+"hp": !!int "22"
+"hit_dice": "5d8"
+"modifier": !!int "2"
+"stats":
+  - !!int "1"
+  - !!int "14"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "14"
+"speed": "5 ft., fly 50 ft. (hover)"
+"damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
+  \ thunder"
+"damage_immunities": "necrotic, poison"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed),\
+  \ [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned),\
+  \ [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained),\
+  \ [unconscious](/Compendium/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Common plus one other language"
+"cr": "2"
+"traits":
+  - "desc": "The poltergeist can move through other creatures and objects as if they\
+      \ were [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+"actions":
+  - "desc": "The poltergeist makes one Object Slam attack and uses Telekinetic Thrust."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +4, reach 5 ft. or range 30 ft. *Hit:*\
+      \ 7 (2d4 + 2) Bludgeoning damage."
+    "name": "Object Slam"
+  - "desc": "*Strength Saving Throw:* DC 12, one creature the poltergeist can see\
+      \ within 30 feet. *Failure:* 9 (2d6 + 2) Force damage, and the target is pushed\
+      \ up to 30 feet straight away from the poltergeist."
+    "name": "Telekinetic Thrust"
+"bonus_actions":
+  - "desc": "The poltergeist gives itself the [Invisible](/Compendium/rules/conditions.md#Invisible)\
+      \ condition or ends that condition on itself."
+    "name": "Vanish"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/undead/token/poltergeist-xmm.webp"
 ```
 ^statblock
 

@@ -15,11 +15,13 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Stirge"
 ---
 # Stirge
-*Source: Monster Manual (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/monstrosity/img/stirges.webp#right)
 
 A single stirge is usually little more than an annoyance, but several can be deadly if they attach faster than a victim can remove them.
@@ -45,31 +47,38 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 
 ## Statblock
 
-```ad-statblock
-title: Stirge
-![](/Compendium/bestiary/monstrosity/token/stirge-xmm.webp#token)
-*Tiny monstrosity, Unaligned*
-
-- **Armor Class** 13 
-- **Hit Points** 5 (`2d4`) 
-- **Speed** 10 ft., fly 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 4 (-3)|16 (+3)|11 (+0)| 2 (-4)| 8 (-1)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Languages** —
-- **Challenge** 1/8
-
-## Actions
-
-***Proboscis.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Piercing damage, and the stirge attaches to the target. While attached, the stirge can't make Proboscis attacks, and the target takes 5 (`2d4`) Necrotic damage at the start of each of the stirge's turns.
-
-The stirge can detach itself by spending 5 feet of its movement. The target or a creature within 5 feet of it can detach the stirge as an action.
+```statblock
+"name": "Stirge"
+"size": "Tiny"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "5"
+"hit_dice": "2d4"
+"modifier": !!int "3"
+"stats":
+  - !!int "4"
+  - !!int "16"
+  - !!int "11"
+  - !!int "2"
+  - !!int "8"
+  - !!int "6"
+"speed": "10 ft., fly 40 ft."
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
+"languages": ""
+"cr": "1/8"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage,\
+      \ and the stirge attaches to the target. While attached, the stirge can't make\
+      \ Proboscis attacks, and the target takes 5 (2d4) Necrotic damage at the start\
+      \ of each of the stirge's turns.\n\nThe stirge can detach itself by spending\
+      \ 5 feet of its movement. The target or a creature within 5 feet of it can detach\
+      \ the stirge as an action."
+    "name": "Proboscis"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/stirge-xmm.webp"
 ```
 ^statblock
 

@@ -11,11 +11,13 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Giant Hyena"
 ---
 # Giant Hyena
-*Source: Monster Manual (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/hyena.webp#right)
 
 ## Animals
@@ -27,33 +29,41 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Giant Hyena
-![](/Compendium/bestiary/beast/token/giant-hyena-xmm.webp#token)
-*Large beast, Unaligned*
-
-- **Armor Class** 12 
-- **Hit Points** 45 (`6d10 + 12`) 
-- **Speed** 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|14 (+2)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 13
-- **Languages** —
-- **Challenge** 1
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 10 (`2d6 + 3`) Piercing damage.
-
-## Bonus Actions
-
-***Rampage (1/Day).*** Immediately after dealing damage to a creature that was already [Bloodied](/Compendium/rules/conditions.md#Bloodied), the hyena can move up to half its [Speed](/Compendium/rules/variant-rules/speed-xphb.md), and it makes one Bite attack.
+```statblock
+"name": "Giant Hyena"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "45"
+"hit_dice": "6d10 + 12"
+"modifier": !!int "2"
+"stats":
+  - !!int "16"
+  - !!int "14"
+  - !!int "14"
+  - !!int "2"
+  - !!int "12"
+  - !!int "7"
+"speed": "50 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 13"
+"languages": ""
+"cr": "1"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Piercing damage."
+    "name": "Bite"
+"bonus_actions":
+  - "desc": "Immediately after dealing damage to a creature that was already [Bloodied](/Compendium/rules/conditions.md#Bloodied),\
+      \ the hyena can move up to half its [Speed](/Compendium/rules/variant-rules/speed-xphb.md),\
+      \ and it makes one Bite attack."
+    "name": "Rampage (1/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/beast/token/giant-hyena-xmm.webp"
 ```
 ^statblock
 

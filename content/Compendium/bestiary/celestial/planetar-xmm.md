@@ -9,11 +9,13 @@ tags:
 - monster/environment/upper
 - monster/size/large
 - monster/type/celestial/angel
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Planetar"
 ---
 # Planetar
-*Source: Monster Manual (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/planetar.webp#right)
 
 ## Planetar
@@ -39,54 +41,75 @@ These angels act where they can against overwhelming evil, but to avoid the atte
 | 6 | Reveal the true name of a devil to banish it. |
 ^planetar-quests
 
-```ad-statblock
-title: Planetar
-![](/Compendium/bestiary/celestial/token/planetar-xmm.webp#token)
-*Large celestial (angel), Lawful Good*
-
-- **Armor Class** 19 
-- **Hit Points** 262 (`21d10 + 147`) 
-- **Speed** 40 ft., fly 120 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|24 (+7)|20 (+5)|24 (+7)|19 (+4)|22 (+6)|25 (+7)|
-
-- **Proficiency Bonus** +5
-- **Saving Throws** Strength +12, Constitution +12, Wisdom +11, Charisma +12
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +11
-- **Senses** [Truesight](/Compendium/rules/senses.md#Truesight) 120 ft., passive Perception 21
-- **Damage Resistances** radiant
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened)
-- **Languages** all; telepathy 120 ft.
-- **Challenge** 16
-
-## Traits
-
-***Divine Awareness.*** The planetar knows if it hears a lie.
-
-***Exalted Restoration.*** If the planetar dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) somewhere in Mount Celestia.
-
-***Magic Resistance.*** The planetar has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The planetar makes three Radiant Sword attacks or uses Holy Burst twice.
-
-***Radiant Sword.*** *Melee Attack Roll:* `+12`, reach 10 ft. *Hit:* 14 (`2d6 + 7`) Slashing damage plus 18 (`4d8`) Radiant damage.
-
-***Holy Burst.*** *Dexterity Saving Throw:* DC 20, each enemy in a 20-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point the planetar can see within 120 feet. *Failure:* 24 (`7d6`) Radiant damage. *Success:* Half damage.
-
-***Spellcasting.*** The planetar casts one of the following spells, requiring no Material components and using Charisma as spellcasting ability (spell save DC 20):
-
-**At will:** [Detect Evil and Good](/Compendium/spells/detect-evil-and-good-xphb.md)
-
-**1/day each:** [Commune](/Compendium/spells/commune-xphb.md), [Control Weather](/Compendium/spells/control-weather-xphb.md), [Dispel Evil and Good](/Compendium/spells/dispel-evil-and-good-xphb.md), [Raise Dead](/Compendium/spells/raise-dead-xphb.md)
-
-## Bonus Actions
-
-***Divine Aid (2/Day).*** The planetar casts [Cure Wounds](/Compendium/spells/cure-wounds-xphb.md), [Invisibility](/Compendium/spells/invisibility-xphb.md), [Lesser Restoration](/Compendium/spells/lesser-restoration-xphb.md), or [Remove Curse](/Compendium/spells/remove-curse-xphb.md), using the same spellcasting ability as Spellcasting.
-
+```statblock
+"name": "Planetar"
+"size": "Large"
+"type": "celestial"
+"subtype": "angel"
+"alignment": "Lawful Good"
+"ac": !!int "19"
+"hp": !!int "262"
+"hit_dice": "21d10 + 147"
+"modifier": !!int "10"
+"stats":
+  - !!int "24"
+  - !!int "20"
+  - !!int "24"
+  - !!int "19"
+  - !!int "22"
+  - !!int "25"
+"speed": "40 ft., fly 120 ft. (hover)"
+"saves":
+  - "strength": !!int "12"
+  - "constitution": !!int "12"
+  - "wisdom": !!int "11"
+  - "charisma": !!int "12"
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+11"
+"damage_resistances": "radiant"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [frightened](/Compendium/rules/conditions.md#Frightened)"
+"senses": "[Truesight](/Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+  \ 21"
+"languages": "all; telepathy 120 ft."
+"cr": "16"
+"traits":
+  - "desc": "The planetar knows if it hears a lie."
+    "name": "Divine Awareness"
+  - "desc": "If the planetar dies outside Mount Celestia, its body disappears, and\
+      \ it gains a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ somewhere in Mount Celestia."
+    "name": "Exalted Restoration"
+  - "desc": "The planetar has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The planetar makes three Radiant Sword attacks or uses Holy Burst twice."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +12, reach 10 ft. *Hit:* 14 (2d6 + 7) Slashing damage\
+      \ plus 18 (4d8) Radiant damage."
+    "name": "Radiant Sword"
+  - "desc": "*Dexterity Saving Throw:* DC 20, each enemy in a 20-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ centered on a point the planetar can see within 120 feet. *Failure:* 24 (7d6)\
+      \ Radiant damage. *Success:* Half damage."
+    "name": "Holy Burst"
+  - "desc": "The planetar casts one of the following spells, requiring no Material\
+      \ components and using Charisma as spellcasting ability (spell save DC 20):\n\
+      \n**At will:** [Detect Evil and Good](/Compendium/spells/detect-evil-and-good-xphb.md)\n\
+      \n**1/day each:** [Commune](/Compendium/spells/commune-xphb.md), [Control Weather](/Compendium/spells/control-weather-xphb.md),\
+      \ [Dispel Evil and Good](/Compendium/spells/dispel-evil-and-good-xphb.md), [Raise\
+      \ Dead](/Compendium/spells/raise-dead-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The planetar casts [Cure Wounds](/Compendium/spells/cure-wounds-xphb.md),\
+      \ [Invisibility](/Compendium/spells/invisibility-xphb.md), [Lesser Restoration](/Compendium/spells/lesser-restoration-xphb.md),\
+      \ or [Remove Curse](/Compendium/spells/remove-curse-xphb.md), using the same\
+      \ spellcasting ability as Spellcasting.\n"
+    "name": "Divine Aid (2/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/celestial/token/planetar-xmm.webp"
 ```
 ^statblock
 

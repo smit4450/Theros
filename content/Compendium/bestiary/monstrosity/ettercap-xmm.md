@@ -8,11 +8,13 @@ tags:
 - monster/environment/forest
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Ettercap"
 ---
 # Ettercap
-*Source: Monster Manual (2024) p. 115. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 115. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/ettercap.webp#right)
 
 ## Ettercap
@@ -28,45 +30,63 @@ Ettercaps frequently overhunt their environment. Left unchecked, ettercaps might
 
 Ettercaps avoid fire, which can quickly burn through their webs and the dead trees where they make their homes.
 
-```ad-statblock
-title: Ettercap
-![](/Compendium/bestiary/monstrosity/token/ettercap-xmm.webp#token)
-*Medium monstrosity, Neutral Evil*
-
-- **Armor Class** 13 
-- **Hit Points** 44 (`8d8 + 8`) 
-- **Speed** 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|15 (+2)|13 (+1)| 7 (-2)|12 (+1)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3, [Stealth](/Compendium/rules/skills.md#Stealth) +4, [Survival](/Compendium/rules/skills.md#Survival) +3
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 13
-- **Languages** —
-- **Challenge** 2
-
-## Traits
-
-***Spider Climb.*** The ettercap can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-
-***Web Walker.*** The ettercap ignores movement restrictions caused by webs, and the ettercap knows the location of any other creature in contact with the same web.
-
-## Actions
-
-***Multiattack.*** The ettercap makes one Bite attack and one Claw attack.
-
-***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 5 (`1d6 + 2`) Piercing damage plus 2 (`1d4`) Poison damage, and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the start of the ettercap's next turn.
-
-***Claw.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 7 (`2d4 + 2`) Slashing damage.
-
-***Web Strand (Recharge 5-6).*** *Dexterity Saving Throw:* DC 12, one Large or smaller creature the ettercap can see within 30 feet. *Failure:* The target has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition until the web is destroyed (AC 10; HP 5; [Vulnerability](/Compendium/rules/variant-rules/vulnerability-xphb.md) to Fire damage; [Immunity](/Compendium/rules/variant-rules/immunity-xphb.md) to Bludgeoning, Poison, and Psychic damage).
-
-## Bonus Actions
-
-***Reel.*** The ettercap pulls one creature within 30 feet of itself that is [Restrained](/Compendium/rules/conditions.md#Restrained) by its Web Strand up to 25 feet straight toward itself.
+```statblock
+"name": "Ettercap"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Neutral Evil"
+"ac": !!int "13"
+"hp": !!int "44"
+"hit_dice": "8d8 + 8"
+"modifier": !!int "2"
+"stats":
+  - !!int "14"
+  - !!int "15"
+  - !!int "13"
+  - !!int "7"
+  - !!int "12"
+  - !!int "8"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
+  - "name": "[Survival](/Compendium/rules/skills.md#Survival)"
+    "desc": "+3"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 13"
+"languages": ""
+"cr": "2"
+"traits":
+  - "desc": "The ettercap can climb difficult surfaces, including along ceilings,\
+      \ without needing to make an ability check."
+    "name": "Spider Climb"
+  - "desc": "The ettercap ignores movement restrictions caused by webs, and the ettercap\
+      \ knows the location of any other creature in contact with the same web."
+    "name": "Web Walker"
+"actions":
+  - "desc": "The ettercap makes one Bite attack and one Claw attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage\
+      \ plus 2 (1d4) Poison damage, and the target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the start of the ettercap's next turn."
+    "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Slashing damage."
+    "name": "Claw"
+  - "desc": "*Dexterity Saving Throw:* DC 12, one Large or smaller creature the ettercap\
+      \ can see within 30 feet. *Failure:* The target has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition until the web is destroyed (AC 10; HP 5; [Vulnerability](/Compendium/rules/variant-rules/vulnerability-xphb.md)\
+      \ to Fire damage; [Immunity](/Compendium/rules/variant-rules/immunity-xphb.md)\
+      \ to Bludgeoning, Poison, and Psychic damage)."
+    "name": "Web Strand (Recharge 5-6)"
+"bonus_actions":
+  - "desc": "The ettercap pulls one creature within 30 feet of itself that is [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ by its Web Strand up to 25 feet straight toward itself."
+    "name": "Reel"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/ettercap-xmm.webp"
 ```
 ^statblock
 

@@ -14,11 +14,13 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/fey/goblinoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Goblin Boss"
 ---
 # Goblin Boss
-*Source: Monster Manual (2024) p. 143. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 143. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe](/Compendium/bestiary/fey/img/goblins.webp#right)
 
 Goblin bosses are often the most imaginative, disruptive, or forceful goblins. Through a combination of luck, cowardice, and callousness, these leaders avoid harm at the expense of their followers.
@@ -43,42 +45,58 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 
 ## Statblock
 
-```ad-statblock
-title: Goblin Boss
-![](/Compendium/bestiary/fey/token/goblin-boss-xmm.webp#token)
-*Small fey (goblinoid), Chaotic Neutral*
-
-- **Armor Class** 17 
-- **Hit Points** 21 (`6d6`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|15 (+2)|10 (+0)|10 (+0)| 8 (-1)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Gear** [chain shirt](/Compendium/items/chain-shirt-xphb.md), [scimitar](/Compendium/items/scimitar-xphb.md), [shield](/Compendium/items/shield-xphb.md), [shortbow](/Compendium/items/shortbow-xphb.md)
-- **Languages** Common, Goblin
-- **Challenge** 1
-
-## Actions
-
-***Multiattack.*** The goblin makes two attacks, using Scimitar or Shortbow in any combination.
-
-***Scimitar.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 5 (`1d6 + 2`) Slashing damage, plus 2 (`1d4`) Slashing damage if the attack roll had [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md).
-
-***Shortbow.*** *Ranged Attack Roll:* `+4`, range 80/320 ft. *Hit:* 5 (`1d6 + 2`) Piercing damage, plus 2 (`1d4`) Piercing damage if the attack roll had [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md).
-
-## Bonus Actions
-
-***Nimble Escape.*** The goblin takes the [Disengage](/Compendium/rules/actions.md#Disengage) or [Hide](/Compendium/rules/actions.md#Hide) action.
-
-## Reactions
-
-***Redirect Attack.*** Trigger: A creature the goblin can see makes an attack roll against it. _Response:_ The goblin chooses a Small or Medium ally within 5 feet of itself. The goblin and that ally swap places, and the ally becomes the target of the attack instead.
+```statblock
+"name": "Goblin Boss"
+"size": "Small"
+"type": "fey"
+"subtype": "goblinoid"
+"alignment": "Chaotic Neutral"
+"ac": !!int "17"
+"hp": !!int "21"
+"hit_dice": "6d6"
+"modifier": !!int "2"
+"stats":
+  - !!int "10"
+  - !!int "15"
+  - !!int "10"
+  - !!int "10"
+  - !!int "8"
+  - !!int "10"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
+"gear":
+  - "[chain shirt](/Compendium/items/chain-shirt-xphb.md)"
+  - "[scimitar](/Compendium/items/scimitar-xphb.md)"
+  - "[shield](/Compendium/items/shield-xphb.md)"
+  - "[shortbow](/Compendium/items/shortbow-xphb.md)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
+"languages": "Common, Goblin"
+"cr": "1"
+"actions":
+  - "desc": "The goblin makes two attacks, using Scimitar or Shortbow in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing damage,\
+      \ plus 2 (1d4) Slashing damage if the attack roll had [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)."
+    "name": "Scimitar"
+  - "desc": "*Ranged Attack Roll:* +4, range 80/320 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage, plus 2 (1d4) Piercing damage if the attack roll had [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)."
+    "name": "Shortbow"
+"bonus_actions":
+  - "desc": "The goblin takes the [Disengage](/Compendium/rules/actions.md#Disengage)\
+      \ or [Hide](/Compendium/rules/actions.md#Hide) action."
+    "name": "Nimble Escape"
+"reactions":
+  - "desc": "Trigger: A creature the goblin can see makes an attack roll against it.\
+      \ _Response:_ The goblin chooses a Small or Medium ally within 5 feet of itself.\
+      \ The goblin and that ally swap places, and the ally becomes the target of the\
+      \ attack instead."
+    "name": "Redirect Attack"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fey/token/goblin-boss-xmm.webp"
 ```
 ^statblock
 

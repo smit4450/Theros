@@ -11,11 +11,13 @@ tags:
 - monster/environment/hill
 - monster/size/medium
 - monster/type/fiend
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Gnoll Warrior"
 ---
 # Gnoll Warrior
-*Source: Monster Manual (2024) p. 140. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 140. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/fiend/img/gnolls.webp#right)
 
 Gnoll warriors crave endless slaughter but quickly grow bored with the prey they kill and the treasures they plunder. Nevertheless, they're enraged by the thought of anyone else having what's theirs, compelling them to ruin what they can't take with them.
@@ -36,35 +38,41 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 
 ## Statblock
 
-```ad-statblock
-title: Gnoll Warrior
-![](/Compendium/bestiary/fiend/token/gnoll-warrior-xmm.webp#token)
-*Medium fiend, Chaotic Evil*
-
-- **Armor Class** 15 
-- **Hit Points** 27 (`6d8`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|12 (+1)|11 (+0)| 6 (-2)|10 (+0)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Languages** Gnoll
-- **Challenge** 1/2
-
-## Actions
-
-***Rend.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 5 (`1d6 + 2`) Piercing damage.
-
-***Bone Bow.*** *Ranged Attack Roll:* `+3`, range 150/600 ft. *Hit:* 6 (`1d10 + 1`) Piercing damage.
-
-## Bonus Actions
-
-***Rampage (1/Day).*** Immediately after dealing damage to a creature that is already [Bloodied](/Compendium/rules/conditions.md#Bloodied), the gnoll moves up to half its [Speed](/Compendium/rules/variant-rules/speed-xphb.md), and it makes one Rend attack.
+```statblock
+"name": "Gnoll Warrior"
+"size": "Medium"
+"type": "fiend"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"hp": !!int "27"
+"hit_dice": "6d8"
+"modifier": !!int "1"
+"stats":
+  - !!int "14"
+  - !!int "12"
+  - !!int "11"
+  - !!int "6"
+  - !!int "10"
+  - !!int "7"
+"speed": "30 ft."
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Gnoll"
+"cr": "1/2"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage."
+    "name": "Rend"
+  - "desc": "*Ranged Attack Roll:* +3, range 150/600 ft. *Hit:* 6 (1d10 + 1) Piercing\
+      \ damage."
+    "name": "Bone Bow"
+"bonus_actions":
+  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/Compendium/rules/conditions.md#Bloodied),\
+      \ the gnoll moves up to half its [Speed](/Compendium/rules/variant-rules/speed-xphb.md),\
+      \ and it makes one Rend attack."
+    "name": "Rampage (1/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fiend/token/gnoll-warrior-xmm.webp"
 ```
 ^statblock
 

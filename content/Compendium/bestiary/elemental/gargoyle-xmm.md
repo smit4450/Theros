@@ -9,11 +9,13 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/elemental
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Gargoyle"
 ---
 # Gargoyle
-*Source: Monster Manual (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/elemental/img/gargoyle.webp#right)
 
 ## Gargoyle
@@ -62,37 +64,45 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 > Where evil passes in the Elemental Plane of Earth, it stains the rock and spoils the soil. Malice vanishes amid other elements, but in the dismal dark, the wicked shape it into nightmares.
 
 
-```ad-statblock
-title: Gargoyle
-![](/Compendium/bestiary/elemental/token/gargoyle-xmm.webp#token)
-*Medium elemental, Chaotic Evil*
-
-- **Armor Class** 15 
-- **Hit Points** 67 (`9d8 + 27`) 
-- **Speed** 30 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|11 (+0)|16 (+3)| 6 (-2)|11 (+0)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +4
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Primordial (Terran)
-- **Challenge** 2
-
-## Traits
-
-***Flyby.*** The gargoyle doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
-
-## Actions
-
-***Multiattack.*** The gargoyle makes two Claw attacks.
-
-***Claw.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 7 (`2d4 + 2`) Slashing damage.
+```statblock
+"name": "Gargoyle"
+"size": "Medium"
+"type": "elemental"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"hp": !!int "67"
+"hit_dice": "9d8 + 27"
+"modifier": !!int "2"
+"stats":
+  - !!int "15"
+  - !!int "11"
+  - !!int "16"
+  - !!int "6"
+  - !!int "11"
+  - !!int "7"
+"speed": "30 ft., fly 60 ft."
+"skillsaves":
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
+"damage_immunities": "poison"
+"condition_immunities": "[exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Primordial (Terran)"
+"cr": "2"
+"traits":
+  - "desc": "The gargoyle doesn't provoke an Opportunity Attack when it flies out\
+      \ of an enemy's reach."
+    "name": "Flyby"
+"actions":
+  - "desc": "The gargoyle makes two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Slashing damage."
+    "name": "Claw"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/elemental/token/gargoyle-xmm.webp"
 ```
 ^statblock
 

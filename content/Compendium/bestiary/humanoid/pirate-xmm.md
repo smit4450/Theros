@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Pirate"
 ---
 # Pirate
-*Source: Monster Manual (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/humanoid/img/pirate.webp#right)
 
 Along with being competent warriors, pirates are accomplished seafarers who know how to sail and maintain a ship. While some loyally follow their captains' orders, others place greed, superstition, or self-preservation over duty.
@@ -50,34 +52,46 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 
 ## Statblock
 
-```ad-statblock
-title: Pirate
-![](/Compendium/bestiary/humanoid/token/pirate-xmm.webp#token)
-*Small or Medium humanoid, Neutral*
-
-- **Armor Class** 14 
-- **Hit Points** 33 (`6d8 + 6`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|16 (+3)|12 (+1)| 8 (-1)|12 (+1)|14 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Dexterity +5, Charisma +4
-- **Skills** ⏤
-- **Senses** passive Perception 11
-- **Gear** six [daggers](/Compendium/items/dagger-xphb.md), [leather armor](/Compendium/items/leather-armor-xphb.md)
-- **Languages** Common plus one other language
-- **Challenge** 1
-
-## Actions
-
-***Multiattack.*** The pirate makes two Dagger attacks. It can replace one attack with a use of Enthralling Panache.
-
-***Dagger.*** *Melee  or Ranged Attack Roll:* `+5`, reach 5 ft. or range 20/60 ft. *Hit:* 5 (`1d4 + 3`) Piercing damage.
-
-***Enthralling Panache.*** *Wisdom Saving Throw:* DC 12, one creature the pirate can see within 30 feet. *Failure:* The target has the [Charmed](/Compendium/rules/conditions.md#Charmed) condition until the start of the pirate's next turn.
+```statblock
+"name": "Pirate"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "14"
+"hp": !!int "33"
+"hit_dice": "6d8 + 6"
+"modifier": !!int "5"
+"stats":
+  - !!int "10"
+  - !!int "16"
+  - !!int "12"
+  - !!int "8"
+  - !!int "12"
+  - !!int "14"
+"speed": "30 ft."
+"saves":
+  - "dexterity": !!int "5"
+  - "charisma": !!int "4"
+"gear":
+  - "six [daggers](/Compendium/items/dagger-xphb.md)"
+  - "[leather armor](/Compendium/items/leather-armor-xphb.md)"
+"senses": "passive Perception 11"
+"languages": "Common plus one other language"
+"cr": "1"
+"actions":
+  - "desc": "The pirate makes two Dagger attacks. It can replace one attack with a\
+      \ use of Enthralling Panache."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:*\
+      \ 5 (1d4 + 3) Piercing damage."
+    "name": "Dagger"
+  - "desc": "*Wisdom Saving Throw:* DC 12, one creature the pirate can see within\
+      \ 30 feet. *Failure:* The target has the [Charmed](/Compendium/rules/conditions.md#Charmed)\
+      \ condition until the start of the pirate's next turn."
+    "name": "Enthralling Panache"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/pirate-xmm.webp"
 ```
 ^statblock
 

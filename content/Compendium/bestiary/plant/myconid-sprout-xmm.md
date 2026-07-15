@@ -8,11 +8,13 @@ tags:
 - monster/environment/underdark
 - monster/size/small
 - monster/type/plant
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Myconid Sprout"
 ---
 # Myconid Sprout
-*Source: Monster Manual (2024) p. 222*  
+*Source: Monster Manual (2024) p. 222*
 ![](/Compendium/bestiary/plant/img/myconids.webp#right)
 
 Myconid sprouts tend to their fungal homes and watch for trespassers.
@@ -28,35 +30,44 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 
 ## Statblock
 
-```ad-statblock
-title: Myconid Sprout
-![](/Compendium/bestiary/plant/token/myconid-sprout-xmm.webp#token)
-*Small plant, Lawful Neutral*
-
-- **Armor Class** 10 
-- **Hit Points** 3 (`1d6`) 
-- **Speed** 10 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1)|10 (+0)|10 (+0)| 8 (-1)|11 (+0)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 10
-- **Languages** telepathy 240 ft.
-- **Challenge** 0
-
-## Traits
-
-***Sun Sickness.*** While in sunlight, the myconid has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on [D20 Tests](/Compendium/rules/variant-rules/d20-test-xphb.md). The myconid dies if it spends more than 1 hour in sunlight.
-
-## Actions
-
-***Slam.*** *Melee Attack Roll:* `+1`, reach 5 ft. *Hit:* 1 (`1d4 - 1`) Bludgeoning damage plus 2 (`1d4`) Poison damage.
-
-***Rapport Spores.*** The myconid expels spores in a 30-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from itself. Creatures in that area with an Intelligence score of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy with a range of 30 feet for 1 hour.
+```statblock
+"name": "Myconid Sprout"
+"size": "Small"
+"type": "plant"
+"alignment": "Lawful Neutral"
+"ac": !!int "10"
+"hp": !!int "3"
+"hit_dice": "1d6"
+"modifier": !!int "0"
+"stats":
+  - !!int "8"
+  - !!int "10"
+  - !!int "10"
+  - !!int "8"
+  - !!int "11"
+  - !!int "5"
+"speed": "10 ft."
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 10"
+"languages": "telepathy 240 ft."
+"cr": "0"
+"traits":
+  - "desc": "While in sunlight, the myconid has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on [D20 Tests](/Compendium/rules/variant-rules/d20-test-xphb.md). The myconid\
+      \ dies if it spends more than 1 hour in sunlight."
+    "name": "Sun Sickness"
+"actions":
+  - "desc": "*Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 (1d4 - 1) Bludgeoning damage\
+      \ plus 2 (1d4) Poison damage."
+    "name": "Slam"
+  - "desc": "The myconid expels spores in a 30-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from itself. Creatures in that area with an Intelligence score\
+      \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
+      \ with a range of 30 feet for 1 hour."
+    "name": "Rapport Spores"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/plant/token/myconid-sprout-xmm.webp"
 ```
 ^statblock
 

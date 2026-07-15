@@ -10,11 +10,13 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Hippogriff"
 ---
 # Hippogriff
-*Source: Monster Manual (2024) p. 169. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 169. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/hippogriff.webp#right)
 
 ## Hippogriff
@@ -40,35 +42,41 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 | 6 | Portal to the Feywild or an Upper Plane. |
 ^hippogriff-destination
 
-```ad-statblock
-title: Hippogriff
-![](/Compendium/bestiary/monstrosity/token/hippogriff-xmm.webp#token)
-*Large monstrosity, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** 26 (`4d10 + 4`) 
-- **Speed** 40 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|13 (+1)|13 (+1)| 2 (-4)|12 (+1)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +5
-- **Senses** passive Perception 15
-- **Languages** —
-- **Challenge** 1
-
-## Traits
-
-***Flyby.*** The hippogriff doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
-
-## Actions
-
-***Multiattack.*** The hippogriff makes two Rend attacks.
-
-***Rend.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Slashing damage.
+```statblock
+"name": "Hippogriff"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "26"
+"hit_dice": "4d10 + 4"
+"modifier": !!int "1"
+"stats":
+  - !!int "17"
+  - !!int "13"
+  - !!int "13"
+  - !!int "2"
+  - !!int "12"
+  - !!int "8"
+"speed": "40 ft., fly 60 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+"senses": "passive Perception 15"
+"languages": ""
+"cr": "1"
+"traits":
+  - "desc": "The hippogriff doesn't provoke an Opportunity Attack when it flies out\
+      \ of an enemy's reach."
+    "name": "Flyby"
+"actions":
+  - "desc": "The hippogriff makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing damage."
+    "name": "Rend"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/hippogriff-xmm.webp"
 ```
 ^statblock
 

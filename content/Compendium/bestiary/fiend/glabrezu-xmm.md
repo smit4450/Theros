@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/large
 - monster/type/fiend/demon
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Glabrezu"
 ---
 # Glabrezu
-*Source: Monster Manual (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/fiend/img/glabrezu.webp#right)
 
 ## Glabrezu
@@ -32,48 +34,70 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
 > Your companion's life, or what you've journeyed through infinity in search of! Make your choice.
 
 
-```ad-statblock
-title: Glabrezu
-![](/Compendium/bestiary/fiend/token/glabrezu-xmm.webp#token)
-*Large fiend (demon), Chaotic Evil*
-
-- **Armor Class** 17 
-- **Hit Points** 189 (`18d10 + 90`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Strength +9, Constitution +9, Wisdom +7, Charisma +7
-- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +7, [Perception](/Compendium/rules/skills.md#Perception) +7
-- **Senses** [Truesight](/Compendium/rules/senses.md#Truesight) 120 ft., passive Perception 17
-- **Damage Resistances** cold, fire, lightning
-- **Damage Immunities** poison
-- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Abyssal; telepathy 120 ft.
-- **Challenge** 9
-
-## Traits
-
-***Demonic Restoration.*** If the glabrezu dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) somewhere in the Abyss.
-
-***Magic Resistance.*** The glabrezu has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The glabrezu makes two Pincer attacks and uses Pummel or Spellcasting.
-
-***Pincer.*** *Melee Attack Roll:* `+9`, reach 10 ft. *Hit:* 16 (`2d10 + 5`) Slashing damage. If the target is a Medium or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 15) from one of two pincers.
-
-***Pummel.*** *Dexterity Saving Throw:* DC 17, one creature [Grappled](/Compendium/rules/conditions.md#Grappled) by the glabrezu. *Failure:* 15 (`3d6 + 5`) Bludgeoning damage. *Success:* Half damage.
-
-***Spellcasting.*** The glabrezu casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
-
-**At will:** [Darkness](/Compendium/spells/darkness-xphb.md), [Detect Magic](/Compendium/spells/detect-magic-xphb.md), [Dispel Magic](/Compendium/spells/dispel-magic-xphb.md)
-
-**1/day each:** [Confusion](/Compendium/spells/confusion-xphb.md), [Fly](/Compendium/spells/fly-xphb.md), [Power Word Stun](/Compendium/spells/power-word-stun-xphb.md)
+```statblock
+"name": "Glabrezu"
+"size": "Large"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "17"
+"hp": !!int "189"
+"hit_dice": "18d10 + 90"
+"modifier": !!int "6"
+"stats":
+  - !!int "20"
+  - !!int "15"
+  - !!int "21"
+  - !!int "19"
+  - !!int "17"
+  - !!int "16"
+"speed": "40 ft."
+"saves":
+  - "strength": !!int "9"
+  - "constitution": !!int "9"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "7"
+"skillsaves":
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+7"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
+"damage_resistances": "cold, fire, lightning"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Truesight](/Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+  \ 17"
+"languages": "Abyssal; telepathy 120 ft."
+"cr": "9"
+"traits":
+  - "desc": "If the glabrezu dies outside the Abyss, its body dissolves into ichor,\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Abyss."
+    "name": "Demonic Restoration"
+  - "desc": "The glabrezu has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The glabrezu makes two Pincer attacks and uses Pummel or Spellcasting."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +9, reach 10 ft. *Hit:* 16 (2d10 + 5) Slashing damage.\
+      \ If the target is a Medium or smaller creature, it has the [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 15) from one of two pincers."
+    "name": "Pincer"
+  - "desc": "*Dexterity Saving Throw:* DC 17, one creature [Grappled](/Compendium/rules/conditions.md#Grappled)\
+      \ by the glabrezu. *Failure:* 15 (3d6 + 5) Bludgeoning damage. *Success:* Half\
+      \ damage."
+    "name": "Pummel"
+  - "desc": "The glabrezu casts one of the following spells, requiring no Material\
+      \ components and using Intelligence as the spellcasting ability (spell save\
+      \ DC 16):\n\n**At will:** [Darkness](/Compendium/spells/darkness-xphb.md), [Detect\
+      \ Magic](/Compendium/spells/detect-magic-xphb.md), [Dispel Magic](/Compendium/spells/dispel-magic-xphb.md)\n\
+      \n**1/day each:** [Confusion](/Compendium/spells/confusion-xphb.md), [Fly](/Compendium/spells/fly-xphb.md),\
+      \ [Power Word Stun](/Compendium/spells/power-word-stun-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fiend/token/glabrezu-xmm.webp"
 ```
 ^statblock
 

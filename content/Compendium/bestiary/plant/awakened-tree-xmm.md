@@ -8,11 +8,13 @@ tags:
 - monster/environment/forest
 - monster/size/huge
 - monster/type/plant
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Awakened Tree"
 ---
 # Awakened Tree
-*Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/plant/img/awakened-tree.webp#right)
 
 Some awakened trees stand in still, meditative states for long periods, making them easy to mistake for normal plants, while others patrol regions of natural power. Awakened trees are sometimes brought to life by influences from the Feywild, which make them colorful and endlessly blooming, or by Shadowfell energy, which covers them with grotesque burls or makes them look lifeless.
@@ -33,31 +35,35 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 
 ## Statblock
 
-```ad-statblock
-title: Awakened Tree
-![](/Compendium/bestiary/plant/token/awakened-tree-xmm.webp#token)
-*Huge plant, Neutral*
-
-- **Armor Class** 13 
-- **Hit Points** 59 (`7d12 + 14`) 
-- **Speed** 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)| 6 (-2)|15 (+2)|10 (+0)|10 (+0)| 7 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Damage Vulnerabilities** fire
-- **Damage Resistances** bludgeoning, piercing
-- **Languages** Common plus one other language
-- **Challenge** 2
-
-## Actions
-
-***Slam.*** *Melee Attack Roll:* `+6`, reach 10 ft. *Hit:* 13 (`2d8 + 4`) Bludgeoning damage.
+```statblock
+"name": "Awakened Tree"
+"size": "Huge"
+"type": "plant"
+"alignment": "Neutral"
+"ac": !!int "13"
+"hp": !!int "59"
+"hit_dice": "7d12 + 14"
+"modifier": !!int "-2"
+"stats":
+  - !!int "19"
+  - !!int "6"
+  - !!int "15"
+  - !!int "10"
+  - !!int "10"
+  - !!int "7"
+"speed": "20 ft."
+"damage_vulnerabilities": "fire"
+"damage_resistances": "bludgeoning, piercing"
+"senses": "passive Perception 10"
+"languages": "Common plus one other language"
+"cr": "2"
+"actions":
+  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 13 (2d8 + 4) Bludgeoning\
+      \ damage."
+    "name": "Slam"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/plant/token/awakened-tree-xmm.webp"
 ```
 ^statblock
 

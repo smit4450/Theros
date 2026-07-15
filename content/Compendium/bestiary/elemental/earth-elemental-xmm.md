@@ -11,11 +11,13 @@ tags:
 - monster/environment/underdark
 - monster/size/large
 - monster/type/elemental
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Earth Elemental"
 ---
 # Earth Elemental
-*Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/earth-elemental.webp#right)
 
 ## Earth Elemental
@@ -48,42 +50,51 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 > The foundations of our homes, the strength of our weapons, the vaults of our greatest secrets—earth is nothing less than the grip of reality itself. It is the mightiest element. This cannot be denied.
 
 
-```ad-statblock
-title: Earth Elemental
-![](/Compendium/bestiary/elemental/token/earth-elemental-xmm.webp#token)
-*Large elemental, Neutral*
-
-- **Armor Class** 17 
-- **Hit Points** 147 (`14d10 + 70`) 
-- **Speed** 30 ft., burrow 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|20 (+5)| 8 (-1)|20 (+5)| 5 (-3)|10 (+0)| 5 (-3)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense 60 ft., passive Perception 10
-- **Damage Vulnerabilities** thunder
-- **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [unconscious](/Compendium/rules/conditions.md#Unconscious)
-- **Languages** Primordial (Terran)
-- **Challenge** 5
-
-## Traits
-
-***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
-
-***Siege Monster.*** The elemental deals double damage to objects and structures.
-
-## Actions
-
-***Multiattack.*** The elemental makes two attacks, using Slam or Rock Launch in any combination.
-
-***Slam.*** *Melee Attack Roll:* `+8`, reach 10 ft. *Hit:* 14 (`2d8 + 5`) Bludgeoning damage.
-
-***Rock Launch.*** *Ranged Attack Roll:* `+8`, range 60 ft. *Hit:* 8 (`1d6 + 5`) Bludgeoning damage. If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
+```statblock
+"name": "Earth Elemental"
+"size": "Large"
+"type": "elemental"
+"alignment": "Neutral"
+"ac": !!int "17"
+"hp": !!int "147"
+"hit_dice": "14d10 + 70"
+"modifier": !!int "-1"
+"stats":
+  - !!int "20"
+  - !!int "8"
+  - !!int "20"
+  - !!int "5"
+  - !!int "10"
+  - !!int "5"
+"speed": "30 ft., burrow 30 ft."
+"damage_vulnerabilities": "thunder"
+"damage_immunities": "poison"
+"condition_immunities": "[exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned), [unconscious](/Compendium/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense\
+  \ 60 ft., passive Perception 10"
+"languages": "Primordial (Terran)"
+"cr": "5"
+"traits":
+  - "desc": "The elemental can burrow through nonmagical, unworked earth and stone.\
+      \ While doing so, the elemental doesn't disturb the material it moves through."
+    "name": "Earth Glide"
+  - "desc": "The elemental deals double damage to objects and structures."
+    "name": "Siege Monster"
+"actions":
+  - "desc": "The elemental makes two attacks, using Slam or Rock Launch in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 14 (2d8 + 5) Bludgeoning\
+      \ damage."
+    "name": "Slam"
+  - "desc": "*Ranged Attack Roll:* +8, range 60 ft. *Hit:* 8 (1d6 + 5) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Rock Launch"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/elemental/token/earth-elemental-xmm.webp"
 ```
 ^statblock
 

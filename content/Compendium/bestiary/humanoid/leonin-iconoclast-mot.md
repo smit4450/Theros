@@ -7,11 +7,13 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/leonin
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Leonin Iconoclast"
 ---
 # Leonin Iconoclast
-*Source: Mythic Odysseys of Theros p. 232*  
+*Source: Mythic Odysseys of Theros p. 232*
 ![](/Compendium/bestiary/humanoid/img/leonin-iconoclast.webp#right)
 
 While leonin don't deny the existence of the gods, most denounce them, believing the deities are more likely to spread doom than peace and bounty. Some leonin, known as iconoclasts, devote themselves to thwarting the gods by hunting down their followers and all things born of Nyx that impede on Oreskos and the safety of the leonin prides.
@@ -20,43 +22,70 @@ Prides of leonin roam the plains of Oreskos, protecting the land and its creatur
 
 Most leonin hunters are tribal warriors, but those who hunt the servants of the gods rather than game are known as leonin iconoclasts.
 
-```ad-statblock
-title: Leonin Iconoclast
-![](/Compendium/bestiary/humanoid/token/leonin-iconoclast-mot.webp#token)
-*Medium humanoid (leonin), Any alignment*
-
-- **Armor Class** 17 (Unarmored Defense)
-- **Hit Points** 67 (`9d8 + 27`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|18 (+4)|16 (+3)|13 (+1)|17 (+3)|10 (+0)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +7, Wisdom +6
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +4, [Insight](/Compendium/rules/skills.md#Insight) +6, [Intimidation](/Compendium/rules/skills.md#Intimidation) +3, [Stealth](/Compendium/rules/skills.md#Stealth) +7, [Survival](/Compendium/rules/skills.md#Survival) +6
-- **Senses** [darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 13
-- **Gear** dart
-- **Languages** Common, Leonin
-- **Challenge** 5
-
-## Traits
-
-***Innate Spellcasting.*** The leonin's spellcasting ability is Wisdom (spell save DC 14). It can innately cast the following spells, requiring no material components:
-
-**1/day each:** [banishment](/Compendium/spells/banishment-xphb.md), [detect evil and good](/Compendium/spells/detect-evil-and-good-xphb.md)
-
-***Evasion.*** If the leonin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's [incapacitated](/Compendium/rules/conditions.md#Incapacitated).
-
-***Unarmored Defense.*** While the leonin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
-
-## Actions
-
-***Multiattack.*** The leonin makes three weapon attacks.
-
-***Claws.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage plus 7 (`2d6`) force damage.
-
-***Dart.*** *Ranged Weapon Attack:* `+7` to hit, range 20/60 ft., one target. *Hit:* 6 (`1d4 + 4`) piercing damage.
+```statblock
+"name": "Leonin Iconoclast"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "leonin"
+"alignment": "Any alignment"
+"ac": !!int "17"
+"ac_class": "Unarmored Defense"
+"hp": !!int "67"
+"hit_dice": "9d8 + 27"
+"modifier": !!int "4"
+"stats":
+  - !!int "14"
+  - !!int "18"
+  - !!int "16"
+  - !!int "13"
+  - !!int "17"
+  - !!int "10"
+"speed": "40 ft."
+"saves":
+  - "dexterity": !!int "7"
+  - "wisdom": !!int "6"
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+4"
+  - "name": "[Insight](/Compendium/rules/skills.md#Insight)"
+    "desc": "+6"
+  - "name": "[Intimidation](/Compendium/rules/skills.md#Intimidation)"
+    "desc": "+3"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+7"
+  - "name": "[Survival](/Compendium/rules/skills.md#Survival)"
+    "desc": "+6"
+"gear":
+  - "dart"
+"senses": "[darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 13"
+"languages": "Common, Leonin"
+"cr": "5"
+"traits":
+  - "desc": "The leonin's spellcasting ability is Wisdom (spell save DC 14). It can\
+      \ innately cast the following spells, requiring no material components:\n\n\
+      **1/day each:** [banishment](/Compendium/spells/banishment-xphb.md), [detect\
+      \ evil and good](/Compendium/spells/detect-evil-and-good-xphb.md)"
+    "name": "Innate Spellcasting"
+  - "desc": "If the leonin is subjected to an effect that allows it to make a Dexterity\
+      \ saving throw to take only half damage, it instead takes no damage if it succeeds\
+      \ on the saving throw, and only half damage if it fails. It can't use this trait\
+      \ if it's [incapacitated](/Compendium/rules/conditions.md#Incapacitated)."
+    "name": "Evasion"
+  - "desc": "While the leonin is wearing no armor and wielding no shield, its AC includes\
+      \ its Wisdom modifier."
+    "name": "Unarmored Defense"
+"actions":
+  - "desc": "The leonin makes three weapon attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
+      \ (2d6 + 4) slashing damage plus 7 (2d6) force damage."
+    "name": "Claws"
+  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 20/60 ft., one target. *Hit:*\
+      \ 6 (1d4 + 4) piercing damage."
+    "name": "Dart"
+"source":
+  - "MOT"
+"image": "/Compendium/bestiary/humanoid/token/leonin-iconoclast-mot.webp"
 ```
 ^statblock

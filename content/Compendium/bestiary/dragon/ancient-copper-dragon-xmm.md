@@ -8,11 +8,13 @@ tags:
 - monster/environment/hill
 - monster/size/gargantuan
 - monster/type/dragon/metallic
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Ancient Copper Dragon"
 ---
 # Ancient Copper Dragon
-*Source: Monster Manual (2024) p. 80. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 80. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![An ancient copper dragon watches over its allies' boisterous young](/Compendium/bestiary/dragon/img/ancient-copper-dragon.webp#right)
 
 Ancient copper dragons use warmth and reliability to effect change over time. They open their cozy lairs to their friends as havens of learning and laughter for the young and those in need. These dragons watch for and oppose future threats while fostering sanctuaries of simple goodness.
@@ -34,65 +36,101 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
 
 ## Statblock
 
-```ad-statblock
-title: Ancient Copper Dragon
-![](/Compendium/bestiary/dragon/token/ancient-copper-dragon-xmm.webp#token)
-*Gargantuan dragon (metallic), Chaotic Good*
-
-- **Armor Class** 21 
-- **Hit Points** 367 (`21d20 + 147`) 
-- **Speed** 40 ft., climb 40 ft., fly 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|22 (+6)|
-
-- **Proficiency Bonus** +7
-- **Saving Throws** Dexterity +8, Wisdom +10
-- **Skills** [Deception](/Compendium/rules/skills.md#Deception) +13, [Perception](/Compendium/rules/skills.md#Perception) +17, [Stealth](/Compendium/rules/skills.md#Stealth) +8
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 27
-- **Damage Immunities** acid
-- **Languages** Common, Draconic
-- **Challenge** 21
-
-## Traits
-
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-## Actions
-
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Slowing Breath or (B) Spellcasting to cast [Mind Spike](/Compendium/spells/mind-spike-xphb.md) (level 5 version).
-
-***Rend.*** *Melee Attack Roll:* `+15`, reach 15 ft. *Hit:* 19 (`2d10 + 8`) Slashing damage plus 9 (`2d8`) Acid damage.
-
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 22, each creature in an 90-foot-long, 10-foot-wide [Line](/Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* 63 (`14d8`) Acid damage. *Success:* Half damage.
-
-***Slowing Breath.*** *Constitution Saving Throw:* DC 22, each creature in a 90-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* The target can't take Reactions; its [Speed](/Compendium/rules/variant-rules/speed-xphb.md) is halved; and it can take either an action or a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md) on its turn, not both. This effect lasts until the end of its next turn.
-
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21):
-
-**At will:** [Detect Magic](/Compendium/spells/detect-magic-xphb.md), [Mind Spike](/Compendium/spells/mind-spike-xphb.md) (level 5 version), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md), [Shapechange](/Compendium/spells/shapechange-xphb.md) (Beast or Humanoid form only, no [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md) gained from the spell, and no Concentration or [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md) required to maintain the spell)
-
-**1/day each:** [Greater Restoration](/Compendium/spells/greater-restoration-xphb.md), [Major Image](/Compendium/spells/major-image-xphb.md), [Project Image](/Compendium/spells/project-image-xphb.md)
-
-## Legendary Actions
-
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
-
-***Giggling Magic.*** *Charisma Saving Throw:* DC 21, one creature the dragon can see within 120 feet. *Failure:* 31 (`9d6`) Psychic damage. Until the end of its next turn, the target rolls `1d8` whenever it makes an ability check or attack roll and subtracts the number rolled from the [D20 Test](/Compendium/rules/variant-rules/d20-test-xphb.md). *Failure or Success:* The dragon can't take this action again until the start of its next turn.
-
-***Mind Jolt.*** The dragon uses Spellcasting to cast [Mind Spike](/Compendium/spells/mind-spike-xphb.md) (level 5 version). The dragon can't take this action again until the start of its next turn.
-
-***Pounce.*** The dragon moves up to half its [Speed](/Compendium/rules/variant-rules/speed-xphb.md), and it makes one Rend attack.
-
-## Regional Effects
-
-The region containing an adult or ancient copper dragon's lair is changed by its presence, creating the following effects:
-
-- **Chatty Critters.** Tiny Beasts magically gain the ability to speak and understand Draconic while within 6 miles of the lair.  
-- **Giggle Fits.** Whenever a creature other than the dragon and its allies is within 1 mile of the lair and rolls a 1 on a [D20 Test](/Compendium/rules/variant-rules/d20-test-xphb.md), it must succeed on a DC 15 Wisdom saving throw or have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition until the end of its next turn, as it is wracked with laughter.  
-
-If the dragon dies or moves its lair elsewhere, these effects end immediately.
+```statblock
+"name": "Ancient Copper Dragon"
+"size": "Gargantuan"
+"type": "dragon"
+"subtype": "metallic"
+"alignment": "Chaotic Good"
+"ac": !!int "21"
+"hp": !!int "367"
+"hit_dice": "21d20 + 147"
+"modifier": !!int "15"
+"stats":
+  - !!int "27"
+  - !!int "12"
+  - !!int "25"
+  - !!int "20"
+  - !!int "17"
+  - !!int "22"
+"speed": "40 ft., climb 40 ft., fly 80 ft."
+"saves":
+  - "dexterity": !!int "8"
+  - "wisdom": !!int "10"
+"skillsaves":
+  - "name": "[Deception](/Compendium/rules/skills.md#Deception)"
+    "desc": "+13"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+17"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+8"
+"damage_immunities": "acid"
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](/Compendium/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 27"
+"languages": "Common, Draconic"
+"cr": "21"
+"traits":
+  - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
+"actions":
+  - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
+      \ use of (A) Slowing Breath or (B) Spellcasting to cast [Mind Spike](/Compendium/spells/mind-spike-xphb.md)\
+      \ (level 5 version)."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +15, reach 15 ft. *Hit:* 19 (2d10 + 8) Slashing\
+      \ damage plus 9 (2d8) Acid damage."
+    "name": "Rend"
+  - "desc": "*Dexterity Saving Throw:* DC 22, each creature in an 90-foot-long, 10-foot-wide\
+      \ [Line](/Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ 63 (14d8) Acid damage. *Success:* Half damage."
+    "name": "Acid Breath (Recharge 5-6)"
+  - "desc": "*Constitution Saving Throw:* DC 22, each creature in a 90-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* The target can't take Reactions; its [Speed](/Compendium/rules/variant-rules/speed-xphb.md)\
+      \ is halved; and it can take either an action or a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md)\
+      \ on its turn, not both. This effect lasts until the end of its next turn."
+    "name": "Slowing Breath"
+  - "desc": "The dragon casts one of the following spells, requiring no Material components\
+      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
+      \ will:** [Detect Magic](/Compendium/spells/detect-magic-xphb.md), [Mind Spike](/Compendium/spells/mind-spike-xphb.md)\
+      \ (level 5 version), [Minor Illusion](/Compendium/spells/minor-illusion-xphb.md),\
+      \ [Shapechange](/Compendium/spells/shapechange-xphb.md) (Beast or Humanoid form\
+      \ only, no [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
+      \ gained from the spell, and no Concentration or [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md)\
+      \ required to maintain the spell)\n\n**1/day each:** [Greater Restoration](/Compendium/spells/greater-restoration-xphb.md),\
+      \ [Major Image](/Compendium/spells/major-image-xphb.md), [Project Image](/Compendium/spells/project-image-xphb.md)"
+    "name": "Spellcasting"
+"regional_effects":
+  - "desc": "The region containing an adult or ancient copper dragon's lair is changed\
+      \ by its presence, creating the following effects:\n\n- **Chatty Critters.**\
+      \ Tiny Beasts magically gain the ability to speak and understand Draconic while\
+      \ within 6 miles of the lair.  \n- **Giggle Fits.** Whenever a creature other\
+      \ than the dragon and its allies is within 1 mile of the lair and rolls a 1\
+      \ on a [D20 Test](/Compendium/rules/variant-rules/d20-test-xphb.md), it must\
+      \ succeed on a DC 15 Wisdom saving throw or have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated)\
+      \ condition until the end of its next turn, as it is wracked with laughter.\
+      \  \n\nIf the dragon dies or moves its lair elsewhere, these effects end immediately."
+    "name": ""
+"legendary_description": "Legendary Action Uses: 3 (4 in Lair). Immediately after\
+  \ another creature's turn, the dragon can expend a use to take one of the following\
+  \ actions. The dragon regains all expended uses at the start of each of its turns."
+"legendary_actions":
+  - "desc": "*Charisma Saving Throw:* DC 21, one creature the dragon can see within\
+      \ 120 feet. *Failure:* 31 (9d6) Psychic damage. Until the end of its next turn,\
+      \ the target rolls 1d8 whenever it makes an ability check or attack roll and\
+      \ subtracts the number rolled from the [D20 Test](/Compendium/rules/variant-rules/d20-test-xphb.md).\
+      \ *Failure or Success:* The dragon can't take this action again until the start\
+      \ of its next turn."
+    "name": "Giggling Magic"
+  - "desc": "The dragon uses Spellcasting to cast [Mind Spike](/Compendium/spells/mind-spike-xphb.md)\
+      \ (level 5 version). The dragon can't take this action again until the start\
+      \ of its next turn."
+    "name": "Mind Jolt"
+  - "desc": "The dragon moves up to half its [Speed](/Compendium/rules/variant-rules/speed-xphb.md),\
+      \ and it makes one Rend attack."
+    "name": "Pounce"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/dragon/token/ancient-copper-dragon-xmm.webp"
 ```
 ^statblock
 

@@ -7,49 +7,70 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Servant of Tymaret"
 ---
 # Servant of Tymaret
-*Source: Theros Bestiary, Vol. V*  
+*Source: Theros Bestiary, Vol. V*
 ![](/Compendium/bestiary/undead/img/servant-of-tymaret.webp#right)
 
 Life is most precious to those who have already lost it.
 
-```ad-statblock
-title: Servant of Tymaret
-*Medium undead, Chaotic Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 21 (`3d8 + 9`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|13 (+1)|16 (+3)|13 (+1)|12 (+1)|15 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Acrobatics](/Compendium/rules/skills.md#Acrobatics) +3, [Athletics](/Compendium/rules/skills.md#Athletics) +3, [Stealth](/Compendium/rules/skills.md#Stealth) +3
-- **Senses** passive Perception 10
-- **Damage Resistances** necrotic
-- **Damage Immunities** poison
-- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** The languages it knew in life
-- **Challenge** 3
-
-## Traits
-
-***Inspired.*** At the beginning of the servant's turn, if Tymaret saw it bowing to him or his image at any point since the servant's last turn, all hostile creatures within 30 feet of the servant take 9 (2d8) necrotic damage. The servant regains Hit Points equal to the total damage dealt this way.
-
-***Regeneration.*** The servant regains 8 Hit Points at the start of its turn. The servant dies only if it starts its turn with 0 Hit Points and doesn't regenerate.
-
-***Undead Fortitude.*** If damage reduces the servant to 0 Hit Points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the servant drops to 1 hit point instead.
-
-## Actions
-
-***Trident.*** _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
-
-***Bow.*** The servant bows down to any manifestation or statue of Tymaret that it can see. It remains in this position until a different action is used.
+```statblock
+"name": "Servant of Tymaret"
+"size": "Medium"
+"type": "undead"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"ac_class": "natural armor"
+"hp": !!int "21"
+"hit_dice": "3d8 + 9"
+"modifier": !!int "1"
+"stats":
+  - !!int "12"
+  - !!int "13"
+  - !!int "16"
+  - !!int "13"
+  - !!int "12"
+  - !!int "15"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Acrobatics](/Compendium/rules/skills.md#Acrobatics)"
+    "desc": "+3"
+  - "name": "[Athletics](/Compendium/rules/skills.md#Athletics)"
+    "desc": "+3"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+3"
+"damage_resistances": "necrotic"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "passive Perception 10"
+"languages": "The languages it knew in life"
+"cr": "3"
+"traits":
+  - "desc": "At the beginning of the servant's turn, if Tymaret saw it bowing to him\
+      \ or his image at any point since the servant's last turn, all hostile creatures\
+      \ within 30 feet of the servant take 9 (2d8) necrotic damage. The servant regains\
+      \ Hit Points equal to the total damage dealt this way."
+    "name": "Inspired"
+  - "desc": "The servant regains 8 Hit Points at the start of its turn. The servant\
+      \ dies only if it starts its turn with 0 Hit Points and doesn't regenerate."
+    "name": "Regeneration"
+  - "desc": "If damage reduces the servant to 0 Hit Points, it must make a Constitution\
+      \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
+      \ or from a critical hit. On a success, the servant drops to 1 hit point instead."
+    "name": "Undead Fortitude"
+"actions":
+  - "desc": "_Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
+      \ damage if used with two hands to make a melee attack."
+    "name": "Trident"
+  - "desc": "The servant bows down to any manifestation or statue of Tymaret that\
+      \ it can see. It remains in this position until a different action is used."
+    "name": "Bow"
+"source":
+  - "TBVV"
 ```
 ^statblock

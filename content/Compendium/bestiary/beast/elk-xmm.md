@@ -10,11 +10,13 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Elk"
 ---
 # Elk
-*Source: Monster Manual (2024) p. 353, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 353, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/celestial/img/elk.webp#right)
 
 ## Animals
@@ -26,29 +28,40 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Elk
-![](/Compendium/bestiary/beast/token/elk-xmm.webp#token)
-*Large beast, Unaligned*
-
-- **Armor Class** 10 
-- **Hit Points** 11 (`2d10`) 
-- **Speed** 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|10 (+0)|11 (+0)| 2 (-4)|10 (+0)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +2
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 12
-- **Languages** —
-- **Challenge** 1/4
-
-## Actions
-
-***Ram.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 6 (`1d6 + 3`) Bludgeoning damage. If the target is a Large or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (`1d6`) Bludgeoning damage and has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
+```statblock
+"name": "Elk"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "10"
+"hp": !!int "11"
+"hit_dice": "2d10"
+"modifier": !!int "0"
+"stats":
+  - !!int "16"
+  - !!int "10"
+  - !!int "11"
+  - !!int "2"
+  - !!int "10"
+  - !!int "6"
+"speed": "50 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
+"languages": ""
+"cr": "1/4"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning damage.\
+      \ If the target is a Large or smaller creature and the elk moved 20+ feet straight\
+      \ toward it immediately before the hit, the target takes an extra 3 (1d6) Bludgeoning\
+      \ damage and has the [Prone](/Compendium/rules/conditions.md#Prone) condition."
+    "name": "Ram"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "/Compendium/bestiary/beast/token/elk-xmm.webp"
 ```
 ^statblock
 

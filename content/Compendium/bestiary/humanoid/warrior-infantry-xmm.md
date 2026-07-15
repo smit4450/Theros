@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Warrior Infantry"
 ---
 # Warrior Infantry
-*Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![An aasimar commander leads warriors charging into battle](/Compendium/bestiary/humanoid/img/warriors.webp#right)
 
 Warrior infantry might be trainees or rank-and-file troops. They are skilled at contending with commonplace, nonmagical threats.
@@ -51,34 +53,42 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 
 ## Statblock
 
-```ad-statblock
-title: Warrior Infantry
-![](/Compendium/bestiary/humanoid/token/warrior-infantry-xmm.webp#token)
-*Small or Medium humanoid, Neutral*
-
-- **Armor Class** 13 
-- **Hit Points** 9 (`2d8`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|13 (+1)|11 (+0)|11 (+0)| 8 (-1)|11 (+0)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Gear** [chain shirt](/Compendium/items/chain-shirt-xphb.md), [spear](/Compendium/items/spear-xphb.md)
-- **Languages** Common
-- **Challenge** 1/8
-
-## Traits
-
-***Pack Tactics.*** The warrior has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated) condition.
-
-## Actions
-
-***Spear.*** *Melee  or Ranged Attack Roll:* `+3`, reach 5 ft. or range 20/60 ft. *Hit:* 4 (`1d6 + 1`) Piercing damage.
+```statblock
+"name": "Warrior Infantry"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "13"
+"hp": !!int "9"
+"hit_dice": "2d8"
+"modifier": !!int "0"
+"stats":
+  - !!int "13"
+  - !!int "11"
+  - !!int "11"
+  - !!int "8"
+  - !!int "11"
+  - !!int "8"
+"speed": "30 ft."
+"gear":
+  - "[chain shirt](/Compendium/items/chain-shirt-xphb.md)"
+  - "[spear](/Compendium/items/spear-xphb.md)"
+"senses": "passive Perception 10"
+"languages": "Common"
+"cr": "1/8"
+"traits":
+  - "desc": "The warrior has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the warrior's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Compendium/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
+"actions":
+  - "desc": "*Melee  or Ranged Attack Roll:* +3, reach 5 ft. or range 20/60 ft. *Hit:*\
+      \ 4 (1d6 + 1) Piercing damage."
+    "name": "Spear"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/warrior-infantry-xmm.webp"
 ```
 ^statblock
 

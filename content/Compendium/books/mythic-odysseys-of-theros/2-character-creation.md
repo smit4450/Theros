@@ -61,15 +61,15 @@ A character in Theros begins with one supernatural gift chosen from those in thi
 
 These supernatural gifts are intended for starting characters, but some might be bestowed by gods as rewards for remarkable deeds.
 
-- [Anvilwrought](/Compendium/rewards/anvilwrought-thsg.md)  
-- [Heroic Destiny](/Compendium/rewards/heroic-destiny-thsg.md)  
-- [Iconoclast](/Compendium/rewards/iconoclast-thsg.md)  
-- [Inscrutable](/Compendium/rewards/inscrutable-thsg.md)  
-- [Lifelong Companion](/Compendium/rewards/lifelong-companion-thsg.md)  
-- [Nyxborn](/Compendium/rewards/nyxborn-thsg.md)  
-- [Oracle](/Compendium/rewards/oracle-thsg.md)  
-- [Pious](/Compendium/rewards/pious-thsg.md)  
-- [Unscarred](/Compendium/rewards/unscarred-thsg.md)  
+- Anvilwrought  
+- Heroic Destiny  
+- Iconoclast  
+- Inscrutable  
+- Lifelong Companion  
+- Nyxborn  
+- Oracle  
+- Pious  
+- Unscarred  
 
 > [!note] Heroic Feats
 > 

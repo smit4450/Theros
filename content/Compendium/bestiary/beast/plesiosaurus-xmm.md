@@ -9,11 +9,13 @@ tags:
 - monster/environment/underwater
 - monster/size/large
 - monster/type/beast/dinosaur
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Plesiosaurus"
 ---
 # Plesiosaurus
-*Source: Monster Manual (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/plesiosaurus.webp#right)
 
 ## Animals
@@ -25,33 +27,41 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Plesiosaurus
-![](/Compendium/bestiary/beast/token/plesiosaurus-xmm.webp#token)
-*Large beast (dinosaur), Unaligned*
-
-- **Armor Class** 13 
-- **Hit Points** 68 (`8d10 + 24`) 
-- **Speed** 20 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|16 (+3)| 2 (-4)|12 (+1)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +3, [Stealth](/Compendium/rules/skills.md#Stealth) +4
-- **Senses** passive Perception 13
-- **Languages** —
-- **Challenge** 2
-
-## Traits
-
-***Hold Breath.*** The plesiosaurus can hold its breath for 1 hour.
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `+6`, reach 10 ft. *Hit:* 11 (`2d6 + 4`) Piercing damage.
+```statblock
+"name": "Plesiosaurus"
+"size": "Large"
+"type": "beast"
+"subtype": "dinosaur"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "68"
+"hit_dice": "8d10 + 24"
+"modifier": !!int "2"
+"stats":
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "2"
+  - !!int "12"
+  - !!int "5"
+"speed": "20 ft., swim 40 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
+"senses": "passive Perception 13"
+"languages": ""
+"cr": "2"
+"traits":
+  - "desc": "The plesiosaurus can hold its breath for 1 hour."
+    "name": "Hold Breath"
+"actions":
+  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing damage."
+    "name": "Bite"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/beast/token/plesiosaurus-xmm.webp"
 ```
 ^statblock
 

@@ -10,11 +10,13 @@ tags:
 - monster/environment/urban
 - monster/size/tiny
 - monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Will-o'-Wisp"
 ---
 # Will-o'-Wisp
-*Source: Monster Manual (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/will-o-wisp.webp#right)
 
 ## Will-o'-Wisp
@@ -40,46 +42,61 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 | 6 | Quicksand or pools covered in thin ice. |
 ^will-o-wisp-ambushes
 
-```ad-statblock
-title: Will-o'-Wisp
-![](/Compendium/bestiary/undead/token/will-o-wisp-xmm.webp#token)
-*Tiny undead, Chaotic Evil*
-
-- **Armor Class** 19 
-- **Hit Points** 27 (`11d4`) 
-- **Speed** 5 ft., fly 50 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception 12
-- **Damage Resistances** acid, bludgeoning, cold, fire, necrotic, piercing, slashing
-- **Damage Immunities** lightning, poison
-- **Condition Immunities** [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [unconscious](/Compendium/rules/conditions.md#Unconscious)
-- **Languages** Common plus one other language
-- **Challenge** 2
-
-## Traits
-
-***Ephemeral.*** The wisp can't wear or carry anything.
-
-***Illumination.*** The wisp sheds [Bright Light](/Compendium/rules/variant-rules/bright-light-xphb.md) in a 20-foot radius and [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 20 feet.
-
-***Incorporeal Movement.*** The wisp can move through other creatures and objects as if they were [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md). It takes 5 (`1d10`) Force damage if it ends its turn inside an object.
-
-## Actions
-
-***Shock.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 11 (`2d8 + 2`) Lightning damage.
-
-## Bonus Actions
-
-***Consume Life.*** *Constitution Saving Throw:* DC 10, one living creature the wisp can see within 5 feet that has 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md). *Failure:* The target dies, and the wisp regains 10 (`3d6`) [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md).
-
-***Vanish.*** The wisp and its light have the [Invisible](/Compendium/rules/conditions.md#Invisible) condition until the wisp's [Concentration](/Compendium/rules/conditions.md#Concentration) ends on this effect, which ends early immediately after the wisp makes an attack roll or uses Consume Life.
+```statblock
+"name": "Will-o'-Wisp"
+"size": "Tiny"
+"type": "undead"
+"alignment": "Chaotic Evil"
+"ac": !!int "19"
+"hp": !!int "27"
+"hit_dice": "11d4"
+"modifier": !!int "9"
+"stats":
+  - !!int "1"
+  - !!int "28"
+  - !!int "10"
+  - !!int "13"
+  - !!int "14"
+  - !!int "11"
+"speed": "5 ft., fly 50 ft. (hover)"
+"damage_resistances": "acid, bludgeoning, cold, fire, necrotic, piercing, slashing"
+"damage_immunities": "lightning, poison"
+"condition_immunities": "[exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed),\
+  \ [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned),\
+  \ [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained),\
+  \ [unconscious](/Compendium/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 12"
+"languages": "Common plus one other language"
+"cr": "2"
+"traits":
+  - "desc": "The wisp can't wear or carry anything."
+    "name": "Ephemeral"
+  - "desc": "The wisp sheds [Bright Light](/Compendium/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 20-foot radius and [Dim Light](/Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ for an additional 20 feet."
+    "name": "Illumination"
+  - "desc": "The wisp can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Lightning damage."
+    "name": "Shock"
+"bonus_actions":
+  - "desc": "*Constitution Saving Throw:* DC 10, one living creature the wisp can\
+      \ see within 5 feet that has 0 [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ *Failure:* The target dies, and the wisp regains 10 (3d6) [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)."
+    "name": "Consume Life"
+  - "desc": "The wisp and its light have the [Invisible](/Compendium/rules/conditions.md#Invisible)\
+      \ condition until the wisp's [Concentration](/Compendium/rules/conditions.md#Concentration)\
+      \ ends on this effect, which ends early immediately after the wisp makes an\
+      \ attack roll or uses Consume Life."
+    "name": "Vanish"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/undead/token/will-o-wisp-xmm.webp"
 ```
 ^statblock
 

@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/medium
 - monster/type/construct
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Modron Quadrone"
 ---
 # Modron Quadrone
-*Source: Monster Manual (2024) p. 218*  
+*Source: Monster Manual (2024) p. 218*
 ![](/Compendium/bestiary/construct/img/modron-quadrone.webp#right)
 
 Quadrones are among the most relatable modrons—and those most likely to go rogue.
@@ -58,38 +60,45 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 
 ## Statblock
 
-```ad-statblock
-title: Modron Quadrone
-![](/Compendium/bestiary/construct/token/modron-quadrone-xmm.webp#token)
-*Medium construct, Lawful Neutral*
-
-- **Armor Class** 16 
-- **Hit Points** 22 (`4d8 + 4`) 
-- **Speed** 30 ft., fly 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +2
-- **Senses** [Truesight](/Compendium/rules/senses.md#Truesight) 120 ft., passive Perception 12
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed)
-- **Languages** Modron
-- **Challenge** 1
-
-## Traits
-
-***Disintegration.*** If the modron dies, it disintegrates into dust, leaving behind anything it was wearing or carrying.
-
-## Actions
-
-***Multiattack.*** The modron makes four Slam attacks or four Gears Launcher attacks.
-
-***Slam.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 4 (`1d4 + 2`) Force damage.
-
-***Gears Launcher.*** *Ranged Attack Roll:* `+4`, range 320 ft. *Hit:* 4 (`1d4 + 2`) Force damage.
+```statblock
+"name": "Modron Quadrone"
+"size": "Medium"
+"type": "construct"
+"alignment": "Lawful Neutral"
+"ac": !!int "16"
+"hp": !!int "22"
+"hit_dice": "4d8 + 4"
+"modifier": !!int "2"
+"stats":
+  - !!int "12"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "10"
+  - !!int "11"
+"speed": "30 ft., fly 30 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed)"
+"senses": "[Truesight](/Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+  \ 12"
+"languages": "Modron"
+"cr": "1"
+"traits":
+  - "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
+      \ it was wearing or carrying."
+    "name": "Disintegration"
+"actions":
+  - "desc": "The modron makes four Slam attacks or four Gears Launcher attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Force damage."
+    "name": "Slam"
+  - "desc": "*Ranged Attack Roll:* +4, range 320 ft. *Hit:* 4 (1d4 + 2) Force damage."
+    "name": "Gears Launcher"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/construct/token/modron-quadrone-xmm.webp"
 ```
 ^statblock
 

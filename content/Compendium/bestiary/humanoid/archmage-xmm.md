@@ -8,11 +8,13 @@ tags:
 - monster/environment/any
 - monster/size/small-or-medium
 - monster/type/humanoid/wizard
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Archmage"
 ---
 # Archmage
-*Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/humanoid/img/mages.webp#right)
 
 Archmages have mastered incredible magical power. While some use their magic to protect the world, others become tyrants or pursue forbidden secrets. Many archmages retain magical servants and collect magic items and occult lore.
@@ -51,56 +53,75 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 
 ## Statblock
 
-```ad-statblock
-title: Archmage
-![](/Compendium/bestiary/humanoid/token/archmage-xmm.webp#token)
-*Small or Medium humanoid (wizard), Neutral*
-
-- **Armor Class** 17 
-- **Hit Points** 170 (`31d8 + 31`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
-
-- **Proficiency Bonus** +4
-- **Saving Throws** Intelligence +9, Wisdom +6
-- **Skills** [Arcana](/Compendium/rules/skills.md#Arcana) +13, [History](/Compendium/rules/skills.md#History) +9, [Perception](/Compendium/rules/skills.md#Perception) +6
-- **Senses** passive Perception 16
-- **Damage Immunities** psychic
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed) (with Mind Blank)
-- **Gear** [wand](/Compendium/items/wand-xphb.md)
-- **Languages** Common plus five other languages
-- **Challenge** 12
-
-## Traits
-
-***Magic Resistance.*** The archmage has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The archmage makes four Arcane Burst attacks.
-
-***Arcane Burst.*** *Melee  or Ranged Attack Roll:* `+9`, reach 5 ft. or range 150 ft. *Hit:* 27 (`4d10 + 5`) Force damage.
-
-***Spellcasting.*** The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):
-
-**At will:** [Detect Magic](/Compendium/spells/detect-magic-xphb.md), [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md), [Disguise Self](/Compendium/spells/disguise-self-xphb.md), [Invisibility](/Compendium/spells/invisibility-xphb.md), [Light](/Compendium/spells/light-xphb.md), [Mage Armor](/Compendium/spells/mage-armor-xphb.md) (included in AC), [Mage Hand](/Compendium/spells/mage-hand-xphb.md), [Prestidigitation](/Compendium/spells/prestidigitation-xphb.md)
-
-**2/day each:** [Fly](/Compendium/spells/fly-xphb.md), [Lightning Bolt](/Compendium/spells/lightning-bolt-xphb.md) (level 7 version)
-
-**1/day each:** [Cone of Cold](/Compendium/spells/cone-of-cold-xphb.md) (level 9 version), [Mind Blank](/Compendium/spells/mind-blank-xphb.md) (cast before combat), [Scrying](/Compendium/spells/scrying-xphb.md), [Teleport](/Compendium/spells/teleport-xphb.md)
-
-## Bonus Actions
-
-***Misty Step (3/Day).*** The mage casts [Misty Step](/Compendium/spells/misty-step-xphb.md), using the same spellcasting ability as Spellcasting.
-
-
-## Reactions
-
-***Protective Magic (3/Day).*** The archmage casts [Counterspell](/Compendium/spells/counterspell-xphb.md) or [Shield](/Compendium/spells/shield-xphb.md) in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
-
+```statblock
+"name": "Archmage"
+"size": "Small or Medium"
+"type": "humanoid"
+"subtype": "wizard"
+"alignment": "Neutral"
+"ac": !!int "17"
+"hp": !!int "170"
+"hit_dice": "31d8 + 31"
+"modifier": !!int "6"
+"stats":
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "20"
+  - !!int "15"
+  - !!int "16"
+"speed": "30 ft."
+"saves":
+  - "intelligence": !!int "9"
+  - "wisdom": !!int "6"
+"skillsaves":
+  - "name": "[Arcana](/Compendium/rules/skills.md#Arcana)"
+    "desc": "+13"
+  - "name": "[History](/Compendium/rules/skills.md#History)"
+    "desc": "+9"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+"damage_immunities": "psychic"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed) (with\
+  \ Mind Blank)"
+"gear":
+  - "[wand](/Compendium/items/wand-xphb.md)"
+"senses": "passive Perception 16"
+"languages": "Common plus five other languages"
+"cr": "12"
+"traits":
+  - "desc": "The archmage has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The archmage makes four Arcane Burst attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +9, reach 5 ft. or range 150 ft. *Hit:*\
+      \ 27 (4d10 + 5) Force damage."
+    "name": "Arcane Burst"
+  - "desc": "The archmage casts one of the following spells, using Intelligence as\
+      \ the spellcasting ability (spell save DC 17):\n\n**At will:** [Detect Magic](/Compendium/spells/detect-magic-xphb.md),\
+      \ [Detect Thoughts](/Compendium/spells/detect-thoughts-xphb.md), [Disguise Self](/Compendium/spells/disguise-self-xphb.md),\
+      \ [Invisibility](/Compendium/spells/invisibility-xphb.md), [Light](/Compendium/spells/light-xphb.md),\
+      \ [Mage Armor](/Compendium/spells/mage-armor-xphb.md) (included in AC), [Mage\
+      \ Hand](/Compendium/spells/mage-hand-xphb.md), [Prestidigitation](/Compendium/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [Fly](/Compendium/spells/fly-xphb.md), [Lightning Bolt](/Compendium/spells/lightning-bolt-xphb.md)\
+      \ (level 7 version)\n\n**1/day each:** [Cone of Cold](/Compendium/spells/cone-of-cold-xphb.md)\
+      \ (level 9 version), [Mind Blank](/Compendium/spells/mind-blank-xphb.md) (cast\
+      \ before combat), [Scrying](/Compendium/spells/scrying-xphb.md), [Teleport](/Compendium/spells/teleport-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The mage casts [Misty Step](/Compendium/spells/misty-step-xphb.md), using\
+      \ the same spellcasting ability as Spellcasting.\n"
+    "name": "Misty Step (3/Day)"
+"reactions":
+  - "desc": "The archmage casts [Counterspell](/Compendium/spells/counterspell-xphb.md)\
+      \ or [Shield](/Compendium/spells/shield-xphb.md) in response to the spell's\
+      \ trigger, using the same spellcasting ability as Spellcasting.\n"
+    "name": "Protective Magic (3/Day)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/humanoid/token/archmage-xmm.webp"
 ```
 ^statblock
 

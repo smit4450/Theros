@@ -8,11 +8,13 @@ tags:
 - monster/environment/underdark
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Troglodyte"
 ---
 # Troglodyte
-*Source: Monster Manual (2024) p. 309*  
+*Source: Monster Manual (2024) p. 309*
 ![](/Compendium/bestiary/monstrosity/img/troglodyte.webp#right)
 
 ## Troglodyte
@@ -31,35 +33,46 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 > Smells fine to me.
 
 
-```ad-statblock
-title: Troglodyte
-![](/Compendium/bestiary/monstrosity/token/troglodyte-xmm.webp#token)
-*Medium monstrosity, Chaotic Evil*
-
-- **Armor Class** 11 
-- **Hit Points** 13 (`2d8 + 4`) 
-- **Speed** 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|10 (+0)|14 (+2)| 6 (-2)|10 (+0)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Stealth](/Compendium/rules/skills.md#Stealth) +4
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Languages** Troglodyte
-- **Challenge** 1/4
-
-## Traits
-
-***Stench.*** *Constitution Saving Throw:* DC 12, any creature (other than a troglodyte) that starts its turn in a 5-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the troglodyte. *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned) condition until the start of its next turn. *Success:* The target is immune to the Stench of all troglodytes for 1 hour.
-
-***Sunlight Sensitivity.*** While in sunlight, the troglodyte has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
-
-## Actions
-
-***Rend.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 5 (`1d6 + 2`) Slashing damage.
+```statblock
+"name": "Troglodyte"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Chaotic Evil"
+"ac": !!int "11"
+"hp": !!int "13"
+"hit_dice": "2d8 + 4"
+"modifier": !!int "0"
+"stats":
+  - !!int "14"
+  - !!int "10"
+  - !!int "14"
+  - !!int "6"
+  - !!int "10"
+  - !!int "6"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Stealth](/Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Troglodyte"
+"cr": "1/4"
+"traits":
+  - "desc": "*Constitution Saving Throw:* DC 12, any creature (other than a troglodyte)\
+      \ that starts its turn in a 5-foot [Emanation](/Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the troglodyte. *Failure:* The target has the [Poisoned](/Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the start of its next turn. *Success:* The target is immune\
+      \ to the Stench of all troglodytes for 1 hour."
+    "name": "Stench"
+  - "desc": "While in sunlight, the troglodyte has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing damage."
+    "name": "Rend"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/troglodyte-xmm.webp"
 ```
 ^statblock
 

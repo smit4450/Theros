@@ -7,39 +7,44 @@ tags:
 - monster/cr/
 - monster/size/small
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Bestial Spirit (Air)"
 ---
 # Bestial Spirit (Air)
-*Source: Player's Handbook (2024) p. 323*  
+*Source: Player's Handbook (2024) p. 323*
 
-```ad-statblock
-title: Bestial Spirit (Air)
-*Small beast, Neutral*
-
-- **Armor Class** (11 + the spell's level)
-- **Hit Points** 20 + 5 for each spell level above 2  (20 + 5 for each spell level above 2)
-- **Speed** 30 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|11 (+0)|16 (+3)| 4 (-3)|14 (+2)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 12
-- **Languages** understands the languages you know
-- **Challenge** 
-
-## Traits
-
-***Flyby.*** The spirit doesn't provoke [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
-
-## Actions
-
-***Multiattack.*** The spirit makes a number of Rend attacks equal to half this spell's level (round down).
-
-***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 4` + the spell's level Piercing damage.
+```statblock
+"name": "Bestial Spirit (Air)"
+"size": "Small"
+"type": "beast"
+"alignment": "Neutral"
+"ac_class": "11 + the spell's level"
+"modifier": !!int "0"
+"stats":
+  - !!int "18"
+  - !!int "11"
+  - !!int "16"
+  - !!int "4"
+  - !!int "14"
+  - !!int "5"
+"speed": "30 ft., fly 60 ft."
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
+"languages": "understands the languages you know"
+"traits":
+  - "desc": "The spirit doesn't provoke [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack)\
+      \ when it flies out of an enemy's reach."
+    "name": "Flyby"
+"actions":
+  - "desc": "The spirit makes a number of Rend attacks equal to half this spell's\
+      \ level (round down)."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
+      \ ft. *Hit:* 1d8 + 4 + the spell's level Piercing damage."
+    "name": "Rend"
+"source":
+  - "XPHB"
 ```
 ^statblock

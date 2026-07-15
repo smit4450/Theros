@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/large
 - monster/type/fiend/devil
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Ice Devil"
 ---
 # Ice Devil
-*Source: Monster Manual (2024) p. 176. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 176. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/fiend/img/ice-devil.webp#right)
 
 ## Ice Devil
@@ -36,44 +38,72 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
 > Part of the charm of ice devils is that they always think they're smarter than you. Mmm—there are few pleasures sweeter than proving a devil wrong.
 
 
-```ad-statblock
-title: Ice Devil
-![](/Compendium/bestiary/fiend/token/ice-devil-xmm.webp#token)
-*Large fiend (devil), Lawful Evil*
-
-- **Armor Class** 18 
-- **Hit Points** 228 (`24d10 + 96`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)|
-
-- **Proficiency Bonus** +5
-- **Saving Throws** Dexterity +7, Constitution +9, Wisdom +7, Charisma +9
-- **Skills** [Insight](/Compendium/rules/skills.md#Insight) +7, [Perception](/Compendium/rules/skills.md#Perception) +7, [Persuasion](/Compendium/rules/skills.md#Persuasion) +9
-- **Senses** [Blindsight](/Compendium/rules/senses.md#Blindsight) 120 ft., passive Perception 17
-- **Damage Immunities** cold, fire, poison
-- **Condition Immunities** [poisoned](/Compendium/rules/conditions.md#Poisoned)
-- **Languages** Infernal; telepathy 120 ft.
-- **Challenge** 14
-
-## Traits
-
-***Diabolical Restoration.*** If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) somewhere in the Nine Hells.
-
-***Magic Resistance.*** The devil has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
-
-## Actions
-
-***Multiattack.*** The devil makes three Ice Spear attacks. It can replace one attack with a Tail attack.
-
-***Ice Spear.*** *Melee  or Ranged Attack Roll:* `+10`, reach 5 ft. or range 30/120 ft. *Hit:* 14 (`2d8 + 5`) Piercing damage plus 10 (`3d6`) Cold damage. Until the end of its next turn, the target can't take a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md) or [Reaction](/Compendium/rules/variant-rules/reaction-xphb.md), its [Speed](/Compendium/rules/variant-rules/speed-xphb.md) decreases by 10 feet, and it can move or take one action on its turn, not both. *Hit or Miss:* The spear magically returns to the devil's hand immediately after a ranged attack.
-
-***Tail.*** *Melee Attack Roll:* `+10`, reach 10 ft. *Hit:* 15 (`3d6 + 5`) Bludgeoning damage plus 18 (`4d8`) Cold damage.
-
-***Ice Wall (Recharge 6).*** The devil casts [Wall of Ice](/Compendium/spells/wall-of-ice-xphb.md) (level 8 version), requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17).
-
+```statblock
+"name": "Ice Devil"
+"size": "Large"
+"type": "fiend"
+"subtype": "devil"
+"alignment": "Lawful Evil"
+"ac": !!int "18"
+"hp": !!int "228"
+"hit_dice": "24d10 + 96"
+"modifier": !!int "7"
+"stats":
+  - !!int "21"
+  - !!int "14"
+  - !!int "18"
+  - !!int "18"
+  - !!int "15"
+  - !!int "18"
+"speed": "40 ft."
+"saves":
+  - "dexterity": !!int "7"
+  - "constitution": !!int "9"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "9"
+"skillsaves":
+  - "name": "[Insight](/Compendium/rules/skills.md#Insight)"
+    "desc": "+7"
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Persuasion](/Compendium/rules/skills.md#Persuasion)"
+    "desc": "+9"
+"damage_immunities": "cold, fire, poison"
+"condition_immunities": "[poisoned](/Compendium/rules/conditions.md#Poisoned)"
+"senses": "[Blindsight](/Compendium/rules/senses.md#Blindsight) 120 ft., passive Perception\
+  \ 17"
+"languages": "Infernal; telepathy 120 ft."
+"cr": "14"
+"traits":
+  - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
+      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Nine Hells."
+    "name": "Diabolical Restoration"
+  - "desc": "The devil has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The devil makes three Ice Spear attacks. It can replace one attack with\
+      \ a Tail attack."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +10, reach 5 ft. or range 30/120 ft.\
+      \ *Hit:* 14 (2d8 + 5) Piercing damage plus 10 (3d6) Cold damage. Until the end\
+      \ of its next turn, the target can't take a [Bonus Action](/Compendium/rules/variant-rules/bonus-action-xphb.md)\
+      \ or [Reaction](/Compendium/rules/variant-rules/reaction-xphb.md), its [Speed](/Compendium/rules/variant-rules/speed-xphb.md)\
+      \ decreases by 10 feet, and it can move or take one action on its turn, not\
+      \ both. *Hit or Miss:* The spear magically returns to the devil's hand immediately\
+      \ after a ranged attack."
+    "name": "Ice Spear"
+  - "desc": "*Melee Attack Roll:* +10, reach 10 ft. *Hit:* 15 (3d6 + 5) Bludgeoning\
+      \ damage plus 18 (4d8) Cold damage."
+    "name": "Tail"
+  - "desc": "The devil casts [Wall of Ice](/Compendium/spells/wall-of-ice-xphb.md)\
+      \ (level 8 version), requiring no spell components and using Intelligence as\
+      \ the spellcasting ability (spell save DC 17).\n"
+    "name": "Ice Wall (Recharge 6)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/fiend/token/ice-devil-xmm.webp"
 ```
 ^statblock
 

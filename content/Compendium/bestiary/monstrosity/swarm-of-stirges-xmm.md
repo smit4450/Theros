@@ -15,11 +15,13 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Swarm of Stirges"
 ---
 # Swarm of Stirges
-*Source: Monster Manual (2024) p. 299*  
+*Source: Monster Manual (2024) p. 299*
 ![](/Compendium/bestiary/monstrosity/img/stirges.webp#right)
 
 Swarms of stirges sometimes form in swamps and Underdark caverns, draining livestock and any other creatures that can't escape them.
@@ -45,35 +47,49 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 
 ## Statblock
 
-```ad-statblock
-title: Swarm of Stirges
-![](/Compendium/bestiary/monstrosity/token/swarm-of-stirges-xmm.webp#token)
-*Medium monstrosity, Unaligned*
-
-- **Armor Class** 14 
-- **Hit Points** 36 (`8d8`) 
-- **Speed** 10 ft., fly 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 4 (-3)|16 (+3)|11 (+0)| 2 (-4)| 8 (-1)| 6 (-2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [stunned](/Compendium/rules/conditions.md#Stunned)
-- **Languages** —
-- **Challenge** 2
-
-## Traits
-
-***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md) or gain [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md).
-
-## Actions
-
-***Swarm of Proboscises.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 14 (`2d10 + 3`) Piercing damage, or 8 (`1d10 + 3`) Piercing damage if the swarm is [Bloodied](/Compendium/rules/conditions.md#Bloodied). If the target is a Medium or smaller creature in the swarm's space, the target has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape DC 13). Until the grapple ends, the target takes 7 (`2d6`) Necrotic damage at the end of each of its turns.
+```statblock
+"name": "Swarm of Stirges"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "14"
+"hp": !!int "36"
+"hit_dice": "8d8"
+"modifier": !!int "3"
+"stats":
+  - !!int "4"
+  - !!int "16"
+  - !!int "11"
+  - !!int "2"
+  - !!int "8"
+  - !!int "6"
+"speed": "10 ft., fly 40 ft."
+"damage_resistances": "bludgeoning, piercing, slashing"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed), [frightened](/Compendium/rules/conditions.md#Frightened),\
+  \ [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed),\
+  \ [petrified](/Compendium/rules/conditions.md#Petrified), [prone](/Compendium/rules/conditions.md#Prone),\
+  \ [restrained](/Compendium/rules/conditions.md#Restrained), [stunned](/Compendium/rules/conditions.md#Stunned)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
+"languages": ""
+"cr": "2"
+"traits":
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny creature. The swarm\
+      \ can't regain [Hit Points](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ or gain [Temporary Hit Points](/Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+    "name": "Swarm"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 14 (2d10 + 3) Piercing damage,\
+      \ or 8 (1d10 + 3) Piercing damage if the swarm is [Bloodied](/Compendium/rules/conditions.md#Bloodied).\
+      \ If the target is a Medium or smaller creature in the swarm's space, the target\
+      \ has the [Grappled](/Compendium/rules/conditions.md#Grappled) condition (escape\
+      \ DC 13). Until the grapple ends, the target takes 7 (2d6) Necrotic damage at\
+      \ the end of each of its turns."
+    "name": "Swarm of Proboscises"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/swarm-of-stirges-xmm.webp"
 ```
 ^statblock
 

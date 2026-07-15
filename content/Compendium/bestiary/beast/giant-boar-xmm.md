@@ -10,11 +10,13 @@ tags:
 - monster/environment/hill
 - monster/size/large
 - monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Giant Boar"
 ---
 # Giant Boar
-*Source: Monster Manual (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/boar.webp#right)
 
 ## Animals
@@ -26,33 +28,41 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Giant Boar
-![](/Compendium/bestiary/beast/token/giant-boar-xmm.webp#token)
-*Large beast, Unaligned*
-
-- **Armor Class** 13 
-- **Hit Points** 42 (`5d10 + 15`) 
-- **Speed** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|10 (+0)|16 (+3)| 2 (-4)| 7 (-2)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** Strength +5
-- **Skills** ⏤
-- **Senses** passive Perception 8
-- **Languages** —
-- **Challenge** 2
-
-## Traits
-
-***Bloodied Fury.*** The boar has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on melee attack rolls while it is [Bloodied](/Compendium/rules/conditions.md#Bloodied).
-
-## Actions
-
-***Gore.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 10 (`2d6 + 3`) Piercing damage. If the target is a Large or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (`2d6`) Piercing damage and has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
+```statblock
+"name": "Giant Boar"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "13"
+"hp": !!int "42"
+"hit_dice": "5d10 + 15"
+"modifier": !!int "0"
+"stats":
+  - !!int "17"
+  - !!int "10"
+  - !!int "16"
+  - !!int "2"
+  - !!int "7"
+  - !!int "5"
+"speed": "40 ft."
+"saves":
+  - "strength": !!int "5"
+"senses": "passive Perception 8"
+"languages": ""
+"cr": "2"
+"traits":
+  - "desc": "The boar has [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on melee attack rolls while it is [Bloodied](/Compendium/rules/conditions.md#Bloodied)."
+    "name": "Bloodied Fury"
+"actions":
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Piercing damage.\
+      \ If the target is a Large or smaller creature and the boar moved 20+ feet straight\
+      \ toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing\
+      \ damage and has the [Prone](/Compendium/rules/conditions.md#Prone) condition."
+    "name": "Gore"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/beast/token/giant-boar-xmm.webp"
 ```
 ^statblock
 

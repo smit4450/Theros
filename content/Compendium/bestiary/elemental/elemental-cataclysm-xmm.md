@@ -9,11 +9,13 @@ tags:
 - monster/environment/planar
 - monster/size/gargantuan
 - monster/type/elemental/titan
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Elemental Cataclysm"
 ---
 # Elemental Cataclysm
-*Source: Monster Manual (2024) p. 111*  
+*Source: Monster Manual (2024) p. 111*
 ![](/Compendium/books/monster-manual-2025/img/elemental-cataclysm.webp#right)
 
 ## Elemental Cataclysm
@@ -43,59 +45,109 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 | 8 | Series of dramatic rock formations. |
 ^elemental-alterations
 
-```ad-statblock
-title: Elemental Cataclysm
-![](/Compendium/bestiary/elemental/token/elemental-cataclysm-xmm.webp#token)
-*Gargantuan elemental (titan), Chaotic Neutral*
-
-- **Armor Class** 20 
-- **Hit Points** 370 (`20d20 + 160`) 
-- **Speed** 60 ft., burrow 60 ft., fly 80 ft. (hover), swim 80 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|26 (+8)|19 (+4)|27 (+8)| 9 (-1)|14 (+2)| 9 (-1)|
-
-- **Proficiency Bonus** +7
-- **Saving Throws** Dexterity +11, Constitution +15, Wisdom +9, Charisma +6
-- **Skills** ⏤
-- **Senses** [Truesight](/Compendium/rules/senses.md#Truesight) 150 ft., passive Perception 12
-- **Damage Immunities** acid, cold, fire, lightning, poison, thunder
-- **Condition Immunities** [blinded](/Compendium/rules/conditions.md#Blinded), [charmed](/Compendium/rules/conditions.md#Charmed), [deafened](/Compendium/rules/conditions.md#Deafened), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [stunned](/Compendium/rules/conditions.md#Stunned), [unconscious](/Compendium/rules/conditions.md#Unconscious)
-- **Languages** Primordial
-- **Challenge** 22
-
-## Traits
-
-***Earth Glide.*** The cataclysm can burrow through nonmagical, unworked earth and stone. While doing so, the cataclysm doesn't disturb the material it moves through.
-
-***Legendary Resistance (4/Day).*** If the cataclysm fails a saving throw, it can choose to succeed instead.
-
-***Siege Monster.*** The cataclysm deals double damage to objects and structures.
-
-## Actions
-
-***Multiattack.*** The cataclysm makes two Elemental Burst attacks.
-
-***Elemental Burst.*** *Melee  or Ranged Attack Roll:* `+15`, reach 30 ft. or range 150 ft. *Hit:* 25 (`5d6 + 8`) damage of a type chosen by the cataclysm: Acid, Cold, Fire, Lightning, or Thunder.
-
-***Cataclysmic Event (Recharge 4-6).*** The cataclysm creates one of the following effects at random (roll `1d4`):
-
-- **1 Clinging Flames.** *Dexterity Saving Throw:* DC 23, each creature in a 60-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point the cataclysm can see within 150 feet. *Failure:* 45 (`13d6`) Fire damage. *Success:* Half damage. *Failure or Success:* The target starts [burning](/Compendium/traps-hazards/burning-xphb.md).  
-- **2 Freezing Waves.** *Strength Saving Throw:* DC 23, each creature in a 90-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* 22 (`5d8`) Bludgeoning damage plus 22 (`5d8`) Cold damage, and the target has the [Prone](/Compendium/rules/conditions.md#Prone) condition. *Success:* Half damage only. *Failure or Success:* The target's [Speed](/Compendium/rules/variant-rules/speed-xphb.md) is reduced to 0 until the end of its next turn.  
-- **3 Raging Storm.** A storm cloud fills a 60-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point the cataclysm can see within 150 feet. The cloud lasts for 1 minute or until the cataclysm uses Cataclysmic Event again. Creatures entirely in the cloud have the [Blinded](/Compendium/rules/conditions.md#Blinded) and [Deafened](/Compendium/rules/conditions.md#Deafened) conditions and can't cast spells with a Verbal component. *Dexterity Saving Throw:* DC 23, each creature that enters the cloud for the first time on a turn or starts its turn there. *Failure:* 18 (`4d8`) Lightning damage plus 18 (`4d8`) Thunder damage. *Success:* Half damage.  
-- **4 Swallowing Earth.** *Strength Saving Throw:* DC 23, each creature in a 90-foot [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) originating from a point on the ground within 150 feet. *Failure:* 18 (`4d8`) Bludgeoning damage plus 18 (`4d8`) Acid damage, and the target has the [Prone](/Compendium/rules/conditions.md#Prone) condition and is buried under rubble. A buried target has the [Restrained](/Compendium/rules/conditions.md#Restrained) condition, has [Total Cover](/Compendium/rules/variant-rules/cover-xphb.md), and is suffocating. As an action, a buried creature or another creature within 5 feet of it can make a DC 18 Strength ([Athletics](/Compendium/rules/skills.md#Athletics)) check. On a successful check, the creature is no longer buried. *Success:* Half damage only.  
-
-***Control Weather.*** The cataclysm casts the [Control Weather](/Compendium/spells/control-weather-xphb.md) spell, requiring no spell components and using Constitution as the spellcasting ability.
-
-
-## Legendary Actions
-
-Legendary Action Uses: 3. Immediately after another creature's turn, the elemental cataclysm can expend a use to take one of the following actions. The elemental cataclysm regains all expended uses at the start of each of its turns.
-
-***Eruption.*** The cataclysm makes one Elemental Burst attack.
-
-***Rumbling Movement.*** The cataclysm moves up to its [Speed](/Compendium/rules/variant-rules/speed-xphb.md), [Fly Speed](/Compendium/rules/variant-rules/fly-speed-xphb.md), or [Swim Speed](/Compendium/rules/variant-rules/swim-speed-xphb.md) without provoking [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack). Each creature within 5 feet of the cataclysm as it moves is targeted once by the following effect. *Constitution Saving Throw:* DC 23. *Failure:* The target has the [Prone](/Compendium/rules/conditions.md#Prone) condition. *Failure or Success:* The cataclysm can't take this action again until the start of its next turn.
+```statblock
+"name": "Elemental Cataclysm"
+"size": "Gargantuan"
+"type": "elemental"
+"subtype": "titan"
+"alignment": "Chaotic Neutral"
+"ac": !!int "20"
+"hp": !!int "370"
+"hit_dice": "20d20 + 160"
+"modifier": !!int "18"
+"stats":
+  - !!int "26"
+  - !!int "19"
+  - !!int "27"
+  - !!int "9"
+  - !!int "14"
+  - !!int "9"
+"speed": "60 ft., burrow 60 ft., fly 80 ft. (hover), swim 80 ft."
+"saves":
+  - "dexterity": !!int "11"
+  - "constitution": !!int "15"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "6"
+"damage_immunities": "acid, cold, fire, lightning, poison, thunder"
+"condition_immunities": "[blinded](/Compendium/rules/conditions.md#Blinded), [charmed](/Compendium/rules/conditions.md#Charmed),\
+  \ [deafened](/Compendium/rules/conditions.md#Deafened), [exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [frightened](/Compendium/rules/conditions.md#Frightened), [grappled](/Compendium/rules/conditions.md#Grappled),\
+  \ [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified),\
+  \ [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone),\
+  \ [restrained](/Compendium/rules/conditions.md#Restrained), [stunned](/Compendium/rules/conditions.md#Stunned),\
+  \ [unconscious](/Compendium/rules/conditions.md#Unconscious)"
+"senses": "[Truesight](/Compendium/rules/senses.md#Truesight) 150 ft., passive Perception\
+  \ 12"
+"languages": "Primordial"
+"cr": "22"
+"traits":
+  - "desc": "The cataclysm can burrow through nonmagical, unworked earth and stone.\
+      \ While doing so, the cataclysm doesn't disturb the material it moves through."
+    "name": "Earth Glide"
+  - "desc": "If the cataclysm fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (4/Day)"
+  - "desc": "The cataclysm deals double damage to objects and structures."
+    "name": "Siege Monster"
+"actions":
+  - "desc": "The cataclysm makes two Elemental Burst attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +15, reach 30 ft. or range 150 ft. *Hit:*\
+      \ 25 (5d6 + 8) damage of a type chosen by the cataclysm: Acid, Cold, Fire, Lightning,\
+      \ or Thunder."
+    "name": "Elemental Burst"
+  - "desc": "The cataclysm creates one of the following effects at random (roll 1d4):\n\
+      \n- **1 Clinging Flames.** *Dexterity Saving Throw:* DC 23, each creature in\
+      \ a 60-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ centered on a point the cataclysm can see within 150 feet. *Failure:* 45 (13d6)\
+      \ Fire damage. *Success:* Half damage. *Failure or Success:* The target starts\
+      \ [burning](/Compendium/traps-hazards/burning-xphb.md).  \n- **2 Freezing Waves.**\
+      \ *Strength Saving Throw:* DC 23, each creature in a 90-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 22 (5d8) Bludgeoning damage plus 22 (5d8) Cold damage, and the\
+      \ target has the [Prone](/Compendium/rules/conditions.md#Prone) condition. *Success:*\
+      \ Half damage only. *Failure or Success:* The target's [Speed](/Compendium/rules/variant-rules/speed-xphb.md)\
+      \ is reduced to 0 until the end of its next turn.  \n- **3 Raging Storm.** A\
+      \ storm cloud fills a 60-foot-radius [Sphere](/Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ centered on a point the cataclysm can see within 150 feet. The cloud lasts\
+      \ for 1 minute or until the cataclysm uses Cataclysmic Event again. Creatures\
+      \ entirely in the cloud have the [Blinded](/Compendium/rules/conditions.md#Blinded)\
+      \ and [Deafened](/Compendium/rules/conditions.md#Deafened) conditions and can't\
+      \ cast spells with a Verbal component. *Dexterity Saving Throw:* DC 23, each\
+      \ creature that enters the cloud for the first time on a turn or starts its\
+      \ turn there. *Failure:* 18 (4d8) Lightning damage plus 18 (4d8) Thunder damage.\
+      \ *Success:* Half damage.  \n- **4 Swallowing Earth.** *Strength Saving Throw:*\
+      \ DC 23, each creature in a 90-foot [Cube](/Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)\
+      \ originating from a point on the ground within 150 feet. *Failure:* 18 (4d8)\
+      \ Bludgeoning damage plus 18 (4d8) Acid damage, and the target has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition and is buried under rubble. A buried target has the [Restrained](/Compendium/rules/conditions.md#Restrained)\
+      \ condition, has [Total Cover](/Compendium/rules/variant-rules/cover-xphb.md),\
+      \ and is suffocating. As an action, a buried creature or another creature within\
+      \ 5 feet of it can make a DC 18 Strength ([Athletics](/Compendium/rules/skills.md#Athletics))\
+      \ check. On a successful check, the creature is no longer buried. *Success:*\
+      \ Half damage only.  "
+    "name": "Cataclysmic Event (Recharge 4-6)"
+  - "desc": "The cataclysm casts the [Control Weather](/Compendium/spells/control-weather-xphb.md)\
+      \ spell, requiring no spell components and using Constitution as the spellcasting\
+      \ ability.\n"
+    "name": "Control Weather"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the elemental cataclysm can expend a use to take one of the following actions.\
+  \ The elemental cataclysm regains all expended uses at the start of each of its\
+  \ turns."
+"legendary_actions":
+  - "desc": "The cataclysm makes one Elemental Burst attack."
+    "name": "Eruption"
+  - "desc": "The cataclysm moves up to its [Speed](/Compendium/rules/variant-rules/speed-xphb.md),\
+      \ [Fly Speed](/Compendium/rules/variant-rules/fly-speed-xphb.md), or [Swim Speed](/Compendium/rules/variant-rules/swim-speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](/Compendium/rules/actions.md#Opportunity%20Attack).\
+      \ Each creature within 5 feet of the cataclysm as it moves is targeted once\
+      \ by the following effect. *Constitution Saving Throw:* DC 23. *Failure:* The\
+      \ target has the [Prone](/Compendium/rules/conditions.md#Prone) condition. *Failure\
+      \ or Success:* The cataclysm can't take this action again until the start of\
+      \ its next turn."
+    "name": "Rumbling Movement"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/elemental/token/elemental-cataclysm-xmm.webp"
 ```
 ^statblock
 

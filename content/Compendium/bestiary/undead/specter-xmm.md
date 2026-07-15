@@ -9,11 +9,13 @@ tags:
 - monster/environment/urban
 - monster/size/medium
 - monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Specter"
 ---
 # Specter
-*Source: Monster Manual (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/books/monster-manual-2025/img/specter.webp#right)
 
 ## Specter
@@ -41,38 +43,51 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 | 8 | The site of a disaster or mass death. |
 ^specter-haunts
 
-```ad-statblock
-title: Specter
-![](/Compendium/bestiary/undead/token/specter-xmm.webp#token)
-*Medium undead, Chaotic Evil*
-
-- **Armor Class** 12 
-- **Hit Points** 22 (`5d8`) 
-- **Speed** 30 ft., fly 50 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Damage Resistances** acid, bludgeoning, cold, fire, lightning, piercing, slashing, thunder
-- **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion), [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed), [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned), [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained), [unconscious](/Compendium/rules/conditions.md#Unconscious)
-- **Languages** understands Common plus one other language but can't speak
-- **Challenge** 1
-
-## Traits
-
-***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md). It takes 5 (`1d10`) Force damage if it ends its turn inside an object.
-
-***Sunlight Sensitivity.*** While in sunlight, the specter has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
-
-## Actions
-
-***Life Drain.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 7 (`2d6`) Necrotic damage. If the target is a creature, its [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md) maximum decreases by an amount equal to the damage taken.
+```statblock
+"name": "Specter"
+"size": "Medium"
+"type": "undead"
+"alignment": "Chaotic Evil"
+"ac": !!int "12"
+"hp": !!int "22"
+"hit_dice": "5d8"
+"modifier": !!int "2"
+"stats":
+  - !!int "1"
+  - !!int "14"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "11"
+"speed": "30 ft., fly 50 ft. (hover)"
+"damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
+  \ thunder"
+"damage_immunities": "necrotic, poison"
+"condition_immunities": "[charmed](/Compendium/rules/conditions.md#Charmed), [exhaustion](/Compendium/rules/conditions.md#Exhaustion),\
+  \ [grappled](/Compendium/rules/conditions.md#Grappled), [paralyzed](/Compendium/rules/conditions.md#Paralyzed),\
+  \ [petrified](/Compendium/rules/conditions.md#Petrified), [poisoned](/Compendium/rules/conditions.md#Poisoned),\
+  \ [prone](/Compendium/rules/conditions.md#Prone), [restrained](/Compendium/rules/conditions.md#Restrained),\
+  \ [unconscious](/Compendium/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "understands Common plus one other language but can't speak"
+"cr": "1"
+"traits":
+  - "desc": "The specter can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](/Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+  - "desc": "While in sunlight, the specter has [Disadvantage](/Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d6) Necrotic damage.\
+      \ If the target is a creature, its [Hit Point](/Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by an amount equal to the damage taken."
+    "name": "Life Drain"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/undead/token/specter-xmm.webp"
 ```
 ^statblock
 

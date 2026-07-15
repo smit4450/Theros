@@ -10,11 +10,13 @@ tags:
 - monster/environment/mountain
 - monster/size/large
 - monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Chimera"
 ---
 # Chimera
-*Source: Monster Manual (2024) p. 70. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 70. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/monstrosity/img/chimera.webp#right)
 
 ## Chimera
@@ -28,37 +30,50 @@ Violent and unpredictable, chimeras combine the deadliest traits of lions, rams,
 
 Owing to their draconic instincts, chimeras are greedy creatures that hoard treasures within cavernous lairs. They're undiscerning about what they collect, gathering shiny objects alongside trophies and bones from their recent kills. Brave souls seeking to distract or temporarily appease a chimera can do so by offering it treasure and food.
 
-```ad-statblock
-title: Chimera
-![](/Compendium/bestiary/monstrosity/token/chimera-xmm.webp#token)
-*Large monstrosity, Chaotic Evil*
-
-- **Armor Class** 14 
-- **Hit Points** 114 (`12d10 + 48`) 
-- **Speed** 30 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|11 (+0)|19 (+4)| 3 (-4)|14 (+2)|10 (+0)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** [Perception](/Compendium/rules/skills.md#Perception) +8
-- **Senses** [Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception 18
-- **Languages** understands Draconic but can't speak
-- **Challenge** 6
-
-## Actions
-
-***Multiattack.*** The chimera makes one Ram attack, one Bite attack, and one Claw attack. It can replace the Claw attack with a use of Fire Breath if available.
-
-***Bite.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 11 (`2d6 + 4`) Piercing damage, or 18 (`4d6 + 4`) Piercing damage if the chimera had [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md) on the attack roll.
-
-***Claw.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 7 (`1d6 + 4`) Slashing damage.
-
-***Ram.*** *Melee Attack Roll:* `+7`, reach 5 ft. *Hit:* 10 (`1d12 + 4`) Bludgeoning damage. If the target is a Medium or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
-
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 15, each creature in a 15-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* 31 (`7d8`) Fire damage. *Success:* Half damage.
+```statblock
+"name": "Chimera"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Chaotic Evil"
+"ac": !!int "14"
+"hp": !!int "114"
+"hit_dice": "12d10 + 48"
+"modifier": !!int "0"
+"stats":
+  - !!int "19"
+  - !!int "11"
+  - !!int "19"
+  - !!int "3"
+  - !!int "14"
+  - !!int "10"
+"speed": "30 ft., fly 60 ft."
+"skillsaves":
+  - "name": "[Perception](/Compendium/rules/skills.md#Perception)"
+    "desc": "+8"
+"senses": "[Darkvision](/Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 18"
+"languages": "understands Draconic but can't speak"
+"cr": "6"
+"actions":
+  - "desc": "The chimera makes one Ram attack, one Bite attack, and one Claw attack.\
+      \ It can replace the Claw attack with a use of Fire Breath if available."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing damage,\
+      \ or 18 (4d6 + 4) Piercing damage if the chimera had [Advantage](/Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on the attack roll."
+    "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Slashing damage."
+    "name": "Claw"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 10 (1d12 + 4) Bludgeoning\
+      \ damage. If the target is a Medium or smaller creature, it has the [Prone](/Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Ram"
+  - "desc": "*Dexterity Saving Throw:* DC 15, each creature in a 15-foot [Cone](/Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 31 (7d8) Fire damage. *Success:* Half damage."
+    "name": "Fire Breath (Recharge 5-6)"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/monstrosity/token/chimera-xmm.webp"
 ```
 ^statblock
 

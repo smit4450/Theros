@@ -8,11 +8,13 @@ tags:
 - monster/environment/grassland
 - monster/size/huge
 - monster/type/beast/dinosaur
+statblock: inline
+statblock-link: "#^statblock"
 aliases:
 - "Triceratops"
 ---
 # Triceratops
-*Source: Monster Manual (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 ![](/Compendium/bestiary/beast/img/triceratops.webp#right)
 
 ## Animals
@@ -24,31 +26,38 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Aquatic animals swim alongside a druid exploring the sea](/Compendium/bestiary/beast/img/animals-aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](/Compendium/bestiary/beast/img/animals-rainforest.webp)
 
-```ad-statblock
-title: Triceratops
-![](/Compendium/bestiary/beast/token/triceratops-xmm.webp#token)
-*Huge beast (dinosaur), Unaligned*
-
-- **Armor Class** 14 
-- **Hit Points** 114 (`12d12 + 36`) 
-- **Speed** 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|22 (+6)| 9 (-1)|17 (+3)| 2 (-4)|11 (+0)| 5 (-3)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Languages** —
-- **Challenge** 5
-
-## Actions
-
-***Multiattack.*** The triceratops makes two Gore attacks.
-
-***Gore.*** *Melee Attack Roll:* `+9`, reach 5 ft. *Hit:* 19 (`2d12 + 6`) Piercing damage. If the target is Huge or smaller and the triceratops moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (`2d8`) Piercing damage and has the [Prone](/Compendium/rules/conditions.md#Prone) condition.
+```statblock
+"name": "Triceratops"
+"size": "Huge"
+"type": "beast"
+"subtype": "dinosaur"
+"alignment": "Unaligned"
+"ac": !!int "14"
+"hp": !!int "114"
+"hit_dice": "12d12 + 36"
+"modifier": !!int "-1"
+"stats":
+  - !!int "22"
+  - !!int "9"
+  - !!int "17"
+  - !!int "2"
+  - !!int "11"
+  - !!int "5"
+"speed": "50 ft."
+"senses": "passive Perception 10"
+"languages": ""
+"cr": "5"
+"actions":
+  - "desc": "The triceratops makes two Gore attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 19 (2d12 + 6) Piercing damage.\
+      \ If the target is Huge or smaller and the triceratops moved 20+ feet straight\
+      \ toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing\
+      \ damage and has the [Prone](/Compendium/rules/conditions.md#Prone) condition."
+    "name": "Gore"
+"source":
+  - "XMM"
+"image": "/Compendium/bestiary/beast/token/triceratops-xmm.webp"
 ```
 ^statblock
 
